@@ -2,6 +2,7 @@
 import citec.correlation.core.yaml.ParseYaml;
 import citec.correlation.core.YamlWorking;
 import java.io.IOException;
+import org.junit.Ignore;
 import org.junit.Test;
 
 /*
@@ -19,7 +20,7 @@ public class YamlWorkingTest {
     private String fileName = dir + "dictionary.yml";
     
 
-    @Test
+    @Ignore
     public void testYaml() throws IOException {
         YamlWorking yamlWorking = new YamlWorking();
          ParseYaml parseYaml = new ParseYaml(fileName);
