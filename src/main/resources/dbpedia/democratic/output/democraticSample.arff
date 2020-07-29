@@ -1,0 +1,11 @@
+@relation democratic_symbolic
+@attribute 'entities' {'%22Big%22_Donnie_MacLeod', '%C3%81d%C3%A1m_K%C3%B3sa', '%C3%81gnes_Hankiss'} 
+@attribute 'dc:description' {American, Australian, British, Canadian, Indian, NoValue}
+@attribute 'dbo:party' {Democratic_Party_(United_States), NoValue}
+@attribute 'dbo:country' {United_Kingdom, NoValue}
+@attribute 'rdf:type' {dbo:Agent, dbo:Person, dbo:Politician, schema:Person, foaf:Person, NoValue}
+@attribute 'democratic' {true, false}
+@data
+'%22Big%22_Donnie_MacLeod',NoValue,NoValue,NoValue,dbo:Politician,false
+'%C3%81d%C3%A1m_K%C3%B3sa',NoValue,NoValue,NoValue,dbo:Politician,false
+'%C3%81gnes_Hankiss',NoValue,NoValue,NoValue,foaf:Person,false

@@ -17,7 +17,7 @@ import java.util.Set;
  *
  * @author elahi
  */
-public class MakeArff {
+public class MakeArffTable {
 
     /*
 @attribute entity {sunny, overcast, rainy}
@@ -38,7 +38,7 @@ public class MakeArff {
     private final String attributes;
     private final String content;
 
-    public MakeArff(Map<String, DBpediaEntity> entityTable, Map<String, List<String>> propertyList, String fileName) {
+    public MakeArffTable(Map<String, DBpediaEntity> entityTable, Map<String, List<String>> propertyList, String fileName) {
         this.arffFileName = fileName;
         this.heading = this.getHeading();
         this.content = this.getContent(entityTable);
@@ -83,20 +83,20 @@ public class MakeArff {
         Integer index=0;
         
         for (String entity : entityTable.keySet()) {
-             index=index+1;
-             /*if(index==5){
+            index = index + 1;
+            /*if(index==5){
                 break;
             }*/
-             System.out.println(index);
             DBpediaEntity dbpediaEntity = entityTable.get(entity);
             Map<String, String> properties = dbpediaEntity.getProperties();
-            String prop_description = NO_VALUE ;
-            String prop_party = NO_VALUE ;
-            String prop_country = NO_VALUE ;
-            String prop_type = NO_VALUE ;
+            String prop_description = NO_VALUE;
+            String prop_party = NO_VALUE;
+            String prop_country = NO_VALUE;
+            String prop_type = NO_VALUE;
+            //System.out.println(properties.keySet());
 
             if (properties.containsKey(DC_DESCRIPTION)) {
-                prop_description =  properties.get(DC_DESCRIPTION).replace("\"", "");
+                prop_description = properties.get(DC_DESCRIPTION).replace("\"", "");
             }
             if (properties.containsKey(DBO_PARTY)) {
                 prop_party = properties.get(DBO_PARTY).replace("\"", "");
@@ -110,20 +110,24 @@ public class MakeArff {
             /*if(prop_description.contains(NO_VALUE)&&prop_country.contains(NO_VALUE)){
                 
             }*/
-            if (!prop_description.contains(NO_VALUE)&&!prop_country.contains(NO_VALUE)) {
+            if (!prop_description.contains(NO_VALUE) && !prop_country.contains(NO_VALUE)) {
                 String line = dbpediaEntity.getEntityIndex() + "," + prop_description + ","
                         + prop_party + "," + prop_country + ","
-                        + prop_type  + ","  + dbpediaEntity.getDemocraticWord().toString();
+                        + prop_type + "," + dbpediaEntity.getDemocraticWord().toString();
                 content += line + "\n";
-            } else if(dbpediaEntity.getDemocraticWord()){
+            } else if (dbpediaEntity.getDemocraticWord()) {
                 String line = dbpediaEntity.getEntityIndex() + "," + prop_description + ","
                         + prop_party + "," + prop_country + ","
-                        + prop_type  + "," + dbpediaEntity.getDemocraticWord().toString();
+                        + prop_type + "," + dbpediaEntity.getDemocraticWord().toString();
                 Endcontent += line + "\n";
             }
-           entities.put(dbpediaEntity.getEntityIndex(), entity);
+            entities.put(dbpediaEntity.getEntityIndex(), entity);
         }
+        
+        
         content += Endcontent;
+        
+        
         return content;
     }
 

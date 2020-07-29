@@ -5,7 +5,7 @@
  */
 package citec.correlation.core.wikipedia;
 
-import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -13,12 +13,13 @@ import java.util.Map;
  *
  * @author elahi
  */
-public class Abstract {
+public class DBAbstract {
 
-    private String text = null;
-    private List<String> sentences = new ArrayList<String>();
+    private final String text;
+    private final List<String> sentences;
+    private Map<String, Boolean> wordExists=new HashMap<String, Boolean>();
 
-    public Abstract(String text, List<String> sentences) {
+    public DBAbstract(String text, List<String> sentences) {
         this.text = text;
         this.sentences = sentences;
     }
@@ -29,6 +30,10 @@ public class Abstract {
 
     public List<String> getSentences() {
         return sentences;
+    }
+
+    public Map<String, Boolean> getWordExists() {
+        return wordExists;
     }
 
 }
