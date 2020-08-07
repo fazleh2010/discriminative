@@ -1,5 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
+ * To change this license header, choose License Headers in Project PropertyConst.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -12,25 +12,29 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import citec.correlation.main.PropertyConst;
 
 /**
  *
  * @author elahi
  */
-public class MakeArffTable {
+public class MakeArffTable implements PropertyConst{
 
+    private static final String ENTITIES = "entities";
     /*
 @attribute entity {sunny, overcast, rainy}
 @attribute predicate1 {hot, mild, cool}
 @attribute object1 {high, normal}
 @attribute democratic {true, false}
+    
+  
      */
-    private static final String ENTITIES = "entities";
+    /*private static final String ENTITIES = "entities";
     private static final String DBP_SHORT_DESCRIPTION = "dbp:shortDescription";
     private static final String DC_DESCRIPTION = "dc:description";
     private static final String DBO_PARTY = "dbo:party";
     private static final String DBO_COUNTRY = "dbo:country";
-    private static final String RDF_TYPE = "rdf:type";
+    private static final String RDF_TYPE = "rdf:type";*/
     private static final String NO_VALUE ="NoValue";
     private Map<String,String> entities=new HashMap<String,String>();
     private final String arffFileName;

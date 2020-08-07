@@ -1,5 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
+ * To change this license header, choose License Headers in Project PropertyConst.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -9,17 +9,17 @@ import citec.correlation.core.wikipedia.Property;
 import citec.correlation.core.wikipedia.DBpediaEntity;
 import citec.correlation.core.weka.MakeArffTable;
 import static citec.correlation.core.Constants.UNICODE;
-import citec.correlation.core.json.DemocraticDataUnit;
+import citec.correlation.core.sparql.CurlSparqlQuery;
 import citec.correlation.core.yaml.ParseYaml;
-import citec.correlation.main.EvaluationMain;
 import citec.correlation.utils.StringWrap;
-import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import edu.stanford.nlp.tagger.maxent.MaxentTagger;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
@@ -31,94 +31,104 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.apache.commons.io.IOUtils;
 
 /**
  *
  * @author elahi
  */
-public class WekaMain {
+public class WekaMain implements PropertyConst {
 
     private static String dbpediaDir = "src/main/resources/dbpedia/";
-    private static String democraticInput = "democratic/input/";
-    private static String democraticOutput = "democratic/output/";
-    private static String inputJsonFile = dbpediaDir + democraticInput + "results-100000000-1000-concretePO.json";
-    private static String inputWordFile = dbpediaDir + democraticInput + "politicians_with_democratic.yml";
-    private static String outputArff = dbpediaDir + democraticOutput + "democratic.arff";
-    private Map<String, List<String>> propertyList = new TreeMap<String, List<String>>();
+    private static String input = "democratic/input/";
+    private static String output = "democratic/output/";
+    private static String inputJsonFile = dbpediaDir + input + "results-100000000-1000-concretePO.json";
+    private static String inputWordFile = dbpediaDir + input + "politicians_with_democratic.yml";
+    private static String outputArff = dbpediaDir + output + "democratic.arff";
+    private static Set<String> freqClasses = new HashSet<String>();
+    private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
 
     public static void main(String[] args) throws IOException, Exception {
         WekaMain trainingTable = new WekaMain();
         MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
     }
 
-    private MakeArffTable createArffTrainingTable(String democraticJSON, String democraticWordFile, String democraticArff) throws FileNotFoundException, IOException {
-        Map<String, Boolean> entityWordPresence = getWordPresence(democraticWordFile);
-        Map<String, List<String>> propertyEntities = getPropertyEntities(democraticJSON);
-        Map<String, DBpediaEntity> entityTable = getEntityTable(propertyEntities, entityWordPresence);
-        for(String entity:entityTable.keySet()){
+    private MakeArffTable createArffTrainingTable(String entitiesPropertyFile, String wordPresenseFile, String democraticArff) throws FileNotFoundException, IOException, Exception {
+        freqClasses.add("dbo:Politician");
+        DbpediaClass dbpediaClass = new DbpediaClass("dbo:Politician", entitiesPropertyFile,TextAnalyzer.POS_TAGGER);
+        //PropertyExtraction propertyExtraction=new PropertyExtraction(dbpediaClass.getAllEntities(),TextAnalyzer.POS_TAGGER);
+        
+            for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
+               Property property = new Property(propertyString);
+            if (property.getPredicate().contains(DBO_PARTY)) {
+                Set<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
+                System.out.println(property);
+                System.out.println(entities.size());
+                PropertyExtraction propertyExtraction=new PropertyExtraction(entities,TextAnalyzer.POS_TAGGER);
+                //this.display(propertyExtraction.getDbpediaEntities());
+                    /*if (propertyExtraction.getEntittyTable().containsKey(key)) {
+                        DBpediaEntity dbpediaEntity = propertyExtraction.getEntittyTable().get(key);
+                        System.out.print(dbpediaEntity);
+                    }*/
+            }
+        }
+        
+        // Map<String, Boolean> entityWordPresence = checkWordPresence(wordPresenseFile);
+        
+       
+        
+          /*for (String propertyString : DbpediaClass.getPropertyEntities().keySet()) {
+               String tableName=DbpediaClass.getClassName()+"_"+new Property(propertyString).getPredicate();
+               this.createTable(DbpediaClass.getPropertyEntities());
+          }*/
+        
+        /*Map<String, Boolean> entityWordPresence = checkWordPresence(wordPresenseFile);
+        for (String propertyString : DbpediaClass.getPropertyEntities().keySet()) {
+            Property property = new Property(propertyString);
+            if (property.getPredicate().contains(DBO_PARTY)) {
+                List<String> entities = DbpediaClass.getPropertyEntities().get(propertyString);
+                Map<String, List<String>> propertyEntities = new HashMap<String, List<String>>();
+                propertyEntities.put(propertyString, entities);
+                Map<String, DBpediaEntity> entityTable = getEntityTable(propertyEntities, entityWordPresence);
+                for (String key : entityTable.keySet()) {
+                    DBpediaEntity dbpediaEntity = entityTable.get(key);
+                    CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(dbpediaEntity.getEntityUrl());
+                    if (curlSparqlQuery.getText() != null) {
+                        Analyzer analyzer = new Analyzer(curlSparqlQuery.getText(), TextAnalyzer.POS_TAGGER);
+                        System.out.println(analyzer);
+                    }
+
+                }
+            }
+        }*/
+
+        /*for(String entity:entityTable.keySet()){
             DBpediaEntity dbpediaEntity=entityTable.get(entity);
             System.out.println("DBpedia entity:"+dbpediaEntity);
-        }
+        }*/
         //return new MakeArffTable(entityTable, propertyList, democraticArff);
         return null;
     }
-
-    private Map<String, Boolean> getWordPresence(String democraticWordFile) throws IOException {
+    
+     /*private void setProperties(Set<String> keySet, String POS_TAGGER) throws Exception {
+        List<DBpediaEntity> dbpediaEntities = new ArrayList<DBpediaEntity>();
+        for (String entityString : keySet) {
+            String entityUrl = DBpediaEntity.getEntityUrl(entityString);
+            String sparqlQuery = CurlSparqlQuery.setSparqlQueryProperty(entityUrl);
+            CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery);
+            DBpediaEntity dbpediaEntity = new DBpediaEntity(entityString, curlSparqlQuery.getProperties(), POS_TAGGER);
+            dbpediaEntities.add(dbpediaEntity);
+            break;
+        }
+    }*/
+    
+    private Map<String, Boolean> checkWordPresence(String democraticWordFile) throws IOException {
         ParseYaml parseYaml = new ParseYaml();
         return parseYaml.yamlDemocratic(democraticWordFile);
     }
 
-    private Map<String, List<String>> getPropertyEntities(String democraticJSON) throws FileNotFoundException, IOException {
-        Map<String, List<String>> propertyEntities = new HashMap<String, List<String>>();
-        InputStream inputStream = new FileInputStream(democraticJSON);
-        ObjectMapper mapper = new ObjectMapper();
-        mapper.configure(JsonParser.Feature.ALLOW_UNQUOTED_FIELD_NAMES, true);
-        String jsonString = IOUtils.toString(inputStream, UNICODE);
-        ArrayList<LinkedHashMap<String, Object>> list = mapper.readValue(jsonString, ArrayList.class);
-
-        for (LinkedHashMap<String, Object> democraticDataUnit : list) {
-            String propertyString = null;
-            List<String> entities = new ArrayList<String>();
-            for (String key : democraticDataUnit.keySet()) {
-                if (key.contains("number_of_variables")) {
-                    String value = (String) democraticDataUnit.get(key);
-                }
-                if (key.contains("triple_pattern")) {
-                    propertyString = (String) democraticDataUnit.get(key);
-                    //System.out.println("value:"+propertyString);
-                }
-                if (key.contains("entities")) {
-                    LinkedHashMap<String, String> value = (LinkedHashMap<String, String>) democraticDataUnit.get(key);
-                    entities = new ArrayList(value.keySet());
-                    //System.out.println("entities:"+entities);
-                }
-            }
-            propertyEntities.put(propertyString, entities);
-            Property property = new Property(propertyString);
-            String propertyAtt = property.getPredicate();
-            String propertyValue = property.getObject();
-
-            List<String> properties = new ArrayList<String>();
-            if (propertyList.containsKey(propertyAtt)) {
-                properties = propertyList.get(propertyAtt);
-                properties.add(propertyValue);
-                propertyList.put(propertyAtt, properties);
-
-            } else {
-                properties.add(propertyValue);
-                propertyList.put(propertyAtt, properties);
-            }
-
-        }
-        return propertyEntities;
-    }
-
     private Map<String, DBpediaEntity> getEntityTable(Map<String, List<String>> propertyEntities, Map<String, Boolean> entityWordPresence) {
         Map<String, DBpediaEntity> entityTable = new TreeMap<String, DBpediaEntity>();
-        // System.out.println("test:"+entityWordPresence.keySet());
         for (String propertyString : propertyEntities.keySet()) {
             List<String> entities = propertyEntities.get(propertyString);
             Property property = new Property(propertyString);
@@ -143,6 +153,16 @@ public class WekaMain {
             }
         }
         return entityTable;
+    }
+
+    private void createTable(Map<String, List<DBpediaEntity>> propertyEntities) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    private void display(List<DBpediaEntity> dbpediaEntities) {
+        for(DBpediaEntity dbpediaEntity:dbpediaEntities){
+            System.out.println(dbpediaEntity);
+        }
     }
 
 }

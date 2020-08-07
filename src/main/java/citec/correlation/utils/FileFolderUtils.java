@@ -30,12 +30,26 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.io.filefilter.WildcardFileFilter;
+import java.io.BufferedInputStream;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipInputStream;
 
 /**
  *
  * @author elahi
  */
 public class FileFolderUtils {
+    
+    private static String folder="src/main/resources/dbpedia/democratic/input.zip";
+
+    public static void main(String a[]) {
+
+        FileFolderUtils mfe = new FileFolderUtils();
+        mfe.printFileList(folder);
+    }
 
     public static void createDirectory(String location) throws IOException {
         Path location_path = Paths.get(location);
@@ -96,28 +110,30 @@ public class FileFolderUtils {
     }
 
     public static void listToFiles(List<String> list, String fileName) {
-        String str="";
-        Integer number=-1,index=0;
+        String str = "";
+        Integer number = -1, index = 0;
         for (String element : list) {
-            if(element.contains("http")) {
-              index++;
-              String line = element+"\n";
-              str+=line; 
-              if(index==number)
-                  break;
+            if (element.contains("http")) {
+                index++;
+                String line = element + "\n";
+                str += line;
+                if (index == number) {
+                    break;
+                }
             }
-           
+
         }
         try {
-                BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
-                System.out.println(str);
-                writer.write(str);
-                writer.close();
-            } catch (IOException ex) {
-                Logger.getLogger(FileFolderUtils.class.getName()).log(Level.SEVERE, null, ex);
-            }
-        
+            BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
+            System.out.println(str);
+            writer.write(str);
+            writer.close();
+        } catch (IOException ex) {
+            Logger.getLogger(FileFolderUtils.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
     }
+
     public static void stringToFiles(String str, String fileName) {
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
@@ -127,6 +143,27 @@ public class FileFolderUtils {
             Logger.getLogger(FileFolderUtils.class.getName()).log(Level.SEVERE, null, ex);
         }
 
+    }
+
+    public void printFileList(String filePath) {
+
+        FileInputStream fis = null;
+        ZipInputStream zipIs = null;
+        ZipEntry zEntry = null;
+        try {
+            fis = new FileInputStream(filePath);
+            zipIs = new ZipInputStream(new BufferedInputStream(fis));
+            while ((zEntry = zipIs.getNextEntry()) != null) {
+                System.out.println(zEntry.getName());
+            }
+            zipIs.close();
+        } catch (FileNotFoundException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
     }
 
 }

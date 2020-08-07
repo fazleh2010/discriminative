@@ -111,7 +111,6 @@ public class ParseYaml {
             } else if (valueStr.contains("1")) {
                 democratWord.put(key, Boolean.FALSE);
             }
-           
         }
         return democratWord;
     }
