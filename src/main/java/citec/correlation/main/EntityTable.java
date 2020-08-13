@@ -18,11 +18,12 @@ import java.util.TreeMap;
  *
  * @author elahi
  */
-public class PropertyExtraction {
+public class EntityTable {
 
     private List<DBpediaEntity> dbpediaEntities = new ArrayList<DBpediaEntity>();
-
-    public PropertyExtraction(Set<String> keySet, String POS_TAGGER) throws Exception {
+    private String tableName=null;
+    public EntityTable(String tableName,Set<String> keySet, String POS_TAGGER) throws Exception {
+        this.tableName=tableName;
         this.setProperties(keySet, POS_TAGGER);
     }
 
@@ -80,6 +81,8 @@ public class PropertyExtraction {
         return dbpediaEntities;
     }
 
-   
+    public String getTableName() {
+        return tableName;
+    }   
 
 }

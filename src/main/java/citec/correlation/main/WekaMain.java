@@ -8,31 +8,16 @@ package citec.correlation.main;
 import citec.correlation.core.wikipedia.Property;
 import citec.correlation.core.wikipedia.DBpediaEntity;
 import citec.correlation.core.weka.MakeArffTable;
-import static citec.correlation.core.Constants.UNICODE;
-import citec.correlation.core.sparql.CurlSparqlQuery;
 import citec.correlation.core.yaml.ParseYaml;
-import citec.correlation.utils.StringWrap;
-import com.fasterxml.jackson.core.JsonParser;
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.JsonMappingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import edu.stanford.nlp.tagger.maxent.MaxentTagger;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-import org.apache.commons.io.IOUtils;
-
+import java.util.TreeSet;
 /**
  *
  * @author elahi
@@ -55,23 +40,18 @@ public class WekaMain implements PropertyConst {
 
     private MakeArffTable createArffTrainingTable(String entitiesPropertyFile, String wordPresenseFile, String democraticArff) throws FileNotFoundException, IOException, Exception {
         freqClasses.add("dbo:Politician");
-        DbpediaClass dbpediaClass = new DbpediaClass("dbo:Politician", entitiesPropertyFile,TextAnalyzer.POS_TAGGER);
-        //PropertyExtraction propertyExtraction=new PropertyExtraction(dbpediaClass.getAllEntities(),TextAnalyzer.POS_TAGGER);
-        
-            for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
-               Property property = new Property(propertyString);
+        DbpediaClass dbpediaClass = new DbpediaClass("dbo:Politician", entitiesPropertyFile, TextAnalyzer.POS_TAGGER);
+        Set<EntityTable> entityTables = new TreeSet<EntityTable>();
+        for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
+            Property property = new Property(propertyString);
+            Set<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
             if (property.getPredicate().contains(DBO_PARTY)) {
-                Set<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
-                System.out.println(property);
-                System.out.println(entities.size());
-                PropertyExtraction propertyExtraction=new PropertyExtraction(entities,TextAnalyzer.POS_TAGGER);
-                //this.display(propertyExtraction.getDbpediaEntities());
-                    /*if (propertyExtraction.getEntittyTable().containsKey(key)) {
-                        DBpediaEntity dbpediaEntity = propertyExtraction.getEntittyTable().get(key);
-                        System.out.print(dbpediaEntity);
-                    }*/
+                EntityTable entityTable = new EntityTable(dbpediaClass.getClassName() + "_" + DBO_PARTY, entities, TextAnalyzer.POS_TAGGER);
+                entityTables.add(entityTable);
             }
         }
+
+        this.writeInTable(entityTables);
         
         // Map<String, Boolean> entityWordPresence = checkWordPresence(wordPresenseFile);
         
@@ -163,6 +143,10 @@ public class WekaMain implements PropertyConst {
         for(DBpediaEntity dbpediaEntity:dbpediaEntities){
             System.out.println(dbpediaEntity);
         }
+    }
+
+    private void writeInTable(Set<EntityTable> entityTables) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
 }

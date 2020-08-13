@@ -151,13 +151,17 @@ public class CurlSparqlQuery {
    
 
     private boolean istProperty(String string) {
+        boolean flag=false;
         if (string.contains("http://dbpedia.org/ontology/")
                 || string.contains("http://dbpedia.org/property/")
                 || string.contains("http://dbpedia.org/resource/")) {
-            return true;
+            flag= true;
+        }
+        if (string.contains("http://dbpedia.org/ontology/wiki")){
+            flag= false;
         }
 
-        return false;
+        return flag;
     }
 
     public Map<String, String> getProperties() {
