@@ -5,10 +5,12 @@
  */
 package citec.correlation.main;
 
+import citec.correlation.core.mysql.MySQLAccess;
 import citec.correlation.core.wikipedia.Property;
 import citec.correlation.core.wikipedia.DBpediaEntity;
 import citec.correlation.core.weka.MakeArffTable;
 import citec.correlation.core.yaml.ParseYaml;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.HashMap;
@@ -32,6 +34,10 @@ public class WekaMain implements PropertyConst {
     private static String outputArff = dbpediaDir + output + "democratic.arff";
     private static Set<String> freqClasses = new HashSet<String>();
     private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
+    
+    private void writeInTable(Set<EntityTable> entityTables) throws Exception {
+        MySQLAccess mySQLAccess=new MySQLAccess();
+    }
 
     public static void main(String[] args) throws IOException, Exception {
         WekaMain trainingTable = new WekaMain();
@@ -39,6 +45,8 @@ public class WekaMain implements PropertyConst {
     }
 
     private MakeArffTable createArffTrainingTable(String entitiesPropertyFile, String wordPresenseFile, String democraticArff) throws FileNotFoundException, IOException, Exception {
+        
+        
         freqClasses.add("dbo:Politician");
         DbpediaClass dbpediaClass = new DbpediaClass("dbo:Politician", entitiesPropertyFile, TextAnalyzer.POS_TAGGER);
         Set<EntityTable> entityTables = new TreeSet<EntityTable>();
@@ -50,8 +58,12 @@ public class WekaMain implements PropertyConst {
                 entityTables.add(entityTable);
             }
         }
+         
+        //Set<EntityTable> entityTables=new HashSet<EntityTable>();
+        //this.writeInTable(entityTables);
 
-        this.writeInTable(entityTables);
+       
+
         
         // Map<String, Boolean> entityWordPresence = checkWordPresence(wordPresenseFile);
         
@@ -145,8 +157,6 @@ public class WekaMain implements PropertyConst {
         }
     }
 
-    private void writeInTable(Set<EntityTable> entityTables) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
+    
 
 }
