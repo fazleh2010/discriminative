@@ -5,8 +5,8 @@
  */
 package citec.correlation.core.wikipedia;
 
-import citec.correlation.main.Analyzer;
-import citec.correlation.main.TextAnalyzer;
+import citec.correlation.core.analyzer.Analyzer;
+import citec.correlation.core.analyzer.TextAnalyzer;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;

@@ -5,6 +5,7 @@
  */
 package citec.correlation.main;
 
+import citec.correlation.core.wikipedia.EvaluationMain;
 import citec.correlation.core.wikipedia.Ngram;
 import static citec.correlation.core.Constants.UNICODE;
 import citec.correlation.core.yaml.ParseYaml;

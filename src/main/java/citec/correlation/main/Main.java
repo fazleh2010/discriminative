@@ -5,6 +5,10 @@
  */
 package citec.correlation.main;
 
+import citec.correlation.core.wikipedia.PropertyConst;
+import citec.correlation.core.wikipedia.DbpediaClass;
+import citec.correlation.core.wikipedia.EntityTable;
+import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.core.mysql.MySQLAccess;
 import citec.correlation.core.wikipedia.Property;
 import citec.correlation.core.wikipedia.DBpediaEntity;
@@ -24,7 +28,7 @@ import java.util.TreeSet;
  *
  * @author elahi
  */
-public class WekaMain implements PropertyConst {
+public class Main implements PropertyConst {
 
     private static String dbpediaDir = "src/main/resources/dbpedia/";
     private static String input = "democratic/input/";
@@ -40,7 +44,7 @@ public class WekaMain implements PropertyConst {
     }
 
     public static void main(String[] args) throws IOException, Exception {
-        WekaMain trainingTable = new WekaMain();
+        Main trainingTable = new Main();
         MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
     }
 

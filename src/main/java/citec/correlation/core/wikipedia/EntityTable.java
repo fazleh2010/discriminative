@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.main;
+package citec.correlation.core.wikipedia;
 
 import citec.correlation.core.sparql.CurlSparqlQuery;
 import citec.correlation.core.wikipedia.DBpediaEntity;

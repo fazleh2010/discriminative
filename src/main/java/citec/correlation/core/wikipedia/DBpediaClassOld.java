@@ -12,12 +12,12 @@ import java.util.TreeSet;
  *
  * @author elahi
  */
-public class DBpediaClass {
+public class DBpediaClassOld {
 
     private String className = null;
     private Set<String> frequentPatterns = new TreeSet<String>();
 
-    public DBpediaClass(String dbpediaClassName) {
+    public DBpediaClassOld(String dbpediaClassName) {
         this.className = dbpediaClassName;
     }
 

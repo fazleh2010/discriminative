@@ -1,6 +1,6 @@
 package citec.correlation.utils;
 
-import citec.correlation.main.TextAnalyzer;
+import citec.correlation.core.analyzer.TextAnalyzer;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;

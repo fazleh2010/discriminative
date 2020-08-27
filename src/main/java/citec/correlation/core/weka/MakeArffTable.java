@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import citec.correlation.main.PropertyConst;
+import citec.correlation.core.wikipedia.PropertyConst;
 
 /**
  *

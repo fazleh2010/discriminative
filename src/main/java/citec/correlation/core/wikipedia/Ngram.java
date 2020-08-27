@@ -6,7 +6,7 @@
 package citec.correlation.core.wikipedia;
 
 import citec.correlation.core.wikipedia.DBpediaEntity;
-import citec.correlation.core.wikipedia.DBpediaClass;
+import citec.correlation.core.wikipedia.DBpediaClassOld;
 import java.util.ArrayList;
 import java.util.List;
 /**
@@ -16,13 +16,13 @@ import java.util.List;
 public class Ngram {
 
     private final String nGramString;
-    private final DBpediaClass dbpediaClass;
+    private final DBpediaClassOld dbpediaClass;
     private final List<DBpediaEntity> dbpediaEntities;
 
     public Ngram(String key, List<String> entities) {
         String[] nGramSplit = key.split("_");
         this.nGramString = nGramSplit[0].replace("%2F", "/");
-        this.dbpediaClass = new DBpediaClass(nGramSplit[1].replace("dbo%3A", ""));
+        this.dbpediaClass = new DBpediaClassOld(nGramSplit[1].replace("dbo%3A", ""));
         this.dbpediaEntities = this.setEntities(entities);
     }
 
