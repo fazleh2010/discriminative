@@ -8,11 +8,11 @@
     "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
     "dbo:deathDate" : [ "1935-12-24" ],
     "dbo:party" : [ "http://dbpedia.org/resource/Labor_Party_(UK)" ],
-    "dbp:after" : [ "John Bromley and George Hicks" ],
-    "dbp:before" : [ "Charlie Cramp and Alonzo Swales" ],
-    "dbp:title" : [ "Member of Parliament for Forest of Dean" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Alonzo_Swales", "http://dbpedia.org/resource/Walter_Citrine", "John Bromley and George Hicks" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Joe_Williams_(trade_unionist)", "http://dbpedia.org/resource/J._H._Thomas", "Charlie Cramp and Alonzo Swales" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/President_of_the_Trades_Union_Congress", "Member of Parliament for Coventry", "Trades Union Congress representative to the American Federation of Labour", "President of the International Federation of Trade Unions", "Member of Parliament for Forest of Dean" ],
     "dbp:with" : [ "http://dbpedia.org/resource/Ben_Smith_(Labour_politician)" ],
-    "dbp:years" : [ "1925" ]
+    "dbp:years" : [ "1923", "1924", "1925" ]
   },
   "senetences" : [ {
     "JJ_1" : [ "British", "unionist" ],
@@ -73,11 +73,11 @@
   "properties" : {
     "dbo:activeYearsEndDate" : [ "1935-11-14" ],
     "dbo:activeYearsStartDate" : [ "1931-10-27" ],
-    "dbo:birthDate" : [ "1887-8-17" ],
+    "dbo:birthDate" : [ "1888-08-17", "1887-8-17" ],
     "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
-    "dbo:deathDate" : [ "1957-1-6" ],
-    "dbo:office" : [ "forBishop Auckland" ],
-    "dbo:party" : [ "http://dbpedia.org/resource/National_Liberal_Party_(UK,_1931)" ],
+    "dbo:deathDate" : [ "1957-01-06", "1957-1-6" ],
+    "dbo:office" : [ "Member of Parliament", "forBishop Auckland" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Liberal_Party_(UK)", "http://dbpedia.org/resource/National_Liberal_Party_(UK,_1931)" ],
     "dbo:successor" : [ "http://dbpedia.org/resource/Hugh_Dalton" ],
     "dbp:after" : [ "http://dbpedia.org/resource/Hugh_Dalton" ],
     "dbp:before" : [ "http://dbpedia.org/resource/Hugh_Dalton" ],
@@ -167,8 +167,8 @@
   "properties" : {
     "dbo:birthDate" : [ "1908-11-11" ],
     "dbo:deathDate" : [ "1991-4-9" ],
-    "dbp:title" : [ "Member of Parliament for Dunfermline Burghs" ],
-    "dbp:years" : [ "Feb 1974&ndash;1979" ]
+    "dbp:title" : [ "Member of Parliament for Dunfermline", "Member of Parliament for Dunfermline Burghs" ],
+    "dbp:years" : [ "1964", "Feb 1974&ndash;1979" ]
   },
   "senetences" : [ {
     "JJ_1" : [ "British" ],
@@ -228,12 +228,12 @@
     "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/1911_Dr_Adam_Rainy.jpg?width=300" ],
     "dbp:after" : [ "http://dbpedia.org/resource/William_Glynne_Charles_Gladstone" ],
     "dbp:before" : [ "http://dbpedia.org/resource/John_McAusland_Denny" ],
-    "dbp:candidate" : [ "Adam Rolland Rainy" ],
-    "dbp:change" : [ "+10.6" ],
-    "dbp:party" : [ "Liberal Party" ],
-    "dbp:percentage" : [ "61.1" ],
+    "dbp:candidate" : [ "http://dbpedia.org/resource/John_McAusland_Denny", "http://dbpedia.org/resource/John_James_Bell", "James Buyers Black", "Thomas W McIntyre", "Adam Rolland Rainy" ],
+    "dbp:change" : [ "-10.6", "-2.1", "-0.2", "+0.2", "+2.1", "+10.6" ],
+    "dbp:party" : [ "Conservative Party", "Liberal Party" ],
+    "dbp:percentage" : [ "38.9", "39.1", "41", "48.4", "51.6", "59", "60.9", "61.1" ],
     "dbp:title" : [ "Member of Parliament for Kilmarnock Burghs" ],
-    "dbp:votes" : [ "8937" ],
+    "dbp:votes" : [ "5569", "5692", "5701", "5743", "6073", "8268", "8657", "8937" ],
     "dbp:years" : [ "1906" ]
   },
   "senetences" : [ {
@@ -257,10 +257,10 @@
     "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
     "dbo:deathDate" : [ "1885-11-4" ],
     "dbo:party" : [ "http://dbpedia.org/resource/Liberal_Party_(UK)" ],
-    "dbp:alongside" : [ "http://dbpedia.org/resource/John_Dunmore_Lang" ],
-    "dbp:title" : [ "Member for Port Phillip" ],
+    "dbp:alongside" : [ "http://dbpedia.org/resource/Charles_Nicholson", "http://dbpedia.org/resource/Thomas_Mitchell_(explorer)", "http://dbpedia.org/resource/Thomas_Walker_(philanthropist)", "http://dbpedia.org/resource/John_Dunmore_Lang" ],
+    "dbp:title" : [ "Member of Parliament for Great Yarmouth", "Member of Parliament for Helston", "Member for Port Phillip" ],
     "dbp:with" : [ "http://dbpedia.org/resource/John_Mellor_(judge)" ],
-    "dbp:years" : [ "1868" ]
+    "dbp:years" : [ "1844", "1857", "1865", "1868" ]
   },
   "senetences" : [ {
     "JJ_1" : [ "English", "Legislative" ],
@@ -290,7 +290,7 @@
     "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
     "dbo:deathDate" : [ "1889-9-19" ],
     "dbo:party" : [ "http://dbpedia.org/resource/Liberal_Party_(UK)" ],
-    "dbp:before" : [ "http://dbpedia.org/resource/John_Derby_Allcroft" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Thomas_Rowley_Hill", "http://dbpedia.org/resource/John_Derby_Allcroft" ],
     "dbp:title" : [ "Member of Parliament for Worcester" ],
     "dbp:with" : [ "http://dbpedia.org/resource/Thomas_Rowley_Hill" ],
     "dbp:years" : [ "1880" ]

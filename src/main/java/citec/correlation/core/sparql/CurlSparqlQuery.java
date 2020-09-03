@@ -5,8 +5,9 @@
  */
 package citec.correlation.core.sparql;
 
-
+import citec.correlation.core.weka.MakeArffTable;
 import citec.correlation.core.wikipedia.Property;
+import citec.correlation.main.TableMain;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -34,21 +35,20 @@ import java.util.logging.Logger;
 /**
  *
  * @author elahi
- * //https://stackoverflow.com/questions/13356534/how-to-read-xml-child-node-values-by-using-a-loop-in-java
- * //https://howtodoinjava.com/xml/read-xml-dom-parser-example/
  */
 public class CurlSparqlQuery {
 
     private static String endpoint = "https://dbpedia.org/sparql";
     //private String text = null;
-    private Map<String,List<String>> properties= new TreeMap<String,List<String>> ();
+    private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
     public Map<String, String> prefixesIncluded = new HashMap<String, String>();
     public Set<String> prefixesExcluded = new HashSet<String>();
-
 
     public CurlSparqlQuery(String sparqlQuery) {
         prefixesIncluded.put("http://dbpedia.org/ontology/", "dbo:");
         prefixesIncluded.put("http://dbpedia.org/property/", "dbp:");
+        prefixesIncluded.put("http://dbpedia.org/resource", "dbr:");
+
         prefixesExcluded.add("dbo:abstract");
         String resultSparql = executeSparqlQuery(sparqlQuery);
         parseResult(resultSparql);
@@ -127,24 +127,34 @@ public class CurlSparqlQuery {
                 Node childNode = childList.item(j);
                 if ("result".equals(childNode.getNodeName())) {
                     String string = childList.item(j).getTextContent().trim();
+
                     String[] infos = string.split("\n");
                     //List<String> wordList = Arrays.asList(infos);
+                    /*for(String word:wordList){
+                        System.out.println("word:"+word);
+                    }*/
+                    //System.out.println("word:"+wordList);
                     String propertyAttibute = null, predicate = null, value = null;
                     //for (String http : wordList) {
-                        if (this.istProperty(string)) {
-                            propertyAttibute = infos[0];
-                            propertyAttibute =isSelectedProperties(propertyAttibute);
-                            if(propertyAttibute!=null){
-                                value=infos[1].trim();
-                                //value = value.replaceAll("\\s+","").trim();
-                                //System.out.println(string);
-                                List<String> propertyValue=new ArrayList<String>();
-                                propertyValue.add(value);
-                                properties.put(propertyAttibute, propertyValue); 
+
+                    if (this.istProperty(string)) {
+                        propertyAttibute = infos[0];
+                        propertyAttibute = isSelectedProperties(propertyAttibute);
+                        if (propertyAttibute != null) {
+                            value = infos[1].trim();
+                            List<String> propertyValues = new ArrayList<String>();
+                            if (properties.containsKey(propertyAttibute)) {
+                                propertyValues = properties.get(propertyAttibute);
+                                propertyValues.add(value);
+                            } else {
+                                propertyValues.add(value);
+                                properties.put(propertyAttibute, propertyValues);
                             }
-                           
-                        } 
-                       
+
+                        }
+
+                    }
+
                     //}
                 }
             }
@@ -167,17 +177,15 @@ public class CurlSparqlQuery {
             }
         }
     }*/
-   
-
     private boolean istProperty(String string) {
-        boolean flag=false;
+        boolean flag = false;
         if (string.contains("http://dbpedia.org/ontology/")
                 || string.contains("http://dbpedia.org/property/")
                 || string.contains("http://dbpedia.org/resource/")) {
-            flag= true;
+            flag = true;
         }
-        if (string.contains("http://dbpedia.org/ontology/wiki")){
-            flag= false;
+        if (string.contains("http://dbpedia.org/ontology/wiki")) {
+            flag = false;
         }
 
         return flag;
@@ -186,7 +194,7 @@ public class CurlSparqlQuery {
     public Map<String, List<String>> getProperties() {
         return properties;
     }
-    
+
     private static String setSparqlText(String entityUrl) {
         return "select str(?text) as ?text\n"
                 + "    {\n"
@@ -210,7 +218,7 @@ public class CurlSparqlQuery {
                 property = property.replace(property, prefixesIncluded.get(propType)) + lastString;
                 return property;
                 //if(!prefixesExcluded.toString().contains(property))
-               /* if (!property.contains("dbo:abstract")) {
+                /* if (!property.contains("dbo:abstract")) {
                    return property;
                  }*/
             }
@@ -224,6 +232,18 @@ public class CurlSparqlQuery {
             return null;
         }
         return subject = subject.substring(index + 1);
+    }
+    
+    public static void main(String[] args) throws IOException, Exception {
+        String sparqlQuery = "select  ?p ?o\n"
+                + "    {\n"
+                + "    <http://dbpedia.org/resource/A._A._Purcell> ?p   ?o\n"
+                + "    }";
+        CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery);
+        for (String property : curlSparqlQuery.getProperties().keySet()) {
+            System.out.println(property);
+            System.out.println(curlSparqlQuery.getProperties().get(property));
+        }
     }
 
 }

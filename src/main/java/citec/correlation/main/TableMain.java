@@ -49,69 +49,28 @@ public class TableMain implements PropertyConst {
     }
 
     private MakeArffTable createArffTrainingTable(String entitiesPropertyFile, String wordPresenseFile, String democraticArff) throws FileNotFoundException, IOException, Exception {
-     
         freqClasses.add("dbo:Politician");
         DbpediaClass dbpediaClass = new DbpediaClass("dbo:Politician", entitiesPropertyFile, TextAnalyzer.POS_TAGGER);
         Set<EntityTable> entityTables = new TreeSet<EntityTable>();
         for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
             Property property = new Property(propertyString);
             Set<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
-            String checkProperty=DBO_COUNTRY;
+            String checkProperty = DBO_COUNTRY;
             if (property.getPredicate().contains(checkProperty)) {
-                 //System.out.println("..."+property.getPredicate());
-                 EntityTable entityTable = new EntityTable(dbpediaDir,dbpediaClass.getClassName(),checkProperty, entities, TextAnalyzer.POS_TAGGER);
-                 //entityTables.add(entityTable);
-                
+                //System.out.println("..."+property.getPredicate());
+                EntityTable entityTable = new EntityTable(dbpediaDir, dbpediaClass.getClassName(), checkProperty, entities, TextAnalyzer.POS_TAGGER);
+                //entityTables.add(entityTable);
+
             }
-            
+
         }
+        
+        //http://dbpedia.org/page/Akshay_Kumar
+        
         //MySQLAccess mySQLAccess=new MySQLAccess();
-        //Set<EntityTable> entityTables=new HashSet<EntityTable>();
-        //this.writeInTable(entityTables);
-        // Map<String, Boolean> entityWordPresence = checkWordPresence(wordPresenseFile);
-        /*for (String propertyString : DbpediaClass.getPropertyEntities().keySet()) {
-               String tableName=DbpediaClass.getClassName()+"_"+new Property(propertyString).getPredicate();
-               this.createTable(DbpediaClass.getPropertyEntities());
-          }*/
- /*Map<String, Boolean> entityWordPresence = checkWordPresence(wordPresenseFile);
-        for (String propertyString : DbpediaClass.getPropertyEntities().keySet()) {
-            Property property = new Property(propertyString);
-            if (property.getPredicate().contains(DBO_PARTY)) {
-                List<String> entities = DbpediaClass.getPropertyEntities().get(propertyString);
-                Map<String, List<String>> propertyEntities = new HashMap<String, List<String>>();
-                propertyEntities.put(propertyString, entities);
-                Map<String, DBpediaEntity> entityTable = getEntityTable(propertyEntities, entityWordPresence);
-                for (String key : entityTable.keySet()) {
-                    DBpediaEntity dbpediaEntity = entityTable.get(key);
-                    CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(dbpediaEntity.getEntityUrl());
-                    if (curlSparqlQuery.getText() != null) {
-                        Analyzer analyzer = new Analyzer(curlSparqlQuery.getText(), TextAnalyzer.POS_TAGGER);
-                        System.out.println(analyzer);
-                    }
-
-                }
-            }
-        }*/
-
- /*for(String entity:entityTable.keySet()){
-            DBpediaEntity dbpediaEntity=entityTable.get(entity);
-            System.out.println("DBpedia entity:"+dbpediaEntity);
-        }*/
-        //return new MakeArffTable(entityTable, propertyList, democraticArff);
         return null;
     }
 
-    /*private void setProperties(Set<String> keySet, String POS_TAGGER) throws Exception {
-        List<DBpediaEntity> dbpediaEntities = new ArrayList<DBpediaEntity>();
-        for (String entityString : keySet) {
-            String entityUrl = DBpediaEntity.getEntityUrl(entityString);
-            String sparqlQuery = CurlSparqlQuery.setSparqlQueryProperty(entityUrl);
-            CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery);
-            DBpediaEntity dbpediaEntity = new DBpediaEntity(entityString, curlSparqlQuery.getProperties(), POS_TAGGER);
-            dbpediaEntities.add(dbpediaEntity);
-            break;
-        }
-    }*/
     private Map<String, Boolean> checkWordPresence(String democraticWordFile) throws IOException {
         ParseYaml parseYaml = new ParseYaml();
         return parseYaml.yamlDemocratic(democraticWordFile);
@@ -158,7 +117,5 @@ public class TableMain implements PropertyConst {
             System.out.println(dbpediaEntity);
         }
     }
-
-   
 
 }
