@@ -6,15 +6,18 @@
 package citec.correlation.core.wikipedia;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.TreeMap;
 
 /**
  *
  * @author elahi
  */
-public class Property {
+public class Property implements PropertyConst {
 
     private String propertyString = null;
     private String subject = null;
@@ -22,6 +25,15 @@ public class Property {
     private String object = null;
     private static Map<String, List<String>> propertyList = new TreeMap<String, List<String>>();
     public static Map<String, String> prefix_definitions = new TreeMap<String, String>();
+
+    public static Map<String, String> prefixesIncluded = new HashMap<String, String>();
+    public static Set<String> prefixesExcluded = new HashSet<String>();
+
+    static {
+        prefixesIncluded.put("http://dbpedia.org/ontology/", "dbo:");
+        prefixesIncluded.put("http://dbpedia.org/property/", "dbp:");
+        prefixesIncluded.put("http://dbpedia.org/resource", "dbr:");
+    }
 
     static {
         prefix_definitions.put("http://dbpedia.org/ontology/", "dbo");
@@ -34,17 +46,6 @@ public class Property {
         prefix_definitions.put("http://www.w3.org/2002/07/owl#", "owl");
     }
 
-    /*http://psink.de/scio/: scio
-    http://purl.org/dc/elements/1.1/: dc
-    http://schema.org/: schema
-    http://scio/data/: sciodata
-    http://wikiba.se/ontology#: wikibase
-    http://www.example.org/: ex
-    http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#: odp
-    http://www.w3.org/1999/02/22-rdf-syntax-ns#: rdf
-    http://www.w3.org/2000/01/rdf-schema#: rdfs
-    http://www.w3.org/2001/XMLSchema#: xsd
-    http://www.w3.org/2002/07/owl#: owl*/
     public Property(String propertyString) {
         this.propertyString = propertyString;
         String[] words = propertyString.split(" ");
@@ -81,9 +82,9 @@ public class Property {
     public String getObject() {
         return object;
     }
-    
-    public  List<String> getObjectList() {
-        List<String> propertyValues=new ArrayList<String>();
+
+    public List<String> getObjectList() {
+        List<String> propertyValues = new ArrayList<String>();
         propertyValues.add(object);
         return propertyValues;
     }

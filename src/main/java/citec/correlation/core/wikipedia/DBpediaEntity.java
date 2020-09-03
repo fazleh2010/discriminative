@@ -38,12 +38,12 @@ public class DBpediaEntity {
         this.entityUrl = this.getEntityUrl(this.entityString);
         index = index + 1;
         this.entityIndex = PREFIX + (index);
-        this.text=this.getText(properties);
+        this.text=this.getText(properties,Property.DBO_ABSTRACT);
         if (this.text != null) {
             senetences=new Analyzer(this.text, POS_TAGGER,5).getSenetences();
         }
         this.properties = properties;
-        this.properties.remove("dbo:abstract");
+        this.properties.remove(Property.DBO_ABSTRACT);
 
     }
 
@@ -132,8 +132,12 @@ public class DBpediaEntity {
         return text;
     }
 
-    private String getText(Map<String, List<String>> properties) {
-        return properties.get("dbo:abstract").iterator().next();
+    private String getText(Map<String, List<String>> properties,String property) {
+        try {
+            return properties.get(property).iterator().next();
+        } catch (NullPointerException e) {
+            return "";
+        }
     }
 
     public String getDboClass() {

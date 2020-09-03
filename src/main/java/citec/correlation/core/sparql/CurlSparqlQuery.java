@@ -41,15 +41,15 @@ public class CurlSparqlQuery {
     private static String endpoint = "https://dbpedia.org/sparql";
     //private String text = null;
     private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
-    public Map<String, String> prefixesIncluded = new HashMap<String, String>();
+    //public Map<String, String> prefixesIncluded = new HashMap<String, String>();
     public Set<String> prefixesExcluded = new HashSet<String>();
 
     public CurlSparqlQuery(String sparqlQuery) {
-        prefixesIncluded.put("http://dbpedia.org/ontology/", "dbo:");
+        /*prefixesIncluded.put("http://dbpedia.org/ontology/", "dbo:");
         prefixesIncluded.put("http://dbpedia.org/property/", "dbp:");
-        prefixesIncluded.put("http://dbpedia.org/resource", "dbr:");
+        prefixesIncluded.put("http://dbpedia.org/resource", "dbr:");*/
 
-        prefixesExcluded.add("dbo:abstract");
+        prefixesExcluded.add(Property.DBO_ABSTRACT);
         String resultSparql = executeSparqlQuery(sparqlQuery);
         parseResult(resultSparql);
     }
@@ -212,10 +212,10 @@ public class CurlSparqlQuery {
     }
 
     private String isSelectedProperties(String property) {
-        for (String propType : prefixesIncluded.keySet()) {
+        for (String propType : Property.prefixesIncluded.keySet()) {
             if (property.contains(propType)) {
                 String lastString = getLastString(property, '/');
-                property = property.replace(property, prefixesIncluded.get(propType)) + lastString;
+                property = property.replace(property, Property.prefixesIncluded.get(propType)) + lastString;
                 return property;
                 //if(!prefixesExcluded.toString().contains(property))
                 /* if (!property.contains("dbo:abstract")) {

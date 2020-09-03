@@ -55,7 +55,7 @@ public class TableMain implements PropertyConst {
         for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
             Property property = new Property(propertyString);
             Set<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
-            String checkProperty = DBO_COUNTRY;
+            String checkProperty = DBO_PARTY;
             if (property.getPredicate().contains(checkProperty)) {
                 //System.out.println("..."+property.getPredicate());
                 EntityTable entityTable = new EntityTable(dbpediaDir, dbpediaClass.getClassName(), checkProperty, entities, TextAnalyzer.POS_TAGGER);
