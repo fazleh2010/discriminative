@@ -7,13 +7,9 @@ package citec.correlation.main;
 
 import citec.correlation.core.wikipedia.EvaluationMain;
 import citec.correlation.core.wikipedia.Ngram;
-import static citec.correlation.core.Constants.UNICODE;
 import citec.correlation.core.yaml.ParseYaml;
-import citec.correlation.core.json.DataSet;
-import citec.correlation.core.json.DataUnit;
 import citec.correlation.core.json.DemocraticDataUnit;
 import citec.correlation.utils.FileFolderUtils;
-import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.FileInputStream;
@@ -22,13 +18,11 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import org.apache.commons.io.IOUtils;
 
 /**
  *

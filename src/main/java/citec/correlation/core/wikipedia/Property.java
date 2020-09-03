@@ -5,6 +5,7 @@
  */
 package citec.correlation.core.wikipedia;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
@@ -79,6 +80,12 @@ public class Property {
 
     public String getObject() {
         return object;
+    }
+    
+    public  List<String> getObjectList() {
+        List<String> propertyValues=new ArrayList<String>();
+        propertyValues.add(object);
+        return propertyValues;
     }
 
     public static Map<String, List<String>> getPropertyList() {

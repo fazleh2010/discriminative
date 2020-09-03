@@ -6,16 +6,14 @@
 package citec.correlation.core.wikipedia;
 
 import citec.correlation.core.sparql.CurlSparqlQuery;
-import citec.correlation.core.wikipedia.DBpediaEntity;
-import citec.correlation.core.wikipedia.Property;
+import static citec.correlation.core.wikipedia.PropertyConst.DBO_PARTY;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import java.io.File;
+import com.fasterxml.jackson.databind.SerializationFeature;
+import java.io.IOException;
+import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
-import java.util.TreeMap;
 
 /**
  *
@@ -24,61 +22,45 @@ import java.util.TreeMap;
 public class EntityTable {
 
     private List<DBpediaEntity> dbpediaEntities = new ArrayList<DBpediaEntity>();
-    private String tableName=null;
-    public EntityTable(String tableName,Set<String> keySet, String POS_TAGGER) throws Exception {
-        this.tableName=tableName;
-        this.setProperties(keySet, POS_TAGGER);
+    private String tableName;
+
+    public EntityTable(String dbpediaDir,String freqClass, String freqProp,Set<String> keySet, String POS_TAGGER) throws Exception {
+        this.tableName=dbpediaDir+freqClass + "_" + freqProp;
+        this.setProperties(keySet, POS_TAGGER,freqClass);
+        this.convertToJson(dbpediaEntities, tableName);
     }
 
-    private void setProperties(Set<String> keySet, String POS_TAGGER) throws Exception {
-        Integer index=0;
+    private void setProperties(Set<String> keySet, String POS_TAGGER,String freqClass) throws Exception {
+        Integer index = 0;
         for (String entityString : keySet) {
             String entityUrl = DBpediaEntity.getEntityUrl(entityString);
             String sparqlQuery = CurlSparqlQuery.setSparqlQueryProperty(entityUrl);
             CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery);
-            DBpediaEntity dbpediaEntity = new DBpediaEntity(entityString, curlSparqlQuery.getProperties(), POS_TAGGER);
+            DBpediaEntity dbpediaEntity = new DBpediaEntity(freqClass,entityString, curlSparqlQuery.getProperties(), POS_TAGGER);
             dbpediaEntities.add(dbpediaEntity);
-            System.out.println(dbpediaEntity);
-            //entittyTable.put(entityString, dbpediaEntity);
+            System.out.println(dbpediaEntity.getEntityUrl());
+
             index++;
-            //if(index==10)
-             //   break;
-        }
-    }
 
-    /*private void setAnalysis(Set<String> keySet, String POS_TAGGER) throws Exception {
-        List<DBpediaEntity> dbpediaEntities = new ArrayList<DBpediaEntity>();
-        for (String entityString : keySet) {
-            String entityUrl = DBpediaEntity.getEntityUrl(entityString);
-            String sparqlQuery = this.setSparqlText(entityUrl);
-            CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery);
-            if (curlSparqlQuery.getText() != null) {
-                Analyzer textAnalyzer = new Analyzer(curlSparqlQuery.getText(), POS_TAGGER);
-                DBpediaEntity dbpediaEntity = new DBpediaEntity(entityString, textAnalyzer);
-                dbpediaEntities.add(dbpediaEntity);
-                entittyTable.put(entityString, textAnalyzer);
-                System.out.println(dbpediaEntity);
+            if (index == 10) {
+                break;
             }
-            break;
         }
     }
-   
 
-    private String setSparqlText(String entityUrl) {
-        return "select str(?text) as ?text\n"
-                + "    {\n"
-                + "    " + entityUrl + "dbo:abstract  ?text \n"
-                + "    FILTER (lang(?text) = 'en')\n"
-                + "    }";
+    private void convertToJson(List<DBpediaEntity> dbpediaEntities, String filename) throws IOException {
+        ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
+        mapper.writeValue(Paths.get(filename+".json").toFile(), dbpediaEntities);
+
     }
 
-    private String setSparqlQueryProperty(String entityUrl) {
-        return "select  ?p ?o\n"
-                + "    {\n"
-                + "    " + entityUrl + " ?p   ?o\n"
-                + "    }";
+    public void setDbpediaEntities(List<DBpediaEntity> dbpediaEntities) {
+        this.dbpediaEntities = dbpediaEntities;
+    }
 
-    }*/
+    public void setTableName(String tableName) {
+        this.tableName = tableName;
+    }
 
     public List<DBpediaEntity> getDbpediaEntities() {
         return dbpediaEntities;
@@ -86,6 +68,6 @@ public class EntityTable {
 
     public String getTableName() {
         return tableName;
-    }   
+    }
 
 }

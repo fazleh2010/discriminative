@@ -6,9 +6,9 @@
 package citec.correlation.core.wikipedia;
 
 import citec.correlation.core.analyzer.Analyzer;
-import citec.correlation.core.analyzer.TextAnalyzer;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -22,21 +22,28 @@ public class DBpediaEntity {
 
     private final static String PREFIX = "entity";
     private static Integer index = 0;
-    private final String entityString;
-    private final String entityUrl;
     private final String entityIndex;
+    private final String entityUrl;
+    private final String entityString;
+    private  String dboClass;
+    private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
+    private List<HashMap<String,Set<String>>> senetences=new ArrayList<HashMap<String,Set<String>>>();
+    private String text=null;
+    @JsonIgnore
     private Boolean democraticWord;
-    private Map<String, String> properties = new TreeMap<String, String>();
-    private Analyzer textAnalyzer = null;
 
-    public DBpediaEntity(String entityString, Map<String, String> properties, String POS_TAGGER) throws Exception {
+    public DBpediaEntity(String dboClass,String entityString, Map<String, List<String>> properties, String POS_TAGGER) throws Exception {
+        this.dboClass=dboClass;
         this.entityString = entityString;
         this.entityUrl = this.getEntityUrl(this.entityString);
         index = index + 1;
         this.entityIndex = PREFIX + (index);
-        if(this.getText(properties)!=null)
-          this.textAnalyzer = new Analyzer(this.getText(properties), POS_TAGGER);
+        this.text=this.getText(properties);
+        if (this.text != null) {
+            senetences=new Analyzer(this.text, POS_TAGGER,5).getSenetences();
+        }
         this.properties = properties;
+        this.properties.remove("dbo:abstract");
 
     }
 
@@ -45,11 +52,10 @@ public class DBpediaEntity {
         this.entityUrl = this.getEntityUrl(this.entityString);
         index = index + 1;
         this.entityIndex = PREFIX + (index);
-        this.textAnalyzer = textAnalyzer;
 
     }
 
-    public DBpediaEntity(String entityString, Boolean democraticWord, Map<String, String> properties) {
+    public DBpediaEntity(String entityString, Boolean democraticWord, Map<String, List<String>> properties) {
         this.entityString = entityString;
         index = index + 1;
         this.entityIndex = PREFIX + (index);
@@ -85,7 +91,7 @@ public class DBpediaEntity {
         return democraticWord;
     }
 
-    public Map<String, String> getProperties() {
+    public Map<String, List<String>> getProperties() {
         return properties;
     }
 
@@ -93,7 +99,7 @@ public class DBpediaEntity {
         return entityIndex;
     }
 
-    @Override
+    /*@Override
     public String toString() {
         String start = entityString + " " + democraticWord + "\n";
         String line="";
@@ -105,9 +111,8 @@ public class DBpediaEntity {
         }
         start += line;
         return start;
-    }
-
-    public void setProperties(Map<String, String> properties) {
+    }*/
+    public void setProperties(Map<String, List<String>> properties) {
         this.properties = properties;
     }
 
@@ -115,16 +120,24 @@ public class DBpediaEntity {
         return entityUrl;
     }
 
-    public Analyzer getTextAnalyzer() {
-        return textAnalyzer;
+    public List<HashMap<String, Set<String>>> getSenetences() {
+        return senetences;
     }
 
     public static String getEntityUrl(String entityString) {
         return "<http://dbpedia.org/resource/" + entityString + ">";
     }
 
-    private String getText(Map<String, String> properties) {
-        return properties.get("http://dbpedia.org/ontology/abstract");
+    public String getText() {
+        return text;
+    }
+
+    private String getText(Map<String, List<String>> properties) {
+        return properties.get("dbo:abstract").iterator().next();
+    }
+
+    public String getDboClass() {
+        return dboClass;
     }
 
 }

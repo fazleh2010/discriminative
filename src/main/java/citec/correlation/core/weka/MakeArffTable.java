@@ -92,7 +92,9 @@ public class MakeArffTable implements PropertyConst{
                 break;
             }*/
             DBpediaEntity dbpediaEntity = entityTable.get(entity);
-            Map<String, String> properties = dbpediaEntity.getProperties();
+            //old code...........
+            //Map<String, String> properties = dbpediaEntity.getProperties();
+            Map<String, List<String>> properties = dbpediaEntity.getProperties();
             String prop_description = NO_VALUE;
             String prop_party = NO_VALUE;
             String prop_country = NO_VALUE;
@@ -100,16 +102,24 @@ public class MakeArffTable implements PropertyConst{
             //System.out.println(properties.keySet());
 
             if (properties.containsKey(DC_DESCRIPTION)) {
-                prop_description = properties.get(DC_DESCRIPTION).replace("\"", "");
+                prop_description =properties.get(DC_DESCRIPTION).iterator().next();
+                prop_description = prop_description.replace("\"", "");
+                //prop_description = properties.get(DC_DESCRIPTION).replace("\"", "");
             }
             if (properties.containsKey(DBO_PARTY)) {
-                prop_party = properties.get(DBO_PARTY).replace("\"", "");
+                prop_party = properties.get(DBO_PARTY).iterator().next();
+                prop_party = prop_party.replace("\"", "");
+                //prop_party = properties.get(DBO_PARTY).replace("\"", "");
             }
             if (properties.containsKey(DBO_COUNTRY)) {
-                prop_country = properties.get(DBO_COUNTRY).replace("\"", "");
+                prop_country = properties.get(DBO_COUNTRY).iterator().next();
+                prop_country = prop_country.replace("\"", "");
+                //prop_country = properties.get(DBO_COUNTRY).replace("\"", "");
             }
             if (properties.containsKey(RDF_TYPE)) {
-                prop_type = properties.get(RDF_TYPE).replace("\"", "");
+                prop_type = properties.get(RDF_TYPE).iterator().next();
+                prop_type =prop_type.replace("\"", "");
+                //prop_type = properties.get(RDF_TYPE).replace("\"", "");
             }
             /*if(prop_description.contains(NO_VALUE)&&prop_country.contains(NO_VALUE)){
                 

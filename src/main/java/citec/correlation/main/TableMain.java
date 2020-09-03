@@ -14,7 +14,6 @@ import citec.correlation.core.wikipedia.Property;
 import citec.correlation.core.wikipedia.DBpediaEntity;
 import citec.correlation.core.weka.MakeArffTable;
 import citec.correlation.core.yaml.ParseYaml;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.HashMap;
@@ -24,11 +23,12 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
 import java.util.TreeSet;
+
 /**
  *
  * @author elahi
  */
-public class Main implements PropertyConst {
+public class TableMain implements PropertyConst {
 
     private static String dbpediaDir = "src/main/resources/dbpedia/";
     private static String input = "democratic/input/";
@@ -38,47 +38,42 @@ public class Main implements PropertyConst {
     private static String outputArff = dbpediaDir + output + "democratic.arff";
     private static Set<String> freqClasses = new HashSet<String>();
     private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
-    
-    private void writeInTable(Set<EntityTable> entityTables) throws Exception {
-        MySQLAccess mySQLAccess=new MySQLAccess();
-    }
 
     public static void main(String[] args) throws IOException, Exception {
-        Main trainingTable = new Main();
+        TableMain trainingTable = new TableMain();
         MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
     }
 
+    private void writeInTable(Set<EntityTable> entityTables) throws Exception {
+        //MySQLAccess mySQLAccess=new MySQLAccess();
+    }
+
     private MakeArffTable createArffTrainingTable(String entitiesPropertyFile, String wordPresenseFile, String democraticArff) throws FileNotFoundException, IOException, Exception {
-        
-        
+     
         freqClasses.add("dbo:Politician");
         DbpediaClass dbpediaClass = new DbpediaClass("dbo:Politician", entitiesPropertyFile, TextAnalyzer.POS_TAGGER);
         Set<EntityTable> entityTables = new TreeSet<EntityTable>();
         for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
             Property property = new Property(propertyString);
             Set<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
-            if (property.getPredicate().contains(DBO_PARTY)) {
-                EntityTable entityTable = new EntityTable(dbpediaClass.getClassName() + "_" + DBO_PARTY, entities, TextAnalyzer.POS_TAGGER);
-                entityTables.add(entityTable);
+            String checkProperty=DBO_COUNTRY;
+            if (property.getPredicate().contains(checkProperty)) {
+                 //System.out.println("..."+property.getPredicate());
+                 EntityTable entityTable = new EntityTable(dbpediaDir,dbpediaClass.getClassName(),checkProperty, entities, TextAnalyzer.POS_TAGGER);
+                 //entityTables.add(entityTable);
+                
             }
+            
         }
-         
+        //MySQLAccess mySQLAccess=new MySQLAccess();
         //Set<EntityTable> entityTables=new HashSet<EntityTable>();
         //this.writeInTable(entityTables);
-
-       
-
-        
         // Map<String, Boolean> entityWordPresence = checkWordPresence(wordPresenseFile);
-        
-       
-        
-          /*for (String propertyString : DbpediaClass.getPropertyEntities().keySet()) {
+        /*for (String propertyString : DbpediaClass.getPropertyEntities().keySet()) {
                String tableName=DbpediaClass.getClassName()+"_"+new Property(propertyString).getPredicate();
                this.createTable(DbpediaClass.getPropertyEntities());
           }*/
-        
-        /*Map<String, Boolean> entityWordPresence = checkWordPresence(wordPresenseFile);
+ /*Map<String, Boolean> entityWordPresence = checkWordPresence(wordPresenseFile);
         for (String propertyString : DbpediaClass.getPropertyEntities().keySet()) {
             Property property = new Property(propertyString);
             if (property.getPredicate().contains(DBO_PARTY)) {
@@ -98,15 +93,15 @@ public class Main implements PropertyConst {
             }
         }*/
 
-        /*for(String entity:entityTable.keySet()){
+ /*for(String entity:entityTable.keySet()){
             DBpediaEntity dbpediaEntity=entityTable.get(entity);
             System.out.println("DBpedia entity:"+dbpediaEntity);
         }*/
         //return new MakeArffTable(entityTable, propertyList, democraticArff);
         return null;
     }
-    
-     /*private void setProperties(Set<String> keySet, String POS_TAGGER) throws Exception {
+
+    /*private void setProperties(Set<String> keySet, String POS_TAGGER) throws Exception {
         List<DBpediaEntity> dbpediaEntities = new ArrayList<DBpediaEntity>();
         for (String entityString : keySet) {
             String entityUrl = DBpediaEntity.getEntityUrl(entityString);
@@ -117,7 +112,6 @@ public class Main implements PropertyConst {
             break;
         }
     }*/
-    
     private Map<String, Boolean> checkWordPresence(String democraticWordFile) throws IOException {
         ParseYaml parseYaml = new ParseYaml();
         return parseYaml.yamlDemocratic(democraticWordFile);
@@ -133,16 +127,20 @@ public class Main implements PropertyConst {
                 if (entityWordPresence.containsKey(entity)) {
                     wordFound = entityWordPresence.get(entity);
                 }
-                Map<String, String> properties = new HashMap<String, String>();
+                Map<String, List<String>> properties = new HashMap<String, List<String>>();
                 if (entityTable.containsKey(entity)) {
                     DBpediaEntity dbpediaEntity = entityTable.get(entity);
                     properties = dbpediaEntity.getProperties();
-                    properties.put(property.getPredicate(), property.getObject());
+                    //old codes.........
+                    //properties.put(property.getPredicate(), property.getObject());
+                    properties.put(property.getPredicate(), property.getObjectList());
                     dbpediaEntity.setProperties(properties);
                     entityTable.put(entity, dbpediaEntity);
 
                 } else {
-                    properties.put(property.getPredicate(), property.getObject());
+                    // old codes.............
+                    //properties.put(property.getPredicate(), property.getObject());
+                    properties.put(property.getPredicate(), property.getObjectList());
                     DBpediaEntity dbpediaEntity = new DBpediaEntity(entity, wordFound, properties);
                     entityTable.put(entity, dbpediaEntity);
                 }
@@ -156,11 +154,11 @@ public class Main implements PropertyConst {
     }
 
     private void display(List<DBpediaEntity> dbpediaEntities) {
-        for(DBpediaEntity dbpediaEntity:dbpediaEntities){
+        for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
             System.out.println(dbpediaEntity);
         }
     }
 
-    
+   
 
 }

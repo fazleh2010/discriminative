@@ -91,22 +91,6 @@ public class DbpediaClass {
 
     }
 
-    /*private List<DBpediaEntity> setDBpediaEntities(Set<String> keySet, String POS_TAGGER) throws Exception {
-        List<DBpediaEntity> dbpediaEntities = new ArrayList<DBpediaEntity>();
-        for (String entityString : keySet) {
-            String entityUrl =DBpediaEntity. getEntityUrl(entityString);
-            CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(entityUrl);
-            if (curlSparqlQuery.getText() != null) {
-                Analyzer textAnalyzer = new Analyzer(curlSparqlQuery.getText(), POS_TAGGER);
-                DBpediaEntity dbpediaEntity = new DBpediaEntity(entityString, textAnalyzer);
-                dbpediaEntities.add(dbpediaEntity);
-                System.out.println(dbpediaEntity);
-            }
-
-        }
-        return dbpediaEntities;
-    }*/
-
     public String getClassName() {
         return className;
     }
