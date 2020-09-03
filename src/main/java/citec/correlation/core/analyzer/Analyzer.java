@@ -65,6 +65,9 @@ public class Analyzer implements TextAnalyzer {
             List<TaggedWord> tSentence = taggerModel.tagSentence(sentence);
             for (TaggedWord taggedWord : tSentence) {
                 String word = taggedWord.word();
+                if(isStopWord(word)){
+                    continue;
+                }
                 //String key = null;
                 if (taggedWord.tag().startsWith(TextAnalyzer.ADJECTIVE) || taggedWord.tag().startsWith(TextAnalyzer.NOUN)) {
                     posTaggers = this.populateValues(taggedWord.tag(), word, posTaggers);
@@ -160,4 +163,12 @@ public class Analyzer implements TextAnalyzer {
                            
         return str;
     }*/
+
+    private boolean isStopWord(String word) {
+        word=word.trim().toLowerCase();
+        if(ENGLISH_STOPWORDS.contains(word)){
+            return true;
+        }
+        return false;
+    }
 }
