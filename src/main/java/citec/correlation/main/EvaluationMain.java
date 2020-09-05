@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.core.wikipedia;
+package citec.correlation.main;
 
 import citec.correlation.core.json.DataSet;
 import citec.correlation.core.json.DataUnit;

@@ -7,18 +7,17 @@ package citec.correlation.main;
 
 import citec.correlation.core.wikipedia.PropertyConst;
 import citec.correlation.core.wikipedia.DbpediaClass;
-import citec.correlation.core.wikipedia.EntityTable;
 import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.core.mysql.MySQLAccess;
-import citec.correlation.core.wikipedia.Property;
-import citec.correlation.core.wikipedia.DBpediaEntity;
+import citec.correlation.core.wikipedia.table.DBpediaEntity;
 import citec.correlation.core.weka.MakeArffTable;
+import citec.correlation.core.wikipedia.Property;
+import citec.correlation.core.wikipedia.table.EntityTable;
+import citec.correlation.core.wikipedia.table.Tables;
 import citec.correlation.core.yaml.ParseYaml;
 import citec.correlation.utils.FileFolderUtils;
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.AnnotationIntrospector.ReferenceProperty.Type;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.google.gson.reflect.TypeToken;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -27,7 +26,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import java.util.TreeMap;
 import java.util.TreeSet;
 
 /**
@@ -38,7 +36,6 @@ public class TableMain implements PropertyConst {
 
     private static String dbpediaDir = "src/main/resources/dbpedia/";
     private static String entityTable = "entityTable/";
-
     private static String input = "democratic/input/";
     private static String output = "democratic/output/";
     private static String inputJsonFile = dbpediaDir + input + "results-100000000-1000-concretePO.json";
@@ -49,56 +46,23 @@ public class TableMain implements PropertyConst {
 
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
-        MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
-    }
-
-    private void writeInTable(Set<EntityTable> entityTables) throws Exception {
-        //MySQLAccess mySQLAccess=new MySQLAccess();
-    }
-
-    private MakeArffTable createArffTrainingTable(String entitiesPropertyFile, String wordPresenseFile, String democraticArff) throws FileNotFoundException, IOException, Exception {
-        Set<String> checkProperties=new HashSet<String>();
+        Set<String> checkProperties = new HashSet<String>();
         checkProperties.add(DBO_PARTY);
         checkProperties.add(DBO_COUNTRY);
         //checkProperties.add(DC_DESCRIPTION);
-        
-        freqClasses.add("dbo:Politician");
-        DbpediaClass dbpediaClass = new DbpediaClass("dbo:Politician", entitiesPropertyFile, TextAnalyzer.POS_TAGGER);
-        Set<EntityTable> entityTables = new TreeSet<EntityTable>();
-        
-        /*for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
-            Property property = new Property(propertyString);
-            Set<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
-            //String checkProperty = DBO_PARTY;
-            if (checkProperties.contains(property.getPredicate())) {
-                //System.out.println("..."+property.getPredicate());
-                EntityTable entityTable = new EntityTable(dbpediaDir, dbpediaClass.getClassName(), property.getPredicate(), entities, TextAnalyzer.POS_TAGGER);
-                //entityTables.add(entityTable);
 
-            }
+        freqClasses.add(DBO_CLASS_POLITICIAN);
+        DbpediaClass dbpediaClass = new DbpediaClass(DBO_CLASS_POLITICIAN, inputJsonFile, TextAnalyzer.POS_TAGGER);
+        Tables tables=new Tables(dbpediaDir + entityTable);
+        tables.writingTable( dbpediaClass, checkProperties);
+        //tables.display();
+        tables.readTable();
+        tables.display();
+        
+        //MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
+    }
 
-        }*/
-        
-         /*if (property.getPredicate().contains(checkProperty)) {
-                //System.out.println("..."+property.getPredicate());
-                EntityTable entityTable = new EntityTable(dbpediaDir, dbpediaClass.getClassName(), checkProperty, entities, TextAnalyzer.POS_TAGGER);
-                //entityTables.add(entityTable);
-
-            }*/
-        
-        File[] list = FileFolderUtils.getFiles(dbpediaDir + entityTable, ".json");
-        for (File file : list) {
-            System.out.println("file.." + file);
-            ObjectMapper mapper = new ObjectMapper();
-            List<DBpediaEntity> dbpediaEntitys = mapper.readValue(file, new TypeReference<List<DBpediaEntity>>() {
-            });
-           EntityTable entityTable=new  EntityTable(file.getName(),dbpediaEntitys);
-           System.out.println(entityTable);
-        }
-        
-        //http://dbpedia.org/page/Akshay_Kumar
-        
-        //MySQLAccess mySQLAccess=new MySQLAccess();
+    private MakeArffTable createArffTrainingTable(String entitiesPropertyFile, String wordPresenseFile, String democraticArff) throws FileNotFoundException, IOException, Exception {
         return null;
     }
 
@@ -147,6 +111,32 @@ public class TableMain implements PropertyConst {
         for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
             System.out.println(dbpediaEntity);
         }
+    }
+
+    private Map<String,EntityTable>  writingTable(DbpediaClass dbpediaClass, Set<String> checkProperties) throws Exception {
+        Map<String,EntityTable> entityTables = new HashMap<String,EntityTable>();
+        for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
+            Property property = new Property(propertyString);
+            Set<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
+            if (checkProperties.contains(property.getPredicate())) {
+                EntityTable entityTable = new EntityTable(dbpediaDir, dbpediaClass.getClassName(), property.getPredicate(), entities, TextAnalyzer.POS_TAGGER);
+                entityTables.put(entityTable.getTableName(), entityTable);
+            }
+        }
+        return entityTables;
+    }
+
+    private Map<String, EntityTable> readTable(String fileName, String json) throws IOException, Exception {
+        Map<String, EntityTable> entityTables = new HashMap<String, EntityTable>();
+        File[] list = FileFolderUtils.getFiles(fileName,json);
+        for (File file : list) {
+            ObjectMapper mapper = new ObjectMapper();
+            List<DBpediaEntity> dbpediaEntitys = mapper.readValue(file, new TypeReference<List<DBpediaEntity>>() {
+            });
+            EntityTable entityTable = new EntityTable(file.getName(), dbpediaEntitys);
+            entityTables.put(entityTable.getTableName(), entityTable);
+        }
+        return entityTables;
     }
 
 }

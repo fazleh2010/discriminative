@@ -5,7 +5,7 @@
  */
 package citec.correlation.core.wikipedia;
 
-import citec.correlation.core.wikipedia.DBpediaEntity;
+import citec.correlation.core.wikipedia.table.DBpediaEntity;
 import citec.correlation.core.wikipedia.DBpediaClassOld;
 import java.util.ArrayList;
 import java.util.List;

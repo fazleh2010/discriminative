@@ -3,10 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.core.wikipedia;
+package citec.correlation.core.wikipedia.table;
 
 import citec.correlation.core.sparql.CurlSparqlQuery;
-import static citec.correlation.core.wikipedia.PropertyConst.DBO_PARTY;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.IOException;
@@ -47,9 +46,9 @@ public class EntityTable {
 
             index++;
 
-            if (index == 10) {
+           /*if (index == 10) {
                 break;
-            }
+            }*/
         }
     }
 

@@ -7,7 +7,7 @@ package citec.correlation.core.wikipedia;
 
 import static citec.correlation.core.Constants.UNICODE;
 import citec.correlation.core.sparql.CurlSparqlQuery;
-import citec.correlation.core.wikipedia.DBpediaEntity;
+import citec.correlation.core.wikipedia.table.DBpediaEntity;
 import citec.correlation.core.wikipedia.Property;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.ObjectMapper;

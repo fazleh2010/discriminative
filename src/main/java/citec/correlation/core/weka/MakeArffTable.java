@@ -5,7 +5,7 @@
  */
 package citec.correlation.core.weka;
 
-import citec.correlation.core.wikipedia.DBpediaEntity;
+import citec.correlation.core.wikipedia.table.DBpediaEntity;
 import citec.correlation.utils.FileFolderUtils;
 import citec.correlation.utils.StringWrap;
 import java.util.HashMap;

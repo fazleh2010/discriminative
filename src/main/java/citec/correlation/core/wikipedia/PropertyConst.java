@@ -17,4 +17,5 @@ public interface PropertyConst {
     public static final String DBO_COUNTRY = "dbo:country";
     public static final String RDF_TYPE = "rdf:type";
     public static String DBO_ABSTRACT = "dbo:abstract";
+    public static String DBO_CLASS_POLITICIAN ="dbo:Politician";
 }

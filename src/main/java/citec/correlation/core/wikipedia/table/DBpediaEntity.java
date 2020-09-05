@@ -3,9 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.core.wikipedia;
+package citec.correlation.core.wikipedia.table;
 
 import citec.correlation.core.analyzer.Analyzer;
+import citec.correlation.core.wikipedia.Property;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -42,6 +43,7 @@ public class DBpediaEntity {
     @JsonIgnore
     private Boolean democraticWord;
     
+    //this constructor is for searilization of json string to a Java class
     public DBpediaEntity (){
         
     }
@@ -112,14 +114,11 @@ public class DBpediaEntity {
     }*/
     public void setProperties(Map<String, List<String>> properties) {
         this.properties = properties;
-    }
-
-   
+    } 
 
     public static String getEntityUrl(String entityString) {
         return "<http://dbpedia.org/resource/" + entityString + ">";
     }
-
 
     private String getText(Map<String, List<String>> properties,String property) {
         try {
@@ -172,8 +171,6 @@ public class DBpediaEntity {
     @Override
     public String toString() {
         return "{" + "entityUrl=" + entityUrl + ", dboClass=" + dboClass + ", properties=" + properties + '}';
-    }
-
-    
+    } 
 
 }

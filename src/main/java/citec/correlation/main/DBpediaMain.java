@@ -5,7 +5,6 @@
  */
 package citec.correlation.main;
 
-import citec.correlation.core.wikipedia.EvaluationMain;
 import citec.correlation.core.wikipedia.Ngram;
 import citec.correlation.core.yaml.ParseYaml;
 import citec.correlation.core.json.DemocraticDataUnit;
