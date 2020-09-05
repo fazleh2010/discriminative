@@ -35,11 +35,12 @@ import java.util.TreeSet;
 public class TableMain implements PropertyConst {
 
     private static String dbpediaDir = "src/main/resources/dbpedia/";
+     private static String dataDir = "data/";
     private static String entityTable = "entityTable/";
-    private static String input = "democratic/input/";
-    private static String output = "democratic/output/";
-    private static String inputJsonFile = dbpediaDir + input + "results-100000000-1000-concretePO.json";
-    private static String inputWordFile = dbpediaDir + input + "politicians_with_democratic.yml";
+    private static String input = "input/";
+    private static String output = "output/";
+    private static String inputJsonFile = dataDir + input + "results-100000000-1000-concretePO.json";
+    private static String inputWordFile = dataDir + input + "politicians_with_democratic.yml";
     private static String outputArff = dbpediaDir + output + "democratic.arff";
     private static Set<String> freqClasses = new HashSet<String>();
     private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
@@ -53,7 +54,7 @@ public class TableMain implements PropertyConst {
 
         freqClasses.add(DBO_CLASS_POLITICIAN);
         DbpediaClass dbpediaClass = new DbpediaClass(DBO_CLASS_POLITICIAN, inputJsonFile, TextAnalyzer.POS_TAGGER);
-        Tables tables=new Tables(dbpediaDir + entityTable);
+        Tables tables=new Tables(dataDir+entityTable);
         tables.writingTable( dbpediaClass, checkProperties);
         //tables.display();
         tables.readTable();
