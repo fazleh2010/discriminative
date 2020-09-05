@@ -7,6 +7,8 @@ package citec.correlation.core.wikipedia;
 
 import citec.correlation.core.analyzer.Analyzer;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -18,19 +20,31 @@ import java.util.TreeMap;
  *
  * @author elahi
  */
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class DBpediaEntity {
-
-    private final static String PREFIX = "entity";
+    @JsonIgnore
+    private  static String PREFIX = "entity";
     private static Integer index = 0;
-    private final String entityIndex;
-    private final String entityUrl;
-    private final String entityString;
+    @JsonProperty("entityIndex")
+    private  String entityIndex;
+    @JsonProperty("entityUrl")
+    private  String entityUrl;
+    @JsonProperty("entityString")
+    private  String entityString;
+    @JsonProperty("dboClass")
     private  String dboClass;
+    @JsonProperty("properties")
     private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
+    @JsonProperty("senetences")
     private List<HashMap<String,Set<String>>> senetences=new ArrayList<HashMap<String,Set<String>>>();
+    @JsonProperty("text")
     private String text=null;
     @JsonIgnore
     private Boolean democraticWord;
+    
+    public DBpediaEntity (){
+        
+    }
 
     public DBpediaEntity(String dboClass,String entityString, Map<String, List<String>> properties, String POS_TAGGER) throws Exception {
         this.dboClass=dboClass;
@@ -47,7 +61,7 @@ public class DBpediaEntity {
 
     }
 
-    public DBpediaEntity(String entityString, Analyzer textAnalyzer) {
+    /*public DBpediaEntity(String entityString, Analyzer textAnalyzer) {
         this.entityString = entityString;
         this.entityUrl = this.getEntityUrl(this.entityString);
         index = index + 1;
@@ -81,23 +95,7 @@ public class DBpediaEntity {
         this.entityIndex = null;
         this.properties = null;
         this.entityUrl = this.getEntityUrl(this.entityString);
-    }
-
-    public String getEntityString() {
-        return entityString;
-    }
-
-    public Boolean getDemocraticWord() {
-        return democraticWord;
-    }
-
-    public Map<String, List<String>> getProperties() {
-        return properties;
-    }
-
-    public String getEntityIndex() {
-        return entityIndex;
-    }
+    }*/
 
     /*@Override
     public String toString() {
@@ -116,21 +114,12 @@ public class DBpediaEntity {
         this.properties = properties;
     }
 
-    public String getEntityUrl() {
-        return entityUrl;
-    }
-
-    public List<HashMap<String, Set<String>>> getSenetences() {
-        return senetences;
-    }
+   
 
     public static String getEntityUrl(String entityString) {
         return "<http://dbpedia.org/resource/" + entityString + ">";
     }
 
-    public String getText() {
-        return text;
-    }
 
     private String getText(Map<String, List<String>> properties,String property) {
         try {
@@ -140,8 +129,51 @@ public class DBpediaEntity {
         }
     }
 
+    public static String getPREFIX() {
+        return PREFIX;
+    }
+
+    public Map<String, List<String>> getProperties() {
+        return properties;
+    }
+
+    public static Integer getIndex() {
+        return index;
+    }
+
+    public String getEntityIndex() {
+        return entityIndex;
+    }
+
+    public String getEntityUrl() {
+        return entityUrl;
+    }
+
+    public String getEntityString() {
+        return entityString;
+    }
+
     public String getDboClass() {
         return dboClass;
     }
+
+    public List<HashMap<String, Set<String>>> getSenetences() {
+        return senetences;
+    }
+
+    public String getText() {
+        return text;
+    }
+
+    public Boolean getDemocraticWord() {
+        return democraticWord;
+    }
+
+    @Override
+    public String toString() {
+        return "{" + "entityUrl=" + entityUrl + ", dboClass=" + dboClass + ", properties=" + properties + '}';
+    }
+
+    
 
 }

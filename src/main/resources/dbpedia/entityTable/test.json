@@ -1,0 +1,70 @@
+[{
+        "entityIndex": "entity81",
+        "entityUrl": "<http://dbpedia.org/resource/A._A._Purcell>",
+        "entityString": "A._A._Purcell",
+        "dboClass": "dbo:Politician",
+        "properties": {
+            "dbo:birthDate": ["1872-11-3"],
+            "dbo:country": ["http://dbpedia.org/resource/United_Kingdom"],
+            "dbo:deathDate": ["1935-12-24"],
+            "dbo:party": ["http://dbpedia.org/resource/Labor_Party_(UK)"],
+            "dbp:after": ["http://dbpedia.org/resource/Alonzo_Swales", "http://dbpedia.org/resource/Walter_Citrine", "John Bromley and George Hicks"],
+            "dbp:before": ["http://dbpedia.org/resource/Joe_Williams_(trade_unionist)", "http://dbpedia.org/resource/J._H._Thomas", "Charlie Cramp and Alonzo Swales"],
+            "dbp:title": ["http://dbpedia.org/resource/President_of_the_Trades_Union_Congress", "Member of Parliament for Coventry", "Trades Union Congress representative to the American Federation of Labour", "President of the International Federation of Trade Unions", "Member of Parliament for Forest of Dean"],
+            "dbp:with": ["http://dbpedia.org/resource/Ben_Smith_(Labour_politician)"],
+            "dbp:years": ["1923", "1924", "1925"]
+        },
+        "senetences": [{
+                "JJ_1": ["British", "unionist"],
+                "NN_1": ["trade", "politician"],
+                "WORD_1": ["--", "Purcell", "24", "British", "-LRB-", "Arthur", "politician", "unionist", "Labour", ".", "December", "3", "trade", "Party", "1872", "-RRB-", "Albert", "1935", "November"]
+            }, {
+                "JJ_2": ["separate"],
+                "NN_2": [],
+                "WORD_2": ["separate", "sat", "House", ",", "two", ".", "Unions", "President", "Trade", "Federation", "Commons", "1929", "1928", "periods", "1924", "1923", "International"]
+            }, {
+                "NN_3": ["forerunner"],
+                "JJ_3": [],
+                "WORD_3": ["Purcell", "Association", "National", "Trades", "joined", "Amalgamated", "1891", "forerunner", "Furnishing", "."]
+            }, {
+                "NN_4": ["time"],
+                "JJ_4": [],
+                "WORD_4": ["Social", "joined", "Democratic", "Federation", "also", "time", ",", "."]
+            }],
+        "text": "Albert Arthur Purcell (3 November 1872 – 24 December 1935) was a British trade unionist and Labour Party politician. He was President of the International Federation of Trade Unions from 1924 to 1928, and sat in the House of Commons in two separate periods between 1923 and 1929. Purcell joined a forerunner of the National Amalgamated Furnishing Trades Association in 1891. About the same time, he also joined the Social Democratic Federation. He was elected to Salford Borough Council, serving for six years, then in 1911 became Assistant General Secretary of the union, followed in 1917 by election as General Secretary. Alongside this, he served as Treasurer of the Federation of Engineering and Shipbuilding Trades for three years, then as President. He was elected to the General Council of the Trades Union Congress (TUC) in 1921, becoming President of the TUC in 1924. In 1925, he chaired a TUC delegation to the Soviet Union. Purcell was elected at the December 1923 general election as the Member of Parliament (MP) for the city of Coventry, defeating the sitting Conservative MP Sir Edward Manville. However, at the next general election, in October 1924, he was defeated by the Conservative candidate from the 1923 general election. However, Purcell was out of Parliament for only 9 months. James Wignall, the Labour MP for the Forest of Dean division of Gloucestershire, died in June 1925, and at the resulting by-election on 14 July, Purcell won the seat. He did not defend that seat at the 1929 general election, but stood instead in Manchester Moss Side, where he was defeated by the sitting Conservative MP Sir Gerald Berkeley Hurst."
+    }, 
+    {
+        "entityIndex": "entity82",
+        "entityUrl": "<http://dbpedia.org/resource/A._E._Stubbs>",
+        "entityString": "A._E._Stubbs",
+        "dboClass": "dbo:Politician",
+        "properties": {
+            "dbo:birthDate": ["1877-1-1"],
+            "dbo:country": ["http://dbpedia.org/resource/United_Kingdom"],
+            "dbo:deathDate": ["1962-1-1"],
+            "dbo:party": ["http://dbpedia.org/resource/Labor_Party_(UK)"],
+            "dbp:after": ["http://dbpedia.org/resource/Gerald_Howard"],
+            "dbp:before": ["http://dbpedia.org/resource/Richard_George_Briscoe"],
+            "dbp:title": ["Member of Parliament for Cambridgeshire"],
+            "dbp:years": ["1945"]
+        },
+        "senetences": [{
+                "JJ_1": ["English"],
+                "NN_1": ["trade", "politician", "official", "union"],
+                "WORD_1": ["--", "-LRB-", "Stubbs", "politician", "official", "union", ".", "1877", "English", "1962", "trade", "4", "-RRB-", "Albert", "Ernest", "January"]
+            }, {
+                "JJ_2": [],
+                "NN_2": [],
+                "WORD_2": ["Stubbs", "born", "Yorkshire", "moved", "March", ",", "Cambridge", "1914", "."]
+            }, {
+                "NN_3": ["trade", "interest", "plight", "machinist", "printing"],
+                "JJ_3": ["agricultural", "great"],
+                "WORD_3": ["took", "trade", "although", "agricultural", "interest", "plight", ",", "machinist", "great", "workers", "printing", "."]
+            }, {
+                "NN_4": [],
+                "JJ_4": ["full-time", "agricultural"],
+                "WORD_4": ["became", "full-time", "Isle", "1919", "'", "representing", ",", "Union", ".", "Cambridgeshire", "Ely", "agricultural", "Workers", "largely", "District", "workers", "Officer"]
+            }],
+        "text": "Albert Ernest Stubbs (1877–4 January 1962) was an English trade union official and politician. Stubbs was born in Yorkshire, but moved to Cambridge in March 1914. By trade he was a printing machinist, although he took a great interest in the plight of agricultural workers. In 1919 he became full-time District Officer of the Workers' Union for Cambridgeshire and the Isle of Ely, largely representing agricultural workers. When the Workers' Union amalgamated with the Transport and General Workers' Union in 1929 he became Cambridge and District Officer for the TGWU. A member of Cambridgeshire County Council from 1931 to his death and Cambridge Borough Council from 1923 to 1949 (and an alderman of both from 1942), he served as Labour Member of Parliament for Cambridgeshire from 1945 to 1950, when he lost his seat to the Conservatives (he had lost the general election for Cambridge in 1922 by only 679 votes). He is the only Labour MP to have ever sat for a Cambridgeshire constituency outside the city of Cambridge itself (although  Peterborough, which was during his lifetime outside the county, has been represented by Labour MPs). He retired from the TGWU in 1944."
+    }  
+]

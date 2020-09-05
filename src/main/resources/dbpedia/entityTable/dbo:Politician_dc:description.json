@@ -1,0 +1,308 @@
+[ {
+  "entityIndex" : "entity71",
+  "entityUrl" : "<http://dbpedia.org/resource/A._Russell_Colpitts>",
+  "entityString" : "A._Russell_Colpitts",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1906-9-7" ],
+    "dbp:title" : [ "MLA for Albert" ],
+    "dbp:years" : [ "1939" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "political" ],
+    "NN_1" : [ "figure", "farmer" ],
+    "WORD_1" : [ "--", "New", "Brunswick", "figure", "-LRB-", "September", "Arthur", "political", ",", ".", "2008", "Canada", "Russell", "Colpitts", "7", "-RRB-", "1906", "farmer" ]
+  }, {
+    "JJ_2" : [ "Liberal", "Legislative" ],
+    "NN_2" : [ "member", "Assembly" ],
+    "WORD_2" : [ "New", "Brunswick", "1952", "Liberal", "member", "Legislative", "1939", "represented", "Albert", "Assembly", "." ]
+  }, {
+    "NN_3" : [ "son" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "Settlement", "New", "Brunswick", "Samuel", "B", "Colpitts", "son", "born", ",", "B.", ".", "Addie" ]
+  }, {
+    "NN_4" : [ ],
+    "JJ_4" : [ ],
+    "WORD_4" : [ "Fulton", "Geraldine", "1927", ",", "married", "A.", "." ]
+  } ],
+  "text" : "Arthur Russell Colpitts (September 7, 1906 – before 2008) was a farmer and political figure in New Brunswick, Canada. He represented Albert in the Legislative Assembly of New Brunswick as a Liberal member from 1939 to 1952. He was born in Colpitts Settlement, New Brunswick, the son of Samuel B. Colpitts and Addie B. In 1927, he married Geraldine A. Fulton. Colpitts was also a fox rancher."
+}, {
+  "entityIndex" : "entity72",
+  "entityUrl" : "<http://dbpedia.org/resource/Abe_William_Miller>",
+  "entityString" : "Abe_William_Miller",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1957-11-03", "1959-06-18" ],
+    "dbo:activeYearsStartDate" : [ "1951-11-07", "1955-06-29" ],
+    "dbo:associate" : [ "http://dbpedia.org/resource/Edgar_Gerhart" ],
+    "dbo:birthDate" : [ "1897-03-25", "1897-3-25" ],
+    "dbo:deathDate" : [ "1964-09-30", "1964-9-30" ],
+    "dbo:office" : [ "Member of the Legislative Assembly of Alberta" ],
+    "dbo:orderInOffice" : [ "City of Edmonton Alderman" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Alberta_Liberal_Party" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Edmonton_(provincial_electoral_district)" ],
+    "dbp:occupation" : [ "lawyer politician" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Elmer_Ernest_Roper" ],
+    "dbp:successor" : [ "District Abolished" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "Canadian" ],
+    "NN_1" : [ "politician", "lawyer" ],
+    "WORD_1" : [ "--", "-LRB-", "25", "September", "Abe", "Canadian", "politician", "March", "William", ",", ".", "1964", "1897", "Miller", "-RRB-", "30", "lawyer" ]
+  }, {
+    "JJ_2" : [ "provincial", "civic" ],
+    "NN_2" : [ "government", "province", "office" ],
+    "WORD_2" : [ "government", "province", "Alberta", "served", "provincial", "office", "civic", "levels", "." ]
+  }, {
+    "NN_3" : [ "opposition", "city", "caucus", "member", "Assembly" ],
+    "JJ_3" : [ "Liberal", "Legislative" ],
+    "WORD_3" : [ "Alderman", "Alberta", "city", "Liberal", ".", "opposition", "1951", "Edmonton", "served", "caucus", "member", "Legislative", "1959", "1957", "Assembly", "sitting", "1955" ]
+  } ],
+  "text" : "Abe William Miller (March 25, 1897 – September 30, 1964) was a Canadian lawyer and politician. He served in office on both civic and provincial levels of government in the province of Alberta. He served as an Alderman for the city of Edmonton from 1951 to 1957 and as a member of the Legislative Assembly of Alberta from 1955 to 1959 sitting as a member of the Liberal caucus in opposition."
+}, {
+  "entityIndex" : "entity73",
+  "entityUrl" : "<http://dbpedia.org/resource/Abel_James_Hindle>",
+  "entityString" : "Abel_James_Hindle",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1878-1-1" ],
+    "dbo:deathDate" : [ "1955-1-1" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "political" ],
+    "NN_1" : [ "figure", "farmer" ],
+    "WORD_1" : [ "--", "figure", "-LRB-", "James", "Hindle", "political", "Saskatchewan", ".", "1954", "Abel", "1870", "-RRB-", "farmer" ]
+  }, {
+    "JJ_2" : [ "Legislative" ],
+    "NN_2" : [ "Bunch", "Assembly" ],
+    "WORD_2" : [ "Willow", "Liberal", "Bunch", "Legislative", "1917", "represented", "Saskatchewan", "1925", "Assembly", "." ]
+  }, {
+    "NN_3" : [ "son" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "Ann", "James", "McKay", "born", "Hindle", "Churchill", "Sound", ",", ".", "educated", "son", "Owen", "Abel", "Ontario", "Mary" ]
+  }, {
+    "NN_4" : [ ],
+    "JJ_4" : [ ],
+    "WORD_4" : [ "Canada", "Lancashire", "grandparents", "England", "come", ",", "." ]
+  } ],
+  "text" : "Abel James Hindle (1870–1954) was a farmer and political figure in Saskatchewan. He represented Willow Bunch in the Legislative Assembly of Saskatchewan from 1917 to 1925 as a Liberal. He was born in Churchill, Ontario, the son of Abel James Hindle and Mary Ann McKay, and was educated in Owen Sound. His grandparents had come to Canada from Lancashire, England. In 1898, Hindle married Minnie Sinclair. He operated a large farm west of Owen Sound until 1911, when the Hindles moved to Saskatchewan. They settled on a homestead west of Moose Jaw. Hindle was reeve of the rural municipality of Stonehenge from 1914 and 1915. He resigned his seat in 1925 to allow James Albert Cross to be elected to the provincial assembly. He later moved to Regina."
+}, {
+  "entityIndex" : "entity74",
+  "entityUrl" : "<http://dbpedia.org/resource/Abel_LeBlanc>",
+  "entityString" : "Abel_LeBlanc",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1946-0-0" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Saint_John,_New_Brunswick" ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Longshoreman" ],
+    "dbo:orderInOffice" : [ "MLAforSaint John Lancaster" ],
+    "dbo:otherParty" : [ "http://dbpedia.org/resource/New_Brunswick_Liberal_Association" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/New_Brunswick_New_Democratic_Party" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Dorothy_Shephard" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Norm_McFarlane" ],
+    "dbp:termEnd" : [ "2010" ],
+    "dbp:termStart" : [ "2003" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ ],
+    "NN_1" : [ ],
+    "WORD_1" : [ "homonymes", "voir", "Leblanc", "Pour", "les", ",", "articles", "." ]
+  }, {
+    "JJ_2" : [ "législative" ],
+    "NN_2" : [ "administrateur", "à", "syndicaliste", "homme", "député", "l'Assemblée", "politique", "canadien", "est", "libéral", "un", "anciennement" ],
+    "WORD_2" : [ "administrateur", "syndicaliste", "de", "politique", "est", "libéral", "John", "du", "député", "Nouveau-Brunswick", "un", "anciennement", "à", "Lancaster", ",", ".", "et", "Lelanc", "législative", "homme", "l'Assemblée", "canadien", "Abel", "Joseph", "Saint" ]
+  } ],
+  "text" : "Pour les articles homonymes, voir Leblanc. Abel Joseph Lelanc est un administrateur, syndicaliste et un homme politique canadien, anciennement député libéral de Saint John Lancaster à l'Assemblée législative du Nouveau-Brunswick."
+}, {
+  "entityIndex" : "entity75",
+  "entityUrl" : "<http://dbpedia.org/resource/Acalus_Lockwood_Palmer>",
+  "entityString" : "Acalus_Lockwood_Palmer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1820-8-28" ],
+    "dbo:deathDate" : [ "1899-8-10" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/AcalusPalmer.jpg?width=300" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Charles_W._Weldon" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Isaac_Burpee" ],
+    "dbp:bot" : [ "InternetArchiveBot" ],
+    "dbp:date" : [ "October 2016" ],
+    "dbp:fixAttempted" : [ "yes" ],
+    "dbp:title" : [ "Member of Parliament for the City and County of St. John" ],
+    "dbp:years" : [ "1872" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "août" ],
+    "NN_1" : [ "homme", "politique", "avocat", "canadien", "un", "août" ],
+    "WORD_1" : [ "Acalus", "Lockwood", "-LRB-", "politique", "avocat", "28", "est", "août", ",", "-", ".", "et", "1899", "du", "Palmer", "1820", "homme", "canadien", "Nouveau-Brunswick", "-RRB-", "juge", "un", "10" ]
+  } ],
+  "text" : "Acalus Lockwood Palmer (28 août 1820 - 10 août 1899) est un homme politique, avocat et juge canadien, du Nouveau-Brunswick."
+}, {
+  "entityIndex" : "entity76",
+  "entityUrl" : "<http://dbpedia.org/resource/Ada_Pritchard>",
+  "entityString" : "Ada_Pritchard",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1898-01-19", "1898-1-19" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Alnwick" ],
+    "dbo:deathDate" : [ "1987-06-09", "1993-1-1" ],
+    "dbo:deathPlace" : [ "http://dbpedia.org/resource/Dundas,_Ontario" ],
+    "dbo:office" : [ "Ontario MPP" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Hamilton_Centre_(provincial_electoral_district)", "http://dbpedia.org/resource/Hamilton_West_(electoral_district)" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Norman_Davison", "http://dbpedia.org/resource/Jack_McNie" ],
+    "dbp:birthPlace" : [ "Alnwick, England" ],
+    "dbp:children" : [ "1" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Bill_Warrender", "Riding re-established" ],
+    "dbp:spouse" : [ "Charles Harry Pritchard" ],
+    "dbp:termEnd" : [ "1967", "1971" ],
+    "dbp:termStart" : [ "1963", "1967" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ ],
+    "NN_1" : [ "politician" ],
+    "WORD_1" : [ "--", "June", "-LRB-", "politician", "19", ",", "Pritchard", ".", "1987", "1898", "Canada", "-RRB-", "9", "January", "Ontario", "Ada", "Mary" ]
+  }, {
+    "JJ_2" : [ "Legislative" ],
+    "NN_2" : [ "member", "Assembly" ],
+    "WORD_2" : [ "West", "Centre", ".", "Progressive", "1963", "1971", "Conservative", "Hamilton", "member", "Legislative", "represented", "ridings", "Ontario", "Assembly" ]
+  } ],
+  "text" : "Ada Mary Pritchard (January 19, 1898 – June 9, 1987) was a politician in Ontario, Canada. She was a Progressive Conservative member of the Legislative Assembly of Ontario from 1963 to 1971 who represented the ridings of Hamilton Centre and Hamilton West."
+}, {
+  "entityIndex" : "entity77",
+  "entityUrl" : "<http://dbpedia.org/resource/Adam_Beveridge>",
+  "entityString" : "Adam_Beveridge",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1826-12-28" ],
+    "dbo:deathDate" : [ "1907-1-1" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "political", "Scottish-born" ],
+    "NN_1" : [ "figure", "lumber", "merchant" ],
+    "WORD_1" : [ "--", "New", "Brunswick", "figure", "-LRB-", "J.", "lumber", "28", "merchant", "political", ",", ".", "Adam", "Canada", "Beveridge", "December", "1907", "-RRB-", "1826", "Scottish-born" ]
+  }, {
+    "JJ_2" : [ "Liberal", "Legislative" ],
+    "NN_2" : [ "member", "Assembly" ],
+    "WORD_2" : [ "1899", "New", "Brunswick", "1895", "Victoria", "Liberal", "member", "Legislative", "represented", "County", "Assembly", "." ]
+  }, {
+    "NN_3" : [ "stepbrother", "son", "age", "Kinross-shire" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "15", "born", "Benjamin", ",", "William", ".", "Kinross-shire", "stepbrother", "Canada", "Beveridge", "son", "came", "age" ]
+  }, {
+    "NN_4" : [ "council" ],
+    "JJ_4" : [ "municipal" ],
+    "WORD_4" : [ "Beveridge", "Andover", "settled", "council", "served", "municipal", "." ]
+  } ],
+  "text" : "Adam J. Beveridge (December 28, 1826 – 1907) was a Scottish-born lumber merchant and political figure in New Brunswick, Canada. He represented Victoria County in the Legislative Assembly of New Brunswick from 1895 to 1899 as a Liberal member. He was born in Kinross-shire, the son of William Beveridge, and came to Canada with his stepbrother Benjamin at the age of 15. Beveridge settled in Andover and served on the municipal council. He married Hannah Britt. Beveridge was a census taker for the 1851 New Brunswick Census."
+}, {
+  "entityIndex" : "entity78",
+  "entityUrl" : "<http://dbpedia.org/resource/Adam_Crooks_(politician)>",
+  "entityString" : "Adam_Crooks_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1827-12-11" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Flamborough,_Ontario" ],
+    "dbo:deathDate" : [ "1885-12-28" ],
+    "dbo:deathPlace" : [ "http://dbpedia.org/resource/Hartford,_Connecticut" ],
+    "dbo:office" : [ "Ontario MPP" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Ontario_Liberal_Party" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Toronto_West_(provincial_electoral_district)", "http://dbpedia.org/resource/Oxford_South_(provincial_electoral_district)" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/George_Atwell_Cooke", "http://dbpedia.org/resource/Robert_Bell_(Toronto_politician)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/AdamCrooks23.jpg?width=300" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Samuel_Wood_(Ontario_politician)" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Edmund_Burke_Wood" ],
+    "dbp:caption" : [ "Adam Crooks, 1872" ],
+    "dbp:imagesize" : [ "180" ],
+    "dbp:occupation" : [ "Lawyer" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Adam_Oliver", "http://dbpedia.org/resource/John_Wallis_(politician)" ],
+    "dbp:termEnd" : [ "1874", "1883" ],
+    "dbp:termStart" : [ "1871", "1875" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Minister_of_Finance_(Ontario)" ],
+    "dbp:years" : [ "1872" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ ],
+    "NN_1" : [ ],
+    "WORD_1" : [ "Adam", "-LRB-", "1885", "Crooks", "-RRB-", "1827", "-", "." ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ "falleció", "desde", "el", "fue", "y", "un" ],
+    "WORD_2" : [ "11", "hasta", "de", "Nació", "falleció", "desde", "Legislativa", "28", "el", "Asamblea", "diciembre", ",", "miembro", ".", "1885", "1874", "la", "1871", "fue", "y", "un", "1827", "Ontario", "año" ]
+  } ],
+  "text" : "Adam Crooks (1827 - 1885). Nació el 11 de diciembre de 1827 y falleció el 28 de diciembre de 1885, fue un miembro de la Asamblea Legislativa de Ontario desde el año 1871 hasta el año 1874."
+}, {
+  "entityIndex" : "entity79",
+  "entityUrl" : "<http://dbpedia.org/resource/Adam_Giambrone>",
+  "entityString" : "Adam_Giambrone",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2010-12-01" ],
+    "dbo:activeYearsStartDate" : [ "2003-12-01", "2006-12-01" ],
+    "dbo:birthDate" : [ "1977-03-08", "1977-3-8" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Ontario", "http://dbpedia.org/resource/Toronto" ],
+    "dbo:office" : [ "Chair of theToronto Transit Commission", "Toronto City Councillorfor(Ward 18) Davenport" ],
+    "dbo:orderInOffice" : [ "President of theNew Democratic Party" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/New_Democratic_Party_of_Canada" ],
+    "dbo:profession" : [ "http://dbpedia.org/resource/Archaeology" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Catholic" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Ontario", "http://dbpedia.org/resource/Toronto" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Ana_Bailão", "http://dbpedia.org/resource/Anne_McGrath", "http://dbpedia.org/resource/Karen_Stintz" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Adam_Giambrone_@_Human_Train_Rally_in_Sorauren_Park_2009.jpg?width=300" ],
+    "dbp:caption" : [ "--09-26" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Mario_Silva_(politician)", "http://dbpedia.org/resource/Howard_Moscoe" ],
+    "dbp:spouse" : [ "Sarah McQuarrie" ],
+    "dbp:termEnd" : [ "2006" ],
+    "dbp:termStart" : [ "2001" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "southern", "Canadian" ],
+    "NN_1" : [ "politician" ],
+    "WORD_1" : [ "southern", "-LRB-", "Giambrone", "Canadian", "born", "politician", "representing", "March", "City", "Councillor", ",", "two", "wards", ".", "Adam", "8", "-RRB-", "Davenport", "Toronto", "1977" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ "re-election", "council", "member" ],
+    "WORD_2" : [ "re-election", "26", "council", "remained", "member", "Elected", "youngest", ",", "Toronto", "." ]
+  }, {
+    "NN_3" : [ "NDP", "president" ],
+    "JJ_3" : [ "federal" ],
+    "WORD_3" : [ "New", "Party", "-LRB-", "2005", "Democratic", "federal", "-RRB-", "2001", "NDP", ".", "president" ]
+  }, {
+    "NN_4" : [ "Politician", "award", "City" ],
+    "JJ_4" : [ "recipient" ],
+    "WORD_4" : [ "``", "''", "2008", "Politician", "award", "recipient", "Best", "City", "'s", "Magazine", "." ]
+  } ],
+  "text" : "Adam Giambrone (born March 8, 1977) is a Canadian politician who was a Toronto City Councillor, representing the southern of two Davenport wards. Elected at 26, he remained the youngest member of Toronto council after re-election. He was president of the federal New Democratic Party (NDP) from 2001 to 2005. He was the 2008 recipient of Now Magazine's \"Best City Politician\" award. He graduated from McGill University with a bachelor's degree in archaeology, and has participated in excavations in Sudan, Tunisia, Libya, Yemen, and Guatemala. He speaks English, French, and Arabic fluently. He is of Italian-American ancestry; his father moved to Canada to avoid the Vietnam War. As Chair of the Toronto Transit Commission, Giambrone oversaw the largest expansion of bus service in Toronto. Giambrone secured over $8 billion in new funding to build light rail into areas of the city currently not served by rapid transit. An expansion of two subway lines also forms part of an overall $18 billion long-term expansion plan driven by Giambrone. On February 1, 2010, Giambrone announced his candidacy to succeed David Miller as Mayor of Toronto in the 2010 election, as a leading progressive candidate, showing second place in polls after John Tory dropped out, though Giambrone also had a high \"unfavourable\" rating of 40%. Giambrone exited the mayoral race on February 10, 2010 amidst a sex scandal and he did not run for re-election for his council seat. Giambrone was the Ontario NDP's candidate for the August 1, 2013 provincial by-election in Scarborough—Guildwood. He placed third with 28% of the vote."
+}, {
+  "entityIndex" : "entity80",
+  "entityUrl" : "<http://dbpedia.org/resource/Adam_J._Baker>",
+  "entityString" : "Adam_J._Baker",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1821-09-22", "1821-9-22" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Upper_Canada", "http://dbpedia.org/resource/Stormont_County,_Ontario" ],
+    "dbo:deathDate" : [ "1912-08-03", "1912-8-3" ],
+    "dbo:deathPlace" : [ "http://dbpedia.org/resource/Killarney,_Manitoba" ],
+    "dbo:orderInOffice" : [ "MPPforRussell" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario" ],
+    "dbp:term" : [ "--01-18" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "Legislative" ],
+    "NN_1" : [ "member", "Assembly" ],
+    "WORD_1" : [ "22", "-LRB-", "September", "1877", "1875", "Reeve", "Baker", "member", "1912", "Assembly", "1878", "--", "Township", "representing", ",", "Osgoode", ".", "August", "Adam", "1821", "Russell", "3", "1883", "-RRB-", "Legislative", "Ontario", "Jacob" ]
+  }, {
+    "JJ_2" : [ "née" ],
+    "NN_2" : [ "Waldorff" ],
+    "WORD_2" : [ "Upper", "-LRB-", "Osnabruck", "Township", "Waldorff", "born", "née", ",", "William", "County", ".", "Canada", "1821", "Stormont", "Eve", "-RRB-", "Anne" ]
+  }, {
+    "NN_3" : [ "postmaster", "village" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "Metcalfe", "postmaster", "barrels", "also", "village", "manufactured", "20", "years", "." ]
+  }, {
+    "NN_4" : [ ],
+    "JJ_4" : [ ],
+    "WORD_4" : [ "Janet", "McDonnell", "1849", "married", "." ]
+  } ],
+  "text" : "Adam Jacob Baker (September 22, 1821 – August 3, 1912) was a member of the Legislative Assembly of Ontario representing Russell from 1875 to 1883 and Reeve of Osgoode Township from 1877 to 1878. He was born in Osnabruck Township in the County of Stormont in Upper Canada, to William and Anne Eve (née Waldorff) in 1821. He manufactured barrels in the village of Metcalfe where he was also postmaster for 20 years. He married Janet McDonnell in 1849. He died August 3, 1912 in Killarney, Manitoba."
+} ]

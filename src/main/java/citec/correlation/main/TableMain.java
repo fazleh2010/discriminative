@@ -14,6 +14,12 @@ import citec.correlation.core.wikipedia.Property;
 import citec.correlation.core.wikipedia.DBpediaEntity;
 import citec.correlation.core.weka.MakeArffTable;
 import citec.correlation.core.yaml.ParseYaml;
+import citec.correlation.utils.FileFolderUtils;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.AnnotationIntrospector.ReferenceProperty.Type;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.gson.reflect.TypeToken;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.HashMap;
@@ -31,6 +37,8 @@ import java.util.TreeSet;
 public class TableMain implements PropertyConst {
 
     private static String dbpediaDir = "src/main/resources/dbpedia/";
+    private static String entityTable = "entityTable/";
+
     private static String input = "democratic/input/";
     private static String output = "democratic/output/";
     private static String inputJsonFile = dbpediaDir + input + "results-100000000-1000-concretePO.json";
@@ -49,20 +57,43 @@ public class TableMain implements PropertyConst {
     }
 
     private MakeArffTable createArffTrainingTable(String entitiesPropertyFile, String wordPresenseFile, String democraticArff) throws FileNotFoundException, IOException, Exception {
+        Set<String> checkProperties=new HashSet<String>();
+        checkProperties.add(DBO_PARTY);
+        checkProperties.add(DBO_COUNTRY);
+        //checkProperties.add(DC_DESCRIPTION);
+        
         freqClasses.add("dbo:Politician");
         DbpediaClass dbpediaClass = new DbpediaClass("dbo:Politician", entitiesPropertyFile, TextAnalyzer.POS_TAGGER);
         Set<EntityTable> entityTables = new TreeSet<EntityTable>();
-        for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
+        
+        /*for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
             Property property = new Property(propertyString);
             Set<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
-            String checkProperty = DBO_PARTY;
-            if (property.getPredicate().contains(checkProperty)) {
+            //String checkProperty = DBO_PARTY;
+            if (checkProperties.contains(property.getPredicate())) {
                 //System.out.println("..."+property.getPredicate());
-                EntityTable entityTable = new EntityTable(dbpediaDir, dbpediaClass.getClassName(), checkProperty, entities, TextAnalyzer.POS_TAGGER);
+                EntityTable entityTable = new EntityTable(dbpediaDir, dbpediaClass.getClassName(), property.getPredicate(), entities, TextAnalyzer.POS_TAGGER);
                 //entityTables.add(entityTable);
 
             }
 
+        }*/
+        
+         /*if (property.getPredicate().contains(checkProperty)) {
+                //System.out.println("..."+property.getPredicate());
+                EntityTable entityTable = new EntityTable(dbpediaDir, dbpediaClass.getClassName(), checkProperty, entities, TextAnalyzer.POS_TAGGER);
+                //entityTables.add(entityTable);
+
+            }*/
+        
+        File[] list = FileFolderUtils.getFiles(dbpediaDir + entityTable, ".json");
+        for (File file : list) {
+            System.out.println("file.." + file);
+            ObjectMapper mapper = new ObjectMapper();
+            List<DBpediaEntity> dbpediaEntitys = mapper.readValue(file, new TypeReference<List<DBpediaEntity>>() {
+            });
+           EntityTable entityTable=new  EntityTable(file.getName(),dbpediaEntitys);
+           System.out.println(entityTable);
         }
         
         //http://dbpedia.org/page/Akshay_Kumar
@@ -76,7 +107,7 @@ public class TableMain implements PropertyConst {
         return parseYaml.yamlDemocratic(democraticWordFile);
     }
 
-    private Map<String, DBpediaEntity> getEntityTable(Map<String, List<String>> propertyEntities, Map<String, Boolean> entityWordPresence) {
+    /*private Map<String, DBpediaEntity> getEntityTable(Map<String, List<String>> propertyEntities, Map<String, Boolean> entityWordPresence) {
         Map<String, DBpediaEntity> entityTable = new TreeMap<String, DBpediaEntity>();
         for (String propertyString : propertyEntities.keySet()) {
             List<String> entities = propertyEntities.get(propertyString);
@@ -106,7 +137,7 @@ public class TableMain implements PropertyConst {
             }
         }
         return entityTable;
-    }
+    }*/
 
     private void createTable(Map<String, List<DBpediaEntity>> propertyEntities) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.

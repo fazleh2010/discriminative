@@ -1,0 +1,316 @@
+[ {
+  "entityIndex" : "entity81",
+  "entityUrl" : "<http://dbpedia.org/resource/A._A._Purcell>",
+  "entityString" : "A._A._Purcell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1872-11-3" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:deathDate" : [ "1935-12-24" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Labor_Party_(UK)" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Alonzo_Swales", "http://dbpedia.org/resource/Walter_Citrine", "John Bromley and George Hicks" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Joe_Williams_(trade_unionist)", "http://dbpedia.org/resource/J._H._Thomas", "Charlie Cramp and Alonzo Swales" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/President_of_the_Trades_Union_Congress", "Member of Parliament for Coventry", "Trades Union Congress representative to the American Federation of Labour", "President of the International Federation of Trade Unions", "Member of Parliament for Forest of Dean" ],
+    "dbp:with" : [ "http://dbpedia.org/resource/Ben_Smith_(Labour_politician)" ],
+    "dbp:years" : [ "1923", "1924", "1925" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "British", "unionist" ],
+    "NN_1" : [ "trade", "politician" ],
+    "WORD_1" : [ "--", "Purcell", "24", "British", "-LRB-", "Arthur", "politician", "unionist", "Labour", ".", "December", "3", "trade", "Party", "1872", "-RRB-", "Albert", "1935", "November" ]
+  }, {
+    "JJ_2" : [ "separate" ],
+    "NN_2" : [ ],
+    "WORD_2" : [ "separate", "sat", "House", ",", "two", ".", "Unions", "President", "Trade", "Federation", "Commons", "1929", "1928", "periods", "1924", "1923", "International" ]
+  }, {
+    "NN_3" : [ "forerunner" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "Purcell", "Association", "National", "Trades", "joined", "Amalgamated", "1891", "forerunner", "Furnishing", "." ]
+  }, {
+    "NN_4" : [ "time" ],
+    "JJ_4" : [ ],
+    "WORD_4" : [ "Social", "joined", "Democratic", "Federation", "also", "time", ",", "." ]
+  } ],
+  "text" : "Albert Arthur Purcell (3 November 1872 – 24 December 1935) was a British trade unionist and Labour Party politician. He was President of the International Federation of Trade Unions from 1924 to 1928, and sat in the House of Commons in two separate periods between 1923 and 1929. Purcell joined a forerunner of the National Amalgamated Furnishing Trades Association in 1891. About the same time, he also joined the Social Democratic Federation. He was elected to Salford Borough Council, serving for six years, then in 1911 became Assistant General Secretary of the union, followed in 1917 by election as General Secretary. Alongside this, he served as Treasurer of the Federation of Engineering and Shipbuilding Trades for three years, then as President. He was elected to the General Council of the Trades Union Congress (TUC) in 1921, becoming President of the TUC in 1924. In 1925, he chaired a TUC delegation to the Soviet Union. Purcell was elected at the December 1923 general election as the Member of Parliament (MP) for the city of Coventry, defeating the sitting Conservative MP Sir Edward Manville. However, at the next general election, in October 1924, he was defeated by the Conservative candidate from the 1923 general election. However, Purcell was out of Parliament for only 9 months. James Wignall, the Labour MP for the Forest of Dean division of Gloucestershire, died in June 1925, and at the resulting by-election on 14 July, Purcell won the seat. He did not defend that seat at the 1929 general election, but stood instead in Manchester Moss Side, where he was defeated by the sitting Conservative MP Sir Gerald Berkeley Hurst."
+}, {
+  "entityIndex" : "entity82",
+  "entityUrl" : "<http://dbpedia.org/resource/A._E._Stubbs>",
+  "entityString" : "A._E._Stubbs",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1877-1-1" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:deathDate" : [ "1962-1-1" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Labor_Party_(UK)" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Gerald_Howard" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Richard_George_Briscoe" ],
+    "dbp:title" : [ "Member of Parliament for Cambridgeshire" ],
+    "dbp:years" : [ "1945" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "English" ],
+    "NN_1" : [ "trade", "politician", "official", "union" ],
+    "WORD_1" : [ "--", "-LRB-", "Stubbs", "politician", "official", "union", ".", "1877", "English", "1962", "trade", "4", "-RRB-", "Albert", "Ernest", "January" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ ],
+    "WORD_2" : [ "Stubbs", "born", "Yorkshire", "moved", "March", ",", "Cambridge", "1914", "." ]
+  }, {
+    "NN_3" : [ "trade", "interest", "plight", "machinist", "printing" ],
+    "JJ_3" : [ "agricultural", "great" ],
+    "WORD_3" : [ "took", "trade", "although", "agricultural", "interest", "plight", ",", "machinist", "great", "workers", "printing", "." ]
+  }, {
+    "NN_4" : [ ],
+    "JJ_4" : [ "full-time", "agricultural" ],
+    "WORD_4" : [ "became", "full-time", "Isle", "1919", "'", "representing", ",", "Union", ".", "Cambridgeshire", "Ely", "agricultural", "Workers", "largely", "District", "workers", "Officer" ]
+  } ],
+  "text" : "Albert Ernest Stubbs (1877–4 January 1962) was an English trade union official and politician. Stubbs was born in Yorkshire, but moved to Cambridge in March 1914. By trade he was a printing machinist, although he took a great interest in the plight of agricultural workers. In 1919 he became full-time District Officer of the Workers' Union for Cambridgeshire and the Isle of Ely, largely representing agricultural workers. When the Workers' Union amalgamated with the Transport and General Workers' Union in 1929 he became Cambridge and District Officer for the TGWU. A member of Cambridgeshire County Council from 1931 to his death and Cambridge Borough Council from 1923 to 1949 (and an alderman of both from 1942), he served as Labour Member of Parliament for Cambridgeshire from 1945 to 1950, when he lost his seat to the Conservatives (he had lost the general election for Cambridge in 1922 by only 679 votes). He is the only Labour MP to have ever sat for a Cambridgeshire constituency outside the city of Cambridge itself (although  Peterborough, which was during his lifetime outside the county, has been represented by Labour MPs). He retired from the TGWU in 1944."
+}, {
+  "entityIndex" : "entity83",
+  "entityUrl" : "<http://dbpedia.org/resource/Aaron_Curry_(politician)>",
+  "entityString" : "Aaron_Curry_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1935-11-14" ],
+    "dbo:activeYearsStartDate" : [ "1931-10-27" ],
+    "dbo:birthDate" : [ "1888-08-17", "1887-8-17" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:deathDate" : [ "1957-01-06", "1957-1-6" ],
+    "dbo:office" : [ "Member of Parliament", "forBishop Auckland" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Liberal_Party_(UK)", "http://dbpedia.org/resource/National_Liberal_Party_(UK,_1931)" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Hugh_Dalton" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Hugh_Dalton" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Hugh_Dalton" ],
+    "dbp:nationality" : [ "British" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Hugh_Dalton" ],
+    "dbp:title" : [ "Member of Parliament for Bishop Auckland" ],
+    "dbp:years" : [ "1931" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "National" ],
+    "NN_1" : [ "politician" ],
+    "WORD_1" : [ "Curry", "--", "-LRB-", "17", "Liberal", "sometimes", "politician", "United", "Charlton", ",", ".", "August", "Aaron", "1887", "Party", "National", "Kingdom", "6", "-RRB-", "January", "1957" ]
+  }, {
+    "JJ_2" : [ "general", "Liberal", "Houghton-le-Spring" ],
+    "NN_2" : [ "candidate", "constituency" ],
+    "WORD_2" : [ "Liberal", "Houghton-le-Spring", ",", "elections", "contested", ".", "unsuccessfully", "general", "candidate", "constituency", "Standing", "1924", "1923" ]
+  }, {
+    "NN_3" : [ "election", "by-election" ],
+    "JJ_3" : [ "general" ],
+    "WORD_3" : [ "Bishop", "general", "election", "defeated", "Wallsend", "1929", "by-election", "1926", ",", "Auckland", "." ]
+  }, {
+    "NN_4" : [ "candidate", "election", "Labour", "attempt" ],
+    "JJ_4" : [ "sixth", "general" ],
+    "WORD_4" : [ "Bishop", "-LRB-", "stood", "Labour", "Auckland", "attempt", "sixth", "1931", "general", "candidate", "National", "Commons", "Dalton", "Member", "election", "MP", "Liberal", "House", ",", "Hugh", ".", "elected", "-RRB-", "defeating", "sitting", "Parliament" ]
+  } ],
+  "text" : "Aaron Charlton Curry (17 August 1887 – 6 January 1957) was a Liberal Party, and sometimes National Liberal, politician in the United Kingdom. Standing as a Liberal candidate at the 1923 and 1924 general elections, he unsuccessfully contested the Houghton-le-Spring constituency. He was defeated again at the Wallsend by-election in 1926, and in Bishop Auckland at a by-election in 1929 and at the 1929 general election. He was elected to the House of Commons on his sixth attempt, at the 1931 general election, when he stood as a National Liberal candidate for Bishop Auckland, defeating the sitting Labour Member of Parliament (MP) Hugh Dalton. Curry subsequently rejoined the Liberal Party, and stood as a Liberal candidate at the 1935 general election, when Dalton regained the seat. Curry did not stand for Parliament again."
+}, {
+  "entityIndex" : "entity84",
+  "entityUrl" : "<http://dbpedia.org/resource/Abel_Buckley>",
+  "entityString" : "Abel_Buckley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1835-1-1" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:deathDate" : [ "1908-12-23" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Liberal_Party_(UK)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Ryecroft_Hall_-_geograph.org.uk_-_1176911.jpg?width=300" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Prestwich_(UK_Parliament_constituency)" ],
+    "dbp:years" : [ "1885" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "British", "Liberal", "Irish" ],
+    "NN_1" : [ "descent", "politician", "cotton", "manufacturer" ],
+    "WORD_1" : [ "--", "23", "Buckley", "British", "-LRB-", "Liberal", "1908", "politician", "cotton", ".", "manufacturer", "Irish", "descent", "December", "Abel", "-RRB-", "1835" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ "son" ],
+    "WORD_2" : [ "Lancashire", "Alderdale", "Buckley", "Ashton-under-Lyne", "younger", "born", ",", ".", "Keehan", "son", "Abel", "Lodge", "Mary" ]
+  }, {
+    "NN_3" : [ ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "educated", "School", "Hill", "Owen", "Mill", "College", "'s", "." ]
+  }, {
+    "NN_4" : [ "son" ],
+    "JJ_4" : [ ],
+    "WORD_4" : [ "-LRB-", "Hannah", "one", "born", "also", "died", ",", ".", "1876", "1875", "1897", "son", "Abel", "-RRB-", "Summers", "married" ]
+  } ],
+  "text" : "Abel Buckley (1835 – 23 December 1908) was a British cotton manufacturer and Liberal politician of Irish descent. He was born in Ashton-under-Lyne, Lancashire, the younger son of Abel Buckley and Mary Keehan of Alderdale Lodge. He was educated at Mill Hill School and Owen's College. In 1875 he married Hannah Summers (who died in 1897) and they had one son, also Abel, born in 1876. The Buckley family owned two cotton mills in Ashton: Ryecroft and Oxford Road, and Abel became involved in the business. At his death he was described as \"one of the old cotton lords of Lancashire\". In 1885 Buckley inherited Ryecroft Hall, Audenshaw, from his uncle, James Smith Buckley, and was to live there for the rest of his life. He subsequently inherited Galtee Castle, near Mitchelstown, County Cork. The estate had been purchased by his uncle, Nathaniel Buckley, MP for Stalybridge in 1873. In 1885 Abel Buckley was elected Liberal MP for the newly created Prestwich constituency. In the general election of the following year, however, he was defeated. Apart from his interests in the cotton industry, Buckley was a director and chairman of the Manchester and Liverpool District Banking Company and a justice of the peace. He was a collector of fine art, and a racehorse breeder. He died at Ryecroft Hall on 23 December 1908, aged 73."
+}, {
+  "entityIndex" : "entity85",
+  "entityUrl" : "<http://dbpedia.org/resource/Adam_Hills_(politician)>",
+  "entityString" : "Adam_Hills_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1880-8-10" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:deathDate" : [ "1941-1-1" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Labor_Party_(UK)" ],
+    "dbp:title" : [ "Member of Parliament for Pontefract" ],
+    "dbp:years" : [ "1935" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ ],
+    "NN_1" : [ "politician" ],
+    "WORD_1" : [ "--", "June", "-LRB-", "politician", "1880", "England", "Labour", ".", "August", "Adam", "1941", "Party", "Hills", "-RRB-", "10" ]
+  }, {
+    "JJ_2" : [ "aged" ],
+    "NN_2" : [ "death" ],
+    "WORD_2" : [ "1941", "-LRB-", "MP", "death", "-RRB-", "aged", "Pontefract", "60", "Member", "1935", "Parliament", "." ]
+  } ],
+  "text" : "Adam Hills (10 August 1880 – June 1941) was a Labour Party politician in England. He was Member of Parliament (MP) for Pontefract from 1935 until his death in 1941 aged 60."
+}, {
+  "entityIndex" : "entity86",
+  "entityUrl" : "<http://dbpedia.org/resource/Adam_Hunter_(politician)>",
+  "entityString" : "Adam_Hunter_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1908-11-11" ],
+    "dbo:deathDate" : [ "1991-4-9" ],
+    "dbp:title" : [ "Member of Parliament for Dunfermline", "Member of Parliament for Dunfermline Burghs" ],
+    "dbp:years" : [ "1964", "Feb 1974&ndash;1979" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "British" ],
+    "NN_1" : [ "politician" ],
+    "WORD_1" : [ "11", "--", "Hunter", "British", "-LRB-", "1908", "politician", "Labour", "April", ".", "Adam", "Party", "1991", "-RRB-", "9", "November" ]
+  }, {
+    "JJ_2" : [ "Scottish" ],
+    "NN_2" : [ "executive", "member", "miner" ],
+    "WORD_2" : [ "Hunter", "executive", "Scottish", "National", "member", "Mineworkers", "miner", "Union", "." ]
+  }, {
+    "NN_3" : [ "councillor" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "elected", "Fife", "councillor", "County", "Council", "." ]
+  }, {
+    "NN_4" : [ "secretary", "chairman" ],
+    "JJ_4" : [ "many" ],
+    "WORD_4" : [ "Fife", "West", "chairman", "Labour", "many", "years", ".", "Party", "secretary", "Association", "served", "Constituency", "Co-operative" ]
+  } ],
+  "text" : "Adam Hunter (11 November 1908 – 9 April 1991) was a British Labour Party politician. Hunter was a miner and a Scottish executive member of the National Union of Mineworkers. He was elected a councillor on Fife County Council. He served as chairman of West Fife Constituency Labour Party and secretary of Fife Co-operative Association for many years. Hunter was Member of Parliament for Dunfermline Burghs from 1964 to 1974, and then (after boundary changes) for Dunfermline until 1979, preceding Dick Douglas."
+}, {
+  "entityIndex" : "entity87",
+  "entityUrl" : "<http://dbpedia.org/resource/Adam_Keir_Rodger>",
+  "entityString" : "Adam_Keir_Rodger",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1855-1-1" ],
+    "dbo:deathDate" : [ "1946-1-1" ],
+    "dbp:title" : [ "Member of Parliament for Rutherglen" ],
+    "dbp:years" : [ "1918" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ ],
+    "NN_1" : [ ],
+    "WORD_1" : [ "Keir", "--", "-LRB-", "MP", "Liberal", ".", "Adam", "1855", "Rodger", "Coalition", "-RRB-", "1918", "1946", "Rutherglen", "1922" ]
+  }, {
+    "JJ_2" : [ "Scottish" ],
+    "NN_2" : [ "age" ],
+    "WORD_2" : [ "Temperance", "Scottish", "Assurance", "27", "started", "Society", "Limited", "age", "." ]
+  }, {
+    "NN_3" : [ "business", "faith", "temperance" ],
+    "JJ_3" : [ "due" ],
+    "WORD_3" : [ "business", "due", "Rodger", "faith", "'s", "launched", "temperance", "." ]
+  }, {
+    "NN_4" : [ "company", "holder", "payment", "policy" ],
+    "JJ_4" : [ "bankrupt", "first" ],
+    "WORD_4" : [ "went", "#", "nearly", "1000", "holder", "died", ".", "requiring", "company", "payment", "bankrupt", "first", "policy" ]
+  } ],
+  "text" : "Adam Keir Rodger (1855–1946) was Coalition Liberal MP for Rutherglen from 1918 to 1922. At the age of 27 he started the Scottish Temperance Assurance Society Limited. The business was launched due to Rodger's faith in temperance. The company nearly went bankrupt when its first policy holder died requiring a payment of £1000. The company later sold a policy to David Lloyd George and is now credited to launching the assurance business in Scotland."
+}, {
+  "entityIndex" : "entity88",
+  "entityUrl" : "<http://dbpedia.org/resource/Adam_Rolland_Rainy>",
+  "entityString" : "Adam_Rolland_Rainy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1862-4-3" ],
+    "dbo:deathDate" : [ "1911-8-26" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/1911_Dr_Adam_Rainy.jpg?width=300" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/William_Glynne_Charles_Gladstone" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/John_McAusland_Denny" ],
+    "dbp:candidate" : [ "http://dbpedia.org/resource/John_McAusland_Denny", "http://dbpedia.org/resource/John_James_Bell", "James Buyers Black", "Thomas W McIntyre", "Adam Rolland Rainy" ],
+    "dbp:change" : [ "-10.6", "-2.1", "-0.2", "+0.2", "+2.1", "+10.6" ],
+    "dbp:party" : [ "Conservative Party", "Liberal Party" ],
+    "dbp:percentage" : [ "38.9", "39.1", "41", "48.4", "51.6", "59", "60.9", "61.1" ],
+    "dbp:title" : [ "Member of Parliament for Kilmarnock Burghs" ],
+    "dbp:votes" : [ "5569", "5692", "5701", "5743", "6073", "8268", "8657", "8937" ],
+    "dbp:years" : [ "1906" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ ],
+    "NN_1" : [ "politician" ],
+    "WORD_1" : [ "--", "-LRB-", "26", "Kilmarnock", "Liberal", "politician", "sat", "Scotland", "House", "Dr", "April", ".", "August", "Adam", "3", "Party", "Rainy", "1862", "Commons", "Burghs", "Rolland", "-RRB-", "1911" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ "profession", "surgeon", "oculist" ],
+    "WORD_2" : [ "profession", "surgeon", "oculist", "." ]
+  } ],
+  "text" : "Dr Adam Rolland Rainy (3 April 1862 – 26 August 1911) was a Liberal Party politician in Scotland who sat in the House of Commons for Kilmarnock Burghs. By profession he was a surgeon oculist."
+}, {
+  "entityIndex" : "entity89",
+  "entityUrl" : "<http://dbpedia.org/resource/Adolphus_William_Young>",
+  "entityString" : "Adolphus_William_Young",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1814-0-0" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Hare_Hatch" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:deathDate" : [ "1885-11-4" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Liberal_Party_(UK)" ],
+    "dbp:alongside" : [ "http://dbpedia.org/resource/Charles_Nicholson", "http://dbpedia.org/resource/Thomas_Mitchell_(explorer)", "http://dbpedia.org/resource/Thomas_Walker_(philanthropist)", "http://dbpedia.org/resource/John_Dunmore_Lang" ],
+    "dbp:title" : [ "Member of Parliament for Great Yarmouth", "Member of Parliament for Helston", "Member for Port Phillip" ],
+    "dbp:with" : [ "http://dbpedia.org/resource/John_Mellor_(judge)" ],
+    "dbp:years" : [ "1844", "1857", "1865", "1868" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "English", "Legislative" ],
+    "NN_1" : [ "member", "solicitor" ],
+    "WORD_1" : [ "--", "New", "became", "Young", "-LRB-", "spent", "Wales", "South", "solicitor", "William", "years", "Council", ".", "English", "1885", "4", "-RRB-", "member", "Legislative", "Adolphus", "1814", "November" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ "politician" ],
+    "WORD_2" : [ "Party", "Liberal", "Commons", "politician", "sat", "England", "1880", "House", "variously", "returned", "1857", "." ]
+  }, {
+    "NN_3" : [ "Young", "son", "parish", "wife", "daughter" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "Young", "Hatch", "wife", "John", ",", "William", "Hare", ".", "Braham", "son", "parish", "Wargrave", "Berkshire", "Haggard", "Hall", "Adolphus", "Lodge", "daughter", "Frances", "Norfolk" ]
+  }, {
+    "NN_4" : [ "solicitor" ],
+    "JJ_4" : [ ],
+    "WORD_4" : [ "New", "Young", "went", "Wales", "South", "solicitor", "years", "Sydney", ".", "practised" ]
+  } ],
+  "text" : "Adolphus William Young (1814 – 4 November 1885) was an English solicitor who spent some years in New South Wales and became a member of the New South Wales Legislative Council. He returned to England where he was a Liberal Party politician who sat in the House of Commons variously between 1857 and 1880. Young was the son of John Adolphus Young of Hare Hatch Lodge, in the parish of Wargrave, Berkshire and his wife Frances Haggard daughter of William Haggard, of Braham Hall, Norfolk. Young went to New South Wales where he practised for some years as a solicitor in Sydney. He was High Sheriff of New South Wales from October 1842 to 1849 and became a director of the Australasian Colonial and General Life Assurance Company in 1844. Young was a representative for the Port Phillip District in the Legislative Council before Victoria was formed into a separate colony. He returned to England and was a J.P. and Deputy Lieutenant for Berkshire. Young was first elected British Member of Parliament (MP) for Great Yarmouth in 1857 but lost the seat in 1859. He was elected MP for Helston at the 1865 general election but his election was declared void on 18 April 1866 and a by-election held. He was re-elected MP for Helston at the 1868 general election and held the seat until 1880. Young died at the age of 71. Young married firstly Ann Eliza Smith, daughter of Edward Smith of Woodford Wells, Essex in 1837. Ann died in 1845 and he married secondly in 1847, Jane Throsby, daughter of Charles Throsby of Throsby Park, New South Wales."
+}, {
+  "entityIndex" : "entity90",
+  "entityUrl" : "<http://dbpedia.org/resource/Aeneas_John_McIntyre>",
+  "entityString" : "Aeneas_John_McIntyre",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1821-12-6" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:deathDate" : [ "1889-9-19" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Liberal_Party_(UK)" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Thomas_Rowley_Hill", "http://dbpedia.org/resource/John_Derby_Allcroft" ],
+    "dbp:title" : [ "Member of Parliament for Worcester" ],
+    "dbp:with" : [ "http://dbpedia.org/resource/Thomas_Rowley_Hill" ],
+    "dbp:years" : [ "1880" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "Scottish-born" ],
+    "NN_1" : [ "politician" ],
+    "WORD_1" : [ "Aeneas", "--", "-LRB-", "September", "Liberal", "politician", "sat", "John", "19", "1880", "McIntyre", "House", ".", "1821", "QC", "December", "Party", "1885", "6", "Commons", "-RRB-", "Scottish-born", "1889" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ "son" ],
+    "WORD_2" : [ "Aeneas", "Mclntyre", "son", "LL.D", "." ]
+  }, {
+    "NN_3" : [ "wife", "daughter" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "Charlotte", "Aberdeen", "wife", ",", "'s", "William", "Hackney", ".", "Thomson", "King", "College", "F.L.S.", "Jamaica", "Thompson", "daughter", "Susanna" ]
+  }, {
+    "NN_4" : [ "bar" ],
+    "JJ_4" : [ ],
+    "WORD_4" : [ "1843", "bar", "Temple", "called", "6", "entered", "Middle", "20", "1846", ".", "November" ]
+  } ],
+  "text" : "Aeneas John McIntyre QC (6 December 1821 – 19 September 1889) was a Scottish-born Liberal Party politician who sat in the House of Commons from 1880 to 1885. Mclntyre was the only son of Aeneas Mclntyre LL.D. and F.L.S., of King's College, Aberdeen, and Hackney and his wife Charlotte Susanna Thompson, daughter of William Thomson of Jamaica. He entered Middle Temple on 6 November 1843 and was called to the bar 20 November 1846. On 8 February 1872 he was appointed , Q.C. and became a Bencher of his Inn on 27 May 1873. He went on the North Wales and Chester circuit and was elected a member of the Bar Committee in December 1883. At the 1880 general election McIntyre was elected as one of the two Members of Parliament (MPs) for Worcester.He held the seat until Worcester's representation was reduced to one seat under the Redistribution of Seats Act. At the 1880 general election he stood unsuccessfully in Hackney North. McIntyre was appointed County Court Judge for circuit No. 12 (Yorkshire) in January 1889, but died nine months later at the age of 67. McIntyre married Eleanor Corbett daughter of George Corbett in 1854."
+} ]

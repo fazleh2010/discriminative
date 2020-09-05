@@ -35,8 +35,9 @@ public class Ngram {
     private List<DBpediaEntity> setEntities(List<String> entities) {
         List<DBpediaEntity> dbpediaEntities=new ArrayList<DBpediaEntity>();
         for(String entityString:entities){
-           DBpediaEntity dbpediaEntity=new DBpediaEntity(entityString);
-           dbpediaEntities.add(dbpediaEntity);
+           /*original working version that is stopped now
+           /DBpediaEntity dbpediaEntity=new DBpediaEntity(entityString);
+           dbpediaEntities.add(dbpediaEntity);*/
         }
         return dbpediaEntities;
     }

@@ -23,6 +23,11 @@ public class EntityTable {
 
     private List<DBpediaEntity> dbpediaEntities = new ArrayList<DBpediaEntity>();
     private String tableName;
+    
+    public EntityTable(String tableName,List<DBpediaEntity> dbpediaEntities) throws Exception {
+        this.tableName=tableName;
+        this.dbpediaEntities=dbpediaEntities;
+    }
 
     public EntityTable(String dbpediaDir,String freqClass, String freqProp,Set<String> keySet, String POS_TAGGER) throws Exception {
         this.tableName=dbpediaDir+freqClass + "_" + freqProp;
@@ -68,6 +73,11 @@ public class EntityTable {
 
     public String getTableName() {
         return tableName;
+    }
+
+    @Override
+    public String toString() {
+        return "{" + "tableName=" + tableName +  "," +"dbpediaEntities=" + dbpediaEntities +'}';
     }
 
 }

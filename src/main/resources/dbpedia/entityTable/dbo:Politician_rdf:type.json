@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity111",
+  "entityUrl" : "<http://dbpedia.org/resource/%C3%81gnes_Hankiss>",
+  "entityString" : "%C3%81gnes_Hankiss",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "senetences" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity112",
+  "entityUrl" : "<http://dbpedia.org/resource/%C3%89douard_Grinda>",
+  "entityString" : "%C3%89douard_Grinda",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "senetences" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity113",
+  "entityUrl" : "<http://dbpedia.org/resource/%C3%89liane_Assassi>",
+  "entityString" : "%C3%89liane_Assassi",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "senetences" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity114",
+  "entityUrl" : "<http://dbpedia.org/resource/%C3%89lisabeth_Lamure>",
+  "entityString" : "%C3%89lisabeth_Lamure",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "senetences" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity115",
+  "entityUrl" : "<http://dbpedia.org/resource/%C3%89mile_Blessig>",
+  "entityString" : "%C3%89mile_Blessig",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "senetences" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity116",
+  "entityUrl" : "<http://dbpedia.org/resource/%C3%89mile_Deshayes_de_Marc%C3%A8re>",
+  "entityString" : "%C3%89mile_Deshayes_de_Marc%C3%A8re",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "senetences" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity117",
+  "entityUrl" : "<http://dbpedia.org/resource/%C3%89mile_Flourens>",
+  "entityString" : "%C3%89mile_Flourens",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "senetences" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity118",
+  "entityUrl" : "<http://dbpedia.org/resource/%C3%89ric_Diard>",
+  "entityString" : "%C3%89ric_Diard",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "senetences" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity119",
+  "entityUrl" : "<http://dbpedia.org/resource/%C3%89ric_Dolig%C3%A9>",
+  "entityString" : "%C3%89ric_Dolig%C3%A9",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "senetences" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity120",
+  "entityUrl" : "<http://dbpedia.org/resource/%C3%89ric_Raoult>",
+  "entityString" : "%C3%89ric_Raoult",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1" ]
+  },
+  "senetences" : [ ],
+  "text" : ""
+} ]

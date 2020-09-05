@@ -1,0 +1,369 @@
+[ {
+  "entityIndex" : "entity91",
+  "entityUrl" : "<http://dbpedia.org/resource/A._J._McNamara>",
+  "entityString" : "A._J._McNamara",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2001-06-09" ],
+    "dbo:activeYearsStartDate" : [ "1982-06-21" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Jesuit_High_School_(New_Orleans)", "http://dbpedia.org/resource/Louisiana_State_University", "http://dbpedia.org/resource/Loyola_University_New_Orleans_College_of_Law" ],
+    "dbo:appointer" : [ "http://dbpedia.org/resource/Ronald_Reagan" ],
+    "dbo:birthDate" : [ "1936-06-09", "1936-6-9" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/New_Orleans,_Louisiana", "http://dbpedia.org/resource/New_Orleans" ],
+    "dbo:deathDate" : [ "2014-12-02", "2014-12-2" ],
+    "dbo:deathPlace" : [ "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Louisiana", "http://dbpedia.org/resource/Metairie,_Louisiana" ],
+    "dbo:militaryBranch" : [ "http://dbpedia.org/resource/United_States_Navy" ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Engineer", "http://dbpedia.org/resource/Lawyer" ],
+    "dbo:office" : [ "Louisiana State Representative for Jefferson Parish" ],
+    "dbo:orderInOffice" : [ "Judge of theUnited States District Court for the Eastern District of Louisiana" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Roman_Catholicism" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Louisiana", "http://dbpedia.org/resource/Metairie,_Louisiana" ],
+    "dbp:birthName" : [ "Abel John McNamara" ],
+    "dbp:children" : [ "Four children" ],
+    "dbp:deathCause" : [ "http://dbpedia.org/resource/Progressive_supranuclear_palsy" ],
+    "dbp:imageSize" : [ "165" ],
+    "dbp:parents" : [ "Henry D. and Ruby  McNamara" ],
+    "dbp:preceded" : [ "http://dbpedia.org/resource/Edward_James_Boyle,_Sr." ],
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Greenwood_Cemetery,_New_Orleans" ],
+    "dbp:spouse" : [ "Alma J.  McNamara" ],
+    "dbp:succeeded" : [ "http://dbpedia.org/resource/Jay_Zainey" ],
+    "dbp:termEnd" : [ "1980" ],
+    "dbp:termStart" : [ "1976" ],
+    "dbp:title" : [ "Judge of the United States District Court for the Eastern District of Louisiana" ],
+    "dbp:years" : [ "1982" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ ],
+    "NN_1" : [ "A." ],
+    "WORD_1" : [ "-LRB-", "J.", "9", "*", "McNamara", "A.", "." ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ "†" ],
+    "WORD_2" : [ "†", "New", "2", "Juni", "Louisiana", ";", "1936", "Orleans", ",", "." ]
+  }, {
+    "NN_3" : [ "Politiker", "war", "und", "ein", "US-amerikanischer", "Jurist" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "Metairie", "Politiker", "war", "und", "ein", ",", ".", "Jurist", "2014", "Dezember", "Louisiana", "-RRB-", "US-amerikanischer" ]
+  }, {
+    "NN_4" : [ "der", "dort", "erhielt", "Science", "B.S.", "und", "Bachelor", "seinen" ],
+    "JJ_4" : [ ],
+    "WORD_4" : [ "dort", "-LRB-", "Science", "und", "McNamara", "studierte", "Bachelor", ".", "der", "University", "State", "erhielt", "Louisiana", "-RRB-", "B.S.", "1959", "seinen" ]
+  } ],
+  "text" : "A. J. McNamara (* 9. Juni 1936 in New Orleans, Louisiana; † 2. Dezember 2014 in Metairie, Louisiana) war ein US-amerikanischer Jurist und Politiker. McNamara studierte an der Louisiana State University und erhielt dort 1959 seinen Bachelor of Science (B.S.). Im Anschluss diente er von 1959 bis 1962 in der United States Navy. An der Law School der Loyola University New Orleans erhielt er 1968 seinen Juris Doctor. McNamara praktizierte nun von 1968 bis 1982 als Rechtsanwalt in New Orleans. Von 1976 bis 1980 gehörte er dem Repräsentantenhaus von Louisiana an. Am 5. Mai 1982 wurde er von Präsident Ronald Reagan zum Richter am United States District Court for the Eastern District of Louisiana nominiert, um den vakanten Sitz von Edward James Boyle Sr. neu zu besetzen. Der Senat bestätigte ihn am 18. Juni. Am 21. Juni 1982 erfolgte seine Amtseinführung. McNamara bekleidete von 1999 bis 2001 das Amt des Obersten Richters. Am 9. Juni 2001 nahm er den „senior status“ an."
+}, {
+  "entityIndex" : "entity92",
+  "entityUrl" : "<http://dbpedia.org/resource/A._Ralph_Mollis>",
+  "entityString" : "A._Ralph_Mollis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2015-01-06" ],
+    "dbo:activeYearsStartDate" : [ "2007-01-01" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/St._Anselm_College" ],
+    "dbo:birthDate" : [ "1961-05-24", "1961-5-24" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/North_Providence,_Rhode_Island" ],
+    "dbo:orderInOffice" : [ "Secretary of State of Rhode Island" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Nellie_Gorbea" ],
+    "dbp:children" : [ "Michael, Angelo, and Briana" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Matt_Brown_(public_servant)" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Secretary_of_State_of_Rhode_Island" ],
+    "dbp:years" : [ "2007" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ ],
+    "NN_1" : [ "A." ],
+    "WORD_1" : [ "24", "-LRB-", "Ralph", "May", "Secretary", "born", ",", "A.", "Island", "Rhode", ".", "2007", "1961", "2015", "State", "Mollis", "-RRB-" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ "member", "office" ],
+    "WORD_2" : [ "1", "2007", "Party", "Democratic", "member", "office", ",", "assumed", "January", "." ]
+  }, {
+    "NN_3" : [ "term" ],
+    "JJ_3" : [ "second" ],
+    "WORD_3" : [ "beginning", "2011", ",", "Gorbea", ".", "second", "Nellie", "4", "reelected", "2015", "6", "term", "January", "succeeded" ]
+  } ],
+  "text" : "A. Ralph Mollis (born May 24, 1961) was the Secretary of State of Rhode Island from 2007 to 2015. A member of the Democratic Party, he assumed office on January 1, 2007. He was reelected to a second term beginning January 4, 2011 and was succeeded by Nellie Gorbea on January 6, 2015."
+}, {
+  "entityIndex" : "entity93",
+  "entityUrl" : "<http://dbpedia.org/resource/Aaron_Reardon>",
+  "entityString" : "Aaron_Reardon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Snohomish_County,_Washington" ],
+    "dbo:orderInOffice" : [ "Snohomish CountyExecutive" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Everett,_Washington" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Aaronreardon.jpg?width=300" ],
+    "dbp:caption" : [ "Reardon speaks at his annual state of the county address in 2009" ],
+    "dbp:children" : [ "2" ],
+    "dbp:predecessor" : [ "Bob Drewel" ],
+    "dbp:spouse" : [ "Kate Reardon" ],
+    "dbp:successor" : [ "John Lovick" ],
+    "dbp:termEnd" : [ "2013" ],
+    "dbp:termStart" : [ "2003" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "American", "Democratic", "former" ],
+    "NN_1" : [ "politician" ],
+    "WORD_1" : [ "Aaron", "Snohomish", "Executive", "American", "Democratic", "State", "politician", "Reardon", "County", "former", "Washington", "." ]
+  }, {
+    "JJ_2" : [ "First" ],
+    "NN_2" : [ "executive", "post", "county" ],
+    "WORD_2" : [ "county", "youngest", "sworn", ",", ".", "serving", "elected", "executive", "post", "2003", "America", "First", "Reardon" ]
+  }, {
+    "NN_3" : [ "resignation" ],
+    "JJ_3" : [ "effective" ],
+    "WORD_3" : [ "announced", "effective", "May", "2013", "Reardon", "resignation", ",", "February", "31", ".", "21" ]
+  }, {
+    "NN_4" : [ "member", "state" ],
+    "JJ_4" : [ ],
+    "WORD_4" : [ "Snohomish", "Executive", "Senator", "House", "Representatives", ",", "County", "Washington", ".", "serving", "Prior", "State", "served", "member", "Reardon", "state" ]
+  } ],
+  "text" : "Aaron Reardon is an American Democratic politician and former Snohomish County Executive in Washington State. First elected to the post in 2003, Reardon was sworn in as the youngest serving county executive in America. On February 21, 2013, Reardon announced his resignation effective May 31, 2013. Prior to serving as Snohomish County Executive, Reardon served as a Washington State Senator and a member of the state House of Representatives. He holds a double degree in political science and social science with a focus in public administration and economics from Central Washington University. Reardon is married to Kate Reardon and lives in Everett, Washington with his wife and two children. Reardon attended Mariner High School in Everett and lettered in football, rugby and swimming. His interest in competitive swimming led him to attend Central Washington University, but his swim career ended two months after his arrival - he took a political science course during his first semester and was captivated. He graduated from Central with dual Bachelor of Arts degrees in Economics and Social-Science Public Administration. While at the university, he volunteered on multiple statewide and local Democratic campaigns. His experience running campaigns landed him a paid post-graduate position with the Downtown Seattle Association where he lobbied on behalf of Seattle businesses."
+}, {
+  "entityIndex" : "entity94",
+  "entityUrl" : "<http://dbpedia.org/resource/Abram_A._Hammond>",
+  "entityString" : "Abram_A._Hammond",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1860-10-03", "1861-01-14" ],
+    "dbo:activeYearsStartDate" : [ "1857-01-12", "1860-10-04" ],
+    "dbo:birthDate" : [ "1814-03-21", "1814-3-21" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Brattleboro,_Vermont" ],
+    "dbo:deathDate" : [ "1874-08-27", "1874-8-27" ],
+    "dbo:deathPlace" : [ "http://dbpedia.org/resource/Denver", "http://dbpedia.org/resource/Denver,_Colorado" ],
+    "dbo:governor" : [ "http://dbpedia.org/resource/Ashbel_P._Willard" ],
+    "dbo:office" : [ "12thGovernor of Indiana", "13thLieutenant Governor of Indiana" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Whig_Party_(United_States)", "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Oliver_P._Morton", "http://dbpedia.org/resource/Henry_Smith_Lane" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Govabramhammond.gif?width=300" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Oliver_P._Morton", "http://dbpedia.org/resource/Henry_Smith_Lane" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Ashbel_P._Willard" ],
+    "dbp:lieutenant" : [ "Vacant" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Ashbel_P._Willard", "http://dbpedia.org/resource/Ashbel_Willard" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Lieutenant_Governor_of_Indiana", "http://dbpedia.org/resource/List_of_Governors_of_Indiana" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ],
+    "dbp:years" : [ "--01-12", "--10-04" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ ],
+    "NN_1" : [ ],
+    "WORD_1" : [ "-LRB-", "Hammond", "Adams", "*", ".", "Abram", "21" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ ],
+    "WORD_2" : [ "Vermont", "†", "27", "Brattleboro", "März", ";", ",", "1814", "." ]
+  }, {
+    "NN_3" : [ "der", "Politiker", "zwischen", "war", "und", "ein", "US-amerikanischer" ],
+    "JJ_3" : [ "und" ],
+    "WORD_3" : [ "Politiker", "12", "war", "und", "ein", ",", ".", "August", "der", "zwischen", "1874", "1861", "Colorado", "1860", "-RRB-", "Denver", "US-amerikanischer" ]
+  }, {
+    "NN_4" : [ ],
+    "JJ_4" : [ ],
+    "WORD_4" : [ "von", "Indiana", "Gouverneur", "." ]
+  } ],
+  "text" : "Abram Adams Hammond (* 21. März 1814 in Brattleboro, Vermont; † 27. August 1874 in Denver, Colorado) war ein US-amerikanischer Politiker und zwischen 1860 und 1861 der 12. Gouverneur von Indiana."
+}, {
+  "entityIndex" : "entity95",
+  "entityUrl" : "<http://dbpedia.org/resource/Adam_Schiff>",
+  "entityString" : "Adam_Schiff",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Stanford_University", "http://dbpedia.org/resource/Harvard_Law_School" ],
+    "dbo:birthDate" : [ "1960-06-22", "1960-6-22" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Framingham,_Massachusetts", "http://dbpedia.org/resource/Massachusetts" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:predecessor" : [ "http://dbpedia.org/resource/Henry_Waxman", "http://dbpedia.org/resource/Howard_Berman", "http://dbpedia.org/resource/James_E._Rogan" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/California" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Judaism" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Tony_Cárdenas", "http://dbpedia.org/resource/Brad_Sherman" ],
+    "dbo:termPeriod" : [ "http://dbpedia.org/resource/Adam_Schiff__1", "http://dbpedia.org/resource/Adam_Schiff__2", "http://dbpedia.org/resource/Adam_Schiff__3" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Adam_Schiff,_official_photo_portrait,_111th_Congress.jpg?width=300" ],
+    "dbp:assets" : [ "adam-schiff" ],
+    "dbp:ballot" : [ "Adam_Schiff" ],
+    "dbp:birthName" : [ "Adam Bennett Schiff" ],
+    "dbp:children" : [ "Alexa", "Elijah" ],
+    "dbp:congbio" : [ "s001150" ],
+    "dbp:congress" : [ "adam-schiff/1635" ],
+    "dbp:cspan" : [ "90167" ],
+    "dbp:fec" : [ "H0CA27085" ],
+    "dbp:followthemoney" : [ "18965" ],
+    "dbp:govtrack" : [ "400361" ],
+    "dbp:imdb" : [ "2212951" ],
+    "dbp:legistorm" : [ "463" ],
+    "dbp:nndb" : [ "308" ],
+    "dbp:ontheissues" : [ "CA/Adam_Schiff.htm" ],
+    "dbp:opencong" : [ "400361" ],
+    "dbp:opensecrets" : [ "N00009585" ],
+    "dbp:rollcall" : [ "7266" ],
+    "dbp:spouse" : [ "Eve Schiff" ],
+    "dbp:state" : [ "http://dbpedia.org/resource/California" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/List_of_current_members_of_the_United_States_House_of_Representatives_by_seniority", "Member of the U.S. House of Representatives", "from California's 27th congressional district", "from California's 28th congressional district", "from California's 29th congressional district" ],
+    "dbp:votesmart" : [ "9489" ],
+    "dbp:washpo" : [ "gIQAdNd69O" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-congressman-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1" ],
+    "dbp:worldcat" : [ "lccn-n98-45964" ],
+    "dbp:years" : [ "106", "1997", "2003", "2013" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "congressional", "28th" ],
+    "NN_1" : [ "district" ],
+    "WORD_1" : [ "22", "June", "congressional", "-LRB-", "born", "California", ",", "'s", "28th", ".", "Adam", "U.S.", "Bennett", "1960", "Schiff", "district", "-RRB-", "Representative" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ ],
+    "WORD_2" : [ "Congress", "served", "2001", ".", "since" ]
+  }, {
+    "NN_3" : [ "member" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "Party", "Democratic", "member", "." ]
+  }, {
+    "NN_4" : [ ],
+    "JJ_4" : [ "29th", "27th" ],
+    "WORD_4" : [ "San", "Alhambra", "South", "Altadena", "areas", "City", "29th", ",", "Burbank", "27th", "Glendale", "Pasadena", ".", "Park", "Temple", "2003", "Schiff", "2013", "represented", "Districts", "Gabriel", "Monterey", "included" ]
+  } ],
+  "text" : "Adam Bennett Schiff (born June 22, 1960) is the U.S. Representative for California's 28th congressional district. He has served in Congress since 2001. He is a member of the Democratic Party. Schiff represented the 27th and 29th Districts between 2003 and 2013, which included the areas of Alhambra, Altadena, San Gabriel, Burbank, Glendale, South Pasadena, Temple City, Monterey Park and Pasadena. In 2010, his district was re-districted to include new areas including Hollywood, Echo Park, Hollywood Hills, La Canada Flintridge, La Crescenta, Los Feliz, Silver Lake, Sunland-Tujunga, and West Hollywood, in addition to areas he represented before like Burbank, Glendale, and the western part of Pasadena. Schiff has become an influential voice for his party in the House of Representatives on foreign policy and national security issues. He serves as Ranking Member of the House Permanent Select Committee on Intelligence. He is currently on leave from the House Appropriations Committee which he joined in 2007. He previously served on the United States House Foreign Affairs Committee, and serves on the State, Foreign Operations, and Related Programs Subcommittee of the Appropriations Committee."
+}, {
+  "entityIndex" : "entity96",
+  "entityUrl" : "<http://dbpedia.org/resource/Adolph_J._Sabath>",
+  "entityString" : "Adolph_J._Sabath",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1949-01-03", "1952-11-06" ],
+    "dbo:activeYearsStartDate" : [ "1907-03-04", "1949-01-03" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Chicago_College_of_Law" ],
+    "dbo:birthDate" : [ "1866-04-04", "1866-4-4" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/Záboří_(Strakonice_District)", "http://dbpedia.org/resource/Kingdom_of_Bohemia", "http://dbpedia.org/resource/Austrian_Empire" ],
+    "dbo:deathDate" : [ "1952-11-06", "1952-11-6" ],
+    "dbo:deathPlace" : [ "http://dbpedia.org/resource/Bethesda,_Maryland" ],
+    "dbo:orderInOffice" : [ "35th", "Dean of the United States House of Representatives" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:profession" : [ "http://dbpedia.org/resource/Lawyer", "http://dbpedia.org/resource/Real_estate" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Illinois", "http://dbpedia.org/resource/Illinois's_5th_congressional_district", "http://dbpedia.org/resource/Illinois's_7th_congressional_district" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Judaism" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Martin_Gorski", "http://dbpedia.org/resource/James_B._Bowler", "http://dbpedia.org/resource/Robert_L._Doughton" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Adolph_J._Sabath_cph.3c27913.jpg?width=300" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Martin_Gorski", "http://dbpedia.org/resource/James_B._Bowler" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Thomas_L._Owens", "http://dbpedia.org/resource/Anthony_Michalek" ],
+    "dbp:birthName" : [ "Adolph Joachim Sabath" ],
+    "dbp:district" : [ "5", "7" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Thomas_L._Owens", "http://dbpedia.org/resource/Anthony_Michalek", "http://dbpedia.org/resource/Edward_W._Pou" ],
+    "dbp:state" : [ "Illinois" ],
+    "dbp:termEnd" : [ "November 1952" ],
+    "dbp:termStart" : [ "April 1934" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-congressman-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1" ],
+    "dbp:years" : [ "--01-03", "--03-04" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "American" ],
+    "NN_1" : [ "politician" ],
+    "WORD_1" : [ "--", "-LRB-", "American", "Sabath", "politician", ",", "April", ".", "1866", "1952", "4", "6", "Adolph", "-RRB-", "Joachim", "November" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ "death", "member" ],
+    "WORD_2" : [ "death", "Chicago", "House", "Representatives", ",", ".", "1952", "U.S.", "Illinois", "6", "served", "member", "1907", "Bethesda", "Maryland", "November" ]
+  } ],
+  "text" : "Adolph Joachim Sabath (April 4, 1866 – November 6, 1952) was an American politician. He served as a member of the U.S. House of Representatives from Chicago, Illinois, from 1907 until his death in Bethesda, Maryland on November 6, 1952."
+}, {
+  "entityIndex" : "entity97",
+  "entityUrl" : "<http://dbpedia.org/resource/Adrian_Hayes-Santos>",
+  "entityString" : "Adrian_Hayes-Santos",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "senetences" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity98",
+  "entityUrl" : "<http://dbpedia.org/resource/Adrienne_A._Jones>",
+  "entityString" : "Adrienne_A._Jones",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "1997-10-21" ],
+    "dbo:birthDate" : [ "1954-11-20" ],
+    "dbo:orderInOffice" : [ "Member of theMaryland House of Delegatesfrom District 10" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Baltimore_County" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/African_Methodist_Episcopal" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Woodstock,_Maryland" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Adrienne_A._Jones_Wiki.png?width=300" ],
+    "dbp:birthPlace" : [ "Cowdensville, Maryland, U.S." ],
+    "dbp:children" : [ "Brandon and Daylan" ],
+    "dbp:predecessor" : [ "Joan N. Parker" ],
+    "dbp:spouse" : [ "Divorced" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "current", "African-American", "first" ],
+    "NN_1" : [ "position", "female" ],
+    "WORD_1" : [ "Adrienne", "-LRB-", "born", "House", "serve", ",", "Pro", "A.", ".", "1954", "Jones", "current", "African-American", "-RRB-", "Delegates", "position", "female", "Tem", "Maryland", "20", "first", "November", "Speaker" ]
+  }, {
+    "JJ_2" : [ ],
+    "NN_2" : [ "Governor", "death", "vacancy" ],
+    "WORD_2" : [ "death", "created", "Parker", "Neverdonn", "Parris", "Glendening", "fill", ".", "appointed", "Governor", "Joan", "1997", "Delegate", "vacancy" ]
+  } ],
+  "text" : "Adrienne A. Jones (born November 20, 1954) is the current Speaker Pro Tem of the Maryland House of Delegates, the first African-American female to serve in that position in Maryland. She was appointed by Governor Parris Glendening to fill the vacancy created by the death of Delegate Joan Neverdonn Parker in 1997."
+}, {
+  "entityIndex" : "entity99",
+  "entityUrl" : "<http://dbpedia.org/resource/Aisha_N._Braveboy>",
+  "entityString" : "Aisha_N._Braveboy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1974-07-29", "1974-7-29" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Washington,_D.C." ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Christian" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Prince_George's_County,_Maryland" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Aisha_N._Braveboy_(2009).jpg?width=300" ],
+    "dbp:district" : [ "25" ],
+    "dbp:occupation" : [ "attorney" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Anthony_G._Brown" ],
+    "dbp:stateDelegate" : [ "Maryland" ],
+    "dbp:successor" : [ "incumbent" ],
+    "dbp:termStart" : [ "2007" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ "American" ],
+    "NN_1" : [ "politician", "district" ],
+    "WORD_1" : [ "N.", "Aisha", "-LRB-", "25", "Braveboy", "American", "born", "29", "politician", "House", ",", ".", "represents", "1974", "district", "-RRB-", "Delegates", "July", "Maryland" ]
+  } ],
+  "text" : "Aisha N. Braveboy (born July 29, 1974) is an American politician who represents district 25 in the Maryland House of Delegates."
+}, {
+  "entityIndex" : "entity100",
+  "entityUrl" : "<http://dbpedia.org/resource/Al_Weed>",
+  "entityString" : "Al_Weed",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1942-05-23", "1942-5-23" ],
+    "dbo:birthPlace" : [ "http://dbpedia.org/resource/New_York" ],
+    "dbo:orderInOffice" : [ "Nominee for Virginia's Fifth Congressional District seat" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Virginia" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Al_Weed_Campaigning.jpg?width=300" ],
+    "dbp:caption" : [ "Congressional candidate Al Weed engages in campaigning during a local Independence Day Parade." ],
+    "dbp:children" : [ "Albert III, Julia" ],
+    "dbp:occupation" : [ "Farmer" ],
+    "dbp:religion" : [ "Episcopalian" ],
+    "dbp:spouse" : [ "Emily" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "senetences" : [ {
+    "JJ_1" : [ ],
+    "NN_1" : [ "winemaker", "businessman" ],
+    "WORD_1" : [ "II", "Charles", "Weed", "winemaker", "Democrat", "Albert", ",", "Virginia", "businessman", "." ]
+  }, {
+    "JJ_2" : [ "Democratic", "Republican", "Fifth", "incumbent" ],
+    "NN_2" : [ "seat", "election", "Weed", "nominee" ],
+    "WORD_2" : [ "election", "Congressional", "Weed", "Democratic", "Republican", "'s", ",", ".", "incumbent", "seat", "running", "2006", "Goode", "2004", "Virgil", "nominee", "Fifth", "Virginia", "District" ]
+  }, {
+    "NN_3" : [ "Weed", "%" ],
+    "JJ_3" : [ ],
+    "WORD_3" : [ "36", "Weed", "defeated", "59", "%", ",", ".", "2006", "Goode", "2004", "lost", ";", "40", "64" ]
+  }, {
+    "NN_4" : [ "Sergeant", "Weed", "veteran", "Command", "B.A." ],
+    "JJ_4" : [ "Major", "Special", "retired" ],
+    "WORD_4" : [ "Army", "Weed", "Princeton", "B.A.", "Yale", "War", ",", "Forces", ".", "Vietnam", "U.S.", "Sergeant", "Major", "veteran", "University", "Command", "Special", "retired", "M.P.A." ]
+  } ],
+  "text" : "Albert Charles Weed II is a Virginia winemaker, businessman, and Democrat. Weed was the Democratic nominee for election to Virginia's Fifth Congressional District seat, in both 2004 and 2006, running against Republican incumbent Virgil Goode. In 2004, Weed lost 64% to 36%; Goode once again defeated Weed in 2006, 59% to 40%. Weed, a retired U.S. Army Special Forces Command Sergeant Major and veteran of the Vietnam War, has a B.A. from Yale University and M.P.A. from Princeton University. After working for the World Bank and in the private sector, he purchased a farm where he established a commercial vineyard and co-founded the Virginia Wineries Association. In 2002, Governor Mark Warner named Weed 5th District Trustee for the Virginia Land Conservation Trust Fund. In 2006, Weed faced competition for the Democratic Party nomination. Former Roanoke City Manager Bern Ewert argued that Weed had been beaten \"like a drum\" in 2004 and would probably lose again. Nevertheless, on May 20, 2006, Weed was chosen as the Democratic nominee by a 114-73 vote of the delegates to the party convention. In Weed's 2006 campaign, he emphasized the need for better treatment of military veterans. One of his campaign proposals was to establish a college for disabled veterans in the district. In both his campaigns, he advocated withdrawal of U.S. forces from Iraq."
+} ]
