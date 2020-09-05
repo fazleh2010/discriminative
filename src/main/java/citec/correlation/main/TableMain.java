@@ -54,7 +54,7 @@ public class TableMain implements PropertyConst {
 
         freqClasses.add(DBO_CLASS_POLITICIAN);
         DbpediaClass dbpediaClass = new DbpediaClass(DBO_CLASS_POLITICIAN, inputJsonFile, TextAnalyzer.POS_TAGGER);
-        Tables tables=new Tables(dataDir+entityTable);
+        Tables tables=new Tables(new File(inputJsonFile).getName(),dataDir+entityTable);
         tables.writingTable( dbpediaClass, checkProperties);
         //tables.display();
         tables.readTable();
@@ -114,7 +114,7 @@ public class TableMain implements PropertyConst {
         }
     }
 
-    private Map<String,EntityTable>  writingTable(DbpediaClass dbpediaClass, Set<String> checkProperties) throws Exception {
+    /*private Map<String,EntityTable>  writingTable(DbpediaClass dbpediaClass, Set<String> checkProperties) throws Exception {
         Map<String,EntityTable> entityTables = new HashMap<String,EntityTable>();
         for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
             Property property = new Property(propertyString);
@@ -138,6 +138,6 @@ public class TableMain implements PropertyConst {
             entityTables.put(entityTable.getTableName(), entityTable);
         }
         return entityTables;
-    }
+    }*/
 
 }

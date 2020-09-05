@@ -23,10 +23,12 @@ import java.util.Set;
  * @author elahi
  */
 public class Tables {
+    private String inputFileName=null;
     private String dbpediaDir=null;
     private Map<String, EntityTable> entityTables = new HashMap<String, EntityTable>();
 
-    public Tables(String dbpediaDir) {
+    public Tables(String inputFileName,String dbpediaDir) {
+        this.inputFileName=inputFileName;
         this.dbpediaDir=dbpediaDir;
     }
 
@@ -36,7 +38,7 @@ public class Tables {
             ObjectMapper mapper = new ObjectMapper();
             List<DBpediaEntity> dbpediaEntitys = mapper.readValue(file, new TypeReference<List<DBpediaEntity>>() {
             });
-            EntityTable entityTable = new EntityTable(file.getName(), dbpediaEntitys);
+            EntityTable entityTable = new EntityTable(inputFileName,file.getName(), dbpediaEntitys);
             entityTables.put(entityTable.getTableName(), entityTable);
         }
     }
@@ -46,7 +48,7 @@ public class Tables {
             Property property = new Property(propertyString);
             Set<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
             if (checkProperties.contains(property.getPredicate())) {
-                EntityTable entityTable = new EntityTable(dbpediaDir, dbpediaClass.getClassName(), property.getPredicate(), entities, TextAnalyzer.POS_TAGGER);
+                EntityTable entityTable = new EntityTable(inputFileName,dbpediaDir, dbpediaClass.getClassName(), property.getPredicate(), entities, TextAnalyzer.POS_TAGGER);
                 entityTables.put(entityTable.getTableName(), entityTable);
             }
         }

@@ -32,6 +32,8 @@ public class DBpediaEntity {
     private  String entityUrl;
     @JsonProperty("entityString")
     private  String entityString;
+    @JsonProperty("inputFileName")
+    private  String inputFileName;
     @JsonProperty("dboClass")
     private  String dboClass;
     @JsonProperty("properties")
@@ -42,13 +44,15 @@ public class DBpediaEntity {
     private String text=null;
     @JsonIgnore
     private Boolean democraticWord;
+   
     
     //this constructor is for searilization of json string to a Java class
     public DBpediaEntity (){
         
     }
 
-    public DBpediaEntity(String dboClass,String entityString, Map<String, List<String>> properties, String POS_TAGGER) throws Exception {
+    public DBpediaEntity(String inputFileName,String dboClass,String entityString, Map<String, List<String>> properties, String POS_TAGGER) throws Exception {
+        this.inputFileName=inputFileName;
         this.dboClass=dboClass;
         this.entityString = entityString;
         this.entityUrl = this.getEntityUrl(this.entityString);
@@ -166,6 +170,10 @@ public class DBpediaEntity {
 
     public Boolean getDemocraticWord() {
         return democraticWord;
+    }
+
+    public String getInputFileName() {
+        return inputFileName;
     }
 
     @Override

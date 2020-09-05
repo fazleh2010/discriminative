@@ -22,13 +22,15 @@ public class EntityTable {
 
     private List<DBpediaEntity> dbpediaEntities = new ArrayList<DBpediaEntity>();
     private String tableName;
+    private String inputFileName;
     
-    public EntityTable(String tableName,List<DBpediaEntity> dbpediaEntities) throws Exception {
+    public EntityTable(String inputFileName,String tableName,List<DBpediaEntity> dbpediaEntities) throws Exception {
         this.tableName=tableName;
         this.dbpediaEntities=dbpediaEntities;
     }
 
-    public EntityTable(String dbpediaDir,String freqClass, String freqProp,Set<String> keySet, String POS_TAGGER) throws Exception {
+    public EntityTable(String inputFileName,String dbpediaDir,String freqClass, String freqProp,Set<String> keySet, String POS_TAGGER) throws Exception {
+        this.inputFileName=inputFileName;
         this.tableName=dbpediaDir+freqClass + "_" + freqProp;
         this.setProperties(keySet, POS_TAGGER,freqClass);
         this.convertToJson(dbpediaEntities, tableName);
@@ -40,7 +42,7 @@ public class EntityTable {
             String entityUrl = DBpediaEntity.getEntityUrl(entityString);
             String sparqlQuery = CurlSparqlQuery.setSparqlQueryProperty(entityUrl);
             CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery);
-            DBpediaEntity dbpediaEntity = new DBpediaEntity(freqClass,entityString, curlSparqlQuery.getProperties(), POS_TAGGER);
+            DBpediaEntity dbpediaEntity = new DBpediaEntity(inputFileName,freqClass,entityString, curlSparqlQuery.getProperties(), POS_TAGGER);
             dbpediaEntities.add(dbpediaEntity);
             System.out.println(dbpediaEntity.getEntityUrl());
 
