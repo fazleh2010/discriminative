@@ -73,7 +73,7 @@ public class TableMain implements PropertyNotation {
             Calculation calculation = new Calculation(inputJsonFile,outputDir, property, A, B);
         }
         
-        trainingTable.moveDirectory(dbpediaDir+output+entityTable,dataDir+entityTable);
+        //trainingTable.moveDirectory(dbpediaDir+output+entityTable,dataDir+entityTable);
 
         //tables.display();
         //tables.readTable();
