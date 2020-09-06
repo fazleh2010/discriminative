@@ -1,9 +1,0 @@
-[ {
-  "tableName" : "dbo:Politician_dbo:party.json",
-  "KB" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
-  "Word" : "democratic",
-  "probabilities" : {
-    "conditional_probability(KB|Word)" : 0.9186046511627907,
-    "conditional_probability(Word|KB)" : 0.4540229885057471
-  }
-} ]

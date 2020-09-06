@@ -73,7 +73,7 @@ public class TableMain implements PropertyNotation {
             Calculation calculation = new Calculation(inputJsonFile,outputDir, property, A, B);
         }
         
-        FileUtils.moveDirectory(new File(outputDir), new File(dataDir));
+        trainingTable.moveDirectory(dbpediaDir+output+entityTable,dataDir+entityTable);
 
         //tables.display();
         //tables.readTable();
@@ -172,6 +172,11 @@ public class TableMain implements PropertyNotation {
         } catch (Exception ex) {
             Logger.getLogger(TableMain.class.getName()).log(Level.SEVERE, null, ex);
         }
+    }
+
+    private void moveDirectory(String source, String destination) throws IOException {
+        FileUtils.deleteDirectory(new File(destination));
+        FileUtils.moveDirectory(new File(source), new File(destination));
     }
 
 }
