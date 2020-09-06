@@ -6,8 +6,8 @@
 package citec.correlation.core.sparql;
 
 import citec.correlation.core.weka.MakeArffTable;
-import citec.correlation.core.wikipedia.Property;
-import citec.correlation.main.TableMain;
+import citec.correlation.wikipedia.element.DBpediaProperty;
+import citec.correlation.wikipedia.main.TableMain;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -49,7 +49,7 @@ public class CurlSparqlQuery {
         prefixesIncluded.put("http://dbpedia.org/property/", "dbp:");
         prefixesIncluded.put("http://dbpedia.org/resource", "dbr:");*/
 
-        prefixesExcluded.add(Property.DBO_ABSTRACT);
+        prefixesExcluded.add(DBpediaProperty.DBO_ABSTRACT);
         String resultSparql = executeSparqlQuery(sparqlQuery);
         parseResult(resultSparql);
     }
@@ -212,10 +212,10 @@ public class CurlSparqlQuery {
     }
 
     private String isSelectedProperties(String property) {
-        for (String propType : Property.prefixesIncluded.keySet()) {
+        for (String propType : DBpediaProperty.prefixesIncluded.keySet()) {
             if (property.contains(propType)) {
                 String lastString = getLastString(property, '/');
-                property = property.replace(property, Property.prefixesIncluded.get(propType)) + lastString;
+                property = property.replace(property, DBpediaProperty.prefixesIncluded.get(propType)) + lastString;
                 return property;
                 //if(!prefixesExcluded.toString().contains(property))
                 /* if (!property.contains("dbo:abstract")) {

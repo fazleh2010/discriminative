@@ -6,7 +6,13 @@
 package citec.correlation.core.analyzer;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeMap;
+import java.util.TreeSet;
+import citec.correlation.wikipedia.element.PropertyNotation;
 
 /**
  *
@@ -35,5 +41,10 @@ public interface TextAnalyzer {
             "how", "all", "any", "both", "each", "few", "more", "most", "other",
             "some", "such", "no", "nor", "not", "only", "own", "same", "so", "than",
             "too", "very", "s", "t", "can", "will", "just", "don", "should", "now");
+    
+   public static final Set<String> dbpPartyWords=new TreeSet<String>(Arrays.asList("democratic", "american"));
+    
+   public static final Map<String,Set<String>> propertySelectedWords = new TreeMap<String,Set<String>>();
+
 
 }

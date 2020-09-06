@@ -5,20 +5,20 @@
  */
 package citec.correlation.core.weka;
 
-import citec.correlation.core.wikipedia.table.DBpediaEntity;
+import citec.correlation.wikipedia.table.DBpediaEntity;
 import citec.correlation.utils.FileFolderUtils;
 import citec.correlation.utils.StringWrap;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import citec.correlation.core.wikipedia.PropertyConst;
+import citec.correlation.wikipedia.element.PropertyNotation;
 
 /**
  *
  * @author elahi
  */
-public class MakeArffTable implements PropertyConst{
+public class MakeArffTable implements PropertyNotation{
 
     private static final String ENTITIES = "entities";
     /*

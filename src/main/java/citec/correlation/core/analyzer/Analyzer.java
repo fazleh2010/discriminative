@@ -6,6 +6,7 @@
 package citec.correlation.core.analyzer;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import edu.stanford.nlp.ling.HasWord;
 import edu.stanford.nlp.ling.TaggedWord;
 import edu.stanford.nlp.tagger.maxent.MaxentTagger;
@@ -18,13 +19,15 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.TreeSet;
+import citec.correlation.wikipedia.element.PropertyNotation;
 
 /**
  *
  * @author elahi
  *
  */
-public class Analyzer implements TextAnalyzer {
+public class Analyzer implements TextAnalyzer,PropertyNotation {
 
     @JsonIgnore
     private static String resources = "src/main/resources/";
@@ -35,22 +38,25 @@ public class Analyzer implements TextAnalyzer {
     @JsonIgnore
     private Integer numberOfSentences = 0;
 
-    private List<HashMap<String, Set<String>>> senetences = new ArrayList<HashMap<String, Set<String>>>();
+    private List<HashMap<String, Set<String>>> sentences = new ArrayList<HashMap<String, Set<String>>>();
     private String text = null;
+    private Set<String> interestingWords=new TreeSet<String>();
     //private final DBpediaAbstract dbpediaAbstract;
 
-    public Analyzer(String inputText, String analysisType, Integer numberOfSentences) throws Exception {
+    public Analyzer(String property,String inputText, String analysisType, Integer numberOfSentences) throws Exception {
+        propertySelectedWords.put(PropertyNotation.DBO_PARTY, dbpPartyWords);
+        
         this.numberOfSentences = numberOfSentences;
         this.text = inputText;
         //this.dbpediaAbstract = new DBpediaAbstract(inputText);
         if (analysisType.contains(POS_TAGGER)) {
             Reader inputString = new StringReader(inputText);
             BufferedReader reader = new BufferedReader(inputString);
-            posTagger(reader);
+            posTagger(property,reader);
         }
     }
 
-    private void posTagger(BufferedReader reader) throws Exception {
+    private void posTagger(String property,BufferedReader reader) throws Exception {
         taggerModel = new MaxentTagger(stanfordModelFile);
         Map<Integer, Map<String, Set<String>>> sentencePosTags = new HashMap<Integer, Map<String, Set<String>>>();
         Map<Integer, Set<String>> sentenceWords = new HashMap<Integer, Set<String>>();
@@ -68,6 +74,7 @@ public class Analyzer implements TextAnalyzer {
                 if(isStopWord(word)){
                     continue;
                 }
+                checkInterestingWord(property,word);
                 //String key = null;
                 if (taggedWord.tag().startsWith(TextAnalyzer.ADJECTIVE) || taggedWord.tag().startsWith(TextAnalyzer.NOUN)) {
                     posTaggers = this.populateValues(taggedWord.tag(), word, posTaggers);
@@ -102,7 +109,7 @@ public class Analyzer implements TextAnalyzer {
 
             //sentenceInfo.put(NOUN + "_" + number.toString(), sentencePosTags.get(number).get(TextAnalyzer.NOUN));
             //sentenceInfo.put(ADJECTIVE + "_" + number.toString(), sentencePosTags.get(number).get(TextAnalyzer.ADJECTIVE));
-            senetences.add(sentenceInfo);
+            this.sentences.add(sentenceInfo);
             number++;
             if (number == numberOfSentences) {
                 break;
@@ -127,7 +134,7 @@ public class Analyzer implements TextAnalyzer {
     }
 
     public List<HashMap<String, Set<String>>> getSenetences() {
-        return senetences;
+        return sentences;
     }
 
     /*public Map<String, Set<String>> getPosTaggers(Integer index) {
@@ -171,4 +178,19 @@ public class Analyzer implements TextAnalyzer {
         }
         return false;
     }
+
+    private void checkInterestingWord(String property, String word) {
+        word = word.toLowerCase().trim();
+        if (this.propertySelectedWords.containsKey(property)) {
+            Set<String> selectedWords = this.propertySelectedWords.get(property);
+            if (selectedWords.contains(word)) {
+                this.interestingWords.add(word);
+            }
+        }
+    }
+
+    public Set<String> getInterestingWords() {
+        return interestingWords;
+    }
+    
 }

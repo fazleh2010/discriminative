@@ -5,6 +5,9 @@
  */
 package citec.correlation.utils;
 
+import citec.correlation.wikipedia.element.Result;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -156,5 +159,12 @@ public class FileFolderUtils {
             e.printStackTrace();
         }
     }
+    
+   
+     public static void writeToJsonFile(List<Result> results, String filename) throws IOException {
+        ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
+        mapper.writeValue(Paths.get(filename).toFile(), results);
+    }
+
 
 }
