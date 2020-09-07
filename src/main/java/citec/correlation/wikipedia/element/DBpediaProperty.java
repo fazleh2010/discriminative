@@ -25,6 +25,8 @@ public class DBpediaProperty implements PropertyNotation {
     private String object = null;
     private static Map<String, List<String>> propertyList = new TreeMap<String, List<String>>();
     public static Map<String, String> prefix_definitions = new TreeMap<String, String>();
+    public static Map<String, Set<String>> propertyIncluded = new TreeMap<String, Set<String>>();
+
 
     public static Map<String, String> prefixesIncluded = new HashMap<String, String>();
     public static Set<String> prefixesExcluded = new HashSet<String>();
@@ -44,6 +46,18 @@ public class DBpediaProperty implements PropertyNotation {
         prefix_definitions.put("http://xmlns.com/foaf/0.1/", "foaf");
         prefix_definitions.put("http://www.w3.org/ns/prov#", "prov");
         prefix_definitions.put("http://www.w3.org/2002/07/owl#", "owl");
+    }
+    
+    static {
+        Set<String> included = new HashSet<String>();
+        included.add(DBpediaProperty.DBO_ABSTRACT);
+        included.add(DBpediaProperty.DBO_PARTY);
+        propertyIncluded.put(DBpediaProperty.DBO_PARTY, included);
+        included = new HashSet<String>();
+        included.add(DBpediaProperty.DBO_ABSTRACT);
+        included.add(DBpediaProperty.DBO_COUNTRY);
+        propertyIncluded.put(DBpediaProperty.DBO_COUNTRY, included);
+
     }
 
     public DBpediaProperty(String propertyString) {

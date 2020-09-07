@@ -36,7 +36,7 @@ public class Tables {
         List<File> list = FileFolderUtils.getFiles(dbpediaDir,fileName, ".json");
         //File[] list = FileFolderUtils.getFiles(dbpediaDir, ".json");
         for (File file : list) {
-            System.out.println("file..."+file.getName());
+            //System.out.println("file..."+file.getName());
             ObjectMapper mapper = new ObjectMapper();
             List<DBpediaEntity> dbpediaEntitys = mapper.readValue(file, new TypeReference<List<DBpediaEntity>>() {
             });

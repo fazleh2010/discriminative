@@ -39,17 +39,13 @@ import java.util.logging.Logger;
 public class CurlSparqlQuery {
 
     private static String endpoint = "https://dbpedia.org/sparql";
-    //private String text = null;
     private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
-    //public Map<String, String> prefixesIncluded = new HashMap<String, String>();
-    public Set<String> prefixesExcluded = new HashSet<String>();
+    private Set<String> selectedProperties=new HashSet<String>();
 
-    public CurlSparqlQuery(String sparqlQuery) {
-        /*prefixesIncluded.put("http://dbpedia.org/ontology/", "dbo:");
-        prefixesIncluded.put("http://dbpedia.org/property/", "dbp:");
-        prefixesIncluded.put("http://dbpedia.org/resource", "dbr:");*/
-
-        prefixesExcluded.add(DBpediaProperty.DBO_ABSTRACT);
+    public CurlSparqlQuery(String sparqlQuery, String property) {
+        if (DBpediaProperty.propertyIncluded.containsKey(property)) {
+            this.selectedProperties = DBpediaProperty.propertyIncluded.get(property);
+        }
         String resultSparql = executeSparqlQuery(sparqlQuery);
         parseResult(resultSparql);
     }
@@ -216,11 +212,10 @@ public class CurlSparqlQuery {
             if (property.contains(propType)) {
                 String lastString = getLastString(property, '/');
                 property = property.replace(property, DBpediaProperty.prefixesIncluded.get(propType)) + lastString;
-                return property;
-                //if(!prefixesExcluded.toString().contains(property))
-                /* if (!property.contains("dbo:abstract")) {
-                   return property;
-                 }*/
+                if (selectedProperties.contains(property)) {
+                    return property;
+                }
+
             }
         }
         return null;
@@ -239,7 +234,9 @@ public class CurlSparqlQuery {
                 + "    {\n"
                 + "    <http://dbpedia.org/resource/A._A._Purcell> ?p   ?o\n"
                 + "    }";
-        CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery);
+        
+        
+        CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery,DBpediaProperty.DBO_PARTY);
         for (String property : curlSparqlQuery.getProperties().keySet()) {
             System.out.println(property);
             System.out.println(curlSparqlQuery.getProperties().get(property));

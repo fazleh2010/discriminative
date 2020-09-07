@@ -54,11 +54,13 @@ public class Calculation {
                 if (objects.contains(A)) {
                     object_count++;
                     objectFlag = true;
+                    //System.out.println("A"+A);
                 }
             }
             if (dbpediaEntity.getInterestingWords().contains(B)) {
                 word_count++;
                 wordFlag = true;
+                //System.out.println("B"+B);
             }
 
             if (objectFlag && wordFlag) {

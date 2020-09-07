@@ -21,6 +21,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
 import citec.correlation.wikipedia.element.PropertyNotation;
+import edu.stanford.nlp.util.Sets;
 
 /**
  *
@@ -38,7 +39,12 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
     @JsonIgnore
     private Integer numberOfSentences = 0;
 
-    private List<HashMap<String, Set<String>>> sentences = new ArrayList<HashMap<String, Set<String>>>();
+    //private List<HashMap<String, Set<String>>> sentences = new ArrayList<HashMap<String, Set<String>>>();
+    
+    private Set<String> words = new HashSet<String>();
+    private Set<String> adjectives = new HashSet<String>();
+    private Set<String> nouns = new HashSet<String>();
+
     private String text = null;
     private Set<String> interestingWords=new TreeSet<String>();
     //private final DBpediaAbstract dbpediaAbstract;
@@ -66,7 +72,7 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
         Integer index = 0;
         for (List<HasWord> sentence : sentences) {
             index++;
-            Set<String> words = new HashSet<String>();
+            Set<String> wordsofSentence = new HashSet<String>();
             Map<String, Set<String>> posTaggers = new HashMap<String, Set<String>>();
             List<TaggedWord> tSentence = taggerModel.tagSentence(sentence);
             for (TaggedWord taggedWord : tSentence) {
@@ -79,13 +85,35 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
                 if (taggedWord.tag().startsWith(TextAnalyzer.ADJECTIVE) || taggedWord.tag().startsWith(TextAnalyzer.NOUN)) {
                     posTaggers = this.populateValues(taggedWord.tag(), word, posTaggers);
                 }
-                words.add(word);
+                wordsofSentence.add(word);
             }
-            sentenceWords.put(index, words);
+            sentenceWords.put(index, wordsofSentence);
             sentencePosTags.put(index, posTaggers);
         }
-
+        
         for (Integer number : sentenceWords.keySet()) {
+            if (sentenceWords.get(number) != null) {
+                Set<String> set = sentenceWords.get(number);
+                words.addAll(set);
+            }
+
+            if (sentencePosTags.get(number).get(TextAnalyzer.NOUN) != null) {
+                Set<String> set = sentencePosTags.get(number).get(TextAnalyzer.NOUN);
+                nouns.addAll(set);
+            }
+            if (sentencePosTags.get(number).get(TextAnalyzer.ADJECTIVE) != null) {
+                Set<String> set = sentencePosTags.get(number).get(TextAnalyzer.ADJECTIVE);
+                adjectives.addAll(set);
+            }
+
+            number++;
+            if (number == numberOfSentences) {
+                break;
+            }
+            //System.out.println(sentenceInfo);
+        }
+
+        /*for (Integer number : sentenceWords.keySet()) {
             HashMap<String, Set<String>> sentenceInfo = new HashMap<String, Set<String>>();
 
             if (sentenceWords.get(number) != null) {
@@ -115,7 +143,7 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
                 break;
             }
             //System.out.println(sentenceInfo);
-        }
+        }*/
     }
 
     private Map<String, Set<String>> populateValues(String key, String value, Map<String, Set<String>> posTaggers) {
@@ -133,9 +161,9 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
         return text;
     }
 
-    public List<HashMap<String, Set<String>>> getSenetences() {
+    /*public List<HashMap<String, Set<String>>> getSenetences() {
         return sentences;
-    }
+    }*/
 
     /*public Map<String, Set<String>> getPosTaggers(Integer index) {
         return sentencePosTags.get(index);
@@ -189,8 +217,31 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
         }
     }
 
+    public Set<String> getWords() {
+        return words;
+    }
+
+    public Set<String> getAdjectives() {
+        return adjectives;
+    }
+
+    public Set<String> getNouns() {
+        return nouns;
+    }
+
+  
+
     public Set<String> getInterestingWords() {
         return interestingWords;
     }
-    
+
+    private void populate(Set<String> wordsOfSentence,String key, Map<String, Set<String>> hash) {
+        if (hash.containsKey(key)) {
+            Set<String> existingWords = hash.get(key);
+            hash.put(key, Sets.union(existingWords, wordsOfSentence));
+        } else {
+            hash.put(key, wordsOfSentence);
+        }
+    }
+
 }

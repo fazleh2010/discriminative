@@ -48,10 +48,12 @@ public class TableMain implements PropertyNotation {
     private static String outputArff = dbpediaDir + output + "democratic.arff";
     private static Set<String> freqClasses = new HashSet<String>();
     private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
+    private static String write="write";
+    private static String read="read";
 
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
-        String type="read";
+        String type=write;
         
         Set<String> checkProperties = new HashSet<String>();
         checkProperties.add(DBO_PARTY);
@@ -62,16 +64,16 @@ public class TableMain implements PropertyNotation {
         DbpediaClass dbpediaClass = new DbpediaClass(DBO_CLASS_POLITICIAN, inputJsonFile, TextAnalyzer.POS_TAGGER);
         String outputDir=dbpediaDir+output+entityTable;
       
-        if (type.contains("write")) {
+        if (type.contains(write)) {
             trainingTable.write(inputJsonFile, outputDir, dbpediaClass, checkProperties);
         }
 
-        if (type.contains("read")) {
+        /*if (type.contains("read")) {
             String A = "http://dbpedia.org/resource/Democratic_Party_(United_States)";
             String B = "democratic";
             String property=DBO_PARTY;
             Calculation calculation = new Calculation(inputJsonFile,outputDir, property, A, B);
-        }
+        }*/
         
         //trainingTable.moveDirectory(dbpediaDir+output+entityTable,dataDir+entityTable);
 

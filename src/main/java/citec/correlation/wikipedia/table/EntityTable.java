@@ -6,11 +6,13 @@
 package citec.correlation.wikipedia.table;
 
 import citec.correlation.core.sparql.CurlSparqlQuery;
+import citec.correlation.wikipedia.element.DBpediaProperty;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
@@ -38,19 +40,20 @@ public class EntityTable {
 
     private void setProperties(Set<String> keySet, String POS_TAGGER,String freqClass,String freqProperty) throws Exception {
         Integer index = 0;
+        
         for (String entityString : keySet) {
             String entityUrl = DBpediaEntity.getEntityUrl(entityString);
             String sparqlQuery = CurlSparqlQuery.setSparqlQueryProperty(entityUrl);
-            CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery);
+            CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery,freqProperty);
             DBpediaEntity dbpediaEntity = new DBpediaEntity(inputFileName,freqClass,freqProperty,entityString, curlSparqlQuery.getProperties(), POS_TAGGER);
             dbpediaEntities.add(dbpediaEntity);
             System.out.println(dbpediaEntity.getEntityUrl());
 
             index++;
 
-            /*if (index == 10) {
+            if (index == 10) {
                 break;
-            }*/
+            }
         }
     }
 
