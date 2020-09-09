@@ -18,6 +18,14 @@ import java.util.TreeMap;
  * @author elahi
  */
 public class DBpediaProperty implements PropertyNotation {
+    
+   /* public static final String DBP_SHORT_DESCRIPTION = "dbp:shortDescription";
+    public static final String DC_DESCRIPTION = "dc:description";
+    public static final String DBO_PARTY = "dbo:party";
+    public static final String DBO_COUNTRY = "dbo:country";
+    public static final String RDF_TYPE = "rdf:type";
+    public static String DBO_ABSTRACT = "dbo:abstract";
+    public static String DBO_CLASS_POLITICIAN ="dbo:Politician";*/
 
     private String propertyString = null;
     private String subject = null;
@@ -35,6 +43,8 @@ public class DBpediaProperty implements PropertyNotation {
         prefixesIncluded.put("http://dbpedia.org/ontology/", "dbo:");
         prefixesIncluded.put("http://dbpedia.org/property/", "dbp:");
         prefixesIncluded.put("http://dbpedia.org/resource", "dbr:");
+        prefixesIncluded.put("https://dublincore.org/specifications/dublin-core/dcmi-terms/#description", "dct:");
+        
     }
 
     static {

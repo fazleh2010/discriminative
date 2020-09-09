@@ -6,6 +6,7 @@
 package citec.correlation.utils;
 
 import citec.correlation.wikipedia.element.Result;
+import citec.correlation.wikipedia.element.Results;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.BufferedReader;
@@ -28,6 +29,7 @@ import java.io.BufferedInputStream;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.Map;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
@@ -161,9 +163,9 @@ public class FileFolderUtils {
     }
     
    
-     public static void writeToJsonFile(List<Result> results, String filename) throws IOException {
+     public static void writeToJsonFile(List<Results>  kbResults, String filename) throws IOException {
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
-        mapper.writeValue(Paths.get(filename).toFile(), results);
+        mapper.writeValue(Paths.get(filename).toFile(), kbResults);
     }
 
 

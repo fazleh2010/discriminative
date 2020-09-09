@@ -43,7 +43,9 @@ public class TableMain implements PropertyNotation {
     private static String entityTable = "entityTable/";
     private static String input = "input/";
     private static String output = "output/";
-    private static String inputJsonFile = dataDir + input + "results-100000000-1000-concretePO.json";
+    //private static String inputJsonFile = dataDir + input + "results-100000000-1000-concretePO.json";
+    private static String inputJsonFile = dataDir + input + "results-100000000-100-concretePO.json";
+    
     private static String inputWordFile = dbpediaDir + input + "politicians_with_democratic.yml";
     private static String outputArff = dbpediaDir + output + "democratic.arff";
     private static Set<String> freqClasses = new HashSet<String>();
@@ -53,11 +55,14 @@ public class TableMain implements PropertyNotation {
 
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
-        String type=write;
+        String type=read;
         
         Set<String> checkProperties = new HashSet<String>();
-        checkProperties.add(DBO_PARTY);
-        checkProperties.add(DBO_COUNTRY);
+        //checkProperties.add(PropertyNotation.DBP_SHORT_DESCRIPTION);
+        //checkProperties.add(PropertyNotation.DBO_COUNTRY);
+         checkProperties.add(PropertyNotation.DBO_PARTY);
+        
+        //checkProperties.add(DBO_COUNTRY);
         //checkProperties.add(DC_DESCRIPTION);
 
         freqClasses.add(DBO_CLASS_POLITICIAN);
@@ -68,12 +73,10 @@ public class TableMain implements PropertyNotation {
             trainingTable.write(inputJsonFile, outputDir, dbpediaClass, checkProperties);
         }
 
-        /*if (type.contains("read")) {
-            String A = "http://dbpedia.org/resource/Democratic_Party_(United_States)";
-            String B = "democratic";
-            String property=DBO_PARTY;
-            Calculation calculation = new Calculation(inputJsonFile,outputDir, property, A, B);
-        }*/
+        if (type.contains(read)) {
+            String property=PropertyNotation.DBO_PARTY;
+            Calculation calculation = new Calculation(property,inputJsonFile,outputDir);
+        }
         
         //trainingTable.moveDirectory(dbpediaDir+output+entityTable,dataDir+entityTable);
 

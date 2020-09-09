@@ -41,10 +41,15 @@ public interface TextAnalyzer {
             "how", "all", "any", "both", "each", "few", "more", "most", "other",
             "some", "such", "no", "nor", "not", "only", "own", "same", "so", "than",
             "too", "very", "s", "t", "can", "will", "just", "don", "should", "now");
-    
-   public static final Set<String> dbpPartyWords=new TreeSet<String>(Arrays.asList("democratic", "american"));
-    
-   public static final Map<String,Set<String>> propertySelectedWords = new TreeMap<String,Set<String>>();
 
+    public static final Set<String> dbpPartyWords = new TreeSet<String>(Arrays.asList("labour", "party", "british", "parliament", "general",
+            "liberal", "nova", "scotia", "minister", "progressive",
+            "house", "ontario", "assembly", "legislative", "canada",
+            "alberta", "provincial", "australian", "south", "new", "wales",
+            "parliament", "conservative", "democratic", "american", "member",
+            "state", "district", "politique", "homme", "membre", "français",
+            "député", "alberta", "indian", "congress", "national", "constituency",
+            "republican", "state", "australian", "legislative", "south"));
 
+    //public static final Map<String,Set<String>> propertySelectedWords = new TreeMap<String,Set<String>>();
 }

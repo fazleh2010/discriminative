@@ -12,10 +12,11 @@ package citec.correlation.wikipedia.element;
 public interface PropertyNotation {
 
     public static final String DBP_SHORT_DESCRIPTION = "dbp:shortDescription";
-    public static final String DC_DESCRIPTION = "dc:description";
+    public static final String DC_DESCRIPTION = "dct:description";
     public static final String DBO_PARTY = "dbo:party";
     public static final String DBO_COUNTRY = "dbo:country";
     public static final String RDF_TYPE = "rdf:type";
     public static String DBO_ABSTRACT = "dbo:abstract";
     public static String DBO_CLASS_POLITICIAN ="dbo:Politician";
+    
 }

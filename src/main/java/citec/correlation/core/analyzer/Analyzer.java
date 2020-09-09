@@ -22,6 +22,8 @@ import java.util.Set;
 import java.util.TreeSet;
 import citec.correlation.wikipedia.element.PropertyNotation;
 import edu.stanford.nlp.util.Sets;
+import java.util.Arrays;
+import java.util.TreeMap;
 
 /**
  *
@@ -38,6 +40,10 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
     private static MaxentTagger taggerModel = new MaxentTagger(stanfordModelFile);
     @JsonIgnore
     private Integer numberOfSentences = 0;
+    
+    @JsonIgnore 
+    public static final Map<String,Set<String>> propertySelectedWords = new TreeMap<String,Set<String>>();
+
 
     //private List<HashMap<String, Set<String>>> sentences = new ArrayList<HashMap<String, Set<String>>>();
     
@@ -50,7 +56,7 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
     //private final DBpediaAbstract dbpediaAbstract;
 
     public Analyzer(String property,String inputText, String analysisType, Integer numberOfSentences) throws Exception {
-        propertySelectedWords.put(PropertyNotation.DBO_PARTY, dbpPartyWords);
+        this.initialize();
         
         this.numberOfSentences = numberOfSentences;
         this.text = inputText;
@@ -242,6 +248,10 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
         } else {
             hash.put(key, wordsOfSentence);
         }
+    }
+
+    private void initialize() {
+        propertySelectedWords.put(PropertyNotation.DBO_PARTY, dbpPartyWords);
     }
 
 }

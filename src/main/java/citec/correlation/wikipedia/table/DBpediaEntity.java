@@ -35,7 +35,7 @@ public class DBpediaEntity {
     private String entityUrl;
     @JsonIgnore
     private String entityString;
-    @JsonProperty("inputFileName")
+    @JsonIgnore
     private String inputFileName;
     @JsonProperty("dboClass")
     private String dboClass;
@@ -60,6 +60,7 @@ public class DBpediaEntity {
     public DBpediaEntity() {
 
     }
+ 
 
     public DBpediaEntity(String inputFileName, String dboClass, String dboProperty, String entityString, Map<String, List<String>> properties, String POS_TAGGER) throws Exception {
         this.inputFileName = inputFileName;
@@ -135,6 +136,11 @@ public class DBpediaEntity {
     }
 
     public static String getEntityUrl(String entityString) {
+        if (entityString.contains("dbr:")) {
+            String info[] = entityString.split(":");
+            entityString = info[1];
+        }
+
         return "<http://dbpedia.org/resource/" + entityString + ">";
     }
 

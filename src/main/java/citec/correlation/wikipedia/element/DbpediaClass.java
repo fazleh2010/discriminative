@@ -19,6 +19,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -33,7 +34,7 @@ import org.apache.commons.io.IOUtils;
 public class DbpediaClass {
 
     private String className = null;
-    private Map<String, Set<String>> propertyEntities = new HashMap<String, Set<String>>();
+    private Map<String, LinkedHashSet<String>> propertyEntities = new HashMap<String, LinkedHashSet<String>>();
     private Set<String> allEntities = new TreeSet<String>();
 
     public DbpediaClass(String className, String entitiesPropertyFile, String POS_TAGGER) throws IOException, Exception {
@@ -51,18 +52,18 @@ public class DbpediaClass {
 
         for (LinkedHashMap<String, Object> democraticDataUnit : list) {
             String propertyString = null;
-            Set<String> entities = new TreeSet<String>();
+            LinkedHashSet<String> entities = new LinkedHashSet<String>();
             for (String key : democraticDataUnit.keySet()) {
                 if (key.contains("number_of_variables")) {
                     //String value = (String) democraticDataUnit.get(key);
                 }
                 if (key.contains("triple_pattern")) {
                     propertyString = (String) democraticDataUnit.get(key);
-                    //System.out.println("value:" + propertyString);
+                   // System.out.println("value:" + propertyString);
                 }
                 if (key.contains("entities")) {
                     LinkedHashMap<String, String> value = (LinkedHashMap<String, String>) democraticDataUnit.get(key);
-                    entities = new TreeSet(value.keySet());
+                    entities = new LinkedHashSet(value.keySet());
                     //entities = this.setDBpediaEntities(value.keySet(), POS_TAGGER);
                     //System.out.println("entities:" + entities);
                 }
@@ -95,7 +96,7 @@ public class DbpediaClass {
         return className;
     }
 
-    public Map<String, Set<String>> getPropertyEntities() {
+    public Map<String, LinkedHashSet<String>> getPropertyEntities() {
         return propertyEntities;
     }
 

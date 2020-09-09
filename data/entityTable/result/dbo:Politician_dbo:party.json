@@ -1,9 +1,872 @@
 [ {
-  "tableName" : "dbo:Politician_dbo:party.json",
-  "KB" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
-  "Word" : "democratic",
-  "probabilities" : {
-    "conditional_probability(KB|Word)" : 0.9186046511627907,
-    "conditional_probability(Word|KB)" : 0.4540229885057471
-  }
+  "objectIndex" : "1",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Labour_Party_(UK)",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Labour_Party_(UK)",
+    "Word" : "labour",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.8369565217391305,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Labour_Party_(UK)",
+    "Word" : "party",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6630434782608695,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Labour_Party_(UK)",
+    "Word" : "british",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.5,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Labour_Party_(UK)",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.4782608695652174,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Labour_Party_(UK)",
+    "Word" : "parliament",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.43478260869565216,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "2",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Liberal_Party_(UK)",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_(UK)",
+    "Word" : "liberal",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9015317286652079,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_(UK)",
+    "Word" : "parliament",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7024070021881839,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_(UK)",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6630196936542669,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_(UK)",
+    "Word" : "party",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.5032822757111597,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_(UK)",
+    "Word" : "general",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.49015317286652077,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_(UK)",
+    "Word" : "house",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.43326039387308535,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_(UK)",
+    "Word" : "british",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.4310722100656455,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "3",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "scotia",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9175257731958762,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "assembly",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.845360824742268,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "house",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7938144329896907,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "progressive",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7835051546391752,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7216494845360825,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "conservative",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6907216494845361,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "district",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.5979381443298969,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "party",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.4742268041237113,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "provincial",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.4639175257731959,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "minister",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.3711340206185567,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia",
+    "Word" : "liberal",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.30927835051546393,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "4",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Ontario_Liberal_Party",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Ontario_Liberal_Party",
+    "Word" : "ontario",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9558823529411765,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Ontario_Liberal_Party",
+    "Word" : "liberal",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9191176470588235,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Ontario_Liberal_Party",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.875,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Ontario_Liberal_Party",
+    "Word" : "canada",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6544117647058824,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Ontario_Liberal_Party",
+    "Word" : "minister",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.2426470588235294,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "5",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta",
+    "Word" : "alberta",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9534883720930233,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.8953488372093024,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta",
+    "Word" : "canada",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6686046511627907,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta",
+    "Word" : "provincial",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6627906976744186,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta",
+    "Word" : "conservative",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6511627906976745,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta",
+    "Word" : "progressive",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.5930232558139535,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "6",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+    "Word" : "liberal",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.8861788617886179,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+    "Word" : "australian",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.8455284552845529,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7642276422764228,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+    "Word" : "party",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6991869918699187,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+    "Word" : "south",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6585365853658537,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+    "Word" : "new",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.5772357723577236,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+    "Word" : "wales",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.5609756097560976,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+    "Word" : "legislative",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.4959349593495935,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+    "Word" : "minister",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.43902439024390244,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+    "Word" : "assembly",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.4065040650406504,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "7",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party",
+    "Word" : "scotia",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7433628318584071,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party",
+    "Word" : "assembly",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6991150442477876,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party",
+    "Word" : "house",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6814159292035398,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party",
+    "Word" : "liberal",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6548672566371682,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6106194690265486,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party",
+    "Word" : "district",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.4424778761061947,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party",
+    "Word" : "party",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.4336283185840708,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party",
+    "Word" : "provincial",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.30973451327433627,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party",
+    "Word" : "minister",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.25663716814159293,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "8",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Labor_Party_(UK)",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Labor_Party_(UK)",
+    "Word" : "labour",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9556650246305419,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Labor_Party_(UK)",
+    "Word" : "party",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7758620689655172,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Labor_Party_(UK)",
+    "Word" : "parliament",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7487684729064039,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Labor_Party_(UK)",
+    "Word" : "british",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6403940886699507,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Labor_Party_(UK)",
+    "Word" : "general",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.5147783251231527,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Labor_Party_(UK)",
+    "Word" : "constituency",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.24876847290640394,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Labor_Party_(UK)",
+    "Word" : "house",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.24630541871921183,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "9",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario",
+    "Word" : "ontario",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9742268041237113,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario",
+    "Word" : "legislative",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9381443298969072,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9329896907216495,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario",
+    "Word" : "conservative",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9278350515463918,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario",
+    "Word" : "progressive",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6185567010309279,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario",
+    "Word" : "canada",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6082474226804123,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "10",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+    "Word" : "american",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.48717948717948717,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+    "Word" : "democratic",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.458041958041958,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.41375291375291373,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+    "Word" : "district",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.40792540792540793,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+    "Word" : "state",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.3508158508158508,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+    "Word" : "house",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.32634032634032634,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
+    "Word" : "party",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.24708624708624707,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "11",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Union_for_a_Popular_Movement",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Union_for_a_Popular_Movement",
+    "Word" : "politique",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9102990033222591,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Union_for_a_Popular_Movement",
+    "Word" : "homme",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7906976744186046,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Union_for_a_Popular_Movement",
+    "Word" : "membre",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.36212624584717606,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Union_for_a_Popular_Movement",
+    "Word" : "député",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.24584717607973422,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "12",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Social_Credit_Party_of_Alberta",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Social_Credit_Party_of_Alberta",
+    "Word" : "alberta",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 1.0,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Social_Credit_Party_of_Alberta",
+    "Word" : "legislative",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.99,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Social_Credit_Party_of_Alberta",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.98,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Social_Credit_Party_of_Alberta",
+    "Word" : "provincial",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.91,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "13",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+    "Word" : "british",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.9,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+    "Word" : "legislative",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.8666666666666667,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+    "Word" : "assembly",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.8555555555555555,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+    "Word" : "liberal",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7777777777777778,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7555555555555555,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+    "Word" : "provincial",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.5,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+    "Word" : "minister",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.4444444444444444,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+    "Word" : "party",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.36666666666666664,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+    "Word" : "district",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.26666666666666666,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "14",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Indian_National_Congress",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Indian_National_Congress",
+    "Word" : "indian",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.8813813813813813,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Indian_National_Congress",
+    "Word" : "congress",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.8363363363363363,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Indian_National_Congress",
+    "Word" : "national",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7897897897897898,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Indian_National_Congress",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7042042042042042,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Indian_National_Congress",
+    "Word" : "constituency",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6051051051051051,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Indian_National_Congress",
+    "Word" : "assembly",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.45795795795795796,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Indian_National_Congress",
+    "Word" : "legislative",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.43843843843843844,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Indian_National_Congress",
+    "Word" : "party",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.29429429429429427,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Indian_National_Congress",
+    "Word" : "minister",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.2672672672672673,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "15",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Republican_Party_(United_States)",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Republican_Party_(United_States)",
+    "Word" : "republican",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.5766550522648084,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Republican_Party_(United_States)",
+    "Word" : "district",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.3588850174216028,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Republican_Party_(United_States)",
+    "Word" : "state",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.35714285714285715,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Republican_Party_(United_States)",
+    "Word" : "american",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.3362369337979094,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Republican_Party_(United_States)",
+    "Word" : "house",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.313588850174216,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Republican_Party_(United_States)",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.2979094076655052,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
+}, {
+  "objectIndex" : "16",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Australian_Labor_Party",
+  "distribution" : [ {
+    "KB" : "http://dbpedia.org/resource/Australian_Labor_Party",
+    "Word" : "australian",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.8647416413373861,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Australian_Labor_Party",
+    "Word" : "member",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.7325227963525835,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Australian_Labor_Party",
+    "Word" : "assembly",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.6170212765957447,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Australian_Labor_Party",
+    "Word" : "legislative",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.601823708206687,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Australian_Labor_Party",
+    "Word" : "party",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.5212765957446809,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Australian_Labor_Party",
+    "Word" : "south",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.3601823708206687,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Australian_Labor_Party",
+    "Word" : "new",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.27811550151975684,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  }, {
+    "KB" : "http://dbpedia.org/resource/Australian_Labor_Party",
+    "Word" : "wales",
+    "probabilities" : {
+      "conditional_probability(Word|KB)" : 0.24164133738601823,
+      "conditional_probability(KB|Word)" : 1.0
+    }
+  } ]
 } ]

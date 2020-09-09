@@ -13,6 +13,7 @@ import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 
@@ -31,29 +32,29 @@ public class EntityTable {
         this.dbpediaEntities=dbpediaEntities;
     }
 
-    public EntityTable(String inputFileName,String dbpediaDir,String freqClass, String freqProp,Set<String> keySet, String POS_TAGGER) throws Exception {
+    public EntityTable(String inputFileName,String dbpediaDir,String freqClass, String freqProp,LinkedHashSet<String> entities, String POS_TAGGER) throws Exception {
         this.inputFileName=inputFileName;
         this.tableName=dbpediaDir+freqClass + "_" + freqProp;
-        this.setProperties(keySet, POS_TAGGER,freqClass,freqProp);
+        this.setProperties(entities, POS_TAGGER,freqClass,freqProp);
         this.convertToJson(dbpediaEntities, tableName);
     }
 
-    private void setProperties(Set<String> keySet, String POS_TAGGER,String freqClass,String freqProperty) throws Exception {
+    private void setProperties(LinkedHashSet<String> entities, String POS_TAGGER,String freqClass,String freqProperty) throws Exception {
         Integer index = 0;
         
-        for (String entityString : keySet) {
+        for (String entityString : entities) {
             String entityUrl = DBpediaEntity.getEntityUrl(entityString);
             String sparqlQuery = CurlSparqlQuery.setSparqlQueryProperty(entityUrl);
             CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery,freqProperty);
             DBpediaEntity dbpediaEntity = new DBpediaEntity(inputFileName,freqClass,freqProperty,entityString, curlSparqlQuery.getProperties(), POS_TAGGER);
             dbpediaEntities.add(dbpediaEntity);
-            System.out.println(dbpediaEntity.getEntityUrl());
+            System.out.println(dbpediaEntity.getProperties()+" count"+index);
 
             index++;
 
-            if (index == 10) {
+            /*if (index >10) {
                 break;
-            }
+            }*/
         }
     }
 
