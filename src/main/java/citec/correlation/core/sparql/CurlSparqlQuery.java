@@ -213,11 +213,11 @@ public class CurlSparqlQuery {
             if (property.contains(propType)) {
                 String lastString = getLastString(property, '/');
                 property = property.replace(property, DBpediaProperty.prefixesIncluded.get(propType)) + lastString;
-                if (selectedProperties.contains(property)) {
+                /*if (selectedProperties.contains(property)) {
                     return property;
-                }
-                /*if(selectedProperties.isEmpty())
-                    return property;*/
+                }*/
+                if(selectedProperties.isEmpty())
+                    return property;
 
             }
         }
@@ -237,11 +237,11 @@ public class CurlSparqlQuery {
         
         String sparqlQuery = "select  ?p ?o\n"
                 + "    {\n"
-                + "    <http://dbpedia.org/resource/R._Colin_Stewart> ?p   ?o\n"
+                + "    <http://dbpedia.org/resource/Francis_Kruse> ?p   ?o\n"
                 + "    }";
         
         
-        CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery,DBpediaProperty.DBO_COUNTRY);
+        CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery,"");
         for (String property : curlSparqlQuery.getProperties().keySet()) {
             System.out.println(property);
             System.out.println(curlSparqlQuery.getProperties().get(property));

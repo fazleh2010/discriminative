@@ -5,22 +5,18 @@
  */
 package citec.correlation.wikipedia.calculation;
 
-import citec.correlation.core.analyzer.Analyzer;
 import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.utils.FileFolderUtils;
-import static citec.correlation.wikipedia.element.PropertyNotation.DBO_PARTY;
 import citec.correlation.wikipedia.element.Result;
 import citec.correlation.wikipedia.element.Results;
 import citec.correlation.wikipedia.table.DBpediaEntity;
 import citec.correlation.wikipedia.table.Tables;
-import com.fasterxml.jackson.annotation.JsonProperty;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.LinkedHashSet;
 import java.util.List;
@@ -28,8 +24,6 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 import java.util.StringTokenizer;
-import java.util.TreeMap;
-import java.util.TreeSet;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
@@ -41,11 +35,11 @@ public class Calculation implements TextAnalyzer {
     private Map<String,List<Result>> kbResults = new HashMap<String,List<Result>>();
     private Map<String, List<DBpediaEntity>> entityCategories = new HashMap<String, List<DBpediaEntity>>();
     private Map<String, List<String>> entityTopTenWords = new HashMap<String, List<String>>();
+    private Integer numberOfEntities=90;
 
-    public Calculation(String property, String inputJsonFile, String outputDir) throws Exception {
+    public Calculation(String property, String inputJsonFile, String outputDir,Integer numberOfEntities) throws Exception {
         Tables tables = new Tables(new File(inputJsonFile).getName(), outputDir);
         tables.readTable(property);
-        Integer numberOfEntities=90;
         for (String tableName : tables.getEntityTables().keySet()) {
             List<DBpediaEntity> dbpediaEntities = tables.getEntityTables().get(tableName).getDbpediaEntities();
             if (!dbpediaEntities.isEmpty()) {
@@ -137,8 +131,8 @@ public class Calculation implements TextAnalyzer {
             Double probability_word_object = (KB_WORD_FOUND) / (KB_FOUND);
             if(probability_word_object<0.24)
                 return null;
-            String probability_object_word_str = Result.conditional_probability + "(" + Result.KB_STR + "|" + Result.WORD_STR + ")";
-            String probability_word_object_str = Result.conditional_probability + "(" + Result.WORD_STR + "|" + Result.KB_STR + ")";
+            String probability_object_word_str = Result.conditional_probability + "(" + A + "|" + B + ")";
+            String probability_word_object_str = Result.conditional_probability + "(" + B + "|" + A + ")";
             probabilities.put(probability_word_object_str, probability_word_object);
             probabilities.put(probability_object_word_str, probability_object_word);
             /*System.out.println("!!!!!!!!!!!!!!!!!!!!!!! " + B);

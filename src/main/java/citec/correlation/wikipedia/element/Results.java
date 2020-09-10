@@ -30,9 +30,9 @@ public class Results {
     @JsonProperty("distribution")
     private List<Result> distributions = new ArrayList<Result>();
 
-    public Results(String property,String KB, List<Result> distributions) {
+    public Results(String property,String object, List<Result> distributions) {
         this.property=property;
-        this.KB = KB;
+        this.KB = object;
         this.distributions = distributions;
         index = index + 1;
         this.objectIndex =  index.toString();

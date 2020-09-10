@@ -60,7 +60,8 @@ public class TableMain implements PropertyNotation {
         Set<String> checkProperties = new HashSet<String>();
         //checkProperties.add(PropertyNotation.DBP_SHORT_DESCRIPTION);
         //checkProperties.add(PropertyNotation.DBO_COUNTRY);
-         checkProperties.add(PropertyNotation.DBO_PARTY);
+         //checkProperties.add(PropertyNotation.DBO_PARTY);
+         checkProperties.add( PropertyNotation.DBO_COUNTRY);
         
         //checkProperties.add(DBO_COUNTRY);
         //checkProperties.add(DC_DESCRIPTION);
@@ -75,7 +76,7 @@ public class TableMain implements PropertyNotation {
 
         if (type.contains(read)) {
             String property=PropertyNotation.DBO_PARTY;
-            Calculation calculation = new Calculation(property,inputJsonFile,outputDir);
+            Calculation calculation = new Calculation(property,inputJsonFile,outputDir,90);
         }
         
         //trainingTable.moveDirectory(dbpediaDir+output+entityTable,dataDir+entityTable);

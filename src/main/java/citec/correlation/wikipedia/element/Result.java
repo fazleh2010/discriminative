@@ -5,11 +5,9 @@
  */
 package citec.correlation.wikipedia.element;
 
-import citec.correlation.utils.FileFolderUtils;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
-import java.io.File;
 import java.io.IOException;
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -23,9 +21,11 @@ public class Result {
     
     @JsonIgnore
     private String tableName;
-    @JsonProperty("KB")
+    //@JsonProperty("KB")
+    @JsonIgnore
     private String KB;
-    @JsonProperty("Word")
+    //@JsonProperty("Word")
+    @JsonIgnore
     private String Word;
     
     @JsonIgnore
