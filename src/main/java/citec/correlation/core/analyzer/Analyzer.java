@@ -52,7 +52,6 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
     private Set<String> nouns = new HashSet<String>();
 
     private String text = null;
-    private Set<String> interestingWords=new TreeSet<String>();
     //private final DBpediaAbstract dbpediaAbstract;
 
     public Analyzer(String property,String inputText, String analysisType, Integer numberOfSentences) throws Exception {
@@ -86,8 +85,6 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
                 if(isStopWord(word)){
                     continue;
                 }
-                checkInterestingWord(property,word);
-                //String key = null;
                 if (taggedWord.tag().startsWith(TextAnalyzer.ADJECTIVE) || taggedWord.tag().startsWith(TextAnalyzer.NOUN)) {
                     posTaggers = this.populateValues(taggedWord.tag(), word, posTaggers);
                 }
@@ -213,16 +210,6 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
         return false;
     }
 
-    private void checkInterestingWord(String property, String word) {
-        word = word.toLowerCase().trim();
-        if (this.propertySelectedWords.containsKey(property)) {
-            Set<String> selectedWords = this.propertySelectedWords.get(property);
-            if (selectedWords.contains(word)) {
-                this.interestingWords.add(word);
-            }
-        }
-    }
-
     public Set<String> getWords() {
         return words;
     }
@@ -235,11 +222,6 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
         return nouns;
     }
 
-  
-
-    public Set<String> getInterestingWords() {
-        return interestingWords;
-    }
 
     private void populate(Set<String> wordsOfSentence,String key, Map<String, Set<String>> hash) {
         if (hash.containsKey(key)) {
@@ -251,7 +233,7 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
     }
 
     private void initialize() {
-        propertySelectedWords.put(PropertyNotation.DBO_PARTY, dbpPartyWords);
+        propertySelectedWords.put(PropertyNotation.dbo_party, dbpPartyWords);
     }
 
 }

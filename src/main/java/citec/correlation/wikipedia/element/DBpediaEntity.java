@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.wikipedia.table;
+package citec.correlation.wikipedia.element;
 
 import citec.correlation.core.analyzer.Analyzer;
 import citec.correlation.wikipedia.element.DBpediaProperty;
@@ -41,9 +41,6 @@ public class DBpediaEntity {
     private String dboClass;
     @JsonProperty("properties")
     private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
-    @JsonIgnore
-    //@JsonProperty("interestingWords")
-    private Set<String> interestingWords = new TreeSet<String>();
     /*@JsonProperty("senetences")
     private List<HashMap<String,Set<String>>> senetences=new ArrayList<HashMap<String,Set<String>>>();*/
     @JsonProperty("words")
@@ -70,68 +67,18 @@ public class DBpediaEntity {
         this.entityUrl = this.getEntityUrl(this.entityString);
         index = index + 1;
         this.entityIndex = PREFIX + (index);
-        this.text = this.getText(properties, DBpediaProperty.DBO_ABSTRACT);
+        this.text = this.getText(properties, DBpediaProperty.dbo_abstract);
         if (this.text != null) {
             Analyzer analyzer = new Analyzer(dboProperty, this.text, POS_TAGGER, 5);
             this.words = analyzer.getWords();
             this.nouns=analyzer.getNouns();
             this.adjectives=analyzer.getAdjectives();
-            this.interestingWords = analyzer.getInterestingWords();
         }
         this.properties = properties;
-        this.properties.remove(DBpediaProperty.DBO_ABSTRACT);
+        this.properties.remove(DBpediaProperty.dbo_abstract);
 
     }
 
-    /*public DBpediaEntity(String entityString, Analyzer textAnalyzer) {
-        this.entityString = entityString;
-        this.entityUrl = this.getEntityUrl(this.entityString);
-        index = index + 1;
-        this.entityIndex = PREFIX + (index);
-
-    }
-
-    public DBpediaEntity(String entityString, Boolean democraticWord, Map<String, List<String>> properties) {
-        this.entityString = entityString;
-        index = index + 1;
-        this.entityIndex = PREFIX + (index);
-        this.democraticWord = democraticWord;
-        this.properties = properties;
-        this.entityUrl = this.getEntityUrl(this.entityString);
-    }
-
-    public DBpediaEntity(String entityString) {
-        String[] nGramSplit = entityString.split("");
-        this.entityString = nGramSplit[0];
-        this.democraticWord = null;
-        this.properties = null;
-        this.entityIndex = null;
-        this.properties = null;
-        this.entityUrl = this.getEntityUrl(this.entityString);
-    }
-
-    public DBpediaEntity(String entityString, boolean democraticWord) {
-        this.entityString = entityString;
-        this.democraticWord = democraticWord;
-        this.properties = null;
-        this.entityIndex = null;
-        this.properties = null;
-        this.entityUrl = this.getEntityUrl(this.entityString);
-    }*/
-
- /*@Override
-    public String toString() {
-        String start = entityString + " " + democraticWord + "\n";
-        String line="";
-        if(this.textAnalyzer!=null) {
-          line = this.textAnalyzer.toString() + "\n";  
-        }
-        for (String property : this.properties.keySet()) {
-            line += property + " " + properties.get(property) + "\n";
-        }
-        start += line;
-        return start;
-    }*/
     public void setProperties(Map<String, List<String>> properties) {
         this.properties = properties;
     }
@@ -141,8 +88,7 @@ public class DBpediaEntity {
             String info[] = entityString.split(":");
             entityString = info[1];
         }
-
-        return "<http://dbpedia.org/resource/" + entityString + ">";
+        return "http://dbpedia.org/resource/" + entityString;
     }
 
     private String getText(Map<String, List<String>> properties, String property) {
@@ -205,10 +151,6 @@ public class DBpediaEntity {
 
     public String getInputFileName() {
         return inputFileName;
-    }
-
-    public Set<String> getInterestingWords() {
-        return interestingWords;
     }
 
     @Override

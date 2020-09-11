@@ -5,7 +5,7 @@
  */
 package citec.correlation.core.weka;
 
-import citec.correlation.wikipedia.table.DBpediaEntity;
+import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.utils.FileFolderUtils;
 import citec.correlation.utils.StringWrap;
 import java.util.HashMap;
@@ -68,16 +68,16 @@ public class MakeArffTable implements PropertyNotation{
 
     private String getAttributes(Map<String, String> entityTable, Map<String, List<String>> propertyList) {
         String entities = this.getAttributeEntities(entityTable);
-        String DC_DESCRIPTION_STRING = this.getAttributeDescription(propertyList, DC_DESCRIPTION);
-        String DBO_PARTY_STRING = this.getAttributeDescription(propertyList, DBO_PARTY);
-        String DBO_COUNTRY_STRING = this.getAttributeDescription(propertyList, DBO_COUNTRY);
-        String RDF_TYPE_STRING = this.getAttributeDescription(propertyList, RDF_TYPE);
+        String DC_DESCRIPTION_STRING = this.getAttributeDescription(propertyList, PropertyNotation.dct_description);
+        String DBO_PARTY_STRING = this.getAttributeDescription(propertyList, dbo_party);
+        String DBO_COUNTRY_STRING = this.getAttributeDescription(propertyList, PropertyNotation.dbo_country);
+        String RDF_TYPE_STRING = this.getAttributeDescription(propertyList, PropertyNotation.rdf_type);
         return "@attribute" + " " + StringWrap.wrap(ENTITIES) + " " + entities + "\n"
                 //+"@attribute"+" "+DBP_SHORT_DESCRIPTION+" "+propertyList.get(DBP_SHORT_DESCRIPTION).toString().replace("[", "{").replace("]", "}")+"\n"
-                + "@attribute" + " " +  StringWrap.wrap(DC_DESCRIPTION) + " " + DC_DESCRIPTION_STRING + "\n"
-                + "@attribute" + " " +  StringWrap.wrap(DBO_PARTY) + " " + DBO_PARTY_STRING + "\n"
-                + "@attribute" + " " +  StringWrap.wrap(DBO_COUNTRY) + " " + DBO_COUNTRY_STRING + "\n"
-                + "@attribute" + " " +  StringWrap.wrap(RDF_TYPE) + " " + RDF_TYPE_STRING + "\n"
+                + "@attribute" + " " +  StringWrap.wrap(dct_description) + " " + DC_DESCRIPTION_STRING + "\n"
+                + "@attribute" + " " +  StringWrap.wrap(dbo_party) + " " + DBO_PARTY_STRING + "\n"
+                + "@attribute" + " " +  StringWrap.wrap(PropertyNotation.dbo_country) + " " + DBO_COUNTRY_STRING + "\n"
+                + "@attribute" + " " +  StringWrap.wrap(PropertyNotation.rdf_type) + " " + RDF_TYPE_STRING + "\n"
                 + "@attribute" + " " +  StringWrap.wrap("democratic") +" {true, false}" + "\n";
     }
 
@@ -101,23 +101,23 @@ public class MakeArffTable implements PropertyNotation{
             String prop_type = NO_VALUE;
             //System.out.println(properties.keySet());
 
-            if (properties.containsKey(DC_DESCRIPTION)) {
-                prop_description =properties.get(DC_DESCRIPTION).iterator().next();
+            if (properties.containsKey( PropertyNotation.dct_description)) {
+                prop_description =properties.get( PropertyNotation.dct_description).iterator().next();
                 prop_description = prop_description.replace("\"", "");
                 //prop_description = properties.get(DC_DESCRIPTION).replace("\"", "");
             }
-            if (properties.containsKey(DBO_PARTY)) {
-                prop_party = properties.get(DBO_PARTY).iterator().next();
+            if (properties.containsKey(dbo_party)) {
+                prop_party = properties.get(dbo_party).iterator().next();
                 prop_party = prop_party.replace("\"", "");
                 //prop_party = properties.get(DBO_PARTY).replace("\"", "");
             }
-            if (properties.containsKey(DBO_COUNTRY)) {
-                prop_country = properties.get(DBO_COUNTRY).iterator().next();
+            if (properties.containsKey(PropertyNotation.dbo_country)) {
+                prop_country = properties.get(PropertyNotation.dbo_country).iterator().next();
                 prop_country = prop_country.replace("\"", "");
                 //prop_country = properties.get(DBO_COUNTRY).replace("\"", "");
             }
-            if (properties.containsKey(RDF_TYPE)) {
-                prop_type = properties.get(RDF_TYPE).iterator().next();
+            if (properties.containsKey(PropertyNotation.rdf_type)) {
+                prop_type = properties.get(PropertyNotation.rdf_type).iterator().next();
                 prop_type =prop_type.replace("\"", "");
                 //prop_type = properties.get(RDF_TYPE).replace("\"", "");
             }

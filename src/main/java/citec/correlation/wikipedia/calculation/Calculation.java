@@ -10,7 +10,7 @@ import citec.correlation.utils.FileFolderUtils;
 import citec.correlation.utils.SortUtils;
 import citec.correlation.wikipedia.element.Result;
 import citec.correlation.wikipedia.element.Results;
-import citec.correlation.wikipedia.table.DBpediaEntity;
+import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.wikipedia.table.Tables;
 import java.io.File;
 import java.io.IOException;

@@ -5,18 +5,41 @@
  */
 package citec.correlation.wikipedia.element;
 
+import static citec.correlation.wikipedia.element.DBpediaProperty.prefixesIncluded;
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  *
  * @author elahi
  */
 public interface PropertyNotation {
 
-    public static final String DBP_SHORT_DESCRIPTION = "dbp:shortDescription";
-    public static final String DC_DESCRIPTION = "dct:description";
-    public static final String DBO_PARTY = "dbo:party";
-    public static final String DBO_COUNTRY = "dbo:country";
-    public static final String RDF_TYPE = "rdf:type";
-    public static String DBO_ABSTRACT = "dbo:abstract";
-    public static String DBO_CLASS_POLITICIAN ="dbo:Politician";
-    
+    public static final String rdf_type = "rdf:type";
+    public static final String dbo_abstract = "dbo:abstract";
+    public static final String dbo_party = "dbo:party";
+    public static final String dbo_country = "dbo:country";
+    public static final String dbo_birthPlace = "dbo:birthPlace";
+    public static final String dbo_deathPlace = "dbo:deathPlace";
+    public static final String dbp_predecessor = "dbp:predecessor";
+    public static final String dbp_successor = "dbp:successor";
+    public static final String dbo_region = "dbo:region";
+    public static final String dbp_occupation = "dbp:occupation";
+    public static final String dbo_Politician = "dbo:Politician";
+    public static final String dct_description = "dct:description";
+    public static final String dbp_shortDescription = "dbp:shortDescription";
+    public static final String dbo_activeYearsEndDate = "dbo:activeYearsEndDate";
+    public static final String dbo_activeYearsStartDate = "dbo:activeYearsStartDate";
+    public static final String dbp_termEnd = "dbp:termEnd";
+    public static final String dbp_termStart = "dbp:termStart";
+    public static final String dbo_thumbnail = "dbo_thumbnail";
+    public static final Map<String, String> prefixesIncluded = new HashMap<String, String>() {
+        {
+            put("http://dbpedia.org/ontology/", "dbo:");
+            put("http://dbpedia.org/property/", "dbp:");
+            put("http://dbpedia.org/resource", "dbr:");
+            put("https://dublincore.org/specifications/dublin-core/dcmi-terms/#description", "dct:");
+        }
+    };
+
 }

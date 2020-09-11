@@ -6,25 +6,10 @@
 package citec.correlation.wikipedia.element;
 
 import static citec.correlation.core.Constants.UNICODE;
-import citec.correlation.core.sparql.CurlSparqlQuery;
-import citec.correlation.wikipedia.table.DBpediaEntity;
-import citec.correlation.wikipedia.element.DBpediaProperty;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedHashMap;
-import java.util.LinkedHashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.TreeMap;
-import java.util.TreeSet;
+import java.io.*;
+import java.util.*;
 import org.apache.commons.io.IOUtils;
 
 /**
@@ -39,10 +24,10 @@ public class DbpediaClass {
 
     public DbpediaClass(String className, String entitiesPropertyFile, String POS_TAGGER) throws IOException, Exception {
         this.className = className;
-        setPropertyEntities(entitiesPropertyFile);
+        findPropertyEntities(entitiesPropertyFile);
     }
 
-    private void setPropertyEntities(String democraticJSON) throws FileNotFoundException, IOException, Exception {
+    private void findPropertyEntities(String democraticJSON) throws FileNotFoundException, IOException, Exception {
         Map<String, List<String>> propertyList = new TreeMap<String, List<String>>();
         InputStream inputStream = new FileInputStream(democraticJSON);
         ObjectMapper mapper = new ObjectMapper();
@@ -59,7 +44,7 @@ public class DbpediaClass {
                 }
                 if (key.contains("triple_pattern")) {
                     propertyString = (String) democraticDataUnit.get(key);
-                   // System.out.println("value:" + propertyString);
+                    //System.out.println("value:" + propertyString);
                 }
                 if (key.contains("entities")) {
                     LinkedHashMap<String, String> value = (LinkedHashMap<String, String>) democraticDataUnit.get(key);

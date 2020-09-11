@@ -9,7 +9,7 @@ import citec.correlation.wikipedia.calculation.Calculation;
 import citec.correlation.wikipedia.element.DbpediaClass;
 import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.core.mysql.MySQLAccess;
-import citec.correlation.wikipedia.table.DBpediaEntity;
+import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.core.weka.MakeArffTable;
 import citec.correlation.wikipedia.element.DBpediaProperty;
 import citec.correlation.wikipedia.table.EntityTable;
@@ -55,19 +55,34 @@ public class TableMain implements PropertyNotation {
 
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
-        String type=read;
+        String type=write;
+        
+/*dbo:party
+dbo:country
+dbo:birthPlace
+dbo:deathPlace
+dbp:predecessor
+dbp:successor
+dbo:region
+dbp:occupation
+dbo:activeYearsEndDate
+dbo:activeYearsStartDate
+dbp:termEnd
+dbp:termStart
+dbo:country
+dbo:thumbnail*/
         
         Set<String> checkProperties = new HashSet<String>();
         //checkProperties.add(PropertyNotation.DBP_SHORT_DESCRIPTION);
         //checkProperties.add(PropertyNotation.DBO_COUNTRY);
          //checkProperties.add(PropertyNotation.DBO_PARTY);
-         checkProperties.add( PropertyNotation.DBO_PARTY);
+        checkProperties.add(PropertyNotation.dbo_party);
         
         //checkProperties.add(DBO_COUNTRY);
         //checkProperties.add(DC_DESCRIPTION);
 
-        freqClasses.add(DBO_CLASS_POLITICIAN);
-        DbpediaClass dbpediaClass = new DbpediaClass(DBO_CLASS_POLITICIAN, inputJsonFile, TextAnalyzer.POS_TAGGER);
+        freqClasses.add(dbo_Politician);
+        DbpediaClass dbpediaClass = new DbpediaClass(dbo_Politician, inputJsonFile, TextAnalyzer.POS_TAGGER);
         String outputDir=dbpediaDir+output+entityTable;
       
         if (type.contains(write)) {
@@ -75,7 +90,7 @@ public class TableMain implements PropertyNotation {
         }
 
         if (type.contains(read)) {
-            String property=PropertyNotation.DBO_PARTY;
+            String property=PropertyNotation.dbo_party;
             Calculation calculation = new Calculation(property,inputJsonFile,outputDir);
         }
         

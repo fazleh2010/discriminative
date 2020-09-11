@@ -29,6 +29,9 @@ import java.io.BufferedInputStream;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+import java.net.URI;
+import java.net.URLEncoder;
 import java.util.Map;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
@@ -166,6 +169,17 @@ public class FileFolderUtils {
      public static void writeToJsonFile(List<Results>  kbResults, String filename) throws IOException {
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(filename).toFile(), kbResults);
+    }
+     
+     public static String urlUnicodeToString(String url) throws Exception {
+        URI uri = new URI(url);
+        String urlStr = uri.getQuery();
+        return urlStr;
+    }
+
+    public static String stringToUrlUnicode(String string) throws UnsupportedEncodingException {
+        String encodedString = URLEncoder.encode(string, "UTF-8");
+        return encodedString;
     }
 
 

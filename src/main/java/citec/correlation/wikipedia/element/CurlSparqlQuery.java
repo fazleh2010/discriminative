@@ -3,19 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.core.sparql;
+package citec.correlation.wikipedia.element;
 
-import citec.correlation.core.weka.MakeArffTable;
-import citec.correlation.wikipedia.element.DBpediaProperty;
-import citec.correlation.wikipedia.main.TableMain;
+import citec.correlation.utils.FileFolderUtils;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.StringReader;
-import java.net.URL;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
@@ -40,14 +35,13 @@ public class CurlSparqlQuery {
 
     private static String endpoint = "https://dbpedia.org/sparql";
     private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
-    private Set<String> selectedProperties=new HashSet<String>();
+    private Set<String> selectedProperties = new HashSet<String>();
 
-    public CurlSparqlQuery(String sparqlQuery, String property) {
-        if (DBpediaProperty.propertyIncluded.containsKey(property)) {
-            this.selectedProperties = DBpediaProperty.propertyIncluded.get(property);
-        }
+    public CurlSparqlQuery(String entityUrl, String property) {
+        String sparqlQuery = this.setSparqlQueryProperty(entityUrl);
+        selectedProperties.add(property);
+        selectedProperties.add(PropertyNotation.dbo_abstract);
         String resultSparql = executeSparqlQuery(sparqlQuery);
-        //System.out.println(resultSparql);
         parseResult(resultSparql);
     }
 
@@ -55,7 +49,7 @@ public class CurlSparqlQuery {
         String result = null, resultUnicode = null, command = null;
         Process process = null;
         try {
-            resultUnicode = FileUrlUtils.stringToUrlUnicode(query);
+            resultUnicode = FileFolderUtils.stringToUrlUnicode(query);
             command = "curl " + endpoint + "?query=" + resultUnicode;
             process = Runtime.getRuntime().exec(command);
             //System.out.print(command);
@@ -74,10 +68,6 @@ public class CurlSparqlQuery {
                 builder.append(System.getProperty("line.separator"));
             }
             result = builder.toString();
-            // System.out.println("result String:");
-            //System.out.print(result);
-            //convertToXML(result);
-
         } catch (IOException ex) {
             Logger.getLogger(CurlSparqlQuery.class.getName()).log(Level.SEVERE, null, ex);
             System.out.println("error in reading sparql query!" + ex.getMessage());
@@ -124,7 +114,7 @@ public class CurlSparqlQuery {
                 Node childNode = childList.item(j);
                 if ("result".equals(childNode.getNodeName())) {
                     String string = childList.item(j).getTextContent().trim();
-
+                    //System.out.println("string:"+string);
                     String[] infos = string.split("\n");
                     //List<String> wordList = Arrays.asList(infos);
                     /*for(String word:wordList){
@@ -158,31 +148,12 @@ public class CurlSparqlQuery {
         }
     }
 
-    /*private void parseResult(DocumentBuilder builder, String xmlStr) throws SAXException, IOException, DOMException, Exception {
-        Document document = builder.parse(new InputSource(new StringReader(
-                xmlStr)));
-        NodeList results = document.getElementsByTagName("results");
-
-        for (int i = 0; i < results.getLength(); i++) {
-            NodeList childList = results.item(i).getChildNodes();
-            for (int j = 0; j < childList.getLength(); j++) {
-                Node childNode = childList.item(j);
-                if ("result".equals(childNode.getNodeName())) {
-                    String string = childList.item(j).getTextContent().trim();
-                    this.text = string;
-                }
-            }
-        }
-    }*/
     private boolean istProperty(String string) {
         boolean flag = false;
         if (string.contains("http://dbpedia.org/ontology/")
                 || string.contains("http://dbpedia.org/property/")
                 || string.contains("http://dbpedia.org/resource/")) {
             flag = true;
-        }
-        if (string.contains("http://dbpedia.org/ontology/wiki")) {
-            flag = false;
         }
 
         return flag;
@@ -192,18 +163,17 @@ public class CurlSparqlQuery {
         return properties;
     }
 
-    private static String setSparqlText(String entityUrl) {
+    /*private static String setSparqlText(String entityUrl) {
         return "select str(?text) as ?text\n"
                 + "    {\n"
                 + "    " + entityUrl + "dbo:abstract  ?text \n"
                 + "    FILTER (lang(?text) = 'en')\n"
                 + "    }";
-    }
-
+    }*/
     public static String setSparqlQueryProperty(String entityUrl) {
         return "select  ?p ?o\n"
                 + "    {\n"
-                + "    " + entityUrl + " ?p   ?o\n"
+                + "    " + "<" + entityUrl + ">" + " ?p   ?o\n"
                 + "    }";
 
     }
@@ -213,12 +183,9 @@ public class CurlSparqlQuery {
             if (property.contains(propType)) {
                 String lastString = getLastString(property, '/');
                 property = property.replace(property, DBpediaProperty.prefixesIncluded.get(propType)) + lastString;
-                /*if (selectedProperties.contains(property)) {
+                if (selectedProperties.contains(property)) {
                     return property;
-                }*/
-                if(selectedProperties.isEmpty())
-                    return property;
-
+                }
             }
         }
         return null;
@@ -230,22 +197,6 @@ public class CurlSparqlQuery {
             return null;
         }
         return subject = subject.substring(index + 1);
-    }
-    
-    public static void main(String[] args) throws IOException, Exception {
-        
-        
-        String sparqlQuery = "select  ?p ?o\n"
-                + "    {\n"
-                + "    <http://dbpedia.org/resource/Francis_Kruse> ?p   ?o\n"
-                + "    }";
-        
-        
-        CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sparqlQuery,"");
-        for (String property : curlSparqlQuery.getProperties().keySet()) {
-            System.out.println(property);
-            System.out.println(curlSparqlQuery.getProperties().get(property));
-        }
     }
 
 }

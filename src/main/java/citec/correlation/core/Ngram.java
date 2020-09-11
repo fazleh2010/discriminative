@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.wikipedia.element;
+package citec.correlation.core;
 
-import citec.correlation.wikipedia.table.DBpediaEntity;
-import citec.correlation.wikipedia.element.DBpediaClassOld;
+import citec.correlation.core.DBpediaClassOld;
+import citec.correlation.wikipedia.element.DBpediaEntity;
 import java.util.ArrayList;
 import java.util.List;
 /**
