@@ -61,7 +61,7 @@ public class TableMain implements PropertyNotation {
         //checkProperties.add(PropertyNotation.DBP_SHORT_DESCRIPTION);
         //checkProperties.add(PropertyNotation.DBO_COUNTRY);
          //checkProperties.add(PropertyNotation.DBO_PARTY);
-         checkProperties.add( PropertyNotation.DBO_COUNTRY);
+         checkProperties.add( PropertyNotation.DBO_PARTY);
         
         //checkProperties.add(DBO_COUNTRY);
         //checkProperties.add(DC_DESCRIPTION);

@@ -39,4 +39,9 @@ public class Results {
 
     }
 
+    @Override
+    public String toString() {
+        return "Results{" + "objectIndex=" + objectIndex + ", property=" + property + ", KB=" + KB + ", distributions=" + distributions + '}';
+    }
+
 }

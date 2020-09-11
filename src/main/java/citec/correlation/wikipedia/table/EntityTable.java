@@ -52,9 +52,9 @@ public class EntityTable {
 
             index++;
 
-            /*if (index >10) {
+            if (index >10) {
                 break;
-            }*/
+            }
         }
     }
 

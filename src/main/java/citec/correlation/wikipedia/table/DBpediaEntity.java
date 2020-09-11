@@ -41,7 +41,8 @@ public class DBpediaEntity {
     private String dboClass;
     @JsonProperty("properties")
     private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
-    @JsonProperty("interestingWords")
+    @JsonIgnore
+    //@JsonProperty("interestingWords")
     private Set<String> interestingWords = new TreeSet<String>();
     /*@JsonProperty("senetences")
     private List<HashMap<String,Set<String>>> senetences=new ArrayList<HashMap<String,Set<String>>>();*/
