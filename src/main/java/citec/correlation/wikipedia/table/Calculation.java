@@ -3,13 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.wikipedia.calculation;
+package citec.correlation.wikipedia.table;
 
 import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.utils.FileFolderUtils;
 import citec.correlation.utils.SortUtils;
-import citec.correlation.wikipedia.element.Result;
-import citec.correlation.wikipedia.element.Results;
 import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.wikipedia.table.Tables;
 import java.io.File;

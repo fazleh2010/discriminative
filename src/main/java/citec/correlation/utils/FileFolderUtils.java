@@ -5,8 +5,8 @@
  */
 package citec.correlation.utils;
 
-import citec.correlation.wikipedia.element.Result;
-import citec.correlation.wikipedia.element.Results;
+import citec.correlation.wikipedia.table.Result;
+import citec.correlation.wikipedia.table.Results;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.BufferedReader;

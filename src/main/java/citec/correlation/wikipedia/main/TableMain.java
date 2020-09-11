@@ -5,7 +5,7 @@
  */
 package citec.correlation.wikipedia.main;
 
-import citec.correlation.wikipedia.calculation.Calculation;
+import citec.correlation.wikipedia.table.Calculation;
 import citec.correlation.wikipedia.element.DbpediaClass;
 import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.core.mysql.MySQLAccess;
