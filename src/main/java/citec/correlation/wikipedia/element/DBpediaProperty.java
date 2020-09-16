@@ -26,10 +26,13 @@ public class DBpediaProperty implements PropertyNotation {
 
     public DBpediaProperty(String propertyString) {
         this.propertyString = propertyString;
-        String[] words = propertyString.split(" ");
-        this.subject = words[0];
-        this.predicate = words[1];
-        this.object = words[2];
+        if(propertyString.contains(" "))
+          this.parsePropertyString(propertyString);
+        else {
+            this.subject = propertyString;
+            this.predicate = propertyString;
+            this.object = propertyString;
+        }
     }
 
     public void parsePropertyString(String propertyString) {

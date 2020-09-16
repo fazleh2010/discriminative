@@ -10,11 +10,14 @@ import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.wikipedia.element.DbpediaClass;
 import citec.correlation.wikipedia.element.DBpediaProperty;
 import citec.correlation.utils.FileFolderUtils;
+import citec.correlation.wikipedia.element.PropertyNotation;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
@@ -25,10 +28,12 @@ import java.util.TreeMap;
  *
  * @author elahi
  */
-public class Tables {
+public class Tables implements PropertyNotation{
     private String inputFileName=null;
     private String dbpediaDir=null;
+    private String className=null;
     private Map<String, EntityTable> entityTables = new HashMap<String, EntityTable>();
+    private List<DBpediaEntity> allDBpediaEntitys = new ArrayList<DBpediaEntity>();
 
     public Tables(String inputFileName,String dbpediaDir) {
         this.inputFileName=inputFileName;
@@ -47,12 +52,134 @@ public class Tables {
             entityTables.put(entityTable.getTableName(), entityTable);
         }
     }
+    
+    public  List<DBpediaEntity> readSplitTables(String inputDir,String fileType) throws IOException, Exception {
+        List<File> list = FileFolderUtils.getFiles(inputDir, fileType, ".json");
+        this.className = null;
+        for (File file : list) {
+            String[] info = file.getName().split("_");
+            className = info[0];
+            ObjectMapper mapper = new ObjectMapper();
+            List<DBpediaEntity> dbpediaEntitys = mapper.readValue(file, new TypeReference<List<DBpediaEntity>>() {
+            });
+
+            allDBpediaEntitys.addAll(dbpediaEntitys);
+        }
+        
+        return allDBpediaEntitys;
+    }
+    
+    public void writeTable(String outputDir) throws IOException, Exception {
+        Map<String, List<DBpediaEntity>> propertyEntities = new HashMap<String, List<DBpediaEntity>>();
+
+        for (DBpediaEntity DBpediaEntity : allDBpediaEntitys) {
+            List<DBpediaEntity> entities = new ArrayList<DBpediaEntity>();
+            for (String property : DBpediaEntity.getProperties().keySet()) {
+                //if (PropertyNotation.include.contains(property)) {
+                    if (propertyEntities.containsKey(property)) {
+                        entities = propertyEntities.get(property);
+                        entities.add(DBpediaEntity);
+                        propertyEntities.put(property, entities);
+                    } else {
+                        entities.add(DBpediaEntity);
+                        propertyEntities.put(property, entities);
+                    }
+                //}
+
+            }
+        }
+
+        for (String property : propertyEntities.keySet()) {
+            String tableName = className + "_" + property;
+            List<DBpediaEntity> dbpediaEntitys = propertyEntities.get(property);
+            List<DBpediaEntity> correctedEntities = new ArrayList<DBpediaEntity>();
+            Set<String> properties = new HashSet<String>();
+            Integer index=0;
+            for (DBpediaEntity dbpediaEntity : dbpediaEntitys) {
+                if (!properties.contains(dbpediaEntity.getEntityUrl())) {
+                    if (dbpediaEntity.getProperties().containsKey(property)) {
+                        index=index+1;
+                        List<String> values = dbpediaEntity.getProperties().get(property);
+                        DBpediaEntity dbpediaEntityNew = new DBpediaEntity(dbpediaEntity,index, property, values);
+                        correctedEntities.add(dbpediaEntityNew);
+                        properties.add(dbpediaEntityNew.getEntityUrl());
+                    }
+                }
+
+            }
+            EntityTable entityTable = new EntityTable(inputFileName, outputDir+tableName, correctedEntities);
+            entityTables.put(entityTable.getTableName(), entityTable);
+           
+        }
+
+    }
+    
+    /*public void readSplitTables(String inputDir, String classFileName, String outputDir) throws IOException, Exception {
+        List<File> list = FileFolderUtils.getFiles(inputDir, classFileName, ".json");
+        String className = null;
+        List<DBpediaEntity> allDBpediaEntitys = new ArrayList<DBpediaEntity>();
+        //File[] list = FileFolderUtils.getFiles(dbpediaDir, ".json");
+        for (File file : list) {
+            //System.out.println("file..."+file.getName());
+            String[] info = file.getName().split("_");
+            className = info[0];
+            ObjectMapper mapper = new ObjectMapper();
+            List<DBpediaEntity> dbpediaEntitys = mapper.readValue(file, new TypeReference<List<DBpediaEntity>>() {
+            });
+
+            allDBpediaEntitys.addAll(dbpediaEntitys);
+        }
+
+        Map<String, List<DBpediaEntity>> propertyEntities = new HashMap<String, List<DBpediaEntity>>();
+
+        for (DBpediaEntity DBpediaEntity : allDBpediaEntitys) {
+            List<DBpediaEntity> entities = new ArrayList<DBpediaEntity>();
+            for (String property : DBpediaEntity.getProperties().keySet()) {
+                //if (PropertyNotation.include.contains(property)) {
+                    if (propertyEntities.containsKey(property)) {
+                        entities = propertyEntities.get(property);
+                        entities.add(DBpediaEntity);
+                        propertyEntities.put(property, entities);
+                    } else {
+                        entities.add(DBpediaEntity);
+                        propertyEntities.put(property, entities);
+                    }
+                //}
+
+            }
+        }
+
+        for (String property : propertyEntities.keySet()) {
+            String tableName = outputDir + className + "_" + property;
+            List<DBpediaEntity> dbpediaEntitys = propertyEntities.get(property);
+            List<DBpediaEntity> correctedEntities = new ArrayList<DBpediaEntity>();
+            Set<String> properties = new HashSet<String>();
+            Integer index=0;
+            for (DBpediaEntity dbpediaEntity : dbpediaEntitys) {
+                if (!properties.contains(dbpediaEntity.getEntityUrl())) {
+                    if (dbpediaEntity.getProperties().containsKey(property)) {
+                        index=index+1;
+                        List<String> values = dbpediaEntity.getProperties().get(property);
+                        DBpediaEntity dbpediaEntityNew = new DBpediaEntity(dbpediaEntity,index, property, values);
+                        correctedEntities.add(dbpediaEntityNew);
+                        properties.add(dbpediaEntityNew.getEntityUrl());
+                    }
+                }
+
+            }
+            EntityTable entityTable = new EntityTable(inputFileName, tableName, correctedEntities);
+            entityTables.put(entityTable.getTableName(), entityTable);
+            //break;
+        }
+
+    }*/
 
     public void writingTable(DbpediaClass dbpediaClass, Set<String> checkProperties) throws Exception {
         Map<String, LinkedHashSet<String>> propertyEntities = new TreeMap<String, LinkedHashSet<String>>();
         for (String propertyString : dbpediaClass.getPropertyEntities().keySet()) {
             DBpediaProperty property = new DBpediaProperty(propertyString);
             LinkedHashSet<String> entities = dbpediaClass.getPropertyEntities().get(propertyString);
+            System.out.println(entities);
             String predicate = property.getPredicate();
             if (checkProperties.contains(predicate)) {
                 if (propertyEntities.containsKey(predicate)) {
@@ -75,8 +202,38 @@ public class Tables {
         }
     }
 
+    public void writingTable(DbpediaClass dbpediaClass, Map<String, LinkedHashSet<String>> propertyEntities) throws Exception {
+        for (String predicate : propertyEntities.keySet()) {
+            if (predicate.startsWith("A") || predicate.startsWith("a")
+                    || predicate.startsWith("B") || predicate.startsWith("b")
+                    || predicate.startsWith("C") || predicate.startsWith("c")
+                    || predicate.startsWith("D") || predicate.startsWith("d")
+                    || predicate.startsWith("E") || predicate.startsWith("e")
+                    || predicate.startsWith("F") || predicate.startsWith("f")
+                    || predicate.startsWith("G") || predicate.startsWith("g")
+                    || predicate.startsWith("H") || predicate.startsWith("h")
+                    || predicate.startsWith("I") || predicate.startsWith("i")
+                    || predicate.startsWith("J") || predicate.startsWith("j")) {
+                continue;
+            }
+
+            LinkedHashSet<String> entities = propertyEntities.get(predicate);
+            EntityTable entityTable = new EntityTable(inputFileName, dbpediaDir, dbpediaClass.getClassName(), predicate, entities, TextAnalyzer.POS_TAGGER);
+            //entityTables.put(entityTable.getTableName(), entityTable);
+        }
+    }
+
     public Map<String, EntityTable> getEntityTables() {
         return entityTables;
+    }
+
+    public List<DBpediaEntity> getAllDBpediaEntitys() {
+        return allDBpediaEntitys;
+    }
+    
+    public static String getProperty(String tableName){
+        String []info=tableName.split("_");
+        return info[1];
     }
 
     public void display() {

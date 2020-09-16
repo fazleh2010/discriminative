@@ -29,8 +29,10 @@ public class EntityTable {
     private String inputFileName;
     
     public EntityTable(String inputFileName,String tableName,List<DBpediaEntity> dbpediaEntities) throws Exception {
+        this.inputFileName=inputFileName;
         this.tableName=tableName;
         this.dbpediaEntities=dbpediaEntities;
+        this.convertToJson(dbpediaEntities, tableName);
     }
 
     public EntityTable(String inputFileName,String dbpediaDir,String freqClass, String freqProp,LinkedHashSet<String> entities, String POS_TAGGER) throws Exception {
@@ -41,20 +43,28 @@ public class EntityTable {
     }
 
     private void setProperties(LinkedHashSet<String> entities, String POS_TAGGER,String freqClass,String freqProperty) throws Exception {
-        Integer index = 0;
+        Integer index = 0,total=entities.size();
         
         for (String entityString : entities) {
             String entityUrl = DBpediaEntity.getEntityUrl(entityString);
             CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(entityUrl,freqProperty);
             DBpediaEntity dbpediaEntity = new DBpediaEntity(inputFileName,freqClass,freqProperty,entityString, curlSparqlQuery.getProperties(), POS_TAGGER);
             dbpediaEntities.add(dbpediaEntity);
-            System.out.println(dbpediaEntity.getProperties());
+            //System.out.println("entityIndex:" + dbpediaEntity.getEntityIndex());
+            //if (entityString.startsWith("A")||entityString.startsWith("a")) {
+                if (!dbpediaEntity.getProperties().isEmpty()) {
+                    String key = dbpediaEntity.getProperties().keySet().iterator().next();
+                    System.out.println("entity:" + entityString+" property:" + key+" count"+index+ " total"+total);
+                }
+
+            //}
+           
 
             index++;
 
-            if (index >1) {
+            /*if (index >10) {
                 break;
-            }
+            }*/
         }
     }
 

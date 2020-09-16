@@ -30,6 +30,7 @@ import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import citec.correlation.wikipedia.element.PropertyNotation;
+import java.util.LinkedHashSet;
 import org.apache.commons.io.FileUtils;
 
 /**
@@ -47,6 +48,7 @@ public class TableMain implements PropertyNotation {
     private static String inputJsonFile = dataDir + input + "results-100000000-100-concretePO.json";
     
     private static String inputWordFile = dbpediaDir + input + "politicians_with_democratic.yml";
+   private static String allPoliticianFile = dataDir + input + "politicians.txt";
     private static String outputArff = dbpediaDir + output + "democratic.arff";
     private static Set<String> freqClasses = new HashSet<String>();
     private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
@@ -55,43 +57,41 @@ public class TableMain implements PropertyNotation {
 
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
-        String type=write;
-        
-/*dbo:party
-dbo:country
-dbo:birthPlace
-dbo:deathPlace
-dbp:predecessor
-dbp:successor
-dbo:region
-dbp:occupation
-dbo:activeYearsEndDate
-dbo:activeYearsStartDate
-dbp:termEnd
-dbp:termStart
-dbo:country
-dbo:thumbnail*/
+        String type=read;
         
         Set<String> checkProperties = new HashSet<String>();
         //checkProperties.add(PropertyNotation.DBP_SHORT_DESCRIPTION);
         //checkProperties.add(PropertyNotation.DBO_COUNTRY);
          //checkProperties.add(PropertyNotation.DBO_PARTY);
-        checkProperties.add(PropertyNotation.dbo_party);
+        //checkProperties.add(PropertyNotation.dbo_party);
         
         //checkProperties.add(DBO_COUNTRY);
         //checkProperties.add(DC_DESCRIPTION);
 
         freqClasses.add(dbo_Politician);
-        DbpediaClass dbpediaClass = new DbpediaClass(dbo_Politician, inputJsonFile, TextAnalyzer.POS_TAGGER);
+        String inputFile=allPoliticianFile;
+        String fileType=DbpediaClass.ALL_POLITICIANS;
+        DbpediaClass dbpediaClass = new DbpediaClass(dbo_Politician, inputFile, TextAnalyzer.POS_TAGGER,fileType);
         String outputDir=dbpediaDir+output+entityTable;
       
         if (type.contains(write)) {
-            trainingTable.write(inputJsonFile, outputDir, dbpediaClass, checkProperties);
+            if (fileType.contains(DbpediaClass.FREQUENT_TRIPLE)) {
+                trainingTable.write(inputFile, outputDir, dbpediaClass, checkProperties);
+            } else if (fileType.contains(DbpediaClass.ALL_POLITICIANS)) {
+                trainingTable.write(inputFile, outputDir, dbpediaClass, dbpediaClass.getPropertyEntities());
+            }
         }
 
         if (type.contains(read)) {
-            String property=PropertyNotation.dbo_party;
-            Calculation calculation = new Calculation(property,inputJsonFile,outputDir);
+            Tables tables = new Tables(new File(inputFile).getName(), outputDir);
+            String dir=dbpediaDir + output;
+            tables.readSplitTables(dbpediaDir + output,dbo_Politician);
+            tables.writeTable(dir + entityTable);
+            //String property=PropertyNotation.dbo_party;
+            //Calculation calculation = new Calculation(tables,property,outputDir);
+            
+            /*String property=PropertyNotation.dbo_party;
+            Calculation calculation = new Calculation(property,inputJsonFile,outputDir);*/
         }
         
         //trainingTable.moveDirectory(dbpediaDir+output+entityTable,dataDir+entityTable);
@@ -185,11 +185,19 @@ dbo:thumbnail*/
     }*/
 
   
-
-    private void write(String inputJsonFile, String outputDir,DbpediaClass dbpediaClass, Set<String> checkProperties) {
-        Tables tables=new Tables(new File(inputJsonFile).getName(),outputDir);
+    private void write(String inputJsonFile, String outputDir, DbpediaClass dbpediaClass, Map<String, LinkedHashSet<String>> propertyEntities) {
+        Tables tables = new Tables(new File(inputJsonFile).getName(), outputDir);
         try {
-            tables.writingTable( dbpediaClass, checkProperties);
+            tables.writingTable(dbpediaClass, propertyEntities);
+        } catch (Exception ex) {
+            Logger.getLogger(TableMain.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+
+    private void write(String inputJsonFile, String outputDir, DbpediaClass dbpediaClass, Set<String> checkProperties) {
+        Tables tables = new Tables(new File(inputJsonFile).getName(), outputDir);
+        try {
+            tables.writingTable(dbpediaClass, checkProperties);
         } catch (Exception ex) {
             Logger.getLogger(TableMain.class.getName()).log(Level.SEVERE, null, ex);
         }

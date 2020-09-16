@@ -36,11 +36,17 @@ public class CurlSparqlQuery {
     private static String endpoint = "https://dbpedia.org/sparql";
     private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
     private Set<String> selectedProperties = new HashSet<String>();
+    private Set<String> excludeProperties = new HashSet<String>();
+
 
     public CurlSparqlQuery(String entityUrl, String property) {
         String sparqlQuery = this.setSparqlQueryProperty(entityUrl);
-        selectedProperties.add(property);
-        selectedProperties.add(PropertyNotation.dbo_abstract);
+        
+        if (selectedProperties.contains(property)) {
+            selectedProperties.add(property);
+            selectedProperties.add(PropertyNotation.dbo_abstract);
+        }
+        
         String resultSparql = executeSparqlQuery(sparqlQuery);
         parseResult(resultSparql);
     }
@@ -183,9 +189,15 @@ public class CurlSparqlQuery {
             if (property.contains(propType)) {
                 String lastString = getLastString(property, '/');
                 property = property.replace(property, DBpediaProperty.prefixesIncluded.get(propType)) + lastString;
-                if (selectedProperties.contains(property)) {
+                if(this.excludeProperties.contains(property))
+                     return null;
+                if(selectedProperties.isEmpty())
+                    return property;
+                else if (selectedProperties.contains(property)) {
                     return property;
                 }
+               
+               
             }
         }
         return null;

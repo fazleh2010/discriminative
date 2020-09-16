@@ -33,6 +33,7 @@ import java.io.UnsupportedEncodingException;
 import java.net.URI;
 import java.net.URLEncoder;
 import java.util.Map;
+import java.util.TreeMap;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
@@ -106,6 +107,28 @@ public class FileFolderUtils {
             e.printStackTrace();
         }
         return lists;
+    }
+    
+     public static List<String> getList(String fileName) throws FileNotFoundException, IOException {
+        List<String> entities=new ArrayList<String>();
+        
+        BufferedReader reader;
+        String line = "";
+        try {
+            reader = new BufferedReader(new FileReader(fileName));
+            line = reader.readLine();
+            while (line != null) {
+                line = reader.readLine();
+                if (line != null) {
+                    String url=line.trim();
+                    entities.add(url);
+                }
+            }
+            reader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return entities;
     }
 
     public static void listToFiles(List<String> list, String fileName) {

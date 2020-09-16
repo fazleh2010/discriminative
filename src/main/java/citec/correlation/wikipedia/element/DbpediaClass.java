@@ -6,6 +6,8 @@
 package citec.correlation.wikipedia.element;
 
 import static citec.correlation.core.Constants.UNICODE;
+import citec.correlation.utils.FileFolderUtils;
+import citec.correlation.utils.StringMatcherUtil;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.*;
@@ -21,10 +23,17 @@ public class DbpediaClass {
     private String className = null;
     private Map<String, LinkedHashSet<String>> propertyEntities = new HashMap<String, LinkedHashSet<String>>();
     private Set<String> allEntities = new TreeSet<String>();
+    public static final String FREQUENT_TRIPLE = "FREQUENT_TRIPLE";
+    public static final String ALL_POLITICIANS = "ALL_POLITICIANS";
 
-    public DbpediaClass(String className, String entitiesPropertyFile, String POS_TAGGER) throws IOException, Exception {
+    public DbpediaClass(String className, String entitiesPropertyFile, String POS_TAGGER, String type) throws IOException, Exception {
         this.className = className;
-        findPropertyEntities(entitiesPropertyFile);
+        if (type.contains(ALL_POLITICIANS)) {
+            findAllPropertyEntities(entitiesPropertyFile);
+        } else if (type.contains(FREQUENT_TRIPLE)) {
+            findPropertyEntities(entitiesPropertyFile);
+        }
+
     }
 
     private void findPropertyEntities(String democraticJSON) throws FileNotFoundException, IOException, Exception {
@@ -58,6 +67,8 @@ public class DbpediaClass {
             String propertyAtt = property.getPredicate();
             String propertyValue = property.getObject();
             propertyValue = propertyValue.replace("\"", "");
+            System.out.println("propertyString:"+propertyString);
+            System.out.println("entities:"+entities);
             propertyEntities.put(propertyString, entities);
             allEntities.addAll(entities);
 
@@ -74,6 +85,27 @@ public class DbpediaClass {
 
         }
         DBpediaProperty.setPropertyList(propertyList);
+
+    }
+    
+
+    private void findAllPropertyEntities(String entitiesPropertyFile) throws IOException {
+        for (String entity : FileFolderUtils.getList(entitiesPropertyFile)) {
+            String url = entity.replaceAll("<", "").replaceAll(">", "");
+            entity = DBpediaEntity.extractEntityUrl(url);
+            LinkedHashSet<String> entities = new LinkedHashSet<String>();
+            String key = StringMatcherUtil.findFirstCharacter(entity);//String.valueOf(entity.charAt(0));
+            url="dbr:"+entity;
+            if (propertyEntities.containsKey(key)) {
+                entities = propertyEntities.get(key);
+                entities.add(url);
+                propertyEntities.put(key, entities);
+            } else {
+                entities.add(url);
+                propertyEntities.put(key, entities);
+            }
+            allEntities.addAll(entities);
+        }
 
     }
 

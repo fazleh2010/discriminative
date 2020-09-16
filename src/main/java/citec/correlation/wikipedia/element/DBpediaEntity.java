@@ -6,6 +6,7 @@
 package citec.correlation.wikipedia.element;
 
 import citec.correlation.core.analyzer.Analyzer;
+import citec.correlation.utils.StringMatcherUtil;
 import citec.correlation.wikipedia.element.DBpediaProperty;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
@@ -28,7 +29,7 @@ public class DBpediaEntity {
 
     @JsonIgnore
     private static String PREFIX = "entity";
-    private static Integer index = 0;
+    public static Integer index =10640;
     @JsonProperty("entityIndex")
     private String entityIndex;
     @JsonProperty("entityUrl")
@@ -66,7 +67,7 @@ public class DBpediaEntity {
         this.entityString = entityString;
         this.entityUrl = this.getEntityUrl(this.entityString);
         index = index + 1;
-        this.entityIndex = PREFIX + (index);
+        this.entityIndex = PREFIX +(index);
         this.text = this.getText(properties, DBpediaProperty.dbo_abstract);
         if (this.text != null) {
             Analyzer analyzer = new Analyzer(dboProperty, this.text, POS_TAGGER, 5);
@@ -79,6 +80,19 @@ public class DBpediaEntity {
 
     }
 
+    public DBpediaEntity(DBpediaEntity dbpediaEntity, Integer index,String property, List<String> values) {
+        this.inputFileName = dbpediaEntity.getInputFileName();
+        this.dboClass = dbpediaEntity.getDboClass();
+        this.entityString =dbpediaEntity.getEntityString();
+        this.entityUrl = dbpediaEntity.getEntityUrl();
+        this.entityIndex = index.toString()+"_"+dbpediaEntity.getEntityIndex();
+        this.text = dbpediaEntity.getText();
+        this.words = dbpediaEntity.getWords();
+        this.nouns=dbpediaEntity.getNouns();
+        this.adjectives=dbpediaEntity.getAdjectives();
+        this.properties.put(property, values);
+    }
+
     public void setProperties(Map<String, List<String>> properties) {
         this.properties = properties;
     }
@@ -89,6 +103,10 @@ public class DBpediaEntity {
             entityString = info[1];
         }
         return "http://dbpedia.org/resource/" + entityString;
+    }
+    
+    public static String extractEntityUrl(String entityString) {
+        return entityString.replaceAll("http://dbpedia.org/resource/", "");
     }
 
     private String getText(Map<String, List<String>> properties, String property) {

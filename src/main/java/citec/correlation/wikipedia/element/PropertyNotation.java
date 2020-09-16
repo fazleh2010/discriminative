@@ -6,7 +6,10 @@
 package citec.correlation.wikipedia.element;
 
 import static citec.correlation.wikipedia.element.DBpediaProperty.prefixesIncluded;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -42,4 +45,13 @@ public interface PropertyNotation {
         }
     };
 
+    public static final List<String> excludeProperties = new ArrayList<String>(
+            Arrays.asList("dbo:wikiPageExternalLink",
+                    "dbo:wikiPageID",
+                    "dbo:wikiPageRevisionID",
+                    "dbo:wikiPageExternalLink",
+                    "dbp:wordnet_type",
+                    "dbo:wikiPageWikiLink"));
+    public static final List<String> include = new ArrayList<String>(
+            Arrays.asList(dbo_party, dbo_country));
 }
