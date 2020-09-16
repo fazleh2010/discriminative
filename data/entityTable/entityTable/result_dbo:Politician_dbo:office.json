@@ -1,0 +1,1076 @@
+[ {
+  "objectIndex" : "29",
+  "property" : "dbo:office",
+  "object" : "Member of the",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|Member of the)" : 0.52439,
+      "probability(Member of the|member)" : 0.02178
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|Member of the)" : 0.09756,
+      "probability(Member of the|legislative)" : 0.00799
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Member of the)" : 0.14634,
+      "probability(Member of the|assembly)" : 0.00927
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|Member of the)" : 0.10976,
+      "probability(Member of the|former)" : 0.01018
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Member of the)" : 0.08537,
+      "probability(Member of the|election)" : 0.00682
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Member of the)" : 0.26829,
+      "probability(Member of the|son)" : 0.02333
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|Member of the)" : 0.06098,
+      "probability(Member of the|political)" : 0.0122
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|Member of the)" : 0.23171,
+      "probability(Member of the|district)" : 0.03002
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|Member of the)" : 0.0122,
+      "probability(Member of the|constituency)" : 0.00269
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|Member of the)" : 0.12195,
+      "probability(Member of the|first)" : 0.01401
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|Member of the)" : 0.07317,
+      "probability(Member of the|australian)" : 0.0155
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|Member of the)" : 0.2561,
+      "probability(Member of the|american)" : 0.05393
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|Member of the)" : 0.21951,
+      "probability(Member of the|state)" : 0.02045
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|Member of the)" : 0.03659,
+      "probability(Member of the|figure)" : 0.02013
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|Member of the)" : 0.0122,
+      "probability(Member of the|indian)" : 0.00223
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|Member of the)" : 0.0122,
+      "probability(Member of the|politique)" : 0.00328
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|Member of the)" : 0.28049,
+      "probability(Member of the|war)" : 0.02405
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|Member of the)" : 0.03659,
+      "probability(Member of the|candidate)" : 0.00946
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|Member of the)" : 0.02439,
+      "probability(Member of the|british)" : 0.00635
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|Member of the)" : 0.0122,
+      "probability(Member of the|homme)" : 0.00412
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|Member of the)" : 0.02439,
+      "probability(Member of the|liberal)" : 0.00346
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|Member of the)" : 0.06098,
+      "probability(Member of the|seat)" : 0.01299
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|Member of the)" : 0.14634,
+      "probability(Member of the|party)" : 0.00882
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|Member of the)" : 0.10976,
+      "probability(Member of the|general)" : 0.01988
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|Member of the)" : 0.13415,
+      "probability(Member of the|mayor)" : 0.02532
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|Member of the)" : 0.07317,
+      "probability(Member of the|government)" : 0.00968
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|Member of the)" : 0.13415,
+      "probability(Member of the|politiker)" : 0.02506
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|Member of the)" : 0.09756,
+      "probability(Member of the|city)" : 0.01569
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|Member of the)" : 0.13415,
+      "probability(Member of the|lawyer)" : 0.06806
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|Member of the)" : 0.03659,
+      "probability(Member of the|leader)" : 0.00628
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|Member of the)" : 0.07317,
+      "probability(Member of the|minister)" : 0.00547
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|Member of the)" : 0.02439,
+      "probability(Member of the|electoral)" : 0.00813
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|Member of the)" : 0.13415,
+      "probability(Member of the|democratic)" : 0.02506
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|Member of the)" : 0.9878,
+      "probability(Member of the|er)" : 0.01955
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|Member of the)" : 0.06098,
+      "probability(Member of the|farmer)" : 0.04762
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|Member of the)" : 0.12195,
+      "probability(Member of the|office)" : 0.02391
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|Member of the)" : 0.18293,
+      "probability(Member of the|term)" : 0.03623
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|Member of the)" : 0.02439,
+      "probability(Member of the|family)" : 0.01005
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|Member of the)" : 0.06098,
+      "probability(Member of the|death)" : 0.03012
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|Member of the)" : 0.07317,
+      "probability(Member of the|governor)" : 0.02308
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|Member of the)" : 0.13415,
+      "probability(Member of the|republican)" : 0.05172
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|Member of the)" : 0.20732,
+      "probability(Member of the|law)" : 0.04481
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|Member of the)" : 0.21951,
+      "probability(Member of the|president)" : 0.04062
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|Member of the)" : 0.03659,
+      "probability(Member of the|time)" : 0.00796
+    }
+  } ]
+}, {
+  "objectIndex" : "30",
+  "property" : "dbo:office",
+  "object" : "Queensland Legislative",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|Queensland Legislative)" : 0.89147,
+      "probability(Queensland Legislative|member)" : 0.05712
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|Queensland Legislative)" : 0.89922,
+      "probability(Queensland Legislative|legislative)" : 0.11788
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Queensland Legislative)" : 0.89922,
+      "probability(Queensland Legislative|assembly)" : 0.09119
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|Queensland Legislative)" : 0.34109,
+      "probability(Queensland Legislative|former)" : 0.0509
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Queensland Legislative)" : 0.39535,
+      "probability(Queensland Legislative|election)" : 0.05258
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Queensland Legislative)" : 0.22481,
+      "probability(Queensland Legislative|son)" : 0.03245
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|Queensland Legislative)" : 0.0155,
+      "probability(Queensland Legislative|political)" : 0.00732
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|Queensland Legislative)" : 0.08527,
+      "probability(Queensland Legislative|district)" : 0.01738
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|Queensland Legislative)" : 0.13178,
+      "probability(Queensland Legislative|first)" : 0.02521
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|Queensland Legislative)" : 0.89147,
+      "probability(Queensland Legislative|australian)" : 0.30491
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|Queensland Legislative)" : 0.35659,
+      "probability(Queensland Legislative|state)" : 0.05167
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|Queensland Legislative)" : 0.03101,
+      "probability(Queensland Legislative|figure)" : 0.02685
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|Queensland Legislative)" : 0.00775,
+      "probability(Queensland Legislative|indian)" : 0.00223
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|Queensland Legislative)" : 0.00775,
+      "probability(Queensland Legislative|politique)" : 0.00328
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|Queensland Legislative)" : 0.08527,
+      "probability(Queensland Legislative|war)" : 0.01202
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|Queensland Legislative)" : 0.17829,
+      "probability(Queensland Legislative|candidate)" : 0.07256
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|Queensland Legislative)" : 0.00775,
+      "probability(Queensland Legislative|homme)" : 0.00412
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|Queensland Legislative)" : 0.15504,
+      "probability(Queensland Legislative|liberal)" : 0.0346
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|Queensland Legislative)" : 0.33333,
+      "probability(Queensland Legislative|seat)" : 0.11688
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|Queensland Legislative)" : 0.50388,
+      "probability(Queensland Legislative|party)" : 0.04926
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|Queensland Legislative)" : 0.06977,
+      "probability(Queensland Legislative|general)" : 0.01789
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|Queensland Legislative)" : 0.05426,
+      "probability(Queensland Legislative|mayor)" : 0.01688
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|Queensland Legislative)" : 0.2093,
+      "probability(Queensland Legislative|government)" : 0.04677
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|Queensland Legislative)" : 0.09302,
+      "probability(Queensland Legislative|né)" : 0.0411
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|Queensland Legislative)" : 0.0,
+      "probability(Queensland Legislative|provincial)" : 0.00234
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|Queensland Legislative)" : 0.16279,
+      "probability(Queensland Legislative|city)" : 0.04314
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|Queensland Legislative)" : 0.00775,
+      "probability(Queensland Legislative|lawyer)" : 0.00524
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|Queensland Legislative)" : 0.07752,
+      "probability(Queensland Legislative|leader)" : 0.0251
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|Queensland Legislative)" : 0.23256,
+      "probability(Queensland Legislative|minister)" : 0.0292
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|Queensland Legislative)" : 0.04651,
+      "probability(Queensland Legislative|electoral)" : 0.02439
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|Queensland Legislative)" : 0.99225,
+      "probability(Queensland Legislative|er)" : 0.03049
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|Queensland Legislative)" : 0.02326,
+      "probability(Queensland Legislative|farmer)" : 0.02857
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|Queensland Legislative)" : 0.08527,
+      "probability(Queensland Legislative|office)" : 0.02391
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|Queensland Legislative)" : 0.07752,
+      "probability(Queensland Legislative|term)" : 0.02657
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|Queensland Legislative)" : 0.02326,
+      "probability(Queensland Legislative|family)" : 0.01508
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|Queensland Legislative)" : 0.03876,
+      "probability(Queensland Legislative|death)" : 0.03012
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|Queensland Legislative)" : 0.00775,
+      "probability(Queensland Legislative|conservative)" : 0.00235
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|Queensland Legislative)" : 0.0155,
+      "probability(Queensland Legislative|businessman)" : 0.01653
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|Queensland Legislative)" : 0.04651,
+      "probability(Queensland Legislative|law)" : 0.01651
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|Queensland Legislative)" : 0.10078,
+      "probability(Queensland Legislative|president)" : 0.02708
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|Queensland Legislative)" : 0.05426,
+      "probability(Queensland Legislative|time)" : 0.02122
+    }
+  } ]
+}, {
+  "objectIndex" : "31",
+  "property" : "dbo:office",
+  "object" : "Ontario MPP",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|Ontario MPP)" : 0.89744,
+      "probability(Ontario MPP|member)" : 0.05131
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|Ontario MPP)" : 0.96581,
+      "probability(Ontario MPP|legislative)" : 0.11389
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Ontario MPP)" : 0.96581,
+      "probability(Ontario MPP|assembly)" : 0.0881
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|Ontario MPP)" : 0.39316,
+      "probability(Ontario MPP|former)" : 0.05204
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Ontario MPP)" : 0.05983,
+      "probability(Ontario MPP|election)" : 0.00779
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Ontario MPP)" : 0.28205,
+      "probability(Ontario MPP|son)" : 0.03347
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|Ontario MPP)" : 0.17094,
+      "probability(Ontario MPP|political)" : 0.05122
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|Ontario MPP)" : 0.00855,
+      "probability(Ontario MPP|district)" : 0.00158
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|Ontario MPP)" : 0.13675,
+      "probability(Ontario MPP|canadian)" : 0.02632
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|Ontario MPP)" : 0.00855,
+      "probability(Ontario MPP|constituency)" : 0.00269
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|Ontario MPP)" : 0.04274,
+      "probability(Ontario MPP|first)" : 0.007
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|Ontario MPP)" : 0.17949,
+      "probability(Ontario MPP|figure)" : 0.14094
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|Ontario MPP)" : 0.11111,
+      "probability(Ontario MPP|war)" : 0.01403
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|Ontario MPP)" : 0.00855,
+      "probability(Ontario MPP|candidate)" : 0.00315
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|Ontario MPP)" : 0.33333,
+      "probability(Ontario MPP|liberal)" : 0.0692
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|Ontario MPP)" : 0.02564,
+      "probability(Ontario MPP|seat)" : 0.00779
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|Ontario MPP)" : 0.22222,
+      "probability(Ontario MPP|party)" : 0.02059
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|Ontario MPP)" : 0.03419,
+      "probability(Ontario MPP|general)" : 0.00795
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|Ontario MPP)" : 0.05983,
+      "probability(Ontario MPP|mayor)" : 0.01477
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|Ontario MPP)" : 0.31624,
+      "probability(Ontario MPP|government)" : 0.06129
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|Ontario MPP)" : 0.05983,
+      "probability(Ontario MPP|provincial)" : 0.01869
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|Ontario MPP)" : 0.05983,
+      "probability(Ontario MPP|city)" : 0.01373
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|Ontario MPP)" : 0.02564,
+      "probability(Ontario MPP|lawyer)" : 0.02094
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|Ontario MPP)" : 0.03419,
+      "probability(Ontario MPP|leader)" : 0.01255
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|Ontario MPP)" : 0.31624,
+      "probability(Ontario MPP|minister)" : 0.03376
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|Ontario MPP)" : 0.05983,
+      "probability(Ontario MPP|democratic)" : 0.01822
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|Ontario MPP)" : 0.99145,
+      "probability(Ontario MPP|er)" : 0.02747
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|Ontario MPP)" : 0.08547,
+      "probability(Ontario MPP|farmer)" : 0.09524
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|Ontario MPP)" : 0.00855,
+      "probability(Ontario MPP|office)" : 0.00217
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|Ontario MPP)" : 0.00855,
+      "probability(Ontario MPP|term)" : 0.00483
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|Ontario MPP)" : 0.02564,
+      "probability(Ontario MPP|family)" : 0.01508
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|Ontario MPP)" : 0.02564,
+      "probability(Ontario MPP|death)" : 0.01807
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|Ontario MPP)" : 0.53846,
+      "probability(Ontario MPP|conservative)" : 0.15023
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|Ontario MPP)" : 0.04274,
+      "probability(Ontario MPP|businessman)" : 0.04132
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|Ontario MPP)" : 0.0,
+      "probability(Ontario MPP|governor)" : 0.00385
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|Ontario MPP)" : 0.03419,
+      "probability(Ontario MPP|law)" : 0.01415
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|Ontario MPP)" : 0.05983,
+      "probability(Ontario MPP|president)" : 0.01354
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|Ontario MPP)" : 0.03419,
+      "probability(Ontario MPP|time)" : 0.01326
+    }
+  } ]
+}, {
+  "objectIndex" : "32",
+  "property" : "dbo:office",
+  "object" : "MP",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|MP)" : 0.84932,
+      "probability(MP|member)" : 0.03001
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|MP)" : 0.0411,
+      "probability(MP|legislative)" : 0.003
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|MP)" : 0.06849,
+      "probability(MP|assembly)" : 0.00386
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|MP)" : 0.08219,
+      "probability(MP|former)" : 0.00679
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|MP)" : 0.13699,
+      "probability(MP|election)" : 0.00974
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|MP)" : 0.12329,
+      "probability(MP|son)" : 0.00913
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|MP)" : 0.41096,
+      "probability(MP|political)" : 0.07317
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|MP)" : 0.15068,
+      "probability(MP|district)" : 0.01738
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|MP)" : 0.84932,
+      "probability(MP|constituency)" : 0.16667
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|MP)" : 0.0274,
+      "probability(MP|first)" : 0.0028
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|MP)" : 0.24658,
+      "probability(MP|state)" : 0.01938
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|MP)" : 0.76712,
+      "probability(MP|indian)" : 0.125
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|MP)" : 0.0137,
+      "probability(MP|politique)" : 0.00328
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|MP)" : 0.16438,
+      "probability(MP|war)" : 0.01202
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|MP)" : 0.21918,
+      "probability(MP|candidate)" : 0.05047
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|MP)" : 0.0137,
+      "probability(MP|british)" : 0.00317
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|MP)" : 0.0137,
+      "probability(MP|homme)" : 0.00412
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|MP)" : 0.0411,
+      "probability(MP|seat)" : 0.00779
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|MP)" : 0.45205,
+      "probability(MP|party)" : 0.02426
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|MP)" : 0.0411,
+      "probability(MP|general)" : 0.00596
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|MP)" : 0.0137,
+      "probability(MP|mayor)" : 0.00211
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|MP)" : 0.06849,
+      "probability(MP|government)" : 0.00806
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|MP)" : 0.0274,
+      "probability(MP|politiker)" : 0.00456
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|MP)" : 0.0137,
+      "probability(MP|provincial)" : 0.00234
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|MP)" : 0.0137,
+      "probability(MP|city)" : 0.00196
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|MP)" : 0.0137,
+      "probability(MP|lawyer)" : 0.00524
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|MP)" : 0.12329,
+      "probability(MP|leader)" : 0.01883
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|MP)" : 0.16438,
+      "probability(MP|minister)" : 0.01095
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|MP)" : 0.0137,
+      "probability(MP|democratic)" : 0.00228
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|MP)" : 0.9726,
+      "probability(MP|er)" : 0.01653
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|MP)" : 0.0137,
+      "probability(MP|office)" : 0.00217
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|MP)" : 0.0411,
+      "probability(MP|term)" : 0.00725
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|MP)" : 0.0411,
+      "probability(MP|family)" : 0.01508
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|MP)" : 0.05479,
+      "probability(MP|death)" : 0.0241
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|MP)" : 0.0137,
+      "probability(MP|businessman)" : 0.00826
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|MP)" : 0.05479,
+      "probability(MP|law)" : 0.00943
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|MP)" : 0.06849,
+      "probability(MP|president)" : 0.00967
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|MP)" : 0.06849,
+      "probability(MP|time)" : 0.01326
+    }
+  } ]
+}, {
+  "objectIndex" : "33",
+  "property" : "dbo:office",
+  "object" : "Member of Parliament",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|Member of Parliament)" : 0.61538,
+      "probability(Member of Parliament|member)" : 0.04598
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|Member of Parliament)" : 0.06294,
+      "probability(Member of Parliament|legislative)" : 0.00899
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Member of Parliament)" : 0.08392,
+      "probability(Member of Parliament|assembly)" : 0.00927
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|Member of Parliament)" : 0.14685,
+      "probability(Member of Parliament|former)" : 0.02715
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Member of Parliament)" : 0.20979,
+      "probability(Member of Parliament|election)" : 0.03505
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Member of Parliament)" : 0.20979,
+      "probability(Member of Parliament|son)" : 0.03043
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|Member of Parliament)" : 0.1049,
+      "probability(Member of Parliament|political)" : 0.04146
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|Member of Parliament)" : 0.06993,
+      "probability(Member of Parliament|district)" : 0.0158
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|Member of Parliament)" : 0.00699,
+      "probability(Member of Parliament|canadian)" : 0.00155
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|Member of Parliament)" : 0.26573,
+      "probability(Member of Parliament|constituency)" : 0.10484
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|Member of Parliament)" : 0.16084,
+      "probability(Member of Parliament|first)" : 0.03501
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|Member of Parliament)" : 0.02098,
+      "probability(Member of Parliament|american)" : 0.00674
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|Member of Parliament)" : 0.16783,
+      "probability(Member of Parliament|state)" : 0.02906
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|Member of Parliament)" : 0.00699,
+      "probability(Member of Parliament|figure)" : 0.00671
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|Member of Parliament)" : 0.23776,
+      "probability(Member of Parliament|indian)" : 0.07589
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|Member of Parliament)" : 0.03497,
+      "probability(Member of Parliament|politique)" : 0.01639
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|Member of Parliament)" : 0.20979,
+      "probability(Member of Parliament|war)" : 0.03407
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|Member of Parliament)" : 0.06993,
+      "probability(Member of Parliament|candidate)" : 0.03785
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|Member of Parliament)" : 0.33566,
+      "probability(Member of Parliament|british)" : 0.17778
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|Member of Parliament)" : 0.02797,
+      "probability(Member of Parliament|homme)" : 0.01646
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|Member of Parliament)" : 0.13287,
+      "probability(Member of Parliament|liberal)" : 0.03806
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|Member of Parliament)" : 0.1049,
+      "probability(Member of Parliament|seat)" : 0.04416
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|Member of Parliament)" : 0.46853,
+      "probability(Member of Parliament|party)" : 0.05515
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|Member of Parliament)" : 0.2028,
+      "probability(Member of Parliament|general)" : 0.06759
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|Member of Parliament)" : 0.01399,
+      "probability(Member of Parliament|mayor)" : 0.00422
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|Member of Parliament)" : 0.17483,
+      "probability(Member of Parliament|government)" : 0.04355
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|Member of Parliament)" : 0.09091,
+      "probability(Member of Parliament|politiker)" : 0.03189
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|Member of Parliament)" : 0.02797,
+      "probability(Member of Parliament|né)" : 0.0137
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|Member of Parliament)" : 0.00699,
+      "probability(Member of Parliament|provincial)" : 0.00234
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|Member of Parliament)" : 0.02797,
+      "probability(Member of Parliament|city)" : 0.00784
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|Member of Parliament)" : 0.02098,
+      "probability(Member of Parliament|lawyer)" : 0.02094
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|Member of Parliament)" : 0.16783,
+      "probability(Member of Parliament|leader)" : 0.06276
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|Member of Parliament)" : 0.32867,
+      "probability(Member of Parliament|minister)" : 0.04653
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|Member of Parliament)" : 0.01399,
+      "probability(Member of Parliament|electoral)" : 0.00813
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|Member of Parliament)" : 0.07692,
+      "probability(Member of Parliament|democratic)" : 0.02961
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|Member of Parliament)" : 0.94406,
+      "probability(Member of Parliament|er)" : 0.03352
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|Member of Parliament)" : 0.01399,
+      "probability(Member of Parliament|farmer)" : 0.01905
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|Member of Parliament)" : 0.04895,
+      "probability(Member of Parliament|office)" : 0.02174
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|Member of Parliament)" : 0.06294,
+      "probability(Member of Parliament|term)" : 0.02174
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|Member of Parliament)" : 0.02098,
+      "probability(Member of Parliament|family)" : 0.01508
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|Member of Parliament)" : 0.06294,
+      "probability(Member of Parliament|death)" : 0.06024
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|Member of Parliament)" : 0.14685,
+      "probability(Member of Parliament|conservative)" : 0.05634
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|Member of Parliament)" : 0.01399,
+      "probability(Member of Parliament|businessman)" : 0.01653
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|Member of Parliament)" : 0.02797,
+      "probability(Member of Parliament|。)" : 0.03704
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|Member of Parliament)" : 0.00699,
+      "probability(Member of Parliament|governor)" : 0.00385
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|Member of Parliament)" : 0.00699,
+      "probability(Member of Parliament|republican)" : 0.00431
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|Member of Parliament)" : 0.04895,
+      "probability(Member of Parliament|law)" : 0.02123
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|Member of Parliament)" : 0.13287,
+      "probability(Member of Parliament|president)" : 0.03868
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|Member of Parliament)" : 0.13986,
+      "probability(Member of Parliament|time)" : 0.05836
+    }
+  } ]
+} ]

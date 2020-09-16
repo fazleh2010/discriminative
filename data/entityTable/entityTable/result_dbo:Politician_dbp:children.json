@@ -1,0 +1,1256 @@
+[ {
+  "objectIndex" : "158",
+  "property" : "dbp:children",
+  "object" : "1",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|1)" : 0.57862,
+      "probability(1|member)" : 0.09218
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|1)" : 0.16352,
+      "probability(1|legislative)" : 0.07365
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|1)" : 0.13836,
+      "probability(1|assembly)" : 0.05201
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|1)" : 0.13836,
+      "probability(1|former)" : 0.05805
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|1)" : 0.22013,
+      "probability(1|election)" : 0.08642
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|1)" : 0.1761,
+      "probability(1|son)" : 0.05447
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|1)" : 0.18239,
+      "probability(1|political)" : 0.13679
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|1)" : 0.11321,
+      "probability(1|district)" : 0.04651
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|1)" : 0.03145,
+      "probability(1|canadian)" : 0.04132
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|1)" : 0.38365,
+      "probability(1|constituency)" : 0.26293
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|1)" : 0.11321,
+      "probability(1|first)" : 0.05438
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|1)" : 0.09434,
+      "probability(1|australian)" : 0.11905
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|1)" : 0.05031,
+      "probability(1|american)" : 0.02395
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|1)" : 0.19497,
+      "probability(1|state)" : 0.0572
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|1)" : 0.01258,
+      "probability(1|figure)" : 0.08
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|1)" : 0.34591,
+      "probability(1|indian)" : 0.20913
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|1)" : 0.03145,
+      "probability(1|politique)" : 0.08197
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|1)" : 0.15094,
+      "probability(1|war)" : 0.05594
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|1)" : 0.10692,
+      "probability(1|candidate)" : 0.09714
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|1)" : 0.03774,
+      "probability(1|british)" : 0.09231
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|1)" : 0.01887,
+      "probability(1|homme)" : 0.06122
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|1)" : 0.07547,
+      "probability(1|liberal)" : 0.08219
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|1)" : 0.08805,
+      "probability(1|seat)" : 0.10072
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|1)" : 0.38365,
+      "probability(1|party)" : 0.10535
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|1)" : 0.1195,
+      "probability(1|general)" : 0.076
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|1)" : 0.01887,
+      "probability(1|mayor)" : 0.01014
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|1)" : 0.14465,
+      "probability(1|government)" : 0.10455
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|1)" : 0.08176,
+      "probability(1|politiker)" : 0.08333
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|1)" : 0.03774,
+      "probability(1|né)" : 0.06897
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|1)" : 0.01258,
+      "probability(1|provincial)" : 0.02597
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|1)" : 0.03774,
+      "probability(1|city)" : 0.01911
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|1)" : 0.04403,
+      "probability(1|lawyer)" : 0.08861
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|1)" : 0.1195,
+      "probability(1|leader)" : 0.09845
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|1)" : 0.25157,
+      "probability(1|minister)" : 0.1108
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|1)" : 0.00629,
+      "probability(1|electoral)" : 0.01923
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|1)" : 0.05031,
+      "probability(1|democratic)" : 0.02985
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|1)" : 0.91195,
+      "probability(1|er)" : 0.07185
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|1)" : 0.00629,
+      "probability(1|farmer)" : 0.02632
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|1)" : 0.03145,
+      "probability(1|office)" : 0.02404
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|1)" : 0.03145,
+      "probability(1|term)" : 0.01969
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|1)" : 0.0566,
+      "probability(1|family)" : 0.08182
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|1)" : 0.03145,
+      "probability(1|death)" : 0.06667
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|1)" : 0.04403,
+      "probability(1|conservative)" : 0.04795
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|1)" : 0.01258,
+      "probability(1|businessman)" : 0.03077
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|1)" : 0.02516,
+      "probability(1|。)" : 0.06897
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|1)" : 0.02516,
+      "probability(1|governor)" : 0.02703
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|1)" : 0.01887,
+      "probability(1|republican)" : 0.01322
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|1)" : 0.06918,
+      "probability(1|law)" : 0.04933
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|1)" : 0.08805,
+      "probability(1|president)" : 0.05109
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|1)" : 0.08176,
+      "probability(1|time)" : 0.07027
+    }
+  } ]
+}, {
+  "objectIndex" : "159",
+  "property" : "dbp:children",
+  "object" : "2",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|2)" : 0.57053,
+      "probability(2|member)" : 0.18236
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|2)" : 0.24765,
+      "probability(2|legislative)" : 0.2238
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|2)" : 0.26959,
+      "probability(2|assembly)" : 0.20331
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|2)" : 0.2069,
+      "probability(2|former)" : 0.17414
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|2)" : 0.2163,
+      "probability(2|election)" : 0.17037
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|2)" : 0.20376,
+      "probability(2|son)" : 0.12646
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|2)" : 0.14734,
+      "probability(2|political)" : 0.2217
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|2)" : 0.17555,
+      "probability(2|district)" : 0.1447
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|2)" : 0.06897,
+      "probability(2|canadian)" : 0.18182
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|2)" : 0.18182,
+      "probability(2|constituency)" : 0.25
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|2)" : 0.15361,
+      "probability(2|first)" : 0.15106
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|2)" : 0.05016,
+      "probability(2|australian)" : 0.12698
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|2)" : 0.1348,
+      "probability(2|american)" : 0.12874
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|2)" : 0.23197,
+      "probability(2|state)" : 0.13653
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|2)" : 0.00313,
+      "probability(2|figure)" : 0.04
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|2)" : 0.18495,
+      "probability(2|indian)" : 0.22433
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|2)" : 0.03135,
+      "probability(2|politique)" : 0.16393
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|2)" : 0.18495,
+      "probability(2|war)" : 0.13753
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|2)" : 0.10658,
+      "probability(2|candidate)" : 0.19429
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|2)" : 0.02821,
+      "probability(2|british)" : 0.13846
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|2)" : 0.02508,
+      "probability(2|homme)" : 0.16327
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|2)" : 0.11599,
+      "probability(2|liberal)" : 0.25342
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|2)" : 0.0815,
+      "probability(2|seat)" : 0.18705
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|2)" : 0.3511,
+      "probability(2|party)" : 0.19344
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|2)" : 0.09091,
+      "probability(2|general)" : 0.116
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|2)" : 0.06583,
+      "probability(2|mayor)" : 0.07095
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|2)" : 0.13793,
+      "probability(2|government)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|2)" : 0.0721,
+      "probability(2|politiker)" : 0.14744
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|2)" : 0.03135,
+      "probability(2|né)" : 0.11494
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|2)" : 0.03448,
+      "probability(2|provincial)" : 0.14286
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|2)" : 0.11285,
+      "probability(2|city)" : 0.11465
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|2)" : 0.02508,
+      "probability(2|lawyer)" : 0.10127
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|2)" : 0.06583,
+      "probability(2|leader)" : 0.10881
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|2)" : 0.2163,
+      "probability(2|minister)" : 0.19114
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|2)" : 0.02508,
+      "probability(2|electoral)" : 0.15385
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|2)" : 0.12226,
+      "probability(2|democratic)" : 0.14552
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|2)" : 0.94671,
+      "probability(2|er)" : 0.15015
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|2)" : 0.01567,
+      "probability(2|farmer)" : 0.13158
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|2)" : 0.09091,
+      "probability(2|office)" : 0.13942
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|2)" : 0.08464,
+      "probability(2|term)" : 0.1063
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|2)" : 0.02508,
+      "probability(2|family)" : 0.07273
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|2)" : 0.03762,
+      "probability(2|death)" : 0.16
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|2)" : 0.11599,
+      "probability(2|conservative)" : 0.25342
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|2)" : 0.01567,
+      "probability(2|businessman)" : 0.07692
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|2)" : 0.02508,
+      "probability(2|。)" : 0.15517
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|2)" : 0.05329,
+      "probability(2|governor)" : 0.12162
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|2)" : 0.05956,
+      "probability(2|republican)" : 0.0837
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|2)" : 0.0721,
+      "probability(2|law)" : 0.10314
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|2)" : 0.10345,
+      "probability(2|president)" : 0.12044
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|2)" : 0.06897,
+      "probability(2|time)" : 0.11892
+    }
+  } ]
+}, {
+  "objectIndex" : "160",
+  "property" : "dbp:children",
+  "object" : "3",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|3)" : 0.5045,
+      "probability(3|member)" : 0.11222
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|3)" : 0.18468,
+      "probability(3|legislative)" : 0.11615
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|3)" : 0.19369,
+      "probability(3|assembly)" : 0.10165
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|3)" : 0.19369,
+      "probability(3|former)" : 0.11346
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|3)" : 0.1982,
+      "probability(3|election)" : 0.10864
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|3)" : 0.18468,
+      "probability(3|son)" : 0.07977
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|3)" : 0.11712,
+      "probability(3|political)" : 0.12264
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|3)" : 0.14865,
+      "probability(3|district)" : 0.08527
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|3)" : 0.05856,
+      "probability(3|canadian)" : 0.10744
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|3)" : 0.12613,
+      "probability(3|constituency)" : 0.12069
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|3)" : 0.10811,
+      "probability(3|first)" : 0.07553
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|3)" : 0.09459,
+      "probability(3|australian)" : 0.16667
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|3)" : 0.09459,
+      "probability(3|american)" : 0.06287
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|3)" : 0.20721,
+      "probability(3|state)" : 0.08487
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|3)" : 0.12613,
+      "probability(3|indian)" : 0.10646
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|3)" : 0.03153,
+      "probability(3|politique)" : 0.11475
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|3)" : 0.21622,
+      "probability(3|war)" : 0.11189
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|3)" : 0.07658,
+      "probability(3|candidate)" : 0.09714
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|3)" : 0.03153,
+      "probability(3|british)" : 0.10769
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|3)" : 0.03153,
+      "probability(3|homme)" : 0.14286
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|3)" : 0.08559,
+      "probability(3|liberal)" : 0.13014
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|3)" : 0.03604,
+      "probability(3|seat)" : 0.05755
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|3)" : 0.28829,
+      "probability(3|party)" : 0.11054
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|3)" : 0.11261,
+      "probability(3|general)" : 0.1
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|3)" : 0.07658,
+      "probability(3|mayor)" : 0.05743
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|3)" : 0.09009,
+      "probability(3|government)" : 0.09091
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|3)" : 0.07658,
+      "probability(3|politiker)" : 0.10897
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|3)" : 0.04054,
+      "probability(3|né)" : 0.10345
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|3)" : 0.02703,
+      "probability(3|provincial)" : 0.07792
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|3)" : 0.11712,
+      "probability(3|city)" : 0.0828
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|3)" : 0.01802,
+      "probability(3|lawyer)" : 0.05063
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|3)" : 0.11261,
+      "probability(3|leader)" : 0.12953
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|3)" : 0.18468,
+      "probability(3|minister)" : 0.11357
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|3)" : 0.01351,
+      "probability(3|electoral)" : 0.05769
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|3)" : 0.11261,
+      "probability(3|democratic)" : 0.09328
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|3)" : 0.89189,
+      "probability(3|er)" : 0.09861
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|3)" : 0.08108,
+      "probability(3|office)" : 0.08654
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|3)" : 0.08559,
+      "probability(3|term)" : 0.0748
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|3)" : 0.03604,
+      "probability(3|family)" : 0.07273
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|3)" : 0.02703,
+      "probability(3|death)" : 0.08
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|3)" : 0.08559,
+      "probability(3|conservative)" : 0.13014
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|3)" : 0.02703,
+      "probability(3|businessman)" : 0.09231
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|3)" : 0.08108,
+      "probability(3|。)" : 0.32759
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|3)" : 0.02703,
+      "probability(3|governor)" : 0.0473
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|3)" : 0.05856,
+      "probability(3|republican)" : 0.05727
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|3)" : 0.05856,
+      "probability(3|law)" : 0.0583
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|3)" : 0.06757,
+      "probability(3|president)" : 0.05474
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|3)" : 0.06757,
+      "probability(3|time)" : 0.08108
+    }
+  } ]
+}, {
+  "objectIndex" : "161",
+  "property" : "dbp:children",
+  "object" : "4",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|4)" : 0.49167,
+      "probability(4|member)" : 0.05912
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|4)" : 0.18333,
+      "probability(4|legislative)" : 0.06232
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|4)" : 0.24167,
+      "probability(4|assembly)" : 0.06856
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|4)" : 0.21667,
+      "probability(4|former)" : 0.0686
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|4)" : 0.13333,
+      "probability(4|election)" : 0.03951
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|4)" : 0.21667,
+      "probability(4|son)" : 0.05058
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|4)" : 0.08333,
+      "probability(4|political)" : 0.04717
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|4)" : 0.19167,
+      "probability(4|district)" : 0.05943
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|4)" : 0.05833,
+      "probability(4|canadian)" : 0.05785
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|4)" : 0.11667,
+      "probability(4|constituency)" : 0.06034
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|4)" : 0.05833,
+      "probability(4|first)" : 0.02417
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|4)" : 0.03333,
+      "probability(4|australian)" : 0.03175
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|4)" : 0.1,
+      "probability(4|american)" : 0.03593
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|4)" : 0.25,
+      "probability(4|state)" : 0.05535
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|4)" : 0.00833,
+      "probability(4|figure)" : 0.04
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|4)" : 0.15,
+      "probability(4|indian)" : 0.06844
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|4)" : 0.04167,
+      "probability(4|politique)" : 0.08197
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|4)" : 0.2,
+      "probability(4|war)" : 0.05594
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|4)" : 0.025,
+      "probability(4|candidate)" : 0.01714
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|4)" : 0.00833,
+      "probability(4|british)" : 0.01538
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|4)" : 0.04167,
+      "probability(4|homme)" : 0.10204
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|4)" : 0.05833,
+      "probability(4|liberal)" : 0.04795
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|4)" : 0.04167,
+      "probability(4|seat)" : 0.03597
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|4)" : 0.28333,
+      "probability(4|party)" : 0.05872
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|4)" : 0.11667,
+      "probability(4|general)" : 0.056
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|4)" : 0.06667,
+      "probability(4|mayor)" : 0.02703
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|4)" : 0.125,
+      "probability(4|government)" : 0.06818
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|4)" : 0.125,
+      "probability(4|politiker)" : 0.09615
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|4)" : 0.04167,
+      "probability(4|né)" : 0.05747
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|4)" : 0.04167,
+      "probability(4|provincial)" : 0.06494
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|4)" : 0.075,
+      "probability(4|city)" : 0.02866
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|4)" : 0.1,
+      "probability(4|leader)" : 0.06218
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|4)" : 0.21667,
+      "probability(4|minister)" : 0.07202
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|4)" : 0.04167,
+      "probability(4|electoral)" : 0.09615
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|4)" : 0.06667,
+      "probability(4|democratic)" : 0.02985
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|4)" : 0.85833,
+      "probability(4|er)" : 0.05154
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|4)" : 0.01667,
+      "probability(4|farmer)" : 0.05263
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|4)" : 0.09167,
+      "probability(4|office)" : 0.05288
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|4)" : 0.075,
+      "probability(4|term)" : 0.03543
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|4)" : 0.1,
+      "probability(4|family)" : 0.10909
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|4)" : 0.025,
+      "probability(4|death)" : 0.04
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|4)" : 0.13333,
+      "probability(4|conservative)" : 0.10959
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|4)" : 0.03333,
+      "probability(4|businessman)" : 0.06154
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|4)" : 0.05,
+      "probability(4|。)" : 0.12069
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|4)" : 0.05833,
+      "probability(4|governor)" : 0.05405
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|4)" : 0.075,
+      "probability(4|republican)" : 0.03965
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|4)" : 0.06667,
+      "probability(4|law)" : 0.03587
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|4)" : 0.14167,
+      "probability(4|president)" : 0.06204
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|4)" : 0.06667,
+      "probability(4|time)" : 0.04324
+    }
+  } ]
+}, {
+  "objectIndex" : "162",
+  "property" : "dbp:children",
+  "object" : "5",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|5)" : 0.48529,
+      "probability(5|member)" : 0.03307
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|5)" : 0.27941,
+      "probability(5|legislative)" : 0.05382
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|5)" : 0.29412,
+      "probability(5|assembly)" : 0.04728
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|5)" : 0.14706,
+      "probability(5|former)" : 0.02639
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|5)" : 0.23529,
+      "probability(5|election)" : 0.03951
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|5)" : 0.17647,
+      "probability(5|son)" : 0.02335
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|5)" : 0.08824,
+      "probability(5|political)" : 0.0283
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|5)" : 0.16176,
+      "probability(5|district)" : 0.02842
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|5)" : 0.07353,
+      "probability(5|canadian)" : 0.04132
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|5)" : 0.08824,
+      "probability(5|constituency)" : 0.02586
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|5)" : 0.11765,
+      "probability(5|first)" : 0.02719
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|5)" : 0.05882,
+      "probability(5|australian)" : 0.03175
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|5)" : 0.14706,
+      "probability(5|american)" : 0.02994
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|5)" : 0.27941,
+      "probability(5|state)" : 0.03506
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|5)" : 0.02941,
+      "probability(5|figure)" : 0.08
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|5)" : 0.08824,
+      "probability(5|indian)" : 0.02281
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|5)" : 0.02941,
+      "probability(5|politique)" : 0.03279
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|5)" : 0.14706,
+      "probability(5|war)" : 0.02331
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|5)" : 0.11765,
+      "probability(5|candidate)" : 0.04571
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|5)" : 0.05882,
+      "probability(5|british)" : 0.06154
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|5)" : 0.05882,
+      "probability(5|liberal)" : 0.0274
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|5)" : 0.11765,
+      "probability(5|seat)" : 0.05755
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|5)" : 0.32353,
+      "probability(5|party)" : 0.038
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|5)" : 0.14706,
+      "probability(5|general)" : 0.04
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|5)" : 0.07353,
+      "probability(5|mayor)" : 0.01689
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|5)" : 0.10294,
+      "probability(5|government)" : 0.03182
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|5)" : 0.04412,
+      "probability(5|politiker)" : 0.01923
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|5)" : 0.04412,
+      "probability(5|né)" : 0.03448
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|5)" : 0.02941,
+      "probability(5|provincial)" : 0.02597
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|5)" : 0.07353,
+      "probability(5|city)" : 0.01592
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|5)" : 0.02941,
+      "probability(5|lawyer)" : 0.02532
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|5)" : 0.08824,
+      "probability(5|leader)" : 0.03109
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|5)" : 0.26471,
+      "probability(5|minister)" : 0.04986
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|5)" : 0.02941,
+      "probability(5|electoral)" : 0.03846
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|5)" : 0.14706,
+      "probability(5|democratic)" : 0.03731
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|5)" : 0.92647,
+      "probability(5|er)" : 0.03171
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|5)" : 0.01471,
+      "probability(5|farmer)" : 0.02632
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|5)" : 0.16176,
+      "probability(5|office)" : 0.05288
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|5)" : 0.05882,
+      "probability(5|term)" : 0.01575
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|5)" : 0.11765,
+      "probability(5|family)" : 0.07273
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|5)" : 0.02941,
+      "probability(5|death)" : 0.02667
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|5)" : 0.13235,
+      "probability(5|conservative)" : 0.06164
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|5)" : 0.10294,
+      "probability(5|businessman)" : 0.10769
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|5)" : 0.05882,
+      "probability(5|。)" : 0.08621
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|5)" : 0.05882,
+      "probability(5|governor)" : 0.03378
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|5)" : 0.10294,
+      "probability(5|republican)" : 0.03084
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|5)" : 0.04412,
+      "probability(5|law)" : 0.01345
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|5)" : 0.20588,
+      "probability(5|president)" : 0.05109
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|5)" : 0.10294,
+      "probability(5|time)" : 0.03784
+    }
+  } ]
+} ]

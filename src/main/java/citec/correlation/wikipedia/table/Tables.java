@@ -30,21 +30,20 @@ import java.util.TreeMap;
  */
 public class Tables implements PropertyNotation{
     private String inputFileName=null;
-    private String dbpediaDir=null;
+    private String entityTableDir=null;
     private String className=null;
     private Map<String, EntityTable> entityTables = new HashMap<String, EntityTable>();
     private List<DBpediaEntity> allDBpediaEntitys = new ArrayList<DBpediaEntity>();
 
-    public Tables(String inputFileName,String dbpediaDir) {
+    public Tables(String inputFileName,String entityTableDir) {
         this.inputFileName=inputFileName;
-        this.dbpediaDir=dbpediaDir;
+        this.entityTableDir=entityTableDir;
     }
 
     public void readTable(String fileName) throws IOException, Exception {
-        List<File> list = FileFolderUtils.getFiles(dbpediaDir,fileName, ".json");
+        List<File> list = FileFolderUtils.getFiles(entityTableDir,fileName, ".json");
         //File[] list = FileFolderUtils.getFiles(dbpediaDir, ".json");
         for (File file : list) {
-            //System.out.println("file..."+file.getName());
             ObjectMapper mapper = new ObjectMapper();
             List<DBpediaEntity> dbpediaEntitys = mapper.readValue(file, new TypeReference<List<DBpediaEntity>>() {
             });
@@ -197,7 +196,7 @@ public class Tables implements PropertyNotation{
         
         for(String predicate:propertyEntities.keySet()){
            LinkedHashSet<String> entities = propertyEntities.get(predicate);
-           EntityTable entityTable = new EntityTable(inputFileName,dbpediaDir, dbpediaClass.getClassName(), predicate, entities, TextAnalyzer.POS_TAGGER);
+           EntityTable entityTable = new EntityTable(inputFileName,entityTableDir, dbpediaClass.getClassName(), predicate, entities, TextAnalyzer.POS_TAGGER);
            //entityTables.put(entityTable.getTableName(), entityTable);
         }
     }
@@ -218,7 +217,7 @@ public class Tables implements PropertyNotation{
             }
 
             LinkedHashSet<String> entities = propertyEntities.get(predicate);
-            EntityTable entityTable = new EntityTable(inputFileName, dbpediaDir, dbpediaClass.getClassName(), predicate, entities, TextAnalyzer.POS_TAGGER);
+            EntityTable entityTable = new EntityTable(inputFileName, entityTableDir, dbpediaClass.getClassName(), predicate, entities, TextAnalyzer.POS_TAGGER);
             //entityTables.put(entityTable.getTableName(), entityTable);
         }
     }
@@ -233,7 +232,7 @@ public class Tables implements PropertyNotation{
     
     public static String getProperty(String tableName){
         String []info=tableName.split("_");
-        return info[1];
+        return info[1].replace(".json", "");
     }
 
     public void display() {
@@ -241,6 +240,10 @@ public class Tables implements PropertyNotation{
             System.out.println(tableName);
             System.out.println(entityTables.get(tableName));
         }
+    }
+
+    public String getEntityTableDir() {
+        return entityTableDir;
     }
 
 }

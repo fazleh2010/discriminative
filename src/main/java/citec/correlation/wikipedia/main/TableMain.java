@@ -40,20 +40,20 @@ import org.apache.commons.io.FileUtils;
 public class TableMain implements PropertyNotation {
 
     private static String dbpediaDir = "src/main/resources/dbpedia/";
-     private static String dataDir = "data/";
+    private static String dataDir = "data/";
     private static String entityTable = "entityTable/";
     private static String input = "input/";
     private static String output = "output/";
     //private static String inputJsonFile = dataDir + input + "results-100000000-1000-concretePO.json";
     private static String inputJsonFile = dataDir + input + "results-100000000-100-concretePO.json";
-    
+
     private static String inputWordFile = dbpediaDir + input + "politicians_with_democratic.yml";
-   private static String allPoliticianFile = dataDir + input + "politicians.txt";
+    private static String allPoliticianFile = dataDir + input + "politicians.txt";
     private static String outputArff = dbpediaDir + output + "democratic.arff";
     private static Set<String> freqClasses = new HashSet<String>();
     private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
-    private static String write="write";
-    private static String read="read";
+    private static String write = "write";
+    private static String read = "read";
 
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
@@ -84,11 +84,15 @@ public class TableMain implements PropertyNotation {
 
         if (type.contains(read)) {
             Tables tables = new Tables(new File(inputFile).getName(), outputDir);
+            
+            /* property generation
             String dir=dbpediaDir + output;
             tables.readSplitTables(dbpediaDir + output,dbo_Politician);
-            tables.writeTable(dir + entityTable);
-            //String property=PropertyNotation.dbo_party;
-            //Calculation calculation = new Calculation(tables,property,outputDir);
+            tables.writeTable(dir + entityTable);*/
+            
+            
+            Calculation calculation = new Calculation(tables,dbo_Politician,dbpediaDir+output);
+            System.out.println("System execution ended!!!");
             
             /*String property=PropertyNotation.dbo_party;
             Calculation calculation = new Calculation(property,inputJsonFile,outputDir);*/

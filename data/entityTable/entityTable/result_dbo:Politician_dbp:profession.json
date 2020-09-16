@@ -1,0 +1,256 @@
+[ {
+  "objectIndex" : "239",
+  "property" : "dbp:profession",
+  "object" : "Lawyer",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|Lawyer)" : 0.41558,
+      "probability(Lawyer|member)" : 0.11388
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|Lawyer)" : 0.22078,
+      "probability(Lawyer|legislative)" : 0.12879
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Lawyer)" : 0.25974,
+      "probability(Lawyer|assembly)" : 0.12048
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|Lawyer)" : 0.18182,
+      "probability(Lawyer|former)" : 0.12963
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Lawyer)" : 0.14286,
+      "probability(Lawyer|election)" : 0.07483
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Lawyer)" : 0.19481,
+      "probability(Lawyer|son)" : 0.0974
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|Lawyer)" : 0.09091,
+      "probability(Lawyer|political)" : 0.12963
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|Lawyer)" : 0.06494,
+      "probability(Lawyer|district)" : 0.03937
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|Lawyer)" : 0.09091,
+      "probability(Lawyer|canadian)" : 0.1
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|Lawyer)" : 0.01299,
+      "probability(Lawyer|constituency)" : 0.04762
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|Lawyer)" : 0.11688,
+      "probability(Lawyer|first)" : 0.07826
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|Lawyer)" : 0.07792,
+      "probability(Lawyer|australian)" : 0.09677
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|Lawyer)" : 0.12987,
+      "probability(Lawyer|american)" : 0.1
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|Lawyer)" : 0.15584,
+      "probability(Lawyer|state)" : 0.06218
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|Lawyer)" : 0.02597,
+      "probability(Lawyer|figure)" : 0.10526
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|Lawyer)" : 0.07792,
+      "probability(Lawyer|indian)" : 0.19355
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|Lawyer)" : 0.09091,
+      "probability(Lawyer|politique)" : 0.23333
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|Lawyer)" : 0.19481,
+      "probability(Lawyer|war)" : 0.11278
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|Lawyer)" : 0.02597,
+      "probability(Lawyer|candidate)" : 0.04082
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|Lawyer)" : 0.03896,
+      "probability(Lawyer|british)" : 0.10714
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|Lawyer)" : 0.09091,
+      "probability(Lawyer|homme)" : 0.28
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|Lawyer)" : 0.1039,
+      "probability(Lawyer|liberal)" : 0.09412
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|Lawyer)" : 0.09091,
+      "probability(Lawyer|seat)" : 0.11475
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|Lawyer)" : 0.18182,
+      "probability(Lawyer|party)" : 0.08
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|Lawyer)" : 0.1039,
+      "probability(Lawyer|general)" : 0.08889
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|Lawyer)" : 0.1039,
+      "probability(Lawyer|mayor)" : 0.10127
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|Lawyer)" : 0.15584,
+      "probability(Lawyer|government)" : 0.16901
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|Lawyer)" : 0.05195,
+      "probability(Lawyer|politiker)" : 0.11429
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|Lawyer)" : 0.07792,
+      "probability(Lawyer|né)" : 0.2069
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|Lawyer)" : 0.05195,
+      "probability(Lawyer|provincial)" : 0.1
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|Lawyer)" : 0.12987,
+      "probability(Lawyer|city)" : 0.11494
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|Lawyer)" : 0.23377,
+      "probability(Lawyer|lawyer)" : 0.4
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|Lawyer)" : 0.07792,
+      "probability(Lawyer|leader)" : 0.10909
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|Lawyer)" : 0.20779,
+      "probability(Lawyer|minister)" : 0.14286
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|Lawyer)" : 0.01299,
+      "probability(Lawyer|electoral)" : 0.05556
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|Lawyer)" : 0.05195,
+      "probability(Lawyer|democratic)" : 0.04545
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|Lawyer)" : 0.90909,
+      "probability(Lawyer|er)" : 0.11475
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|Lawyer)" : 0.01299,
+      "probability(Lawyer|farmer)" : 0.05
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|Lawyer)" : 0.06494,
+      "probability(Lawyer|office)" : 0.08065
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|Lawyer)" : 0.11688,
+      "probability(Lawyer|term)" : 0.1
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|Lawyer)" : 0.05195,
+      "probability(Lawyer|family)" : 0.14286
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|Lawyer)" : 0.05195,
+      "probability(Lawyer|death)" : 0.26667
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|Lawyer)" : 0.12987,
+      "probability(Lawyer|conservative)" : 0.16393
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|Lawyer)" : 0.01299,
+      "probability(Lawyer|businessman)" : 0.04167
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|Lawyer)" : 0.06494,
+      "probability(Lawyer|。)" : 0.2381
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|Lawyer)" : 0.06494,
+      "probability(Lawyer|governor)" : 0.16129
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|Lawyer)" : 0.03896,
+      "probability(Lawyer|republican)" : 0.03947
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|Lawyer)" : 0.33766,
+      "probability(Lawyer|law)" : 0.27083
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|Lawyer)" : 0.09091,
+      "probability(Lawyer|president)" : 0.11111
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|Lawyer)" : 0.1039,
+      "probability(Lawyer|time)" : 0.16
+    }
+  } ]
+} ]

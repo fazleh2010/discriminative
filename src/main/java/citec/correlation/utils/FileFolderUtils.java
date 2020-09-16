@@ -130,6 +130,50 @@ public class FileFolderUtils {
         }
         return entities;
     }
+     
+    public static List<String> getSortedList(String fileName,Integer thresold,Integer listSize) throws FileNotFoundException, IOException {
+        List<String> words=new ArrayList<String>();
+        List<String> finalWords=new ArrayList<String>();
+        BufferedReader reader;
+        String line = "";
+        try {
+            reader = new BufferedReader(new FileReader(fileName));
+            line = reader.readLine();
+            while (line != null) {
+                line = reader.readLine();
+                if (line != null) {
+                    if(line.contains(" ")){
+                        //System.out.println(line);
+                        String []info=line.split(" ");
+                        Integer count=Integer.parseInt(info[0].trim());  
+                        String word=info[1].trim();
+                        
+                        if(count>thresold){
+                           //System.out.println(line);
+                           words.add(word);    
+                        }
+                    }
+                  
+                }
+            }
+            
+            reader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        
+        Integer size = 0;
+        for (String word : words) {
+          
+            if (size == listSize) {
+                break;
+            } else {
+                finalWords.add(word);
+            }
+              size = size + 1;
+        }
+        return finalWords;
+    }
 
     public static void listToFiles(List<String> list, String fileName) {
         String str = "";
@@ -190,6 +234,8 @@ public class FileFolderUtils {
     
    
      public static void writeToJsonFile(List<Results>  kbResults, String filename) throws IOException {
+         if(kbResults.isEmpty())
+             return;
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(filename).toFile(), kbResults);
     }

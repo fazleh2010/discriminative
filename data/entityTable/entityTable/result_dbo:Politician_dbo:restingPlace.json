@@ -1,0 +1,186 @@
+[ {
+  "objectIndex" : "28",
+  "property" : "dbo:restingPlace",
+  "object" : "http://dbpedia.org/resource/Connecticut",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Connecticut)" : 0.62687,
+      "probability(http://dbpedia.org/resource/Connecticut|member)" : 0.38532
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Connecticut)" : 0.1194,
+      "probability(http://dbpedia.org/resource/Connecticut|assembly)" : 0.19048
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/Connecticut)" : 0.01493,
+      "probability(http://dbpedia.org/resource/Connecticut|former)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/Connecticut)" : 0.01493,
+      "probability(http://dbpedia.org/resource/Connecticut|election)" : 0.07692
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/Connecticut)" : 0.61194,
+      "probability(http://dbpedia.org/resource/Connecticut|son)" : 0.39423
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|http://dbpedia.org/resource/Connecticut)" : 0.01493,
+      "probability(http://dbpedia.org/resource/Connecticut|political)" : 0.125
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/Connecticut)" : 0.1791,
+      "probability(http://dbpedia.org/resource/Connecticut|district)" : 0.6
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://dbpedia.org/resource/Connecticut)" : 0.07463,
+      "probability(http://dbpedia.org/resource/Connecticut|first)" : 0.19231
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Connecticut)" : 0.08955,
+      "probability(http://dbpedia.org/resource/Connecticut|american)" : 0.25
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Connecticut)" : 0.13433,
+      "probability(http://dbpedia.org/resource/Connecticut|state)" : 0.21951
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|http://dbpedia.org/resource/Connecticut)" : 0.01493,
+      "probability(http://dbpedia.org/resource/Connecticut|figure)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/Connecticut)" : 0.0597,
+      "probability(http://dbpedia.org/resource/Connecticut|indian)" : 0.36364
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Connecticut)" : 0.38806,
+      "probability(http://dbpedia.org/resource/Connecticut|war)" : 0.31707
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|http://dbpedia.org/resource/Connecticut)" : 0.0597,
+      "probability(http://dbpedia.org/resource/Connecticut|seat)" : 0.44444
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|http://dbpedia.org/resource/Connecticut)" : 0.02985,
+      "probability(http://dbpedia.org/resource/Connecticut|party)" : 0.07692
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|http://dbpedia.org/resource/Connecticut)" : 0.28358,
+      "probability(http://dbpedia.org/resource/Connecticut|general)" : 0.52778
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|http://dbpedia.org/resource/Connecticut)" : 0.1194,
+      "probability(http://dbpedia.org/resource/Connecticut|mayor)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|http://dbpedia.org/resource/Connecticut)" : 0.04478,
+      "probability(http://dbpedia.org/resource/Connecticut|politiker)" : 0.16667
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|http://dbpedia.org/resource/Connecticut)" : 0.16418,
+      "probability(http://dbpedia.org/resource/Connecticut|city)" : 0.35484
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|http://dbpedia.org/resource/Connecticut)" : 0.02985,
+      "probability(http://dbpedia.org/resource/Connecticut|lawyer)" : 0.15385
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|http://dbpedia.org/resource/Connecticut)" : 0.01493,
+      "probability(http://dbpedia.org/resource/Connecticut|leader)" : 0.08333
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|http://dbpedia.org/resource/Connecticut)" : 0.04478,
+      "probability(http://dbpedia.org/resource/Connecticut|minister)" : 0.21429
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|http://dbpedia.org/resource/Connecticut)" : 0.01493,
+      "probability(http://dbpedia.org/resource/Connecticut|electoral)" : 0.25
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|http://dbpedia.org/resource/Connecticut)" : 0.0597,
+      "probability(http://dbpedia.org/resource/Connecticut|democratic)" : 0.57143
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Connecticut)" : 0.98507,
+      "probability(http://dbpedia.org/resource/Connecticut|er)" : 0.28448
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|http://dbpedia.org/resource/Connecticut)" : 0.04478,
+      "probability(http://dbpedia.org/resource/Connecticut|office)" : 0.16667
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|http://dbpedia.org/resource/Connecticut)" : 0.14925,
+      "probability(http://dbpedia.org/resource/Connecticut|term)" : 0.29412
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|http://dbpedia.org/resource/Connecticut)" : 0.02985,
+      "probability(http://dbpedia.org/resource/Connecticut|family)" : 0.13333
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|http://dbpedia.org/resource/Connecticut)" : 0.04478,
+      "probability(http://dbpedia.org/resource/Connecticut|death)" : 0.125
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|http://dbpedia.org/resource/Connecticut)" : 0.01493,
+      "probability(http://dbpedia.org/resource/Connecticut|businessman)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|http://dbpedia.org/resource/Connecticut)" : 0.0,
+      "probability(http://dbpedia.org/resource/Connecticut|。)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|http://dbpedia.org/resource/Connecticut)" : 0.0597,
+      "probability(http://dbpedia.org/resource/Connecticut|governor)" : 0.30769
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|http://dbpedia.org/resource/Connecticut)" : 0.0597,
+      "probability(http://dbpedia.org/resource/Connecticut|republican)" : 0.28571
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|http://dbpedia.org/resource/Connecticut)" : 0.13433,
+      "probability(http://dbpedia.org/resource/Connecticut|law)" : 0.3
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|http://dbpedia.org/resource/Connecticut)" : 0.07463,
+      "probability(http://dbpedia.org/resource/Connecticut|president)" : 0.16129
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|http://dbpedia.org/resource/Connecticut)" : 0.02985,
+      "probability(http://dbpedia.org/resource/Connecticut|time)" : 0.10526
+    }
+  } ]
+} ]

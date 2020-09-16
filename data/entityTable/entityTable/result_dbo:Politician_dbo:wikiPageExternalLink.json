@@ -1,0 +1,431 @@
+[ {
+  "objectIndex" : "286",
+  "property" : "dbo:wikiPageExternalLink",
+  "object" : "https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.952,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|member)" : 0.04077
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.952,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|legislative)" : 0.0885
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.952,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|assembly)" : 0.0744
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.256,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|former)" : 0.03185
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.016,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|election)" : 0.00147
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.128,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|son)" : 0.01005
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|political)" : 0.00128
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|district)" : 9.2E-4
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.056,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|canadian)" : 0.01254
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|constituency)" : 0.00272
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.056,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|first)" : 0.00708
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|state)" : 7.3E-4
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|indian)" : 0.00216
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.064,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|war)" : 0.00604
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.016,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|candidate)" : 0.00424
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.048,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|liberal)" : 0.00886
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.016,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|seat)" : 0.0035
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.056,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|party)" : 0.00401
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|general)" : 0.00121
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.016,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|mayor)" : 0.00385
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.312,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|government)" : 0.05342
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.0,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|politiker)" : 0.00136
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.032,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|né)" : 0.00777
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.912,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|provincial)" : 0.16174
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|city)" : 0.00141
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.04,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|lawyer)" : 0.01742
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.2,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|minister)" : 0.02352
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|electoral)" : 0.00465
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|democratic)" : 0.00143
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 1.0,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|er)" : 0.01957
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.024,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|farmer)" : 0.01408
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.24,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|office)" : 0.0463
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.024,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|term)" : 0.00508
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|family)" : 0.00375
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.04,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|death)" : 0.01667
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.368,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|conservative)" : 0.08456
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.016,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|businessman)" : 0.01156
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.008,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|governor)" : 0.00254
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.056,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|law)" : 0.01054
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.256,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|time)" : 0.05776
+    }
+  } ]
+}, {
+  "objectIndex" : "287",
+  "property" : "dbo:wikiPageExternalLink",
+  "object" : "http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.94375,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|member)" : 0.05131
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.9625,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|legislative)" : 0.11431
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.9625,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|assembly)" : 0.09609
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.08125,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|former)" : 0.01351
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.03125,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|election)" : 0.00367
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.11875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|son)" : 0.01193
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.08125,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|district)" : 0.01197
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.06875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|canadian)" : 0.02151
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.05625,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|first)" : 0.01011
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.00625,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|state)" : 7.3E-4
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.04375,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|war)" : 0.0047
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.025,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|candidate)" : 0.00847
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.0,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|british)" : 0.00186
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.1875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|liberal)" : 0.03797
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.03125,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|seat)" : 0.00876
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.09375,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|party)" : 0.0086
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.01875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|general)" : 0.00363
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.04375,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|mayor)" : 0.01346
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.475,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|government)" : 0.10411
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.00625,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|né)" : 0.00388
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.86875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|provincial)" : 0.19691
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.04375,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|city)" : 0.00986
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.05,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|lawyer)" : 0.02787
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.025,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|leader)" : 0.00708
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.0875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|minister)" : 0.01317
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.075,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|electoral)" : 0.05581
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.01875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|democratic)" : 0.00429
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.99375,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|er)" : 0.02466
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.31875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|farmer)" : 0.23944
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.13125,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|office)" : 0.03241
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.01875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|term)" : 0.00508
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.10625,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|death)" : 0.05667
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.1125,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|conservative)" : 0.03309
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.01875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|businessman)" : 0.01734
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.0125,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|。)" : 0.01143
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.06875,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|law)" : 0.01657
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.15625,
+      "probability(http://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|time)" : 0.04513
+    }
+  } ]
+}, {
+  "objectIndex" : "288",
+  "property" : "dbo:wikiPageExternalLink",
+  "object" : "http://www.parlament.md/",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|http://www.parlament.md/)" : 0.17722,
+      "probability(http://www.parlament.md/|member)" : 0.00476
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://www.parlament.md/)" : 0.01266,
+      "probability(http://www.parlament.md/|war)" : 6.7E-4
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|http://www.parlament.md/)" : 0.01266,
+      "probability(http://www.parlament.md/|liberal)" : 0.00127
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|http://www.parlament.md/)" : 0.01266,
+      "probability(http://www.parlament.md/|party)" : 5.7E-4
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|http://www.parlament.md/)" : 0.01266,
+      "probability(http://www.parlament.md/|politiker)" : 0.00136
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://www.parlament.md/)" : 0.37975,
+      "probability(http://www.parlament.md/|er)" : 0.00462
+    }
+  } ]
+} ]

@@ -1,0 +1,466 @@
+[ {
+  "objectIndex" : "243",
+  "property" : "dbo:profession",
+  "object" : "http://dbpedia.org/resource/Lawyer",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Lawyer)" : 0.35714,
+      "probability(http://dbpedia.org/resource/Lawyer|member)" : 0.13472
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Lawyer)" : 0.07143,
+      "probability(http://dbpedia.org/resource/Lawyer|legislative)" : 0.09434
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Lawyer)" : 0.16071,
+      "probability(http://dbpedia.org/resource/Lawyer|assembly)" : 0.16
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/Lawyer)" : 0.23214,
+      "probability(http://dbpedia.org/resource/Lawyer|former)" : 0.17526
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/Lawyer)" : 0.30357,
+      "probability(http://dbpedia.org/resource/Lawyer|election)" : 0.23333
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/Lawyer)" : 0.30357,
+      "probability(http://dbpedia.org/resource/Lawyer|son)" : 0.2233
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|http://dbpedia.org/resource/Lawyer)" : 0.08929,
+      "probability(http://dbpedia.org/resource/Lawyer|political)" : 0.12069
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/Lawyer)" : 0.21429,
+      "probability(http://dbpedia.org/resource/Lawyer|district)" : 0.17647
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Lawyer)" : 0.08929,
+      "probability(http://dbpedia.org/resource/Lawyer|canadian)" : 0.22727
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|http://dbpedia.org/resource/Lawyer)" : 0.03571,
+      "probability(http://dbpedia.org/resource/Lawyer|constituency)" : 0.075
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://dbpedia.org/resource/Lawyer)" : 0.19643,
+      "probability(http://dbpedia.org/resource/Lawyer|first)" : 0.19737
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/Lawyer)" : 0.05357,
+      "probability(http://dbpedia.org/resource/Lawyer|australian)" : 0.16129
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Lawyer)" : 0.25,
+      "probability(http://dbpedia.org/resource/Lawyer|american)" : 0.32759
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Lawyer)" : 0.32143,
+      "probability(http://dbpedia.org/resource/Lawyer|state)" : 0.19048
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|http://dbpedia.org/resource/Lawyer)" : 0.01786,
+      "probability(http://dbpedia.org/resource/Lawyer|figure)" : 0.25
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/Lawyer)" : 0.05357,
+      "probability(http://dbpedia.org/resource/Lawyer|indian)" : 0.14634
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Lawyer)" : 0.25,
+      "probability(http://dbpedia.org/resource/Lawyer|war)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|http://dbpedia.org/resource/Lawyer)" : 0.03571,
+      "probability(http://dbpedia.org/resource/Lawyer|candidate)" : 0.13043
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|http://dbpedia.org/resource/Lawyer)" : 0.03571,
+      "probability(http://dbpedia.org/resource/Lawyer|british)" : 0.08333
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|http://dbpedia.org/resource/Lawyer)" : 0.08929,
+      "probability(http://dbpedia.org/resource/Lawyer|liberal)" : 0.16667
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|http://dbpedia.org/resource/Lawyer)" : 0.05357,
+      "probability(http://dbpedia.org/resource/Lawyer|seat)" : 0.19355
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|http://dbpedia.org/resource/Lawyer)" : 0.25,
+      "probability(http://dbpedia.org/resource/Lawyer|party)" : 0.12143
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|http://dbpedia.org/resource/Lawyer)" : 0.28571,
+      "probability(http://dbpedia.org/resource/Lawyer|general)" : 0.28
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|http://dbpedia.org/resource/Lawyer)" : 0.10714,
+      "probability(http://dbpedia.org/resource/Lawyer|mayor)" : 0.14634
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|http://dbpedia.org/resource/Lawyer)" : 0.10714,
+      "probability(http://dbpedia.org/resource/Lawyer|government)" : 0.16667
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|http://dbpedia.org/resource/Lawyer)" : 0.17857,
+      "probability(http://dbpedia.org/resource/Lawyer|politiker)" : 0.24
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|http://dbpedia.org/resource/Lawyer)" : 0.05357,
+      "probability(http://dbpedia.org/resource/Lawyer|provincial)" : 0.21429
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|http://dbpedia.org/resource/Lawyer)" : 0.07143,
+      "probability(http://dbpedia.org/resource/Lawyer|city)" : 0.10345
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|http://dbpedia.org/resource/Lawyer)" : 0.21429,
+      "probability(http://dbpedia.org/resource/Lawyer|lawyer)" : 0.78261
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|http://dbpedia.org/resource/Lawyer)" : 0.08929,
+      "probability(http://dbpedia.org/resource/Lawyer|leader)" : 0.13725
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|http://dbpedia.org/resource/Lawyer)" : 0.16071,
+      "probability(http://dbpedia.org/resource/Lawyer|minister)" : 0.125
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|http://dbpedia.org/resource/Lawyer)" : 0.01786,
+      "probability(http://dbpedia.org/resource/Lawyer|electoral)" : 0.16667
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|http://dbpedia.org/resource/Lawyer)" : 0.21429,
+      "probability(http://dbpedia.org/resource/Lawyer|democratic)" : 0.19444
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Lawyer)" : 0.92857,
+      "probability(http://dbpedia.org/resource/Lawyer|er)" : 0.15317
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|http://dbpedia.org/resource/Lawyer)" : 0.10714,
+      "probability(http://dbpedia.org/resource/Lawyer|office)" : 0.20408
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|http://dbpedia.org/resource/Lawyer)" : 0.08929,
+      "probability(http://dbpedia.org/resource/Lawyer|term)" : 0.18367
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|http://dbpedia.org/resource/Lawyer)" : 0.03571,
+      "probability(http://dbpedia.org/resource/Lawyer|family)" : 0.09524
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|http://dbpedia.org/resource/Lawyer)" : 0.03571,
+      "probability(http://dbpedia.org/resource/Lawyer|death)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|http://dbpedia.org/resource/Lawyer)" : 0.03571,
+      "probability(http://dbpedia.org/resource/Lawyer|conservative)" : 0.08696
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|http://dbpedia.org/resource/Lawyer)" : 0.05357,
+      "probability(http://dbpedia.org/resource/Lawyer|businessman)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|http://dbpedia.org/resource/Lawyer)" : 0.10714,
+      "probability(http://dbpedia.org/resource/Lawyer|governor)" : 0.23333
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|http://dbpedia.org/resource/Lawyer)" : 0.17857,
+      "probability(http://dbpedia.org/resource/Lawyer|republican)" : 0.25532
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|http://dbpedia.org/resource/Lawyer)" : 0.41071,
+      "probability(http://dbpedia.org/resource/Lawyer|law)" : 0.44118
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|http://dbpedia.org/resource/Lawyer)" : 0.16071,
+      "probability(http://dbpedia.org/resource/Lawyer|president)" : 0.18182
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|http://dbpedia.org/resource/Lawyer)" : 0.07143,
+      "probability(http://dbpedia.org/resource/Lawyer|time)" : 0.11111
+    }
+  } ]
+}, {
+  "objectIndex" : "244",
+  "property" : "dbo:profession",
+  "object" : "http://dbpedia.org/resource/Politician",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Politician)" : 0.35556,
+      "probability(http://dbpedia.org/resource/Politician|member)" : 0.18653
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Politician)" : 0.06667,
+      "probability(http://dbpedia.org/resource/Politician|legislative)" : 0.15094
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Politician)" : 0.11111,
+      "probability(http://dbpedia.org/resource/Politician|assembly)" : 0.14667
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/Politician)" : 0.17778,
+      "probability(http://dbpedia.org/resource/Politician|former)" : 0.19588
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/Politician)" : 0.15556,
+      "probability(http://dbpedia.org/resource/Politician|election)" : 0.21111
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/Politician)" : 0.18889,
+      "probability(http://dbpedia.org/resource/Politician|son)" : 0.20388
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|http://dbpedia.org/resource/Politician)" : 0.18889,
+      "probability(http://dbpedia.org/resource/Politician|political)" : 0.32759
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/Politician)" : 0.08889,
+      "probability(http://dbpedia.org/resource/Politician|district)" : 0.11765
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Politician)" : 0.04444,
+      "probability(http://dbpedia.org/resource/Politician|canadian)" : 0.18182
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|http://dbpedia.org/resource/Politician)" : 0.16667,
+      "probability(http://dbpedia.org/resource/Politician|constituency)" : 0.375
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://dbpedia.org/resource/Politician)" : 0.15556,
+      "probability(http://dbpedia.org/resource/Politician|first)" : 0.19737
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/Politician)" : 0.04444,
+      "probability(http://dbpedia.org/resource/Politician|australian)" : 0.19355
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Politician)" : 0.11111,
+      "probability(http://dbpedia.org/resource/Politician|american)" : 0.2069
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Politician)" : 0.23333,
+      "probability(http://dbpedia.org/resource/Politician|state)" : 0.21429
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/Politician)" : 0.17778,
+      "probability(http://dbpedia.org/resource/Politician|indian)" : 0.41463
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Politician)" : 0.16667,
+      "probability(http://dbpedia.org/resource/Politician|war)" : 0.18889
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|http://dbpedia.org/resource/Politician)" : 0.12222,
+      "probability(http://dbpedia.org/resource/Politician|candidate)" : 0.28261
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|http://dbpedia.org/resource/Politician)" : 0.02222,
+      "probability(http://dbpedia.org/resource/Politician|british)" : 0.08333
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|http://dbpedia.org/resource/Politician)" : 0.07778,
+      "probability(http://dbpedia.org/resource/Politician|liberal)" : 0.21429
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|http://dbpedia.org/resource/Politician)" : 0.05556,
+      "probability(http://dbpedia.org/resource/Politician|seat)" : 0.19355
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|http://dbpedia.org/resource/Politician)" : 0.3,
+      "probability(http://dbpedia.org/resource/Politician|party)" : 0.22857
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|http://dbpedia.org/resource/Politician)" : 0.17778,
+      "probability(http://dbpedia.org/resource/Politician|general)" : 0.26667
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|http://dbpedia.org/resource/Politician)" : 0.08889,
+      "probability(http://dbpedia.org/resource/Politician|mayor)" : 0.21951
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|http://dbpedia.org/resource/Politician)" : 0.14444,
+      "probability(http://dbpedia.org/resource/Politician|government)" : 0.2963
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|http://dbpedia.org/resource/Politician)" : 0.11111,
+      "probability(http://dbpedia.org/resource/Politician|politiker)" : 0.22
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|http://dbpedia.org/resource/Politician)" : 0.0,
+      "probability(http://dbpedia.org/resource/Politician|né)" : 0.06667
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|http://dbpedia.org/resource/Politician)" : 0.04444,
+      "probability(http://dbpedia.org/resource/Politician|provincial)" : 0.28571
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|http://dbpedia.org/resource/Politician)" : 0.14444,
+      "probability(http://dbpedia.org/resource/Politician|city)" : 0.27586
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|http://dbpedia.org/resource/Politician)" : 0.07778,
+      "probability(http://dbpedia.org/resource/Politician|lawyer)" : 0.34783
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|http://dbpedia.org/resource/Politician)" : 0.13333,
+      "probability(http://dbpedia.org/resource/Politician|leader)" : 0.29412
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|http://dbpedia.org/resource/Politician)" : 0.17778,
+      "probability(http://dbpedia.org/resource/Politician|minister)" : 0.20833
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|http://dbpedia.org/resource/Politician)" : 0.03333,
+      "probability(http://dbpedia.org/resource/Politician|electoral)" : 0.33333
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|http://dbpedia.org/resource/Politician)" : 0.07778,
+      "probability(http://dbpedia.org/resource/Politician|democratic)" : 0.11111
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Politician)" : 0.92222,
+      "probability(http://dbpedia.org/resource/Politician|er)" : 0.20788
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|http://dbpedia.org/resource/Politician)" : 0.11111,
+      "probability(http://dbpedia.org/resource/Politician|office)" : 0.2449
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|http://dbpedia.org/resource/Politician)" : 0.12222,
+      "probability(http://dbpedia.org/resource/Politician|term)" : 0.26531
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|http://dbpedia.org/resource/Politician)" : 0.02222,
+      "probability(http://dbpedia.org/resource/Politician|family)" : 0.14286
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|http://dbpedia.org/resource/Politician)" : 0.03333,
+      "probability(http://dbpedia.org/resource/Politician|death)" : 0.26667
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|http://dbpedia.org/resource/Politician)" : 0.03333,
+      "probability(http://dbpedia.org/resource/Politician|conservative)" : 0.26087
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|http://dbpedia.org/resource/Politician)" : 0.05556,
+      "probability(http://dbpedia.org/resource/Politician|businessman)" : 0.33333
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|http://dbpedia.org/resource/Politician)" : 0.01111,
+      "probability(http://dbpedia.org/resource/Politician|。)" : 0.16667
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|http://dbpedia.org/resource/Politician)" : 0.04444,
+      "probability(http://dbpedia.org/resource/Politician|governor)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|http://dbpedia.org/resource/Politician)" : 0.05556,
+      "probability(http://dbpedia.org/resource/Politician|republican)" : 0.14894
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|http://dbpedia.org/resource/Politician)" : 0.16667,
+      "probability(http://dbpedia.org/resource/Politician|law)" : 0.26471
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|http://dbpedia.org/resource/Politician)" : 0.11111,
+      "probability(http://dbpedia.org/resource/Politician|president)" : 0.19697
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|http://dbpedia.org/resource/Politician)" : 0.06667,
+      "probability(http://dbpedia.org/resource/Politician|time)" : 0.19444
+    }
+  } ]
+} ]

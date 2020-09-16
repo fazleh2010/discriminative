@@ -9,7 +9,6 @@ import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.utils.FileFolderUtils;
 import citec.correlation.utils.SortUtils;
 import citec.correlation.wikipedia.element.DBpediaEntity;
-import citec.correlation.wikipedia.table.Tables;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -28,62 +27,83 @@ import org.javatuples.Pair;
  */
 public class Calculation implements TextAnalyzer {
 
-    private  Map<String, List<String>> tableTopwords = new HashMap<String, List<String>>();
-    private  Set<String> interestedWords = new HashSet<String>();
+    private   List<String> interestedWords = new ArrayList<String>();
     private  Map<String, List<Results>> tableResults = new HashMap<String, List<Results> >();
     private Integer numberOfEntities = 200;
    
-    public Calculation(String property, String inputJsonFile, String outputDir) throws Exception {
+    /*public Calculation(String property, String inputJsonFile, String outputDir) throws Exception {
         Tables tables = new Tables(new File(inputJsonFile).getName(), outputDir);
         tables.readTable(property);
-        this.findInterestedWordsForEntities(tables);
-        System.out.println(tableTopwords);
+        this.findInterestedWordsForEntities(tables.getAllDBpediaEntitys());
         this.calculation(tables,outputDir);
         System.out.println(tableResults);
         
-    }
+    }*/
 
-    public Calculation( Tables tables, String property,String outputDir) throws IOException {
-        findInterestedWordsForEntities("all",tables.getAllDBpediaEntitys());
-        interestedWords = new HashSet<String>(tableTopwords.get("all"));
-        System.out.println("interestedWords:"+interestedWords);
-        interestedWords= new HashSet<String>();
+    public Calculation( Tables tables, String className,String outputDir) throws IOException, Exception {
+         tables.readSplitTables(outputDir,className);
+         String sortFile=tables.getEntityTableDir()+File.separator+"a_interestedList.txt";
+         //findInterestedWordsForEntities(tables.getAllDBpediaEntitys(),sortFile,100);
+         this.interestedWords=FileFolderUtils.getSortedList(sortFile,200,50);         
+       
+       
+        /*interestedWords= new HashSet<String>();
         interestedWords.add("american");
-        //System.out.println(tableTopwords);
-        this.calculation(tables,outputDir);
-        System.out.println(tableResults);
+        interestedWords.add("democratic");
+        //System.out.println(tableTopwords);*/
+        
+        this.calculation(tables,className,tables.getEntityTableDir());
     }
     
-    private void calculation(Tables tables, String outputDir) throws IOException {
-        System.out.println("outputDir"+outputDir);
+    private void calculation(Tables tables, String className,String outputDir) throws IOException, Exception {
+        tables.readTable(className);
         Map<String, List<DBpediaEntity>> entityCategories = new HashMap<String, List<DBpediaEntity>>();
         for (String tableName : tables.getEntityTables().keySet()) {
             List<DBpediaEntity> dbpediaEntities = tables.getEntityTables().get(tableName).getDbpediaEntities();
+            if(dbpediaEntities.size()<50)
+                     continue;
+           
             String property = Tables.getProperty(tableName);
-            if (!tableName.contains("dbo:party")) {
+            
+            /*if (!tableName.contains("dbo:party")) {
                 continue;
-            }
+            }*/
             entityCategories = this.getObjectsOfproperties(property, dbpediaEntities);
             /*for(String key:entityCategories.keySet()){
-                entityCategories.get(key).size();
-                System.out.println(key+" :"+entityCategories.get(key).size());
+                System.out.println(key+" :"+entityCategories.get(key));
             }*/
 
             //all KBs..........................
             List<Results> kbResults = new ArrayList<Results>();
+              System.out.println("TableName:"+tableName);
             for (String A : entityCategories.keySet()) {
                 List<Result> results = new ArrayList<Result>();
                 List<DBpediaEntity> dbpediaEntitiesGroup = entityCategories.get(A);
+                if(dbpediaEntitiesGroup.size()<50)
+                     continue;
+                
+              
+                System.out.println("KB:"+A);
                 //all words
                 for (String word : interestedWords) {
                     String B = word;
+                    //System.out.println("word:"+word);
                     Result result = null;
-                    Pair pairWord = null, pairObject = null;
-                    pairWord = this.countConditionalProbabilities(tableName, dbpediaEntitiesGroup, property, A, B, Result.PROBABILITY_WORD_GIVEN_OBJECT);
-                    pairObject = this.countConditionalProbabilities(tableName, dbpediaEntities, property, A, B, Result.PROBABILITY_OBJECT_GIVEN_WORD);
+                    Pair pairWord = this.countConditionalProbabilities(tableName, dbpediaEntitiesGroup, property, A, B, Result.PROBABILITY_WORD_GIVEN_OBJECT);
+                    Pair pairObject = this.countConditionalProbabilities(tableName, dbpediaEntities, property, A, B, Result.PROBABILITY_OBJECT_GIVEN_WORD);
                     if (pairWord != null && pairObject != null) {
-                        result = new Result(pairWord, pairObject);
-                        results.add(result);
+                        //if(!((Double)pairWord.getValue1()==0.0)&&((Double)pairObject.getValue1()==0.0)){
+                           Double wordCount=(Double)pairWord.getValue1();
+                           Double objectCount=(Double)pairObject.getValue1();
+                          
+                           
+                           if(!(wordCount==0&&objectCount==0)){
+                                result = new Result(pairWord, pairObject);
+                              results.add(result);   
+                           }
+                         
+                        //}
+                       
                     }
                     //}
                 }//all words end
@@ -97,7 +117,7 @@ public class Calculation implements TextAnalyzer {
             }
 
             tableResults.put(tableName, kbResults);
-            FileFolderUtils.writeToJsonFile(kbResults, outputDir + File.separator + Result.RESULT_DIR + File.separator + tableName+".json");
+            FileFolderUtils.writeToJsonFile(kbResults, tables.getEntityTableDir() + File.separator + Result.RESULT_DIR + File.separator + "result_"+tableName);
         }
     }
 
@@ -107,8 +127,10 @@ public class Calculation implements TextAnalyzer {
         LinkedHashSet<String> allObjects = new LinkedHashSet<String>();
         for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
             if (!dbpediaEntity.getProperties().isEmpty()) {
-                LinkedHashSet<String> objects = new LinkedHashSet<String>(dbpediaEntity.getProperties().get(property));
-                allObjects.addAll(objects);
+                if(dbpediaEntity.getProperties().containsKey(property)){
+                   LinkedHashSet<String> objects = new LinkedHashSet<String>(dbpediaEntity.getProperties().get(property));
+                   allObjects.addAll(objects); 
+                }
             }
         }
 
@@ -180,7 +202,8 @@ public class Calculation implements TextAnalyzer {
 
     private Pair<String, Double> countConditionalProbabilities(String tableName, List<DBpediaEntity> dbpediaEntities, String propertyName, String A, String B, Integer flag) throws IOException {
         Double KB_WORD_FOUND = 0.0, KB_FOUND = 0.0, WORD_FOUND = 0.0;
-        Pair pair = null;
+        Pair<String, Double> pair = null;
+              
 
         for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
             String text = dbpediaEntity.getText();
@@ -212,7 +235,7 @@ public class Calculation implements TextAnalyzer {
         //if (WORD_FOUND > 10) {
         if (flag == Result.PROBABILITY_OBJECT_GIVEN_WORD) {
             Double probability_object_word = (KB_WORD_FOUND) / (WORD_FOUND);
-            pair = new Pair(probability_object_word_str, probability_object_word);
+            pair = new Pair<String, Double>(probability_object_word_str, probability_object_word);
         }
         else if (flag == Result.PROBABILITY_WORD_GIVEN_OBJECT) {
             Double probability_word_object = (KB_WORD_FOUND) / (KB_FOUND);
@@ -220,9 +243,11 @@ public class Calculation implements TextAnalyzer {
             /*if (probability_word_object < 0.24) {
                     return null;
                 }*/
-            pair = new Pair(probability_word_object_str, probability_word_object);
+            
+            
+            pair = new Pair<String, Double>(probability_word_object_str, probability_word_object);
         } 
-
+        
         return pair;
 
     }
@@ -337,7 +362,7 @@ public class Calculation implements TextAnalyzer {
     */
  
     
-    private Map<String, List<String>> findInterestedWordsAllAbstracts(Tables tables) {
+    /*private Map<String, List<String>> findInterestedWordsAllAbstracts(Tables tables) {
         Map<String, List<String>> tableTopwords = new HashMap<String, List<String>>();
         for (String tableName : tables.getEntityTables().keySet()) {
             List<DBpediaEntity> dbpediaEntities = tables.getEntityTables().get(tableName).getDbpediaEntities();
@@ -347,24 +372,26 @@ public class Calculation implements TextAnalyzer {
                 String text = dbpediaEntity.getText() + "\n";
                 texts += text;
             }
-            List<String> topWords = SortUtils.countWords(texts);
+            List<String> topWords = SortUtils.countWords(texts,100);
             tableTopwords.put(tableName, topWords);
         }
 
         return tableTopwords;
-    }
+    }*/
 
-    private  void findInterestedWordsForEntities(Tables tables) {
+    private  void findInterestedWordsForEntities(Tables tables,String fileName) {
          Map<String, Integer> mostCommonWords = new HashMap<String, Integer>();
+         Map<String, List<String>> tableTopwords = new HashMap<String, List<String>>();
+
         
         for (String tableName : tables.getEntityTables().keySet()) {
              List<DBpediaEntity> dbpediaEntities = tables.getEntityTables().get(tableName).getDbpediaEntities();     
              for(DBpediaEntity dbpediaEntity:dbpediaEntities){
                  for (String word:dbpediaEntity.getWords()){
                      word=word.toLowerCase().trim();
-                     if(ENGLISH_STOPWORDS.contains(word)){
+                     /*if(ENGLISH_STOPWORDS.contains(word)){
                          continue;
-                     }
+                     }*/
                       Integer count=0;
                       if(mostCommonWords.containsKey(word)){
                          count= mostCommonWords.get(word);
@@ -377,17 +404,25 @@ public class Calculation implements TextAnalyzer {
                  }
                 
              }
-             List<String> topWords = SortUtils.sort(mostCommonWords);
-             tableTopwords.put(tableName, topWords);
+             String str = SortUtils.sort(mostCommonWords,100);
+             System.out.println(str);
+             FileFolderUtils.stringToFiles(str, tableName);
+             //tableTopwords.put(tableName, topWords);
         }
         
     }
     
-    private void findInterestedWordsForEntities(String tableName,List<DBpediaEntity> dbpediaEntities) {
+    private void findInterestedWordsForEntities(List<DBpediaEntity> dbpediaEntities,String fileName,Integer number) {
         Map<String, Integer> mostCommonWords = new HashMap<String, Integer>();
         for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
-            for (String word : dbpediaEntity.getWords()) {
+            Set<String> adjectives=dbpediaEntity.getAdjectives();
+            Set<String> list=dbpediaEntity.getNouns();
+            list.addAll(adjectives);
+            for (String word : list) {
                 word = word.toLowerCase().trim();
+                if(TextAnalyzer.ENGLISH_STOPWORDS.contains(word))
+                    continue;
+                //System.out.println("word"+word);
                 Integer count = 0;
                 if (mostCommonWords.containsKey(word)) {
                     count = mostCommonWords.get(word);
@@ -398,10 +433,10 @@ public class Calculation implements TextAnalyzer {
                     mostCommonWords.put(word, count);
                 }
             }
-
-            List<String> topWords = SortUtils.sort(mostCommonWords);
-            tableTopwords.put(tableName, topWords);
+           
         }
+             String str = SortUtils.sort(mostCommonWords,number);
+             FileFolderUtils.stringToFiles(str, fileName);
 
     }
 

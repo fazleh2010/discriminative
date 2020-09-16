@@ -21,7 +21,7 @@ import java.util.StringTokenizer;
  */
 public class SortUtils {
 
-    public static List<String> countWords(String texts) {
+    /*public static List<String> countWords(String texts,Integer maxNumber) {
         Map<String, Integer> wordCounts = new HashMap<String, Integer>();
         StringTokenizer st = new StringTokenizer(texts);
         while (st.hasMoreTokens()) {
@@ -35,11 +35,11 @@ public class SortUtils {
                 }
             }
         }
-        return sort(wordCounts);
-    }
+        return sort(wordCounts,100);
+    }*/
 
-    public static List<String> sort(Map<String, Integer> hm) {
-
+    public static String sort(Map<String, Integer> hm,Integer maxNumber) {
+        String str="";
         Set<Map.Entry<String, Integer>> set = hm.entrySet();
         List<Map.Entry<String, Integer>> list = new ArrayList<Map.Entry<String, Integer>>(
                 set);
@@ -50,12 +50,18 @@ public class SortUtils {
             }
         });
 
-        Integer maxNumber = 100, index = 0;
+        Integer  index = 0;
         List<String> topWords = new ArrayList<String>();
 
         for (Map.Entry<String, Integer> entry : list) {
-            //System.out.println(entry.getValue());
-            //System.out.println(entry.getKey());
+             String line=entry.getValue()+" "+entry.getKey()+"\n";
+             str+=line;
+            
+            /*System.out.println(entry.getValue());
+            System.out.println(entry.getKey());
+            System.out.println("index"+index); */
+           
+         
             index++;
             topWords.add(entry.getKey());
             if (index == maxNumber) {
@@ -64,7 +70,7 @@ public class SortUtils {
 
         }
         // System.out.println(topWords.toString());
-        return topWords;
+        return str;
     }
 
     private static Boolean isNotStopWord(String token) {
