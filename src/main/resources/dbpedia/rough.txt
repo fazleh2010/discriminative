@@ -1,4 +1,0 @@
-
-        /*List<String> topWords = this.countWords(texts);
-        entityTopTenWords.put(A, topWords);*/
-        
