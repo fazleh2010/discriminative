@@ -16,6 +16,7 @@ import citec.correlation.wikipedia.table.EntityTable;
 import citec.correlation.wikipedia.table.Tables;
 import citec.correlation.core.yaml.ParseYaml;
 import citec.correlation.utils.FileFolderUtils;
+import citec.correlation.utils.InterestedWords;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
@@ -30,6 +31,8 @@ import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import citec.correlation.wikipedia.element.PropertyNotation;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.LinkedHashSet;
 import org.apache.commons.io.FileUtils;
 
@@ -90,8 +93,12 @@ public class TableMain implements PropertyNotation {
             tables.readSplitTables(dbpediaDir + output,dbo_Politician);
             tables.writeTable(dir + entityTable);*/
             
+            InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
+            interestedWords.prepareWords();
+            interestedWords.getWords(200,20);
             
-            Calculation calculation = new Calculation(tables,dbo_Politician,dbpediaDir+output);
+            
+            Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords.getAlphabeticSorted(),dbpediaDir+output);
             System.out.println("System execution ended!!!");
             
             /*String property=PropertyNotation.dbo_party;

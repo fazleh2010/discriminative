@@ -6,6 +6,10 @@
 package citec.correlation.utils;
 
 import static citec.correlation.core.analyzer.TextAnalyzer.ENGLISH_STOPWORDS;
+import citec.correlation.wikipedia.main.TableMain;
+import java.io.IOException;
+import java.math.BigDecimal;
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -57,16 +61,18 @@ public class SortUtils {
              String line=entry.getValue()+" "+entry.getKey()+"\n";
              str+=line;
             
-            /*System.out.println(entry.getValue());
-            System.out.println(entry.getKey());
-            System.out.println("index"+index); */
+            //System.out.println("value:"+entry.getValue());
+            //System.out.println("key:"+entry.getKey());
            
+            if(entry.getValue()<maxNumber){
+                break;
+            }
          
-            index++;
+            /*index++;
             topWords.add(entry.getKey());
             if (index == maxNumber) {
                 break;
-            }
+            }*/
 
         }
         // System.out.println(topWords.toString());
@@ -79,5 +85,29 @@ public class SortUtils {
         }
         return true;
     }
+    
+      public static void main(String[] args) throws IOException, Exception {
+        double myvalue = 0.00000021d;
+
+        //Option 1 Print bare double.
+        System.out.println(myvalue);
+
+        //Option2, use decimalFormat.
+        DecimalFormat df = new DecimalFormat("#");
+        df.setMaximumFractionDigits(8);
+        System.out.println(df.format(myvalue));
+
+        //Option 3, use printf.
+        System.out.printf("%.9f", myvalue);
+        System.out.println();
+
+        //Option 4, convert toBigDecimal and ask for toPlainString().
+        System.out.print(new BigDecimal(myvalue).toPlainString());
+        System.out.println();
+
+        //Option 5, String.format 
+        System.out.println(String.format("%.12f", myvalue));
+    }
+
 
 }

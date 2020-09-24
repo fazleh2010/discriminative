@@ -40,19 +40,13 @@ public class Calculation implements TextAnalyzer {
         
     }*/
 
-    public Calculation( Tables tables, String className,String outputDir) throws IOException, Exception {
-         tables.readSplitTables(outputDir,className);
-         String sortFile=tables.getEntityTableDir()+File.separator+"a_interestedList.txt";
-         //findInterestedWordsForEntities(tables.getAllDBpediaEntitys(),sortFile,100);
-         this.interestedWords=FileFolderUtils.getSortedList(sortFile,200,50);         
-       
-       
-        /*interestedWords= new HashSet<String>();
-        interestedWords.add("american");
-        interestedWords.add("democratic");
-        //System.out.println(tableTopwords);*/
-        
-        this.calculation(tables,className,tables.getEntityTableDir());
+    public Calculation(Tables tables, String className,  List<String> interestedWords ,String outputDir) throws IOException, Exception {
+        this.interestedWords=interestedWords;
+        /*tables.readSplitTables(outputDir, className);
+        String sortFile = tables.getEntityTableDir() + File.separator + "a_interestedList.txt";
+        findInterestedWordsForEntities(tables.getAllDBpediaEntitys(),sortFile,100);
+        this.interestedWords = FileFolderUtils.getSortedList(sortFile, 200, 50); */ 
+       this.calculation(tables,className,tables.getEntityTableDir());
     }
     
     private void calculation(Tables tables, String className,String outputDir) throws IOException, Exception {
@@ -96,23 +90,31 @@ public class Calculation implements TextAnalyzer {
                            Double wordCount=(Double)pairWord.getValue1();
                            Double objectCount=(Double)pairObject.getValue1();
                           
-                           
-                           if(!(wordCount==0&&objectCount==0)){
+                           if ((wordCount*objectCount)>0.02&&!(wordCount==0&&objectCount==0)) {
                                 result = new Result(pairWord, pairObject);
-                              results.add(result);   
+                                results.add(result);   
                            }
+                           /*if(!(wordCount==0&&objectCount==0)){
+                                result = new Result(pairWord, pairObject);
+                                results.add(result);   
+                           }*/
+                           
+                          
+            
                          
                         //}
                        
                     }
                     //}
                 }//all words end
+                
                 if (!results.isEmpty()) {
                     //String keytoSort = Result.conditional_probability + "(" + Result.WORD_STR + "|" + Result.KB_STR + ")";
                     //List<Result> resultsSorted = this.sortResutls(results, keytoSort);
                     Results kbResult = new Results(property, A, results);
                     kbResults.add(kbResult);
                 }
+                break;
 
             }
 
@@ -239,12 +241,6 @@ public class Calculation implements TextAnalyzer {
         }
         else if (flag == Result.PROBABILITY_WORD_GIVEN_OBJECT) {
             Double probability_word_object = (KB_WORD_FOUND) / (KB_FOUND);
-
-            /*if (probability_word_object < 0.24) {
-                    return null;
-                }*/
-            
-            
             pair = new Pair<String, Double>(probability_word_object_str, probability_word_object);
         } 
         

@@ -8,6 +8,7 @@ package citec.correlation.wikipedia.table;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -20,7 +21,7 @@ public class Results {
     private static String PREFIX = "OBJECT";
     @JsonIgnore
     private static Integer index = 0;
-    
+
     @JsonProperty("objectIndex")
     private String objectIndex;
     @JsonProperty("property")
@@ -30,13 +31,20 @@ public class Results {
     @JsonProperty("distribution")
     private List<Result> distributions = new ArrayList<Result>();
 
-    public Results(String property,String object, List<Result> distributions) {
-        this.property=property;
+    public Results(String property, String object, List<Result> distributions) {
+        this.property = property;
         this.KB = object;
         this.distributions = distributions;
+        Collections.sort(this.distributions, new Result()); 
+        Collections.reverse(this.distributions);
         index = index + 1;
-        this.objectIndex =  index.toString();
+        this.objectIndex = index.toString();
 
+    }
+
+   
+    public List<Result> getDistributions() {
+        return distributions;
     }
 
     @Override

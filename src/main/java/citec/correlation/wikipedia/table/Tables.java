@@ -237,7 +237,6 @@ public class Tables implements PropertyNotation{
 
     public void display() {
         for (String tableName : entityTables.keySet()) {
-            System.out.println(tableName);
             System.out.println(entityTables.get(tableName));
         }
     }

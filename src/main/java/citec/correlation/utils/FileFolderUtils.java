@@ -32,8 +32,7 @@ import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.net.URI;
 import java.net.URLEncoder;
-import java.util.Map;
-import java.util.TreeMap;
+import java.util.Collections;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
@@ -232,10 +231,10 @@ public class FileFolderUtils {
         }
     }
     
-   
-     public static void writeToJsonFile(List<Results>  kbResults, String filename) throws IOException {
-         if(kbResults.isEmpty())
-             return;
+       public static void writeToJsonFile(List<Results> kbResults, String filename) throws IOException {
+        if (kbResults.isEmpty()) {
+            return;
+        }
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(filename).toFile(), kbResults);
     }
