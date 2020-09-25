@@ -1,0 +1,16 @@
+[ {
+  "objectIndex" : "23",
+  "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Newfoundland_and_Labrador",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Progressive_Conservative_Party_of_Newfoundland_and_Labrador)" : 0.78,
+      "probability(http://dbpedia.org/resource/Progressive_Conservative_Party_of_Newfoundland_and_Labrador|canadian)" : 0.0355239787
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|http://dbpedia.org/resource/Progressive_Conservative_Party_of_Newfoundland_and_Labrador)" : 0.72,
+      "probability(http://dbpedia.org/resource/Progressive_Conservative_Party_of_Newfoundland_and_Labrador|conservative)" : 0.0350230415
+    }
+  } ]
+} ]

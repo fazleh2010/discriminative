@@ -1,0 +1,17 @@
+4 politician
+4 legislative
+4 member
+4 assembly
+4 cabinet
+3 minister
+2 canadian
+2 liberal
+1 former
+1 senior
+1 traditional
+1 government
+1 pinyin
+1 province
+1 due
+1 position
+1 lawyer

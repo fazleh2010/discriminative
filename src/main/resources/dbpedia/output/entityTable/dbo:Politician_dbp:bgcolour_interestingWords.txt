@@ -1,0 +1,12 @@
+4 politician
+4 house
+4 indian
+1 ନନ
+1 leader
+1 jun
+1 ଳ
+1 mp
+1 constituency
+1 ଶ
+1 office
+1 former

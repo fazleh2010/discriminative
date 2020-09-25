@@ -1,0 +1,186 @@
+[ {
+  "objectIndex" : "35",
+  "property" : "dbo:militaryBranch",
+  "object" : "http://dbpedia.org/resource/United_States_Army",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/United_States_Army)" : 0.20755,
+      "probability(http://dbpedia.org/resource/United_States_Army|member)" : 0.10891
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/United_States_Army)" : 0.03774,
+      "probability(http://dbpedia.org/resource/United_States_Army|legislative)" : 0.03922
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/United_States_Army)" : 0.09434,
+      "probability(http://dbpedia.org/resource/United_States_Army|assembly)" : 0.09804
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/United_States_Army)" : 0.09434,
+      "probability(http://dbpedia.org/resource/United_States_Army|former)" : 0.15625
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/United_States_Army)" : 0.09434,
+      "probability(http://dbpedia.org/resource/United_States_Army|election)" : 0.17241
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/United_States_Army)" : 0.26415,
+      "probability(http://dbpedia.org/resource/United_States_Army|son)" : 0.28571
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|http://dbpedia.org/resource/United_States_Army)" : 0.07547,
+      "probability(http://dbpedia.org/resource/United_States_Army|political)" : 0.23529
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/United_States_Army)" : 0.20755,
+      "probability(http://dbpedia.org/resource/United_States_Army|district)" : 0.2619
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|http://dbpedia.org/resource/United_States_Army)" : 0.0,
+      "probability(http://dbpedia.org/resource/United_States_Army|constituency)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://dbpedia.org/resource/United_States_Army)" : 0.09434,
+      "probability(http://dbpedia.org/resource/United_States_Army|first)" : 0.19231
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/United_States_Army)" : 0.33962,
+      "probability(http://dbpedia.org/resource/United_States_Army|american)" : 0.44186
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/United_States_Army)" : 0.33962,
+      "probability(http://dbpedia.org/resource/United_States_Army|state)" : 0.26471
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/United_States_Army)" : 0.26415,
+      "probability(http://dbpedia.org/resource/United_States_Army|indian)" : 0.7
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/United_States_Army)" : 0.50943,
+      "probability(http://dbpedia.org/resource/United_States_Army|war)" : 0.3
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|http://dbpedia.org/resource/United_States_Army)" : 0.07547,
+      "probability(http://dbpedia.org/resource/United_States_Army|candidate)" : 0.21053
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|http://dbpedia.org/resource/United_States_Army)" : 0.01887,
+      "probability(http://dbpedia.org/resource/United_States_Army|liberal)" : 0.03846
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|http://dbpedia.org/resource/United_States_Army)" : 0.07547,
+      "probability(http://dbpedia.org/resource/United_States_Army|seat)" : 0.26667
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|http://dbpedia.org/resource/United_States_Army)" : 0.09434,
+      "probability(http://dbpedia.org/resource/United_States_Army|party)" : 0.11111
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|http://dbpedia.org/resource/United_States_Army)" : 0.20755,
+      "probability(http://dbpedia.org/resource/United_States_Army|general)" : 0.28571
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|http://dbpedia.org/resource/United_States_Army)" : 0.24528,
+      "probability(http://dbpedia.org/resource/United_States_Army|mayor)" : 0.43333
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|http://dbpedia.org/resource/United_States_Army)" : 0.26415,
+      "probability(http://dbpedia.org/resource/United_States_Army|politiker)" : 0.38889
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|http://dbpedia.org/resource/United_States_Army)" : 0.01887,
+      "probability(http://dbpedia.org/resource/United_States_Army|né)" : 0.14286
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|http://dbpedia.org/resource/United_States_Army)" : 0.07547,
+      "probability(http://dbpedia.org/resource/United_States_Army|city)" : 0.14815
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|http://dbpedia.org/resource/United_States_Army)" : 0.11321,
+      "probability(http://dbpedia.org/resource/United_States_Army|lawyer)" : 0.375
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|http://dbpedia.org/resource/United_States_Army)" : 0.03774,
+      "probability(http://dbpedia.org/resource/United_States_Army|leader)" : 0.09091
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|http://dbpedia.org/resource/United_States_Army)" : 0.18868,
+      "probability(http://dbpedia.org/resource/United_States_Army|democratic)" : 0.30303
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/United_States_Army)" : 0.9434,
+      "probability(http://dbpedia.org/resource/United_States_Army|er)" : 0.22768
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|http://dbpedia.org/resource/United_States_Army)" : 0.01887,
+      "probability(http://dbpedia.org/resource/United_States_Army|farmer)" : 0.14286
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|http://dbpedia.org/resource/United_States_Army)" : 0.18868,
+      "probability(http://dbpedia.org/resource/United_States_Army|office)" : 0.22727
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|http://dbpedia.org/resource/United_States_Army)" : 0.18868,
+      "probability(http://dbpedia.org/resource/United_States_Army|term)" : 0.37037
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|http://dbpedia.org/resource/United_States_Army)" : 0.01887,
+      "probability(http://dbpedia.org/resource/United_States_Army|death)" : 0.0625
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|http://dbpedia.org/resource/United_States_Army)" : 0.22642,
+      "probability(http://dbpedia.org/resource/United_States_Army|governor)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|http://dbpedia.org/resource/United_States_Army)" : 0.16981,
+      "probability(http://dbpedia.org/resource/United_States_Army|republican)" : 0.31034
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|http://dbpedia.org/resource/United_States_Army)" : 0.18868,
+      "probability(http://dbpedia.org/resource/United_States_Army|law)" : 0.32258
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|http://dbpedia.org/resource/United_States_Army)" : 0.07547,
+      "probability(http://dbpedia.org/resource/United_States_Army|president)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|http://dbpedia.org/resource/United_States_Army)" : 0.07547,
+      "probability(http://dbpedia.org/resource/United_States_Army|time)" : 0.17391
+    }
+  } ]
+} ]

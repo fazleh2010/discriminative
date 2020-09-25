@@ -1,0 +1,66 @@
+[ {
+  "objectIndex" : "25",
+  "property" : "dbo:country",
+  "object" : "http://dbpedia.org/resource/Germany",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(deutscher|http://dbpedia.org/resource/Germany)" : 0.5060240964,
+      "probability(http://dbpedia.org/resource/Germany|deutscher)" : 0.976744186
+    }
+  }, {
+    "probabilities" : {
+      "probability(von|http://dbpedia.org/resource/Germany)" : 0.4457831325,
+      "probability(http://dbpedia.org/resource/Germany|von)" : 0.4043715847
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|http://dbpedia.org/resource/Germany)" : 0.5240963855,
+      "probability(http://dbpedia.org/resource/Germany|politiker)" : 0.2824675325
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Germany)" : 0.7409638554,
+      "probability(http://dbpedia.org/resource/Germany|war)" : 0.1599479844
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Germany)" : 0.9457831325,
+      "probability(http://dbpedia.org/resource/Germany|er)" : 0.0660496424
+    }
+  }, {
+    "probabilities" : {
+      "probability(der|http://dbpedia.org/resource/Germany)" : 0.5843373494,
+      "probability(http://dbpedia.org/resource/Germany|der)" : 0.104978355
+    }
+  }, {
+    "probabilities" : {
+      "probability(für|http://dbpedia.org/resource/Germany)" : 0.1626506024,
+      "probability(http://dbpedia.org/resource/Germany|für)" : 0.3506493506
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|http://dbpedia.org/resource/Germany)" : 0.2710843373,
+      "probability(http://dbpedia.org/resource/Germany|minister)" : 0.1590106007
+    }
+  }, {
+    "probabilities" : {
+      "probability(ebenda|http://dbpedia.org/resource/Germany)" : 0.0963855422,
+      "probability(http://dbpedia.org/resource/Germany|ebenda)" : 0.4210526316
+    }
+  }, {
+    "probabilities" : {
+      "probability(au|http://dbpedia.org/resource/Germany)" : 0.5240963855,
+      "probability(http://dbpedia.org/resource/Germany|au)" : 0.0753246753
+    }
+  }, {
+    "probabilities" : {
+      "probability(den|http://dbpedia.org/resource/Germany)" : 0.3734939759,
+      "probability(http://dbpedia.org/resource/Germany|den)" : 0.0898550725
+    }
+  }, {
+    "probabilities" : {
+      "probability(jurist|http://dbpedia.org/resource/Germany)" : 0.1084337349,
+      "probability(http://dbpedia.org/resource/Germany|jurist)" : 0.2535211268
+    }
+  } ]
+} ]

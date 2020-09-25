@@ -1,0 +1,9 @@
+1 delegate
+1 politician
+1 member
+1 american
+1 physician
+1 governor
+1 first
+1 territory
+1 president

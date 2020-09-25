@@ -1,0 +1,251 @@
+[ {
+  "objectIndex" : "163",
+  "property" : "dbp:nolist",
+  "object" : "true",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|true)" : 0.83846,
+      "probability(true|member)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|true)" : 0.07692,
+      "probability(true|legislative)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|true)" : 0.00385,
+      "probability(true|assembly)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|true)" : 0.00385,
+      "probability(true|former)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|true)" : 0.17692,
+      "probability(true|election)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|true)" : 0.31923,
+      "probability(true|son)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|true)" : 0.01538,
+      "probability(true|political)" : 0.8
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|true)" : 0.03462,
+      "probability(true|district)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|true)" : 0.0,
+      "probability(true|constituency)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|true)" : 0.09615,
+      "probability(true|first)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|true)" : 0.00769,
+      "probability(true|australian)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|true)" : 0.0,
+      "probability(true|american)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|true)" : 0.02692,
+      "probability(true|state)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|true)" : 0.0,
+      "probability(true|figure)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|true)" : 0.00385,
+      "probability(true|indian)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|true)" : 0.00769,
+      "probability(true|politique)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|true)" : 0.16154,
+      "probability(true|war)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|true)" : 0.03462,
+      "probability(true|candidate)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|true)" : 0.01154,
+      "probability(true|british)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|true)" : 0.00769,
+      "probability(true|homme)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|true)" : 0.03462,
+      "probability(true|liberal)" : 0.9
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|true)" : 0.02692,
+      "probability(true|seat)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|true)" : 0.06154,
+      "probability(true|party)" : 0.94118
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|true)" : 0.06538,
+      "probability(true|general)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|true)" : 0.04231,
+      "probability(true|mayor)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|true)" : 0.03846,
+      "probability(true|government)" : 0.90909
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|true)" : 0.00385,
+      "probability(true|politiker)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|true)" : 0.02692,
+      "probability(true|né)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|true)" : 0.07692,
+      "probability(true|provincial)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|true)" : 0.04615,
+      "probability(true|city)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|true)" : 0.01538,
+      "probability(true|lawyer)" : 0.8
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|true)" : 0.01154,
+      "probability(true|leader)" : 0.75
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|true)" : 0.05385,
+      "probability(true|minister)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|true)" : 0.0,
+      "probability(true|electoral)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|true)" : 0.0,
+      "probability(true|democratic)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|true)" : 0.96923,
+      "probability(true|er)" : 0.99605
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|true)" : 0.02308,
+      "probability(true|farmer)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|true)" : 0.01538,
+      "probability(true|office)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|true)" : 0.04615,
+      "probability(true|term)" : 0.92308
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|true)" : 0.04231,
+      "probability(true|family)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|true)" : 0.06154,
+      "probability(true|death)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|true)" : 0.06154,
+      "probability(true|conservative)" : 0.94118
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|true)" : 0.01154,
+      "probability(true|businessman)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|true)" : 0.00385,
+      "probability(true|。)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|true)" : 0.01154,
+      "probability(true|governor)" : 0.75
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|true)" : 0.0,
+      "probability(true|republican)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|true)" : 0.04615,
+      "probability(true|law)" : 0.92308
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|true)" : 0.0,
+      "probability(true|president)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|true)" : 0.05385,
+      "probability(true|time)" : 0.93333
+    }
+  } ]
+} ]

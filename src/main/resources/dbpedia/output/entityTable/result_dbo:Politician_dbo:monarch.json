@@ -1,0 +1,236 @@
+[ {
+  "objectIndex" : "9",
+  "property" : "dbo:monarch",
+  "object" : "http://dbpedia.org/resource/Elizabeth_II",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Elizabeth_II)" : 0.26923,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|member)" : 0.47222
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Elizabeth_II)" : 0.11538,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|legislative)" : 0.63636
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Elizabeth_II)" : 0.13462,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|assembly)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/Elizabeth_II)" : 0.23077,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|former)" : 0.70588
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/Elizabeth_II)" : 0.19231,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|election)" : 0.44
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/Elizabeth_II)" : 0.23077,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|son)" : 0.33333
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|http://dbpedia.org/resource/Elizabeth_II)" : 0.05769,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|political)" : 0.33333
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/Elizabeth_II)" : 0.03846,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|district)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Elizabeth_II)" : 0.42308,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|canadian)" : 0.67647
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://dbpedia.org/resource/Elizabeth_II)" : 0.21154,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|first)" : 0.48276
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/Elizabeth_II)" : 0.07692,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|australian)" : 0.71429
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Elizabeth_II)" : 0.01923,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|american)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Elizabeth_II)" : 0.09615,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|state)" : 0.29167
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|http://dbpedia.org/resource/Elizabeth_II)" : 0.09615,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|politique)" : 0.46154
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Elizabeth_II)" : 0.17308,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|war)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|http://dbpedia.org/resource/Elizabeth_II)" : 0.01923,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|candidate)" : 0.4
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|http://dbpedia.org/resource/Elizabeth_II)" : 0.11538,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|british)" : 0.19355
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|http://dbpedia.org/resource/Elizabeth_II)" : 0.09615,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|homme)" : 0.46154
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|http://dbpedia.org/resource/Elizabeth_II)" : 0.19231,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|liberal)" : 0.33333
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|http://dbpedia.org/resource/Elizabeth_II)" : 0.11538,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|seat)" : 0.54545
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|http://dbpedia.org/resource/Elizabeth_II)" : 0.32692,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|party)" : 0.42222
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|http://dbpedia.org/resource/Elizabeth_II)" : 0.07692,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|general)" : 0.16
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|http://dbpedia.org/resource/Elizabeth_II)" : 0.03846,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|mayor)" : 0.28571
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|http://dbpedia.org/resource/Elizabeth_II)" : 0.11538,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|government)" : 0.26923
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|http://dbpedia.org/resource/Elizabeth_II)" : 0.07692,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|politiker)" : 0.17391
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|http://dbpedia.org/resource/Elizabeth_II)" : 0.11538,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|né)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|http://dbpedia.org/resource/Elizabeth_II)" : 0.09615,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|provincial)" : 0.45455
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|http://dbpedia.org/resource/Elizabeth_II)" : 0.01923,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|city)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|http://dbpedia.org/resource/Elizabeth_II)" : 0.11538,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|lawyer)" : 0.36842
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|http://dbpedia.org/resource/Elizabeth_II)" : 0.23077,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|leader)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|http://dbpedia.org/resource/Elizabeth_II)" : 0.26923,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|minister)" : 0.30769
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|http://dbpedia.org/resource/Elizabeth_II)" : 0.01923,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|electoral)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|http://dbpedia.org/resource/Elizabeth_II)" : 0.0,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|democratic)" : 0.25
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Elizabeth_II)" : 0.98077,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|er)" : 0.30899
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|http://dbpedia.org/resource/Elizabeth_II)" : 0.03846,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|farmer)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|http://dbpedia.org/resource/Elizabeth_II)" : 0.11538,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|office)" : 0.29167
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|http://dbpedia.org/resource/Elizabeth_II)" : 0.07692,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|term)" : 0.36364
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|http://dbpedia.org/resource/Elizabeth_II)" : 0.05769,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|family)" : 0.21429
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|http://dbpedia.org/resource/Elizabeth_II)" : 0.03846,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|death)" : 0.27273
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|http://dbpedia.org/resource/Elizabeth_II)" : 0.17308,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|conservative)" : 0.45833
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|http://dbpedia.org/resource/Elizabeth_II)" : 0.11538,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|businessman)" : 0.875
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|http://dbpedia.org/resource/Elizabeth_II)" : 0.15385,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|governor)" : 0.30769
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|http://dbpedia.org/resource/Elizabeth_II)" : 0.0,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|republican)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|http://dbpedia.org/resource/Elizabeth_II)" : 0.13462,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|law)" : 0.28571
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|http://dbpedia.org/resource/Elizabeth_II)" : 0.07692,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|president)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|http://dbpedia.org/resource/Elizabeth_II)" : 0.13462,
+      "probability(http://dbpedia.org/resource/Elizabeth_II|time)" : 0.45
+    }
+  } ]
+} ]

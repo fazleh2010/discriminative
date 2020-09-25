@@ -1,0 +1,41 @@
+[ {
+  "objectIndex" : "34",
+  "property" : "dbp:term",
+  "object" : "4",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(19th-century|4)" : 0.8333333333,
+      "probability(4|19th-century)" : 0.2676767677
+    }
+  }, {
+    "probabilities" : {
+      "probability(parliament|4)" : 0.9,
+      "probability(4|parliament)" : 0.175
+    }
+  }, {
+    "probabilities" : {
+      "probability(electorate|4)" : 0.7166666667,
+      "probability(4|electorate)" : 0.201793722
+    }
+  }, {
+    "probabilities" : {
+      "probability(new|4)" : 0.9666666667,
+      "probability(4|new)" : 0.1363636364
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|4)" : 0.9833333333,
+      "probability(4|er)" : 0.0734265734
+    }
+  }, {
+    "probabilities" : {
+      "probability(region|4)" : 0.2,
+      "probability(4|region)" : 0.2131147541
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|4)" : 0.35,
+      "probability(4|son)" : 0.0673076923
+    }
+  } ]
+} ]

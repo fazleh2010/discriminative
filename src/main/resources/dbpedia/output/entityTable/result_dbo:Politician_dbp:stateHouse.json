@@ -1,0 +1,236 @@
+[ {
+  "objectIndex" : "25",
+  "property" : "dbp:stateHouse",
+  "object" : "North Carolina",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|North Carolina)" : 0.95946,
+      "probability(North Carolina|member)" : 0.46405
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|North Carolina)" : 0.09459,
+      "probability(North Carolina|legislative)" : 0.26923
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|North Carolina)" : 0.7973,
+      "probability(North Carolina|assembly)" : 0.80822
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|North Carolina)" : 0.21622,
+      "probability(North Carolina|former)" : 0.32
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|North Carolina)" : 0.24324,
+      "probability(North Carolina|election)" : 0.30508
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|North Carolina)" : 0.32432,
+      "probability(North Carolina|son)" : 0.42857
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|North Carolina)" : 0.04054,
+      "probability(North Carolina|political)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|North Carolina)" : 0.95946,
+      "probability(North Carolina|district)" : 0.40341
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|North Carolina)" : 0.0,
+      "probability(North Carolina|canadian)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|North Carolina)" : 0.0,
+      "probability(North Carolina|constituency)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|North Carolina)" : 0.22973,
+      "probability(North Carolina|first)" : 0.35417
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|North Carolina)" : 0.0,
+      "probability(North Carolina|australian)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|North Carolina)" : 0.16216,
+      "probability(North Carolina|american)" : 0.16
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|North Carolina)" : 0.87838,
+      "probability(North Carolina|state)" : 0.44828
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|North Carolina)" : 0.0,
+      "probability(North Carolina|figure)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|North Carolina)" : 0.01351,
+      "probability(North Carolina|indian)" : 0.33333
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|North Carolina)" : 0.0,
+      "probability(North Carolina|politique)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|North Carolina)" : 0.13514,
+      "probability(North Carolina|war)" : 0.34483
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|North Carolina)" : 0.02703,
+      "probability(North Carolina|candidate)" : 0.14286
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|North Carolina)" : 0.0,
+      "probability(North Carolina|homme)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|North Carolina)" : 0.0,
+      "probability(North Carolina|liberal)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|North Carolina)" : 0.08108,
+      "probability(North Carolina|seat)" : 0.27273
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|North Carolina)" : 0.05405,
+      "probability(North Carolina|party)" : 0.12121
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|North Carolina)" : 0.81081,
+      "probability(North Carolina|general)" : 0.75
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|North Carolina)" : 0.04054,
+      "probability(North Carolina|mayor)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|North Carolina)" : 0.04054,
+      "probability(North Carolina|government)" : 0.42857
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|North Carolina)" : 0.0,
+      "probability(North Carolina|provincial)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|North Carolina)" : 0.04054,
+      "probability(North Carolina|city)" : 0.1
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|North Carolina)" : 0.02703,
+      "probability(North Carolina|lawyer)" : 0.25
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|North Carolina)" : 0.05405,
+      "probability(North Carolina|leader)" : 0.22222
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|North Carolina)" : 0.0,
+      "probability(North Carolina|minister)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|North Carolina)" : 0.0,
+      "probability(North Carolina|electoral)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|North Carolina)" : 0.58108,
+      "probability(North Carolina|democratic)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|North Carolina)" : 1.0,
+      "probability(North Carolina|er)" : 0.34419
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|North Carolina)" : 0.02703,
+      "probability(North Carolina|farmer)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|North Carolina)" : 0.14865,
+      "probability(North Carolina|office)" : 0.36667
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|North Carolina)" : 0.55405,
+      "probability(North Carolina|term)" : 0.56944
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|North Carolina)" : 0.01351,
+      "probability(North Carolina|family)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|North Carolina)" : 0.02703,
+      "probability(North Carolina|conservative)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(businessman|North Carolina)" : 0.02703,
+      "probability(North Carolina|businessman)" : 0.22222
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|North Carolina)" : 0.0,
+      "probability(North Carolina|。)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|North Carolina)" : 0.04054,
+      "probability(North Carolina|governor)" : 0.17647
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|North Carolina)" : 0.39189,
+      "probability(North Carolina|republican)" : 0.29592
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|North Carolina)" : 0.12162,
+      "probability(North Carolina|law)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|North Carolina)" : 0.08108,
+      "probability(North Carolina|president)" : 0.28571
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|North Carolina)" : 0.06757,
+      "probability(North Carolina|time)" : 0.35714
+    }
+  } ]
+} ]

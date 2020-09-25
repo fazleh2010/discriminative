@@ -1,0 +1,7 @@
+1 ready
+1 council
+1 politician
+1 county
+1 campaign
+1 american
+1 slogan

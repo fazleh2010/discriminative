@@ -1,0 +1,126 @@
+[ {
+  "objectIndex" : "40",
+  "property" : "dbo:nationality",
+  "object" : "http://dbpedia.org/resource/France",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(politique|http://dbpedia.org/resource/France)" : 0.8907103825,
+      "probability(http://dbpedia.org/resource/France|politique)" : 0.8647214854
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|http://dbpedia.org/resource/France)" : 0.8961748634,
+      "probability(http://dbpedia.org/resource/France|né)" : 0.8019559902
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|http://dbpedia.org/resource/France)" : 0.7786885246,
+      "probability(http://dbpedia.org/resource/France|homme)" : 0.8878504673
+    }
+  }, {
+    "probabilities" : {
+      "probability(député|http://dbpedia.org/resource/France)" : 0.3114754098,
+      "probability(http://dbpedia.org/resource/France|député)" : 0.8837209302
+    }
+  }, {
+    "probabilities" : {
+      "probability(circonscription|http://dbpedia.org/resource/France)" : 0.1967213115,
+      "probability(http://dbpedia.org/resource/France|circonscription)" : 0.9473684211
+    }
+  }, {
+    "probabilities" : {
+      "probability(président|http://dbpedia.org/resource/France)" : 0.2131147541,
+      "probability(http://dbpedia.org/resource/France|président)" : 0.8387096774
+    }
+  }, {
+    "probabilities" : {
+      "probability(juin|http://dbpedia.org/resource/France)" : 0.1639344262,
+      "probability(http://dbpedia.org/resource/France|juin)" : 0.8450704225
+    }
+  }, {
+    "probabilities" : {
+      "probability(sénateur|http://dbpedia.org/resource/France)" : 0.1393442623,
+      "probability(http://dbpedia.org/resource/France|sénateur)" : 0.9807692308
+    }
+  }, {
+    "probabilities" : {
+      "probability(élu|http://dbpedia.org/resource/France)" : 0.1557377049,
+      "probability(http://dbpedia.org/resource/France|élu)" : 0.7916666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(française|http://dbpedia.org/resource/France)" : 0.1229508197,
+      "probability(http://dbpedia.org/resource/France|française)" : 0.9574468085
+    }
+  }, {
+    "probabilities" : {
+      "probability(septembre|http://dbpedia.org/resource/France)" : 0.1420765027,
+      "probability(http://dbpedia.org/resource/France|septembre)" : 0.8
+    }
+  }, {
+    "probabilities" : {
+      "probability(été|http://dbpedia.org/resource/France)" : 0.1338797814,
+      "probability(http://dbpedia.org/resource/France|été)" : 0.7903225806
+    }
+  }, {
+    "probabilities" : {
+      "probability(décembre|http://dbpedia.org/resource/France)" : 0.0983606557,
+      "probability(http://dbpedia.org/resource/France|décembre)" : 0.8780487805
+    }
+  }, {
+    "probabilities" : {
+      "probability(février|http://dbpedia.org/resource/France)" : 0.0983606557,
+      "probability(http://dbpedia.org/resource/France|février)" : 0.8372093023
+    }
+  }, {
+    "probabilities" : {
+      "probability(novembre|http://dbpedia.org/resource/France)" : 0.0956284153,
+      "probability(http://dbpedia.org/resource/France|novembre)" : 0.8536585366
+    }
+  }, {
+    "probabilities" : {
+      "probability(janvier|http://dbpedia.org/resource/France)" : 0.0956284153,
+      "probability(http://dbpedia.org/resource/France|janvier)" : 0.7954545455
+    }
+  }, {
+    "probabilities" : {
+      "probability(au|http://dbpedia.org/resource/France)" : 0.4945355191,
+      "probability(http://dbpedia.org/resource/France|au)" : 0.1486042693
+    }
+  }, {
+    "probabilities" : {
+      "probability(juillet|http://dbpedia.org/resource/France)" : 0.0901639344,
+      "probability(http://dbpedia.org/resource/France|juillet)" : 0.8048780488
+    }
+  }, {
+    "probabilities" : {
+      "probability(mp|http://dbpedia.org/resource/France)" : 0.3196721311,
+      "probability(http://dbpedia.org/resource/France|mp)" : 0.224137931
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/France)" : 0.6612021858,
+      "probability(http://dbpedia.org/resource/France|er)" : 0.1011705686
+    }
+  }, {
+    "probabilities" : {
+      "probability(née|http://dbpedia.org/resource/France)" : 0.1256830601,
+      "probability(http://dbpedia.org/resource/France|née)" : 0.4946236559
+    }
+  }, {
+    "probabilities" : {
+      "probability(femme|http://dbpedia.org/resource/France)" : 0.0819672131,
+      "probability(http://dbpedia.org/resource/France|femme)" : 0.6818181818
+    }
+  }, {
+    "probabilities" : {
+      "probability(avril|http://dbpedia.org/resource/France)" : 0.0737704918,
+      "probability(http://dbpedia.org/resource/France|avril)" : 0.7297297297
+    }
+  }, {
+    "probabilities" : {
+      "probability(une|http://dbpedia.org/resource/France)" : 0.1775956284,
+      "probability(http://dbpedia.org/resource/France|une)" : 0.2083333333
+    }
+  } ]
+} ]

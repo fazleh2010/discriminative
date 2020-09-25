@@ -1,0 +1,9 @@
+1 somali
+1 constitution
+1 minister
+1 author
+1 politician
+1 justice
+1 aaden
+1 حرسي
+1 religion

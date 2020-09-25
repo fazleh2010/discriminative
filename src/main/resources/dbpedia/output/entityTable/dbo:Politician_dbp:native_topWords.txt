@@ -1,0 +1,6 @@
+2 assembly
+2 legislative
+1 election
+1 constituency
+1 politician
+1 indian

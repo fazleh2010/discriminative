@@ -1,0 +1,13 @@
+1 profession
+1 mp
+1 election
+1 by-election
+1 former
+1 defeat
+1 senior
+1 executive
+1 teacher
+1 constituency
+1 federal
+1 first
+1 liberal

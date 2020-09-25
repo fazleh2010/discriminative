@@ -1,0 +1,21 @@
+[ {
+  "objectIndex" : "17",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly)" : 0.9795918367,
+      "probability(http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly|australian)" : 0.1202775636
+    }
+  }, {
+    "probabilities" : {
+      "probability(labor|http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly)" : 0.5510204082,
+      "probability(http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly|labor)" : 0.1076923077
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly)" : 0.9523809524,
+      "probability(http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly|assembly)" : 0.0301446945
+    }
+  } ]
+} ]

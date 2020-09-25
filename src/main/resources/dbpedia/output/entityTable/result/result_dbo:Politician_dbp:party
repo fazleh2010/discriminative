@@ -1,0 +1,171 @@
+[ {
+  "objectIndex" : "42",
+  "property" : "dbp:party",
+  "object" : "Democratic Party",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(district|Democratic Party)" : 0.4375,
+      "probability(Democratic Party|district)" : 0.42
+    }
+  }, {
+    "probabilities" : {
+      "probability(us-amerikanischer|Democratic Party)" : 0.1979166667,
+      "probability(Democratic Party|us-amerikanischer)" : 0.7916666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(senate|Democratic Party)" : 0.28125,
+      "probability(Democratic Party|senate)" : 0.5294117647
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|Democratic Party)" : 0.3020833333,
+      "probability(Democratic Party|republican)" : 0.447761194
+    }
+  }, {
+    "probabilities" : {
+      "probability(county|Democratic Party)" : 0.3125,
+      "probability(Democratic Party|county)" : 0.4166666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|Democratic Party)" : 0.9791666667,
+      "probability(Democratic Party|er)" : 0.1278600269
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|Democratic Party)" : 0.4270833333,
+      "probability(Democratic Party|state)" : 0.2763157895
+    }
+  }, {
+    "probabilities" : {
+      "probability(public|Democratic Party)" : 0.3541666667,
+      "probability(Democratic Party|public)" : 0.3211009174
+    }
+  }, {
+    "probabilities" : {
+      "probability(current|Democratic Party)" : 0.1875,
+      "probability(Democratic Party|current)" : 0.4864864865
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|Democratic Party)" : 0.21875,
+      "probability(Democratic Party|politiker)" : 0.4038461538
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|Democratic Party)" : 0.2083333333,
+      "probability(Democratic Party|democratic)" : 0.4081632653
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|Democratic Party)" : 0.2916666667,
+      "probability(Democratic Party|american)" : 0.2641509434
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|Democratic Party)" : 0.15625,
+      "probability(Democratic Party|indian)" : 0.4444444444
+    }
+  }, {
+    "probabilities" : {
+      "probability(im|Democratic Party)" : 0.3541666667,
+      "probability(Democratic Party|im)" : 0.1635514019
+    }
+  }, {
+    "probabilities" : {
+      "probability(der|Democratic Party)" : 0.3229166667,
+      "probability(Democratic Party|der)" : 0.167539267
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|Democratic Party)" : 0.1979166667,
+      "probability(Democratic Party|former)" : 0.2261904762
+    }
+  }, {
+    "probabilities" : {
+      "probability(seit|Democratic Party)" : 0.0833333333,
+      "probability(Democratic Party|seit)" : 0.5333333333
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Democratic Party)" : 0.28125,
+      "probability(Democratic Party|election)" : 0.1513513514
+    }
+  }, {
+    "probabilities" : {
+      "probability(part|Democratic Party)" : 0.2916666667,
+      "probability(Democratic Party|part)" : 0.1198347107
+    }
+  }, {
+    "probabilities" : {
+      "probability(den|Democratic Party)" : 0.25,
+      "probability(Democratic Party|den)" : 0.1351351351
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|Democratic Party)" : 0.2291666667,
+      "probability(Democratic Party|war)" : 0.1402439024
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|Democratic Party)" : 0.1770833333,
+      "probability(Democratic Party|city)" : 0.1789473684
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Democratic Party)" : 0.375,
+      "probability(Democratic Party|member)" : 0.0818181818
+    }
+  }, {
+    "probabilities" : {
+      "probability(incumbent|Democratic Party)" : 0.0833333333,
+      "probability(Democratic Party|incumbent)" : 0.3636363636
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Democratic Party)" : 0.25,
+      "probability(Democratic Party|son)" : 0.12
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|Democratic Party)" : 0.09375,
+      "probability(Democratic Party|governor)" : 0.2857142857
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Democratic Party)" : 0.1458333333,
+      "probability(Democratic Party|assembly)" : 0.1728395062
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|Democratic Party)" : 0.1145833333,
+      "probability(Democratic Party|candidate)" : 0.2181818182
+    }
+  }, {
+    "probabilities" : {
+      "probability(primary|Democratic Party)" : 0.0625,
+      "probability(Democratic Party|primary)" : 0.375
+    }
+  }, {
+    "probabilities" : {
+      "probability(position|Democratic Party)" : 0.09375,
+      "probability(Democratic Party|position)" : 0.2307692308
+    }
+  }, {
+    "probabilities" : {
+      "probability(attorney|Democratic Party)" : 0.0729166667,
+      "probability(Democratic Party|attorney)" : 0.2916666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|Democratic Party)" : 0.1041666667,
+      "probability(Democratic Party|office)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|Democratic Party)" : 0.1458333333,
+      "probability(Democratic Party|general)" : 0.1428571429
+    }
+  } ]
+} ]

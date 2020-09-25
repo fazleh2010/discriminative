@@ -1,0 +1,9 @@
+1 famous
+1 province
+1 dynasty
+1 native
+1 level
+1 work
+1 masters
+1 scholar
+1 poetry

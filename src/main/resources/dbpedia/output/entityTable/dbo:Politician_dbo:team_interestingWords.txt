@@ -1,0 +1,6 @@
+2 chileno
+1 actual
+1 futbolista
+1 ex-futbolista
+1 club
+1 amateur

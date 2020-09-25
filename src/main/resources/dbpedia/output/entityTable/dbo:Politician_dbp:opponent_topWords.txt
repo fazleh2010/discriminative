@@ -1,0 +1,12 @@
+1 southwest
+1 candidate
+1 congressional
+1 election
+1 politician
+1 district
+1 unsuccessful
+1 2nd
+1 member
+1 nominee
+1 american
+1 former

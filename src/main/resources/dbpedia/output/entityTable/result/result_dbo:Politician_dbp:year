@@ -1,0 +1,216 @@
+[ {
+  "objectIndex" : "15",
+  "property" : "dbp:year",
+  "object" : "2006",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|2006)" : 0.9459459459,
+      "probability(2006|member)" : 0.6306306306
+    }
+  }, {
+    "probabilities" : {
+      "probability(lok|2006)" : 0.9189189189,
+      "probability(2006|lok)" : 0.6476190476
+    }
+  }, {
+    "probabilities" : {
+      "probability(14th|2006)" : 0.7297297297,
+      "probability(2006|14th)" : 0.7826086957
+    }
+  }, {
+    "probabilities" : {
+      "probability(sabha|2006)" : 0.9189189189,
+      "probability(2006|sabha)" : 0.6181818182
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|2006)" : 1.0,
+      "probability(2006|er)" : 0.5362318841
+    }
+  }, {
+    "probabilities" : {
+      "probability(4th|2006)" : 0.7432432432,
+      "probability(2006|4th)" : 0.7051282051
+    }
+  }, {
+    "probabilities" : {
+      "probability(congress|2006)" : 0.8108108108,
+      "probability(2006|congress)" : 0.5825242718
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|2006)" : 0.8108108108,
+      "probability(2006|indian)" : 0.5405405405
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|2006)" : 0.6216216216,
+      "probability(2006|party)" : 0.5897435897
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|2006)" : 0.5675675676,
+      "probability(2006|political)" : 0.6268656716
+    }
+  }, {
+    "probabilities" : {
+      "probability(pradesh|2006)" : 0.2567567568,
+      "probability(2006|pradesh)" : 0.5135135135
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|2006)" : 0.2297297297,
+      "probability(2006|election)" : 0.5666666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|2006)" : 0.2432432432,
+      "probability(2006|minister)" : 0.45
+    }
+  }, {
+    "probabilities" : {
+      "probability(15th|2006)" : 0.1621621622,
+      "probability(2006|15th)" : 0.6666666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(politician|2006)" : 0.2702702703,
+      "probability(2006|politician)" : 0.3636363636
+    }
+  }, {
+    "probabilities" : {
+      "probability(5th|2006)" : 0.1621621622,
+      "probability(2006|5th)" : 0.5454545455
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|2006)" : 0.1486486486,
+      "probability(2006|candidate)" : 0.5789473684
+    }
+  }, {
+    "probabilities" : {
+      "probability(februar|2006)" : 0.1216216216,
+      "probability(2006|februar)" : 0.6923076923
+    }
+  }, {
+    "probabilities" : {
+      "probability(im|2006)" : 0.1891891892,
+      "probability(2006|im)" : 0.4117647059
+    }
+  }, {
+    "probabilities" : {
+      "probability(ticket|2006)" : 0.0810810811,
+      "probability(2006|ticket)" : 0.8571428571
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|2006)" : 0.1351351351,
+      "probability(2006|former)" : 0.4761904762
+    }
+  }, {
+    "probabilities" : {
+      "probability(mp|2006)" : 0.1486486486,
+      "probability(2006|mp)" : 0.3928571429
+    }
+  }, {
+    "probabilities" : {
+      "probability(den|2006)" : 0.1486486486,
+      "probability(2006|den)" : 0.3333333333
+    }
+  }, {
+    "probabilities" : {
+      "probability(parliament|2006)" : 0.1351351351,
+      "probability(2006|parliament)" : 0.3571428571
+    }
+  }, {
+    "probabilities" : {
+      "probability(front|2006)" : 0.0405405405,
+      "probability(2006|front)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(cabinet|2006)" : 0.0810810811,
+      "probability(2006|cabinet)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|2006)" : 0.1351351351,
+      "probability(2006|state)" : 0.2777777778
+    }
+  }, {
+    "probabilities" : {
+      "probability(high|2006)" : 0.0675675676,
+      "probability(2006|high)" : 0.5555555556
+    }
+  }, {
+    "probabilities" : {
+      "probability(bjp|2006)" : 0.0675675676,
+      "probability(2006|bjp)" : 0.5555555556
+    }
+  }, {
+    "probabilities" : {
+      "probability(mla|2006)" : 0.0810810811,
+      "probability(2006|mla)" : 0.4615384615
+    }
+  }, {
+    "probabilities" : {
+      "probability(wife|2006)" : 0.0540540541,
+      "probability(2006|wife)" : 0.6666666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(12th|2006)" : 0.0540540541,
+      "probability(2006|12th)" : 0.6666666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|2006)" : 0.0675675676,
+      "probability(2006|seat)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(11th|2006)" : 0.0540540541,
+      "probability(2006|11th)" : 0.5714285714
+    }
+  }, {
+    "probabilities" : {
+      "probability(consecutive|2006)" : 0.0405405405,
+      "probability(2006|consecutive)" : 0.75
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|2006)" : 0.0945945946,
+      "probability(2006|assembly)" : 0.3043478261
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|2006)" : 0.0675675676,
+      "probability(2006|time)" : 0.4166666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|2006)" : 0.0675675676,
+      "probability(2006|leader)" : 0.3846153846
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|2006)" : 0.0675675676,
+      "probability(2006|government)" : 0.3846153846
+    }
+  }, {
+    "probabilities" : {
+      "probability(active|2006)" : 0.0405405405,
+      "probability(2006|active)" : 0.6
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|2006)" : 0.0540540541,
+      "probability(2006|term)" : 0.4
+    }
+  }, {
+    "probabilities" : {
+      "probability(13th|2006)" : 0.0405405405,
+      "probability(2006|13th)" : 0.5
+    }
+  } ]
+} ]

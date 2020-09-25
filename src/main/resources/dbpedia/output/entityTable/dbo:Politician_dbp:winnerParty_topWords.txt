@@ -1,0 +1,8 @@
+1 owner
+1 realtor
+1 legislator
+1 profile
+1 linkedin
+1 state
+1 operator
+1 former

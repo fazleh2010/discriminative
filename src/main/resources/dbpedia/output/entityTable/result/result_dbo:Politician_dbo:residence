@@ -1,0 +1,36 @@
+[ {
+  "objectIndex" : "20",
+  "property" : "dbo:residence",
+  "object" : "http://dbpedia.org/resource/Maryland",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Maryland)" : 0.7719298246,
+      "probability(http://dbpedia.org/resource/Maryland|american)" : 0.0879541109
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/Maryland)" : 0.701754386,
+      "probability(http://dbpedia.org/resource/Maryland|district)" : 0.0516826923
+    }
+  }, {
+    "probabilities" : {
+      "probability(chair|http://dbpedia.org/resource/Maryland)" : 0.350877193,
+      "probability(http://dbpedia.org/resource/Maryland|chair)" : 0.0662251656
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Maryland)" : 0.9824561404,
+      "probability(http://dbpedia.org/resource/Maryland|er)" : 0.0207819655
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Maryland)" : 0.4385964912,
+      "probability(http://dbpedia.org/resource/Maryland|legislative)" : 0.0457875458
+    }
+  }, {
+    "probabilities" : {
+      "probability(chairman|http://dbpedia.org/resource/Maryland)" : 0.2280701754,
+      "probability(http://dbpedia.org/resource/Maryland|chairman)" : 0.0878378378
+    }
+  } ]
+} ]

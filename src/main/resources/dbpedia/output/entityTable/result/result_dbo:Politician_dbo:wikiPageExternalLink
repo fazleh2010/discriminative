@@ -1,0 +1,46 @@
+[ {
+  "objectIndex" : "41",
+  "property" : "dbo:wikiPageExternalLink",
+  "object" : "https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(level|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.616,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|level)" : 0.3532110092
+    }
+  }, {
+    "probabilities" : {
+      "probability(caucus|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.648,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|caucus)" : 0.2356321839
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.912,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|provincial)" : 0.1617440225
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.952,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|legislative)" : 0.0884955752
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.952,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|assembly)" : 0.0743955363
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.952,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|member)" : 0.0407747197
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.368,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|conservative)" : 0.0845588235
+    }
+  }, {
+    "probabilities" : {
+      "probability(au|https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf)" : 0.704,
+      "probability(https://www.assembly.ab.ca/legislaturecentennial/pdf/membersBooklet.pdf|au)" : 0.0316789863
+    }
+  } ]
+} ]

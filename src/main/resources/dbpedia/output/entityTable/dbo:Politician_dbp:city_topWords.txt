@@ -1,0 +1,11 @@
+1 journalist
+1 anti-corruption
+1 television
+1 ombudsman
+1 politician
+1 anchor
+1 spokesperson
+1 campaign
+1 bill
+1 movement
+1 indian

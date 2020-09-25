@@ -1,0 +1,667 @@
+[ {
+  "entityIndex" : "entity19787",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Deschanel__France-politician-stub__1",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19788",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%85slaug_Haga",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19789",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%B0smail_Cem_%C4%B0pek%C3%A7i",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19790",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%85sa_Westlund",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19791",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Flourens",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19792",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Frank",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19793",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Deshayes_de_Marc%C3%A8re",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19794",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%93scar_Ram%C3%ADrez",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19795",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%81ukasz_Zbonikowski",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19796",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Goubert",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19797",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%81ukasz_Abgarowicz",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19798",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Fillias",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19799",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Grinda",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19800",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89ric_Raoult",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19801",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Pinte",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19802",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%81ukasz_Kowalski",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19803",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89lisabeth_Hubert",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19804",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_H._L%C3%A9ger",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19805",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_S._L%C3%A9ger",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19806",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%8Dtalo_Argentino_L%C3%BAder",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19807",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Muller",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19808",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89liane_Assassi",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19809",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89velyne_Didier",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19810",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89lisabeth_Lamure",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19811",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Courtial",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19812",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Blessig",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19813",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89ric_Ciotti",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19814",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89lie_Aboud",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19815",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89ric_Diard",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19816",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Blanc",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19817",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89ric_Straumann",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19818",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Mourrut__France-politician-UMP-stub__1",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19819",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%8Aensu_Galea",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19820",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Christophe_Maignet",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19821",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81d%C3%A1m_K%C3%B3sa",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19822",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81gnes_Hankiss",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19823",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89ric_Dolig%C3%A9",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19824",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%A0u%C5%BC%C3%A8_Ellul_Mercer",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19825",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%96mer_Din%C3%A7er",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19826",
+  "entityUrl" : "http://dbpedia.org/resource/%C8%98tefan_Maimescu",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19827",
+  "entityUrl" : "http://dbpedia.org/resource/%C8%98tefan_Ciobanu",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19828",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%B0brahim_Bilgen",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19829",
+  "entityUrl" : "http://dbpedia.org/resource/%C8%98tefan_Ur%C3%A2tu",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19830",
+  "entityUrl" : "http://dbpedia.org/resource/%C8%98tefan_Sec%C4%83reanu",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19831",
+  "entityUrl" : "http://dbpedia.org/resource/%C8%98tefan_Gorda",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19832",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%B0smet_Y%C4%B1lmaz",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19833",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%93l%C3%ADna_%C3%9Eorvar%C3%B0ard%C3%B3ttir",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19834",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%9E%C3%B3r_Saari",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19835",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Regnault",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19836",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%B0dris_Naim_%C5%9Eahin",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19837",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_de_La_Grange",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19838",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Cl%C3%A9mentel",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19839",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89milie_Thuillier",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19840",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%90inh_Xu%C3%A2n_L%C6%B0u",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19841",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Broussais",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19842",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Barthe",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19843",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Bamberger",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19844",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Beaussire",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19845",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Aynard",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19846",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Rognon",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19847",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Berlia",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19848",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%9Eener_Eruygur",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19849",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89laine_Ayotte",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19850",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%9Eamil_Tayyar",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19851",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%96zden_%C3%96rnek",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19852",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%9E%C3%BCkr%C3%BC_Sar%C4%B1%C4%B1%C5%9F%C4%B1k",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19853",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%9Eerafettin_El%C3%A7i",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19854",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%B0nal_Batu",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19855",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%B0dris_G%C3%BCll%C3%BCce",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19856",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%93scar_Gonz%C3%A1lez_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity19857",
+  "entityUrl" : "http://dbpedia.org/resource/%22Big%22_Donnie_MacLeod",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthDate" : [ "1928-12-11" ],
+    "dbo:deathDate" : [ "2003-01-03", "2003-1-3" ],
+    "dbo:orderInOffice" : [ "MLAforCape Breton West" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Russell_MacKinnon" ],
+    "dbo:wikiPageID" : [ "44296440" ],
+    "dbo:wikiPageRevisionID" : [ "708189234" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Nova_Scotia_general_election,_1978", "http://dbpedia.org/resource/Nova_Scotia_general_election,_1981", "http://dbpedia.org/resource/Nova_Scotia_general_election,_1988", "http://dbpedia.org/resource/Nova_Scotia_general_election,_1984", "http://dbpedia.org/resource/Category:1928_births", "http://dbpedia.org/resource/Category:2003_deaths", "http://dbpedia.org/resource/Category:Progressive_Conservative_Association_of_Nova_Scotia_MLAs", "http://dbpedia.org/resource/Cape_Breton_County,_Nova_Scotia", "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia", "http://dbpedia.org/resource/Marion_Bridge,_Nova_Scotia", "http://dbpedia.org/resource/Nova_Scotia_House_of_Assembly", "http://dbpedia.org/resource/Cape_Breton_West", "http://dbpedia.org/resource/David_Muise", "http://dbpedia.org/resource/Electoral_district_(Canada)", "http://dbpedia.org/resource/Category:Nova_Scotia_municipal_councillors", "http://dbpedia.org/resource/Russell_MacKinnon" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/David_Muise" ],
+    "dbp:termEnd" : [ "1988" ],
+    "dbp:termStart" : [ "1981" ]
+  },
+  "words" : [ "``", "MacLeod", "23", "-LRB-", "Canadian", "electoral", "County", "years", "Donald", "December", "Party", "2003", "member", "represented", "January", "councillor", "Donnie", "Assembly", "''", "11", "--", "Big", "Scotia", "West", "politician", "Nova", "House", "Breton", ",", "Cape", ".", "Progressive", "Archie", "3", "1981", "Born", "district", "Conservative", "served", "-RRB-", "1928", "municipal", "Marion", "Bridge", "1988" ],
+  "adjectives" : [ "Canadian", "electoral", "municipal" ],
+  "nouns" : [ "politician", "district", "member", "councillor" ],
+  "text" : "Donald Archie \"Big Donnie\" MacLeod (December 11, 1928 – January 3, 2003) was a Canadian politician. He represented the electoral district of Cape Breton West in the Nova Scotia House of Assembly from 1981 to 1988. He was a member of the Progressive Conservative Party of Nova Scotia. Born in 1928 at Marion Bridge, Nova Scotia, MacLeod served 23 years as a municipal councillor for Cape Breton County. MacLeod first attempted to enter provincial politics in the 1978 election, finishing third in the Cape Breton West riding. MacLeod ran again in the 1981 election, and defeated the incumbent David Muise by 390 votes to win the seat. He was re-elected in the 1984 election, defeating Liberal Russell MacKinnon by 1,110 votes. He was defeated by MacKinnon when he ran for re-election in 1988. MacLeod died on January 3, 2003."
+}, {
+  "entityIndex" : "entity19858",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81lvaro_Zamith",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

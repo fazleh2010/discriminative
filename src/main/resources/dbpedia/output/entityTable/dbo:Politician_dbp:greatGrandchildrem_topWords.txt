@@ -1,0 +1,7 @@
+1 insurance
+1 attorney
+1 politician
+1 democratic
+1 american
+1 businessman
+1 commissioner

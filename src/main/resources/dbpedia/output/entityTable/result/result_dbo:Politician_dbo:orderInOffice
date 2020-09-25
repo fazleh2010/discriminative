@@ -1,0 +1,36 @@
+[ {
+  "objectIndex" : "16",
+  "property" : "dbo:orderInOffice",
+  "object" : "Member of theSejm",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(polnischer|Member of theSejm)" : 0.5714285714,
+      "probability(Member of theSejm|polnischer)" : 0.367816092
+    }
+  }, {
+    "probabilities" : {
+      "probability(seit|Member of theSejm)" : 0.4107142857,
+      "probability(Member of theSejm|seit)" : 0.1216931217
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|Member of theSejm)" : 0.6785714286,
+      "probability(Member of theSejm|politiker)" : 0.0631229236
+    }
+  }, {
+    "probabilities" : {
+      "probability(für|Member of theSejm)" : 0.375,
+      "probability(Member of theSejm|für)" : 0.1024390244
+    }
+  }, {
+    "probabilities" : {
+      "probability(polish|Member of theSejm)" : 0.2142857143,
+      "probability(Member of theSejm|polish)" : 0.1016949153
+    }
+  }, {
+    "probabilities" : {
+      "probability(eine|Member of theSejm)" : 0.3214285714,
+      "probability(Member of theSejm|eine)" : 0.0664206642
+    }
+  } ]
+} ]

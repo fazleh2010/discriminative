@@ -1,0 +1,101 @@
+[ {
+  "objectIndex" : "5",
+  "property" : "dbp:occupation",
+  "object" : "Politician",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(，|Politician)" : 0.4106145251,
+      "probability(Politician|，)" : 0.8457142857
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|Politician)" : 0.4162011173,
+      "probability(Politician|。)" : 0.8241758242
+    }
+  }, {
+    "probabilities" : {
+      "probability(（|Politician)" : 0.3659217877,
+      "probability(Politician|（)" : 0.835443038
+    }
+  }, {
+    "probabilities" : {
+      "probability(）|Politician)" : 0.3631284916,
+      "probability(Politician|）)" : 0.8343949045
+    }
+  }, {
+    "probabilities" : {
+      "probability(malaysian|Politician)" : 0.1536312849,
+      "probability(Politician|malaysian)" : 0.7567567568
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|Politician)" : 0.5754189944,
+      "probability(Politician|er)" : 0.095676173
+    }
+  }, {
+    "probabilities" : {
+      "probability(im|Politician)" : 0.2960893855,
+      "probability(Politician|im)" : 0.1589895988
+    }
+  }, {
+    "probabilities" : {
+      "probability(patronymic|Politician)" : 0.0586592179,
+      "probability(Politician|patronymic)" : 0.7777777778
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|Politician)" : 0.2150837989,
+      "probability(Politician|minister)" : 0.1788990826
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|Politician)" : 0.248603352,
+      "probability(Politician|party)" : 0.1435483871
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|Politician)" : 0.1061452514,
+      "probability(Politician|family)" : 0.3333333333
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|Politician)" : 0.0837988827,
+      "probability(Politician|constituency)" : 0.3797468354
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Politician)" : 0.3324022346,
+      "probability(Politician|member)" : 0.0939440994
+    }
+  }, {
+    "probabilities" : {
+      "probability(deputy|Politician)" : 0.0977653631,
+      "probability(Politician|deputy)" : 0.2845528455
+    }
+  }, {
+    "probabilities" : {
+      "probability(name|Politician)" : 0.1089385475,
+      "probability(Politician|name)" : 0.2280701754
+    }
+  }, {
+    "probabilities" : {
+      "probability(den|Politician)" : 0.1731843575,
+      "probability(Politician|den)" : 0.1257606491
+    }
+  }, {
+    "probabilities" : {
+      "probability(person|Politician)" : 0.0754189944,
+      "probability(Politician|person)" : 0.2872340426
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Politician)" : 0.1731843575,
+      "probability(Politician|election)" : 0.1225296443
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|Politician)" : 0.1452513966,
+      "probability(Politician|state)" : 0.1420911528
+    }
+  } ]
+} ]

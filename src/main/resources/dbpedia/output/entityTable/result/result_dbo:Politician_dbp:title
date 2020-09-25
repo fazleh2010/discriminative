@@ -1,0 +1,16 @@
+[ {
+  "objectIndex" : "2",
+  "property" : "dbp:title",
+  "object" : "http://dbpedia.org/resource/List_of_mayors_of_Norwalk,_Connecticut",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(mayor|http://dbpedia.org/resource/List_of_mayors_of_Norwalk,_Connecticut)" : 0.6621621622,
+      "probability(http://dbpedia.org/resource/List_of_mayors_of_Norwalk,_Connecticut|mayor)" : 0.0914076782
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|http://dbpedia.org/resource/List_of_mayors_of_Norwalk,_Connecticut)" : 0.5540540541,
+      "probability(http://dbpedia.org/resource/List_of_mayors_of_Norwalk,_Connecticut|term)" : 0.0893617021
+    }
+  } ]
+} ]

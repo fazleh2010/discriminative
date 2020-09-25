@@ -1,0 +1,201 @@
+[ {
+  "objectIndex" : "34",
+  "property" : "dbp:citizenship",
+  "object" : "http://dbpedia.org/resource/Malaysian_people",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Malaysian_people)" : 0.3871,
+      "probability(http://dbpedia.org/resource/Malaysian_people|member)" : 0.59016
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Malaysian_people)" : 0.07527,
+      "probability(http://dbpedia.org/resource/Malaysian_people|legislative)" : 0.46667
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Malaysian_people)" : 0.16129,
+      "probability(http://dbpedia.org/resource/Malaysian_people|assembly)" : 0.45455
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/Malaysian_people)" : 0.12903,
+      "probability(http://dbpedia.org/resource/Malaysian_people|former)" : 0.6
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/Malaysian_people)" : 0.17204,
+      "probability(http://dbpedia.org/resource/Malaysian_people|election)" : 0.72727
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/Malaysian_people)" : 0.25806,
+      "probability(http://dbpedia.org/resource/Malaysian_people|son)" : 0.8
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|http://dbpedia.org/resource/Malaysian_people)" : 0.05376,
+      "probability(http://dbpedia.org/resource/Malaysian_people|political)" : 0.55556
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|http://dbpedia.org/resource/Malaysian_people)" : 0.05376,
+      "probability(http://dbpedia.org/resource/Malaysian_people|constituency)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://dbpedia.org/resource/Malaysian_people)" : 0.11828,
+      "probability(http://dbpedia.org/resource/Malaysian_people|first)" : 0.61111
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Malaysian_people)" : 0.01075,
+      "probability(http://dbpedia.org/resource/Malaysian_people|american)" : 0.33333
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Malaysian_people)" : 0.26882,
+      "probability(http://dbpedia.org/resource/Malaysian_people|state)" : 0.69444
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|http://dbpedia.org/resource/Malaysian_people)" : 0.02151,
+      "probability(http://dbpedia.org/resource/Malaysian_people|figure)" : 0.66667
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/Malaysian_people)" : 0.04301,
+      "probability(http://dbpedia.org/resource/Malaysian_people|indian)" : 0.30769
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Malaysian_people)" : 0.04301,
+      "probability(http://dbpedia.org/resource/Malaysian_people|war)" : 0.23529
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|http://dbpedia.org/resource/Malaysian_people)" : 0.07527,
+      "probability(http://dbpedia.org/resource/Malaysian_people|candidate)" : 0.63636
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|http://dbpedia.org/resource/Malaysian_people)" : 0.01075,
+      "probability(http://dbpedia.org/resource/Malaysian_people|british)" : 0.25
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|http://dbpedia.org/resource/Malaysian_people)" : 0.15054,
+      "probability(http://dbpedia.org/resource/Malaysian_people|seat)" : 0.82353
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|http://dbpedia.org/resource/Malaysian_people)" : 0.23656,
+      "probability(http://dbpedia.org/resource/Malaysian_people|party)" : 0.55
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|http://dbpedia.org/resource/Malaysian_people)" : 0.09677,
+      "probability(http://dbpedia.org/resource/Malaysian_people|general)" : 0.45
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|http://dbpedia.org/resource/Malaysian_people)" : 0.11828,
+      "probability(http://dbpedia.org/resource/Malaysian_people|government)" : 0.55
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|http://dbpedia.org/resource/Malaysian_people)" : 0.02151,
+      "probability(http://dbpedia.org/resource/Malaysian_people|politiker)" : 0.28571
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|http://dbpedia.org/resource/Malaysian_people)" : 0.01075,
+      "probability(http://dbpedia.org/resource/Malaysian_people|city)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(lawyer|http://dbpedia.org/resource/Malaysian_people)" : 0.05376,
+      "probability(http://dbpedia.org/resource/Malaysian_people|lawyer)" : 0.71429
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|http://dbpedia.org/resource/Malaysian_people)" : 0.04301,
+      "probability(http://dbpedia.org/resource/Malaysian_people|leader)" : 0.44444
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|http://dbpedia.org/resource/Malaysian_people)" : 0.35484,
+      "probability(http://dbpedia.org/resource/Malaysian_people|minister)" : 0.63462
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|http://dbpedia.org/resource/Malaysian_people)" : 0.0,
+      "probability(http://dbpedia.org/resource/Malaysian_people|electoral)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|http://dbpedia.org/resource/Malaysian_people)" : 0.08602,
+      "probability(http://dbpedia.org/resource/Malaysian_people|democratic)" : 0.72727
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Malaysian_people)" : 0.51613,
+      "probability(http://dbpedia.org/resource/Malaysian_people|er)" : 0.48485
+    }
+  }, {
+    "probabilities" : {
+      "probability(farmer|http://dbpedia.org/resource/Malaysian_people)" : 0.0,
+      "probability(http://dbpedia.org/resource/Malaysian_people|farmer)" : "NaN"
+    }
+  }, {
+    "probabilities" : {
+      "probability(office|http://dbpedia.org/resource/Malaysian_people)" : 0.10753,
+      "probability(http://dbpedia.org/resource/Malaysian_people|office)" : 0.71429
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|http://dbpedia.org/resource/Malaysian_people)" : 0.06452,
+      "probability(http://dbpedia.org/resource/Malaysian_people|term)" : 0.75
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|http://dbpedia.org/resource/Malaysian_people)" : 0.29032,
+      "probability(http://dbpedia.org/resource/Malaysian_people|family)" : 0.87097
+    }
+  }, {
+    "probabilities" : {
+      "probability(death|http://dbpedia.org/resource/Malaysian_people)" : 0.01075,
+      "probability(http://dbpedia.org/resource/Malaysian_people|death)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|http://dbpedia.org/resource/Malaysian_people)" : 0.01075,
+      "probability(http://dbpedia.org/resource/Malaysian_people|conservative)" : 0.25
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|http://dbpedia.org/resource/Malaysian_people)" : 0.47312,
+      "probability(http://dbpedia.org/resource/Malaysian_people|。)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|http://dbpedia.org/resource/Malaysian_people)" : 0.02151,
+      "probability(http://dbpedia.org/resource/Malaysian_people|governor)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(law|http://dbpedia.org/resource/Malaysian_people)" : 0.08602,
+      "probability(http://dbpedia.org/resource/Malaysian_people|law)" : 0.66667
+    }
+  }, {
+    "probabilities" : {
+      "probability(president|http://dbpedia.org/resource/Malaysian_people)" : 0.11828,
+      "probability(http://dbpedia.org/resource/Malaysian_people|president)" : 0.5
+    }
+  }, {
+    "probabilities" : {
+      "probability(time|http://dbpedia.org/resource/Malaysian_people)" : 0.08602,
+      "probability(http://dbpedia.org/resource/Malaysian_people|time)" : 0.61538
+    }
+  } ]
+} ]

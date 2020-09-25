@@ -1,0 +1,11 @@
+1 professor
+1 government
+1 law
+1 student
+1 politician
+1 physics
+1 degree
+1 post-graduate
+1 retired
+1 indian
+1 former

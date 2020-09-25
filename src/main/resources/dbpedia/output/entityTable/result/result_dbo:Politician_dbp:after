@@ -1,0 +1,11 @@
+[ {
+  "objectIndex" : "9",
+  "property" : "dbp:after",
+  "object" : "Incumbent",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(er|Incumbent)" : 0.9142857143,
+      "probability(Incumbent|er)" : 0.0281690141
+    }
+  } ]
+} ]
