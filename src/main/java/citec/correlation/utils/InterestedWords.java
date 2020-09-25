@@ -21,7 +21,7 @@ import java.util.Set;
  */
 public class InterestedWords {
 
-    private List<String> interestedWords = new ArrayList<String>();
+    private Map<String,List<String>> interestedWords = new HashMap<String,List<String>>();
     private List<String> alphabeticSorted = new ArrayList<String>();
     private Integer numberOfEntitiesToLimitInFile = -1;
     //private Integer numberOfEntities = 10;
@@ -29,27 +29,34 @@ public class InterestedWords {
     private String sortFile = null;
     private String outputDir = null;
     private String className = null;
-    private static String INTERESTED_WORD_FILE = "a_interestedList.txt";
     private Tables tables = null;
+    public static String ALL_WORDS = "ALL_WORDS";
+    private static String INTERESTED_WORD_FILE = ALL_WORDS+".txt";
+
 
     public InterestedWords(String className, Tables tables, String outputDir) {
         this.tables = tables;
         this.className = className;
         this.outputDir = outputDir;
-        this.sortFile = tables.getEntityTableDir() + INTERESTED_WORD_FILE;
+        this.sortFile = tables.getEntityTableDir() + "result/";
     }
 
-    public void getWords(Integer numberOfEntities,Integer listSize) throws IOException {
-        this.interestedWords = FileFolderUtils.getSortedList(sortFile, numberOfEntities, listSize);
-        alphabeticSorted.addAll(interestedWords);
-        Collections.sort(alphabeticSorted);
+    public void getWords(Integer numberOfEntities, Integer listSize,String type) throws IOException {
+         if (type.contains(ALL_WORDS)) {
+            List<String> words = FileFolderUtils.getSortedList(sortFile + INTERESTED_WORD_FILE, numberOfEntities, listSize);
+            alphabeticSorted.addAll(words);
+            Collections.sort(alphabeticSorted);
+            interestedWords.put(ALL_WORDS, alphabeticSorted);
+        }
+
     }
 
-    public void prepareWords() throws Exception {
-        System.out.println(outputDir);
-        tables.readSplitTables(outputDir, className);
-        String str = this.generateINterestingWords(tables.getAllDBpediaEntitys());
-        FileFolderUtils.stringToFiles(str, sortFile);
+    public void prepareWords(String type) throws Exception {
+        if (type.contains(ALL_WORDS)) {
+            tables.readSplitTables(outputDir, className);
+            String str = this.generateINterestingWords(tables.getAllDBpediaEntitys());
+            FileFolderUtils.stringToFiles(str, sortFile + INTERESTED_WORD_FILE);
+        }
     }
 
     private String generateINterestingWords(List<DBpediaEntity> dbpediaEntities) {
@@ -83,7 +90,7 @@ public class InterestedWords {
         return alphabeticSorted;
     }
 
-    public List<String> getInterestedWords() {
+    public Map<String, List<String>> getInterestedWords() {
         return interestedWords;
     }
 

@@ -114,7 +114,7 @@ public class Calculation implements TextAnalyzer {
                     Results kbResult = new Results(property, A, results);
                     kbResults.add(kbResult);
                 }
-                break;
+               
 
             }
 

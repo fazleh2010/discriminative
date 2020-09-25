@@ -42,6 +42,9 @@ public class Tables implements PropertyNotation{
 
     public void readTable(String fileName) throws IOException, Exception {
         List<File> list = FileFolderUtils.getFiles(entityTableDir,fileName, ".json");
+        if(list.isEmpty()){
+            throw new Exception("No property files to process!!");
+        }
         //File[] list = FileFolderUtils.getFiles(dbpediaDir, ".json");
         for (File file : list) {
             ObjectMapper mapper = new ObjectMapper();
@@ -64,7 +67,6 @@ public class Tables implements PropertyNotation{
 
             allDBpediaEntitys.addAll(dbpediaEntitys);
         }
-        
         return allDBpediaEntitys;
     }
     

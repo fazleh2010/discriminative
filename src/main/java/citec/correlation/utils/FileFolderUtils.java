@@ -68,7 +68,6 @@ public class FileFolderUtils {
     }
 
     public static List<File> getFiles(String fileDir, String category, String extension) {
-
         String[] files = new File(fileDir).list();
         List<File> selectedFiles = new ArrayList<File>();
         for (String fileName : files) {

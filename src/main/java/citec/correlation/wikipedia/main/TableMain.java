@@ -94,11 +94,11 @@ public class TableMain implements PropertyNotation {
             tables.writeTable(dir + entityTable);*/
             
             InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
-            interestedWords.prepareWords();
-            interestedWords.getWords(200,20);
+            interestedWords.prepareWords(InterestedWords.ALL_WORDS);
+            interestedWords.getWords(200,20,InterestedWords.ALL_WORDS);
             
             
-            Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords.getAlphabeticSorted(),dbpediaDir+output);
+            //Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords.getAlphabeticSorted(),dbpediaDir+output);
             System.out.println("System execution ended!!!");
             
             /*String property=PropertyNotation.dbo_party;
