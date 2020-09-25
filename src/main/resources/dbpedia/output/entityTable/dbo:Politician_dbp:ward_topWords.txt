@@ -1,4 +1,0 @@
-1 current
-1 deputy
-1 mayor
-1 politician

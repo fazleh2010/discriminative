@@ -1,7 +1,0 @@
-1 date
-1 politician
-1 british
-1 tradition
-1 female
-1 first
-1 labour

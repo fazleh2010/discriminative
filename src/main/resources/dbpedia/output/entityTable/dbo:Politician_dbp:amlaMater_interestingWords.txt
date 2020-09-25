@@ -1,9 +1,0 @@
-1 manager
-1 senate
-1 politician
-1 district
-1 member
-1 american
-1 state
-1 former
-1 26th

@@ -1,6 +1,0 @@
-2 list
-1 country
-1 queen
-1 colonial
-1 viceroy
-1 independence

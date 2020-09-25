@@ -1,3 +1,0 @@
-1 chinese
-1 name
-1 family

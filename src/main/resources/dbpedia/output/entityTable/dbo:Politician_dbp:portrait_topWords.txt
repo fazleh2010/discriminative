@@ -1,6 +1,0 @@
-1 politician
-1 political
-1 chairman
-1 bulgarian
-1 party
-1 36th

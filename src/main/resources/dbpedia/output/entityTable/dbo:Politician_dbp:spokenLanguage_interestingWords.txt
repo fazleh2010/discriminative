@@ -1,9 +1,0 @@
-1 seat
-1 opposition
-1 son
-1 minister
-1 politician
-1 democratic
-1 member
-1 malaysian
-1 former
