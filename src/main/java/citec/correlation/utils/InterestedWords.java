@@ -46,6 +46,7 @@ public class InterestedWords {
     }
 
     public void prepareWords() throws Exception {
+        System.out.println(outputDir);
         tables.readSplitTables(outputDir, className);
         String str = this.generateINterestingWords(tables.getAllDBpediaEntitys());
         FileFolderUtils.stringToFiles(str, sortFile);
