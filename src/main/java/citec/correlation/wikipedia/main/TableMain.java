@@ -94,8 +94,9 @@ public class TableMain implements PropertyNotation {
             tables.writeTable(dir + entityTable);*/
             
             InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
-            interestedWords.prepareWords(InterestedWords.ALL_WORDS);
-            interestedWords.getWords(200,20,InterestedWords.ALL_WORDS);
+            String checkType=InterestedWords.ALL_WORDS;
+            interestedWords.prepareWords(checkType);
+            interestedWords.getWords(200,20,checkType);
             
             
             //Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords.getAlphabeticSorted(),dbpediaDir+output);

@@ -43,7 +43,7 @@ public class InterestedWords {
 
     public void getWords(Integer numberOfEntities, Integer listSize,String type) throws IOException {
          if (type.contains(ALL_WORDS)) {
-            List<String> words = FileFolderUtils.getSortedList(sortFile + INTERESTED_WORD_FILE, numberOfEntities, listSize);
+            List<String> words = FileFolderUtils.getSortedList(sortFile +  ALL_WORDS+".txt", numberOfEntities, listSize);
             alphabeticSorted.addAll(words);
             Collections.sort(alphabeticSorted);
             interestedWords.put(ALL_WORDS, alphabeticSorted);
@@ -55,7 +55,7 @@ public class InterestedWords {
         if (type.contains(ALL_WORDS)) {
             tables.readSplitTables(outputDir, className);
             String str = this.generateINterestingWords(tables.getAllDBpediaEntitys());
-            FileFolderUtils.stringToFiles(str, sortFile + INTERESTED_WORD_FILE);
+            FileFolderUtils.stringToFiles(str, sortFile +  ALL_WORDS+".txt");
         }
     }
 
