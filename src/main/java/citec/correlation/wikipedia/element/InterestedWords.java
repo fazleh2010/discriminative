@@ -3,11 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.utils;
+package citec.correlation.wikipedia.element;
 
 import citec.correlation.core.analyzer.TextAnalyzer;
+import citec.correlation.utils.FileFolderUtils;
+import citec.correlation.utils.SortUtils;
 import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.wikipedia.table.Tables;
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -23,7 +26,7 @@ import java.util.Set;
  */
 public class InterestedWords {
 
-    private Map<String, List<String>> interestedWords = new HashMap<String, List<String>>();
+    private Map<String, List<String>> propertyInterestedWords = new HashMap<String, List<String>>();
     private List<String> alphabeticSorted = new ArrayList<String>();
     private Integer numberOfEntitiesToLimitInFile = -1;
     //private Integer numberOfEntities = 10;
@@ -34,41 +37,43 @@ public class InterestedWords {
     private Tables tables = null;
     public static String ALL_WORDS = "all";
     public static String PROPRTY_WISE = "PROPRTY_WISE";
-    private static String FILE_NOTATION = "_interWords";
-    //private static String INTERESTED_WORD_FILE = ALL_WORDS + ".txt";
+    private static String FILE_NOTATION = "_interWords.txt";
     private Set<String> properties = new HashSet<String>();
 
     public InterestedWords(String className, Tables tables, String outputDir) {
         this.tables = tables;
         this.className = className;
         this.outputDir = outputDir;
-        //this.sortFile = tables.getEntityTableDir() + "result/";
     }
 
-    /*public void getWords(Integer numberOfEntities, Integer listSize,String type) throws IOException {
-         if (type.contains(ALL_WORDS)) {
-            List<String> words = FileFolderUtils.getSortedList(sortFile +  ALL_WORDS+".txt", numberOfEntities, listSize);
-            alphabeticSorted.addAll(words);
+    public void getWords(Integer numberOfEntities, Integer listSize, String type) throws IOException {
+        for (String sortFileName : sortFiles) {
+            List<String> interestedWords = FileFolderUtils.getSortedList(sortFileName, numberOfEntities, listSize);
+            List<String> alphabeticSorted = new ArrayList<String>();
+            alphabeticSorted.addAll(interestedWords);
             Collections.sort(alphabeticSorted);
-            interestedWords.put(ALL_WORDS, alphabeticSorted);
+            String tableName = new File(sortFileName).getName().replace(FILE_NOTATION, "");
+            if (!alphabeticSorted.isEmpty()) {
+                propertyInterestedWords.put(tableName, alphabeticSorted);
+            }
         }
+    }
 
-    }*/
     public void prepareWords(String className, String type) throws Exception {
 
         String str = null;
         tables.readSplitTables(outputDir, className);
-        String outputLocation=tables.getEntityTableDir()+"result/";
+        String outputLocation = tables.getEntityTableDir() + "result/";
         this.findAllProperties();
         if (type.contains(ALL_WORDS)) {
             str = this.prepareForAllProperties(tables.getAllDBpediaEntitys());
-            String sortFile = outputLocation +type+FILE_NOTATION+ ".txt";
+            String sortFile = outputLocation + type + FILE_NOTATION;
             FileFolderUtils.stringToFiles(str, sortFile);
             sortFiles.add(sortFile);
-        } else if(type.contains(PROPRTY_WISE)) {
+        } else if (type.contains(PROPRTY_WISE)) {
             for (String property : properties) {
                 str = this.prepareForAllProperties(tables.getAllDBpediaEntitys(), property);
-                String sortFile = outputLocation+ className+"_"+property +FILE_NOTATION+ ".txt";
+                String sortFile = outputLocation + className + "_" + property + FILE_NOTATION;
                 FileFolderUtils.stringToFiles(str, sortFile);
                 this.sortFiles.add(sortFile);
             }
@@ -101,7 +106,7 @@ public class InterestedWords {
         }
         return SortUtils.sort(mostCommonWords, numberOfEntitiesToLimitInFile);
     }
-    
+
     private String prepareForAllProperties(List<DBpediaEntity> dbpediaEntities, String property) {
         Map<String, Integer> mostCommonWords = new HashMap<String, Integer>();
 
@@ -171,8 +176,8 @@ public class InterestedWords {
         return alphabeticSorted;
     }
 
-    public Map<String, List<String>> getInterestedWords() {
-        return interestedWords;
+    public Map<String, List<String>> getPropertyInterestedWords() {
+        return propertyInterestedWords;
     }
 
     public List<String> getSortFiles() {

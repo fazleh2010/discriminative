@@ -1,0 +1,9 @@
+1 prestigious
+1 hometown
+1 education
+1 bachelor
+1 degree
+1 history
+1 advocate
+1 former
+1 early

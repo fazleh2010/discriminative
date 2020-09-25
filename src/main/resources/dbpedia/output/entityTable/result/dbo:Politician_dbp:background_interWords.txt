@@ -1,0 +1,11 @@
+1 economist
+1 constituency
+1 agricultural
+1 ugandan
+1 politician
+1 member
+1 sub-region
+1 northern
+1 region
+1 parliament
+1 lawyer

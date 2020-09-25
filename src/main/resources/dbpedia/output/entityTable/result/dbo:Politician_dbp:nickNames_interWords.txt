@@ -1,0 +1,12 @@
+1 figure
+1 government
+1 deputy
+1 central
+1 province
+1 minister
+1 major
+1 chief
+1 speaker
+1 federal
+1 particular
+1 interior

@@ -1,0 +1,7 @@
+1 chinese
+1 traditional
+1 pinyin
+1 politician
+1 name
+1 malaysian
+1 family
