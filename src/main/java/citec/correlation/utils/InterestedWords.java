@@ -32,8 +32,10 @@ public class InterestedWords {
     private String outputDir = null;
     private String className = null;
     private Tables tables = null;
-    public static String ALL_WORDS = "ALL_WORDS";
-    private static String INTERESTED_WORD_FILE = ALL_WORDS + ".txt";
+    public static String ALL_WORDS = "all";
+    public static String PROPRTY_WISE = "PROPRTY_WISE";
+    private static String FILE_NOTATION = "_interWords";
+    //private static String INTERESTED_WORD_FILE = ALL_WORDS + ".txt";
     private Set<String> properties = new HashSet<String>();
 
     public InterestedWords(String className, Tables tables, String outputDir) {
@@ -56,26 +58,22 @@ public class InterestedWords {
 
         String str = null;
         tables.readSplitTables(outputDir, className);
+        String outputLocation=tables.getEntityTableDir()+"result/";
         this.findAllProperties();
         if (type.contains(ALL_WORDS)) {
             str = this.prepareForAllProperties(tables.getAllDBpediaEntitys());
-            String sortFile = tables.getEntityTableDir() + INTERESTED_WORD_FILE;
+            String sortFile = outputLocation +type+FILE_NOTATION+ ".txt";
             FileFolderUtils.stringToFiles(str, sortFile);
             sortFiles.add(sortFile);
-        } else {
-            /*for (String property : properties) {
+        } else if(type.contains(PROPRTY_WISE)) {
+            for (String property : properties) {
                 str = this.prepareForAllProperties(tables.getAllDBpediaEntitys(), property);
-                String sortFile = tables.getEntityTableDir() + className+"_"+property + INTERESTED_WORD_FILE;
+                String sortFile = outputLocation+ className+"_"+property +FILE_NOTATION+ ".txt";
                 FileFolderUtils.stringToFiles(str, sortFile);
                 this.sortFiles.add(sortFile);
-            }*/
+            }
         }
 
-        /*if (type.contains(ALL_WORDS)) {
-            tables.readSplitTables(outputDir, className);
-            String str = this.generateINterestingWords(tables.getAllDBpediaEntitys());
-            FileFolderUtils.stringToFiles(str, sortFile +  ALL_WORDS+".txt");
-        }*/
     }
 
     private String prepareForAllProperties(List<DBpediaEntity> dbpediaEntities) {
@@ -100,6 +98,38 @@ public class InterestedWords {
                     mostCommonWords.put(word, count);
                 }
             }
+        }
+        return SortUtils.sort(mostCommonWords, numberOfEntitiesToLimitInFile);
+    }
+    
+    private String prepareForAllProperties(List<DBpediaEntity> dbpediaEntities, String property) {
+        Map<String, Integer> mostCommonWords = new HashMap<String, Integer>();
+
+        for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
+            if (!dbpediaEntity.getProperties().containsKey(property)) {
+                continue;
+            }
+
+            Set<String> adjectives = dbpediaEntity.getAdjectives();
+            Set<String> list = dbpediaEntity.getNouns();
+            list.addAll(adjectives);
+            for (String word : list) {
+                word = word.toLowerCase().trim();
+                if (TextAnalyzer.ENGLISH_STOPWORDS.contains(word)) {
+                    continue;
+                }
+                //System.out.println("word"+word);
+                Integer count = 0;
+                if (mostCommonWords.containsKey(word)) {
+                    count = mostCommonWords.get(word);
+                    count = count + 1;
+                    mostCommonWords.put(word, count);
+                } else {
+                    count = count + 1;
+                    mostCommonWords.put(word, count);
+                }
+            }
+
         }
         return SortUtils.sort(mostCommonWords, numberOfEntitiesToLimitInFile);
     }

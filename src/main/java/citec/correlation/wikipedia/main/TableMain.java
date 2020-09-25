@@ -17,6 +17,7 @@ import citec.correlation.wikipedia.table.Tables;
 import citec.correlation.core.yaml.ParseYaml;
 import citec.correlation.utils.FileFolderUtils;
 import citec.correlation.utils.InterestedWords;
+import static citec.correlation.utils.InterestedWords.PROPRTY_WISE;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
@@ -94,7 +95,7 @@ public class TableMain implements PropertyNotation {
             tables.writeTable(dir + entityTable);*/
             
             InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
-            String checkType=InterestedWords.ALL_WORDS;
+            String checkType=InterestedWords.PROPRTY_WISE;
             interestedWords.prepareWords(dbo_Politician,checkType);
             //interestedWords.getWords(200,20,checkType);
             
