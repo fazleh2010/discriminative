@@ -95,8 +95,8 @@ public class TableMain implements PropertyNotation {
             
             InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
             String checkType=InterestedWords.ALL_WORDS;
-            interestedWords.prepareWords(checkType);
-            interestedWords.getWords(200,20,checkType);
+            interestedWords.prepareWords(dbo_Politician,checkType);
+            //interestedWords.getWords(200,20,checkType);
             
             
             //Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords.getAlphabeticSorted(),dbpediaDir+output);
