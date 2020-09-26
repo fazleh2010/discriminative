@@ -27,10 +27,10 @@ public class Result  implements Comparator<Result>{
     public static Integer PROBABILITY_OBJECT_GIVEN_WORD = 2;
     @JsonIgnore
     public  Double multiple= null;
-    @JsonIgnore
+    @JsonProperty("Word")
+    public String word= null;
+    @JsonProperty("multiply")
     public  String multipleStr= null;
-    
-
     @JsonProperty("probabilities")
     private LinkedHashMap<String, Double> probabilities = new LinkedHashMap<String, Double>();
     @JsonIgnore
@@ -41,7 +41,8 @@ public class Result  implements Comparator<Result>{
          
      }
 
-    public Result(Pair<String, Double> object, Pair<String, Double> word) throws IOException {
+    public Result(Pair<String, Double> object, Pair<String, Double> word,String wordString,String partOfSfSpeech) throws IOException {
+        this.word=wordString+"-"+partOfSfSpeech;
         this.probabilities.put(object.getValue0(), this.format(object.getValue1()));
         this.probabilities.put(word.getValue0(), this.format(word.getValue1()));
         this.multiple=this.format(object.getValue1()*word.getValue1());

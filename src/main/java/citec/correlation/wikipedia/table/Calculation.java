@@ -9,6 +9,7 @@ import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.utils.FileFolderUtils;
 import citec.correlation.utils.SortUtils;
 import citec.correlation.wikipedia.element.DBpediaEntity;
+import citec.correlation.wikipedia.element.InterestedWords;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -27,9 +28,10 @@ import org.javatuples.Pair;
  */
 public class Calculation implements TextAnalyzer {
 
-    private Map<String, List<String>> propertyInterestedWords = new HashMap<String, List<String>>();
+    private InterestedWords interestedWords =null;
     private  Map<String, List<Results>> tableResults = new HashMap<String, List<Results> >();
     private Integer numberOfEntities = 200;
+    private Integer numberOfEntitiesSelected=50;
    
     /*public Calculation(String property, String inputJsonFile, String outputDir) throws Exception {
         Tables tables = new Tables(new File(inputJsonFile).getName(), outputDir);
@@ -40,8 +42,9 @@ public class Calculation implements TextAnalyzer {
         
     }*/
 
-    public Calculation(Tables tables, String className,  Map<String, List<String>> propertyInterestedWords ,String outputDir) throws IOException, Exception {
-        this.propertyInterestedWords=propertyInterestedWords;
+    public Calculation(Tables tables, String className, InterestedWords interestedWords,Integer numberOfEntitiesSelected,String outputDir) throws IOException, Exception {
+        this.numberOfEntitiesSelected=numberOfEntitiesSelected;
+        this.interestedWords=interestedWords;
         this.calculation(tables,className,tables.getEntityTableDir());
     }
     
@@ -50,15 +53,15 @@ public class Calculation implements TextAnalyzer {
         Map<String, List<DBpediaEntity>> entityCategories = new HashMap<String, List<DBpediaEntity>>();
         for (String tableName : tables.getEntityTables().keySet()) {
             List<DBpediaEntity> dbpediaEntities = tables.getEntityTables().get(tableName).getDbpediaEntities();
-            if(dbpediaEntities.size()<50)
+            if(dbpediaEntities.size()<numberOfEntitiesSelected)
                      continue;
            
             String property = Tables.getProperty(tableName);
             String classNameAndProperty = Tables.getClassAndProperty(tableName);
-            List<String> interestedWords=new ArrayList<String>();
+            List<String> selectedWords=new ArrayList<String>();
             
-            if(this.propertyInterestedWords.containsKey(classNameAndProperty)) {
-                interestedWords=propertyInterestedWords.get(classNameAndProperty);
+            if(this.interestedWords.getPropertyInterestedWords().containsKey(classNameAndProperty)) {
+                selectedWords=this.interestedWords.getPropertyInterestedWords().get(classNameAndProperty);
             }
             /*if (!tableName.contains("dbo:party")) {
                 continue;
@@ -81,8 +84,15 @@ public class Calculation implements TextAnalyzer {
               
                 //System.out.println("KB:"+A);
                 //all words
-                for (String word : interestedWords) {
+                for (String word : selectedWords) {
                     String B = word;
+                    String partsOfSpeech=null;
+                    if(this.interestedWords.getAdjectives().contains(word))
+                       partsOfSpeech= TextAnalyzer.ADJECTIVE;
+                    else if(this.interestedWords.getNouns().contains(word)){
+                       partsOfSpeech= TextAnalyzer.NOUN; 
+                    }
+                   
                     //System.out.println("word:"+word);
                     Result result = null;
                     Pair pairWord = this.countConditionalProbabilities(tableName, dbpediaEntitiesGroup, property, A, B, Result.PROBABILITY_WORD_GIVEN_OBJECT);
@@ -92,7 +102,7 @@ public class Calculation implements TextAnalyzer {
                            Double objectCount=(Double)pairObject.getValue1();
                           
                            if ((wordCount*objectCount)>0.02&&!(wordCount==0&&objectCount==0)) {
-                                result = new Result(pairWord, pairObject);
+                                result = new Result(pairWord, pairObject,word,partsOfSpeech);
                                 results.add(result);   
                            }
                     }
@@ -100,8 +110,6 @@ public class Calculation implements TextAnalyzer {
                 }//all words end
                 
                 if (!results.isEmpty()) {
-                    //String keytoSort = Result.conditional_probability + "(" + Result.WORD_STR + "|" + Result.KB_STR + ")";
-                    //List<Result> resultsSorted = this.sortResutls(results, keytoSort);
                     Results kbResult = new Results(property, A, results);
                     kbResults.add(kbResult);
                 }
@@ -110,7 +118,7 @@ public class Calculation implements TextAnalyzer {
             }
 
             tableResults.put(tableName, kbResults);
-            FileFolderUtils.writeToJsonFile(kbResults, tables.getEntityTableDir() + File.separator + Result.RESULT_DIR + File.separator + "result_"+tableName);
+            FileFolderUtils.writeToJsonFile(kbResults, tables.getEntityTableDir() +"result/" + tableName);
         }
     }
 

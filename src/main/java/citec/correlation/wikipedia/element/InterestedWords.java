@@ -27,7 +27,8 @@ import java.util.Set;
 public class InterestedWords {
 
     private Map<String, List<String>> propertyInterestedWords = new HashMap<String, List<String>>();
-    private List<String> alphabeticSorted = new ArrayList<String>();
+    public  Set<String> adjectives = new HashSet<String>();
+    public  Set<String> nouns = new HashSet<String>();
     private Integer numberOfEntitiesToLimitInFile = -1;
     //private Integer numberOfEntities = 10;
     private Integer listSize = -1;
@@ -119,11 +120,12 @@ public class InterestedWords {
             }
             index=index+1;
 
-            Set<String> adjectives = dbpediaEntity.getAdjectives();
-            Set<String> list = dbpediaEntity.getNouns();
-            list.addAll(adjectives);
-            for (String word : list) {
-                word = word.toLowerCase().trim();
+            /*Set<String> entittyAdjectives = dbpediaEntity.getAdjectives();
+            Set<String> nouns = dbpediaEntity.getNouns();
+            nouns.addAll(entittyAdjectives);*/
+            Set <String> words=this.wordHash(dbpediaEntity);
+            for (String word : words) {
+                //word = word.toLowerCase().trim();
                 if (TextAnalyzer.ENGLISH_STOPWORDS.contains(word)) {
                     continue;
                 }
@@ -156,10 +158,10 @@ public class InterestedWords {
     private String generateINterestingWords(List<DBpediaEntity> dbpediaEntities) {
         Map<String, Integer> mostCommonWords = new HashMap<String, Integer>();
         for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
-            Set<String> adjectives = dbpediaEntity.getAdjectives();
-            Set<String> list = dbpediaEntity.getNouns();
-            list.addAll(adjectives);
-            for (String word : list) {
+            Set<String> entittyAdjectives = dbpediaEntity.getAdjectives();
+            Set<String> nouns = dbpediaEntity.getNouns();
+            nouns.addAll(entittyAdjectives);
+            for (String word : nouns) {
                 word = word.toLowerCase().trim();
                 if (TextAnalyzer.ENGLISH_STOPWORDS.contains(word)) {
                     continue;
@@ -180,9 +182,7 @@ public class InterestedWords {
         return SortUtils.sort(mostCommonWords, numberOfEntitiesToLimitInFile);
     }
 
-    public List<String> getAlphabeticSorted() {
-        return alphabeticSorted;
-    }
+    
 
     public Map<String, List<String>> getPropertyInterestedWords() {
         return propertyInterestedWords;
@@ -192,4 +192,29 @@ public class InterestedWords {
         return sortFiles;
     }
 
+    private Set< String> wordHash(DBpediaEntity dbpediaEntity) {
+        Set<String> words = new HashSet<String>();
+        for (String word : dbpediaEntity.getAdjectives()) {
+            word = word.toLowerCase().trim();
+            words.add(word);
+            this.adjectives.add(word);
+        }
+        for (String word : dbpediaEntity.getNouns()) {
+            word = word.toLowerCase().trim();
+            words.add(word);
+            this.nouns.add(word);
+        }
+      return words;  
+
+    }
+
+    public Set<String> getAdjectives() {
+        return adjectives;
+    }
+
+    public Set<String> getNouns() {
+        return nouns;
+    }
+
+   
 }
