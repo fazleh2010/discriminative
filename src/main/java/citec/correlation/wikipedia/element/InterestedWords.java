@@ -8,7 +8,6 @@ package citec.correlation.wikipedia.element;
 import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.utils.FileFolderUtils;
 import citec.correlation.utils.SortUtils;
-import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.wikipedia.table.Tables;
 import java.io.File;
 import java.io.IOException;
@@ -27,14 +26,12 @@ import java.util.Set;
 public class InterestedWords {
 
     private Map<String, List<String>> propertyInterestedWords = new HashMap<String, List<String>>();
-    public  Set<String> adjectives = new HashSet<String>();
-    public  Set<String> nouns = new HashSet<String>();
+    private Set<String> adjectives = new HashSet<String>();
+    private Set<String> nouns = new HashSet<String>();
     private Integer numberOfEntitiesToLimitInFile = -1;
-    //private Integer numberOfEntities = 10;
     private Integer listSize = -1;
     private List<String> sortFiles = new ArrayList<String>();
-    private String outputDir = null;
-    private String className = null;
+    private String dataInputDir = null;
     private Tables tables = null;
     public static String ALL_WORDS = "all";
     public static String PROPRTY_WISE = "PROPRTY_WISE";
@@ -43,8 +40,7 @@ public class InterestedWords {
 
     public InterestedWords(String className, Tables tables, String outputDir) {
         this.tables = tables;
-        this.className = className;
-        this.outputDir = outputDir;
+        this.dataInputDir = outputDir;
     }
 
     public void getWords(Integer numberOfEntities, Integer listSize, String type) throws IOException {
@@ -60,10 +56,10 @@ public class InterestedWords {
         }
     }
 
-    public void prepareWords(String className, String type,Integer numberOfEntitesSelected) throws Exception {
+    public void prepareWords(String className, String type, Integer numberOfEntitesSelected) throws Exception {
 
         String str = null;
-        tables.readSplitTables(outputDir, className);
+        tables.readSplitTables(dataInputDir, className);
         String outputLocation = tables.getEntityTableDir() + "result/";
         this.findAllProperties();
         if (type.contains(ALL_WORDS)) {
@@ -73,13 +69,13 @@ public class InterestedWords {
             sortFiles.add(sortFile);
         } else if (type.contains(PROPRTY_WISE)) {
             for (String property : properties) {
-                str = this.prepareForAllProperties(tables.getAllDBpediaEntitys(), property,numberOfEntitesSelected);
-                if(str!=null){
-                   String sortFile = outputLocation + className + "_" + property + FILE_NOTATION;
-                   FileFolderUtils.stringToFiles(str, sortFile);
-                   this.sortFiles.add(sortFile);  
+                str = this.prepareForAllProperties(tables.getAllDBpediaEntitys(), property, numberOfEntitesSelected);
+                if (str != null) {
+                    String sortFile = outputLocation + className + "_" + property + FILE_NOTATION;
+                    FileFolderUtils.stringToFiles(str, sortFile);
+                    this.sortFiles.add(sortFile);
                 }
-               
+
             }
         }
 
@@ -88,10 +84,11 @@ public class InterestedWords {
     private String prepareForAllProperties(List<DBpediaEntity> dbpediaEntities) {
         Map<String, Integer> mostCommonWords = new HashMap<String, Integer>();
         for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
-            Set<String> adjectives = dbpediaEntity.getAdjectives();
+            /* Set<String> adjectives = dbpediaEntity.getAdjectives();
             Set<String> list = dbpediaEntity.getNouns();
-            list.addAll(adjectives);
-            for (String word : list) {
+            list.addAll(adjectives);*/
+            Set<String> words = this.wordHash(dbpediaEntity);
+            for (String word : words) {
                 word = word.toLowerCase().trim();
                 if (TextAnalyzer.ENGLISH_STOPWORDS.contains(word)) {
                     continue;
@@ -111,19 +108,19 @@ public class InterestedWords {
         return SortUtils.sort(mostCommonWords, numberOfEntitiesToLimitInFile);
     }
 
-    private String prepareForAllProperties(List<DBpediaEntity> dbpediaEntities, String property,Integer numberEntitiesSelected) {
+    private String prepareForAllProperties(List<DBpediaEntity> dbpediaEntities, String property, Integer numberEntitiesSelected) {
         Map<String, Integer> mostCommonWords = new HashMap<String, Integer>();
-        Integer index=0;
+        Integer index = 0;
         for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
             if (!dbpediaEntity.getProperties().containsKey(property)) {
                 continue;
             }
-            index=index+1;
+            index = index + 1;
 
             /*Set<String> entittyAdjectives = dbpediaEntity.getAdjectives();
             Set<String> nouns = dbpediaEntity.getNouns();
             nouns.addAll(entittyAdjectives);*/
-            Set <String> words=this.wordHash(dbpediaEntity);
+            Set<String> words = this.wordHash(dbpediaEntity);
             for (String word : words) {
                 //word = word.toLowerCase().trim();
                 if (TextAnalyzer.ENGLISH_STOPWORDS.contains(word)) {
@@ -142,10 +139,10 @@ public class InterestedWords {
             }
 
         }
-        if(index<numberEntitiesSelected){
-           return null;  
+        if (index < numberEntitiesSelected) {
+            return null;
         }
-           
+
         return SortUtils.sort(mostCommonWords, numberOfEntitiesToLimitInFile);
     }
 
@@ -153,43 +150,6 @@ public class InterestedWords {
         for (DBpediaEntity dbpediaEntity : tables.getAllDBpediaEntitys()) {
             properties.addAll(dbpediaEntity.getProperties().keySet());
         }
-    }
-
-    private String generateINterestingWords(List<DBpediaEntity> dbpediaEntities) {
-        Map<String, Integer> mostCommonWords = new HashMap<String, Integer>();
-        for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
-            Set<String> entittyAdjectives = dbpediaEntity.getAdjectives();
-            Set<String> nouns = dbpediaEntity.getNouns();
-            nouns.addAll(entittyAdjectives);
-            for (String word : nouns) {
-                word = word.toLowerCase().trim();
-                if (TextAnalyzer.ENGLISH_STOPWORDS.contains(word)) {
-                    continue;
-                }
-                //System.out.println("word"+word);
-                Integer count = 0;
-                if (mostCommonWords.containsKey(word)) {
-                    count = mostCommonWords.get(word);
-                    count = count + 1;
-                    mostCommonWords.put(word, count);
-                } else {
-                    count = count + 1;
-                    mostCommonWords.put(word, count);
-                }
-            }
-
-        }
-        return SortUtils.sort(mostCommonWords, numberOfEntitiesToLimitInFile);
-    }
-
-    
-
-    public Map<String, List<String>> getPropertyInterestedWords() {
-        return propertyInterestedWords;
-    }
-
-    public List<String> getSortFiles() {
-        return sortFiles;
     }
 
     private Set< String> wordHash(DBpediaEntity dbpediaEntity) {
@@ -204,8 +164,16 @@ public class InterestedWords {
             words.add(word);
             this.nouns.add(word);
         }
-      return words;  
+        return words;
 
+    }
+
+    public Map<String, List<String>> getPropertyInterestedWords() {
+        return propertyInterestedWords;
+    }
+
+    public List<String> getSortFiles() {
+        return sortFiles;
     }
 
     public Set<String> getAdjectives() {
@@ -216,5 +184,4 @@ public class InterestedWords {
         return nouns;
     }
 
-   
 }

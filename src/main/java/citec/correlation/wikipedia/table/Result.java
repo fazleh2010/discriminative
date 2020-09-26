@@ -30,7 +30,7 @@ public class Result  implements Comparator<Result>{
     @JsonProperty("Word")
     public String word= null;
     @JsonProperty("multiply")
-    public  String multipleStr= null;
+    public  Double multipleValue= null;
     @JsonProperty("probabilities")
     private LinkedHashMap<String, Double> probabilities = new LinkedHashMap<String, Double>();
     @JsonIgnore
@@ -46,7 +46,7 @@ public class Result  implements Comparator<Result>{
         this.probabilities.put(object.getValue0(), this.format(object.getValue1()));
         this.probabilities.put(word.getValue0(), this.format(word.getValue1()));
         this.multiple=this.format(object.getValue1()*word.getValue1());
-        this.multipleStr=String.format("%.12f", multiple);
+        this.multipleValue=Double.parseDouble(String.format("%.12f", multiple)); 
     }
 
     public Map<String, Double> getProbabilities() {
