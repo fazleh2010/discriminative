@@ -1,7 +1,0 @@
-1 minister
-1 politician
-1 canadian
-1 member
-1 assembly
-1 cabinet
-1 legislative

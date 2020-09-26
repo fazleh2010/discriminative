@@ -1,0 +1,216 @@
+[ {
+  "objectIndex" : "190",
+  "property" : "dbo:nationality",
+  "object" : "http://dbpedia.org/resource/France",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(politique|http://dbpedia.org/resource/France)" : 0.8907103825,
+      "probability(http://dbpedia.org/resource/France|politique)" : 0.8647214854
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|http://dbpedia.org/resource/France)" : 0.8961748634,
+      "probability(http://dbpedia.org/resource/France|né)" : 0.8019559902
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|http://dbpedia.org/resource/France)" : 0.7786885246,
+      "probability(http://dbpedia.org/resource/France|homme)" : 0.8878504673
+    }
+  } ]
+}, {
+  "objectIndex" : "191",
+  "property" : "dbo:nationality",
+  "object" : "http://dbpedia.org/resource/United_States",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/United_States)" : 0.487804878,
+      "probability(http://dbpedia.org/resource/United_States|state)" : 0.1166180758
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/United_States)" : 0.2926829268,
+      "probability(http://dbpedia.org/resource/United_States|district)" : 0.091954023
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://dbpedia.org/resource/United_States)" : 0.243902439,
+      "probability(http://dbpedia.org/resource/United_States|first)" : 0.0896860987
+    }
+  } ]
+}, {
+  "objectIndex" : "192",
+  "property" : "dbo:nationality",
+  "object" : "http://dbpedia.org/resource/United_Kingdom",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(party|http://dbpedia.org/resource/United_Kingdom)" : 0.527027027,
+      "probability(http://dbpedia.org/resource/United_Kingdom|party)" : 0.1132075472
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/United_Kingdom)" : 0.3040540541,
+      "probability(http://dbpedia.org/resource/United_Kingdom|war)" : 0.0935550936
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/United_Kingdom)" : 0.4054054054,
+      "probability(http://dbpedia.org/resource/United_Kingdom|member)" : 0.0535236396
+    }
+  } ]
+}, {
+  "objectIndex" : "193",
+  "property" : "dbo:nationality",
+  "object" : "http://dbpedia.org/resource/Germany",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Germany)" : 0.75,
+      "probability(http://dbpedia.org/resource/Germany|war)" : 0.0873180873
+    }
+  } ]
+}, {
+  "objectIndex" : "194",
+  "property" : "dbo:nationality",
+  "object" : "http://dbpedia.org/resource/India",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/India)" : 0.8270944742,
+      "probability(http://dbpedia.org/resource/India|indian)" : 0.9626556017
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|http://dbpedia.org/resource/India)" : 0.5900178253,
+      "probability(http://dbpedia.org/resource/India|constituency)" : 0.885026738
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|http://dbpedia.org/resource/India)" : 0.3992869875,
+      "probability(http://dbpedia.org/resource/India|candidate)" : 0.6120218579
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/India)" : 0.6862745098,
+      "probability(http://dbpedia.org/resource/India|member)" : 0.3434433541
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/India)" : 0.5204991087,
+      "probability(http://dbpedia.org/resource/India|legislative)" : 0.4269005848
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/India)" : 0.5311942959,
+      "probability(http://dbpedia.org/resource/India|assembly)" : 0.4071038251
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/India)" : 0.4385026738,
+      "probability(http://dbpedia.org/resource/India|election)" : 0.4330985915
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/India)" : 0.3725490196,
+      "probability(http://dbpedia.org/resource/India|former)" : 0.4146825397
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/India)" : 0.1871657754,
+      "probability(http://dbpedia.org/resource/India|state)" : 0.306122449
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|http://dbpedia.org/resource/India)" : 0.1390374332,
+      "probability(http://dbpedia.org/resource/India|leader)" : 0.3786407767
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|http://dbpedia.org/resource/India)" : 0.2531194296,
+      "probability(http://dbpedia.org/resource/India|party)" : 0.206095791
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/India)" : 0.1212121212,
+      "probability(http://dbpedia.org/resource/India|district)" : 0.2605363985
+    }
+  } ]
+}, {
+  "objectIndex" : "195",
+  "property" : "dbo:nationality",
+  "object" : "http://dbpedia.org/resource/Australia",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/Australia)" : 0.8426966292,
+      "probability(http://dbpedia.org/resource/Australia|australian)" : 0.9001996008
+    }
+  }, {
+    "probabilities" : {
+      "probability(labor|http://dbpedia.org/resource/Australia)" : 0.7453183521,
+      "probability(http://dbpedia.org/resource/Australia|labor)" : 0.9366197183
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Australia)" : 0.6498127341,
+      "probability(http://dbpedia.org/resource/Australia|assembly)" : 0.4740437158
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Australia)" : 0.5936329588,
+      "probability(http://dbpedia.org/resource/Australia|legislative)" : 0.4649122807
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Australia)" : 0.7116104869,
+      "probability(http://dbpedia.org/resource/Australia|member)" : 0.3398751115
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|http://dbpedia.org/resource/Australia)" : 0.3333333333,
+      "probability(http://dbpedia.org/resource/Australia|seat)" : 0.6691729323
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|http://dbpedia.org/resource/Australia)" : 0.4831460674,
+      "probability(http://dbpedia.org/resource/Australia|party)" : 0.3759071118
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/Australia)" : 0.3164794007,
+      "probability(http://dbpedia.org/resource/Australia|election)" : 0.2975352113
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/Australia)" : 0.2827715356,
+      "probability(http://dbpedia.org/resource/Australia|former)" : 0.3015873016
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Australia)" : 0.2191011236,
+      "probability(http://dbpedia.org/resource/Australia|state)" : 0.3411078717
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://dbpedia.org/resource/Australia)" : 0.1029962547,
+      "probability(http://dbpedia.org/resource/Australia|first)" : 0.2511210762
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Australia)" : 0.1479400749,
+      "probability(http://dbpedia.org/resource/Australia|war)" : 0.1642411642
+    }
+  } ]
+}, {
+  "objectIndex" : "196",
+  "property" : "dbo:nationality",
+  "object" : "http://dbpedia.org/resource/Poland",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/Poland)" : 0.4589371981,
+      "probability(http://dbpedia.org/resource/Poland|district)" : 0.3639846743
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Poland)" : 0.3381642512,
+      "probability(http://dbpedia.org/resource/Poland|war)" : 0.1455301455
+    }
+  } ]
+} ]

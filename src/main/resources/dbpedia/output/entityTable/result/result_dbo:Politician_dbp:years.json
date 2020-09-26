@@ -1,0 +1,251 @@
+[ {
+  "objectIndex" : "143",
+  "property" : "dbp:years",
+  "object" : "2001",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|2001)" : 0.4558823529,
+      "probability(2001|australian)" : 0.067867036
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|2001)" : 0.9264705882,
+      "probability(2001|er)" : 0.0228810187
+    }
+  } ]
+}, {
+  "objectIndex" : "144",
+  "property" : "dbp:years",
+  "object" : "2012",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|2012)" : 0.5384615385,
+      "probability(2012|australian)" : 0.055401662
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|2012)" : 0.4807692308,
+      "probability(2012|legislative)" : 0.0615384615
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|2012)" : 0.5192307692,
+      "probability(2012|assembly)" : 0.0514511873
+    }
+  } ]
+}, {
+  "objectIndex" : "145",
+  "property" : "dbp:years",
+  "object" : "2011",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|2011)" : 0.4268292683,
+      "probability(2011|australian)" : 0.0692520776
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|2011)" : 0.4146341463,
+      "probability(2011|legislative)" : 0.0699300699
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|2011)" : 0.3902439024,
+      "probability(2011|assembly)" : 0.062005277
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|2011)" : 0.9146341463,
+      "probability(2011|er)" : 0.0230799841
+    }
+  } ]
+}, {
+  "objectIndex" : "146",
+  "property" : "dbp:years",
+  "object" : "2006",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(er|2006)" : 0.9154929577,
+      "probability(2006|er)" : 0.0232789495
+    }
+  } ]
+}, {
+  "objectIndex" : "147",
+  "property" : "dbp:years",
+  "object" : "2003",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(former|2003)" : 0.338028169,
+      "probability(2003|former)" : 0.0720858896
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|2003)" : 0.9154929577,
+      "probability(2003|er)" : 0.0250696379
+    }
+  } ]
+}, {
+  "objectIndex" : "148",
+  "property" : "dbp:years",
+  "object" : "1906",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(liberal|1906)" : 0.7272727273,
+      "probability(1906|liberal)" : 0.0655903128
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|1906)" : 0.5757575758,
+      "probability(1906|british)" : 0.0623471883
+    }
+  } ]
+}, {
+  "objectIndex" : "149",
+  "property" : "dbp:years",
+  "object" : "1929",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(british|1929)" : 0.4363636364,
+      "probability(1929|british)" : 0.0550122249
+    }
+  } ]
+}, {
+  "objectIndex" : "150",
+  "property" : "dbp:years",
+  "object" : "1945",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(british|1945)" : 0.5214285714,
+      "probability(1945|british)" : 0.1100244499
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|1945)" : 0.9785714286,
+      "probability(1945|er)" : 0.0362116992
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|1945)" : 0.4714285714,
+      "probability(1945|general)" : 0.0740393627
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|1945)" : 0.6857142857,
+      "probability(1945|member)" : 0.0470306895
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|1945)" : 0.4357142857,
+      "probability(1945|seat)" : 0.071942446
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|1945)" : 0.5071428571,
+      "probability(1945|election)" : 0.0593705293
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|1945)" : 0.4571428571,
+      "probability(1945|war)" : 0.0571049137
+    }
+  } ]
+}, {
+  "objectIndex" : "151",
+  "property" : "dbp:years",
+  "object" : "1964",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(british|1964)" : 0.5833333333,
+      "probability(1964|british)" : 0.0525672372
+    }
+  } ]
+}, {
+  "objectIndex" : "152",
+  "property" : "dbp:years",
+  "object" : "1989",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(former|1989)" : 0.5409836066,
+      "probability(1989|former)" : 0.0674846626
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|1989)" : 0.5737704918,
+      "probability(1989|assembly)" : 0.0540897098
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|1989)" : 0.5409836066,
+      "probability(1989|australian)" : 0.0567867036
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|1989)" : 0.5573770492,
+      "probability(1989|legislative)" : 0.0545454545
+    }
+  } ]
+}, {
+  "objectIndex" : "153",
+  "property" : "dbp:years",
+  "object" : "1868",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(liberal|1868)" : 0.606557377,
+      "probability(1868|liberal)" : 0.0504540868
+    }
+  } ]
+}, {
+  "objectIndex" : "154",
+  "property" : "dbp:years",
+  "object" : "1880",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(liberal|1880)" : 0.8833333333,
+      "probability(1880|liberal)" : 0.068617558
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|1880)" : 0.5666666667,
+      "probability(1880|seat)" : 0.0400822199
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|1880)" : 0.6,
+      "probability(1880|general)" : 0.0356138707
+    }
+  } ]
+}, {
+  "objectIndex" : "155",
+  "property" : "dbp:years",
+  "object" : "1998",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|1998)" : 0.3559322034,
+      "probability(1998|legislative)" : 0.0615384615
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|1998)" : 0.3389830508,
+      "probability(1998|former)" : 0.0644171779
+    }
+  } ]
+}, {
+  "objectIndex" : "156",
+  "property" : "dbp:years",
+  "object" : "1885",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(liberal|1885)" : 0.7121212121,
+      "probability(1885|liberal)" : 0.0706357215
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|1885)" : 0.6515151515,
+      "probability(1885|son)" : 0.0416942422
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|1885)" : 0.4393939394,
+      "probability(1885|seat)" : 0.0462487153
+    }
+  } ]
+} ]

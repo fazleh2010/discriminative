@@ -1,0 +1,536 @@
+[ {
+  "objectIndex" : "52",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly)" : 0.9795918367,
+      "probability(http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly|australian)" : 0.1202775636
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly)" : 0.9523809524,
+      "probability(http://dbpedia.org/resource/Category:Members_of_the_Tasmanian_House_of_Assembly|assembly)" : 0.0301446945
+    }
+  } ]
+}, {
+  "objectIndex" : "53",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/British_Columbia",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(british|http://dbpedia.org/resource/British_Columbia)" : 1.0,
+      "probability(http://dbpedia.org/resource/British_Columbia|british)" : 0.31772377
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|http://dbpedia.org/resource/British_Columbia)" : 0.9705882353,
+      "probability(http://dbpedia.org/resource/British_Columbia|figure)" : 0.2590799031
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|http://dbpedia.org/resource/British_Columbia)" : 0.9705882353,
+      "probability(http://dbpedia.org/resource/British_Columbia|political)" : 0.1699150425
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/British_Columbia)" : 0.9264705882,
+      "probability(http://dbpedia.org/resource/British_Columbia|legislative)" : 0.107866227
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/British_Columbia)" : 0.9411764706,
+      "probability(http://dbpedia.org/resource/British_Columbia|assembly)" : 0.0938504823
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/British_Columbia)" : 0.75,
+      "probability(http://dbpedia.org/resource/British_Columbia|son)" : 0.0751259734
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/British_Columbia)" : 0.4558823529,
+      "probability(http://dbpedia.org/resource/British_Columbia|election)" : 0.073806752
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/British_Columbia)" : 0.1617647059,
+      "probability(http://dbpedia.org/resource/British_Columbia|canadian)" : 0.1577655003
+    }
+  } ]
+}, {
+  "objectIndex" : "54",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:Australian_Labor_Party_members_of_the_Parliament_of_Victoria",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/Category:Australian_Labor_Party_members_of_the_Parliament_of_Victoria)" : 1.0,
+      "probability(http://dbpedia.org/resource/Category:Australian_Labor_Party_members_of_the_Parliament_of_Victoria|australian)" : 0.0547417116
+    }
+  } ]
+}, {
+  "objectIndex" : "55",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:French_Senators_of_the_Fifth_Republic",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(politique|http://dbpedia.org/resource/Category:French_Senators_of_the_Fifth_Republic)" : 0.9539473684,
+      "probability(http://dbpedia.org/resource/Category:French_Senators_of_the_Fifth_Republic|politique)" : 0.1301084237
+    }
+  } ]
+}, {
+  "objectIndex" : "56",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Tamil_Nadu_Legislative_Assembly",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/Tamil_Nadu_Legislative_Assembly)" : 0.9615384615,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_Legislative_Assembly|indian)" : 0.0704134367
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|http://dbpedia.org/resource/Tamil_Nadu_Legislative_Assembly)" : 0.9326923077,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_Legislative_Assembly|constituency)" : 0.0702099738
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Tamil_Nadu_Legislative_Assembly)" : 0.9519230769,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_Legislative_Assembly|legislative)" : 0.02567122
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Tamil_Nadu_Legislative_Assembly)" : 0.9519230769,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_Legislative_Assembly|assembly)" : 0.0219051447
+    }
+  } ]
+}, {
+  "objectIndex" : "57",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/North_Carolina_General_Assembly",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/North_Carolina_General_Assembly)" : 0.9523809524,
+      "probability(http://dbpedia.org/resource/North_Carolina_General_Assembly|district)" : 0.0603907638
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/North_Carolina_General_Assembly)" : 0.9365079365,
+      "probability(http://dbpedia.org/resource/North_Carolina_General_Assembly|state)" : 0.0482876712
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/North_Carolina_General_Assembly)" : 0.9841269841,
+      "probability(http://dbpedia.org/resource/North_Carolina_General_Assembly|assembly)" : 0.0301446945
+    }
+  } ]
+}, {
+  "objectIndex" : "58",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Alberta",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Alberta)" : 1.0,
+      "probability(http://dbpedia.org/resource/Alberta|legislative)" : 0.1043334903
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Alberta)" : 1.0,
+      "probability(http://dbpedia.org/resource/Alberta|assembly)" : 0.0894292605
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Alberta)" : 0.9607843137,
+      "probability(http://dbpedia.org/resource/Alberta|member)" : 0.0562593145
+    }
+  } ]
+}, {
+  "objectIndex" : "59",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Canadians",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Canadians)" : 0.8953488372,
+      "probability(http://dbpedia.org/resource/Canadians|canadian)" : 0.1190914672
+    }
+  } ]
+}, {
+  "objectIndex" : "60",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario))" : 0.9838709677,
+      "probability(http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)|legislative)" : 0.0840791333
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario))" : 0.9838709677,
+      "probability(http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)|assembly)" : 0.0715434084
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario))" : 0.9838709677,
+      "probability(http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)|member)" : 0.0435916542
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario))" : 0.4677419355,
+      "probability(http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)|canadian)" : 0.0687538367
+    }
+  } ]
+}, {
+  "objectIndex" : "61",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:21st-century_French_politicians",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(politique|http://dbpedia.org/resource/Category:21st-century_French_politicians)" : 0.9836734694,
+      "probability(http://dbpedia.org/resource/Category:21st-century_French_politicians|politique)" : 0.2043369475
+    }
+  } ]
+}, {
+  "objectIndex" : "62",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:Indian_National_Congress_politicians",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/Category:Indian_National_Congress_politicians)" : 0.8531073446,
+      "probability(http://dbpedia.org/resource/Category:Indian_National_Congress_politicians|indian)" : 0.1950904393
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|http://dbpedia.org/resource/Category:Indian_National_Congress_politicians)" : 0.4463276836,
+      "probability(http://dbpedia.org/resource/Category:Indian_National_Congress_politicians|constituency)" : 0.1076115486
+    }
+  } ]
+}, {
+  "objectIndex" : "63",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:Maryland_Democrats",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Category:Maryland_Democrats)" : 0.875,
+      "probability(http://dbpedia.org/resource/Category:Maryland_Democrats|american)" : 0.0861581921
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/Category:Maryland_Democrats)" : 0.7980769231,
+      "probability(http://dbpedia.org/resource/Category:Maryland_Democrats|district)" : 0.0479573712
+    }
+  } ]
+}, {
+  "objectIndex" : "64",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Virginia",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Virginia)" : 0.6153846154,
+      "probability(http://dbpedia.org/resource/Virginia|american)" : 0.0579096045
+    }
+  } ]
+}, {
+  "objectIndex" : "65",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:Members_of_the_House_of_Commons_of_Canada_from_British_Columbia",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Category:Members_of_the_House_of_Commons_of_Canada_from_British_Columbia)" : 0.9821428571,
+      "probability(http://dbpedia.org/resource/Category:Members_of_the_House_of_Commons_of_Canada_from_British_Columbia|canadian)" : 0.0423572744
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|http://dbpedia.org/resource/Category:Members_of_the_House_of_Commons_of_Canada_from_British_Columbia)" : 0.6785714286,
+      "probability(http://dbpedia.org/resource/Category:Members_of_the_House_of_Commons_of_Canada_from_British_Columbia|british)" : 0.0296384114
+    }
+  } ]
+}, {
+  "objectIndex" : "66",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Politician",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Politician)" : 0.4157458564,
+      "probability(http://dbpedia.org/resource/Politician|member)" : 0.063835072
+    }
+  } ]
+}, {
+  "objectIndex" : "67",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Indian_National_Congress",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/Indian_National_Congress)" : 0.8524590164,
+      "probability(http://dbpedia.org/resource/Indian_National_Congress|indian)" : 0.4341085271
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|http://dbpedia.org/resource/Indian_National_Congress)" : 0.4754098361,
+      "probability(http://dbpedia.org/resource/Indian_National_Congress|constituency)" : 0.2841207349
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Indian_National_Congress)" : 0.737704918,
+      "probability(http://dbpedia.org/resource/Indian_National_Congress|member)" : 0.0649528068
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|http://dbpedia.org/resource/Indian_National_Congress)" : 0.2950819672,
+      "probability(http://dbpedia.org/resource/Indian_National_Congress|candidate)" : 0.142337977
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/Indian_National_Congress)" : 0.3114754098,
+      "probability(http://dbpedia.org/resource/Indian_National_Congress|former)" : 0.0922146636
+    }
+  } ]
+}, {
+  "objectIndex" : "68",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:Living_people",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Category:Living_people)" : 0.2313432836,
+      "probability(http://dbpedia.org/resource/Category:Living_people|member)" : 0.4968951813
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/Category:Living_people)" : 0.1343283582,
+      "probability(http://dbpedia.org/resource/Category:Living_people|district)" : 0.7064831261
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/Category:Living_people)" : 0.1641791045,
+      "probability(http://dbpedia.org/resource/Category:Living_people|election)" : 0.5522700815
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Category:Living_people)" : 0.1641791045,
+      "probability(http://dbpedia.org/resource/Category:Living_people|assembly)" : 0.5058279743
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Category:Living_people)" : 0.1492537313,
+      "probability(http://dbpedia.org/resource/Category:Living_people|state)" : 0.554109589
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/Category:Living_people)" : 0.0895522388,
+      "probability(http://dbpedia.org/resource/Category:Living_people|former)" : 0.8473167045
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|http://dbpedia.org/resource/Category:Living_people)" : 0.1044776119,
+      "probability(http://dbpedia.org/resource/Category:Living_people|constituency)" : 0.6817585302
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Category:Living_people)" : 0.1194029851,
+      "probability(http://dbpedia.org/resource/Category:Living_people|legislative)" : 0.4853980217
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Category:Living_people)" : 0.0970149254,
+      "probability(http://dbpedia.org/resource/Category:Living_people|canadian)" : 0.5666052793
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/Category:Living_people)" : 0.0820895522,
+      "probability(http://dbpedia.org/resource/Category:Living_people|indian)" : 0.6453488372
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|http://dbpedia.org/resource/Category:Living_people)" : 0.0447761194,
+      "probability(http://dbpedia.org/resource/Category:Living_people|politique)" : 0.7322768974
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://dbpedia.org/resource/Category:Living_people)" : 0.0671641791,
+      "probability(http://dbpedia.org/resource/Category:Living_people|first)" : 0.4497835498
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|http://dbpedia.org/resource/Category:Living_people)" : 0.0373134328,
+      "probability(http://dbpedia.org/resource/Category:Living_people|candidate)" : 0.6305269534
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/Category:Living_people)" : 0.0597014925,
+      "probability(http://dbpedia.org/resource/Category:Living_people|son)" : 0.351580394
+    }
+  } ]
+}, {
+  "objectIndex" : "69",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(figure|http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party)" : 0.8103448276,
+      "probability(http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party|figure)" : 0.0960451977
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party)" : 0.8103448276,
+      "probability(http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party|political)" : 0.059970015
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party)" : 0.9310344828,
+      "probability(http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party|legislative)" : 0.0383890721
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party)" : 0.9310344828,
+      "probability(http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party|assembly)" : 0.0329581994
+    }
+  } ]
+}, {
+  "objectIndex" : "70",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Australian_Labor_Party",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/Australian_Labor_Party)" : 1.0,
+      "probability(http://dbpedia.org/resource/Australian_Labor_Party|australian)" : 0.5427910563
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Australian_Labor_Party)" : 0.9245283019,
+      "probability(http://dbpedia.org/resource/Australian_Labor_Party|legislative)" : 0.11328309
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Australian_Labor_Party)" : 0.9433962264,
+      "probability(http://dbpedia.org/resource/Australian_Labor_Party|member)" : 0.0742672628
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Australian_Labor_Party)" : 0.5660377358,
+      "probability(http://dbpedia.org/resource/Australian_Labor_Party|assembly)" : 0.0986736334
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Australian_Labor_Party)" : 0.2830188679,
+      "probability(http://dbpedia.org/resource/Australian_Labor_Party|state)" : 0.0726027397
+    }
+  } ]
+}, {
+  "objectIndex" : "71",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:New_Brunswick_Liberal_Association_MLAs",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(figure|http://dbpedia.org/resource/Category:New_Brunswick_Liberal_Association_MLAs)" : 0.765625,
+      "probability(http://dbpedia.org/resource/Category:New_Brunswick_Liberal_Association_MLAs|figure)" : 0.0621468927
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|http://dbpedia.org/resource/Category:New_Brunswick_Liberal_Association_MLAs)" : 0.765625,
+      "probability(http://dbpedia.org/resource/Category:New_Brunswick_Liberal_Association_MLAs|political)" : 0.0384807596
+    }
+  } ]
+}, {
+  "objectIndex" : "72",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(constituency|http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly)" : 0.9908256881,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly|constituency)" : 0.2388451444
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly)" : 0.996941896,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly|indian)" : 0.2364341085
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly)" : 0.9113149847,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly|candidate)" : 0.2047244094
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly)" : 0.7951070336,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly|former)" : 0.111866969
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly)" : 0.993883792,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly|legislative)" : 0.0861987753
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly)" : 0.9235474006,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly|election)" : 0.0796274738
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly)" : 0.993883792,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly|assembly)" : 0.0735530547
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly)" : 0.9847094801,
+      "probability(http://dbpedia.org/resource/Tamil_Nadu_legislative_assembly|member)" : 0.04520616
+    }
+  } ]
+}, {
+  "objectIndex" : "73",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/United_States_Army",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/United_States_Army)" : 0.7931034483,
+      "probability(http://dbpedia.org/resource/United_States_Army|state)" : 0.0345890411
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/United_States_Army)" : 0.4310344828,
+      "probability(http://dbpedia.org/resource/United_States_Army|american)" : 0.052259887
+    }
+  } ]
+}, {
+  "objectIndex" : "74",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:Progressive_Conservative_Party_of_New_Brunswick_MLAs",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(figure|http://dbpedia.org/resource/Category:Progressive_Conservative_Party_of_New_Brunswick_MLAs)" : 0.6078431373,
+      "probability(http://dbpedia.org/resource/Category:Progressive_Conservative_Party_of_New_Brunswick_MLAs|figure)" : 0.0460048426
+    }
+  } ]
+}, {
+  "objectIndex" : "75",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/Category:Members_of_the_Wisconsin_State_Assembly",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Category:Members_of_the_Wisconsin_State_Assembly)" : 0.9252336449,
+      "probability(http://dbpedia.org/resource/Category:Members_of_the_Wisconsin_State_Assembly|state)" : 0.0630136986
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Category:Members_of_the_Wisconsin_State_Assembly)" : 0.9345794393,
+      "probability(http://dbpedia.org/resource/Category:Members_of_the_Wisconsin_State_Assembly|assembly)" : 0.036977492
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Category:Members_of_the_Wisconsin_State_Assembly)" : 0.4018691589,
+      "probability(http://dbpedia.org/resource/Category:Members_of_the_Wisconsin_State_Assembly|american)" : 0.0557909605
+    }
+  } ]
+}, {
+  "objectIndex" : "76",
+  "property" : "dbo:wikiPageWikiLink",
+  "object" : "http://dbpedia.org/resource/World_War_II",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/World_War_II)" : 0.6802721088,
+      "probability(http://dbpedia.org/resource/World_War_II|war)" : 0.0725244073
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|http://dbpedia.org/resource/World_War_II)" : 0.380952381,
+      "probability(http://dbpedia.org/resource/World_War_II|figure)" : 0.0637610977
+    }
+  } ]
+} ]

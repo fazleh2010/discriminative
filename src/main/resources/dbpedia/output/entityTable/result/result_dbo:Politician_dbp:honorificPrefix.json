@@ -1,0 +1,171 @@
+[ {
+  "objectIndex" : "94",
+  "property" : "dbp:honorificPrefix",
+  "object" : "http://dbpedia.org/resource/The_Honourable",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/The_Honourable)" : 0.4121621622,
+      "probability(http://dbpedia.org/resource/The_Honourable|australian)" : 0.8217391304
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/The_Honourable)" : 0.4391891892,
+      "probability(http://dbpedia.org/resource/The_Honourable|legislative)" : 0.76953125
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/The_Honourable)" : 0.6193693694,
+      "probability(http://dbpedia.org/resource/The_Honourable|member)" : 0.5166666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/The_Honourable)" : 0.3783783784,
+      "probability(http://dbpedia.org/resource/The_Honourable|assembly)" : 0.6463878327
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|http://dbpedia.org/resource/The_Honourable)" : 0.3243243243,
+      "probability(http://dbpedia.org/resource/The_Honourable|liberal)" : 0.6282051282
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|http://dbpedia.org/resource/The_Honourable)" : 0.2927927928,
+      "probability(http://dbpedia.org/resource/The_Honourable|government)" : 0.6315789474
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/The_Honourable)" : 0.213963964,
+      "probability(http://dbpedia.org/resource/The_Honourable|canadian)" : 0.7058823529
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/The_Honourable)" : 0.2905405405,
+      "probability(http://dbpedia.org/resource/The_Honourable|election)" : 0.5038167939
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|http://dbpedia.org/resource/The_Honourable)" : 0.2635135135,
+      "probability(http://dbpedia.org/resource/The_Honourable|former)" : 0.5433789954
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|http://dbpedia.org/resource/The_Honourable)" : 0.213963964,
+      "probability(http://dbpedia.org/resource/The_Honourable|first)" : 0.4679802956
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/The_Honourable)" : 0.1441441441,
+      "probability(http://dbpedia.org/resource/The_Honourable|district)" : 0.5714285714
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/The_Honourable)" : 0.1734234234,
+      "probability(http://dbpedia.org/resource/The_Honourable|state)" : 0.3574660633
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/The_Honourable)" : 0.1486486486,
+      "probability(http://dbpedia.org/resource/The_Honourable|war)" : 0.311627907
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|http://dbpedia.org/resource/The_Honourable)" : 0.1058558559,
+      "probability(http://dbpedia.org/resource/The_Honourable|seat)" : 0.3902439024
+    }
+  } ]
+}, {
+  "objectIndex" : "95",
+  "property" : "dbp:honorificPrefix",
+  "object" : "http://dbpedia.org/resource/Malay_styles_and_titles",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(malaysian|http://dbpedia.org/resource/Malay_styles_and_titles)" : 0.5178571429,
+      "probability(http://dbpedia.org/resource/Malay_styles_and_titles|malaysian)" : 0.3762376238
+    }
+  }, {
+    "probabilities" : {
+      "probability(name|http://dbpedia.org/resource/Malay_styles_and_titles)" : 0.3392857143,
+      "probability(http://dbpedia.org/resource/Malay_styles_and_titles|name)" : 0.247706422
+    }
+  }, {
+    "probabilities" : {
+      "probability(，|http://dbpedia.org/resource/Malay_styles_and_titles)" : 0.3928571429,
+      "probability(http://dbpedia.org/resource/Malay_styles_and_titles|，)" : 0.1944444444
+    }
+  }, {
+    "probabilities" : {
+      "probability(。|http://dbpedia.org/resource/Malay_styles_and_titles)" : 0.3928571429,
+      "probability(http://dbpedia.org/resource/Malay_styles_and_titles|。)" : 0.1923076923
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|http://dbpedia.org/resource/Malay_styles_and_titles)" : 0.3214285714,
+      "probability(http://dbpedia.org/resource/Malay_styles_and_titles|family)" : 0.2300884956
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Malay_styles_and_titles)" : 0.2857142857,
+      "probability(http://dbpedia.org/resource/Malay_styles_and_titles|state)" : 0.0814479638
+    }
+  } ]
+}, {
+  "objectIndex" : "96",
+  "property" : "dbp:honorificPrefix",
+  "object" : "http://dbpedia.org/resource/The_Right_Honourable",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(british|http://dbpedia.org/resource/The_Right_Honourable)" : 0.415,
+      "probability(http://dbpedia.org/resource/The_Right_Honourable|british)" : 0.5424836601
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/The_Right_Honourable)" : 0.39,
+      "probability(http://dbpedia.org/resource/The_Right_Honourable|war)" : 0.3674418605
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|http://dbpedia.org/resource/The_Right_Honourable)" : 0.235,
+      "probability(http://dbpedia.org/resource/The_Right_Honourable|liberal)" : 0.2008547009
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/The_Right_Honourable)" : 0.33,
+      "probability(http://dbpedia.org/resource/The_Right_Honourable|member)" : 0.1222222222
+    }
+  } ]
+}, {
+  "objectIndex" : "97",
+  "property" : "dbp:honorificPrefix",
+  "object" : "http://dbpedia.org/resource/Malay_titles",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(。|http://dbpedia.org/resource/Malay_titles)" : 0.6174863388,
+      "probability(http://dbpedia.org/resource/Malay_titles|。)" : 0.6428571429
+    }
+  }, {
+    "probabilities" : {
+      "probability(，|http://dbpedia.org/resource/Malay_titles)" : 0.6120218579,
+      "probability(http://dbpedia.org/resource/Malay_titles|，)" : 0.6444444444
+    }
+  }, {
+    "probabilities" : {
+      "probability(malaysian|http://dbpedia.org/resource/Malay_titles)" : 0.3005464481,
+      "probability(http://dbpedia.org/resource/Malay_titles|malaysian)" : 0.5544554455
+    }
+  }, {
+    "probabilities" : {
+      "probability(name|http://dbpedia.org/resource/Malay_titles)" : 0.1639344262,
+      "probability(http://dbpedia.org/resource/Malay_titles|name)" : 0.2752293578
+    }
+  }, {
+    "probabilities" : {
+      "probability(family|http://dbpedia.org/resource/Malay_titles)" : 0.1584699454,
+      "probability(http://dbpedia.org/resource/Malay_titles|family)" : 0.2566371681
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Malay_titles)" : 0.2786885246,
+      "probability(http://dbpedia.org/resource/Malay_titles|member)" : 0.0944444444
+    }
+  } ]
+} ]

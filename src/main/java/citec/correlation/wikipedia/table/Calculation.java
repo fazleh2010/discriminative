@@ -27,7 +27,7 @@ import org.javatuples.Pair;
  */
 public class Calculation implements TextAnalyzer {
 
-    private   List<String> interestedWords = new ArrayList<String>();
+    private Map<String, List<String>> propertyInterestedWords = new HashMap<String, List<String>>();
     private  Map<String, List<Results>> tableResults = new HashMap<String, List<Results> >();
     private Integer numberOfEntities = 200;
    
@@ -40,13 +40,9 @@ public class Calculation implements TextAnalyzer {
         
     }*/
 
-    public Calculation(Tables tables, String className,  List<String> interestedWords ,String outputDir) throws IOException, Exception {
-        this.interestedWords=interestedWords;
-        /*tables.readSplitTables(outputDir, className);
-        String sortFile = tables.getEntityTableDir() + File.separator + "a_interestedList.txt";
-        findInterestedWordsForEntities(tables.getAllDBpediaEntitys(),sortFile,100);
-        this.interestedWords = FileFolderUtils.getSortedList(sortFile, 200, 50); */ 
-       this.calculation(tables,className,tables.getEntityTableDir());
+    public Calculation(Tables tables, String className,  Map<String, List<String>> propertyInterestedWords ,String outputDir) throws IOException, Exception {
+        this.propertyInterestedWords=propertyInterestedWords;
+        this.calculation(tables,className,tables.getEntityTableDir());
     }
     
     private void calculation(Tables tables, String className,String outputDir) throws IOException, Exception {
@@ -58,7 +54,12 @@ public class Calculation implements TextAnalyzer {
                      continue;
            
             String property = Tables.getProperty(tableName);
+            String classNameAndProperty = Tables.getClassAndProperty(tableName);
+            List<String> interestedWords=new ArrayList<String>();
             
+            if(this.propertyInterestedWords.containsKey(classNameAndProperty)) {
+                interestedWords=propertyInterestedWords.get(classNameAndProperty);
+            }
             /*if (!tableName.contains("dbo:party")) {
                 continue;
             }*/
@@ -69,15 +70,16 @@ public class Calculation implements TextAnalyzer {
 
             //all KBs..........................
             List<Results> kbResults = new ArrayList<Results>();
-              System.out.println("TableName:"+tableName);
             for (String A : entityCategories.keySet()) {
                 List<Result> results = new ArrayList<Result>();
                 List<DBpediaEntity> dbpediaEntitiesGroup = entityCategories.get(A);
                 if(dbpediaEntitiesGroup.size()<50)
                      continue;
                 
+                
+                
               
-                System.out.println("KB:"+A);
+                //System.out.println("KB:"+A);
                 //all words
                 for (String word : interestedWords) {
                     String B = word;
@@ -86,7 +88,6 @@ public class Calculation implements TextAnalyzer {
                     Pair pairWord = this.countConditionalProbabilities(tableName, dbpediaEntitiesGroup, property, A, B, Result.PROBABILITY_WORD_GIVEN_OBJECT);
                     Pair pairObject = this.countConditionalProbabilities(tableName, dbpediaEntities, property, A, B, Result.PROBABILITY_OBJECT_GIVEN_WORD);
                     if (pairWord != null && pairObject != null) {
-                        //if(!((Double)pairWord.getValue1()==0.0)&&((Double)pairObject.getValue1()==0.0)){
                            Double wordCount=(Double)pairWord.getValue1();
                            Double objectCount=(Double)pairObject.getValue1();
                           
@@ -94,16 +95,6 @@ public class Calculation implements TextAnalyzer {
                                 result = new Result(pairWord, pairObject);
                                 results.add(result);   
                            }
-                           /*if(!(wordCount==0&&objectCount==0)){
-                                result = new Result(pairWord, pairObject);
-                                results.add(result);   
-                           }*/
-                           
-                          
-            
-                         
-                        //}
-                       
                     }
                     //}
                 }//all words end

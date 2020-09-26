@@ -1,0 +1,31 @@
+[ {
+  "objectIndex" : "26",
+  "property" : "dbp:stateDelegate",
+  "object" : "Maryland",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(district|Maryland)" : 0.8181818182,
+      "probability(Maryland|district)" : 0.7258064516
+    }
+  }, {
+    "probabilities" : {
+      "probability(politician|Maryland)" : 0.8181818182,
+      "probability(Maryland|politician)" : 0.671641791
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Maryland)" : 0.5090909091,
+      "probability(Maryland|member)" : 0.9032258065
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|Maryland)" : 0.3272727273,
+      "probability(Maryland|legislative)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|Maryland)" : 0.1636363636,
+      "probability(Maryland|first)" : 0.8181818182
+    }
+  } ]
+} ]

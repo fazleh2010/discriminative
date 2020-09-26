@@ -59,7 +59,7 @@ public class InterestedWords {
         }
     }
 
-    public void prepareWords(String className, String type) throws Exception {
+    public void prepareWords(String className, String type,Integer numberOfEntitesSelected) throws Exception {
 
         String str = null;
         tables.readSplitTables(outputDir, className);
@@ -72,10 +72,13 @@ public class InterestedWords {
             sortFiles.add(sortFile);
         } else if (type.contains(PROPRTY_WISE)) {
             for (String property : properties) {
-                str = this.prepareForAllProperties(tables.getAllDBpediaEntitys(), property);
-                String sortFile = outputLocation + className + "_" + property + FILE_NOTATION;
-                FileFolderUtils.stringToFiles(str, sortFile);
-                this.sortFiles.add(sortFile);
+                str = this.prepareForAllProperties(tables.getAllDBpediaEntitys(), property,numberOfEntitesSelected);
+                if(str!=null){
+                   String sortFile = outputLocation + className + "_" + property + FILE_NOTATION;
+                   FileFolderUtils.stringToFiles(str, sortFile);
+                   this.sortFiles.add(sortFile);  
+                }
+               
             }
         }
 
@@ -107,13 +110,14 @@ public class InterestedWords {
         return SortUtils.sort(mostCommonWords, numberOfEntitiesToLimitInFile);
     }
 
-    private String prepareForAllProperties(List<DBpediaEntity> dbpediaEntities, String property) {
+    private String prepareForAllProperties(List<DBpediaEntity> dbpediaEntities, String property,Integer numberEntitiesSelected) {
         Map<String, Integer> mostCommonWords = new HashMap<String, Integer>();
-
+        Integer index=0;
         for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
             if (!dbpediaEntity.getProperties().containsKey(property)) {
                 continue;
             }
+            index=index+1;
 
             Set<String> adjectives = dbpediaEntity.getAdjectives();
             Set<String> list = dbpediaEntity.getNouns();
@@ -136,6 +140,10 @@ public class InterestedWords {
             }
 
         }
+        if(index<numberEntitiesSelected){
+           return null;  
+        }
+           
         return SortUtils.sort(mostCommonWords, numberOfEntitiesToLimitInFile);
     }
 

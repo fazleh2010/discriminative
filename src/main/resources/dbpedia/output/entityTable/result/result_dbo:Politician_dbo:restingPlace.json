@@ -1,0 +1,61 @@
+[ {
+  "objectIndex" : "28",
+  "property" : "dbo:restingPlace",
+  "object" : "http://dbpedia.org/resource/Connecticut",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(session|http://dbpedia.org/resource/Connecticut)" : 0.4925373134,
+      "probability(http://dbpedia.org/resource/Connecticut|session)" : 0.8048780488
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Connecticut)" : 0.9850746269,
+      "probability(http://dbpedia.org/resource/Connecticut|er)" : 0.2844827586
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/Connecticut)" : 0.6119402985,
+      "probability(http://dbpedia.org/resource/Connecticut|son)" : 0.3942307692
+    }
+  }, {
+    "probabilities" : {
+      "probability(settler|http://dbpedia.org/resource/Connecticut)" : 0.2388059701,
+      "probability(http://dbpedia.org/resource/Connecticut|settler)" : 0.6666666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Connecticut)" : 0.3880597015,
+      "probability(http://dbpedia.org/resource/Connecticut|war)" : 0.3170731707
+    }
+  }, {
+    "probabilities" : {
+      "probability(12th|http://dbpedia.org/resource/Connecticut)" : 0.1343283582,
+      "probability(http://dbpedia.org/resource/Connecticut|12th)" : 0.75
+    }
+  }, {
+    "probabilities" : {
+      "probability(founding|http://dbpedia.org/resource/Connecticut)" : 0.1492537313,
+      "probability(http://dbpedia.org/resource/Connecticut|founding)" : 0.6666666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(deputy|http://dbpedia.org/resource/Connecticut)" : 0.1343283582,
+      "probability(http://dbpedia.org/resource/Connecticut|deputy)" : 0.6
+    }
+  }, {
+    "probabilities" : {
+      "probability(mayor|http://dbpedia.org/resource/Connecticut)" : 0.1194029851,
+      "probability(http://dbpedia.org/resource/Connecticut|mayor)" : 0.2
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Connecticut)" : 0.1194029851,
+      "probability(http://dbpedia.org/resource/Connecticut|assembly)" : 0.1904761905
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Connecticut)" : 0.0895522388,
+      "probability(http://dbpedia.org/resource/Connecticut|american)" : 0.25
+    }
+  } ]
+} ]

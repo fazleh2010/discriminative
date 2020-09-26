@@ -1,0 +1,101 @@
+[ {
+  "objectIndex" : "157",
+  "property" : "dbp:rows",
+  "object" : "2",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(party|2)" : 0.4294117647,
+      "probability(2|party)" : 0.9024390244
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|2)" : 0.4235294118,
+      "probability(2|member)" : 0.8588235294
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|2)" : 0.3705882353,
+      "probability(2|minister)" : 0.8888888889
+    }
+  }, {
+    "probabilities" : {
+      "probability(australian|2)" : 0.3176470588,
+      "probability(2|australian)" : 0.9482758621
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|2)" : 0.2764705882,
+      "probability(2|liberal)" : 0.9791666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|2)" : 0.2764705882,
+      "probability(2|legislative)" : 0.94
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|2)" : 0.2352941176,
+      "probability(2|assembly)" : 0.9523809524
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|2)" : 0.2411764706,
+      "probability(2|government)" : 0.9130434783
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|2)" : 0.2176470588,
+      "probability(2|former)" : 0.95
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|2)" : 0.2411764706,
+      "probability(2|state)" : 0.8541666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|2)" : 0.2352941176,
+      "probability(2|war)" : 0.8723404255
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|2)" : 0.2235294118,
+      "probability(2|election)" : 0.8863636364
+    }
+  }, {
+    "probabilities" : {
+      "probability(mp|2)" : 0.2294117647,
+      "probability(2|mp)" : 0.829787234
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|2)" : 0.1823529412,
+      "probability(2|first)" : 0.9411764706
+    }
+  }, {
+    "probabilities" : {
+      "probability(governor|2)" : 0.1117647059,
+      "probability(2|governor)" : 0.95
+    }
+  }, {
+    "probabilities" : {
+      "probability(second|2)" : 0.1,
+      "probability(2|second)" : 0.9
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|2)" : 0.0941176471,
+      "probability(2|american)" : 0.8888888889
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|2)" : 0.0823529412,
+      "probability(2|political)" : 0.9333333333
+    }
+  }, {
+    "probabilities" : {
+      "probability(british|2)" : 0.0823529412,
+      "probability(2|british)" : 0.8235294118
+    }
+  } ]
+} ]

@@ -237,6 +237,10 @@ public class Tables implements PropertyNotation{
         return info[1].replace(".json", "");
     }
 
+     public static String getClassAndProperty(String tableName){
+        return tableName.replace(".json", "");
+    }
+
     public void display() {
         for (String tableName : entityTables.keySet()) {
             System.out.println(entityTables.get(tableName));

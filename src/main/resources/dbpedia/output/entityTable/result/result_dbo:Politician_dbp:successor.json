@@ -1,0 +1,251 @@
+[ {
+  "objectIndex" : "89",
+  "property" : "dbp:successor",
+  "object" : "Incumbent",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(state|Incumbent)" : 0.2903225806,
+      "probability(Incumbent|state)" : 0.140077821
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Incumbent)" : 0.4596774194,
+      "probability(Incumbent|member)" : 0.084179971
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|Incumbent)" : 0.2903225806,
+      "probability(Incumbent|district)" : 0.1304347826
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|Incumbent)" : 0.25,
+      "probability(Incumbent|city)" : 0.1434977578
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Incumbent)" : 0.2983870968,
+      "probability(Incumbent|election)" : 0.0976863753
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|Incumbent)" : 0.2338709677,
+      "probability(Incumbent|first)" : 0.1136363636
+    }
+  } ]
+}, {
+  "objectIndex" : "90",
+  "property" : "dbp:successor",
+  "object" : "riding dissolved",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|riding dissolved)" : 0.6086956522,
+      "probability(riding dissolved|canadian)" : 0.34375
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|riding dissolved)" : 0.6335403727,
+      "probability(riding dissolved|assembly)" : 0.2119341564
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|riding dissolved)" : 0.2857142857,
+      "probability(riding dissolved|electoral)" : 0.4181818182
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|riding dissolved)" : 0.397515528,
+      "probability(riding dissolved|provincial)" : 0.2962962963
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|riding dissolved)" : 0.5031055901,
+      "probability(riding dissolved|election)" : 0.2107969152
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|riding dissolved)" : 0.6335403727,
+      "probability(riding dissolved|member)" : 0.1494920174
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|riding dissolved)" : 0.4285714286,
+      "probability(riding dissolved|legislative)" : 0.1711491443
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|riding dissolved)" : 0.347826087,
+      "probability(riding dissolved|district)" : 0.2028985507
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|riding dissolved)" : 0.2173913043,
+      "probability(riding dissolved|politique)" : 0.2868852459
+    }
+  }, {
+    "probabilities" : {
+      "probability(cabinet|riding dissolved)" : 0.2298136646,
+      "probability(riding dissolved|cabinet)" : 0.2389937107
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|riding dissolved)" : 0.3354037267,
+      "probability(riding dissolved|former)" : 0.1636363636
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|riding dissolved)" : 0.1552795031,
+      "probability(riding dissolved|homme)" : 0.2747252747
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|riding dissolved)" : 0.248447205,
+      "probability(riding dissolved|first)" : 0.1553030303
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|riding dissolved)" : 0.1925465839,
+      "probability(riding dissolved|government)" : 0.1260162602
+    }
+  } ]
+}, {
+  "objectIndex" : "91",
+  "property" : "dbp:successor",
+  "object" : "incumbent",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|incumbent)" : 0.4237288136,
+      "probability(incumbent|canadian)" : 0.1944444444
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|incumbent)" : 0.4152542373,
+      "probability(incumbent|district)" : 0.1956521739
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|incumbent)" : 0.4152542373,
+      "probability(incumbent|election)" : 0.1362467866
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|incumbent)" : 0.2288135593,
+      "probability(incumbent|politique)" : 0.237704918
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|incumbent)" : 0.5,
+      "probability(incumbent|member)" : 0.0972423803
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|incumbent)" : 0.1779661017,
+      "probability(incumbent|homme)" : 0.2417582418
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|incumbent)" : 0.1779661017,
+      "probability(incumbent|electoral)" : 0.2363636364
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|incumbent)" : 0.3813559322,
+      "probability(incumbent|assembly)" : 0.1049382716
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|incumbent)" : 0.2203389831,
+      "probability(incumbent|provincial)" : 0.1435185185
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|incumbent)" : 0.2796610169,
+      "probability(incumbent|legislative)" : 0.0880195599
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|incumbent)" : 0.2118644068,
+      "probability(incumbent|first)" : 0.1060606061
+    }
+  } ]
+}, {
+  "objectIndex" : "92",
+  "property" : "dbp:successor",
+  "object" : "Riding abolished",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|Riding abolished)" : 0.9047619048,
+      "probability(Riding abolished|legislative)" : 0.1393643032
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Riding abolished)" : 0.9047619048,
+      "probability(Riding abolished|assembly)" : 0.1172839506
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Riding abolished)" : 0.9047619048,
+      "probability(Riding abolished|member)" : 0.0827285922
+    }
+  }, {
+    "probabilities" : {
+      "probability(cabinet|Riding abolished)" : 0.4126984127,
+      "probability(Riding abolished|cabinet)" : 0.1635220126
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|Riding abolished)" : 0.4603174603,
+      "probability(Riding abolished|former)" : 0.0878787879
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|Riding abolished)" : 0.3492063492,
+      "probability(Riding abolished|government)" : 0.0894308943
+    }
+  } ]
+}, {
+  "objectIndex" : "93",
+  "property" : "dbp:successor",
+  "object" : "District Abolished",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(provincial|District Abolished)" : 0.7457627119,
+      "probability(District Abolished|provincial)" : 0.212962963
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|District Abolished)" : 0.9152542373,
+      "probability(District Abolished|assembly)" : 0.1172839506
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|District Abolished)" : 0.8644067797,
+      "probability(District Abolished|member)" : 0.0769230769
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|District Abolished)" : 0.6271186441,
+      "probability(District Abolished|legislative)" : 0.0929095355
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|District Abolished)" : 0.3559322034,
+      "probability(District Abolished|government)" : 0.0894308943
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|District Abolished)" : 0.3220338983,
+      "probability(District Abolished|district)" : 0.0797101449
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|District Abolished)" : 0.3220338983,
+      "probability(District Abolished|canadian)" : 0.0729166667
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|District Abolished)" : 0.2033898305,
+      "probability(District Abolished|electoral)" : 0.1090909091
+    }
+  } ]
+} ]

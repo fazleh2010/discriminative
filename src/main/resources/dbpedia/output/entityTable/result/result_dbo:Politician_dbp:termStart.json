@@ -1,0 +1,176 @@
+[ {
+  "objectIndex" : "177",
+  "property" : "dbp:termStart",
+  "object" : "1971",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|1971)" : 0.6229508197,
+      "probability(1971|legislative)" : 0.0435606061
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|1971)" : 0.6885245902,
+      "probability(1971|assembly)" : 0.033557047
+    }
+  } ]
+}, {
+  "objectIndex" : "178",
+  "property" : "dbp:termStart",
+  "object" : "1979",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(provincial|1979)" : 0.4576271186,
+      "probability(1979|provincial)" : 0.0516351119
+    }
+  } ]
+}, {
+  "objectIndex" : "179",
+  "property" : "dbp:termStart",
+  "object" : "1986",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|1986)" : 0.5223880597,
+      "probability(1986|legislative)" : 0.0416666667
+    }
+  } ]
+}, {
+  "objectIndex" : "180",
+  "property" : "dbp:termStart",
+  "object" : "1996",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|1996)" : 0.4473684211,
+      "probability(1996|canadian)" : 0.048098434
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|1996)" : 0.4736842105,
+      "probability(1996|former)" : 0.0453608247
+    }
+  } ]
+}, {
+  "objectIndex" : "181",
+  "property" : "dbp:termStart",
+  "object" : "1995",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(assembly|1995)" : 0.5428571429,
+      "probability(1995|assembly)" : 0.0510067114
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|1995)" : 0.4,
+      "probability(1995|former)" : 0.0628865979
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|1995)" : 0.4380952381,
+      "probability(1995|legislative)" : 0.0568181818
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|1995)" : 0.580952381,
+      "probability(1995|member)" : 0.0393428448
+    }
+  } ]
+}, {
+  "objectIndex" : "182",
+  "property" : "dbp:termStart",
+  "object" : "1991",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(democratic|1991)" : 0.3488372093,
+      "probability(1991|democratic)" : 0.0662460568
+    }
+  } ]
+}, {
+  "objectIndex" : "183",
+  "property" : "dbp:termStart",
+  "object" : "1999",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|1999)" : 0.5367647059,
+      "probability(1999|member)" : 0.0488543018
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|1999)" : 0.3161764706,
+      "probability(1999|former)" : 0.0721649485
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|1999)" : 0.3676470588,
+      "probability(1999|assembly)" : 0.0590604027
+    }
+  } ]
+}, {
+  "objectIndex" : "184",
+  "property" : "dbp:termStart",
+  "object" : "2001",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|2001)" : 0.488372093,
+      "probability(2001|legislative)" : 0.0577651515
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|2001)" : 0.4418604651,
+      "probability(2001|canadian)" : 0.0548098434
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|2001)" : 0.5348837209,
+      "probability(2001|assembly)" : 0.0436241611
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|2001)" : 0.5930232558,
+      "probability(2001|member)" : 0.0345871163
+    }
+  } ]
+}, {
+  "objectIndex" : "185",
+  "property" : "dbp:termStart",
+  "object" : "2011",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(politique|2011)" : 0.3186813187,
+      "probability(2011|politique)" : 0.1182795699
+    }
+  } ]
+}, {
+  "objectIndex" : "186",
+  "property" : "dbp:termStart",
+  "object" : "2003",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|2003)" : 0.6033057851,
+      "probability(2003|member)" : 0.0410722006
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|2003)" : 0.347107438,
+      "probability(2003|former)" : 0.0587628866
+    }
+  } ]
+}, {
+  "objectIndex" : "187",
+  "property" : "dbp:termStart",
+  "object" : "2013",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(electoral|2013)" : 0.3968253968,
+      "probability(2013|electoral)" : 0.0683544304
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|2013)" : 0.5873015873,
+      "probability(2013|election)" : 0.0418562329
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|2013)" : 0.5555555556,
+      "probability(2013|district)" : 0.0412168793
+    }
+  } ]
+} ]

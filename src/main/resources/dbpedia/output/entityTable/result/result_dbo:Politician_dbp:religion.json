@@ -1,0 +1,136 @@
+[ {
+  "objectIndex" : "45",
+  "property" : "dbp:religion",
+  "object" : "Hindu",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(indian|Hindu)" : 0.8679245283,
+      "probability(Hindu|indian)" : 0.6216216216
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|Hindu)" : 0.6226415094,
+      "probability(Hindu|constituency)" : 0.5689655172
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Hindu)" : 0.6981132075,
+      "probability(Hindu|member)" : 0.1608695652
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|Hindu)" : 0.2641509434,
+      "probability(Hindu|candidate)" : 0.3684210526
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Hindu)" : 0.2641509434,
+      "probability(Hindu|election)" : 0.1489361702
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Hindu)" : 0.2452830189,
+      "probability(Hindu|son)" : 0.1111111111
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|Hindu)" : 0.2452830189,
+      "probability(Hindu|state)" : 0.1015625
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|Hindu)" : 0.2641509434,
+      "probability(Hindu|district)" : 0.0921052632
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|Hindu)" : 0.1698113208,
+      "probability(Hindu|legislative)" : 0.125
+    }
+  } ]
+}, {
+  "objectIndex" : "46",
+  "property" : "dbp:religion",
+  "object" : "Roman Catholic",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(mayor|Roman Catholic)" : 0.3278688525,
+      "probability(Roman Catholic|mayor)" : 0.2777777778
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Roman Catholic)" : 0.3114754098,
+      "probability(Roman Catholic|election)" : 0.2021276596
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|Roman Catholic)" : 0.2131147541,
+      "probability(Roman Catholic|democratic)" : 0.224137931
+    }
+  }, {
+    "probabilities" : {
+      "probability(term|Roman Catholic)" : 0.2295081967,
+      "probability(Roman Catholic|term)" : 0.2058823529
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|Roman Catholic)" : 0.3278688525,
+      "probability(Roman Catholic|district)" : 0.1315789474
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|Roman Catholic)" : 0.2131147541,
+      "probability(Roman Catholic|city)" : 0.196969697
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|Roman Catholic)" : 0.2295081967,
+      "probability(Roman Catholic|former)" : 0.1818181818
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Roman Catholic)" : 0.393442623,
+      "probability(Roman Catholic|member)" : 0.1043478261
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|Roman Catholic)" : 0.1967213115,
+      "probability(Roman Catholic|canadian)" : 0.1875
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|Roman Catholic)" : 0.1967213115,
+      "probability(Roman Catholic|american)" : 0.1818181818
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|Roman Catholic)" : 0.1639344262,
+      "probability(Roman Catholic|electoral)" : 0.2083333333
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Roman Catholic)" : 0.2295081967,
+      "probability(Roman Catholic|assembly)" : 0.1261261261
+    }
+  }, {
+    "probabilities" : {
+      "probability(republican|Roman Catholic)" : 0.1803278689,
+      "probability(Roman Catholic|republican)" : 0.1527777778
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Roman Catholic)" : 0.2131147541,
+      "probability(Roman Catholic|son)" : 0.1111111111
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|Roman Catholic)" : 0.2131147541,
+      "probability(Roman Catholic|state)" : 0.1015625
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|Roman Catholic)" : 0.1147540984,
+      "probability(Roman Catholic|candidate)" : 0.1842105263
+    }
+  } ]
+} ]

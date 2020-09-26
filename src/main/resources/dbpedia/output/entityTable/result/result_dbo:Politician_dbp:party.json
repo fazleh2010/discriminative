@@ -1,0 +1,166 @@
+[ {
+  "objectIndex" : "199",
+  "property" : "dbp:party",
+  "object" : "Democratic Party",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(district|Democratic Party)" : 0.4375,
+      "probability(Democratic Party|district)" : 0.42
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|Democratic Party)" : 0.4270833333,
+      "probability(Democratic Party|state)" : 0.2763157895
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|Democratic Party)" : 0.21875,
+      "probability(Democratic Party|politiker)" : 0.4038461538
+    }
+  }, {
+    "probabilities" : {
+      "probability(democratic|Democratic Party)" : 0.2083333333,
+      "probability(Democratic Party|democratic)" : 0.4081632653
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|Democratic Party)" : 0.2916666667,
+      "probability(Democratic Party|american)" : 0.2641509434
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|Democratic Party)" : 0.1979166667,
+      "probability(Democratic Party|former)" : 0.2261904762
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Democratic Party)" : 0.28125,
+      "probability(Democratic Party|election)" : 0.1513513514
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|Democratic Party)" : 0.2291666667,
+      "probability(Democratic Party|war)" : 0.1402439024
+    }
+  }, {
+    "probabilities" : {
+      "probability(city|Democratic Party)" : 0.1770833333,
+      "probability(Democratic Party|city)" : 0.1789473684
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Democratic Party)" : 0.375,
+      "probability(Democratic Party|member)" : 0.0818181818
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Democratic Party)" : 0.25,
+      "probability(Democratic Party|son)" : 0.12
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Democratic Party)" : 0.1458333333,
+      "probability(Democratic Party|assembly)" : 0.1728395062
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|Democratic Party)" : 0.1458333333,
+      "probability(Democratic Party|general)" : 0.1428571429
+    }
+  } ]
+}, {
+  "objectIndex" : "200",
+  "property" : "dbp:party",
+  "object" : "Independent politician",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(19th-century|Independent politician)" : 0.654676259,
+      "probability(Independent politician|19th-century)" : 0.455
+    }
+  }, {
+    "probabilities" : {
+      "probability(electorate|Independent politician)" : 0.6474820144,
+      "probability(Independent politician|electorate)" : 0.4
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Independent politician)" : 0.8057553957,
+      "probability(Independent politician|member)" : 0.2545454545
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Independent politician)" : 0.3381294964,
+      "probability(Independent politician|son)" : 0.235
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Independent politician)" : 0.2446043165,
+      "probability(Independent politician|election)" : 0.1891891892
+    }
+  }, {
+    "probabilities" : {
+      "probability(independent|Independent politician)" : 0.1079136691,
+      "probability(Independent politician|independent)" : 0.3125
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|Independent politician)" : 0.1079136691,
+      "probability(Independent politician|legislative)" : 0.1875
+    }
+  } ]
+}, {
+  "objectIndex" : "201",
+  "property" : "dbp:party",
+  "object" : "Independent",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(19th-century|Independent)" : 0.5691489362,
+      "probability(Independent|19th-century)" : 0.535
+    }
+  }, {
+    "probabilities" : {
+      "probability(electorate|Independent)" : 0.579787234,
+      "probability(Independent|electorate)" : 0.4844444444
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Independent)" : 0.75,
+      "probability(Independent|member)" : 0.3318181818
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|Independent)" : 0.2606382979,
+      "probability(Independent|son)" : 0.27
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|Independent)" : 0.1542553191,
+      "probability(Independent|legislative)" : 0.375
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|Independent)" : 0.2074468085,
+      "probability(Independent|war)" : 0.262195122
+    }
+  }, {
+    "probabilities" : {
+      "probability(independent|Independent)" : 0.1063829787,
+      "probability(Independent|independent)" : 0.4583333333
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Independent)" : 0.1914893617,
+      "probability(Independent|election)" : 0.227027027
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|Independent)" : 0.1223404255,
+      "probability(Independent|first)" : 0.2476190476
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Independent)" : 0.0904255319,
+      "probability(Independent|assembly)" : 0.2345679012
+    }
+  } ]
+} ]

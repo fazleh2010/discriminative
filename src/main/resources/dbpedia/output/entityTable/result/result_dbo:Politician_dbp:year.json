@@ -1,0 +1,81 @@
+[ {
+  "objectIndex" : "47",
+  "property" : "dbp:year",
+  "object" : "2006",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|2006)" : 0.9459459459,
+      "probability(2006|member)" : 0.6306306306
+    }
+  }, {
+    "probabilities" : {
+      "probability(lok|2006)" : 0.9189189189,
+      "probability(2006|lok)" : 0.6476190476
+    }
+  }, {
+    "probabilities" : {
+      "probability(14th|2006)" : 0.7297297297,
+      "probability(2006|14th)" : 0.7826086957
+    }
+  }, {
+    "probabilities" : {
+      "probability(sabha|2006)" : 0.9189189189,
+      "probability(2006|sabha)" : 0.6181818182
+    }
+  }, {
+    "probabilities" : {
+      "probability(indian|2006)" : 0.8108108108,
+      "probability(2006|indian)" : 0.5405405405
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|2006)" : 0.6216216216,
+      "probability(2006|party)" : 0.5897435897
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|2006)" : 0.5675675676,
+      "probability(2006|political)" : 0.6268656716
+    }
+  }, {
+    "probabilities" : {
+      "probability(minister|2006)" : 0.2432432432,
+      "probability(2006|minister)" : 0.45
+    }
+  }, {
+    "probabilities" : {
+      "probability(15th|2006)" : 0.1621621622,
+      "probability(2006|15th)" : 0.6666666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(politician|2006)" : 0.2702702703,
+      "probability(2006|politician)" : 0.3636363636
+    }
+  }, {
+    "probabilities" : {
+      "probability(candidate|2006)" : 0.1486486486,
+      "probability(2006|candidate)" : 0.5789473684
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|2006)" : 0.1351351351,
+      "probability(2006|former)" : 0.4761904762
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|2006)" : 0.1351351351,
+      "probability(2006|state)" : 0.2777777778
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|2006)" : 0.0945945946,
+      "probability(2006|assembly)" : 0.3043478261
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|2006)" : 0.0675675676,
+      "probability(2006|leader)" : 0.3846153846
+    }
+  } ]
+} ]

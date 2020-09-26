@@ -1,0 +1,151 @@
+[ {
+  "objectIndex" : "172",
+  "property" : "dbp:nationality",
+  "object" : "American",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(american|American)" : 0.5797101449,
+      "probability(American|american)" : 0.9756097561
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|American)" : 0.6811594203,
+      "probability(American|state)" : 0.3700787402
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|American)" : 0.2898550725,
+      "probability(American|district)" : 0.4444444444
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|American)" : 0.2463768116,
+      "probability(American|former)" : 0.1452991453
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|American)" : 0.1739130435,
+      "probability(American|first)" : 0.1643835616
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|American)" : 0.2898550725,
+      "probability(American|member)" : 0.0819672131
+    }
+  } ]
+}, {
+  "objectIndex" : "173",
+  "property" : "dbp:nationality",
+  "object" : "British",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(british|British)" : 0.4625,
+      "probability(British|british)" : 0.74
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|British)" : 0.4125,
+      "probability(British|party)" : 0.1803278689
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|British)" : 0.4375,
+      "probability(British|member)" : 0.1475409836
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|British)" : 0.2625,
+      "probability(British|war)" : 0.1926605505
+    }
+  }, {
+    "probabilities" : {
+      "probability(constituency|British)" : 0.1125,
+      "probability(British|constituency)" : 0.3214285714
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|British)" : 0.2,
+      "probability(British|election)" : 0.1467889908
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|British)" : 0.15,
+      "probability(British|first)" : 0.1643835616
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|British)" : 0.1875,
+      "probability(British|former)" : 0.1282051282
+    }
+  } ]
+}, {
+  "objectIndex" : "174",
+  "property" : "dbp:nationality",
+  "object" : "Australian",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|Australian)" : 0.9371069182,
+      "probability(Australian|australian)" : 0.9551282051
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|Australian)" : 0.572327044,
+      "probability(Australian|legislative)" : 0.7583333333
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|Australian)" : 0.7358490566,
+      "probability(Australian|member)" : 0.4795081967
+    }
+  }, {
+    "probabilities" : {
+      "probability(party|Australian)" : 0.6037735849,
+      "probability(Australian|party)" : 0.5245901639
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|Australian)" : 0.4716981132,
+      "probability(Australian|assembly)" : 0.6696428571
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|Australian)" : 0.4025157233,
+      "probability(Australian|election)" : 0.5871559633
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|Australian)" : 0.2641509434,
+      "probability(Australian|seat)" : 0.6461538462
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|Australian)" : 0.3018867925,
+      "probability(Australian|former)" : 0.4102564103
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|Australian)" : 0.2389937107,
+      "probability(Australian|government)" : 0.5066666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|Australian)" : 0.2704402516,
+      "probability(Australian|state)" : 0.3385826772
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|Australian)" : 0.1761006289,
+      "probability(Australian|first)" : 0.3835616438
+    }
+  }, {
+    "probabilities" : {
+      "probability(leader|Australian)" : 0.1383647799,
+      "probability(Australian|leader)" : 0.4074074074
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|Australian)" : 0.1446540881,
+      "probability(Australian|war)" : 0.2110091743
+    }
+  } ]
+} ]

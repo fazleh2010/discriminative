@@ -1,0 +1,61 @@
+[ {
+  "objectIndex" : "132",
+  "property" : "dbp:nolist",
+  "object" : "true",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(parliament|true)" : 0.8538461538,
+      "probability(true|parliament)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|true)" : 0.8384615385,
+      "probability(true|member)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(electorate|true)" : 0.7038461538,
+      "probability(true|electorate)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|true)" : 0.3192307692,
+      "probability(true|son)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(region|true)" : 0.1961538462,
+      "probability(true|region)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(politician|true)" : 0.1961538462,
+      "probability(true|politician)" : 0.9807692308
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|true)" : 0.1769230769,
+      "probability(true|election)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|true)" : 0.0961538462,
+      "probability(true|first)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(by-election|true)" : 0.0923076923,
+      "probability(true|by-election)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(independent|true)" : 0.0615384615,
+      "probability(true|independent)" : 1.0
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|true)" : 0.0615384615,
+      "probability(true|conservative)" : 0.9411764706
+    }
+  } ]
+} ]

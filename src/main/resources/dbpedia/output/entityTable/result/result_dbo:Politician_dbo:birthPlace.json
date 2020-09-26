@@ -1,0 +1,156 @@
+[ {
+  "objectIndex" : "158",
+  "property" : "dbo:birthPlace",
+  "object" : "http://dbpedia.org/resource/Paris",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(né|http://dbpedia.org/resource/Paris)" : 0.7567567568,
+      "probability(http://dbpedia.org/resource/Paris|né)" : 0.0591341077
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|http://dbpedia.org/resource/Paris)" : 0.7162162162,
+      "probability(http://dbpedia.org/resource/Paris|politique)" : 0.0579868709
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|http://dbpedia.org/resource/Paris)" : 0.6486486486,
+      "probability(http://dbpedia.org/resource/Paris|homme)" : 0.062745098
+    }
+  } ]
+}, {
+  "objectIndex" : "159",
+  "property" : "dbo:birthPlace",
+  "object" : "http://dbpedia.org/resource/New_South_Wales",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/New_South_Wales)" : 0.8970588235,
+      "probability(http://dbpedia.org/resource/New_South_Wales|australian)" : 0.123015873
+    }
+  } ]
+}, {
+  "objectIndex" : "160",
+  "property" : "dbo:birthPlace",
+  "object" : "http://dbpedia.org/resource/Queensland",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(australian|http://dbpedia.org/resource/Queensland)" : 0.953125,
+      "probability(http://dbpedia.org/resource/Queensland|australian)" : 0.1369047619
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Queensland)" : 0.828125,
+      "probability(http://dbpedia.org/resource/Queensland|legislative)" : 0.0335195531
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Queensland)" : 0.828125,
+      "probability(http://dbpedia.org/resource/Queensland|assembly)" : 0.0275355668
+    }
+  } ]
+}, {
+  "objectIndex" : "161",
+  "property" : "dbo:birthPlace",
+  "object" : "http://dbpedia.org/resource/Alberta",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Alberta)" : 0.7868852459,
+      "probability(http://dbpedia.org/resource/Alberta|legislative)" : 0.0547486034
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Alberta)" : 0.7868852459,
+      "probability(http://dbpedia.org/resource/Alberta|assembly)" : 0.0449747591
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Alberta)" : 0.4672131148,
+      "probability(http://dbpedia.org/resource/Alberta|canadian)" : 0.061928934
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Alberta)" : 0.8524590164,
+      "probability(http://dbpedia.org/resource/Alberta|member)" : 0.0292589554
+    }
+  } ]
+}, {
+  "objectIndex" : "162",
+  "property" : "dbo:birthPlace",
+  "object" : "http://dbpedia.org/resource/Nova_Scotia",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Nova_Scotia)" : 0.55,
+      "probability(http://dbpedia.org/resource/Nova_Scotia|canadian)" : 0.0487309645
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Nova_Scotia)" : 0.7875,
+      "probability(http://dbpedia.org/resource/Nova_Scotia|assembly)" : 0.032583754
+    }
+  } ]
+}, {
+  "objectIndex" : "163",
+  "property" : "dbo:birthPlace",
+  "object" : "http://dbpedia.org/resource/United_States",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/United_States)" : 0.4843205575,
+      "probability(http://dbpedia.org/resource/United_States|american)" : 0.1925025329
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/United_States)" : 0.4668989547,
+      "probability(http://dbpedia.org/resource/United_States|state)" : 0.1019796041
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/United_States)" : 0.362369338,
+      "probability(http://dbpedia.org/resource/United_States|district)" : 0.102661597
+    }
+  } ]
+}, {
+  "objectIndex" : "164",
+  "property" : "dbo:birthPlace",
+  "object" : "http://dbpedia.org/resource/Saskatchewan",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Saskatchewan)" : 0.7464788732,
+      "probability(http://dbpedia.org/resource/Saskatchewan|canadian)" : 0.0578680203
+    }
+  } ]
+}, {
+  "objectIndex" : "165",
+  "property" : "dbo:birthPlace",
+  "object" : "http://dbpedia.org/resource/Virginia",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Virginia)" : 0.6376811594,
+      "probability(http://dbpedia.org/resource/Virginia|american)" : 0.0445795339
+    }
+  } ]
+}, {
+  "objectIndex" : "166",
+  "property" : "dbo:birthPlace",
+  "object" : "http://dbpedia.org/resource/Ontario",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Ontario)" : 0.6379310345,
+      "probability(http://dbpedia.org/resource/Ontario|legislative)" : 0.0882681564
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Ontario)" : 0.4310344828,
+      "probability(http://dbpedia.org/resource/Ontario|canadian)" : 0.1096446701
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Ontario)" : 0.6422413793,
+      "probability(http://dbpedia.org/resource/Ontario|assembly)" : 0.072969252
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Ontario)" : 0.6982758621,
+      "probability(http://dbpedia.org/resource/Ontario|member)" : 0.0478534318
+    }
+  } ]
+} ]

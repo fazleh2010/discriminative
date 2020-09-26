@@ -1,7 +1,0 @@
-1 citizen
-1 somali
-1 محمد
-1 politician
-1 office
-1 former
-1 president

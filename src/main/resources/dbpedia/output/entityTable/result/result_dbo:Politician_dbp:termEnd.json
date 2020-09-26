@@ -1,0 +1,136 @@
+[ {
+  "objectIndex" : "133",
+  "property" : "dbp:termEnd",
+  "object" : "?",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(district|?)" : 0.5739130435,
+      "probability(?|district)" : 0.0728476821
+    }
+  } ]
+}, {
+  "objectIndex" : "134",
+  "property" : "dbp:termEnd",
+  "object" : "2007",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(former|2007)" : 0.4022988506,
+      "probability(2007|former)" : 0.0560538117
+    }
+  } ]
+}, {
+  "objectIndex" : "135",
+  "property" : "dbp:termEnd",
+  "object" : "2005",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|2005)" : 0.4705882353,
+      "probability(2005|canadian)" : 0.0442477876
+    }
+  } ]
+}, {
+  "objectIndex" : "136",
+  "property" : "dbp:termEnd",
+  "object" : "2004",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(former|2004)" : 0.4266666667,
+      "probability(2004|former)" : 0.052690583
+    }
+  } ]
+}, {
+  "objectIndex" : "137",
+  "property" : "dbp:termEnd",
+  "object" : "2003",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(assembly|2003)" : 0.5543478261,
+      "probability(2003|assembly)" : 0.0537313433
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|2003)" : 0.6304347826,
+      "probability(2003|member)" : 0.0423151751
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|2003)" : 0.402173913,
+      "probability(2003|canadian)" : 0.0632111252
+    }
+  } ]
+}, {
+  "objectIndex" : "138",
+  "property" : "dbp:termEnd",
+  "object" : "2014",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(politique|2014)" : 0.3292682927,
+      "probability(2014|politique)" : 0.1146245059
+    }
+  } ]
+}, {
+  "objectIndex" : "139",
+  "property" : "dbp:termEnd",
+  "object" : "present",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(district|present)" : 0.6071428571,
+      "probability(present|district)" : 0.0419426049
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|present)" : 0.6071428571,
+      "probability(present|state)" : 0.0407185629
+    }
+  } ]
+}, {
+  "objectIndex" : "140",
+  "property" : "dbp:termEnd",
+  "object" : "1986",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(provincial|1986)" : 0.5,
+      "probability(1986|provincial)" : 0.0552268245
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|1986)" : 0.6111111111,
+      "probability(1986|legislative)" : 0.0368421053
+    }
+  } ]
+}, {
+  "objectIndex" : "141",
+  "property" : "dbp:termEnd",
+  "object" : "1993",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(former|1993)" : 0.4545454545,
+      "probability(1993|former)" : 0.0448430493
+    }
+  } ]
+}, {
+  "objectIndex" : "142",
+  "property" : "dbp:termEnd",
+  "object" : "1999",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(assembly|1999)" : 0.6168224299,
+      "probability(1999|assembly)" : 0.0604477612
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|1999)" : 0.476635514,
+      "probability(1999|legislative)" : 0.0652631579
+    }
+  }, {
+    "probabilities" : {
+      "probability(former|1999)" : 0.4485981308,
+      "probability(1999|former)" : 0.067264574
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|1999)" : 0.6542056075,
+      "probability(1999|member)" : 0.0447470817
+    }
+  } ]
+} ]

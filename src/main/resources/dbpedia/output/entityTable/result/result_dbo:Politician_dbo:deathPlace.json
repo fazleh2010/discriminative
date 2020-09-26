@@ -1,0 +1,161 @@
+[ {
+  "objectIndex" : "18",
+  "property" : "dbo:deathPlace",
+  "object" : "http://dbpedia.org/resource/Alberta",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Alberta)" : 0.7213114754,
+      "probability(http://dbpedia.org/resource/Alberta|legislative)" : 0.0634005764
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Alberta)" : 0.7213114754,
+      "probability(http://dbpedia.org/resource/Alberta|assembly)" : 0.0530120482
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Alberta)" : 0.7540983607,
+      "probability(http://dbpedia.org/resource/Alberta|member)" : 0.0361067504
+    }
+  }, {
+    "probabilities" : {
+      "probability(government|http://dbpedia.org/resource/Alberta)" : 0.3442622951,
+      "probability(http://dbpedia.org/resource/Alberta|government)" : 0.0621301775
+    }
+  } ]
+}, {
+  "objectIndex" : "19",
+  "property" : "dbo:deathPlace",
+  "object" : "http://dbpedia.org/resource/Paris",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(né|http://dbpedia.org/resource/Paris)" : 0.675,
+      "probability(http://dbpedia.org/resource/Paris|né)" : 0.2389380531
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|http://dbpedia.org/resource/Paris)" : 0.575,
+      "probability(http://dbpedia.org/resource/Paris|politique)" : 0.2421052632
+    }
+  } ]
+}, {
+  "objectIndex" : "20",
+  "property" : "dbo:deathPlace",
+  "object" : "http://dbpedia.org/resource/United_States",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/United_States)" : 0.3880597015,
+      "probability(http://dbpedia.org/resource/United_States|american)" : 0.1409395973
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/United_States)" : 0.4626865672,
+      "probability(http://dbpedia.org/resource/United_States|state)" : 0.096
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/United_States)" : 0.9253731343,
+      "probability(http://dbpedia.org/resource/United_States|er)" : 0.0326347305
+    }
+  } ]
+}, {
+  "objectIndex" : "21",
+  "property" : "dbo:deathPlace",
+  "object" : "http://dbpedia.org/resource/Connecticut",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Connecticut)" : 0.9871794872,
+      "probability(http://dbpedia.org/resource/Connecticut|er)" : 0.0251497006
+    }
+  }, {
+    "probabilities" : {
+      "probability(us-amerikanischer|http://dbpedia.org/resource/Connecticut)" : 0.2179487179,
+      "probability(http://dbpedia.org/resource/Connecticut|us-amerikanischer)" : 0.1136363636
+    }
+  } ]
+}, {
+  "objectIndex" : "22",
+  "property" : "dbo:deathPlace",
+  "object" : "http://dbpedia.org/resource/British_Columbia",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/British_Columbia)" : 0.5576923077,
+      "probability(http://dbpedia.org/resource/British_Columbia|canadian)" : 0.0917721519
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/British_Columbia)" : 0.6730769231,
+      "probability(http://dbpedia.org/resource/British_Columbia|legislative)" : 0.0504322767
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/British_Columbia)" : 0.6730769231,
+      "probability(http://dbpedia.org/resource/British_Columbia|assembly)" : 0.0421686747
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|http://dbpedia.org/resource/British_Columbia)" : 0.3653846154,
+      "probability(http://dbpedia.org/resource/British_Columbia|figure)" : 0.0641891892
+    }
+  } ]
+}, {
+  "objectIndex" : "23",
+  "property" : "dbo:deathPlace",
+  "object" : "http://dbpedia.org/resource/Virginia",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/Virginia)" : 0.6,
+      "probability(http://dbpedia.org/resource/Virginia|american)" : 0.0805369128
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|http://dbpedia.org/resource/Virginia)" : 0.4,
+      "probability(http://dbpedia.org/resource/Virginia|district)" : 0.0805369128
+    }
+  }, {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/Virginia)" : 0.4833333333,
+      "probability(http://dbpedia.org/resource/Virginia|state)" : 0.0464
+    }
+  } ]
+}, {
+  "objectIndex" : "24",
+  "property" : "dbo:deathPlace",
+  "object" : "http://dbpedia.org/resource/Ontario",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Ontario)" : 0.7142857143,
+      "probability(http://dbpedia.org/resource/Ontario|legislative)" : 0.1152737752
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Ontario)" : 0.7428571429,
+      "probability(http://dbpedia.org/resource/Ontario|assembly)" : 0.1
+    }
+  }, {
+    "probabilities" : {
+      "probability(canadian|http://dbpedia.org/resource/Ontario)" : 0.4571428571,
+      "probability(http://dbpedia.org/resource/Ontario|canadian)" : 0.1582278481
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Ontario)" : 0.7714285714,
+      "probability(http://dbpedia.org/resource/Ontario|member)" : 0.0690737834
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Ontario)" : 1.0,
+      "probability(http://dbpedia.org/resource/Ontario|er)" : 0.0335329341
+    }
+  }, {
+    "probabilities" : {
+      "probability(figure|http://dbpedia.org/resource/Ontario)" : 0.2571428571,
+      "probability(http://dbpedia.org/resource/Ontario|figure)" : 0.1013513514
+    }
+  }, {
+    "probabilities" : {
+      "probability(political|http://dbpedia.org/resource/Ontario)" : 0.2952380952,
+      "probability(http://dbpedia.org/resource/Ontario|political)" : 0.080952381
+    }
+  } ]
+} ]

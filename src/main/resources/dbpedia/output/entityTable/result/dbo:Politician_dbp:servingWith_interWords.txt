@@ -1,9 +1,0 @@
-1 senior
-1 southern
-1 minister
-1 politician
-1 member
-1 2nd
-1 american
-1 term
-1 pastor

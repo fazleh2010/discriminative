@@ -1,0 +1,101 @@
+[ {
+  "objectIndex" : "126",
+  "property" : "dbp:align",
+  "object" : "left",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(member|left)" : 0.7230769231,
+      "probability(left|member)" : 0.2061403509
+    }
+  }, {
+    "probabilities" : {
+      "probability(parliament|left)" : 0.6923076923,
+      "probability(left|parliament)" : 0.1991150442
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|left)" : 0.4307692308,
+      "probability(left|son)" : 0.2947368421
+    }
+  }, {
+    "probabilities" : {
+      "probability(politician|left)" : 0.3230769231,
+      "probability(left|politician)" : 0.3333333333
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|left)" : 0.1692307692,
+      "probability(left|first)" : 0.3142857143
+    }
+  }, {
+    "probabilities" : {
+      "probability(electorate|left)" : 0.3846153846,
+      "probability(left|electorate)" : 0.1366120219
+    }
+  }, {
+    "probabilities" : {
+      "probability(independent|left)" : 0.0923076923,
+      "probability(left|independent)" : 0.3333333333
+    }
+  } ]
+}, {
+  "objectIndex" : "127",
+  "property" : "dbp:align",
+  "object" : "right",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(parliament|right)" : 0.8153153153,
+      "probability(right|parliament)" : 0.8053097345
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|right)" : 0.8153153153,
+      "probability(right|member)" : 0.8026315789
+    }
+  }, {
+    "probabilities" : {
+      "probability(electorate|right)" : 0.7117117117,
+      "probability(right|electorate)" : 0.8633879781
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|right)" : 0.2972972973,
+      "probability(right|son)" : 0.7157894737
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|right)" : 0.2117117117,
+      "probability(right|election)" : 0.8727272727
+    }
+  }, {
+    "probabilities" : {
+      "probability(region|right)" : 0.2072072072,
+      "probability(right|region)" : 0.8846153846
+    }
+  }, {
+    "probabilities" : {
+      "probability(politician|right)" : 0.1891891892,
+      "probability(right|politician)" : 0.6825396825
+    }
+  }, {
+    "probabilities" : {
+      "probability(by-election|right)" : 0.0990990991,
+      "probability(right|by-election)" : 0.9166666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(first|right)" : 0.1036036036,
+      "probability(right|first)" : 0.7142857143
+    }
+  }, {
+    "probabilities" : {
+      "probability(conservative|right)" : 0.0765765766,
+      "probability(right|conservative)" : 0.8571428571
+    }
+  }, {
+    "probabilities" : {
+      "probability(independent|right)" : 0.0540540541,
+      "probability(right|independent)" : 0.6666666667
+    }
+  } ]
+} ]

@@ -1,4 +1,0 @@
-1 politician
-1 historian
-1 diplomat
-1 educator

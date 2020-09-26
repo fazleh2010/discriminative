@@ -1,8 +1,0 @@
-1 charge
-1 constituency
-1 member
-1 lok
-1 political
-1 party
-1 16th
-1 sabha

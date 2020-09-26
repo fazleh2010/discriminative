@@ -1,0 +1,191 @@
+[ {
+  "objectIndex" : "121",
+  "property" : "dbo:country",
+  "object" : "http://dbpedia.org/resource/Germany",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(politiker|http://dbpedia.org/resource/Germany)" : 0.5240963855,
+      "probability(http://dbpedia.org/resource/Germany|politiker)" : 0.2824675325
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/Germany)" : 0.7409638554,
+      "probability(http://dbpedia.org/resource/Germany|war)" : 0.1599479844
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Germany)" : 0.9457831325,
+      "probability(http://dbpedia.org/resource/Germany|er)" : 0.0660496424
+    }
+  } ]
+}, {
+  "objectIndex" : "122",
+  "property" : "dbo:country",
+  "object" : "http://dbpedia.org/resource/France",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(politique|http://dbpedia.org/resource/France)" : 0.6656891496,
+      "probability(http://dbpedia.org/resource/France|politique)" : 0.8697318008
+    }
+  }, {
+    "probabilities" : {
+      "probability(né|http://dbpedia.org/resource/France)" : 0.724340176,
+      "probability(http://dbpedia.org/resource/France|né)" : 0.7841269841
+    }
+  }, {
+    "probabilities" : {
+      "probability(homme|http://dbpedia.org/resource/France)" : 0.5483870968,
+      "probability(http://dbpedia.org/resource/France|homme)" : 0.8461538462
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/France)" : 0.7624633431,
+      "probability(http://dbpedia.org/resource/France|er)" : 0.1098022718
+    }
+  } ]
+}, {
+  "objectIndex" : "123",
+  "property" : "dbo:country",
+  "object" : "http://dbpedia.org/resource/Netherlands",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(van|http://dbpedia.org/resource/Netherlands)" : 0.7009345794,
+      "probability(http://dbpedia.org/resource/Netherlands|van)" : 0.6797583082
+    }
+  }, {
+    "probabilities" : {
+      "probability(hij|http://dbpedia.org/resource/Netherlands)" : 0.4392523364,
+      "probability(http://dbpedia.org/resource/Netherlands|hij)" : 0.9791666667
+    }
+  }, {
+    "probabilities" : {
+      "probability(een|http://dbpedia.org/resource/Netherlands)" : 0.6417445483,
+      "probability(http://dbpedia.org/resource/Netherlands|een)" : 0.40234375
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/Netherlands)" : 0.9190031153,
+      "probability(http://dbpedia.org/resource/Netherlands|er)" : 0.124106016
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|http://dbpedia.org/resource/Netherlands)" : 0.1619937695,
+      "probability(http://dbpedia.org/resource/Netherlands|politiker)" : 0.1688311688
+    }
+  } ]
+}, {
+  "objectIndex" : "124",
+  "property" : "dbo:country",
+  "object" : "http://dbpedia.org/resource/United_States",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(state|http://dbpedia.org/resource/United_States)" : 0.5816993464,
+      "probability(http://dbpedia.org/resource/United_States|state)" : 0.6912621359
+    }
+  }, {
+    "probabilities" : {
+      "probability(american|http://dbpedia.org/resource/United_States)" : 0.3088235294,
+      "probability(http://dbpedia.org/resource/United_States|american)" : 0.9086538462
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/United_States)" : 0.8970588235,
+      "probability(http://dbpedia.org/resource/United_States|er)" : 0.2309633992
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/United_States)" : 0.3169934641,
+      "probability(http://dbpedia.org/resource/United_States|war)" : 0.2522756827
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/United_States)" : 0.3366013072,
+      "probability(http://dbpedia.org/resource/United_States|member)" : 0.2114989733
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/United_States)" : 0.2712418301,
+      "probability(http://dbpedia.org/resource/United_States|son)" : 0.247761194
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|http://dbpedia.org/resource/United_States)" : 0.1764705882,
+      "probability(http://dbpedia.org/resource/United_States|general)" : 0.1682242991
+    }
+  }, {
+    "probabilities" : {
+      "probability(politiker|http://dbpedia.org/resource/United_States)" : 0.1160130719,
+      "probability(http://dbpedia.org/resource/United_States|politiker)" : 0.2305194805
+    }
+  }, {
+    "probabilities" : {
+      "probability(een|http://dbpedia.org/resource/United_States)" : 0.1323529412,
+      "probability(http://dbpedia.org/resource/United_States|een)" : 0.158203125
+    }
+  } ]
+}, {
+  "objectIndex" : "125",
+  "property" : "dbo:country",
+  "object" : "http://dbpedia.org/resource/United_Kingdom",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(british|http://dbpedia.org/resource/United_Kingdom)" : 0.5289351852,
+      "probability(http://dbpedia.org/resource/United_Kingdom|british)" : 0.9723404255
+    }
+  }, {
+    "probabilities" : {
+      "probability(labour|http://dbpedia.org/resource/United_Kingdom)" : 0.4918981481,
+      "probability(http://dbpedia.org/resource/United_Kingdom|labour)" : 0.9906759907
+    }
+  }, {
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/United_Kingdom)" : 0.7384259259,
+      "probability(http://dbpedia.org/resource/United_Kingdom|member)" : 0.6560574949
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|http://dbpedia.org/resource/United_Kingdom)" : 0.5555555556,
+      "probability(http://dbpedia.org/resource/United_Kingdom|election)" : 0.8
+    }
+  }, {
+    "probabilities" : {
+      "probability(liberal|http://dbpedia.org/resource/United_Kingdom)" : 0.494212963,
+      "probability(http://dbpedia.org/resource/United_Kingdom|liberal)" : 0.884057971
+    }
+  }, {
+    "probabilities" : {
+      "probability(seat|http://dbpedia.org/resource/United_Kingdom)" : 0.4791666667,
+      "probability(http://dbpedia.org/resource/United_Kingdom|seat)" : 0.881104034
+    }
+  }, {
+    "probabilities" : {
+      "probability(general|http://dbpedia.org/resource/United_Kingdom)" : 0.5138888889,
+      "probability(http://dbpedia.org/resource/United_Kingdom|general)" : 0.691588785
+    }
+  }, {
+    "probabilities" : {
+      "probability(er|http://dbpedia.org/resource/United_Kingdom)" : 0.9756944444,
+      "probability(http://dbpedia.org/resource/United_Kingdom|er)" : 0.3554901136
+    }
+  }, {
+    "probabilities" : {
+      "probability(son|http://dbpedia.org/resource/United_Kingdom)" : 0.3993055556,
+      "probability(http://dbpedia.org/resource/United_Kingdom|son)" : 0.5149253731
+    }
+  }, {
+    "probabilities" : {
+      "probability(english|http://dbpedia.org/resource/United_Kingdom)" : 0.1805555556,
+      "probability(http://dbpedia.org/resource/United_Kingdom|english)" : 0.962962963
+    }
+  }, {
+    "probabilities" : {
+      "probability(war|http://dbpedia.org/resource/United_Kingdom)" : 0.3321759259,
+      "probability(http://dbpedia.org/resource/United_Kingdom|war)" : 0.3732119636
+    }
+  }, {
+    "probabilities" : {
+      "probability(een|http://dbpedia.org/resource/United_Kingdom)" : 0.2071759259,
+      "probability(http://dbpedia.org/resource/United_Kingdom|een)" : 0.349609375
+    }
+  } ]
+} ]

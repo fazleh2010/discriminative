@@ -1,4 +1,0 @@
-1 politician
-1 member
-1 indian
-1 party

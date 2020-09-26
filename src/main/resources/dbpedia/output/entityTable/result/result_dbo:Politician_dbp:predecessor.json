@@ -1,0 +1,46 @@
+[ {
+  "objectIndex" : "120",
+  "property" : "dbp:predecessor",
+  "object" : "first member",
+  "distribution" : [ {
+    "probabilities" : {
+      "probability(canadian|first member)" : 0.5063291139,
+      "probability(first member|canadian)" : 0.0783645656
+    }
+  }, {
+    "probabilities" : {
+      "probability(electoral|first member)" : 0.3417721519,
+      "probability(first member|electoral)" : 0.1040462428
+    }
+  }, {
+    "probabilities" : {
+      "probability(legislative|first member)" : 0.5696202532,
+      "probability(first member|legislative)" : 0.0600885515
+    }
+  }, {
+    "probabilities" : {
+      "probability(assembly|first member)" : 0.5949367089,
+      "probability(first member|assembly)" : 0.0541224077
+    }
+  }, {
+    "probabilities" : {
+      "probability(provincial|first member)" : 0.4050632911,
+      "probability(first member|provincial)" : 0.0704697987
+    }
+  }, {
+    "probabilities" : {
+      "probability(election|first member)" : 0.4556962025,
+      "probability(first member|election)" : 0.0568493151
+    }
+  }, {
+    "probabilities" : {
+      "probability(district|first member)" : 0.3797468354,
+      "probability(first member|district)" : 0.0593301435
+    }
+  }, {
+    "probabilities" : {
+      "probability(politique|first member)" : 0.2405063291,
+      "probability(first member|politique)" : 0.0833333333
+    }
+  } ]
+} ]
