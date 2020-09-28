@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10966",
+  "entityIndex" : "1_entity6757",
   "entityUrl" : "http://dbpedia.org/resource/Karin_Brownlee",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "seat", "Governor", "Brownback", "member", "report", "nomination" ],
   "text" : "Karin Brownlee is a Republican member of the Kansas Senate, representing the 23rd District since 1996. She was nominated by Governor Sam Brownback to serve as his Secretary of Labor. Her nomination was confirmed by the State Senate and she subsequently resigned her Senate seat, effective January 10, 2011, when Governor Brownback was sworn in. She was later by her own report fired by Governor Brownback. She was a delegate to the Republican National Convention in 1996 and was the vice-chair of the Johnson County Republican Party from 1994 to 1996. She was also involved in the Kansas Republican Party State Committee from 1993 to 1996 and was chair of the Olathe Republican Party from 1992 to 1994."
 }, {
-  "entityIndex" : "2_entity4653",
+  "entityIndex" : "2_entity2847",
   "entityUrl" : "http://dbpedia.org/resource/Emmett_C._Burns,_Jr.",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "re-election", "politician", "member", "intention" ],
   "text" : "Emmett C. Burns, Jr. (born August 26, 1940) is an American politician from Maryland and a member of the Democratic Party. He served four terms in the Maryland House of Delegates, representing Maryland's District 10 in Baltimore County. Burns was a member of the Economic Matters Committee. On July 8, 2013, Burns announced his intention not to seek re-election to the Maryland Legislature in 2014."
 }, {
-  "entityIndex" : "3_entity2629",
+  "entityIndex" : "3_entity1526",
   "entityUrl" : "http://dbpedia.org/resource/Christopher_G._Donovan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "reelection", "candidate", "post", "organizer", "politician", "speaker" ],
   "text" : "Christopher G. Donovan (born October 22, 1953) is a former American Democratic politician who was elected to be the Speaker of the Connecticut House of Representatives. He was sworn in as Speaker on January 7, 2009, and left his post in 2013, having not sought reelection to the House. He is the first grassroots organizer to become speaker of the Connecticut House. Donovan was a candidate for US Congress in 2012, losing in the primary to Elizabeth Esty."
 }, {
-  "entityIndex" : "4_entity17796",
+  "entityIndex" : "4_entity10958",
   "entityUrl" : "http://dbpedia.org/resource/Tarryl_Clark",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,7 +43,7 @@
   "nouns" : [ "endorsement", "congressman", "politician", "district", "member", "nominee", "Cravaack", "Chip", "nomination" ],
   "text" : "Tarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann. In 2011, Clark sought the Democratic nomination to challenge Republican congressman Chip Cravaack in Minnesota's 8th congressional district, but lost the endorsement to Rick Nolan, who went on to win the August 2012 primary."
 }, {
-  "entityIndex" : "5_entity15242",
+  "entityIndex" : "5_entity9229",
   "entityUrl" : "http://dbpedia.org/resource/Ronda_Storms",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -54,18 +54,7 @@
   "nouns" : [ "number", "politician", "state", "District", "tenure", "home" ],
   "text" : "Ronda R. Storms (born Ronda Rehnell Newcomb on September 5, 1965) is an American politician representing her adopted home state of Florida. Affiliated with the Republican Party, she represented the 10th District in the Florida Senate from 2006 to 2012. She decided not to run in 2012 for the new 24th District. Storms had an eight-year tenure on the Hillsborough County Commission (1998-2006) and advanced a number of controversial issues."
 }, {
-  "entityIndex" : "6_entity3793",
-  "entityUrl" : "http://dbpedia.org/resource/Deb_Mell",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:surge" : [ "168979" ]
-  },
-  "words" : [ "``", "Deb", "-LRB-", "Chicago", "*", "Juli", "ist", ",", ".", "Deborah", "Politikerin", "eine", "Illinois", "-RRB-", "US-amerikanische", "Mell", "30", "1968" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Politikerin", "eine", "ist", "US-amerikanische" ],
-  "text" : "Deborah „Deb“ Mell (* 30. Juli 1968 in Chicago, Illinois) ist eine US-amerikanische Politikerin."
-}, {
-  "entityIndex" : "7_entity3937",
+  "entityIndex" : "6_entity2390",
   "entityUrl" : "http://dbpedia.org/resource/Dan_Debicella",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -76,7 +65,7 @@
   "nouns" : [ "candidate", "district", "businessman" ],
   "text" : "Dan Debicella (born October 24, 1974) is a former State Senator and businessman, who represented the 21st district in the Connecticut State Senate. He was also the 2010 and 2014 Republican candidate for Connecticut's Fourth Congressional District."
 }, {
-  "entityIndex" : "8_entity4065",
+  "entityIndex" : "7_entity2480",
   "entityUrl" : "http://dbpedia.org/resource/David_C._Long",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -87,7 +76,7 @@
   "nouns" : [ "election", "post", "district", "member" ],
   "text" : "David C. Long is a Republican member of the Indiana State Senate representing the 16th district. He serves as the President Pro Tempore of the Indiana State Senate. Prior to his election to the Senate, David Long served from 1988 through 1995 as a member of the Fort Wayne Common Council from the Fourth District. He defeated incumbent Ben Eisbart to win the post. Mr. Eisbart had won the post by defeating incumbent Frederick Hunter, the father-in-law of David Long."
 }, {
-  "entityIndex" : "9_entity16466",
+  "entityIndex" : "8_entity10066",
   "entityUrl" : "http://dbpedia.org/resource/Sam_Caligiuri",
   "dboClass" : "dbo:Politician",
   "properties" : {

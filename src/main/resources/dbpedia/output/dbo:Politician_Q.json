@@ -1,0 +1,28 @@
+[ {
+  "entityIndex" : "entity9066",
+  "entityUrl" : "http://dbpedia.org/resource/Qaiser_Ahmed_Sheikh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "National Assembly" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Pakistan_Muslim_League(N)_(politician)" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Chiniot" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Sunni_Islam" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Karachi" ],
+    "dbp:citizenship" : [ "Pakistani" ]
+  },
+  "words" : [ "Ahmed", "-LRB-", "Urdu", "Qaiser", "politician", "Pakistani", "two", "شیخ", ".", "elected", "Chiniot", "NA-86", "Karachi", "times", "احمد", "قیصر", "National", "constituency", "-RRB-", ":", "Sheikh", "businessman", "Assembly" ],
+  "adjectives" : [ "Pakistani" ],
+  "nouns" : [ "NA-86", "constituency", "politician", "businessman", "شیخ" ],
+  "text" : "Qaiser Ahmed Sheikh (Urdu: قیصر احمد شیخ‎) is a Pakistani politician and businessman in Karachi. He was elected two times to the National Assembly in constituency NA-86 in Chiniot."
+}, {
+  "entityIndex" : "entity9067",
+  "entityUrl" : "http://dbpedia.org/resource/Qian_Nengxun__China-politician-stub__1",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

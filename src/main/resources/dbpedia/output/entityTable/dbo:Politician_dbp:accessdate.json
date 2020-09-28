@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity7006",
+  "entityIndex" : "1_entity4288",
   "entityUrl" : "http://dbpedia.org/resource/Harry_Bedford_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "university", "City" ],
   "text" : "Harry Dodgshun Bedford (August 1877 – 17 February 1918) was a New Zealand university academic and Member of Parliament for the City of Dunedin."
 }, {
-  "entityIndex" : "2_entity7110",
+  "entityIndex" : "2_entity4347",
   "entityUrl" : "http://dbpedia.org/resource/Harry_Scott_Bennett",
   "dboClass" : "dbo:Politician",
   "properties" : {

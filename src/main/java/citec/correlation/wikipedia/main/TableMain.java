@@ -61,7 +61,7 @@ public class TableMain implements PropertyNotation {
 
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
-        String type=write;
+        String type=read;
         
         Set<String> checkProperties = new HashSet<String>();
         //checkProperties.add(PropertyNotation.DBP_SHORT_DESCRIPTION);
@@ -89,19 +89,19 @@ public class TableMain implements PropertyNotation {
         if (type.contains(read)) {
             Tables tables = new Tables(new File(inputFile).getName(), outputDir);
             
-            /* property generation
+            //property generation
             String dir=dbpediaDir + output;
             tables.readSplitTables(dbpediaDir + output,dbo_Politician);
-            tables.writeTable(dir + entityTable);*/
+            tables.writeTable(dir + entityTable);
             
-            InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
+            /*InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
             String checkType=InterestedWords.PROPRTY_WISE;
             Integer numberOfEntitiesSelected=100;
             interestedWords.prepareWords(dbo_Politician,checkType,numberOfEntitiesSelected);
-            interestedWords.getWords(10,20,checkType);
+            interestedWords.getWords(10,20,checkType);*/
             
             
-            Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords,numberOfEntitiesSelected,dbpediaDir+output);
+            //Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords,numberOfEntitiesSelected,dbpediaDir+output);
             System.out.println("System execution ended!!!");
             
             /*String property=PropertyNotation.dbo_party;

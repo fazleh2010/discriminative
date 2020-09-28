@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity11189",
+  "entityIndex" : "1_entity6930",
   "entityUrl" : "http://dbpedia.org/resource/Koh_Nai_Kwong",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,18 +10,7 @@
   "nouns" : [ "housing", "politician", "Nǎi", "Gǔ", "Guāng", "transportation", "environment", "pinyin", "task", "name", "force", "state", "family" ],
   "text" : "(This is a Chinese name; the family name is Koh(古).) Datuk Koh Nai Kwong (Chinese: 古乃光; pinyin: Gǔ Nǎi Guāng) is the Legal Adviser for Barisan Nasional for the state of Melaka. He is also the former Council Member for the state of Melaka on the task force of housing, local authorities, environment and transportation. Koh is the politician and the Chief of MCA Bukit Katil Division, Melaka. He was a Malacca State Legislative Assembly member for the constituency of N.19 Kesidang, Melaka during the 2004 to 2008 term. He was later defeated by the DAP's Goh Leong San, candidate in the Malaysian 12th general election, 2008 by a majority of 1,399 votes. In the Malaysian 13th general election, 2013, Koh Nai Kwong won the parliamentary seat of Alor Gajah, Melaka."
 }, {
-  "entityIndex" : "2_entity10445",
-  "entityUrl" : "http://dbpedia.org/resource/Jason_Chao",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:dateOfBirth" : [ "1986-12-12" ]
-  },
-  "words" : [ "、", "。", "生於澳門", "愛瞞傳媒社長", "新澳門學社理事", "（", "網上團體澳門良心成員", "）", "1986年12月12日", ",", "，", "Teng", "Hei", "－", "周庭希", "同性戀權利運動人士", "Chao", "社團工作者", "澳門政治人物", "社運人士", "Jason" ],
-  "adjectives" : [ ],
-  "nouns" : [ "、", "。", "，", "－" ],
-  "text" : "周庭希（Jason, Chao Teng Hei，1986年12月12日－－），生於澳門，澳門政治人物、社運人士、同性戀權利運動人士、社團工作者，網上團體澳門良心成員，愛瞞傳媒社長，新澳門學社理事。"
-}, {
-  "entityIndex" : "3_entity18405",
+  "entityIndex" : "2_entity11364",
   "entityUrl" : "http://dbpedia.org/resource/V._R._Karuppasamy_Pandian",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +21,7 @@
   "nouns" : [ "candidate", "secretary", "election", "constituency", "politician", "district", "assembly", "Assembly" ],
   "text" : "V. Karuppasamy Pandian is an Indian politician and a former Member of the Legislative Assembly in Tamil Nadu. He is currently DMK's Tirunelveli district secretary. He was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Alangulam constituency in 1977 election He was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Palayamkottai constituency in 1980 election He was elected to the Tamil Nadu legislative assembly as an Dravida Munnetra Kazhagam candidate from Tenkasi constituency in 2006 election"
 }, {
-  "entityIndex" : "4_entity12003",
+  "entityIndex" : "3_entity7397",
   "entityUrl" : "http://dbpedia.org/resource/Liam_Maxwell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,7 +32,7 @@
   "nouns" : [ "executive", "servant", "part", "technology" ],
   "text" : "Liam Maxwell (born June 1968) is a British technology executive and public servant. Since April 2016 he has been the UK's first National Technology Adviser, having been the UK's first Chief Technology Officer (CTO), as part of the Government Digital Service."
 }, {
-  "entityIndex" : "5_entity6695",
+  "entityIndex" : "4_entity4138",
   "entityUrl" : "http://dbpedia.org/resource/Guntakandla_Jagadish_Reddy",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -54,7 +43,7 @@
   "nouns" : [ "minister", "constituency", "Telangana", "Education", "politician", "state" ],
   "text" : "Guntakandla Jagadish Reddy (born 1965) is an Indian politician and present MLA for Suryapet. He was sworn as minister of Telangana state on 2 June 2014.He is the first Education minister of Telangana. He is the first to become a minister from Suryapet constituency."
 }, {
-  "entityIndex" : "6_entity1240",
+  "entityIndex" : "5_entity645",
   "entityUrl" : "http://dbpedia.org/resource/Anton_Klaus",
   "dboClass" : "dbo:Politician",
   "properties" : {

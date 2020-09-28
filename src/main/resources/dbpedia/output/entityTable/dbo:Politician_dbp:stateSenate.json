@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10651",
+  "entityIndex" : "1_entity6586",
   "entityUrl" : "http://dbpedia.org/resource/Katie_G._Dorsett",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "Whip", "twenty-eighth", "session", "district", "member", "state" ],
   "text" : "Katie G. Dorsett is a Democratic member of the North Carolina General Assembly representing the state's twenty-eighth Senate district from 2003 to 2010. Her district included constituents in Guilford County, North Carolina. In the 2009–10 session, Dorsett served as the Majority Whip in the Senate."
 }, {
-  "entityIndex" : "2_entity10813",
+  "entityIndex" : "2_entity6655",
   "entityUrl" : "http://dbpedia.org/resource/Kevin_T._VanTassell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "manager", "senate", "politician", "district", "member", "state" ],
   "text" : "Kevin T. Van Tassell (born March 3, 1952) is an American politician and former manager of Zion's Bank in Vernal, Utah. A Republican, he is a member of the Utah State Senate, representing the state's 26th senate district in Daggett, Duchesne, Summit, Uintah and Wasatch Counties."
 }, {
-  "entityIndex" : "3_entity10814",
+  "entityIndex" : "3_entity6656",
   "entityUrl" : "http://dbpedia.org/resource/Karen_S._Montgomery",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,18 +32,7 @@
   "nouns" : [ "senator", "Silver", "artist", "politician", "member", "state", "Spring" ],
   "text" : "Karen Slater Montgomery (born August 23, 1935) is an American politician and artist from the state of Maryland. A Democrat, she served as the state senator for the Maryland State Senate from Maryland's 14th District, which includes parts of Silver Spring, Burtonsville, Olney, Barnesville, Brookeville, Laytonsville, and Damascus in Montgomery County in the Washington, D.C. suburbs. She was elected in 2010 and reelected in 2014. From 2002 to 2010 she served as a member of the Maryland House of Delegates. She resigned from her senate position on January 1, 2016 because of vision problems that limited her ability to drive at night."
 }, {
-  "entityIndex" : "4_entity10892",
-  "entityUrl" : "http://dbpedia.org/resource/Kenneth_Cooper_Alexander",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Virginia" ]
-  },
-  "words" : [ "Oktober", "Politiker", "Alexander", "-LRB-", "2012", "ist", "ein", "den", "Kenneth", "Demokratische", "von", "US-amerikanischer", "dort", "im", "17", "Partei", "Senator", "vertritt", "*", "und", ",", "er", ".", "Senat", "5", "Distrikt", "-RRB-", "Seit", "Virginia", "Cooper", "1966", "Norfolk" ],
-  "adjectives" : [ "Seit" ],
-  "nouns" : [ "Politiker", "Demokratische", "dort", "Partei", "vertritt", "und", "ist", "ein", "den", "er", "US-amerikanischer" ],
-  "text" : "Kenneth Cooper Alexander (* 17. Oktober 1966 in Norfolk, Virginia) ist ein US-amerikanischer Politiker (Demokratische Partei). Seit 2012 ist er Senator im Senat von Virginia und vertritt dort den 5. Distrikt."
-}, {
-  "entityIndex" : "5_entity11095",
+  "entityIndex" : "4_entity6861",
   "entityUrl" : "http://dbpedia.org/resource/Kent_Sorenson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -54,7 +43,7 @@
   "nouns" : [ "owner", "realtor", "LinkedIn", "legislator", "profile", "state", "operator" ],
   "text" : "Kent Sorenson (born March 29, 1972) is a former Iowa state legislator. Sorenson graduated from Indianola High School in 1990. He was the owner and operator of Pro-Kleen Maintenance. According to his LinkedIn profile, Sorenson is currently a realtor with EXIT Realty North Star in Norwalk, IA. Sorenson is not listed as an agent on the EXIT website. A Republican, he served in the Iowa House of Representatives from 2009 to 2011, representing District 74 and then represented District 37 in the Iowa Senate. As of October 2013, Sorenson was a member of the Judiciary,Government Oversight, and State Government committees of the Iowa Senate. He was also the ranking member of both the Senate and Joint Oversight Committees and a member of the Advisory Council for Agricultural Education, the Family Development and Self-Sufficiency Council, and the Human Rights Board. Sorenson resigned from office October 2, 2013 after Iowa’s Senate Ethics committee found “probable cause” that Sorenson violated state ethics rules by taking payments from the Michele Bachmann (R MN) and Ron Paul (R TX) campaigns in the 2012 Republican Presidential primaries and that \"his denials of doing so constituted felonious misconduct in office.\""
 }, {
-  "entityIndex" : "6_entity11107",
+  "entityIndex" : "5_entity6869",
   "entityUrl" : "http://dbpedia.org/resource/Kerry_Roberts",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -65,7 +54,7 @@
   "nouns" : [ "re-election", "redistricting", "district", "census", "member", "county", "home" ],
   "text" : "Kerry Roberts (born September 24, 1961) is a Republican member of the Tennessee Senate for the 25th District, which includes Robertson County, Dickson County, Cheatham County, Humphreys County and Hickman County. . Prior to redistricting in 2012 he was the Senator representing the 18th district, encompassing Springfield, as well as Robertson County and Sumner County. Senate District 18 was greatly altered in the redistricting after the 2010 census and Roberts' home county of Robertson was moved to Senate District 25, requiring Roberts to wait until 2014 to run for re-election to the Tennessee Senate. He was succeeded by another Republican, Ferrell Haile, in November 2012. Roberts won the August 7, 2014 Republican Primary with 42 percent of the vote in a four-way primary, and then defeated Democratic Party nominee Tony Gross in the November 4, 2014, General Election with 70 percent of the vote. Tennessee State Senators are elected to four-year terms."
 }, {
-  "entityIndex" : "7_entity11171",
+  "entityIndex" : "6_entity6916",
   "entityUrl" : "http://dbpedia.org/resource/Kathleen_O'Connor_Ives",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -76,7 +65,7 @@
   "nouns" : [ "election", "attorney", "politician", "member" ],
   "text" : "Kathleen O'Connor Ives is an American attorney and politician from the Commonwealth of Massachusetts. She is a member of the Democratic Party serving in the Massachusetts Senate representing the 1st Essex District, which encompasses Amesbury, Haverhill, Merrimac, Newburyport, Methuen, Salisbury, and portions of North Andover. Before her election to the Massachusetts Senate in 2012, O'Connor Ives was a member of the Newburyport City Council."
 }, {
-  "entityIndex" : "8_entity13556",
+  "entityIndex" : "7_entity8273",
   "entityUrl" : "http://dbpedia.org/resource/Nate_Holden",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -87,7 +76,7 @@
   "nouns" : [ "politician" ],
   "text" : "Nathaniel N. \"Nate\" Holden is a Los Angeles County politician who served four years in the California State Senate and 16 years on the Los Angeles City Council."
 }, {
-  "entityIndex" : "9_entity13654",
+  "entityIndex" : "8_entity8328",
   "entityUrl" : "http://dbpedia.org/resource/Nancy_J._King",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,18 +87,7 @@
   "nouns" : [ "politician", "district", "member" ],
   "text" : "Nancy J. King (born October 7, 1949) is an American politician from Maryland and a member of the Democratic Party. After serving five years in the Maryland House of Delegates, she was appointed to the Maryland State Senate in 2007. King represents Maryland's 39th district in Montgomery County. She serves on the Budget and Taxation Committee. King was born in Niagara Falls, New York on October 7, 1949. She attended the Niagara County Community College. In the mid-1990s, King became active in a number of Montgomery County civic organizations, including Meals on Wheels, the PTA, and the Montgomery Village Foundation. She was elected to the school board for the Montgomery County Public Schools in 1994 and served there until her election to the Assembly. Since being elected to the General Assembly, she has been an advocate for education. She serves at the Senate Chair of the Joint Committee on Children, Youth and Families."
 }, {
-  "entityIndex" : "10_entity13821",
-  "entityUrl" : "http://dbpedia.org/resource/Nathan_Mayo",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Florida" ]
-  },
-  "words" : [ "--", "-LRB-", "14", "Commissioner", ",", "Florida", "Mayo", "April", ".", "1", "1876", "December", "Nathan", "1960", "-RRB-", "Agriculture" ],
-  "adjectives" : [ ],
-  "nouns" : [ ],
-  "text" : "Nathan Mayo (December 1, 1876 – April 14, 1960) was a Florida Commissioner of Agriculture."
-}, {
-  "entityIndex" : "11_entity13833",
+  "entityIndex" : "9_entity8437",
   "entityUrl" : "http://dbpedia.org/resource/Norman_W._Sanderson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -120,7 +98,7 @@
   "nouns" : [ "seat", "election", "district", "member", "state" ],
   "text" : "Norman Wesley \"Norm\" Sanderson, Jr. (born July 7, 1951) is a Republican member of the North Carolina General Assembly, representing the state's third House district, including constituents in Craven and Pamlico counties. He defeated incumbent Representative Alice Graham Underhill in the 2010 general election. Sanderson is seeking the North Carolina Senate District Two seat currently held by retiring Republican Jean Preston."
 }, {
-  "entityIndex" : "12_entity13906",
+  "entityIndex" : "10_entity8493",
   "entityUrl" : "http://dbpedia.org/resource/Nathaniel_B._Early",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -131,18 +109,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "Nathaniel Bezaleel Early (July 30, 1866 – August 15, 1947) was an American Democratic politician who served as a member of the Virginia Senate from 1908 to 1934."
 }, {
-  "entityIndex" : "13_entity7907",
-  "entityUrl" : "http://dbpedia.org/resource/Joe_Baca",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "California State" ]
-  },
-  "words" : [ "``", "redistricting", "southwestern", "run", "Gloria", "decided", "Democrat", "lost", "McLeod", "January", "Joe", "new", "margin", "last", "%", "Democratic", "numbered", "Fontana", "includes", "California", ",", "'s", "42nd", "Natalio", ".", "seat", "system", "Negrete", "6", "district", "-RRB-", "parts", "1947", "Ontario", "primary", "23", "San", "congressional", "-LRB-", "city", "2012", "Bernardino", "County", "two", "35th", "serving", "U.S.", "Party", "top", "2003", "member", "44.3", "1999", "Rialto", "November", "''", "Baca", "born", "43rd", "adjacent", "faced", "55.7", "due", "fellow", "located", "Representative" ],
-  "adjectives" : [ "new", "congressional", "last", "top", "due", "fellow", "southwestern", "43rd", "located", "adjacent", "35th", "primary" ],
-  "nouns" : [ "seat", "margin", "system", "city", "%", "redistricting", "district", "member" ],
-  "text" : "Joe Natalio Baca (born January 23, 1947) is a U.S. Representative, last serving California's 43rd congressional district as a member of the Democratic Party. The district, numbered as the 42nd from 1999 to 2003, is located in southwestern San Bernardino County and includes Fontana, Rialto, Ontario and parts of the city of San Bernardino. After redistricting, he decided to run in the new, adjacent 35th congressional district, where he faced fellow Democrat Gloria Negrete McLeod (due to California's \"top two\" primary system). On November 6, 2012, Baca lost his seat by a margin of 55.7% to 44.3%. He ran again in 2014 but came fifth with 11.2%. He subsequently announced that he was running for Mayor of Fontana. He lost in a landslide and subsequently announced his retirement from politics. In June 2015, Baca switched his affiliation to the Republican Party, citing his \"core Christian\" and pro-business beliefs."
-}, {
-  "entityIndex" : "14_entity7923",
+  "entityIndex" : "11_entity4832",
   "entityUrl" : "http://dbpedia.org/resource/Jean_R._Preston",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -153,7 +120,7 @@
   "nouns" : [ "co-chair", "district", "county", "state", "educator" ],
   "text" : "Jean Rouse Preston (May 25, 1935 – January 10, 2013) served for 20 years in the North Carolina General Assembly, including seven terms in the North Carolina House of Representatives and three in the North Carolina Senate. She retired in 2012 when she was the Joint Republican Caucus Leader and Senator representing the state's second district, including constituents in Carteret county. She also served as co-chair of the Education/Higher Education and the Appropriations Education/Higher Education Committees. She was a retired educator from Emerald Isle, North Carolina. Preston died in 2013 at age 77."
 }, {
-  "entityIndex" : "15_entity7939",
+  "entityIndex" : "12_entity4848",
   "entityUrl" : "http://dbpedia.org/resource/John_H._Carrington",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -164,7 +131,7 @@
   "nouns" : [ "education", "business", "paratrooper", "county", "degree", "War", "engineering", "evidence-collection", "security", "school", "service", "district", "member", "company", "state", "fifteenth" ],
   "text" : "John H. Carrington (born 25 October 1934) is a Republican former member of the North Carolina General Assembly who long represented the state's fifteenth Senate district, including constituents in Wake county. He headed a major company in the evidence-collection and security business. Carrington was born in Philadelphia, Pennsylvania; he enlisted in the United States Army in 1953 and served as a paratrooper during the Korean War until 1955. Following his military service, he completed his high school education in 1957 and earned a degree in mechanical engineering from Widener College in 1962. Professionally, Carrington rose to become CEO of the Sirchie Group, a company specializing in evidence-collection gear for police and top-dollar security products for businesses. He was first elected to the North Carolina Senate in 1995. In 2005, Carrington was charged with illegally exporting evidence-collection gear to China and took a plea bargain in December 2005 to felony charges in which he has been fined $850,000. One of his companies also took a plea agreement in the matter. The law was altered to allow such exports a few years later. Many large companies have had to make files to track their resold goods to avoid penalty. The charge was for rape kits, finger print imaging kits, finger printing powder kits, and other evidence collecting products, etc. The effects were not sold directly to China, but were resold without the explicit knowledge of Carrington. Paper handling and documentation were handled badly by Carrington. However, under the law this circumstance was not an exception and a guilty plea was submitted."
 }, {
-  "entityIndex" : "16_entity7941",
+  "entityIndex" : "13_entity4850",
   "entityUrl" : "http://dbpedia.org/resource/Jerry_W._Tillman",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -175,7 +142,7 @@
   "nouns" : [ "reform", "administrator", "teacher", "act", "school", "district", "member", "voting", "term", "state", "coach" ],
   "text" : "Jerry W. Tillman is a Republican member of the North Carolina General Assembly representing the state's twenty-ninth Senate district, including constituents in Moore and Randolph counties. A retired teacher, coach and school administrator from Archdale, North Carolina, Tillman is currently serving in his fifth term in the state Senate. Tillman is the Senate Majority Whip and is Chair or Co-Chair of several committees in the NC Senate. In 2013, Senator Tillman co-authored and introduced the state's controversial \"voting reform act,\" which will prevent, by conservative estimates, at least 100,000 people from being allowed to vote."
 }, {
-  "entityIndex" : "17_entity7943",
+  "entityIndex" : "14_entity4852",
   "entityUrl" : "http://dbpedia.org/resource/Joe_Sam_Queen",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -186,18 +153,7 @@
   "nouns" : [ "session", "district", "term", "state", "commissioner" ],
   "text" : "Joe Sam Queen (born June 18, 1950) represents the 119th district in the North Carolina House of Representatives. He previously represented the state's 47th Senate district, including constituents in Avery, Haywood, Madison, McDowell, Mitchell and Yancey counties. He served from 2007-2011 after having served one previous term (2003-2004 session) in the state Senate before being defeated in 2004 by former Yancey County commissioner Keith Presnell. Queen then defeated Presnell in 2006 and again in 2008. He was elected to the North Carolina House, defeating Mike Clampitt in 2012, then again in 2014. He began his second term in the North Carolina House of Representatives (5th term in the General Assembly) on January 14, 2015. He represents the constituents of Jackson, Swain and Haywood counties. An architect and a sixth generation resident of Haywood County, Queen is also heavily involved in other civic and cultural activities, including producing the summer street dances on Main Street in Waynesville and serving as director of the Smoky Mountain Folk Festival for more than 30 years. He has also served as a boy scout master, a Sunday school teacher, a youth soccer coach and on various boards and committees. He attends many arts and educational events in his district, including plays and concerts. He is married to Dr. Kate Queen and has two children, both of whom are graduates of North Carolina State University. He has an architectural practice in Waynesville. Queen is currently serving as the vice-chairman of the Aging Committee and is a voting member of committees on Agriculture, Transportation, Appropriations, Appropriations General Government, Judiciary II and Regulatory Reform. He is a vocal leader in the call to expand Medicaid in North Carolina and issues such as raising teacher pay. He is adamantly against fracking in North Carolina and has made strong public remarks against it."
 }, {
-  "entityIndex" : "18_entity8079",
-  "entityUrl" : "http://dbpedia.org/resource/James_D._Griffin",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "New York" ]
-  },
-  "words" : [ "``", "June", "New", "Mayor", "-LRB-", "25", "May", "American", "York", "29", "56th", "years", "life", "Council", "Donald", "serving", "2008", "later", "public", "member", "93", "Jimmy", "Buffalo", "1978", "''", "--", "77", "James", "16", "politician", ",", ".", "Common", "Senate", "State", "served", "1929", "-RRB-", "Griffin", "returned", "District", "1967" ],
-  "adjectives" : [ "American", "public", "56th" ],
-  "nouns" : [ "politician", "member", "life" ],
-  "text" : "James Donald \"Jimmy\" Griffin  (June 29, 1929 – May 25, 2008) was an American politician who served in the New York State Senate (56th District, 1967–77) and then for 16 years as the Mayor of Buffalo, New York (1978–93). He later returned to public life serving as a member of the Buffalo Common Council."
-}, {
-  "entityIndex" : "19_entity8219",
+  "entityIndex" : "15_entity4963",
   "entityUrl" : "http://dbpedia.org/resource/John_P._Daley",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -208,18 +164,7 @@
   "nouns" : [ "teacher", "son", "school", "member", "neighborhood", "family", "brother" ],
   "text" : "John P. Daley (born December 5, 1946) is the 11th Ward Democratic Committeeman in Chicago, Illinois, a member of the Cook County Board of Commissioners (11th District), and the Chair of the Cook County Board Audit and Finance Committee. He has previously served in both the Illinois State Senate and the Illinois House of Representatives, as well as being employed as a school teacher. He is the son of former Chicago Mayor Richard J. Daley and brother of former Mayor Richard M. Daley, as well as William M. Daley, former White House Chief of Staff under President Obama and United States Secretary of Commerce under President Bill Clinton. Unlike his brothers, he continues to live in the neighborhood the family was raised in. Daley is also an insurance broker who earns several hundred thousand dollars a year in this second job. In 2005, the City of Chicago endured a hired truck corruption scandal involving bribe money. The case involved a federal investigation and criminal charges to Daley associates."
 }, {
-  "entityIndex" : "20_entity8356",
-  "entityUrl" : "http://dbpedia.org/resource/Jamie_Raskin",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Maryland" ]
-  },
-  "words" : [ "``", "college", "-LRB-", "Law", "American", "serves", "constitutional", "program", "Washington", "Jamie", "December", "teaches", "Jamin", "legislation", "''", "13", "law", "Government", "born", "politician", "Director", "D.C.", "B.", ",", "'s", ".", "professor", "1962", "University", "Raskin", "-RRB-", "College", "LL.M" ],
-  "adjectives" : [ "American", "constitutional" ],
-  "nouns" : [ "college", "professor", "law", "Law", "Government", "politician", "Director", "program", "LL.M", "legislation" ],
-  "text" : "Jamin B. \"Jamie\" Raskin (born on December 13, 1962) is an American law professor and politician. He teaches constitutional law and legislation at American University, Washington College of Law, in Washington, D.C. He serves as the Director of the college's LL.M. program on Law and Government. Since November 2006, he has served as a Maryland State Senator for District 20, representing parts of Silver Spring and Takoma Park, cities in Montgomery County. In 2012 he was named the Majority Whip for the Senate, and is the Chairman of the Montgomery County Senate Delegation, Chairman of the Select Committee on Ethics Reform, and a Member of the Judicial Proceedings Committee. On April 26, 2016, Raskin won the primary as the Democratic candidate to represent Maryland's 8th congressional district in the U.S. House of Representatives, which is being vacated by incumbent Chris Van Hollen, who is running for the U.S. Senate seat being vacated by the retiring Barbara Mikulski."
-}, {
-  "entityIndex" : "21_entity8528",
+  "entityIndex" : "16_entity5101",
   "entityUrl" : "http://dbpedia.org/resource/Jeff_Atwater",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -230,7 +175,7 @@
   "nouns" : [ "agent", "pilot", "veteran", "chief", "father", "experience", "age", "banking" ],
   "text" : "Jeffrey Hardee \"Jeff\" Atwater (born April 8, 1958) is currently the Chief Financial Officer of Florida. He is a Republican . Atwater moved to Florida at the age of 4 and grew up in North Palm Beach, Florida, where his father, a veteran World War II pilot and FBI agent, served as police chief. He went on to gain substantial experience in banking, and was elected to the North Palm Beach Village Council in 1993. Later, he served as chairman, president, and CEO of the Barnett Bank of Broward County and the Treasure Coast, and later as market president of Riverside National Bank for Palm Beach and Broward counties. In 2000, Atwater ran for the Florida House of Representatives from the 83rd District, defeating Democratic nominee Pam Dunston and independent Michael I. Danchuk. After just two years in the House, he ran for the Florida Senate from the 25th District, which included Palm Beach and Broward counties. Unopposed in the primary election, Atwater faced off against long-serving Democratic Attorney General of Florida Bob Butterworth in the general election, and, aided by then-Governor Jeb Bush's strong performance that year, defeated Butterworth by a solid margin. He was re-elected in 2004 with no opposition, and again in 2008, when he defeated Democrat Linda Bird, a realtor. From 2008 to 2010, he was the president of the Florida Senate. Following the decision by then-Chief Financial Officer Alex Sink to run for governor rather than seek re-election, Atwater jumped into the race to succeed Sink. In the general election, Atwater faced off against former State Representative Loranne Ausley, whom he defeated, 57.3 to 38.9. Though considered as a frontrunner, in April 2015, he declined to run for the US Senate seat Marco Rubio is expected to vacate before the Senate elections, 2016 to run for the US Presidency. Atwater has since changed his mind, stating that he may run in the upcoming 2016 Senate election."
 }, {
-  "entityIndex" : "22_entity8596",
+  "entityIndex" : "17_entity5145",
   "entityUrl" : "http://dbpedia.org/resource/Jonathan_Paton",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -241,7 +186,7 @@
   "nouns" : [ "candidate", "reelection", "officer", "Paton", "member", "term", "Freedom", "intelligence" ],
   "text" : "Jonathan Paton (born June 10, 1971) is a former Arizona Republican candidate for the U.S. House of Representatives in Arizona's 8th District and an intelligence officer in the U.S. Army Reserve who served in Operation Iraqi Freedom. Paton was first elected to southern Arizona's Legislative District 30 as a member of the Arizona House of Representatives in 2004. He won reelection and began his second term in February 2007. In 2008, he was elected to the Arizona Senate, again representing Legislative District 30. On January 17, 2010, Paton announced he would be challenging Democratic U.S. Representative Gabrielle Giffords. He subsequently resigned from the state Senate to focus his efforts on campaigning for Congress. Paton lost in the 2010 Republican primary and endorsed his former opponent, Jesse Kelly. He ran for Congress again in 2012, this time in Arizona's newly formed 1st Congressional District, ending in close defeat against Democratic opponent Ann Kirkpatrick."
 }, {
-  "entityIndex" : "23_entity8615",
+  "entityIndex" : "18_entity5155",
   "entityUrl" : "http://dbpedia.org/resource/Jim_Sullivan_(Wisconsin_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -252,7 +197,7 @@
   "nouns" : [ "legislator", "District" ],
   "text" : "Jim Sullivan is a former Democratic legislator who served in the Wisconsin Senate, representing the 5th District from 2007 to 2011."
 }, {
-  "entityIndex" : "24_entity8617",
+  "entityIndex" : "19_entity5156",
   "entityUrl" : "http://dbpedia.org/resource/John_L._Valentine",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -263,7 +208,7 @@
   "nouns" : [ "Governor", "Chair", "member" ],
   "text" : "John Valentine is a former member of the Utah State Senate, who represented Utah's 14th Senate District from 1999 to 2014. Prior to being appointed to the Utah Senate he served in the Utah House of Representatives representing Utah's 58th House District from 1988 to 1992 and Utah's 59th House District from 1992 to 1998. Valentine served as the Utah Senate President from 2005-2008. On August 4, 2014, Valentine was appointed by Governor Gary R. Herbert to serve as Chair of the Utah State Tax Commission."
 }, {
-  "entityIndex" : "25_entity8619",
+  "entityIndex" : "20_entity5157",
   "entityUrl" : "http://dbpedia.org/resource/Jonathan_Harris_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -274,7 +219,7 @@
   "nouns" : [ "senator", "politician", "part", "state", "resident" ],
   "text" : "Jonathan A. Harris (born 1964) is an American politician. Harris, a Democrat, is the current Commissioner of the Connecticut Department of Consumer Protection. He served as a state senator from Connecticut's Fifth District from 2005 to 2011. Harris, a resident of West Hartford, represented Bloomfield (part), Burlington, Farmington (part), and West Hartford in the Connecticut Senate. Prior to being elected to the Senate, he served as mayor of West Hartford. Harris grew up in West Hartford and graduated from Hall High School and later from Brandeis University. He worked for U.S. Congressman Barbara Kennelly before earning a law degree from New York University. Harris is married to Lucy B. Harris. On April 1, 2010, Harris formally entered the race for Connecticut Secretary of the State. He was endorsed by U.S. Rep. John B. Larson (D-CT) and West Hartford mayor Scott Slifka. Harris narrowly missed receiving the Democratic Party's nomination at the state convention. He withdrew from the race on June 7, 2010. In March 2011, Harris was appointed Deputy Treasurer of the State of Connecticut. He served until May 2012. On May 11, 2012, State Party Chair Nancy Dinardo announced that Harris would succeed Eric Hyers as the Executive Director of the Connecticut Democratic State Central Committee. In December 2014, Harris was nominated to succeed William M. Rubenstein as the Commissioner of the Department of Consumer Protection."
 }, {
-  "entityIndex" : "26_entity8643",
+  "entityIndex" : "21_entity5175",
   "entityUrl" : "http://dbpedia.org/resource/J._Edward_Meyer",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -285,7 +230,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "J. Edward Meyer III (born April 15, 1935) is an American politician. Meyer, a Democrat, is a former member of the Connecticut Senate, representing the 12th District from 2005 to 2015. Meyer was also a member of the New York State Assembly, serving as a Republican from 1971 to 1973 and a Democrat from 1973 to 1975."
 }, {
-  "entityIndex" : "27_entity8659",
+  "entityIndex" : "22_entity5186",
   "entityUrl" : "http://dbpedia.org/resource/Jeannemarie_Devolites_Davis",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -296,7 +241,7 @@
   "nouns" : [ "convention", "candidate", "round", "politician", "member", "voting", "husband", "nomination" ],
   "text" : "Jeannemarie Aragona Devolites Davis (born February 28, 1956) is an American politician. She served in the Virginia House of Delegates 1998–2004 and the Senate of Virginia 2004–2008. She was a candidate for the 2013 Republican nomination for Lieutenant Governor of Virginia, but was eliminated in the first round of voting at the 2013 Republican convention in Richmond, Virginia. Her husband, Thomas M. Davis, was a member of the United States House of Representatives. Virginia Governor Bob McDonnell appointed Davis director of the Virginia Liaison Office in Washington, D.C. in January 2010. She resigned in September 2012 to pursue an unsuccessful bid for lieutenant governor."
 }, {
-  "entityIndex" : "28_entity8667",
+  "entityIndex" : "23_entity5190",
   "entityUrl" : "http://dbpedia.org/resource/Jon_J._Greiner",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -307,7 +252,7 @@
   "nouns" : [ "police", "city", "chief", "senate", "graduate", "politician", "district", "member", "state" ],
   "text" : "Jon Jay Greiner (born July 6, 1951) was an American politician and former police chief from Utah. A Republican, he was a member of the Utah State Senate, representing the state's 18th senate district in Davis, and Weber Counties including the city of Ogden. Greiner is a graduate of both Weber State University and Utah State University. He has also served on the Board of Trustees of Weber State University. On December 28, 2011 Greiner was fired as Ogden City Police Chief. City officials commented, \"Greiner’s termination was unwanted and involuntary on the part of the city, but was required by the Federal Merit Systems Protection Board, pursuant to the Hatch Act.\""
 }, {
-  "entityIndex" : "29_entity8678",
+  "entityIndex" : "24_entity5199",
   "entityUrl" : "http://dbpedia.org/resource/John_Lim",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -318,7 +263,7 @@
   "nouns" : [ "Governor", "politician", "state", "Assembly", "nomination" ],
   "text" : "John Lim (born December 23, 1935) is a Republican politician in the United States state of Oregon. He has served in both houses of the Oregon Legislative Assembly and was the Oregon State Senate Majority Leader in 1995. He has unsuccessfully run for the U.S. Senate and for the Republican nomination for Governor of Oregon."
 }, {
-  "entityIndex" : "30_entity8804",
+  "entityIndex" : "25_entity5287",
   "entityUrl" : "http://dbpedia.org/resource/Joanne_C._Benson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -329,7 +274,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Joanne Claybon Benson (born March 11, 1941) is an American politician who represents district 24 in the Maryland State Senate."
 }, {
-  "entityIndex" : "31_entity8817",
+  "entityIndex" : "26_entity5299",
   "entityUrl" : "http://dbpedia.org/resource/Joan_Carter_Conway",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -340,7 +285,7 @@
   "nouns" : [ "standing", "woman", "politician", "district", "chairman" ],
   "text" : "Joan Carter Conway (born April 5, 1951) is an American politician who represents district 43 in the Maryland State Senate. She is the first African American woman to be appointed chairman of any of the standing committees in the Maryland Senate and in 2000 was listed one of \"Maryland's Top 100 Women\" by the Daily Record."
 }, {
-  "entityIndex" : "32_entity8833",
+  "entityIndex" : "27_entity5311",
   "entityUrl" : "http://dbpedia.org/resource/Jennie_M._Forehand",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -351,7 +296,7 @@
   "nouns" : [ "probation", "statistician", "teacher", "counselor", "legislator", "Forehand", "degree", "Bachelor", "businesswoman", "court" ],
   "text" : "Jennie M. Forehand (born December 17, 1935) is a legislator who has served 15 years in the Maryland Senate, representing Rockville, Gaithersburg, and Garrett Park. She previously served four terms in the Maryland House of Delegates. Born in Nashville, Tennessee, Forehand attended the University of North Carolina, receiving her Bachelor of Science degree in Industrial Relations. A businesswoman, Forehand founded Forehand Antiques and Interiors and has worked as a teacher, juvenile court probation counselor, and statistician. She and her husband raised two children in Rockville, sending them through Montgomery County Public Schools. Her daughter graduated from the United States Naval Academy and her son is now an architect. Forehand’s constituent service, institutional memory and willingness to stand her ground on tough issues have resulted in numerous awards recognizing her leadership and forward thinking."
 }, {
-  "entityIndex" : "33_entity8834",
+  "entityIndex" : "28_entity5312",
   "entityUrl" : "http://dbpedia.org/resource/James_Rosapepe",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -362,7 +307,7 @@
   "nouns" : [ "politician", "member", "term" ],
   "text" : "James Carew Rosapepe (born May 20, 1951) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his third four-year term in the Maryland State Senate, representing Maryland's District 21 in Prince George's and Anne Arundel Counties."
 }, {
-  "entityIndex" : "34_entity8835",
+  "entityIndex" : "29_entity5313",
   "entityUrl" : "http://dbpedia.org/resource/John_Astle",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -373,7 +318,7 @@
   "nouns" : [ "politician", "member", "term" ],
   "text" : "John Astle (born March 31, 1943) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his 4th term in the Maryland State Senate, representing Maryland's District 30 in Anne Arundel County."
 }, {
-  "entityIndex" : "35_entity8837",
+  "entityIndex" : "30_entity5315",
   "entityUrl" : "http://dbpedia.org/resource/James_Brochin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -384,7 +329,7 @@
   "nouns" : [ "politician", "member", "campaign", "term", "hand" ],
   "text" : "James (Jim) Brochin (born February 22, 1964) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his 3rd term in the Maryland State Senate, representing Maryland's District 42 in Baltimore County. In 2010 he was reelected as a Senator for another four years, the term of a Maryland Senator. During the 2010 campaign, he raised $344,316, had $131,245 on hand and spent $225,413 on his campaign, which was more than what James Rosapepe and Andrew (Andy) Harris spent on their campaigns. On his website, he calls himself Maryland's most independent Senator. In a letter on his homepage, signed with his name at the bottom he explains the reason he still serves on the General Assembly. He writes: \"Over the last 9 years, I have always voted my conscience placing my constituents’ best interests above anything else. As I promised 9 years ago, my votes have reflected fiscal conservatism combined with a great concern for protecting open space and saving the Chesapeake Bay. I continue to remain an independent thinker, placing policy before party.\""
 }, {
-  "entityIndex" : "36_entity9052",
+  "entityIndex" : "31_entity5476",
   "entityUrl" : "http://dbpedia.org/resource/John_J._Snow,_Jr.",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -395,7 +340,7 @@
   "nouns" : [ "seat", "co-chair", "margin", "district", "member", "re-match", "votes.In" ],
   "text" : "John Joyner Snow, Jr. (born October 24, 1945) is a former Democratic member of the North Carolina Senate, who represented the 50th district from 2005 to 2011. His district included Cherokee, Clay, Graham, Haywood, Jackson, Macon, Swain and Transylvania counties. Snow was the co-chair of the Subcommittee on Justice and Public Safety. Franklin orthodontist Jim Davis defeated Snow in 2010 by a margin of 199 votes.In 2012, Snow ran in a re-match with Jim Davis to return to his former seat in the Senate. He was defeated by a substantial margin of 12,548 votes by the incumbent Republican, Davis. John Snow Jr. was also a standout on the gridiron prior to his career in politics. A defensive tackle for Wake Forest University, Snow was drafted in the 15th round of the 1967 NFL Draft by the New Orleans Saints."
 }, {
-  "entityIndex" : "37_entity9129",
+  "entityIndex" : "32_entity5530",
   "entityUrl" : "http://dbpedia.org/resource/Joanne_Verger",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -406,7 +351,7 @@
   "nouns" : [ "reelection", "election", "mayor", "city", "politician", "opponent", "party" ],
   "text" : "Joanne Verger is an Oregon Democratic politician and the first female mayor of Coos Bay, the largest city on the Oregon Coast, serving four terms. She served in the Oregon House of Representatives from 2001 to 2004, and was elected to the Oregon State Senate in 2004. She was reelected in 2008 with no major party opponent in either the primary or general election. In October 2011 Verger announced that she would not run for reelection to the Senate. She is co-owner of an automobile dealership, and has worked extensively in advertising and marketing. She is a graduate of Amite High School (Louisiana), Northwestern State University, and Louisiana State University. Verger has won a number of awards, including the Human Rights Award in 1991."
 }, {
-  "entityIndex" : "38_entity9598",
+  "entityIndex" : "33_entity5752",
   "entityUrl" : "http://dbpedia.org/resource/John_Plewa",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -417,7 +362,7 @@
   "nouns" : [ "seat", "candidate", "election", "steelworker", "politician", "state" ],
   "text" : "John R. Plewa (September 22, 1945–September 13, 1995) was a steelworker and a Democratic politician from Wisconsin. Born in Milwaukee, Wisconsin, Plewa graduated from the University of Wisconsin–Whitewater. In 1970, he was a candidate in a four-way primary which unseated incumbent state Senator Leland McParland, losing to Kurt Frank. In 1972, Plewa was elected to the Wisconsin State Assembly serving until 1984, when he was elected to the Wisconsin State Senate in a special election after incumbent Jerry Kleczka was elected to the Congressional seat long held by Clement Zablocki. He was a member of the Cudahy Jaycees, and the United Steelworkers Union. The Lake Parkway of Wisconsin Highway 794 was named in memory of Senator Plewa."
 }, {
-  "entityIndex" : "39_entity9868",
+  "entityIndex" : "34_entity5967",
   "entityUrl" : "http://dbpedia.org/resource/John_T._Henley",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -428,7 +373,7 @@
   "nouns" : [ "mayor", "politician", "pharmacist", "member" ],
   "text" : "John Tannery Henley (August 10, 1921 – March 17, 2012) was a North Carolina politician and pharmacist from Hope Mills, North Carolina. He was born in Wadesboro, North Carolina. He served as mayor of Hope Mills, as a member of the North Carolina House of Representatives and of the North Carolina Senate, where he served as President Pro Tempore for the 1975-76 and 1977-78 General Assemblies. He died in 2012 in Fayetteville, North Carolina."
 }, {
-  "entityIndex" : "40_entity9940",
+  "entityIndex" : "35_entity6020",
   "entityUrl" : "http://dbpedia.org/resource/Jim_Davis_(North_Carolina_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -439,7 +384,7 @@
   "nouns" : [ "DDS", "bachelor", "MS", "district", "member", "degree", "fiftieth" ],
   "text" : "James Wayland \"Jim\" Davis (born January 7, 1947) is a Republican member of the North Carolina General Assembly. He represents the Senate's fiftieth district, which includes Cherokee, Clay, Graham, Haywood, Jackson, Macon,and Swaincounties. Born in Lynchburg, Virginia, Davis earned his bachelor's degree from Southern Missionary College, now Southern Adventist University in 1969, and earned his DDS degree from Loma Linda University's School of Dentistry in 1974. In 1989, he graduated from Loma Linda with his MS in orthodontics. Davis defeated three term incumbent John J. Snow, Jr. in the 2010 and 2012 elections. He defeated Jane Hipps in the 2014 election. Davis serves on the following committees; Appropriations on General Government and Information Technology (Co-Chairman), Appropriations/Base Budget, Finance, Healthcare, Insurance, Judiciary II, State and Local Government (Co-Chairman), Transportation, Joint Legislative Oversight Committee on General Government, Joint Legislative Committee on Governmental Operations, Joint Legislative Committee on Local Government (Chairman), Committee on Market Based Solutions and Eliminations of Anti-Competitive Practices in Healthcare, and Municipal Incorporations Subcommittee of the Joint Legislative Committee on Local Government."
 }, {
-  "entityIndex" : "41_entity10116",
+  "entityIndex" : "36_entity6159",
   "entityUrl" : "http://dbpedia.org/resource/James_B._Brennan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -450,7 +395,7 @@
   "nouns" : [ "attorney", "politician" ],
   "text" : "James B. Brennan (born February 1, 1926) is an American attorney and politician who served as Milwaukee City Attorney, United States Attorney for the Eastern District of Wisconsin, and in the Wisconsin State Senate."
 }, {
-  "entityIndex" : "42_entity10325",
+  "entityIndex" : "37_entity6333",
   "entityUrl" : "http://dbpedia.org/resource/Jim_Dabakis",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -461,29 +406,7 @@
   "nouns" : [ "senate", "politician", "district", "member", "state" ],
   "text" : "Jim Dabakis is an American politician from Salt Lake City, Utah. A Democrat, he is a member of the Utah State Senate, where he represents the state's 2nd senate district."
 }, {
-  "entityIndex" : "43_entity10351",
-  "entityUrl" : "http://dbpedia.org/resource/Joseph_Santo",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Connecticut" ]
-  },
-  "words" : [ "français", "-LRB-", "Santo", "Defaut.svg", "est", "1869-1944", "SantoFichier", ",", "essayiste", ".", "et", "Joseph", "-RRB-", "un", ":", "journaliste" ],
-  "adjectives" : [ ],
-  "nouns" : [ "est", "un", "journaliste" ],
-  "text" : "Joseph SantoFichier:Defaut.svg Joseph Santo, (1869-1944), est un journaliste et essayiste français."
-}, {
-  "entityIndex" : "44_entity10401",
-  "entityUrl" : "http://dbpedia.org/resource/John_Preston_Buchanan",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Virginia" ]
-  },
-  "words" : [ "-LRB-", "Preston", "الديمقراطي", "م", "John", "و", "سياسي", "بوكانان", "عضو", "المتحدة", "الولايات", "1937", "--", "بريستون", "هو", "من", "الحزب", "بالإنجليزية", "في", "الأمريكي", "الأمريكية", ".", "Buchanan", "1888", "وهو", "-RRB-", ":", "جون" ],
-  "adjectives" : [ ],
-  "nouns" : [ "من", "وهو", "م", "الأمريكي", "بوكانان" ],
-  "text" : "جون بريستون بوكانان (بالإنجليزية: John Preston Buchanan) (و. 1888 – 1937 م) هو سياسي من الولايات المتحدة الأمريكية. وهو عضو في الحزب الديمقراطي الأمريكي."
-}, {
-  "entityIndex" : "45_entity10404",
+  "entityIndex" : "38_entity6388",
   "entityUrl" : "http://dbpedia.org/resource/J._Powell_Royall",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -494,7 +417,7 @@
   "nouns" : [ "election", "wife", "politician", "uncle", "delegate", "Governor", "district", "member", "nominee", "grandfather", "state", "family", "lawyer" ],
   "text" : "John Powell Royall (June 2, 1874 – August 14, 1945) was an American lawyer and politician who served as a member of the Virginia Senate, representing the state's 3rd district from 1912 to 1920. He was selected as the Republican nominee for Lieutenant Governor of Virginia in 1933 and Governor of Virginia in 1937, losing both times in the general election to former state delegate James Hubert Price. Royall's wife, Jennie McDonald Bowen came from a prominent Southwest Virginia political family. Her paternal grandfather, Rees Tate Bowen, and uncle, Henry Bowen, both served in the United States House of Representatives."
 }, {
-  "entityIndex" : "46_entity10422",
+  "entityIndex" : "39_entity6398",
   "entityUrl" : "http://dbpedia.org/resource/John_M._Goodloe",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -505,7 +428,7 @@
   "nouns" : [ "politician", "district", "member", "state" ],
   "text" : "John Mills Goodloe (August 5, 1858 – August 17, 1942) was an American Republican politician who served as a member of the Virginia Senate, representing the state's 2nd district."
 }, {
-  "entityIndex" : "47_entity10488",
+  "entityIndex" : "40_entity6454",
   "entityUrl" : "http://dbpedia.org/resource/J._Belmont_Woodson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -516,7 +439,7 @@
   "nouns" : [ "politician", "district", "member", "state" ],
   "text" : "Julian Belmont Woodson (January 4, 1872 – July 7, 1963) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 19th district from 1920 to 1924 and its 4th district from 1924 to 1940."
 }, {
-  "entityIndex" : "48_entity10494",
+  "entityIndex" : "41_entity6460",
   "entityUrl" : "http://dbpedia.org/resource/Jake_Chapman_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -527,7 +450,7 @@
   "nouns" : [ "Politician", "district", "state", "Bachelor" ],
   "text" : "Jake Chapman is an American Politician from the state of Iowa. Chapman being a Republican represents the 10th district in the Iowa Senate. Chapman is an Eagle Scout. He attended AIB College of Business where he earned a Bachelor’s Degree in Business Administration. Chapman participated in the 2012 election for the Iowa Senate considering a seat that had no incumbent due to redistricting. At the age of 28, Chapman won the election and served as the youngest State Senator in the 85th General Assembly. Chapman lives in Adel, Iowa, with his wife and four children. He directs the operations of his family business as the Chief Operating Officer. Chapman is a Later-day Saint."
 }, {
-  "entityIndex" : "49_entity10531",
+  "entityIndex" : "42_entity6492",
   "entityUrl" : "http://dbpedia.org/resource/John_M._Hart",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -538,7 +461,7 @@
   "nouns" : [ "seat", "revenue", "politician", "district", "member", "expiration", "term", "appointment", "state", "collector", "order" ],
   "text" : "John Marion Hart (January 2, 1866 – December 12, 1955) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 4th district. Hart resigned his seat in the Senate before the expiration of his second term in order to accept appointment as collector of internal revenue for the Western District of Virginia by President Woodrow Wilson."
 }, {
-  "entityIndex" : "50_entity10582",
+  "entityIndex" : "43_entity6535",
   "entityUrl" : "http://dbpedia.org/resource/Jamilah_Nasheed",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -549,7 +472,7 @@
   "nouns" : [ "politician", "district", "member", "state", "Nasheed" ],
   "text" : "Jamilah Nasheed (born Jenise Williams; October 17, 1972) is an American politician from the state of Missouri. Nasheed represents the fifth district in the Missouri Senate, and formerly served in the Missouri House of Representatives. She is a member of the Democratic Party."
 }, {
-  "entityIndex" : "51_entity10585",
+  "entityIndex" : "44_entity6537",
   "entityUrl" : "http://dbpedia.org/resource/John_B._Watkins",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -560,7 +483,7 @@
   "nouns" : [ "death", "business", "politician", "City", "nursery", "district", "member", "great-grandfather", "state", "time", "family", "businessman", "brother" ],
   "text" : "John Benjamin Watkins (June 14, 1855 – November 30, 1931) was a Democratic politician who served as a member of the Virginia Senate twice, first representing the state's 16th district, and a second time representing the 35th district, comprising Henrico, Chesterfield, New Kent, Charles City, and James City Counties and the City of Williamsburg (which he held at the time of his death).A businessman, Senator Watkins started a nursery with his brother in Midlothian, Virginia.John B. Watkins is the great-grandfather of Virginia State Senator John Watkins, who represents some of the same localities in the current Virginia Senate as well as continuing to operate the family nursery business."
 }, {
-  "entityIndex" : "52_entity10631",
+  "entityIndex" : "45_entity6574",
   "entityUrl" : "http://dbpedia.org/resource/Joe_Markley",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -571,7 +494,7 @@
   "nouns" : [ "native", "State", "member", "term", "age" ],
   "text" : "Joe Markley (born November 28, 1956) is a member of the Connecticut State Senator representing the 16th State Senate District. A native of Southington, Connecticut, he was first elected to the State Senate in 1984 at the age of 27, serving only one term. He returned to the State Senate in 2010 at the age of 53."
 }, {
-  "entityIndex" : "53_entity4616",
+  "entityIndex" : "46_entity2828",
   "entityUrl" : "http://dbpedia.org/resource/Ed_Mayne",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -582,7 +505,7 @@
   "nouns" : [ "senate", "politician", "district", "member", "state" ],
   "text" : "Eddie Paul Mayne (September 16, 1945 – November 25, 2007) was an American politician from Utah. A Democrat, he was a member of the Utah State Senate, representing the state's 5th senate district in West Valley City."
 }, {
-  "entityIndex" : "54_entity5034",
+  "entityIndex" : "47_entity3115",
   "entityUrl" : "http://dbpedia.org/resource/Evelyn_Momsen_Hailey",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -593,7 +516,7 @@
   "nouns" : [ "city", "politician" ],
   "text" : "Evelyn Clare Momsen Hailey (April 21, 1921 – March 29, 2011) was an American politician. A Democrat, she served in the Virginia House of Delegates 1974–1982 and the Senate of Virginia 1982–1984, while living in the city of Norfolk."
 }, {
-  "entityIndex" : "55_entity5097",
+  "entityIndex" : "48_entity3162",
   "entityUrl" : "http://dbpedia.org/resource/Edmund_Parr",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -604,18 +527,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "Edmund Parr (March 30, 1849 – March 17, 1925) was an American Republican politician who served as a member of the Virginia House of Delegates and Senate, representing his native Patrick County."
 }, {
-  "entityIndex" : "56_entity18699",
-  "entityUrl" : "http://dbpedia.org/resource/Williams_Carter_Wickham",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Virginia" ]
-  },
-  "words" : [ "23", "Railway", "-LRB-", "September", "American", "held", "fought", "War", "political", "Carter", "posts", "general", "President", "Confederate", "Williams", "campaigns", "company", "July", "judge", "lawyer", "--", "politician", "war", "Wickham", ",", ".", "1888", "important", "Chesapeake", "cavalry", "1820", "Civil", "various", "-RRB-", "Ohio", "Virginia", "21" ],
-  "adjectives" : [ "important", "Confederate", "various", "political" ],
-  "nouns" : [ "cavalry", "general", "politician", "war", "company", "judge", "lawyer" ],
-  "text" : "Williams Carter Wickham (September 21, 1820 – July 23, 1888) was a lawyer, judge, politician, and an important Confederate cavalry general who fought in the Virginia campaigns during the American Civil War. After the war, he held various political posts and was the President of the Chesapeake and Ohio Railway company."
-}, {
-  "entityIndex" : "57_entity19088",
+  "entityIndex" : "49_entity11753",
   "entityUrl" : "http://dbpedia.org/resource/W._Craig_Lawing",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -626,7 +538,7 @@
   "nouns" : [ "senator", "sponsor", "senate", "member", "state", "tem", "Lawing", "legislature", "president" ],
   "text" : "William Craig Lawing (July 6, 1925 – June 10, 1999) was a member of the North Carolina House of Representatives (1971–1976) and of the North Carolina Senate (1977–1984) representing Mecklenburg County, and served as President Pro Tempore of the North Carolina Senate for three terms (1979–1984). While a senator, Lawing was a sponsor of the Equal Rights Amendment, which the legislature rejected. Lawing was the longest-serving president pro tem of the state senate until Marc Basnight. He died in 1999."
 }, {
-  "entityIndex" : "58_entity19297",
+  "entityIndex" : "50_entity11908",
   "entityUrl" : "http://dbpedia.org/resource/W._D._Childers",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -637,7 +549,7 @@
   "nouns" : [ "dean", "funding", "extension", "stint", "politician", "barnyard", "title", "fowl", "home", "legislator", "I-110", "turkey", "district", "nickname", "state" ],
   "text" : "Wyon Dale \"W. D.\" Childers (born November 25, 1933) is a former West Florida politician who served 30 years in the State Senate, from 1970 to 2000, including a stint as Senate President from 1980 to 1982 and as dean from 1988 to 2000. He holds the title of Florida's longest-serving state legislator. He earned the nickname \"Banty Rooster\" – after the diminutive, swaggering barnyard fowl – and became known for his eccentric mannerisms and colorful, folksy expressions. Childers was popular in his district for the ample state funding and \"turkey\" projects he sent home, including $12.5 million for the Pensacola Civic Center and the I-110 extension to Gregory Street. Initially a Democrat, he switched to the Republican Party in 1995. After term limits forced him from the Florida Senate in 2000, Childers ran for the District 1 seat of the Escambia County Commission. He became embroiled in the soccer complex corruption scandal and was found guilty of violating the Florida Sunshine Law and of bribing Commissioner Willie Junior to help push the purchases of two properties, totaling $6.2 million, from Childers' associates Joe and Georgann Elliott. Childers served nearly three years of a 42-month prison sentence in West Palm Beach and was released on 17 June 2009, after which he relocated away from Pensacola. On 8 June 2010, a federal appeals court overturned the bribery conviction, ruling that Childers' constitutional right to confront his accuser had been violated, as the defense team was not allowed to question Junior on his change of testimony."
 }, {
-  "entityIndex" : "59_entity19364",
+  "entityIndex" : "51_entity11963",
   "entityUrl" : "http://dbpedia.org/resource/W._Henry_Maxwell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -648,7 +560,7 @@
   "nouns" : [ "minister", "Baptist", "politician" ],
   "text" : "The Rev. Dr. Walter Henry Maxwell, Sr. (April 3, 1935 – November 13, 2010) was an African-American politician and Baptist minister from Newport News, Virginia. A Democrat, he served in the Virginia House of Delegates 1983–1993 and the Senate of Virginia 1993–2004."
 }, {
-  "entityIndex" : "60_entity19466",
+  "entityIndex" : "52_entity12054",
   "entityUrl" : "http://dbpedia.org/resource/William_L._Andrews",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -659,7 +571,7 @@
   "nouns" : [ "politician", "district", "member", "state" ],
   "text" : "William Luther Andrews (February 9, 1865 – July 19, 1936) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 4th district."
 }, {
-  "entityIndex" : "61_entity19467",
+  "entityIndex" : "53_entity12055",
   "entityUrl" : "http://dbpedia.org/resource/William_A._Rinehart",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -670,7 +582,7 @@
   "nouns" : [ "politician", "district", "member", "state" ],
   "text" : "William Alonzo Rinehart (April 5, 1846 – January 30, 1922) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 7th district."
 }, {
-  "entityIndex" : "62_entity19520",
+  "entityIndex" : "54_entity12102",
   "entityUrl" : "http://dbpedia.org/resource/Walter_E._Addison",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -681,7 +593,7 @@
   "nouns" : [ "politician", "district", "member", "state", "lawyer" ],
   "text" : "Walter Edmund Addison (January 23, 1863 – January 12, 1925) was an American lawyer and Democratic politician who served as a member of the Virginia Senate, representing the state's 20th district."
 }, {
-  "entityIndex" : "63_entity18319",
+  "entityIndex" : "55_entity11323",
   "entityUrl" : "http://dbpedia.org/resource/Vicki_Walker",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -692,7 +604,7 @@
   "nouns" : [ "Governor", "administrator", "critic", "briefly", "chair", "politician", "member", "utility", "state", "advocate" ],
   "text" : "Vicki Lynn Walker (born May 29, 1956) is an American politician and administrator from Oregon. She is the Oregon State Director for Rural Development with the U.S. Department of Agriculture. A member of the Democratic Party, Walker previously served in both houses of the Oregon Legislature and briefly served as chair of the state's Parole Board. Walker is known as an advocate for utility customers and as an outspoken critic of influential former Governor Neil Goldschmidt."
 }, {
-  "entityIndex" : "64_entity18361",
+  "entityIndex" : "56_entity11342",
   "entityUrl" : "http://dbpedia.org/resource/Verna_L._Jones",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -703,7 +615,7 @@
   "nouns" : [ "chair", "politician", "district" ],
   "text" : "Verna L. Jones-Rodwell (born November 27, 1955) was an American politician who represented the 44th legislative district in the Maryland State Senate. Senator Jones-Rodwell was also the chair of the Legislative Black Caucus of Maryland from 2007 to 2008."
 }, {
-  "entityIndex" : "65_entity18504",
+  "entityIndex" : "57_entity11408",
   "entityUrl" : "http://dbpedia.org/resource/Van_H._Wanggaard",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -714,7 +626,7 @@
   "nouns" : [ "seat", "reelection", "election", "district", "recall", "member", "predecessor" ],
   "text" : "Van H. Wanggaard (born April 19, 1952) is a Republican member of the Wisconsin Senate, representing the 21st district since January 5, 2015, and before that from January 3, 2011 until July 11, 2012. He was defeated by his predecessor, John Lehman (D), in a recall election, held on June 5, 2012.  Wanggaard regained his seat after Lehman decided not to run for reelection in 2014."
 }, {
-  "entityIndex" : "66_entity18553",
+  "entityIndex" : "58_entity11445",
   "entityUrl" : "http://dbpedia.org/resource/Vivian_L._Page",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -725,7 +637,7 @@
   "nouns" : [ "city", "politician", "member", "lawyer" ],
   "text" : "Vivian L. Page (June 1, 1894 – June 21, 1962) was an American politician and lawyer. He was a Democratic member of the Virginia House of Delegates 1924–1936 and the Senate of Virginia 1936–1944, representing the city of Norfolk."
 }, {
-  "entityIndex" : "67_entity11303",
+  "entityIndex" : "59_entity7012",
   "entityUrl" : "http://dbpedia.org/resource/Linda_Garrou",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -736,7 +648,7 @@
   "nouns" : [ "administrator", "district", "member", "county", "state" ],
   "text" : "Linda Garrou is a Democratic member of the North Carolina General Assembly representing the state's thirty-second Senate district since 1999. Her district includes constituents in Forsyth county. An administrator from Winston-Salem, North Carolina, Garrou is currently Co-Chair of the Senate Appropriations/Base Committee, and the Pensions, Retirement and Aging Committee."
 }, {
-  "entityIndex" : "68_entity11498",
+  "entityIndex" : "60_entity7093",
   "entityUrl" : "http://dbpedia.org/resource/Lyle_W._Hillyard",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -747,7 +659,7 @@
   "nouns" : [ "city", "attorney", "senate", "politician", "district", "member", "state" ],
   "text" : "Lyle W. Hillyard is a Utah politician and an attorney. A Republican, he is a member of the Utah State Senate, representing the state's 25th senate district in Cache and Rich Counties including the city of Logan."
 }, {
-  "entityIndex" : "69_entity11536",
+  "entityIndex" : "61_entity7116",
   "entityUrl" : "http://dbpedia.org/resource/Lisa_A._Gladden",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -758,18 +670,7 @@
   "nouns" : [ "politician", "member", "term" ],
   "text" : "Lisa A. Gladden (born October 6, 1964) is an American politician from Maryland and a member of the Democratic Party. She is currently serving in her 2nd term in the Maryland State Senate, representing Maryland's District 41 in Baltimore City."
 }, {
-  "entityIndex" : "70_entity11543",
-  "entityUrl" : "http://dbpedia.org/resource/Larcenia_Bullard",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Florida" ]
-  },
-  "words" : [ "--", "-LRB-", "16", "Bullard", "Larcenia", ",", "polityk", ".", "Miami", "marca", "lipca", "zm", "Allendale", "w", "2013", "-RRB-", "1947", "amerykańska", "ur", "21" ],
-  "adjectives" : [ ],
-  "nouns" : [ "lipca", "zm", "ur" ],
-  "text" : "Larcenia Bullard (ur. 21 lipca 1947 w Allendale, zm. 16 marca 2013 w Miami) – amerykańska polityk."
-}, {
-  "entityIndex" : "71_entity11620",
+  "entityIndex" : "62_entity7159",
   "entityUrl" : "http://dbpedia.org/resource/Laurie_Monnes_Anderson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -780,7 +681,7 @@
   "nouns" : [ "politician" ],
   "text" : "Laurie Monnes Anderson (born December 31, 1945) is an Oregon Democratic politician who currently serves in the Oregon Senate, representing District 25 in eastern Multnomah County, Oregon, including parts of the cities of Fairview, Gresham, Troutdale, and Wood Village. She was reelected in the 2008 Oregon legislative elections."
 }, {
-  "entityIndex" : "72_entity11719",
+  "entityIndex" : "63_entity7206",
   "entityUrl" : "http://dbpedia.org/resource/Lee_Beyer",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -791,7 +692,7 @@
   "nouns" : [ "decade", "politician", "state", "Assembly", "then-governor" ],
   "text" : "Leslee \"Lee\" Beyer (born June 4, 1948) is an American Democratic politician from the U.S. state of Oregon. He served in the Oregon Legislative Assembly for a decade, representing Springfield, until being appointed to the Oregon Public Utility Commission in 2001 by then-governor John Kitzhaber."
 }, {
-  "entityIndex" : "73_entity11946",
+  "entityIndex" : "64_entity7360",
   "entityUrl" : "http://dbpedia.org/resource/Lloyd_Earl_Warren",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -802,7 +703,7 @@
   "nouns" : [ "politician", "district", "member", "state" ],
   "text" : "Lloyd Earl Warren (September 19, 1896 – December 5, 1934) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 3rd district from 1928 to 1932."
 }, {
-  "entityIndex" : "74_entity11987",
+  "entityIndex" : "65_entity7385",
   "entityUrl" : "http://dbpedia.org/resource/Louis_O._Wendenburg",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -813,7 +714,7 @@
   "nouns" : [ "Lot", "politician", "district", "member", "state", "lawyer" ],
   "text" : "Louis Otto Wendenburg (January 21, 1861 – July 17, 1934) was an American lawyer and Democratic politician who served as a member of the Virginia Senate, representing the state's 35th district. Mr. Wendenburg is buried at Hollywood Cemetery, Section C, Lot 25, Richmond, Virginia."
 }, {
-  "entityIndex" : "75_entity12000",
+  "entityIndex" : "66_entity7394",
   "entityUrl" : "http://dbpedia.org/resource/Lorraine_Inouye",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -824,7 +725,7 @@
   "nouns" : [ "politician", "member", "state" ],
   "text" : "Lorraine Rodero Inouye (born June 22, 1940) is an American politician from the state of Hawaii. A member of the Democratic Party, she serves in the Hawaii State Senate, representing District 4."
 }, {
-  "entityIndex" : "76_entity12002",
+  "entityIndex" : "67_entity7396",
   "entityUrl" : "http://dbpedia.org/resource/Lane_Beattie",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -835,7 +736,7 @@
   "nouns" : [ "reelection", "politician", "state", "businessman" ],
   "text" : "Lane Beattie is an American businessman and politician from the state of Utah. Beattie served in the Utah Senate from 1989 through 2000, representing the 23rd Utah Senate District. He served as Senate Majority Leader from 1993 through 1994 and Senate President from 1995. He opted not to seek reelection in 2000. Beattie helped plan the 2002 Winter Olympics, held in Salt Lake City, and consulted with the committee planning the 2010 Winter Olympics, held in Vancouver. Beattie is the President and Chief Executive Officer of the Salt Lake Chamber of Commerce, and he was named to the board of directors of the United States Chamber of Commerce in 2011. Beattie is a potential candidate in the 2016 election for the United States Senate seat held by Mike Lee."
 }, {
-  "entityIndex" : "77_entity2382",
+  "entityIndex" : "68_entity1412",
   "entityUrl" : "http://dbpedia.org/resource/Clark_Jenkins",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -846,7 +747,7 @@
   "nouns" : [ "district", "member", "farmer", "state" ],
   "text" : "Samuel Clark Jenkins is a Democratic member of the North Carolina General Assembly representing the state's third Senate district since 2003. His district includes constituents in Edgecombe, Martin, and Pitt counties. Jenkins is also a farmer from Tarboro, North Carolina. Jenkins served six terms and was Deputy Minority Leader of the NC Senate."
 }, {
-  "entityIndex" : "78_entity2383",
+  "entityIndex" : "69_entity1413",
   "entityUrl" : "http://dbpedia.org/resource/Charlie_Smith_Dannelly",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -857,7 +758,7 @@
   "nouns" : [ "candidate", "wife", "district", "member", "health", "term", "state", "lawmaker", "educator", "primary" ],
   "text" : "Charlie Smith Dannelly is a Democratic member of the North Carolina General Assembly representing the state's thirty-eighth Senate district since 1995. His district includes constituents in Mecklenburg County. A retired educator from Charlotte, North Carolina, Dannelly served several years as Deputy President Pro Tempore of the Senate. In 2012, Dannelly, then the longest-serving lawmaker representing Mecklenburg County, filed to run for another term but due to his wife's deteriorating health, he dropped out and endorsed another candidate in the Democratic primary, Joel Ford."
 }, {
-  "entityIndex" : "79_entity2606",
+  "entityIndex" : "70_entity1516",
   "entityUrl" : "http://dbpedia.org/resource/Curt_Bramble",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -868,18 +769,7 @@
   "nouns" : [ "senate", "district", "member", "state" ],
   "text" : "Curtis Scott Bramble, a Republican, is a member of the Utah State Senate, representing the state's 16th senate district in Provo."
 }, {
-  "entityIndex" : "80_entity2616",
-  "entityUrl" : "http://dbpedia.org/resource/Cyrus_Woods",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Pennsylvania" ]
-  },
-  "words" : [ "--", "-LRB-", "September", "American", "politician", "E.", ",", ".", "Cyrus", "December", "3", "1861", "attorney", "Woods", "8", "-RRB-", "1938", "diplomat" ],
-  "adjectives" : [ "American" ],
-  "nouns" : [ "attorney", "politician", "diplomat" ],
-  "text" : "Cyrus E. Woods (September 3, 1861 – December 8, 1938) was an American attorney, diplomat and politician."
-}, {
-  "entityIndex" : "81_entity2633",
+  "entityIndex" : "71_entity1529",
   "entityUrl" : "http://dbpedia.org/resource/Carlene_M._Walker",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -890,7 +780,7 @@
   "nouns" : [ "senate", "bachelor", "politician", "district", "member", "degree", "state", "businesswoman" ],
   "text" : "Carlene M. Walker is an American politician and businesswoman from Utah. A Republican, she is a member of the Utah State Senate, representing the state's 8th senate district in Salt Lake County including Cottonwood Heights. Walker received her bachelor's degree from Brigham Young University in 1969."
 }, {
-  "entityIndex" : "82_entity2764",
+  "entityIndex" : "72_entity1619",
   "entityUrl" : "http://dbpedia.org/resource/Cindy_Hyde-Smith",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -901,18 +791,7 @@
   "nouns" : [ "woman", "chair", "member", "office", "position" ],
   "text" : "Cindy Hyde-Smith is the Mississippi Commissioner of Agriculture and Commerce. She took office in January 2012 and is the first woman to hold the position. Prior to serving as Agriculture Commissioner, Hyde-Smith was a member of the Mississippi Senate for three terms, holding the position of Senate Agriculture Committee chair for eight years."
 }, {
-  "entityIndex" : "83_entity2766",
-  "entityUrl" : "http://dbpedia.org/resource/C._O'Conor_Goolrick",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Virginia" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "25", "Juni", "ein", "Elks", "Freimaurer", "Beta", "der", "Phi", "1876", "Demokratische", "Fredericksburg", "Goolrick", "US-amerikanischer", "November", "†", "Rechtsanwalt", "Charles", "Kappa", "Partei", "war", "*", "und", ",", "ebenda", "er", ".", "O'Conor", "Mitglied", "Episkopalkirche", "4", "1960", "-RRB-", ";", "Virginia", "Ferner", "sowie" ],
-  "adjectives" : [ "Mitglied", "und" ],
-  "nouns" : [ "Rechtsanwalt", "der", "Politiker", "Demokratische", "Partei", "war", "und", "ein", "ebenda", "er", "US-amerikanischer" ],
-  "text" : "Charles O’Conor Goolrick (* 25. November 1876 in Fredericksburg, Virginia; † 4. Juni 1960 ebenda) war ein US-amerikanischer Rechtsanwalt und Politiker (Demokratische Partei). Ferner war er ein Mitglied der Episkopalkirche sowie der Freimaurer, der Elks und der Phi Beta Kappa. Er bekleidete 1908 einen Sitz im Abgeordnetenhaus und dann von 1915 bis 1923 im Senat von Virginia. Ferner war er 1920 Präsidentschaftswahlmann für Virginia sowie 1924 ein Delegierter beim Democratic National Convention."
-}, {
-  "entityIndex" : "84_entity2838",
+  "entityIndex" : "73_entity1659",
   "entityUrl" : "http://dbpedia.org/resource/Chris_Telfer",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -923,7 +802,7 @@
   "nouns" : [ "seat", "election", "law", "opponent", "shift", "campaign", "majority", "cycle", "support", "supermajority", "Assembly" ],
   "text" : "Telfer serves on the Bend City Council, and was elected to the Oregon State Senate in the November 2008 elections, to succeed outgoing Senator Ben Westlund. Hers was the only seat that changed parties in the Senate in that election cycle; her campaign spent $300,000 to opponent Maren Lundgren's $12,000. The shift, however, left Democrats with an 18-12 majority, allowing them to pass increases to taxes and fees without Republican support. (A 1996 law requires a 3/5 supermajority in both houses of the Oregon Legislative Assembly for such measures.) Telfer has lived in Bend since 1977. She has two daughters. She earned a bachelor's degree at the University of Denver, and did post-graduate work at Franklin University and the University of Oregon. She has taught at Central Oregon Community College and served as vice-chair on the Bend Development Board. In 2010, Telfer filed for the special election for Oregon State Treasurer, to complete the term of Ben Westlund, who died in office, but lost to Democratic incumbent Ted Wheeler in the November general election. In the Republican primary of the 2012 legislative elections, Telfer was defeated by Tim Knopp, a former state Representative and vice president of the Central Oregon Builders Association. She became the Oregon Lottery Commissioner. In 2016, she is running for the nomination of the Independent Party of Oregon's nomination for Treasurer of Oregon. She is expected to be that party's first nominee for a statewide office."
 }, {
-  "entityIndex" : "85_entity3097",
+  "entityIndex" : "74_entity1817",
   "entityUrl" : "http://dbpedia.org/resource/Chuck_Thomsen",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -934,7 +813,7 @@
   "nouns" : [ "politician", "state" ],
   "text" : "Charles William \"Chuck\" Thomsen (born January 20, 1957) is an American Republican politician from the US state of Oregon. He currently serves in the Oregon Senate, representing District 26, which includes all of Hood River County and parts of eastern Multnomah County and northeastern Clackamas County."
 }, {
-  "entityIndex" : "86_entity3233",
+  "entityIndex" : "75_entity1926",
   "entityUrl" : "http://dbpedia.org/resource/Clarence_M._Mitchell,_III",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -945,7 +824,7 @@
   "nouns" : [ "politician" ],
   "text" : "Clarence M. Mitchell, III (December 14, 1939 – October 11, 2012) was an American politician from Baltimore, Maryland who served in the Maryland Senate and the Maryland House of Delegates."
 }, {
-  "entityIndex" : "87_entity3282",
+  "entityIndex" : "76_entity1959",
   "entityUrl" : "http://dbpedia.org/resource/Cornelius_T._Jordan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -956,7 +835,7 @@
   "nouns" : [ "politician", "district", "member", "state", "educator" ],
   "text" : "Cornelius Theodore Jordan (December 30, 1855 – January 28, 1924) was an American educator and Independent politician who served as a member of the Virginia Senate, representing the state's 9th district. From 1896 to 1899, he was the President of New Mexico College of Agriculture and Mechanic Arts, which would later become New Mexico State University."
 }, {
-  "entityIndex" : "88_entity3283",
+  "entityIndex" : "77_entity1960",
   "entityUrl" : "http://dbpedia.org/resource/Clyde_T._Bowers",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -967,7 +846,7 @@
   "nouns" : [ "politician", "district", "member", "state" ],
   "text" : "Clyde Thomas Bowers (July 29, 1881 – September 30, 1968) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 15th district."
 }, {
-  "entityIndex" : "89_entity3285",
+  "entityIndex" : "78_entity1962",
   "entityUrl" : "http://dbpedia.org/resource/Campbell_C._Hyatt",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -978,7 +857,7 @@
   "nouns" : [ "politician", "district", "member", "state", "lawyer" ],
   "text" : "Campbell Carr Hyatt (June 8, 1880 – December 24, 1945) was an American lawyer and Republican politician who served as a member of the Virginia Senate, representing the state's 3rd district from 1922 to 1924."
 }, {
-  "entityIndex" : "90_entity3316",
+  "entityIndex" : "79_entity1989",
   "entityUrl" : "http://dbpedia.org/resource/Charles_Schneider_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -989,7 +868,7 @@
   "nouns" : [ "election", "city", "council", "politician", "district", "cancer", "state" ],
   "text" : "Charles Schneider is an American politician from the state of Iowa. A Republican, Schneider represents the 22nd district in the Iowa Senate. Schneider served on the city council of West Des Moines, Iowa. He was first elected to the Iowa Senate in a 2012 special election to succeed Pat Ward, who died of cancer."
 }, {
-  "entityIndex" : "91_entity1863",
+  "entityIndex" : "80_entity1046",
   "entityUrl" : "http://dbpedia.org/resource/Brent_H._Goodfellow",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1000,7 +879,7 @@
   "nouns" : [ "alumnus", "senate", "politician", "district", "member", "state", "educator" ],
   "text" : "Brent H. Goodfellow (born 1940) is an American politician and educator from Utah. He is a Democrat, and a former member of the Utah State Senate, representing the state's 12th senate district in Salt Lake and Tooele Counties. Goodfellow is an alumnus of the University of Utah."
 }, {
-  "entityIndex" : "92_entity1972",
+  "entityIndex" : "81_entity1126",
   "entityUrl" : "http://dbpedia.org/resource/Brad_Avakian",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1011,7 +890,7 @@
   "nouns" : [ "Governor", "election", "member", "position", "Assembly", "party" ],
   "text" : "Bradley Paul \"Brad\" Avakian (born February 4, 1961) is the Commissioner of the Oregon Bureau of Labor and Industries. He was appointed by Governor Ted Kulongoski on April 8, 2008 and subsequently elected statewide on November 4, 2008. He was re-elected in 2012 and 2014. While the Commissioner of Labor and Industries has been a nonpartisan position since 1995, Avakian is known to be a Democrat; he served in both houses of the Oregon Legislative Assembly as a member of that party, and ran in a Democratic primary election for the United States House of Representatives. He is the Democratic candidate for Oregon Secretary of State in the 2016 election."
 }, {
-  "entityIndex" : "93_entity1975",
+  "entityIndex" : "82_entity1129",
   "entityUrl" : "http://dbpedia.org/resource/Bob_Atwater",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1022,18 +901,7 @@
   "nouns" : [ "district", "member" ],
   "text" : "Robert \"Bob\" Atwater is a Democratic member of the North Carolina Senate, representing the 18th district since 2005."
 }, {
-  "entityIndex" : "94_entity1994",
-  "entityUrl" : "http://dbpedia.org/resource/Bill_Gwatney",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Arkansas" ]
-  },
-  "words" : [ "``", "Nacional", "de", "estado", "Condado", "-LRB-", "distribuidoras", "26", "Demócrata", "Gwatney", "estatal", "del", "además", "Arkansas", "Pulaski", "2008", "para", "1959", "presidente", "Poseyó", "''", "agosto", "13", "senador", "Convención", "el", "en", "William", ",", "automóviles", "-", ".", "Antes", "Unidos", "Partido", "la", "fiscal", "Estados", "fue", "Bill", "-RRB-", "superdelegado", "y", "varias", "llegar" ],
-  "adjectives" : [ "fiscal", "estatal" ],
-  "nouns" : [ "estado", "senador", "fue", "el", "y" ],
-  "text" : "William \"Bill\" Gwatney (26 de agosto de 1959 - 13 de agosto de 2008) fue el presidente del Partido Demócrata de Estados Unidos en Arkansas, además de superdelegado para la Convención Nacional Demócrata de 2008. Antes de llegar a presidente del Partido en Arkansas, fue senador estatal y fiscal del estado. Poseyó, además, varias distribuidoras de automóviles en el Condado de Pulaski."
-}, {
-  "entityIndex" : "95_entity2001",
+  "entityIndex" : "83_entity1141",
   "entityUrl" : "http://dbpedia.org/resource/Brian_Boquist",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1044,7 +912,7 @@
   "nouns" : [ "citizen", "month", "politician", "maximum", "state", "legislature" ],
   "text" : "Brian James Boquist (born October 20, 1958) is a Republican politician from the U.S. state of Oregon. He currently serves in the Oregon Senate representing District 12. Previously, he was in the Oregon House of Representatives, representing District 23 in the mid-Willamette Valley from 2005 to 2009. Oregon has a citizen legislature that meets five months maximum in odd years, and one month in even years."
 }, {
-  "entityIndex" : "96_entity2166",
+  "entityIndex" : "84_entity1245",
   "entityUrl" : "http://dbpedia.org/resource/Brian_Campion_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1055,7 +923,7 @@
   "nouns" : [ "Bennington-2-1", "politician", "district", "member", "office" ],
   "text" : "Brian Campion is an American politician from Bennington, Vermont, in the United States. A member of the Democratic Party, he was elected to the Vermont House of Representatives in 2010, representing the Bennington-2-1 district in Bennington and North Bennington. He took office on January 5, 2011. Born in Albany, New York, he has attended four universities and received two degrees. He attended Springfield College (B.A., 1993), the Université Laval in Quebec, the University of Massachusetts Amherst (M.A., 2001) and the University of Provence in France. An employee of Bennington College's office of external relations, Campion is also a trustee for the Bennington Museum, a commissioner of the Bennington Housing Authority, vice-chair of the Bennington County Democrats, and a director of the Bennington Chamber of Commerce. He ran for state representative in 2010, one of three candidates seeking two seats in the Bennington-2-1 district. Both incumbent state representatives, Democrat Tim Corcoran II and Republican Joseph L. Krawczyk, Jr. were seeking re-election and had endorsed each other. In the general election held on November 2, 2010, Campion won 1,461 votes, finishing behind Corcoran's 1,965 but ahead of Krawczyk's 1,120. He was therefore elected and took office on January 5, 2011. He won re-election in 2012. Campion was elected to the Vermont Senate in 2014. Campion is openly gay; he lives in Bennington with his partner Eric Hatch. He is one of six openly gay members of the Vermont Legislature, alongside representatives Bill Lippert (D–Hinesburg), Herb Russell (D–Rutland), Matt Trieber (D–Bellows Falls) and Joanna E. Cole (D–Burlington), as well as senator Becca Balint (D–Windham)."
 }, {
-  "entityIndex" : "97_entity2168",
+  "entityIndex" : "85_entity1247",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Ferguson_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1066,7 +934,7 @@
   "nouns" : [ "opposition", "election", "district", "member", "primary" ],
   "text" : "William C. \"Bill\" Ferguson IV (born April 15, 1983) is a Democratic member of the Maryland Senate, representing the 46th district since 2011. The district is composed of parts of Baltimore City. On September 14, 2010, Ferguson defeated six-term incumbent George W. Della, Jr. in the Democratic primary. He won the general election with no opposition. At the age of 33, he is currently the youngest state senator in Maryland."
 }, {
-  "entityIndex" : "98_entity2169",
+  "entityIndex" : "86_entity1248",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Anderson_(Iowa_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1077,18 +945,7 @@
   "nouns" : [ "legislator", "politician", "state" ],
   "text" : "Bill Anderson (born 1977) is a Republican politician and legislator from the state of Iowa."
 }, {
-  "entityIndex" : "99_entity2172",
-  "entityUrl" : "http://dbpedia.org/resource/Barbara_Favola",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Virginia" ]
-  },
-  "words" : [ "New", "-LRB-", "Juni", "Favola", "2012", "ist", "den", "A.", "sie", "Politikerin", "Demokratische", "von", "31", "1955", "dort", "im", "Senatorin", "Partei", "vertritt", "*", "und", ",", ".", "Senat", "Barbara", "eine", "Distrikt", "Connecticut", "London", "-RRB-", "Seit", "US-amerikanische", "Virginia", "21" ],
-  "adjectives" : [ "Seit" ],
-  "nouns" : [ "dort", "eine", "im", "von", "Senatorin", "vertritt", "und", "ist", "den", "sie", "Senat" ],
-  "text" : "Barbara A. Favola (* 21. Juni 1955 in New London, Connecticut) ist eine US-amerikanische Politikerin (Demokratische Partei). Seit 2012 ist sie Senatorin im Senat von Virginia und vertritt dort den 31. Distrikt."
-}, {
-  "entityIndex" : "100_entity2182",
+  "entityIndex" : "87_entity1257",
   "entityUrl" : "http://dbpedia.org/resource/Buck_Newton",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1099,7 +956,7 @@
   "nouns" : [ "seat", "election" ],
   "text" : "Eldon Sharpe (Buck) Newton III (born July 5, 1968) is a Republican Senator in the North Carolina General Assembly representing District 11 (Wilson and Nash counties). Newton won his seat in the 2010 election, defeating Democrat incumbent A.B. Swindell."
 }, {
-  "entityIndex" : "101_entity2242",
+  "entityIndex" : "88_entity1307",
   "entityUrl" : "http://dbpedia.org/resource/Brad_Hoylman",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1110,7 +967,7 @@
   "nouns" : [ "election", "politician", "district", "state" ],
   "text" : "Brad M. Hoylman (born October 27, 1965) is an American Democratic politician. He is a Democratic Senator for the New York State Senate in Manhattan's 27th district, first elected in the 2012 state election."
 }, {
-  "entityIndex" : "102_entity2248",
+  "entityIndex" : "89_entity1313",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Rabon",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1121,7 +978,7 @@
   "nouns" : [ "member" ],
   "text" : "William Peter Rabon is a Republican member of the North Carolina State Senate. Rabon has degrees from North Carolina State University and the University of Georgia."
 }, {
-  "entityIndex" : "103_entity2264",
+  "entityIndex" : "90_entity1326",
   "entityUrl" : "http://dbpedia.org/resource/Benjamin_E._McLin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1132,7 +989,7 @@
   "nouns" : [ "insurance", "business", "politician", "county", "crate", "manufacturer", "orange", "plant", "member", "fire", "time", "businessman", "lawyer", "milling" ],
   "text" : "Benjamin Earnest McLin (September 22, 1851 – January 31, 1912) was a lawyer, businessman and politician, who was a member of the Florida State Senate, and was the second Commissioner of Agriculture of Florida. McLin was engaged in the milling business in Lake county. He was also extensively invested in growing and shipping oranges. At one time he also operated the largest orange crate manufacturer in Florida, however his plant burnt down and was entirely being wiped out by fire, unfortunately he had no insurance on the plant. Not long after his plant was destroyed, the freeze of 1894-5 swept away his entire orange grove."
 }, {
-  "entityIndex" : "104_entity2272",
+  "entityIndex" : "91_entity1329",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Stanley_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1143,7 +1000,7 @@
   "nouns" : [ "city", "politician", "district", "part" ],
   "text" : "William M. \"Bill\" Stanley, Jr. (born July 21, 1967) is an American politician. A Republican, he was elected in 2011 to the Senate of Virginia for the 20th district. The 20th district includes the cities of Galax and Martinsville, Henry and Patrick counties, part of the city of Danville, and parts of five other Southside Virginia counties."
 }, {
-  "entityIndex" : "105_entity2278",
+  "entityIndex" : "92_entity1335",
   "entityUrl" : "http://dbpedia.org/resource/Bob_Duff",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1154,7 +1011,7 @@
   "nouns" : [ "vice", "137th", "chair", "part", "member" ],
   "text" : "Bob Duff (born 1971, Norwalk, Connecticut) is a five-term Democratic member of the Connecticut Senate, representing Norwalk and part of Darien, Connecticut in Connecticut's 25th District since 2001. He previously served as a member of the Connecticut House of Representatives, representing the 137th District. He is currently Majority Leader of the Connecticut Senate, and serves as chair of the Executive and Legislative Nominations Committee and vice chair of the Legislative Management Committee."
 }, {
-  "entityIndex" : "106_entity2323",
+  "entityIndex" : "93_entity1368",
   "entityUrl" : "http://dbpedia.org/resource/Benjamin_Muse",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1165,7 +1022,7 @@
   "nouns" : [ "newspaper", "crisis", "author", "politician", "switch", "seat", "result", "Resistance", "Governor", "opposition", "candidate", "soldier", "newspaperman", "member", "publisher", "diplomat", "state", "segregation", "lawyer" ],
   "text" : "Benjamin Muse (April 17, 1898 – May 4, 1986) was an American lawyer, soldier, diplomat, newspaper publisher, author and politician. He briefly who served as a member of the Virginia Senate (switching allegiances from the Democratic to the Republican Party and was defeated when he ran as an Independent for the Petersburg, Virginia seat; he resigned as a result of that switch). In 1941 Muse, running as the Republican candidate for Governor of Virginia, lost overwhelmingly to Democrat Colgate Darden, a member of the state's Byrd Organization. Later, Muse lived in Manassas, Virginia, from where he opposed and chronicled the Massive Resistance crisis fostered by U.S. Senator Harry F. Byrd and Richmond newspaperman James J. Kilpatrick as they fomented opposition to the United States Supreme Court decisions in Brown v. Board of Education which overturned racial segregation in public schools."
 }, {
-  "entityIndex" : "107_entity2327",
+  "entityIndex" : "94_entity1372",
   "entityUrl" : "http://dbpedia.org/resource/Bland_Massie",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1176,7 +1033,7 @@
   "nouns" : [ "politician", "district", "member", "state" ],
   "text" : "Bland Barksdale Massie (November 10, 1854 – January 8, 1924) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 19th district. He was born at Pharsalia in Nelson County."
 }, {
-  "entityIndex" : "108_entity2361",
+  "entityIndex" : "95_entity1401",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Cook_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1187,7 +1044,7 @@
   "nouns" : [ "district", "member", "state" ],
   "text" : "William \"Bill\" Cook (born August 12, 1945) is a Republican member of the North Carolina General Assembly. He represents the state's first Senate district, which consists of Beaufort, Camden, Currituck, Dare, Gates, Hyde, Pasquotank, and Perquimans counties."
 }, {
-  "entityIndex" : "109_entity18263",
+  "entityIndex" : "96_entity11301",
   "entityUrl" : "http://dbpedia.org/resource/Ulysses_Currie",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1198,7 +1055,7 @@
   "nouns" : [ "politician", "violation", "member", "term" ],
   "text" : "Ulysses Currie is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his 4th term in the Maryland State Senate, representing Maryland's District 25 in Prince George's County. Currie was the Chair of the Budget and Taxation Committee before having to resign because of an ethics violation."
 }, {
-  "entityIndex" : "110_entity17388",
+  "entityIndex" : "97_entity10723",
   "entityUrl" : "http://dbpedia.org/resource/Tom_Apodaca",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1209,7 +1066,7 @@
   "nouns" : [ "legislator", "district", "member", "state", "businessman" ],
   "text" : "Thomas Michael \"Tom\" Apodaca is a Republican member of the North Carolina General Assembly representing the state's forty-eighth Senate district, including constituents in Buncombe, Henderson, and Transylvania counties. He was reelected in 2010. Tom Apodaca is a businessman and state legislator. He currently serves as Chairman of the Senate Rules Committee. His wife Lisa is a former public school teacher; they have been married for over 30 years and have two sons. All four Apodacas are graduates of Western Carolina University, where Tom served as a member of the board of trustees. Apodaca was elected to the North Carolina Senate in 2002 during his first campaign for public office; he was re-elected by his Western North Carolina constituents in 2004, 2006, 2008, and 2010. In addition to chairing the Senate Rules Committee, he co-chairs the Committee on Insurance, the Committee on Pensions & Retirement and Aging and the Appropriations Subcommittee on Education & Higher Education. In response to public outcry after a coal ash spill into the Dan River in northern North Carolina from a facility owned by Duke Energy Inc., Apodaca said he planned to draft legislation in May 2014 to require Duke Energy to clean up its coal ash ponds, including the one in Buncombe County. He told the Hendersonville Times-News on February 12: \"I don't want a containment plan, I want a plan to get rid of it. ... We need a five- to 10-year plan to get rid of them because we don't need it sitting there next to the river.\" Over the court of his time in politics, Apodaca has accepted over $65,000 from organizations representing Duke Energy and Progress Energy. 61 In the 2013 legislative session, Apodaca introduced and voted for a bill, Senate Bill 10, to reorganize the Environmental Management Commission and the N.C. Utilities Commission and replace the members with new appointees. This Bill included the elimination of dozens of obsolete and rarely convened boards and commissions. Senate Bill 10 was not signed into law in 2013. Sen. Tom Apodaca said his main complaint to the House version was that it strikes language that would fire 12 special superior court judges. 60 In May 2013, after receiving the maximum $8000 contribution from North Carolina Automobile Dealers Association, Apodaca sponsored legislation that would make it illegal for any car maker to bypass dealerships and sell directly to consumers in North Carolina. Apodaca's proposal was widely criticized as anti-competitive and aimed at insulating automobile dealers from Tesla Motors' business model. In March 2016, Apodaca led a special session of the North Carolina General Assembly that passed the controversial Public Facilities Privacy & Security Act commonly known as HB2. After this session of congress, Apodaca called on the city of Charlotte to pay the $42,000 cost of the emergency legislative session which led to the bill's passage. After the controversial bill passed, companies such as PayPal withdrew their plans to expand in North Carolina, resulting in the loss of at least four hundred potential jobs for North Carolinians."
 }, {
-  "entityIndex" : "111_entity17632",
+  "entityIndex" : "98_entity10849",
   "entityUrl" : "http://dbpedia.org/resource/Toby_Ann_Stavisky",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1220,7 +1077,7 @@
   "nouns" : [ "woman", "Education", "district", "scholarship" ],
   "text" : "Toby Ann Stavisky (née Toby Ann Goldhaar) represents the 16th district in the New York State Senate which comprises the Queens neighborhoods of Bay Terrace, Bayside, Beechhurst, Clearview Gardens, Flushing, Rego Park, Forest Hills, Hillcrest, Elmhurst, Electchester, Pomonok, Queensboro Hill, Whitestone, Woodside, Mitchell Linden, Fresh Meadows, and Oakland Gardens. Toby Ann Stavisky, the first woman from Queens County elected to the State Senate and the first woman to Chair the Senate Committee on Higher Education, is a native New Yorker who was born and raised on the Upper West Side of Manhattan. She attended New York City public schools before graduating from Bronx High School of Science, and Syracuse University, which she attended on an academic scholarship. The Senator completed graduate courses at Hunter and Queens Colleges. After working in the actuarial department of a major insurance company, Mrs. Stavisky taught Social Studies in the New York City high schools. She served as district manager in Northeast Queens for the Census, where she directed more than 1,000 field and office staff and was cited by the Commerce Department for her outstanding work. In the community, Senator Stavisky has been involved in a wide array of activities on such issues as better schools, improved programs for older adults, social justice, opportunities for New Americans, and assisting small business. From 2003 to 2008, Senator Stavisky served as Assistant Minority Whip and Ranking Minority Member of the Committee on Higher Education. In 2009-10 she was Chairwoman of the Committee on Higher Education. Currently she holds a leadership position in the Senate as Assistant Democratic Leader and Ranking Minority Member on the Senate's Committee on Higher Education. Senator Toby Ann Stavisky was first elected to the Senate on November 2, 1999, and has subsequently been re-elected eight times. In 2014 she was reelected to office with 58 percent of the vote. In 2013, Senator Stavisky was appointed to the subcommittee on New York City Education."
 }, {
-  "entityIndex" : "112_entity17669",
+  "entityIndex" : "99_entity10872",
   "entityUrl" : "http://dbpedia.org/resource/Thomas_M._Middleton",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1231,7 +1088,7 @@
   "nouns" : [ "successor", "politician", "member", "term" ],
   "text" : "Thomas McLain \"Mac\" Middleton (born September 1, 1945) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his 4th term in the Maryland State Senate, representing Maryland's District 28 in southern Charles County. Middleton chairs the Senate's Finance Committee and is often mentioned as a possible successor to Senate President Thomas V. Mike Miller, Jr."
 }, {
-  "entityIndex" : "113_entity17731",
+  "entityIndex" : "100_entity10910",
   "entityUrl" : "http://dbpedia.org/resource/Tim_Bee",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1242,7 +1099,7 @@
   "nouns" : [ "owner", "seat", "candidate", "business", "politician", "district" ],
   "text" : "Timothy S. Bee is a Republican politician and business owner who served in the Arizona State Senate from 2003 to 2007. He was first elected to the Arizona Senate in 2001, and left in 2009 due to term limits. In 2008, he was the Republican candidate for Arizona's 8th congressional district seat in the United States House of Representatives. He lost to incumbent Democrat Gabrielle Giffords. Arizona Governor Jan Brewer later appointed him to head her Tucson office."
 }, {
-  "entityIndex" : "114_entity17796",
+  "entityIndex" : "101_entity10958",
   "entityUrl" : "http://dbpedia.org/resource/Tarryl_Clark",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1253,7 +1110,7 @@
   "nouns" : [ "endorsement", "congressman", "politician", "district", "member", "nominee", "Cravaack", "Chip", "nomination" ],
   "text" : "Tarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann. In 2011, Clark sought the Democratic nomination to challenge Republican congressman Chip Cravaack in Minnesota's 8th congressional district, but lost the endorsement to Rick Nolan, who went on to win the August 2012 primary."
 }, {
-  "entityIndex" : "115_entity18015",
+  "entityIndex" : "102_entity11120",
   "entityUrl" : "http://dbpedia.org/resource/Tod_Bowman",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1264,7 +1121,7 @@
   "nouns" : [ "legislator", "politician", "state" ],
   "text" : "Tod Bowman, (born March 29, 1965) is a Democratic politician and legislator from the state of Iowa. He was elected to the Iowa Senate in 2010. He represents District 29, which holds Clinton, Dubuque, and Jackson counties."
 }, {
-  "entityIndex" : "116_entity18146",
+  "entityIndex" : "103_entity11220",
   "entityUrl" : "http://dbpedia.org/resource/Tommy_Tucker_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1275,7 +1132,7 @@
   "nouns" : [ "citizen", "development", "movie", "co-chairman", "senator", "journalist", "inquiry", "State", "theater", "statement", "challenge", "state", "criticism" ],
   "text" : "Wyatt \"Tommy\" Thomas Tucker, Sr. is a Republican state senator in the state of North Carolina. He is co-chairman of the North Carolina Senate's State and Local Government Committee. Senator Tucker has been credited with the statement \"I am the Senator, you are the Citizen, you need to be quiet,\" when responding to a citizen journalist's inquiry on North Carolina's Senatorial Rules and Procedures  In 2013 Sen. Tucker came under criticism for helping direct Rural Center funds to the development of a movie theater In 2016 he is facing a primary challenge from Matthew Daly"
 }, {
-  "entityIndex" : "117_entity18162",
+  "entityIndex" : "104_entity11231",
   "entityUrl" : "http://dbpedia.org/resource/Theodore_C._Pilcher",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1286,7 +1143,7 @@
   "nouns" : [ "death", "politician", "district", "member", "state" ],
   "text" : "Theodore Clay Pilcher (March 20, 1844 – December 7, 1917) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 11th district from 1916 until his death just under two years later. From 1891 to 1901, he represented Fauquier County in the House of Delegates."
 }, {
-  "entityIndex" : "118_entity18165",
+  "entityIndex" : "105_entity11232",
   "entityUrl" : "http://dbpedia.org/resource/Thomas_S._Hening",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1297,7 +1154,7 @@
   "nouns" : [ "doctor", "politician", "district", "member", "state" ],
   "text" : "Thomas Scott Hening (July 26, 1871 – April 29, 1934) was an American medical doctor and Democratic politician who served as a member of the Virginia Senate. There he represented the state's 16th district from 1916 to 1924."
 }, {
-  "entityIndex" : "119_entity14949",
+  "entityIndex" : "106_entity9086",
   "entityUrl" : "http://dbpedia.org/resource/Robert_A._Rucho",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1308,7 +1165,7 @@
   "nouns" : [ "dispute", "session", "co-chairman", "chairmanship", "tax", "resignation", "dentist", "reform", "month", "district", "member", "term", "state", "Rucho", "policy" ],
   "text" : "Robert Anthony Rucho (born December 8, 1948) is a Republican member of the North Carolina General Assembly representing the state's thirty-ninth Senate district, including constituents in Mecklenburg County. A dentist from Matthews, North Carolina, Rucho is currently (2013-2014 session) serving in his seventh (non-consecutive) term in the state Senate. Rucho served as co-chairman of the Senate Finance Committee until his abrupt resignation in June 2013 in a dispute with Senate President Pro Tempore Phil Berger over tax reform policy. Berger never accepted the resignation and the next month, Rucho resumed his chairmanship."
 }, {
-  "entityIndex" : "120_entity15186",
+  "entityIndex" : "107_entity9196",
   "entityUrl" : "http://dbpedia.org/resource/Robert_A._Watson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1319,7 +1176,7 @@
   "nouns" : [ "attorney", "district", "possession", "member", "marijuana" ],
   "text" : "Robert A. Watson (born October 14, 1960) is an American attorney and former Republican member of the Rhode Island House of Representatives, representing the 30th District since 1992. His district includes parts of East Greenwich and West Greenwich. He is a former House Minority Leader. He was arrested twice for marijuana possession."
 }, {
-  "entityIndex" : "121_entity15226",
+  "entityIndex" : "108_entity9220",
   "entityUrl" : "http://dbpedia.org/resource/Ruth_M._Easterling",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1330,7 +1187,7 @@
   "nouns" : [ "alumnus", "city", "council", "member", "age", "legislature" ],
   "text" : "Ruth Elizabeth Moss Easterling (1910–2006) was a Democratic member of the North Carolina House of Representatives for thirteen terms. She was born December 26, 1910 in Gaffney, South Carolina. She was an alumnus of Limestone College and Appalachian State University. After serving on the city council of Charlotte, Easterling was first elected to the legislature in 1976, at age 65. She retired in 2002 at age 92. Easterling died on November 1, 2006 at age 95, of congestive heart failure."
 }, {
-  "entityIndex" : "122_entity15242",
+  "entityIndex" : "109_entity9229",
   "entityUrl" : "http://dbpedia.org/resource/Ronda_Storms",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1341,7 +1198,7 @@
   "nouns" : [ "number", "politician", "state", "District", "tenure", "home" ],
   "text" : "Ronda R. Storms (born Ronda Rehnell Newcomb on September 5, 1965) is an American politician representing her adopted home state of Florida. Affiliated with the Republican Party, she represented the 10th District in the Florida Senate from 2006 to 2012. She decided not to run in 2012 for the new 24th District. Storms had an eight-year tenure on the Hillsborough County Commission (1998-2006) and advanced a number of controversial issues."
 }, {
-  "entityIndex" : "123_entity15250",
+  "entityIndex" : "110_entity9232",
   "entityUrl" : "http://dbpedia.org/resource/Ross_I._Romero",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1352,7 +1209,7 @@
   "nouns" : [ "senate", "politician", "district", "member", "state" ],
   "text" : "Ross I. Romero (November 13, 1971) is an American politician and Attorney from Utah. A Democrat, he is a member of the Utah State Senate, representing the state's 7th senate district in Salt Lake County including the East Bench of Salt Lake City. He currently is the Senate Democratic Leader."
 }, {
-  "entityIndex" : "124_entity15254",
+  "entityIndex" : "111_entity9235",
   "entityUrl" : "http://dbpedia.org/resource/Roger_Manno",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1363,7 +1220,7 @@
   "nouns" : [ "politician" ],
   "text" : "Roger Manno (b. April 26, 1966) is an American politician. He was elected to the Maryland House of Delegates in 2006  to represent the 19th Legislative District, and in 2010 was elected to the Maryland State Senate."
 }, {
-  "entityIndex" : "125_entity15280",
+  "entityIndex" : "112_entity9255",
   "entityUrl" : "http://dbpedia.org/resource/Robin_L._Taylor",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1374,7 +1231,7 @@
   "nouns" : [ "administrator", "government", "politician", "state", "judge", "lawyer", "capacity" ],
   "text" : "Robin L. Taylor (born February 5, 1943) is a lawyer from the U.S. state of Alaska. He has also served as a judge, government administrator and Republican Party politician. It is in this latter capacity that he is best known. Taylor served in the Alaska Legislature from 1985 to 2003. Running for governor of Alaska in 1998 in a blanket primary, Taylor was outpolled by John Lindauer for the Republican nomination. When questions arose over the source of Lindauer's campaign monies, Taylor reemerged as a write-in candidate for the office backed by the Republican Party of Alaska, who had disowned Lindauer. While Taylor outpolled Lindauer in the general election, both candidacies fell far behind that of incumbent Tony Knowles, who was elected to a second term."
 }, {
-  "entityIndex" : "126_entity15325",
+  "entityIndex" : "113_entity9290",
   "entityUrl" : "http://dbpedia.org/resource/Ruth_Hassell-Thompson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1385,7 +1242,7 @@
   "nouns" : [ "Co-op", "city", "State", "district" ],
   "text" : "Ruth-Hassell Thompson of Mount Vernon, New York was a State Senator representing the 36th district of New York, which includes the Bronx neighborhoods of Norwood, Bedford Park, Williamsbridge, Co-op City, Wakefield and Baychester and the Westchester city of Mount Vernon."
 }, {
-  "entityIndex" : "127_entity15333",
+  "entityIndex" : "114_entity9298",
   "entityUrl" : "http://dbpedia.org/resource/Robert_Zirkin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1396,7 +1253,7 @@
   "nouns" : [ "politician", "member", "term" ],
   "text" : "Robert A. \"Bobby\" Zirkin (born April 24, 1971) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his 2nd term in the Maryland State Senate, representing Maryland's District 11 in Baltimore County."
 }, {
-  "entityIndex" : "128_entity15341",
+  "entityIndex" : "115_entity9305",
   "entityUrl" : "http://dbpedia.org/resource/Roberto_Arango",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1407,7 +1264,7 @@
   "nouns" : [ "Grindr", "website", "politician", "match", "senator", "public", "series", "district", "position", "sector", "group", "legislation", "addition" ],
   "text" : "Roberto Arango-Vinent is a Cuban American politician who served in the Senate of Puerto Rico from January 2005 until August 2011 representing the New Progressive Party of Puerto Rico (NPP) which is a conservative group derived from the Republican Statehood Party. Arango represented the San Juan district and voted for anti-gay legislation several times. The married senator resigned his position after a series of nude photos were made public from the gay match website Grindr were made public. In addition he admitted that he was gay and returned to the private sector."
 }, {
-  "entityIndex" : "129_entity15483",
+  "entityIndex" : "116_entity9411",
   "entityUrl" : "http://dbpedia.org/resource/Rod_Monroe",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1418,7 +1275,7 @@
   "nouns" : [ "city", "politician", "part", "state" ],
   "text" : "Rod Monroe (born August 20, 1942) is an American Democratic politician from the US state of Oregon. He currently serves in the Oregon Senate, representing District 24 in the middle part of Multnomah County, which includes most of eastern Portland and the city of Happy Valley."
 }, {
-  "entityIndex" : "130_entity15485",
+  "entityIndex" : "117_entity9413",
   "entityUrl" : "http://dbpedia.org/resource/Ryan_Deckert",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1429,7 +1286,7 @@
   "nouns" : [ "politician", "position", "state", "president" ],
   "text" : "Ryan Deckert (born c. 1971) is the president of the Oregon Business Association. Prior to this position, Deckert, a Democratic politician from the US state of Oregon, served in the Oregon Senate, representing District 14, which includes parts of Beaverton and the Portland neighborhoods of Garden Home and Raleigh Hills."
 }, {
-  "entityIndex" : "131_entity15486",
+  "entityIndex" : "118_entity9414",
   "entityUrl" : "http://dbpedia.org/resource/Roger_Beyer",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1440,7 +1297,7 @@
   "nouns" : [ "politician", "state" ],
   "text" : "Roger Beyer is a Republican politician from the US state of Oregon, who most recently served in the Oregon Senate, representing District 9, which includes parts of Clackamas, Linn, and Marion County, Oregon counties."
 }, {
-  "entityIndex" : "132_entity15586",
+  "entityIndex" : "119_entity9479",
   "entityUrl" : "http://dbpedia.org/resource/Raymond_Merrick",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1451,7 +1308,7 @@
   "nouns" : [ "member" ],
   "text" : "Raymond F. \"Ray\" Merrick (born October 18, 1939) is a Republican member of the Kansas House of Representatives, representing District 27 since 2013. He was elected Speaker of the Kansas House of Representatives in December 2012."
 }, {
-  "entityIndex" : "133_entity15716",
+  "entityIndex" : "120_entity9578",
   "entityUrl" : "http://dbpedia.org/resource/Richard_Grobschmidt",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1462,7 +1319,7 @@
   "nouns" : [ "politician", "position", "educator" ],
   "text" : "Richard Grobschmidt ( May 3, 1948- July 23, 2016) was an American educator and former Democratic politician from South Milwaukee, Wisconsin. He served five terms in the Wisconsin State Assembly (1985–1995) and parts of three terms in the Wisconsin State Senate (1995–2003), before resigning to take a position with the Wisconsin Department of Public Instruction."
 }, {
-  "entityIndex" : "134_entity15808",
+  "entityIndex" : "121_entity9650",
   "entityUrl" : "http://dbpedia.org/resource/Rick_Bertrand",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1473,7 +1330,7 @@
   "nouns" : [ "area", "legislator", "politician", "degree", "state" ],
   "text" : "Rick Bertrand (born December 22, 1969) is a Republican politician and legislator from the state of Iowa. He was elected to the Iowa Senate in 2010. He represents District 7, which serves the Sioux City area. After graduating from Bishop Heelan High School, he attended Iowa Central Community College before obtaining a degree at the University of Northern Iowa in Political Science. He is on the board of directors for the Sioux City Art Center. Before being elected to the state senate, he unsuccessfully ran for the 2nd district seat of the Iowa House of Representatives in 2008. In 2016, he is running in the primary for the Republican nomination for Iowa's 4th congressional district."
 }, {
-  "entityIndex" : "135_entity15810",
+  "entityIndex" : "122_entity9652",
   "entityUrl" : "http://dbpedia.org/resource/Roby_Smith",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1484,7 +1341,7 @@
   "nouns" : [ "owner", "business", "legislator", "politician", "degree", "state", "supporter", "Boy", "Business" ],
   "text" : "Roby Smith (born 1977) is a Republican politician and legislator from the state of Iowa. He was elected to the Iowa Senate in 2010, and represents District 47. He is a small business owner, and holds a Business degree from Concordia University. He is an Eagle Scout recipient, and supporter of the Boy Scouts of America. Prior to being elected to the state senate, he unsuccessfully ran for a seat in the Iowa House of Representatives in 2006."
 }, {
-  "entityIndex" : "136_entity15990",
+  "entityIndex" : "123_entity9790",
   "entityUrl" : "http://dbpedia.org/resource/Ryan_W._Pearson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1495,7 +1352,7 @@
   "nouns" : [ "graduate", "politician", "district", "office", "banker" ],
   "text" : "Ryan W. Pearson (born June 30, 1988) is an American banker and politician from Cumberland, Rhode Island. A Democrat, he serves in the Rhode Island Senate, representing the 19th district. He took office on January 1, 2013. A graduate of Providence College, Pearson holds a B.S. in Finance. He worked as staff member in the United States Senate from 2007–2008 while attending American University in Washington, D.C. Returning to his hometown in 2008, he declared his candidacy to be a member of the Cumberland School Committee. Serving as a member of the finance and personnel committees, Pearson became known for his outspoken leadership on fiscal responsibility and educator quality. On May 18, 2012, Pearson declared his candidacy for the 19th district seat in the Rhode Island Senate as a Democrat. Incumbent Bethany Moura, a Republican also later announced she would be running for re-election. James Spooner (Democrat) and Steve Orsini (Independent) also announced for the seat. Pearson went on to win the Democratic primary with 68% of the vote and despite competing in a three-person race, won 54% of the general election vote on November 6, 2012."
 }, {
-  "entityIndex" : "137_entity15997",
+  "entityIndex" : "124_entity9794",
   "entityUrl" : "http://dbpedia.org/resource/Robert_Genuario",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1506,7 +1363,7 @@
   "nouns" : [ "State", "part", "member", "judge" ],
   "text" : "Robert Genuario (born March 31, 1952) is a Connecticut Superior Court judge appointed by Governor M. Jodi Rell in 2005. He had served as Secretary of the State of Connecticut Office of Policy and Management since January 2005. He was a seven-term Republican member of the Connecticut Senate, representing Norwalk and part of Darien, Connecticut in Connecticut's 25th District from 1991 to 2001."
 }, {
-  "entityIndex" : "138_entity16032",
+  "entityIndex" : "125_entity9819",
   "entityUrl" : "http://dbpedia.org/resource/R._Ewell_Thornton",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1517,18 +1374,7 @@
   "nouns" : [ "politician", "district", "member", "state", "lawyer" ],
   "text" : "Richard Ewell Thornton (January 7, 1865 – March 27, 1928) was an American lawyer and Democratic politician who served as a member of the Virginia Senate, representing the state's 14th district from 1908 to 1920."
 }, {
-  "entityIndex" : "139_entity16034",
-  "entityUrl" : "http://dbpedia.org/resource/Robert_O._Crockett",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Virginia" ]
-  },
-  "words" : [ "إو", "-LRB-", "م", "و", "سياسي", "عضو", "Robert", "المتحدة", "روبرت", "الولايات", "1955", "--", "هو", "من", "الحزب", "بالإنجليزية", "في", "الجمهوري", "الأمريكية", ".", "وهو", "كروكيت", "1881", "-RRB-", "Crockett", ":", "O." ],
-  "adjectives" : [ ],
-  "nouns" : [ "من", "وهو", "كروكيت", "م", "الجمهوري" ],
-  "text" : "روبرت إو كروكيت (بالإنجليزية: Robert O. Crockett) (و. 1881 – 1955 م) هو سياسي من الولايات المتحدة الأمريكية .وهو عضو في الحزب الجمهوري ."
-}, {
-  "entityIndex" : "140_entity16037",
+  "entityIndex" : "126_entity9823",
   "entityUrl" : "http://dbpedia.org/resource/Ronald_J._Rabin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1539,7 +1385,7 @@
   "nouns" : [ "senator", "Training", "school", "lieutenant", "district", "Rabin", "state", "program", "infantry" ],
   "text" : "Ronald Joseph Rabin (born May 16, 1932) is a Republican state senator in the state of North Carolina, representing the 12th district, encompassing Harnett, Johnston, Lee Counties. Rabin was born in Rochester, New York in 1932. He attended high school there and then went on to attend the University of Southern Mississippi where he was in the Reserve Officers' Training Corps program. He was later commissioned into the Army as a second lieutenant of infantry. He is a business consultant in the aerospace and defense industries, having served previously in the United States Army as a Colonel for 24 years. He was elected to the North Carolina Senate on November 5, 2012, having defeated Democrat Brad Salmon. Rabin is married to Mona and has 3 children: Mark, Scott, Rachel, and 9 grandchildren. He resides at Anderson Creek, Harnett County, North Carolina."
 }, {
-  "entityIndex" : "141_entity16042",
+  "entityIndex" : "127_entity9828",
   "entityUrl" : "http://dbpedia.org/resource/Roland_E._Chase",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1550,7 +1396,7 @@
   "nouns" : [ "politician", "member", "lawyer" ],
   "text" : "Roland Ephraim Chase (August 14, 1867 – September 14, 1948) was an American lawyer and Republican politician who served as a member of the Virginia Senate and House of Delegates."
 }, {
-  "entityIndex" : "142_entity16072",
+  "entityIndex" : "128_entity9853",
   "entityUrl" : "http://dbpedia.org/resource/Rocky_Fitzsimmons",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1561,7 +1407,7 @@
   "nouns" : [ "bachelor", "politician", "degree", "magna", "engineering", "doctor", "attorney", "science", "member", "cum", "state", "juris", "laude" ],
   "text" : "Robert J. \"Rocky\" Fitzsimmons (born March 5, 1979) is an American attorney and politician from the state of West Virginia. A member of the Democratic Party, Fitzsimmons served in the West Virginia Senate. Fitzsimmons attended Washington University in St. Louis, graduating with a bachelor of science magna cum laude degree in biomedical engineering. He enrolled at the Wake Forest University School of Law, where he received his juris doctor. As an attorney, he joined the Fitzsimmons Law Firm, based in Warwood, West Virginia, with other members of his family. Fitzsimmons was appointed to the West Virginia Senate in December 2012 by Governor Earl Ray Tomblin, replacing Orphy Klempa. On November 4, 2014, Fitzsimmons was defeated for reelection by Republican Delegate Ryan Ferns."
 }, {
-  "entityIndex" : "143_entity3681",
+  "entityIndex" : "129_entity2212",
   "entityUrl" : "http://dbpedia.org/resource/Dan_Eastman",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1572,7 +1418,7 @@
   "nouns" : [ "auto", "woman", "car", "politician", "truck", "campaign", "try", "businessman", "crash", "traffic" ],
   "text" : "Dan R. Eastman (March 12, 1946 – June 8, 2010) was an American Republican Party politician and businessman (car sales) from Utah. In 1999, Senator Eastman sold his auto dealerships for an estimated $30 million. He was elected to the Utah State Senate on his first try based on a campaign which was almost completely self-financed. In 2001, Eastman was involved in a fatal car crash that killed a woman after he swerved his truck into oncoming traffic. No charges were ever filed although investigators concluded that it was Eastman's fault. Eastman was a member of the Utah State Senate, representing the state's 23rd senate district in Bountiful. He was elected in 2000 and 2004 but did not seek re-election in 2008. He was the Senate's Minority Whip from 2004 until 2008. Eastman studied at Weber State University and Utah State University. Prior to his election to the Utah State Legislature, he served on the Davis School Board. Eastman was married to the former Claudette Crawford and they were the parents of five children. Eastman died on June 8, 2010 from heart failure. He was 64 years old."
 }, {
-  "entityIndex" : "144_entity3693",
+  "entityIndex" : "130_entity2219",
   "entityUrl" : "http://dbpedia.org/resource/Darin_G._Peterson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1583,7 +1429,7 @@
   "nouns" : [ "son", "city", "legislator", "senate", "graduate", "politician", "district", "member", "state" ],
   "text" : "Darin Glen Peterson is an American politician from Utah. A Republican, he was a member of the Utah State Senate from 2006 until 2008, representing the state's 24th senate district in Juab, Piute, Sanpete, Sevier, Tooele, and Wayne Counties including the city of Nephi. Peterson, the son of former Utah legislator Cary G. Peterson, is a graduate of Utah State University."
 }, {
-  "entityIndex" : "145_entity3694",
+  "entityIndex" : "131_entity2220",
   "entityUrl" : "http://dbpedia.org/resource/Dennis_E._Stowell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1594,7 +1440,7 @@
   "nouns" : [ "chemical", "senate", "bachelor", "politician", "district", "member", "state", "engineering", "engineer", "master" ],
   "text" : "Dennis E. Stowell (June 18, 1944 – April 17, 2011) was an American politician and chemical engineer from Utah. A Republican, he was a member of the Utah State Senate, representing the state's 28th senate district in Beaver, Garfield, Iron, Kane, Millard, and Washington Counties. Stowell earned bachelor's and master's degrees in chemical engineering from Brigham Young University. He also served as Mayor of Parowan, Utah."
 }, {
-  "entityIndex" : "146_entity3751",
+  "entityIndex" : "132_entity2266",
   "entityUrl" : "http://dbpedia.org/resource/Delores_G._Kelley",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1605,7 +1451,7 @@
   "nouns" : [ "politician", "member", "term" ],
   "text" : "Delores Goodwin Kelley (born May 1, 1936) is an American politician from Maryland and a member of the Democratic Party. She is currently serving in her 4th term in the Maryland State Senate, representing Maryland's District 10 in Baltimore County."
 }, {
-  "entityIndex" : "147_entity3834",
+  "entityIndex" : "133_entity2333",
   "entityUrl" : "http://dbpedia.org/resource/Dorothy_Hukill",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1616,7 +1462,7 @@
   "nouns" : [ "member" ],
   "text" : "Dorothy L. Hukill (born September 20, 1946) is a Republican member of the Florida State Senate who has represented the 8th District, which includes parts of Lake, Marion, and Volusia Counties, since 2012. She previously served in the Florida House of Representatives, representing the 28th District from 2004 to 2012."
 }, {
-  "entityIndex" : "148_entity3851",
+  "entityIndex" : "134_entity2344",
   "entityUrl" : "http://dbpedia.org/resource/David_Nelson_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1627,7 +1473,7 @@
   "nouns" : [ "politician", "state" ],
   "text" : "David Nelson (born August 6, 1941) is a Republican politician from the U.S. state of Oregon. He served four terms in the Oregon State Senate. He lives in Pendleton, and represented District 29."
 }, {
-  "entityIndex" : "149_entity3977",
+  "entityIndex" : "135_entity2417",
   "entityUrl" : "http://dbpedia.org/resource/Dwight_M._Bullard",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1638,7 +1484,7 @@
   "nouns" : [ "member" ],
   "text" : "Dwight Bullard (born February 4, 1977) is a Democratic member of the Florida State Senate, representing the 39th District, which includes all of Hendry and Monroe Counties and parts of Collier and Miami-Dade Counties, since 2012."
 }, {
-  "entityIndex" : "150_entity3980",
+  "entityIndex" : "136_entity2418",
   "entityUrl" : "http://dbpedia.org/resource/Dan_Kerschen",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1649,7 +1495,7 @@
   "nouns" : [ "district", "member" ],
   "text" : "Dan Kerschen is a Republican member of the Kansas State Senate, representing the 26th district since 2013. Kerschen previously served in the Kansas House of Representatives from 2009 to 2013. He has a B.S. from Kansas State University."
 }, {
-  "entityIndex" : "151_entity4053",
+  "entityIndex" : "137_entity2474",
   "entityUrl" : "http://dbpedia.org/resource/Dan_Liljenquist",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1660,7 +1506,7 @@
   "nouns" : [ "election", "senate", "politician", "district", "member", "state", "businessman" ],
   "text" : "Daniel R. Liljenquist (born July 10, 1974) is an American businessman and former politician. He was a Republican member of the Utah State Senate representing the state's 23rd senate district in Davis County from January 2009 to December 2011. He resigned to run in the 2012 election for U.S. Senate against 36-year-incumbent United States Senator Orrin Hatch. Liljenquist was defeated by Hatch in the primary election. He currently consults on pension reform and healthcare. He serves on the boards of the Lucy Burns Institute, which publishes Ballotpedia, and the Utah Debate Commission."
 }, {
-  "entityIndex" : "152_entity4065",
+  "entityIndex" : "138_entity2480",
   "entityUrl" : "http://dbpedia.org/resource/David_C._Long",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1671,7 +1517,7 @@
   "nouns" : [ "election", "post", "district", "member" ],
   "text" : "David C. Long is a Republican member of the Indiana State Senate representing the 16th district. He serves as the President Pro Tempore of the Indiana State Senate. Prior to his election to the Senate, David Long served from 1988 through 1995 as a member of the Fort Wayne Common Council from the Fourth District. He defeated incumbent Ben Eisbart to win the post. Mr. Eisbart had won the post by defeating incumbent Frederick Hunter, the father-in-law of David Long."
 }, {
-  "entityIndex" : "153_entity4124",
+  "entityIndex" : "139_entity2527",
   "entityUrl" : "http://dbpedia.org/resource/Donna_Nesselbush",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1682,18 +1528,7 @@
   "nouns" : [ "Violence", "graduate", "director", "politician", "district", "judge", "office", "class", "lawyer" ],
   "text" : "Donna M. Nesselbush (born August 9, 1962) is an American lawyer, judge and politician from Pawtucket, Rhode Island. A Democrat, she serves in the Rhode Island Senate, representing the 15th district. She took office on January 4, 2011. A graduate of Brown University (class of 1984), Nesselbush worked as executive director of the Rhode Island Coalition Against Domestic Violence from 1984 to 1991. She attended Suffolk University School of Law, earning a Juris Doctor in 1991. A founding partner of the law firm of Marasco & Nesselbush, she has been an active member of the Rhode Island Bar Association, chairing its social security committee. She was appointed an associate municipal court judge in Pawtucket in 2004 and has served since. In 2010, she declared her candidacy for the 15th district seat in the Rhode Island Senate. Incumbent John F. McBurney III, a fellow Democrat and fellow judge of the Pawtucket municipal court, subsequently announced that he would not be seeking a nineteenth term in office. Nesselbush won both the primary and general elections unopposed. Nesselbush is openly gay. She is one of four openly LGBT members of the Rhode Island General Assembly, Reps. Gordon D. Fox (D–Providence), Frank Ferri (D–Warwick) and Deb Ruggiero (D–Jamestown)."
 }, {
-  "entityIndex" : "154_entity4150",
-  "entityUrl" : "http://dbpedia.org/resource/Duey_Stroebel",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Wisconsin" ]
-  },
-  "words" : [ "Laura", "children", "wife", "Stroebel", ",", ".", "eight" ],
-  "adjectives" : [ ],
-  "nouns" : [ "wife" ],
-  "text" : "Stroebel and his wife, Laura Stroebel, have eight children."
-}, {
-  "entityIndex" : "155_entity4349",
+  "entityIndex" : "140_entity2707",
   "entityUrl" : "http://dbpedia.org/resource/David_C._Cummings,_Jr.",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1704,7 +1539,7 @@
   "nouns" : [ "politician", "district", "member", "state" ],
   "text" : "David Campbell Cummings, Jr. (June 23, 1861 – April 24, 1913) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 1st district. He was elected in 1911, defeating incumbent Republican Alanson T. Lincoln."
 }, {
-  "entityIndex" : "156_entity4382",
+  "entityIndex" : "141_entity2736",
   "entityUrl" : "http://dbpedia.org/resource/Dan_Feltes",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1715,18 +1550,7 @@
   "nouns" : [ "seat", "politician", "district", "member", "state" ],
   "text" : "Dan Feltes is an American politician from the state of New Hampshire. A member of the Democratic Party, he is a member of the New Hampshire Senate from the 15th district. Feltes is from Concord, New Hampshire. In 2014, he ran successfully for the State Senate seat being vacated by Sylvia Larsen. Larson backed Feltes's opponent in the Democratic primary, while other local Democratic leaders backed Feltes. Feltes won the Democratic primary, winning all towns and all wards in the 15th District. Feltes won 70% of the vote in the Democratic primary and over 65% of the vote in the general election. Before running for office, Feltes was a legal aid attorney. In 2013, Feltes received the Robert E. Kirby Award of the New Hampshire Bar Association, awarded annually to a New Hampshire attorney 35 years old or younger who demonstrates the traits of civility, courtesy, perspective, and excellent advocacy  Feltes received his law degree from the University of Iowa and a Master's Degree in Public Policy from Georgetown University."
 }, {
-  "entityIndex" : "157_entity19594",
-  "entityUrl" : "http://dbpedia.org/resource/Yvonne_B._Miller",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Virginia" ]
-  },
-  "words" : [ "Yvonne", "-LRB-", "woman", "American", "2012", "office", "house", "years", "later", "dying", "Democrat", "won", "July", "state", "1934", "--", "politician", "Four", ",", ".", "elected", "Senate", "3", "re-elected", "4", "1983", "African-American", "Miller", "-RRB-", "consistently", "Bond", "Virginia", "first" ],
-  "adjectives" : [ "American", "African-American", "first" ],
-  "nouns" : [ "woman", "politician", "state", "office", "house" ],
-  "text" : "Yvonne Bond Miller (July 4, 1934 – July 3, 2012) was an American politician in Virginia. A Democrat, she was the first African-American woman to be elected to the state house when she won in 1983. Four years later, she was elected to the state Senate, and was consistently re-elected after that, dying in office."
-}, {
-  "entityIndex" : "158_entity19661",
+  "entityIndex" : "142_entity12148",
   "entityUrl" : "http://dbpedia.org/resource/Yvonne_Dorsey-Colomb",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1737,7 +1561,7 @@
   "nouns" : [ "politician", "district", "member", "husband", "state" ],
   "text" : "Yvonne Dorsey-Colomb (born August 19, 1952) is an American politician from the state of Louisiana. She represents the 14th district in the Louisiana State Senate as a member of the Democratic Party. She also served in the Louisiana House of Representatives, and was Speaker Pro Tempore. Dorsey-Colomb and her husband, Sterling Colomb, Jr., reside in Baton Rouge, Louisiana. Sterling founded the Colomb Foundation to raise awareness of breast cancer. Though John Neely Kennedy, the state treasurer, listed the foundation as not adhering to state laws on disclosing their financial information, a later investigation found the foundation to be in compliance with all state laws. Dorsey-Colomb is listed among the state and local officials who endorsed the unsuccessful re-election in 2014 of Democrat U.S. Senator Mary Landrieu."
 }, {
-  "entityIndex" : "159_entity6945",
+  "entityIndex" : "143_entity4249",
   "entityUrl" : "http://dbpedia.org/resource/Howard_A._Stephenson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1748,7 +1572,7 @@
   "nouns" : [ "senate", "politician", "district" ],
   "text" : "Howard A. Stephenson is a Utah politician representing the State's 11th senate district in Salt Lake County including Draper. He was elected to the State Senate in 1992."
 }, {
-  "entityIndex" : "160_entity7044",
+  "entityIndex" : "144_entity4308",
   "entityUrl" : "http://dbpedia.org/resource/Henry_Cianfrani",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1759,7 +1583,7 @@
   "nouns" : [ "senator", "delegate", "Silver", "election", "Star", "district", "state", "office" ],
   "text" : "Henry J. \"Buddy\" Cianfrani (March 19, 1923 – July 3, 2002) was the Pennsylvania state senator for the first district. Prior to holding elective office, he served in the U.S. Army during World War II where he earned the Purple Heart and the Silver Star. He was a delegate to the Democratic National Convention in 1956 and 1960. He was elected to the Pennsylvania House of Representatives in 1963, where he served until his election to the Pennsylvania State Senate in 1966. He eventually attained the chairmanship of the powerful Appropriations Committee from which position he worked closely with Speaker of the House Herbert Fineman to appropriate money to Philadelphia. In 1977, Cianfrani was convicted on federal charges of racketeering and mail fraud for padding his Senate payroll. His case was prosecuted in the United States District Court for the Eastern District of Pennsylvania by U.S. attorney David W. Marston, who was later removed from the position by U.S. President Jimmy Carter. Cianfrani was sentenced to five years in federal prison. After serving for twenty-seven months, he was released in 1980. In the middle 1970s, he began dating political reporter Laura Foreman of The Philadelphia Inquirer. The two moved in together and she reportedly accepted money and gifts from him while she was still reporting on him for her newspaper. After the affair became public in 1977 she was fired by her employer, The New York Times. She and Cianfrani married in 1980, after his divorce from his first wife was finalized and he was released from federal prison. Years after his release, his political career enjoyed a resurgence. In 1988 Cianfrani won back his old position as Philadelphia ward leader and regained a measure of clout within Philadelphia politics. He was considered a mentor to many Philadelphia politicians, including Congressman Bob Brady and Senator Vince Fumo. Cianfrani died of a stroke in Hahnemann University Hospital in Philadelphia, Pennsylvania, on July 3, 2002."
 }, {
-  "entityIndex" : "161_entity7075",
+  "entityIndex" : "145_entity4325",
   "entityUrl" : "http://dbpedia.org/resource/Hannah-Beth_Jackson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1770,18 +1594,7 @@
   "nouns" : [ "professor", "district", "member", "maker", "prosecutor", "adjunct", "residence", "Assembly", "UC", "co-founder", "policy" ],
   "text" : "Hannah-Beth Jackson is a member of the California State Senate, representing the 19th District. She was previously a member of the California State Assembly from 1998-2004, representing the 35th Assembly district, which encompasses portions of Ventura and Santa Barbara Counties for six years. Jackson is a former prosecutor, and the co-founder of two non-profit organizations. Jackson also served as an adjunct professor at Antioch University, and served as a policy maker in residence at UC Santa Barbara. She ran for the 19th District State Senate seat in 2008 but lost by half a percentage point to Tony Strickland. Jackson is married to retired Santa Barbara County Superior Court Judge George Eskin. She has a daughter, two stepchildren, and five grandchildren. The family has resided in the district for more than 35 years."
 }, {
-  "entityIndex" : "162_entity7105",
-  "entityUrl" : "http://dbpedia.org/resource/Henson_P._Barnes",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "North Carolina" ]
-  },
-  "words" : [ "--", "22", "-LRB-", "American", "Barnes", "18", "politician", ",", ".", "Perrymoore", "2015", "-RRB-", "businessman", "Henson", "1934", "lawyer", "November" ],
-  "adjectives" : [ "American" ],
-  "nouns" : [ "politician", "businessman", "lawyer" ],
-  "text" : "Henson Perrymoore Barnes (November 18, 1934 – November 22, 2015) was an American politician, businessman, and lawyer."
-}, {
-  "entityIndex" : "163_entity7370",
+  "entityIndex" : "146_entity4518",
   "entityUrl" : "http://dbpedia.org/resource/Harry_D._Boivin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1792,7 +1605,7 @@
   "nouns" : [ "session", "politician", "member", "position", "lawyer" ],
   "text" : "Harry Dolan Boivin (February 7, 1904 – March 15, 1999) was an American lawyer and politician. He was a member of the Oregon House of Representatives for four terms, from 1935 through 1942. He also served in the Oregon State Senate from 1955 to 1972. He held the position of Speaker of the House during the 1937 legislative session, and was President of the Oregon Senate during the 1961 and 1965 sessions. Boivin was known as \"The Fox\" for his expertise in parliamentary procedures and ability to build coalitions within legislature. For almost a decade in the 1960s and early 1970s, Boivin and a small group of rural conservative Democrats joined Republicans to control the state senate."
 }, {
-  "entityIndex" : "164_entity7530",
+  "entityIndex" : "147_entity4643",
   "entityUrl" : "http://dbpedia.org/resource/Henry_H._Downing",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1803,7 +1616,7 @@
   "nouns" : [ "politician", "district", "member", "state" ],
   "text" : "Henry Hawkins Downing (April 20, 1853 – January 28, 1919) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 12th district."
 }, {
-  "entityIndex" : "165_entity16188",
+  "entityIndex" : "148_entity9939",
   "entityUrl" : "http://dbpedia.org/resource/Stan_Bingham",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1814,7 +1627,7 @@
   "nouns" : [ "newspaper", "owner", "town", "lumber", "district", "member", "publisher", "company", "chairman", "state" ],
   "text" : "Stanley Walker Bingham is a Republican member of the North Carolina General Assembly representing the state's thirty-third Senate district, including constituents in Davidson and Guilford counties. A small town newspaper publisher and retired lumber company owner from Denton, North Carolina, Bingham is currently serving in the state Senate. Before being elected to the North Carolina General Assembly, Bingham served as chairman of the Davidson County Commissioners. Bingham is married to Lora Bingham; he was first elected to the North Carolina Senate in 2000."
 }, {
-  "entityIndex" : "166_entity16280",
+  "entityIndex" : "149_entity9978",
   "entityUrl" : "http://dbpedia.org/resource/Susan_C._Lee",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1825,18 +1638,7 @@
   "nouns" : [ "pinyin", "Lǐ", "Trafficking", "member", "Fèngqiān", "legislation" ],
   "text" : "Susan Clair Lee (Chinese: 李鳳遷; pinyin: Lǐ Fèngqiān; born May 14, 1954) is a member of the Maryland State Senate. She was elected to the Maryland State Senate on November 4, 2014 and had previously served in the Maryland House of Delegates since 2002. She serves on the Senate Judicial Proceedings Committee and the Joint Committee on Cybersecurity, Information Technology and Biotechnology and is a member of the Maryland Cybersecurity Council and Workgroup on Youth Victims of Human Trafficking which were both created by legislation she introduced and passed. Lee represents District 16, which is located in Montgomery County, and includes parts of Bethesda, Chevy Chase, Potomac, Kensington, Cabin John, Glen Echo, and Rockville. She is the first Asian American elected to the Maryland State Senate and was the first Asian American woman and first Chinese American to be elected to the Maryland legislature.While in the House of Delegates, she was a member of the House Judiciary Committee, a Deputy Majority Whip, Vice Chair of the Montgomery County House Delegation, Chair of the Subcommittee on Family Law, Co Chair of the Maryland Commission on Cyber Security Innovation and Excellence, the Nanobiotechnology Task Force and the Identity Theft Task Force. Lee was elected to serve two terms as President of the Women Legislators of Maryland (Women's Legislative Caucus) and led efforts to pass an aggressive agenda of laws to fight domestic violence and human trafficking, economically empower women, reduce health care disparities, and obtain funding for rape crisis centers. She received the Maryland Legislative Agenda for Women's (MLAW) Legislative Leadership Award, inducted into the Human Rights Hall of Fame of Montgomery County and the Montgomery County Women's History Archives and honored by the Maryland Chapter of the Healthcare Information Management Systems Society for her work in advancing healthcare technology and reform. Lee received an Award from the Maryland National Organization for Women for her leadership and work on legislation while President of the Women’s Caucus, particularly the law authorizing the placement of Marylander and American hero Harriet Tubman’s statue in the U.S. Capitol."
 }, {
-  "entityIndex" : "167_entity16437",
-  "entityUrl" : "http://dbpedia.org/resource/Scott_McCoy",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Utah" ]
-  },
-  "words" : [ "Politiker", "und", "ist", "ein", "McCoy", "US-amerikanischer", "Utah", ".", "Scott", "Jurist" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Politiker", "und", "ein", "US-amerikanischer", "Jurist" ],
-  "text" : "Scott McCoy ist ein US-amerikanischer Jurist und Politiker in Utah."
-}, {
-  "entityIndex" : "168_entity16466",
+  "entityIndex" : "150_entity10066",
   "entityUrl" : "http://dbpedia.org/resource/Sam_Caligiuri",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1847,7 +1649,7 @@
   "nouns" : [ "seat", "half", "%", "city", "district", "lawyer", "nomination" ],
   "text" : "Sam S. F. Caligiuri (born 1966) is a lawyer and former Connecticut State Senator. In 2010, he ran for the Republican nomination for U.S. Senate, but switched for a House seat in Connecticut's 5th congressional district. He was ultimately unsuccessful, losing closely behind Chris Murphy, 54-46%. In November 2006, Caligiuri was elected to the Connecticut State Senate to represent the 16th District, which comprises the eastern half of Waterbury as well as the city's eastern suburbs of Cheshire, Southington, and Wolcott."
 }, {
-  "entityIndex" : "169_entity16475",
+  "entityIndex" : "151_entity10072",
   "entityUrl" : "http://dbpedia.org/resource/Sheldon_Killpack",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1858,7 +1660,7 @@
   "nouns" : [ "leader", "driving", "senate", "politician", "district", "suspicion", "member", "majority", "state" ],
   "text" : "Sheldon Killpack (born May 24, 1968) is an American politician from Utah. A member of the Republican Party, he was formerly the senate majority leader of the Utah State Senate, where he represented the state's 21st senate district in Syracuse. He was elected as Majority Leader in the Utah Senate on November 7, 2008. On January 16, 2010, Killpack resigned from the Utah Senate after being arrested on suspicion of drunk driving. While he refused a breath test for blood-alcohol level, a blood test showed a blood-alcohol level of 0.11, above the legal driving limit of 0.08. After fighting the charge for nearly a year, he pleaded guilty to Class B Misdemeanor driving under the influence. While Killpack was sentenced to 180 days in jail, the sentence was suspended, and he was required to perform 48 hours of community service, pay $1,350 in fines, take a class for DUI offenders and attend a victim-impact panel. He is married to Nicole Killpack and is the father of four children. Sheldon Killpack currently works for Academica West as Vice President. Killpack has a bachelor's degree from Weber State University. Killpack is a member of The Church of Jesus Christ of Latter-day Saints (commonly referred to as Mormons)."
 }, {
-  "entityIndex" : "170_entity16489",
+  "entityIndex" : "152_entity10078",
   "entityUrl" : "http://dbpedia.org/resource/Scott_K._Jenkins",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1869,7 +1671,7 @@
   "nouns" : [ "reelection", "senate", "politician", "district", "member", "degree", "state", "position", "businessman" ],
   "text" : "Scott Jenkins is an American politician and businessman from Utah. A Republican, he is a member of the Utah State Senate, representing the state's 20th senate district covering parts of Weber and Davis counties. He is retiring from his position as Senator and will not be running for reelection in 2016. Jenkins has an associates degree from Weber State University."
 }, {
-  "entityIndex" : "171_entity16499",
+  "entityIndex" : "153_entity10087",
   "entityUrl" : "http://dbpedia.org/resource/Shantel_Krebs",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1880,7 +1682,7 @@
   "nouns" : [ "member" ],
   "text" : "Shantel S. Krebs is a Republican South Dakota Secretary of State and a former member of the South Dakota House of Representatives."
 }, {
-  "entityIndex" : "172_entity16540",
+  "entityIndex" : "154_entity10111",
   "entityUrl" : "http://dbpedia.org/resource/Stephen_Buoniconti",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1891,7 +1693,7 @@
   "nouns" : [ "politician" ],
   "text" : "Stephen J. Buoniconti (born September 4, 1969 in Holyoke, Massachusetts) is an American politician who represented the Hampden District in the Massachusetts Senate from 2005 to 2011 and the 6th Hampden District in the Massachusetts House of Representatives from 2001 to 2005."
 }, {
-  "entityIndex" : "173_entity16586",
+  "entityIndex" : "155_entity10147",
   "entityUrl" : "http://dbpedia.org/resource/Steve_Dille",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1902,7 +1704,7 @@
   "nouns" : [ "area", "politician", "member", "west" ],
   "text" : "Steve Dille (born March 16, 1945) is a Minnesota politician and a member of the Minnesota Senate representing District 18, which includes portions of Carver, McLeod, Meeker, Stearns and Wright counties just west of the Twin Cities metropolitan area."
 }, {
-  "entityIndex" : "174_entity16661",
+  "entityIndex" : "156_entity10191",
   "entityUrl" : "http://dbpedia.org/resource/Steve_Goss",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1913,7 +1715,7 @@
   "nouns" : [ "Wilkes", "re-election", "politician", "district", "member" ],
   "text" : "Benjamin Stephenson \"Steve\" Goss (November 7, 1949 – October 26, 2015) was an American politician. He served two terms (January 2007 – December 2010) as a Democratic member of the North Carolina Senate. He represented the 45th Senate district, including constituents in Alexander, Ashe, Watauga, and Wilkes counties. He was defeated for re-election in 2010 by Republican Dan Soucek. Goss was an ordained Southern Baptist minister and resided in Boone, North Carolina. He has a B.S. in Social Science with a Minor in Education from Appalachian State University and a Master of Divinity from Southeastern Baptist Theological Seminary. He died at his home in Boone from cancer on October 26, 2015 at the age of 65."
 }, {
-  "entityIndex" : "175_entity16674",
+  "entityIndex" : "157_entity10201",
   "entityUrl" : "http://dbpedia.org/resource/Sara_Gelser",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1924,7 +1726,7 @@
   "nouns" : [ "service", "politician", "member" ],
   "text" : "Sara Gelser (born December 20, 1973) is a Democratic American politician from Oregon. Since 2015, she is a member of the Oregon State Senate from District 8. From 2005 to 2015, she served in the Oregon House of Representatives for District 16, representing Corvallis and Philomath. Prior to her service in the Legislature, Gelser served on the Corvallis School Board and worked for the Oregon Department of Human Services. In 2010, she was nominated by President Barack Obama to serve on the National Council on Disability, and was confirmed to the position by the US Senate. In 2011, she was named a German Marshall Memorial Fellow. In November 2014, she was elected to the Senate, taking office in January 2015."
 }, {
-  "entityIndex" : "176_entity16910",
+  "entityIndex" : "158_entity10381",
   "entityUrl" : "http://dbpedia.org/resource/Steven_Baddour",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1935,7 +1737,7 @@
   "nouns" : [ "hometown", "attorney", "politician", "member", "office" ],
   "text" : "Steven A. Baddour is an American attorney and politician from the Commonwealth of Massachusetts. He is a member of the Democratic Party and a former member of the Massachusetts Senate representing the 1st Essex District, which encompasses Amesbury, Haverhill, Merrimac, Newburyport, North Andover, Salisbury, and his hometown of Methuen. Before assuming office in 2002, Baddour worked as an Assistant Attorney General in the Office of the Massachusetts Attorney General. Baddour served as the Chairman of the Joint Committee on Transportation and Vice-Chairman of the Joint Committee on the Judiciary. He also served as a member of the Joint Committees on Children & Families, Post Audit & Oversight, and Election Laws. Locally, Steve is an active member of the Northeastern Legislative Caucus. Baddour resigned from the Massachusetts Senate on April 2, 2012 to join McDermott, Will & Emery."
 }, {
-  "entityIndex" : "177_entity17275",
+  "entityIndex" : "159_entity10639",
   "entityUrl" : "http://dbpedia.org/resource/Sands_Gayle",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1946,7 +1748,7 @@
   "nouns" : [ "politician", "district", "member", "state", "lawyer" ],
   "text" : "Sands Gayle (February 13, 1870 – December 21, 1918) was an American lawyer and Democratic politician who served as a member of the Virginia Senate, representing the state's 18th district."
 }, {
-  "entityIndex" : "178_entity12176",
+  "entityIndex" : "160_entity7481",
   "entityUrl" : "http://dbpedia.org/resource/Maxine_Horner",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1957,7 +1759,7 @@
   "nouns" : [ "Chair", "Government", "Adult", "position", "Labor", "Literacy", "Business" ],
   "text" : "Maxine Horner was one of the first African American women to serve in the Oklahoma State Senate, serving from 1987 to 2005, along with Vicki Miles-LaGrange. Horner held the position of Democratic Caucus Chair, as well as Chair of Business and Labor and Government Operations, and Vice-Chair of Adult Literacy."
 }, {
-  "entityIndex" : "179_entity12193",
+  "entityIndex" : "161_entity7490",
   "entityUrl" : "http://dbpedia.org/resource/Mark_Ridley-Thomas",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1968,18 +1770,7 @@
   "nouns" : [ "district", "member", "Assembly" ],
   "text" : "Mark Ridley-Thomas (born November 6, 1954) is a member of the Los Angeles County Board of Supervisors for District 2. He served as a California State Senator, representing the 26th district from 2006 to 2008 and was a California State Assemblyman representing the 48th district from 2002 until 2006. He was Chairman of the Assembly Democratic Caucus. Before his six years in the Legislature, he was on the Los Angeles City Council from 1991 to 2002."
 }, {
-  "entityIndex" : "180_entity12205",
-  "entityUrl" : "http://dbpedia.org/resource/Mamie_Locke",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Virginia" ]
-  },
-  "words" : [ "Newport", "-LRB-", "city", "York", "part", "March", "County", "educator", "1954", "represents", "1996", "Democrat", "2004", "News", "Locke", "member", "Since", "--", "Evelyn", "cities", "mayor", "born", "politician", "19", "2nd", "2000", ",", "Hampton", ".", "plus", "Senate", "currently", "African-American", "council", "district", "-RRB-", "parts", "Portsmouth", "Virginia", "Mamie" ],
-  "adjectives" : [ "African-American", "2nd" ],
-  "nouns" : [ "city", "mayor", "council", "politician", "district", "part", "member", "educator" ],
-  "text" : "Mamie Evelyn Locke (born March 19, 1954) is an African-American politician and educator. A Democrat, she was a member of the Hampton, Virginia city council 1996–2004, and mayor 2000–2004. Since 2004, she has been a member of the Senate of Virginia from the 2nd district. She currently represents parts of the cities of Hampton, Newport News and Portsmouth, plus part of York County. She is also Professor of Political Science and Dean of the School of Liberal Arts at Hampton University."
-}, {
-  "entityIndex" : "181_entity12436",
+  "entityIndex" : "162_entity7587",
   "entityUrl" : "http://dbpedia.org/resource/Mike_Dmitrich",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1990,18 +1781,7 @@
   "nouns" : [ "Price", "senate", "politician", "district", "member", "Consultant", "state" ],
   "text" : "Mike Dmitrich (born 1936) is an American politician and Natural Resource Consultant from Utah. A Democrat, he served as a member of the Utah State Senate, representing the state's 27th senate district in Price. Dmitrich served as the Minority Leader in the Utah Senate. Prior to being elected to the Utah Senate Dmitrich served in the State House from 1969 to 1992. He retired prior to the 2008 elections and was replaced by David P. Hinkins. Dmitrich attended the College of Eastern Utah and Utah State University."
 }, {
-  "entityIndex" : "182_entity12448",
-  "entityUrl" : "http://dbpedia.org/resource/Margaret_Dayton",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Utah" ]
-  },
-  "words" : [ "Margaret", "Politikerin", "-LRB-", "eine", "Republikanische", "Partei", "-RRB-", "ist", "US-amerikanische", "Dayton", "." ],
-  "adjectives" : [ ],
-  "nouns" : [ "eine", "ist" ],
-  "text" : "Margaret Dayton ist eine US-amerikanische Politikerin (Republikanische Partei)."
-}, {
-  "entityIndex" : "183_entity12450",
+  "entityIndex" : "163_entity7590",
   "entityUrl" : "http://dbpedia.org/resource/Mark_B._Madsen",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2012,7 +1792,7 @@
   "nouns" : [ "grandson", "city", "senate", "politician", "district", "member", "state" ],
   "text" : "Mark Benson Madsen (born May 8, 1963) is an American politician and Attorney from Utah. A Libertarian, he is a member of the Utah State Senate, representing the state's 13th senate district in Utah, and Tooele Counties including the city of Lehi. Senator Madsen is the grandson of Ezra Taft Benson, Secretary of Agriculture under President Eisenhower."
 }, {
-  "entityIndex" : "184_entity12576",
+  "entityIndex" : "164_entity7668",
   "entityUrl" : "http://dbpedia.org/resource/Mary_Lazich",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2023,7 +1803,7 @@
   "nouns" : [ "re-election", "election", "member", "position", "female", "president" ],
   "text" : "Mary Lazich (born October 3, 1952) is a Republican member of the Wisconsin Senate, representing the 28th District since a special election in April 1998. She was elected as president of the Wisconsin Senate in January 2015, the first female ever elected to that position. She was previously a member of the Wisconsin Assembly from 1992 through 1998. On March 21, 2016, Lazich announced that she would not run for re-election in 2016."
 }, {
-  "entityIndex" : "185_entity12584",
+  "entityIndex" : "165_entity7674",
   "entityUrl" : "http://dbpedia.org/resource/Malcolm_Graham_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2034,7 +1814,7 @@
   "nouns" : [ "election", "city", "scholarship", "member", "tennis" ],
   "text" : "Malcolm Graham (born January 14, 1963) is a Democratic member of the North Carolina Senate, representing District 40 (Mecklenburg County) since January 2005. He was first elected in 2004, defeating incumbent Fountain Odom in the Democratic primary and Republican Brian Sisson in the general election. From 1999 till his election to the Senate in 2004, Graham served as a Charlotte City Council Member representing the city's 4th District. Graham was born in Charleston, South Carolina and first came to Charlotte in 1981 to attend Johnson C. Smith University on a tennis scholarship. He is the founder of the Center for Supplier Diversity and has served in leadership roles for Bank of America and Time-Warner Cable. Graham currently serves as Special Assistant to the President for Government and Community Relations at Johnson C. Smith University. Graham and his wife, Kim, have two daughters, Cortney and Nicole. His sister, Cynthia Marie Graham Hurd, was murdered in the Charleston church shooting."
 }, {
-  "entityIndex" : "186_entity12646",
+  "entityIndex" : "166_entity7713",
   "entityUrl" : "http://dbpedia.org/resource/Mark_Hass",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2045,7 +1825,7 @@
   "nouns" : [ "college", "education", "school", "politician", "state", "advocate", "community" ],
   "text" : "Mark Hass (born December 10, 1956) is a politician from the US state of Oregon. A Democrat, he currently represents District 14 in the Oregon State Senate. Hass is best known as an outspoken advocate of state-sponsored higher education. In 2015, Senator Hass sponsored the \"Oregon Promise\", which provides debt-free community college to all Oregon high school graduates."
 }, {
-  "entityIndex" : "187_entity12900",
+  "entityIndex" : "167_entity7844",
   "entityUrl" : "http://dbpedia.org/resource/Michael_P._Walters",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2056,7 +1836,7 @@
   "nouns" : [ "seat", "politician", "fellow", "term", "resignation", "businessman", "vacancy" ],
   "text" : "Michael P. Walters (born July 16, 1956) is a North Carolina businessman and politician. He was appointed to a seat in the North Carolina Senate in 2009 to fill the vacancy caused by the resignation of Sen. David F. Weinstein (a fellow Democrat), and then was elected and re-elected to the Senate in 2010 and 2012. He chose not to run for another term in 2014. Walters has represented Senate District 13, including Columbus, Robeson and Hoke counties."
 }, {
-  "entityIndex" : "188_entity13050",
+  "entityIndex" : "168_entity7935",
   "entityUrl" : "http://dbpedia.org/resource/Michael_Dembrow",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2067,7 +1847,7 @@
   "nouns" : [ "Governor", "election", "instructor", "Education", "politician", "appointment", "state" ],
   "text" : "Michael E. Dembrow (born c. 1951) is an American Democratic politician from the US state of Oregon, currently representing District 23 (which contains northeastern Portland, Maywood Park and Parkrose) in the Oregon Senate. Before his appointment to the Oregon Senate, Dembrow served in the Oregon House of Representatives serving District 45. Dembrow, formerly an English instructor at Portland Community College, served on Governor Ted Kulongoski's State Board of Higher Education. The Oregon League of Conservation Voters and Willamette Week endorsed Dembrow during the 2008 legislative election."
 }, {
-  "entityIndex" : "189_entity13051",
+  "entityIndex" : "169_entity7936",
   "entityUrl" : "http://dbpedia.org/resource/Mark_Allen_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2078,7 +1858,7 @@
   "nouns" : [ "senator", "owner", "website", "oil", "business", "field", "city", "service", "politician", "campaign", "state", "businessman" ],
   "text" : "Mark Allen is an American businessman and Republican politician from Oklahoma. He is the current state senator for District 4 in the Oklahoma Senate. According to his campaign website, Allen is the owner of Allen Rathole, Inc. a family-owned business specializing in oil field service. Senate District 4 encompasses all of Le Flore County and the central and eastern sections of Sequoyah County including the city of Sallisaw."
 }, {
-  "entityIndex" : "190_entity13065",
+  "entityIndex" : "170_entity7946",
   "entityUrl" : "http://dbpedia.org/resource/Mark_Chelgren",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2089,7 +1869,7 @@
   "nouns" : [ "legislator", "member", "state" ],
   "text" : "Mark Chelgren, (born January 21, 1968) is a legislator from the state of Iowa. He was elected to the Iowa Senate in 2010 and re-elected in 2014. He represents District 41. He is a member of the National Rifle Association."
 }, {
-  "entityIndex" : "191_entity13072",
+  "entityIndex" : "171_entity7951",
   "entityUrl" : "http://dbpedia.org/resource/Mark_Grisanti",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2100,18 +1880,7 @@
   "nouns" : [ "seat", "renomination", "politician", "justice", "office", "state", "lawyer" ],
   "text" : "Mark John Grisanti (born October 21, 1964) is an American lawyer and politician. He was appointed to the New York State Court of Claims in May 2015 and is currently serving as an Acting New York State Supreme Court justice. On January 3, 2011, he assumed office as the Republican New York State Senator representing New York's 60th Senate District – which encompasses the areas of Buffalo, Tonawanda, Niagara Falls and Grand Island, New York – having won the seat during the state's 2010 elections held on November 2, 2010. He was reelected in 2012, but lost renomination in a Republican primary in September 2014. While Grisanti stayed in the 2014 general election race on a third-party line, he finished in third place in a hotly-contested election; the winner, Democrat Marc Panepinto, received only 3,681 votes more than Grisanti did."
 }, {
-  "entityIndex" : "192_entity13231",
-  "entityUrl" : "http://dbpedia.org/resource/Major_M._Hillard",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Virginia" ]
-  },
-  "words" : [ "Hillard", "--", "23", "June", "24", "-LRB-", "politician", ",", ".", "Chesapeake", "October", "Major", "1896", "-RRB-", "judge", "McKinley", "Virginia", "1977" ],
-  "adjectives" : [ "Major" ],
-  "nouns" : [ "politician", "judge" ],
-  "text" : "Major McKinley Hillard (October 23, 1896 – June 24, 1977) was a Virginia politician and judge from Chesapeake, Virginia."
-}, {
-  "entityIndex" : "193_entity13343",
+  "entityIndex" : "172_entity8136",
   "entityUrl" : "http://dbpedia.org/resource/M._Price_Webb",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2122,7 +1891,7 @@
   "nouns" : [ "senate", "politician", "district", "state" ],
   "text" : "Marshall Price Webb (February 9, 1862 – May 16, 1938) was an American Republican politician who represented the Virginia's 6th district in the state senate."
 }, {
-  "entityIndex" : "194_entity13387",
+  "entityIndex" : "173_entity8162",
   "entityUrl" : "http://dbpedia.org/resource/Marshall_Rauch",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2133,7 +1902,7 @@
   "nouns" : [ "native", "politician", "county", "state", "community" ],
   "text" : "Marshall Arthur Rauch (born February 2, 1923) is a retired politician in the American state of North Carolina. A native of New York City, Rauch was born there to Nathan A. and Tillie (Wohl) Rauch. He attended Duke University. Rauch moved to Gastonia in Gaston County, North Carolina, where he was involved in many county, civic and community organizations. In the 1950s and early 1960s, Rauch served on the Gastonia City Council with stints as Mayor Pro tempore. He married Jeanne Girard in 1946 and has five children. Rauch also owned a Chrisment ornament company from 1954 to 1998. In 1967, he was elected to the North Carolina State Senate, representing the 25th district. He served until 1990. Rauch still stands as the longest-serving Jewish senator in North Carolina history. In 2013, Rauch was honored by the Gaston County Community Foundation. The section of Interstate 85 designated the Senator Marshall Arthur Rauch Highway near Gastonia is named after him."
 }, {
-  "entityIndex" : "195_entity13455",
+  "entityIndex" : "174_entity8213",
   "entityUrl" : "http://dbpedia.org/resource/Melanie_Sojourner",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2144,7 +1913,7 @@
   "nouns" : [ "symbol", "politician", "district", "member", "removal", "state", "Flag" ],
   "text" : "Melanie Sojourner (born January 5, 1968) is an American politician from the state of Mississippi. She serves in the Mississippi State Senate, representing the 37th district. She is a member of the Republican Party. She opposes the removal of the confederate symbol from the Flag of Mississippi. Sojourner graduated from Louisiana State University. She then worked for the National Cattlemen's Beef Association for eight years, and then as a 4-H associate for Mississippi State University. Sojourner defeated Bob Dearing in the 2011 elections to serve in the State Senate. She served as the campaign manager for Chris McDaniel's 2014 U.S. Senate campaign. Sojourner lost her reelection bid to Dearing in the 2015 elections."
 }, {
-  "entityIndex" : "196_entity5356",
+  "entityIndex" : "175_entity3296",
   "entityUrl" : "http://dbpedia.org/resource/Fred_Girod",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2155,7 +1924,7 @@
   "nouns" : [ "Masters", "politician", "degree", "state", "Bachelor" ],
   "text" : "Fred Frank Girod (born 1951) is a Republican politician from the U.S. state of Oregon. He serves in the Oregon State Senate representing District 9, in the mid-Willamette Valley, and lives in Stayton. Girod graduated from Stayton High School in Stayton, Oregon. He earned a Bachelor of Science degree from Oregon State University in Corvallis, Oregon, a DMD from Oregon Health & Science University School of Dentistry, and a Masters of Public Administration from Harvard University. He has been a practicing dentist for 26 years, and served in the Oregon House of Representatives in the early 1990s, chairing the Rules Committee. He ran for the U.S. Congress in 1994, but lost in the primary to Jim Bunn. Girod then served on the Stayton City Council. He was selected by Marion and Linn County Republicans to run again for the House in 2006, in district 17, following then-Representative Jeff Kropf's sudden departure from the 2006 election. He won that election, defeating Democrat Dan Thackaberry, and was appointed in 2008 to succeed Senator Roger Beyer of District 9 upon his resignation. He was sworn in in January 2008, and was re-elected in November 2008 and 2010. He is a candidate for reelection to that seat in 2012."
 }, {
-  "entityIndex" : "197_entity5568",
+  "entityIndex" : "176_entity3411",
   "entityUrl" : "http://dbpedia.org/resource/Frank_L._Roberts",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2166,7 +1935,7 @@
   "nouns" : [ "year", "bachelor", "degree", "master" ],
   "text" : "Roberts was born in Boise, Idaho, in 1915 to Walter Scott and Mary Livezey Roberts. He received a bachelor's degree from Pacific University in Forest Grove, Oregon in 1938. In 1943, he married Mary Louise Charleson. Later that year, he earned a master's degree from the University of Wisconsin–Madison. In 1946, he was hired as a speech professor at Vanport College (later renamed Portland State University). He earned a doctorate from Stanford University in 1954. Roberts and his wife Mary Louise had two daughters, Mary Wendy Roberts and Leslie Roberts. The couple divorced prior to 1960, the year Frank married Betty Cantrell Rice, then a single mother of four and teacher in Portland."
 }, {
-  "entityIndex" : "198_entity5611",
+  "entityIndex" : "177_entity3444",
   "entityUrl" : "http://dbpedia.org/resource/Fred_Carl_(senator)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2177,7 +1946,7 @@
   "nouns" : [ "area", "politician", "portion", "member" ],
   "text" : "Fred Carl is a Montana politician. He served as a Republican member of the Montana Legislature from 1971 through 1974. In 2012, Fred Carl announced he would run for Montana Senate District 47, which represents a portion of the Missoula area."
 }, {
-  "entityIndex" : "199_entity6050",
+  "entityIndex" : "178_entity3683",
   "entityUrl" : "http://dbpedia.org/resource/George_W._Della,_Jr.",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2188,7 +1957,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "George W. Della, Jr. is an American politician from Maryland and a member of the Democratic Party. He is previously served in the Maryland State Senate, representing District 46 in Baltimore City from 1983 to 2011."
 }, {
-  "entityIndex" : "200_entity6162",
+  "entityIndex" : "179_entity3757",
   "entityUrl" : "http://dbpedia.org/resource/Gary_George_(Oregon_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2199,18 +1968,7 @@
   "nouns" : [ "senator", "hazelnut", "wife", "politician", "plant", "member", "tree", "farm", "processing", "state" ],
   "text" : "Gary George is a Republican politician from the US state of Oregon. He was a member of the Oregon State Senate from 1997 to 2009, representing District 12. George and his wife Kathy own a hazelnut farm and processing plant and a christmas tree farm outside Newberg. They have five children including current state senator Larry George (R-OR, 13th). George ran for a seat in the Oregon House of Representatives in 1990, but lost. He first won a seat in the Senate in 1996. George and Representative Kim Thatcher led an unsuccessful effort in 2008 to repeal gay rights legislation passed by the 2007 legislature."
 }, {
-  "entityIndex" : "201_entity6374",
-  "entityUrl" : "http://dbpedia.org/resource/George_Jepsen",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Connecticut" ]
-  },
-  "words" : [ "23", "Politiker", "-LRB-", "bekleidet", "seit", "2011", "ist", "ein", "Jepsen", "Er", "bis", "1954", "der", "Demokratische", "gehörte", "des", "George", "von", "2005", "2003", "das", "Hattiesburg", "US-amerikanischer", "Assembly", "Januar", "November", "Rechtsanwalt", "Partei", "nacheinander", "Kammern", "war", "Amt", "*", "und", ",", ".", "1987", "zwischen", "Mississippi", "Connecticut", "Christian", "-RRB-", "General", "Vorsitzender", "beiden", "Demokratischen", "Attorney" ],
-  "adjectives" : [ "Januar" ],
-  "nouns" : [ "Rechtsanwalt", "Politiker", "bekleidet", "Partei", "nacheinander", "seit", "war", "und", "ist", "ein", "Er", "Demokratische", "gehörte", "zwischen", "von", "beiden", "US-amerikanischer" ],
-  "text" : "George Christian Jepsen (* 23. November 1954 in Hattiesburg, Mississippi) ist ein US-amerikanischer Rechtsanwalt und Politiker (Demokratische Partei). Er gehörte zwischen 1987 und 2003 nacheinander beiden Kammern der Connecticut General Assembly an, war von 2003 bis 2005 Vorsitzender der Demokratischen Partei von Connecticut und bekleidet seit Januar 2011 das Amt des Attorney General von Connecticut."
-}, {
-  "entityIndex" : "202_entity6491",
+  "entityIndex" : "180_entity3970",
   "entityUrl" : "http://dbpedia.org/resource/George_W._Patterson_(Oregon_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2221,7 +1979,7 @@
   "nouns" : [ "native", "politician", "member", "state", "businessman" ],
   "text" : "George W. Patterson (December 16, 1857 – February 7, 1932) was an American businessman and politician in the U.S. state of Oregon. A native of Ohio, he was a Republican member of the Oregon State Senate in the 1890s."
 }, {
-  "entityIndex" : "203_entity6507",
+  "entityIndex" : "181_entity3983",
   "entityUrl" : "http://dbpedia.org/resource/George_Hudnall",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2232,7 +1990,7 @@
   "nouns" : [ "member" ],
   "text" : "George B. Hudnall was a Republican member of the Wisconsin State Senate."
 }, {
-  "entityIndex" : "204_entity6571",
+  "entityIndex" : "182_entity4038",
   "entityUrl" : "http://dbpedia.org/resource/Gordon_F._Marsh",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2243,7 +2001,7 @@
   "nouns" : [ ],
   "text" : "Gordon Franklin Marsh (October 11, 1908 – January 4, 1982) was a Virginia State Senator from Tidewater Virginia in the 1950s and 60s."
 }, {
-  "entityIndex" : "205_entity6590",
+  "entityIndex" : "183_entity4056",
   "entityUrl" : "http://dbpedia.org/resource/Gene_Jeffress",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2254,7 +2012,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "Harmon \"Gene\" Jeffress (born October 18, 1948) is an American politician. A member of the Democratic Party, he serves as a member of the Arkansas Senate, representing District 25 since 2003."
 }, {
-  "entityIndex" : "206_entity6629",
+  "entityIndex" : "184_entity4084",
   "entityUrl" : "http://dbpedia.org/resource/George_N._Conrad",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2265,7 +2023,7 @@
   "nouns" : [ "politician", "district", "member", "state" ],
   "text" : "George Newton Conrad (August 24, 1869 – January 21, 1937) was an American Democratic politician who served as a member of the Virginia Senate, representing the state's 8th district."
 }, {
-  "entityIndex" : "207_entity6630",
+  "entityIndex" : "185_entity4085",
   "entityUrl" : "http://dbpedia.org/resource/George_Latham_Fletcher",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2276,7 +2034,7 @@
   "nouns" : [ "number", "father-in-law", "circuit", "jurist", "officer", "politician", "district", "member", "state", "judge", "governor", "court" ],
   "text" : "George Latham Fletcher (May 19, 1874 – March 23, 1929) was an American jurist and Democratic politician. Prior to spending a number of years as a state circuit court judge, he served as a member of the Virginia Senate, representing the state's 11th district from 1908 to 1916. Fletcher's father-in-law was Marshall F. Moore, a Union military officer and former governor of Washington Territory."
 }, {
-  "entityIndex" : "208_entity6652",
+  "entityIndex" : "186_entity4101",
   "entityUrl" : "http://dbpedia.org/resource/Gene_McLaurin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2287,7 +2045,7 @@
   "nouns" : [ "Government", "mayor", "State", "district", "member" ],
   "text" : "Gene McLaurin was a Democratic member of the North Carolina Senate, representing the 25th district. McLaurin served on the Commerce, Agriculture/Environment/Natural Resources, Appropriations on Natural and Economic Resources, Finance, Insurance, Pensions & Retirement and Aging, and State and Local Government committees. Before being elected to the North Carolina Senate in 2012, McLaurin served as the mayor of Rockingham, North Carolina from 1997 to 2012. McLaurin considers himself to be moderate to conservative in his political views, counting Jim Hunt, Ronald Reagan, and Terry Sanford among his political heroes. In addition to his political career, McLaurin has also worked as the general manager of TOTAL Lubricants and the president of Swink-Quality Oil Company."
 }, {
-  "entityIndex" : "209_entity14334",
+  "entityIndex" : "187_entity8701",
   "entityUrl" : "http://dbpedia.org/resource/Patricia_W._Jones",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2298,7 +2056,7 @@
   "nouns" : [ "firm", "politician", "member", "adviser", "strategy", "research" ],
   "text" : "Patricia W. \"Pat\" Jones (born January 31, 1950) is an American politician from Utah. A Democrat, she was a member of the Utah State Senate from 2006 to 2014, and currently runs the Women’s Leadership Institute in Utah. She is also senior adviser at Cicero Group, a research and strategy firm in Salt Lake City."
 }, {
-  "entityIndex" : "210_entity14336",
+  "entityIndex" : "188_entity8703",
   "entityUrl" : "http://dbpedia.org/resource/Peter_C._Knudson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2309,7 +2067,7 @@
   "nouns" : [ "senate", "politician", "district", "member", "state" ],
   "text" : "Peter Charles Knudson is an American politician. A Republican, he is a member of the Utah State Senate, representing the state's 17th senate district in Box Elder, Cache and Tooele Counties including Brigham City."
 }, {
-  "entityIndex" : "211_entity14391",
+  "entityIndex" : "189_entity8744",
   "entityUrl" : "http://dbpedia.org/resource/Paul_G._Pinsky",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2320,7 +2078,7 @@
   "nouns" : [ "politician", "member", "term" ],
   "text" : "Paul G. Pinsky (born March 5, 1950) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his 4th full term in the Maryland State Senate, representing Maryland's District 22 in Prince George's County."
 }, {
-  "entityIndex" : "212_entity14708",
+  "entityIndex" : "190_entity8928",
   "entityUrl" : "http://dbpedia.org/resource/Pam_Galloway",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2331,7 +2089,7 @@
   "nouns" : [ "number", "surgeon", "MD", "member", "physician", "retirement", "BA" ],
   "text" : "Dr. Pam Galloway (born September 11, 1955) is an American physician and surgeon and a former Republican member of the Wisconsin Senate, representing the 29th District since from 2011 through her retirement on March 16, 2012. Galloway graduated with a BA from the University of Chicago in 1976, and earned her MD from the University of Virginia in 1980. Galloway is a member of a number of medical committees, and was the past Chairperson of the Marathon Republican Party. She was elected to the Wisconsin Senate in 2010. She had been facing an effort to recall her from office. However, on March 16, 2012, Galloway announced her resignation from office due to health issues in her family, leaving the Senate evenly split between Democrats and Republicans. Galloway's seat was filled in the recall election, which had already been scheduled. She was succeeded by fellow Republican Jerry Petrowski. Galloway relocated to Warsaw, Indiana where she announced in May 2015 that she would make a bid for the United States House of Representatives and run for Marlin Stutzman's seat in Indiana's 3rd congressional district. As of July 2015 she raised $51,423 in campaign contributions, with $50,000 coming from loans she made to herself."
 }, {
-  "entityIndex" : "213_entity43",
+  "entityIndex" : "191_entity13",
   "entityUrl" : "http://dbpedia.org/resource/A._B._Swindell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2342,18 +2100,7 @@
   "nouns" : [ "election", "district", "member", "state", "Swindell" ],
   "text" : "Albin B. Swindell (born October 14, 1945 in Robeson County, North Carolina) was a Democratic member of the North Carolina General Assembly representing the state's eleventh Senate district, including constituents in Nash and Wilson counties. He was first elected in November 2000 and served five two-year terms. In the November 2010 election he was defeated by Eldon Newton, a Republican. Swindell attended Wilson Technical Community College, Sandhills Community College, and North Carolina State University. From 1971 through 1983 he was a teacher in the Granville County Schools. From 1981 through 1985 he was a city council member in Oxford, North Carolina. He currently works as a consultant."
 }, {
-  "entityIndex" : "214_entity231",
-  "entityUrl" : "http://dbpedia.org/resource/Albert_Jennings_Fountain",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateSenate" : [ "Texas" ]
-  },
-  "words" : [ "New", "de", "militia", "officer", "moved", "Paso", "defending", "Legislature", "Mesilla", "1896", "later", "children", "disappeared", "Solomon", "Albert", "raiding", "five", "Arizona", "--", "Army", "wife", "Catherine", "California", ",", "Island", ".", "Staten", "elected", "1", "Senate", "Civil", "Mariana", "attorney", "Texas", "served", "-RRB-", "Pérez", "23", "-LRB-", "trained", "American", "Fountain", "York", "El", "War", "Jennings", "Union", "October", "1873", "1838", "Apaches", "February", "Fontaine", "born", "la", "Colonel", "Mexico" ],
-  "adjectives" : [ ],
-  "nouns" : [ "militia", "attorney", "wife", "officer", "raiding" ],
-  "text" : "Colonel Albert Jennings Fountain (October 23, 1838 – disappeared February 1, 1896) was born on Staten Island, New York, on October 23, 1838, to Solomon Jennings and Catherine de la Fontaine. He was trained as an attorney and elected to the Texas Senate and the New Mexico Legislature. In 1873, Fountain moved from El Paso to Mesilla with his wife Mariana Pérez Fountain and their five children. He served the Union Army in California and Arizona during the American Civil War and later as a militia officer defending against raiding Apaches. Later, however, he developed a long and supportive history with several tribes, many Mescaleros calling him a friend. In Mesilla, he worked as assistant district attorney and probate judge as well as a newspaper editor, founding, in 1877, the Mesilla Valley Independent and the Spanish edition El Independiente del Valle de la Mesilla. He also founded the Mesilla Dramatic Society and the Mesilla Valley Opera House, now The Fountain Theater, both originally operated by his family. Following a purge of corruption among cattle rustlers, Fountain and his 8-year-old son Henry disappeared near White Sands, New Mexico, where his wagon, stains of blood, and evidence of an ambush were left. Suspicion centered on two rival landowners, Oliver M. Lee and Albert B. Fall. The bodies were never discovered."
-}, {
-  "entityIndex" : "215_entity445",
+  "entityIndex" : "192_entity177",
   "entityUrl" : "http://dbpedia.org/resource/Antoine_Thompson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2364,7 +2111,7 @@
   "nouns" : [ "Town", "service", "district", "councilman", "football", "state", "player" ],
   "text" : "(For the American football player, see Antoine Thompson (American football).) Antoine Maurice Thompson (born March 1, 1970) was a Democratic New York State Senator who represented the state's 60th Senate district, which includes parts of Buffalo and Tonawanda, the City of Niagara Falls and the Town of Grand Island. Thompson previously served for six years as the Masten District councilman in the Buffalo Common Council. Thompson has been a lifelong Buffalonian and held political and politically related professional positions in Buffalo before his service in elective politics. Thompson was appointed to the city council in 2001 and was twice re-elected. He was discouraged from pursuing his interest in election to the United States House of Representatives in 2005. He was encouraged to pursue a New York Senate Seat, but was not nominated by the Democratic Party when the seat first became available in a special election. However, during the 2006 general election for the seat, he was victorious. Thompson was challenged in the 2008 primary by the current holder of the seat but was victorious and was unchallenged in the November election. In 2010 Thompson won a 3-way primary battle but lost to Mark Grisanti, a Democrat who ran as a Republican. After the election Grisanti became a Republican."
 }, {
-  "entityIndex" : "216_entity480",
+  "entityIndex" : "193_entity194",
   "entityUrl" : "http://dbpedia.org/resource/Allen_M._Christensen",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2375,7 +2122,7 @@
   "nouns" : [ "senate", "politician", "district", "member", "state" ],
   "text" : "Allen Christensen is an American politician from Utah. A Republican, he is a member of the Utah State Senate, representing the state's 19th senate district in Morgan, Summit and Weber Counties."
 }, {
-  "entityIndex" : "217_entity568",
+  "entityIndex" : "194_entity243",
   "entityUrl" : "http://dbpedia.org/resource/Anthony_D._Galluccio",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2386,7 +2133,7 @@
   "nouns" : [ "seat", "mayor", "graduate", "politician", "vice-mayor" ],
   "text" : "Anthony D. Galluccio (born 1967) is a former US Massachusetts State Senator, and a Democratic politician having won the seat vacated by Jarrett T. Barrios. He is a graduate of Cambridge Rindge and Latin High School, Providence College, and Suffolk Law School. He was first elected to the Cambridge City Council in 1994, becoming vice-mayor in 1998 and served as mayor of Cambridge from 2000 to 2001. As Mayor, he chaired both the City Council and the School Committee. Galluccio was the youngest Mayor elected under Cambridge's current form of government. The district Galluccio represented comprises the cities of Everett and Chelsea and parts of Boston, Cambridge, Somerville, Revere, and Saugus. Galluccio was Chair of the Higher Education Committee. He was also appointed Vice Chair of the Senate Bills and Third Reading Committee and appointed as a member to the Education Committee, Housing Committee, Mental Health & Substance Abuse Committee, the Municipalities and Regional Government Committee, and the State Administration and Regulatory Oversight Committee. In addition to his public service, Galluccio serves as Vice President of the Board of Directors at the Hildebrand Self Help Family Center, a non-profit agency that provides services that empower low-income and homeless families. Galluccio is also the President and founder of Galluccio Associates, Inc, a non-profit organization that directs funds to youth programs and individual young people. He volunteers as an assistant football coach at Cambridge Rindge & Latin School. Galluccio was raised in Cambridge by his mother, Nancy, who raised three children following his father Tony's death in 1980, when Anthony was 11. He was educated in Cambridge public schools and graduated from Cambridge Rindge and Latin. Galluccio graduated four years later from Providence College. In 1996, he graduated cum laude from Suffolk Law School, which he attended at night while working for Vice Chair of the State Senate Ways and Means Committee, Robert Whetmore. Galluccio is admitted to the Massachusetts Bar and is a practicing attorney."
 }, {
-  "entityIndex" : "218_entity607",
+  "entityIndex" : "195_entity267",
   "entityUrl" : "http://dbpedia.org/resource/Aris_T._Allen",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2397,7 +2144,7 @@
   "nouns" : [ "chair", "politician", "office", "party" ],
   "text" : "Aris T. Allen (December 27, 1910 – February 8, 1991) was an American politician who was the first African-American chair of the Maryland Republican party and the first to run for a statewide office in Maryland."
 }, {
-  "entityIndex" : "219_entity649",
+  "entityIndex" : "196_entity290",
   "entityUrl" : "http://dbpedia.org/resource/Abel_John_Evans",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2408,7 +2155,7 @@
   "nouns" : [ "politician", "father", "member", "lawyer" ],
   "text" : "Abel John Evans (December 20, 1852 – December 8, 1939) was an American politician and lawyer. Evans was born in Lehi, Utah County, Utah to Abel Evans and Mary Jones. Abel served as a member of the Utah Constitutional Convention in 1895 and as a Utah State Senator during the 1st through 3rd Utah State Legislatures (1896–1901). When Evans was about 12 his father died. Evans' father was serving as a missionary in Great Britain at the time of his death. Abel Evans married Louisa E. Zimmerman, the daughter of John Zimmerman and Harriet Lamb, on January 26, 1874. They were the parents of eleven children. In 1889 Evans served a short term mission for the LDS Church in England. From 1880 to 1888 Evans was a member of the Lehi city council. In 1891 he was elected mayor of Utah as a Democrat. He was a delegate to the Utah State Constitutional Convention which wrote the state constitution that was implemented when Utah became a state in 1896. Evans was served as a counselor to Stephen L. Chipman in the Alpine Stake Presidency beganing in 1901. This stake included most of Utah County north of Provo."
 }, {
-  "entityIndex" : "220_entity654",
+  "entityIndex" : "197_entity293",
   "entityUrl" : "http://dbpedia.org/resource/Anthony_Foriest",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2419,7 +2166,7 @@
   "nouns" : [ "district", "member" ],
   "text" : "Anthony \"Tony\" Foriest was a Democratic member of the North Carolina Senate, representing the 24th district, where he served two terms."
 }, {
-  "entityIndex" : "221_entity1134",
+  "entityIndex" : "198_entity560",
   "entityUrl" : "http://dbpedia.org/resource/Aaron_Bean",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2430,7 +2177,7 @@
   "nouns" : [ "member" ],
   "text" : "Aaron Bean (born January 25, 1967) is a Republican member of the Florida State Senate, representing the 4th District, which includes all of Nassau County and parts of Duval County, since 2012, previously serving in the Florida House of Representatives, representing the 12th District from 2000 to 2008."
 }, {
-  "entityIndex" : "222_entity1311",
+  "entityIndex" : "199_entity700",
   "entityUrl" : "http://dbpedia.org/resource/Angie_Buhl",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2441,7 +2188,7 @@
   "nouns" : [ "generation", "adoptee", "business", "politician", "district" ],
   "text" : "Angie Buhl-O'Donnell is an American politician from Sioux Falls, South Dakota who serves in the South Dakota Senate. She has represented the 15th district in Minnehaha County as a Democrat since January 2011. A fourth generation South Dakotan, Buhl was born in Aberdeen and raised in Yankton. An adoptee, her parents were small business owners. She graduated from the University of South Dakota in 2007 with a degree in psychology and music. In 2010, Buhl-O'Donnell ran against incumbent state senator Kathy Miles, a fellow Democrat. In the primary election held on June 8, 2010, Buhl-O'Donnell received 398 votes while Miles earned only 276. Buhl was therefore nominated and, since no Republicans or independents had filed, she won the general election unopposed. She took office in January 2011. Buhl was re-elected in 2012 for a second term. Buhl-O'Donnell is openly bisexual and was the first LGBT member of the South Dakota Legislature. Her 2012 re-election campaign won the support of the Gay & Lesbian Victory Fund. Her husband is Jacob O'Donnell."
 }, {
-  "entityIndex" : "223_entity1387",
+  "entityIndex" : "200_entity754",
   "entityUrl" : "http://dbpedia.org/resource/Andrew_J._Santaniello,_Jr.",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2452,7 +2199,7 @@
   "nouns" : [ "executive", "planning", "agent", "development", "committee", "part", "member", "estate", "office" ],
   "text" : "Andrew Julio Santaniello (August 31, 1926 – March 15, 1986) was a Republican member of the Connecticut Senate, representing Norwalk and part of Darien, Connecticut in Connecticut's 25th District from 1983 to 1986. He died in office on March 15, 1986. He was a real estate agent and owned Santaniello Associates in Norwalk. He was on the General Assembly's executive and legislative nominations committee and was a member of the planning and development committee."
 }, {
-  "entityIndex" : "224_entity1454",
+  "entityIndex" : "201_entity794",
   "entityUrl" : "http://dbpedia.org/resource/Alfred_C._Smith",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2463,7 +2210,7 @@
   "nouns" : [ "forgery", "person", "politician", "district", "night", "member", "investigation", "state", "history", "office", "lawyer" ],
   "text" : "Alfred Charles Smith (October 8, 1893 – ?) was an American lawyer and Democratic politician who served as a member of the Virginia Senate, representing the state's 3rd district. An investigation was commenced in 1926 after Smith was accused of committing forgery in South Carolina and Virginia. He became the first person in the history of the Virginia Senate to be impeached, and on the night of March 10, he was removed from office. One year later, Smith received the seat back and served the remainder of his term."
 }, {
-  "entityIndex" : "225_entity1514",
+  "entityIndex" : "202_entity841",
   "entityUrl" : "http://dbpedia.org/resource/Aubrey_E._Strode",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2474,7 +2221,7 @@
   "nouns" : [ "politician", "district", "member", "state", "lawyer" ],
   "text" : "Aubrey Ellis Strode (October 2, 1873 – May 17, 1946) was an American lawyer and Democratic politician who served as a member of the Virginia Senate, representing the state's 19th district."
 }, {
-  "entityIndex" : "226_entity1538",
+  "entityIndex" : "203_entity860",
   "entityUrl" : "http://dbpedia.org/resource/Alexander_G._Crockett",
   "dboClass" : "dbo:Politician",
   "properties" : {

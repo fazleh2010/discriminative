@@ -1,0 +1,587 @@
+[ {
+  "entityIndex" : "entity12122",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_O'Neill",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "Ontario MPP" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Ontario_Liberal_Party" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Ottawa–Rideau" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Gary_Guzzo" ],
+    "dbp:occupation" : [ "Teacher" ],
+    "dbp:predecessor" : [ "New riding" ],
+    "dbp:termEnd" : [ "1995" ],
+    "dbp:termStart" : [ "1987" ]
+  },
+  "words" : [ "Yvonne", "June", "-LRB-", "September", "2010", "riding", "1995", "member", "represented", "Ottawa", "1936", "Assembly", "--", "Liberal", "politician", "Rideau", "O'Neill", ",", ".", "1987", "Canada", "6", "-RRB-", "9", "Legislative", "Ontario" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Yvonne O'Neill (June 9, 1936 – September 6, 2010) was a politician from Ontario, Canada. She was a Liberal member of the Legislative Assembly of Ontario from 1987 to 1995. She represented the riding of Ottawa–Rideau."
+}, {
+  "entityIndex" : "entity12123",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Atwell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "MLAforPreston" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Nova_Scotia_New_Democratic_Party" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/David_Hendsbee" ],
+    "dbp:birthDate" : [ "1943" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Wayne_Adams" ],
+    "dbp:termEnd" : [ "1999" ],
+    "dbp:termStart" : [ "1998" ]
+  },
+  "words" : [ "Yvonne", "-LRB-", "Preston", "woman", "MLA", "Atwell", "Scotia", "Canadian", "born", "politician", "black", "Nova", ",", ".", "1943", "elected", "administrator", "-RRB-", "provincial", "hospital", "East", "first" ],
+  "adjectives" : [ "Canadian", "black", "provincial", "first" ],
+  "nouns" : [ "administrator", "woman", "MLA", "politician", "hospital" ],
+  "text" : "Yvonne Atwell (born 1943 in East Preston, Nova Scotia) is a Canadian hospital administrator and provincial politician. She is the first black woman elected as a MLA in Nova Scotia."
+}, {
+  "entityIndex" : "entity12124",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Hong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageDisambiguates" : [ "http://dbpedia.org/resource/Yuan_Hong_(Jin_dynasty)", "http://dbpedia.org/resource/Yuan_Hong_(actor)" ],
+    "dbo:wikiPageID" : [ "51837094" ],
+    "dbo:wikiPageRevisionID" : [ "742230120" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Yuan_Hong_(Jin_dynasty)", "http://dbpedia.org/resource/Yuan_Hong_(actor)", "http://dbpedia.org/resource/Emperor_Xiaowen_of_Northern_Wei" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12125",
+  "entityUrl" : "http://dbpedia.org/resource/Yaphett_El-Amin",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "-LRB-", "pursuing", "American", "El-Amin", "administration", "portion", "March", "political", "Representatives", "St.", "Arkansas", "Edwardsville", "2006", "public", "1971", "Democrat", "native", "Missouri", "represented", "Southern", "30", "Bluff", "born", "politician", "degree", "House", ",", "'s", "Yaphett", ".", "master", "University", "Pine", "Illinois", "graduated", "science", "-RRB-", "Louis", "BA" ],
+  "adjectives" : [ "American", "public", "political" ],
+  "nouns" : [ "native", "administration", "politician", "portion", "science", "degree", "BA", "master" ],
+  "text" : "Yaphett El-Amin (born March 30, 1971) is an American politician who, until 2006, represented a portion of St. Louis in the Missouri House of Representatives. She is a Democrat. El-Amin is a native of St. Louis. She graduated from the University of Arkansas, Pine Bluff with a BA in political science and is pursuing a master's degree in public administration at Southern Illinois University, Edwardsville. El-Amin, who is African-American, entered politics in 1997, when she became Democratic Committeewoman for the 1st Ward. In 2002, she was a successful candidate for the Democratic nomination for State Representative in the 57th District . She was elected without opposition in the general election  and was re-elected without opposition in 2004  . In 2006, El-Amin was an unsuccessful candidate to replace Pat Dougherty in the Missouri State Senate. She finished second in a heavily contested Democratic primary election behind political science instructor Jeff Smith.  Other candidates in the race were fellow state representative Amber Boykins, former State Representative Derio Gambaro, and former St. Louis Alderman Kenny Jones . Her husband Talibdan (TD) El-Amin won a contentious primary to become the Democratic party nominee to replace his wife in the Missouri House of Representatives.  He was elected without opposition in the 2006 general election."
+}, {
+  "entityIndex" : "entity12126",
+  "entityUrl" : "http://dbpedia.org/resource/Yogi_Huyghebaert",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "MLA in theLegislative Assembly of Saskatchewan" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Saskatchewan_Party" ],
+    "dbo:predecessor" : [ "http://dbpedia.org/resource/Glen_McPherson" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Wood_River_(electoral_district)" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Glentworth,_Saskatchewan" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Dave_Marit" ],
+    "dbo:termPeriod" : [ "http://dbpedia.org/resource/Yogi_Huyghebaert__1" ],
+    "dbp:birthName" : [ "Delwood Frederick Huyghebaert" ],
+    "dbp:children" : [ "2" ],
+    "dbp:honorificPrefix" : [ "(Lt. Col. )" ],
+    "dbp:honorificSuffix" : [ "(O.M.M., C.D.)" ],
+    "dbp:spouse" : [ "Phyllis" ],
+    "dbp:termEnd" : [ "2016" ],
+    "dbp:termStart" : [ "2000" ]
+  },
+  "words" : [ "``", "-LRB-", "May", "27", "Canadian", "riding", "notable", "office", "Forces", "represents", "current", "431", "Party", "commander", "public", "Huyghebaert", "Colonel-Ret", "River", "Team", "Member", "Assembly", "''", "Frederick", "election", "pilot", "Wood", "born", "Lt", "C.D.", "Saskatchewan", "Air", ",", "-", ".", "Delwood", "Yogi", "Prior", "-RRB-", "Legislative", "duty", "Squadron", "O.M.M.", "Snowbirds", "Demonstration", "1944" ],
+  "adjectives" : [ "current", "public", "Canadian", "Legislative", "notable" ],
+  "nouns" : [ "election", "pilot", "commander", "duty", "Squadron", "office", "Demonstration", "Assembly" ],
+  "text" : "Delwood Frederick \"Yogi\" Huyghebaert, O.M.M., C.D. (Lt Colonel-Ret) (born 27 May 1944) is the current Member of the Legislative Assembly for the riding of Wood River, Saskatchewan. He represents the Saskatchewan Party. Prior to his election to public office, he was a pilot in the Canadian Forces. His most notable duty was as commander of the Snowbirds Air Demonstration Team - 431 Squadron. In 1986, he was made an Officer of the Order of Military Merit. In 1997, he ran for the leadership of the fledgling Saskatchewan Party. He finished 3rd among three candidates. In 1999, in his first run at public office, he narrowly lost election in the Wood River constituency as the Saskatchewan Party candidate. On election night, he tied Liberal candidate Glen McPherson. The returning officer cast the deciding vote in favour of McPherson. This result was later thrown out in court and a by-election was ordered. McPherson did not run and Huyghebaert then won a resounding victory. He was re-elected in 2003. On May 29, 2009, Huyghebaert was appointed to cabinet by Saskatchewan Premier Brad Wall in the role of minister of Corrections, Public Safety and Policing."
+}, {
+  "entityIndex" : "entity12127",
+  "entityUrl" : "http://dbpedia.org/resource/Yap_Kwan_Seng",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Kapitan_Cina" ],
+    "dbo:orderInOffice" : [ "Kapitan" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Kuala_Lumpur", "http://dbpedia.org/resource/Malaysia" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Yap_Ah_Shak" ],
+    "dbp:successor" : [ "Post abolished" ],
+    "dbp:termEnd" : [ "1902" ],
+    "dbp:termStart" : [ "1889" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ "-LRB-", "叶观盛", "role", "Yap", "rule", "Malaysia", "Seng", "headmen", "chiefs", "colonial", "Kwan", "Kuala", "--", "ethnic", "British", "last", "present-day", "history", ",", "played", ".", "kapitan", "Kapitans", "appointed", "important", "various", "name", "-RRB-", "Chinese", ":", ";", "family", "1902", "Lumpur", "1846", "1889", "communities" ],
+  "adjectives" : [ "important", "ethnic", "British", "last", "various", "present-day", "Chinese" ],
+  "nouns" : [ "role", "colonial", "name", "rule", "history", "family", "kapitan" ],
+  "text" : "(This is a Chinese name; the family name is Yap.) Yap Kwan Seng (Chinese: 叶观盛, 1846–1902) was the last Chinese kapitan of Kuala Lumpur from 1889 to 1902. Kapitans were appointed chiefs or headmen of the various ethnic communities during the British colonial rule in what is present-day Malaysia. Kapitans played an important role in the history of the Chinese in Malaysia. They wielded considerable influence, contributing to social, economic and political development in areas under their jurisdiction. Yap Kwan Seng, of Hakka descent, was born in 1846 in the Chak Kai district of China. He moved to Malaya at the age of 18 and worked as a tin miner in Seremban. On his death, The Straits Times carried the following obituary: TOWKAY Yap Kwan Seng, the Captain China of Selangor, died at Kuala Lumpur on Friday, of consumption, at the age of fifty-five years, of which he had spent forty in the Straits. He came from the Canton province and had resided thirty-two years in Selangor. He had held the post of Captain China there since 1889. The deceased was popular among all classes and was a liberal giver to charities. He was a Trustee of the Victoria Institution to whose funds he liberally subscribed. He gave $10,000 to the Transvaal War Fund and also a handsome donation to St. Mary's Church building fund. He was always a good friend to his poorer countrymen, for whom he established a practically free dispensary. During the Pahang rebellion he rendered much assistance to the Government and was thanked for his services. He leaves behind him five wives here and three in China, also a large family consisting of fifteen sons and ten daughters."
+}, {
+  "entityIndex" : "entity12128",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Fritz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2015-05-05" ],
+    "dbo:activeYearsStartDate" : [ "1993-06-15" ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Registered_Nurse" ],
+    "dbo:orderInOffice" : [ "MLAforCalgary-Cross" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Alberta", "http://dbpedia.org/resource/Calgary" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Ricardo_Miranda" ],
+    "dbp:birthName" : [ "Yvonne Marie Fritz" ],
+    "dbp:imagesize" : [ "150" ],
+    "dbp:predecessor" : [ "New district" ],
+    "dbp:spouse" : [ "Lanny" ]
+  },
+  "words" : [ "Yvonne", "-LRB-", "September", "Alberta", "Canadian", "17", "born", "politician", "representing", "Fritz", ",", "former", ".", "Marie", "Progressive", "1950", "constituency", "Conservative", "-RRB-", "member", "Legislative", "Calgary-Cross", "Assembly" ],
+  "adjectives" : [ "Canadian", "Legislative", "former" ],
+  "nouns" : [ "constituency", "politician", "member", "Calgary-Cross", "Assembly" ],
+  "text" : "Yvonne Marie Fritz (born September 17, 1950) is a Canadian politician and former member of the Legislative Assembly of Alberta representing the constituency of Calgary-Cross as a Progressive Conservative."
+}, {
+  "entityIndex" : "entity12129",
+  "entityUrl" : "http://dbpedia.org/resource/Y._Hewoto_Awomi",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "ST", "-LRB-", "Front", "politician", "People", ",", "'s", "Dimapur-II", ".", "India", "elected", "candidate", "Hewoto", "constituency", "2003", "-RRB-", "Legislative", "Nagaland", "Assembly" ],
+  "adjectives" : [ "ST", "Legislative" ],
+  "nouns" : [ "candidate", "constituency", "Front", "politician", "Dimapur-II", "Assembly" ],
+  "text" : "Hewoto is a politician from Nagaland, India. In 2003 he was elected to the Legislative Assembly of Nagaland, as the Nagaland People's Front candidate in the constituency Dimapur-II (ST)."
+}, {
+  "entityIndex" : "entity12130",
+  "entityUrl" : "http://dbpedia.org/resource/Yolande_Gagnon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "MLAforCalgary-McKnight" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Alberta_Liberal_Party" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Eric_Musgreave" ],
+    "dbp:successor" : [ "District Abolished" ],
+    "dbp:termEnd" : [ "1993" ],
+    "dbp:termStart" : [ "1989" ]
+  },
+  "words" : [ "Alberta", "level", "politician", ",", "former", ".", "Gagnon", "Yolande", "Canada", "1993", "served", "member", "provincial", "Legislative", "Assembly", "1989" ],
+  "adjectives" : [ "provincial", "Legislative", "former" ],
+  "nouns" : [ "level", "politician", "member", "Assembly" ],
+  "text" : "Yolande Gagnon is a former provincial level politician from Alberta, Canada. She served as a member of the Legislative Assembly of Alberta from 1989 to 1993."
+}, {
+  "entityIndex" : "entity12131",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Arceneaux",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthName" : [ "Yvonne Kelley" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/United_States" ],
+    "dbo:orderInOffice" : [ "Member of the Compton (California) City Council from the 3rd district" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Compton,_California" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Incumbent" ],
+    "dbp:before" : [ "Bernice Woods" ],
+    "dbp:children" : [ "Jacques Arceneaux", "Kashia Arceneaux", "Vince Arceneaux" ],
+    "dbp:predecessor" : [ "Bernice Woods" ],
+    "dbp:spouse" : [ "Herbert V. Arceneaux" ],
+    "dbp:termStart" : [ "1993" ],
+    "dbp:title" : [ "3", "Compton, California City Council" ],
+    "dbp:years" : [ "1993" ]
+  },
+  "words" : [ "Water", "Yvonne", "-LRB-", "American", "city", "serves", "March", "member", "Southern", "Arceneaux", "Metropolitan", "Compton", "born", "politician", "also", "California", ",", ".", "senior", "1", "council", "-RRB-", "1947", "District", "board" ],
+  "adjectives" : [ "senior", "American" ],
+  "nouns" : [ "city", "council", "politician", "member", "board" ],
+  "text" : "Yvonne Arceneaux (born March 1, 1947) is an American politician who is the senior member of the city council of Compton, California. She also serves on the board of the Metropolitan Water District of Southern California."
+}, {
+  "entityIndex" : "entity12132",
+  "entityUrl" : "http://dbpedia.org/resource/Yves_Albarello__France-politician-UMP-stub__1",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/France" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Union_for_a_Popular_Movement" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12133",
+  "entityUrl" : "http://dbpedia.org/resource/Yens_Pedersen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:party" : [ "http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Regina,_Saskatchewan" ],
+    "dbp:occupation" : [ "Lawyer" ]
+  },
+  "words" : [ "New", "placed", "Regina", "2011", "second", "President", "candidate", "2007", "Party", "leadership", "Yens", "provincial", "NDP", "Pedersen", "lawyer", "race", "Democratic", "South", "Saskatchewan", ",", "elections", "former", ".", "entering", "Hutchinson", "constituency", "served", "Bill" ],
+  "adjectives" : [ "provincial", "former", "second" ],
+  "nouns" : [ "candidate", "race", "constituency", "leadership", "NDP", "lawyer" ],
+  "text" : "Yens Pedersen is a lawyer and former candidate in the Saskatchewan New Democratic Party leadership race. Before entering the leadership race, he served as the President of the Saskatchewan New Democratic Party. Pedersen was the NDP candidate in the constituency of Regina South in the 2007 and 2011 provincial elections. In both elections, he placed second to the Bill Hutchinson of the Saskatchewan Party. Pedersen was raised on a family farm near Cut Knife, Saskatchewan. He attended and earned his law degree from Osgoode Hall Law School and currently is a lawyer at Miller Thompson. He has been the chair of the Taxation section of the Canadian Bar Association in Regina and also the president of the Regina Business Association. He also served on the board of directors for Saskatchewan Express (musical theatre group) and for The Royal Lifesaving Society (Saskatchewan Branch)."
+}, {
+  "entityIndex" : "entity12134",
+  "entityUrl" : "http://dbpedia.org/resource/Yangmasho_Shaiza",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49598654" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/Yangmaso_Shaiza" ],
+    "dbo:wikiPageRevisionID" : [ "707556446" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Yangmaso_Shaiza" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12135",
+  "entityUrl" : "http://dbpedia.org/resource/Y._S._M._Yusuf",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "Nadu", "Munnetra", "M.", "legislative", "candidate", "Radhapuram", "Yusuf", "assembly", "Member", "Dravida", "Assembly", "Anna", "1977", "election", "politician", "former", ".", "Tamil", "elected", "constituency", "Y.", "Indian", "Legislative", "S.", "Kazhagam" ],
+  "adjectives" : [ "Indian", "Legislative", "former", "legislative" ],
+  "nouns" : [ "candidate", "Radhapuram", "election", "constituency", "politician", "assembly", "Assembly" ],
+  "text" : "Y. S. M. Yusuf was an Indian politician and former Member of the Legislative Assembly. He was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Radhapuram constituency in 1977 election."
+}, {
+  "entityIndex" : "entity12136",
+  "entityUrl" : "http://dbpedia.org/resource/Yashwantrao_Mohite",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ]
+  },
+  "words" : [ "MLA", "education", "separate", "Bhau", "Marathi", "यशवंतराव", "Karad", "Sabha", "National", "post", "state", "struggle", "--", "Lok", ",", "Yashwantrao", "demand", "former", ".", "August", "India", "agitation", "1984", "Workers", "7", "1980", "-RRB-", "पक्ष", ":", ";", "1947", "मोहिते", "22", "Congress", "became", "-LRB-", "south", "Mohite", "participated", "part", "Peasants", "founders", "2009", "1952", "Party", "freedom", "member", "शेतकरी", "assembly", "Maharashtra", "November", "resigned", "Jijoba", "कामगार", "politician", "one", "also", "1920", "Kolhapur", "constituency", "aka", "Indian", "taking" ],
+  "adjectives" : [ "separate", "Indian", "former" ],
+  "nouns" : [ "education", "MLA", "politician", "part", "demand", "agitation", "freedom", "constituency", "post", "member", "पक्ष", "assembly", "state", "struggle" ],
+  "text" : "Yashwantrao Jijoba Mohite (Marathi: यशवंतराव मोहिते);(7 November 1920 – 22 August 2009), aka Bhau, was an Indian politician, a former member of the Lok Sabha from 1980 to 1984 and MLA from Karad, Maharashtra from 1952 to 1980 from Indian National Congress. When he was taking education in Kolhapur, he participated in the Indian freedom struggle. He was also one of founders of Peasants and Workers Party of India (शेतकरी कामगार पक्ष) in 1947. In 1952, he became MLA from Karad (south) assembly constituency but resigned from the post as a part of agitation for demand of separate Maharashtra state. संयुक्त महाराष्ट्र चळवळ. He was re-elected as a MLA from Majdur Kisan Party in 1957. However, in 1960 he joined the Congress and won assembly elections of 1962, 1967, 1972 and 1978. Mohite was deputy home minister (1960), deputy agriculture minister (1963), cabinet minister for housing development and transport (1967), cooperative minister (1969), cooperative and food and public distribution minister (1972) and finance minister (1975 and 1978) in Maharasthra government. He survived by one son (Dr Indrajit Mohite) and one daughter (Arundhati Savant)"
+}, {
+  "entityIndex" : "entity12137",
+  "entityUrl" : "http://dbpedia.org/resource/Yeow_Chai_Thiam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/National_University_of_Malaysia" ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Physician" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Malaysian_Chinese_Association" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Buddhist" ],
+    "dbp:birthName" : [ "Yeow Chai Thiam" ],
+    "dbp:c" : [ "姚再添" ],
+    "dbp:citizenship" : [ "http://dbpedia.org/resource/Malaysian_people" ],
+    "dbp:honorificPrefix" : [ "http://dbpedia.org/resource/Malay_titles", "http://dbpedia.org/resource/Physician" ],
+    "dbp:nativeNameLang" : [ "zh-my" ],
+    "dbp:p" : [ "Yáo Zài Tiān" ]
+  },
+  "words" : [ "medical", "Federal", "Assemblyman", "political", "appointment", "Malaysia", "independence", "years", "Thiam", "ruling", "Utilities", "Barisan", "state", "January", "Malaysian", "Assembly", "--", "gaining", "Nasional", "19", "Senator", "Local", ",", "'s", "April", ".", "姚再添", "pinyin", "Negeri", "State", "7", "served", "-RRB-", ":", ";", "Yeow", "party", "20", "since", "Dr.", "-LRB-", "Tiān", "Yáo", "part", "Chai", "2009", "1953", "2008", "Association", "member", "coalition", "Zài", "Lukut", "Government", "MCA", "Chairman", "doctor", "1963", "2016", "Conservative", "Dato", "Chinese", "Legislative", "Sembilan", "EXCO" ],
+  "adjectives" : [ "medical", "Conservative", "Chinese", "political", "Legislative", "Local", "Malaysian" ],
+  "nouns" : [ "doctor", "ruling", "pinyin", "Association", "Government", "part", "member", "coalition", "appointment", "state", "independence", "party" ],
+  "text" : "Dato Dr. Yeow Chai Thiam (Chinese: 姚再添; pinyin: Yáo Zài Tiān; 19 April 1953 – 7 January 2016) was a medical doctor and a Malaysian Federal Senator, gaining appointment in 2009. He was a member of the Conservative Malaysian Chinese Association (MCA) and had been the MCA Chairman  for the state of Negeri Sembilan since 2008, the MCA are part of the Federal ruling Barisan Nasional coalition who have been Malaysia's ruling political party since independence in 1963. Senator Yeow served as the Legislative Assemblyman for Lukut in the Negeri Sembilan State Assembly for 20 years and was the State EXCO for Utilities and Local Government."
+}, {
+  "entityIndex" : "entity12138",
+  "entityUrl" : "http://dbpedia.org/resource/Yousef_Suleiman_al-Ahmad",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2011-04-14" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/University_of_Damascus" ],
+    "dbo:orderInOffice" : [ "Minister of State" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Syrian_Communist_Party" ],
+    "dbo:president" : [ "http://dbpedia.org/resource/Bashar_al-Assad" ],
+    "dbo:primeMinister" : [ "http://dbpedia.org/resource/Adel_Safar" ],
+    "dbp:termEnd" : [ "2012" ]
+  },
+  "words" : [ "-LRB-", "economist", "minister", "Yousef", "born", "politician", "Suleiman", "Syrian", "al", "Ahmad", ".", "former", "-RRB-", "state", "1956" ],
+  "adjectives" : [ "Syrian", "former" ],
+  "nouns" : [ "economist", "minister", "politician", "state" ],
+  "text" : "Yousef Suleiman al Ahmad (born 1956) is a Syrian economist and politician. He is the former minister of state."
+}, {
+  "entityIndex" : "entity12139",
+  "entityUrl" : "http://dbpedia.org/resource/Yongyuth_Wichaidit",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2012-09-30", "2012-10-03" ],
+    "dbo:activeYearsStartDate" : [ "2008-12-07", "2011-08-09" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/National_Institute_of_Development_Administration", "http://dbpedia.org/resource/Chulalongkorn_University" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Thailand" ],
+    "dbo:office" : [ "Minister of Interior", "Leader ofPheu Thai Party" ],
+    "dbo:orderInOffice" : [ "Deputy Prime Minister of Thailand" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Pheu_Thai_Party" ],
+    "dbo:primeMinister" : [ "http://dbpedia.org/resource/Yingluck_Shinawatra" ],
+    "dbo:profession" : [ "http://dbpedia.org/resource/Politician", "http://dbpedia.org/resource/Civil_servant" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Surapong_Tovichakchaikul", "http://dbpedia.org/resource/Charupong_Ruangsuwan" ],
+    "dbp:honorificSuffix" : [ "http://dbpedia.org/resource/Order_of_the_White_Elephant", "http://dbpedia.org/resource/Order_of_the_Crown_of_Thailand" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Chaovarat_Chanweerakul", "http://dbpedia.org/resource/Suchart_Thada-Thamrongvech", "http://dbpedia.org/resource/Suthep_Thaugsuban", "Trairong Suwankiri" ]
+  },
+  "words" : [ "Ministry", "high-rank", "Interior", "วิชัยดิษฐ", "Department", "National", "Lands", "Democrat", "Thani", "Development", "Thai", "July", "Metropolitan", "15", "younger", "degree", "Surat", ",", "'s", ".", "1942", "University", "science", "served", "-RRB-", ":", ";", "Political", "brother", "Office", "-LRB-", "Thawat", "Permanent", "Secretary", "Authority", "director-general", "Yongyuth", "Committee", "servant", "Party", "Institute", "public", "Electricity", "Wichaidit", "NIDA", "Administration", "Government", "bachelor", "born", "politician", "chairman", "Chulalongkorn", "Pheu", "master", "ยงยุทธ", "Audit", "Lottery", "holds" ],
+  "adjectives" : [ "public", "high-rank", "Political" ],
+  "nouns" : [ "servant", "bachelor", "director-general", "politician", "science", "degree", "chairman", "Pheu", "brother", "master" ],
+  "text" : "Yongyuth Wichaidit (Thai: ยงยุทธ วิชัยดิษฐ; born July 15, 1942 in Surat Thani) is a Thai politician (Pheu Thai Party). He is the younger brother of Democrat politician Thawat Wichaidit. Yongyuth holds a bachelor's degree in Political science of Chulalongkorn University and a master's degree of National Institute of Development Administration (NIDA). Yongyuth was high-rank public servant, served as Permanent Secretary of Ministry of Interior, director-general of the Department of Lands, chairman of the Metropolitan Electricity Authority and chairman of the Audit Committee of the Government Lottery Office. His political functions include assistant minister to Sudarat Keyuraphan, TRT-Health Minister under Prime Minister Thaksin Shinawatra (2003–05) and advisor to Minister of Interior Kowit Wattana in Somchai Wongsawat's PPP-led government (2008), Deputy Prime Minister and Minister of Interior in the government of Yingluck Shinawatra. On 7 December 2008, Yongyuth Wichaidit was elected to leader of Pheu Thai (For Thai) Party, the main governing party and successor to the dissolved People's Power Party, which is close to ousted former Prime Minister Thaksin. He followed interim leader Suchart Thadathamrongwet in office. On 9 September 2010, Yongyuth announced to resign from the post to clear place for Kowit Wattana, but the voting party members asked him to carry on the leadership. After his Pheu Thai Party won 2011 general election, he was appointed Deputy Prime Minister and Minister of Interior in the government of Yingluck Shinawatra on 9 August 2011 and resigned on 28 September 2012. His resignation is effective on 1 October 2012. He also resigned from MP and Pheu Thai Party's leader on 4 October 2012. Prior to resignations he was accused of illegal land sale endorsements and later was found guilty by the National Anti-Corruption Commission of misfeasance. According to the Bangkok Post, even prime minister asked him to resign."
+}, {
+  "entityIndex" : "entity12140",
+  "entityUrl" : "http://dbpedia.org/resource/Yogender_Chandolia",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "college", "Delhi", "politics", "-LRB-", "several", "BJP", "Councillor", "current", "times", "Yogender", "Karol", "Nagar", "Bagh", "chairperson", "committee", "Zone", "active", "also", ",", "Chandolia", ".", "Municipal", "MCD", "elected", "standing", "Corporation", "Dev", "belongs", "-RRB-", "days", "Councilor", "since" ],
+  "adjectives" : [ "current", "several", "active", "Municipal" ],
+  "nouns" : [ "chairperson", "college", "standing", "committee", "BJP", "Councilor", "Councillor" ],
+  "text" : "Yogender Chandolia is the current standing committee chairperson of the Municipal Corporation of Delhi (MCD). He is also a Municipal Councilor for Dev Nagar, Karol Bagh Zone, Delhi. He has been active into politics since his college days and has been elected as the Municipal Councillor several times. He belongs to the (BJP). He is the first from the Regar community to make it to the post of Chairman of the Standing Committee, MCD. He is the first politician from karol bagh constituency who made HAT-TRICK in the election."
+}, {
+  "entityIndex" : "entity12141",
+  "entityUrl" : "http://dbpedia.org/resource/Yadav_Shivram_Mahajan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "M P", "M P fromJalgaon" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Buldhana_(Lok_Sabha_constituency)" ],
+    "dbo:termPeriod" : [ "http://dbpedia.org/resource/Yadav_Shivram_Mahajan__1", "http://dbpedia.org/resource/Yadav_Shivram_Mahajan__2" ],
+    "dbp:children" : [ "2" ],
+    "dbp:date" : [ "--02-23" ],
+    "dbp:profession" : [ "Teacher and Educationist, Economist" ],
+    "dbp:termEnd" : [ "1977", "1991" ],
+    "dbp:termStart" : [ "1970", "1980" ],
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "political", "Sabha", "later", "National", "sons", "1970", "Himgona", "Jalgaon", "Economics", "4th", "Lok", "Buldhan", ",", "8th", ".", "India", "elected", "seat", "1", "2", "district", "-RRB-", "London", "daughter", "party", "INC", "22", "Congress", "-LRB-", "resides", "Mrs", "School", "Buldhana", "member", "Maharashtra", "by-elections", "November", "1911", "Shivram", "Yadav", "Mahajan", "born", "5th", "7th", "9th", "Middle", "Sarojini", "educated", "constituency", "Temple", "Indian", "married" ],
+  "adjectives" : [ "4th", "political", "5th", "8th", "9th" ],
+  "nouns" : [ "seat", "Sabha", "constituency", "district", "member", "Lok", "daughter", "party" ],
+  "text" : "Yadav Shivram Mahajan (born at Himgona, Jalgaon district, Maharashtra, 22 November 1911) was a member of the 4th Lok Sabha of India from the Buldhana constituency of Maharashtra elected in 1970 by-elections and a member of the Indian National Congress (INC) political party. He was later elected to 5th Lok Sabha from Buldhan and to 7th, 8th and 9th Lok Sabha from Jalgaon seat. He was educated at London School of Economics and the Middle Temple, London. He was married to Mrs Sarojini and had 2 sons and 1 daughter and resides at Jalgaon. He worked as Member of District Congress Committee for 5 years and Executive Member of Pradesh Congress Committee of Maharashtra for 2 years"
+}, {
+  "entityIndex" : "entity12142",
+  "entityUrl" : "http://dbpedia.org/resource/Yashwantrao_Martandrao_Mukne",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "Member of parliament, Lok Sabha", "M P fromThane&Dahanu" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Thane_(Lok_Sabha_constituency)" ],
+    "dbo:termPeriod" : [ "http://dbpedia.org/resource/Yashwantrao_Martandrao_Mukne__1", "http://dbpedia.org/resource/Yashwantrao_Martandrao_Mukne__2" ],
+    "dbp:children" : [ "1" ],
+    "dbp:date" : [ "--02-24" ],
+    "dbp:termEnd" : [ "1957", "1971" ],
+    "dbp:termStart" : [ "1952", "1962" ],
+    "dbp:year" : [ "2012" ]
+  },
+  "words" : [ "Congress", "Rajkumar", "-LRB-", "Rajkot", "Old", "England", "political", "Jawhar", "Dahanu", "Sabha", "1st", "School", "National", "Thane", "member", "1917", "Maharashtra", "11", "ST", "b", "Dec", "3rd", "H.", "4th", "Mukne", "Lok", "also", ",", "Yashwantrao", "Blundells", ".", "former", "Middle", "India", "educated", "constituency", "Temple", "State", "-RRB-", "College", "Indian", "Bhiwandi", "Martandrao", "party", "INC" ],
+  "adjectives" : [ "ST", "1st", "3rd", "4th", "political", "former" ],
+  "nouns" : [ "b", "Sabha", "constituency", "member", "Mukne", "Lok", "party" ],
+  "text" : "H. H. Yashwantrao Martandrao Mukne (b 11 Dec 1917, Jawhar) was a member of the 4th Lok Sabha of India from the Dahanu constituency of Maharashtra and a member of the Indian National Congress (INC) political party. He was also member of 1st Lok Sabha from Thane(ST) and 3rd Lok Sabha from Bhiwandi. He was former of Jawhar State in Maharashtra. He had educated at Rajkumar College, Rajkot, Old Blundells School, England and at the Middle Temple, England. He was married to Her Highness Priyamvada Raje and had 1 son and 2 daughters and resides at Jaivilas Palace, Jawhar in Thane district."
+}, {
+  "entityIndex" : "entity12143",
+  "entityUrl" : "http://dbpedia.org/resource/Yagya_Datt_Sharma_(Indore)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48834883" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/Yagya_Datt_Sharma_(politician)" ],
+    "dbo:wikiPageRevisionID" : [ "725060291" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Yagya_Datt_Sharma_(politician)" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12144",
+  "entityUrl" : "http://dbpedia.org/resource/Yusuf_Hassan_Abdi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/University_of_Middlesex", "http://dbpedia.org/resource/Tufts_University", "http://dbpedia.org/resource/University_of_London" ],
+    "dbo:office" : [ "Director ofIRIN", "Head of External and Media Relations ofUNHCR", "Senior Policy Adviser for theUN Secretary General" ],
+    "dbo:orderInOffice" : [ "MP forKamukunji Constituency" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/The_National_Alliance" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Islam" ],
+    "dbp:termEnd" : [ "2001", "2006", "2007" ],
+    "dbp:termStart" : [ "1999", "2002", "2006", "August 2011" ]
+  },
+  "words" : [ "-LRB-", "United", "March", "2011", "parliament", "years", "Hassan", "1953", "Arabic", "Somali-Kenyan", "Yusuf", "legislator", "يوسف", "Abdi", "working", "activist", "social", "عبدي", "joined", "born", "politician", "Director", ",", "IRIN", "many", "Nations", "Kenya", "Yuusuf", "former", ".", "journalist", "Xasan", "Cabdi", "حسن", "-RRB-", "9", ":", "diplomat", "Somali" ],
+  "adjectives" : [ "Somali-Kenyan", "social", "many", "former" ],
+  "nouns" : [ "activist", "journalist", "legislator", "عبدي", "politician", "Director", "diplomat", "IRIN", "parliament" ],
+  "text" : "Yusuf Hassan Abdi (Somali: Yuusuf Xasan Cabdi, Arabic: يوسف حسن عبدي‎‎) (born March 9, 1953) is a Somali-Kenyan politician, diplomat, social activist and former journalist. He is a former Director of IRIN. After working many years with the United Nations, he joined the Kenya parliament as a legislator in 2011."
+}, {
+  "entityIndex" : "entity12145",
+  "entityUrl" : "http://dbpedia.org/resource/Yusuf_Warsame_Saeed",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2013-04-07" ],
+    "dbo:activeYearsStartDate" : [ "2012-12-23" ],
+    "dbo:orderInOffice" : [ "MayorofHargeisa" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Abdurrahman_Mahmoud_Aidiid" ]
+  },
+  "words" : [ "23", "Mayor", "capital", "-LRB-", "death", "Somalia", "2012", "several", "died", "autonomous", "Dubai", "capacity", "December", "Arabic", "Yusuf", "prior", "يوسف", "ارسام", "profession", "سعيد", "months", "hospitalization", "Somaliland", "politician", "Saeed", "Saiid", ",", "Yuusuf", "engineer", "followed", "Warsame", "April", ".", "elected", "Hargeisa", "northwestern", "7", "2013", "served", "-RRB-", ":", ";", "position", "Somali", "region" ],
+  "adjectives" : [ "northwestern", "several", "autonomous", "Somali" ],
+  "nouns" : [ "profession", "سعيد", "capital", "death", "hospitalization", "politician", "position", "region", "engineer", "capacity" ],
+  "text" : "Yusuf Warsame Saeed (Somali: Yuusuf Warsame Saiid; Arabic: يوسف ارسام سعيد‎‎; died 7 April 2013) was a Somali politician. He was the Mayor of Hargeisa, the capital of the autonomous Somaliland region in northwestern Somalia. An engineer by profession, Saeed was elected to the position on December 23, 2012. He served in this capacity until a few months prior to his death, which followed several months of hospitalization in Dubai."
+}, {
+  "entityIndex" : "entity12146",
+  "entityUrl" : "http://dbpedia.org/resource/Yorke_Allen,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Princeton_University" ],
+    "dbo:battle" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:militaryBranch" : [ "http://dbpedia.org/resource/US_Army" ],
+    "dbo:orderInOffice" : [ "Member of the", "Connecticut House of Representativesfrom the143rd district" ],
+    "dbp:occupation" : [ "investment banker" ],
+    "dbp:spouse" : [ "Elizabeth Sizer" ],
+    "dbp:termEnd" : [ "1983" ],
+    "dbp:termStart" : [ "1979" ]
+  },
+  "words" : [ "New", "Canaan", "Brothers", "-LRB-", "Fund", "28", "Jr.", "Representatives", "Yorke", "Council", "associate", "previously", "Town", "1970", "member", "1915", "1979", "1978", "--", "143rd", "House", "Allen", ",", "April", ".", "1983", "6", "Connecticut", "district", "served", "-RRB-", "1989", "Rockefeller" ],
+  "adjectives" : [ "143rd" ],
+  "nouns" : [ "district", "member", "associate" ],
+  "text" : "Yorke Allen, Jr. (28 April 1915 – 6 April 1989) was a member of the Connecticut House of Representatives from the 143rd district from 1979 to 1983. He previously served on the New Canaan Town Council from 1970 to 1978. He was an associate of Rockefeller Brothers Fund."
+}, {
+  "entityIndex" : "entity12147",
+  "entityUrl" : "http://dbpedia.org/resource/Yumsem_Matey",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ],
+    "dbp:date" : [ "September 2015" ],
+    "dbp:reason" : [ "Numerous formatting and convention errors" ]
+  },
+  "words" : [ "-LRB-", "Khonsa", "belong", "OLLO", "year", "Itanagar", "Yumsem", "BA.Hons.in", "History", "National", "Pradesh", "member", "congress.First", "state", "Graduate", "Matey", "Arunachal", "Assembly", "Village", "Government", "Dist", "West", "politician", ",", ".", "India", "Lazu", "1992-93", "district", "-RRB-", "College", "Indian", "Tirap", "Community" ],
+  "adjectives" : [ ],
+  "nouns" : [ "year", "politician", "district", "member", "state", "History" ],
+  "text" : "Yumsem Matey is a politician from Lazu Village, (OLLO Community) Tirap Dist. Arunachal Pradesh, state in India. He is member of Arunachal Pradesh Assembly from Khonsa West in Tirap district. He belong to Indian National congress.First Graduate from OLLO Community (BA.Hons.in History), in the year 1992-93, from Government College, Itanagar, Arunachal Pradesh. Served as District Adult Education Officer (DAEO) in Changlang, Changlang District, Arunachal Pradesh. Elected as MLA from 56th Khonsa West Assembly Constituency, in the year 2009 from INC (Indian National Congress), to the post of Parliamentary Secretary; Department of Women and Social Welfare, Social Justice and Tribal Affairs, and DOTCL (Department of Tirap,Changlang and Longding) Recently, in 2015 Yumsem Matey joined the BJP (Bharat Janta Party)."
+}, {
+  "entityIndex" : "entity12148",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Dorsey-Colomb",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "Louisiana State Representative for District 67 (East Baton Rouge Parish)" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Baton_Rouge,_Louisiana" ],
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Sterling_Colomb,_Jr." ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Patricia_Haynes_Smith", "Incumbent" ],
+    "dbp:ballot" : [ "Yvonne Dorsey-Colomb" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/John_Michael_Guidry", "http://dbpedia.org/resource/Cleo_Fields" ],
+    "dbp:children" : [ "2" ],
+    "dbp:district" : [ "14" ],
+    "dbp:preceded" : [ "http://dbpedia.org/resource/John_Michael_Guidry", "http://dbpedia.org/resource/Cleo_Fields" ],
+    "dbp:stateSenate" : [ "Louisiana State" ],
+    "dbp:succeeded" : [ "http://dbpedia.org/resource/Patricia_Haynes_Smith" ],
+    "dbp:termEnd" : [ "January 2008" ],
+    "dbp:termStart" : [ "April 1993", "January 2008" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Louisiana_State_Senate", "http://dbpedia.org/resource/Louisiana_House_of_Representatives", "Yvonne Dorsey-Colomb" ],
+    "dbp:votesmart" : [ "4550" ],
+    "dbp:years" : [ "1993", "2008" ]
+  },
+  "words" : [ "14th", "Yvonne", "Dorsey-Colomb", "-LRB-", "Sterling", "American", "Colomb", "Jr.", "reside", "husband", "Representatives", "Pro", "represents", "1952", "Party", "member", "state", "Baton", "Speaker", "Rouge", "Democratic", "born", "politician", "19", "also", "House", ",", ".", "August", "Senate", "State", "district", "served", "Tempore", "-RRB-", "Louisiana" ],
+  "adjectives" : [ "14th", "American" ],
+  "nouns" : [ "politician", "district", "member", "husband", "state" ],
+  "text" : "Yvonne Dorsey-Colomb (born August 19, 1952) is an American politician from the state of Louisiana. She represents the 14th district in the Louisiana State Senate as a member of the Democratic Party. She also served in the Louisiana House of Representatives, and was Speaker Pro Tempore. Dorsey-Colomb and her husband, Sterling Colomb, Jr., reside in Baton Rouge, Louisiana. Sterling founded the Colomb Foundation to raise awareness of breast cancer. Though John Neely Kennedy, the state treasurer, listed the foundation as not adhering to state laws on disclosing their financial information, a later investigation found the foundation to be in compliance with all state laws. Dorsey-Colomb is listed among the state and local officials who endorsed the unsuccessful re-election in 2014 of Democrat U.S. Senator Mary Landrieu."
+}, {
+  "entityIndex" : "entity12149",
+  "entityUrl" : "http://dbpedia.org/resource/Yuval_Fuchs",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Ambassador" ],
+    "dbo:orderInOffice" : [ "Israeli Ambassador to Georgia" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Judaism" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Yitzhak_Gerberg" ],
+    "dbp:termStart" : [ "2012" ]
+  },
+  "words" : [ "-LRB-", "Hebrew", "born", "Ambassador", "Fuchs", ".", "פוקס", "Armenia", "current", "1961", "Yuval", "יובל", "-RRB-", "Non-Resident", ":", ";", "Israel", "Georgia" ],
+  "adjectives" : [ "current" ],
+  "nouns" : [ ],
+  "text" : "Yuval Fuchs (Hebrew: יובל פוקס‎‎; born 1961) is the current Ambassador of Israel to Georgia and Non-Resident Ambassador to Armenia."
+}, {
+  "entityIndex" : "entity12150",
+  "entityUrl" : "http://dbpedia.org/resource/Yusuf_Moalin_Amin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2014-01-17" ],
+    "dbo:orderInOffice" : [ "Minister of Ports and Marine TransportofSomalia" ],
+    "dbo:primeMinister" : [ "http://dbpedia.org/resource/Abdiweli_Sheikh_Ahmed" ]
+  },
+  "words" : [ "Ahmed", "Prime", "Abdiweli", "17", "politician", "Somalia", "Ports", ",", "Amin", ".", "appointed", "Marine", "Yusuf", "2014", "position", "Somali", "Transport", "Moalin", "January", "Sheikh", "Minister" ],
+  "adjectives" : [ "Somali" ],
+  "nouns" : [ "politician", "position" ],
+  "text" : "Yusuf Moalin Amin is a Somali politician. He is the Minister of Ports and Marine Transport of Somalia, having been appointed to the position on 17 January 2014 by Prime Minister Abdiweli Sheikh Ahmed."
+}, {
+  "entityIndex" : "entity12151",
+  "entityUrl" : "http://dbpedia.org/resource/Yossi_Brodny",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/Israel" ],
+    "dbo:militaryBranch" : [ "http://dbpedia.org/resource/Paratroopers_Brigade" ],
+    "dbo:orderInOffice" : [ "Mayor ofGiv'at Shmuel" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Likud" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Judaism" ],
+    "dbp:size" : [ "250" ],
+    "dbp:termStart" : [ "2008" ],
+    "dbp:unit" : [ "Battalion 202" ]
+  },
+  "words" : [ "`", "-LRB-", "15", "Hebrew", "mayor", "city", "born", "politician", "Yossi", "Brodny", "יוסי", "Shmuel", ".", "Israeli", "2008", "current", "1971", "Giv", "ברודני", "-RRB-", ":", ";", "January", "since" ],
+  "adjectives" : [ "Israeli", "current" ],
+  "nouns" : [ "mayor", "city", "politician" ],
+  "text" : "Yossi Brodny (Hebrew: יוסי ברודני‎‎; born 15 January 1971) is an Israeli politician and current mayor of the Israeli city of Giv'at Shmuel since 2008."
+}, {
+  "entityIndex" : "entity12152",
+  "entityUrl" : "http://dbpedia.org/resource/Y._S._Avinash_Reddy",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "Congress", "-LRB-", "Sramika", "Rythu", "parliament", "general", "Sabha", "candidate", "Party", "Pradesh", "won", "member", "election", "Kadapa", "politician", "Andhra", "Lok", ",", ".", "Avinash", "Reddy", "constituency", "Y.", "2014", "Yuvajana", "-RRB-", "Indian", "S." ],
+  "adjectives" : [ "general", "Indian" ],
+  "nouns" : [ "Sabha", "candidate", "election", "constituency", "Kadapa", "politician", "member", "Lok", "parliament" ],
+  "text" : "Y. S. Avinash Reddy is an Indian politician and a member of parliament from Kadapa (Lok Sabha constituency), Andhra Pradesh. He won the Indian general election, 2014 being a Yuvajana Sramika Rythu Congress Party candidate."
+}, {
+  "entityIndex" : "entity12153",
+  "entityUrl" : "http://dbpedia.org/resource/Y._V._Subba_Reddy",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "Congress", "-LRB-", "Sramika", "Rythu", "parliament", "16th", "general", "Sabha", "candidate", "Party", "Pradesh", "Subba", "won", "V.", "member", "election", "politician", "Andhra", "Lok", ",", "Ongole", ".", "Reddy", "constituency", "Y.", "2014", "Yuvajana", "-RRB-", "Indian" ],
+  "adjectives" : [ "general", "Indian", "16th" ],
+  "nouns" : [ "candidate", "election", "constituency", "politician", "member", "parliament" ],
+  "text" : "Y. V. Subba Reddy is an Indian politician and a member of parliament to the 16th Lok Sabha from Ongole (Lok Sabha constituency), Andhra Pradesh. He won the Indian general election, 2014 being a Yuvajana Sramika Rythu Congress Party candidate."
+}, {
+  "entityIndex" : "entity12154",
+  "entityUrl" : "http://dbpedia.org/resource/Yvan_Baker",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2014-06-12" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Ontario_Liberal_Party" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Ontario", "http://dbpedia.org/resource/Etobicoke" ],
+    "dbp:honorificSuffix" : [ "http://dbpedia.org/resource/Member_of_Provincial_Parliament_(Ontario)" ],
+    "dbp:occupation" : [ "Management consultant" ],
+    "dbp:parliament" : [ "Ontario Provincial" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Donna_Cansfield" ],
+    "dbp:riding" : [ "http://dbpedia.org/resource/Etobicoke_Centre_(provincial_electoral_district)" ]
+  },
+  "words" : [ "Yvan", "-LRB-", "Liberal", "born", "politician", "riding", ",", "Centre", ".", "elected", "represents", "Canada", "December", "Etobicoke", "Baker", "2014", "8", "-RRB-", "member", "Legislative", "Ontario", "Assembly", "1977" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Yvan Baker (born December 8, 1977) is a politician in Ontario, Canada. He is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. He represents the riding of Etobicoke Centre."
+}, {
+  "entityIndex" : "entity12155",
+  "entityUrl" : "http://dbpedia.org/resource/Yuriy_Kosyuk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49694743" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/Yuriy_Kosiuk" ],
+    "dbo:wikiPageRevisionID" : [ "709138314" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Yuriy_Kosiuk" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12156",
+  "entityUrl" : "http://dbpedia.org/resource/Yogendra_Sao",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ]
+  },
+  "words" : [ "Sao", "Congress", "leader", "arrested", "killing", "dead", "alleged", "agriculture", "October", "National", "Yogendra", "13", "minister", "Government", "politician", "2001", "football", ".", "former", "Jharkhand", "involved", "5", "2014", "villagers", "Indian", "playing", "heads", "party" ],
+  "adjectives" : [ "Indian", "dead", "former" ],
+  "nouns" : [ "agriculture", "leader", "minister", "Government", "politician", "killing", "football", "party" ],
+  "text" : "Yogendra Sao is an Indian politician who is a leader of the Indian National Congress party. He is a former agriculture minister in the Government of Jharkhand. He is alleged to have been involved in killing of 13 villagers in 2001 and of playing football with the heads of the dead. He was arrested on 5 October 2014."
+}, {
+  "entityIndex" : "entity12157",
+  "entityUrl" : "http://dbpedia.org/resource/Yuriy_Solod",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2014-11-27" ],
+    "dbo:orderInOffice" : [ "People's Deputy of Ukraine" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Opposition_Bloc" ],
+    "dbp:nationality" : [ "Ukrainian" ]
+  },
+  "words" : [ "Solod", "Юрій", "Opposition", "electoral", "parliament", "placing", "Ukrainian", "1972", "Korolevska", "Vasylyovych", "businessman", "Bloc", "%", "wife", "Kut", "Slovyansk", ",", "8th", "list", "Васильович", "-", "April", ".", "ventures", "elected", "seat", "re", "34.17", "-RRB-", "Natalia", ":", ";", "engaged", "-LRB-", "27", "single-member", "districts", "Since", "1990s", "parliamentary", "election", "business", "winning", "born", "politician", "also", "Krasnyi", "2014", "Солод", "votes", "Yuriy" ],
+  "adjectives" : [ "Ukrainian", "single-member", "electoral", "parliamentary", "8th" ],
+  "nouns" : [ "Solod", "seat", "election", "business", "%", "wife", "politician", "Slovyansk", "parliament", "list", "businessman" ],
+  "text" : "Yuriy Vasylyovych Solod (Ukrainian: Юрій Васильович Солод, born 27 April 1972 in Krasnyi Kut) is a Ukrainian businessman and politician. Since the 1990s Solod is engaged in business ventures with his wife Natalia Korolevska. In the 2014 Ukrainian parliamentary election Solod was elected into the Ukrainian parliament for Opposition Bloc after winning a single-member districts seat in Slovyansk with 34.17% of the votes. In the same election his wife Natalia Korolevska was also (re-)elected into parliament; after placing 8th on the electoral list of Opposition Bloc. Solod and his spouse have 2 sons."
+}, {
+  "entityIndex" : "entity12158",
+  "entityUrl" : "http://dbpedia.org/resource/Yashpal_Kapur",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ]
+  },
+  "words" : [ "Congress", "leader", "-LRB-", "Gandhi", "aide", "contesting", "officer", "additional", "years", "Sabha", "government", "National", "1972", "Pradesh", "member", "Kapur", "banned", "gandhi", "close", "1978", "Kapoor", "resigned", "declared", "Uttar", "availing", "election", "void", "six", "Yashpal", "1929-1993", "services", "'s", ",", "elections", ".", "Rajya", "null", "Indira", "-RRB-", "Indian", "well", "position" ],
+  "adjectives" : [ "void", "null", "additional", "close" ],
+  "nouns" : [ "leader", "election", "government", "aide", "officer", "member", "position" ],
+  "text" : "Yashpal Kapur (1929-1993) was a leader of Indian National Congress and a close aide of Indira Gandhi. He was a member of the Rajya Sabha from Uttar Pradesh from 1972 to 1978. Indira gandhi's election was declared null and void as well as she was banned from contesting any election for an additional six years availing the services of a government officer, Yashpal Kapoor, during the elections before he had resigned from his position."
+}, {
+  "entityIndex" : "entity12159",
+  "entityUrl" : "http://dbpedia.org/resource/Yogendra_Makwana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ]
+  },
+  "words" : [ "-LRB-", "minister", "Gujarat", "born", "politician", "union", "former", ".", "India", "elected", "Rajya", "Sabha", "1973", "Makwana", "-RRB-", "member", "Indian", "Yogendra", "1933", "1988" ],
+  "adjectives" : [ "Indian", "former" ],
+  "nouns" : [ "minister", "politician", "member", "union" ],
+  "text" : "Yogendra Makwana (born 1933) is an Indian politician and a former union minister of India. He was a member of Rajya Sabha from 1973 to 1988 elected from Gujarat."
+} ]

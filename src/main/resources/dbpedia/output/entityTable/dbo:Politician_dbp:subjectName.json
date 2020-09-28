@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10564",
+  "entityIndex" : "1_entity6521",
   "entityUrl" : "http://dbpedia.org/resource/John_Block_(South_African_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,40 +10,7 @@
   "nouns" : [ "money", "laundering", "fraud", "corruption" ],
   "text" : "John Fikile Block (born 10 February 1968) was the Provincial Chairman of the African National Congress in the Northern Cape Province, South Africa, and was a Member of the Executive Council (MEC) for Finance, Economic Development and Tourism in the Northern Cape Provincial Government. Block was found guilty of fraud, corruption and money laundering by the Northern Cape High Court in 2015."
 }, {
-  "entityIndex" : "2_entity1985",
-  "entityUrl" : "http://dbpedia.org/resource/Beatrice_Marshoff",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:subjectName" : [ "Beatrice Marshoff" ]
-  },
-  "words" : [ "--", "من", "الأفريقي", "-LRB-", "هي", "م", "بالإنجليزية", "و", "في", "Beatrice", ".", "الوطني", "عضوة", "مارشوف", "وهي", "المؤتمر", "Marshoff", "-RRB-", "أفريقيا", "بياتريس", ":", "سياسية", "جنوب", "1957" ],
-  "adjectives" : [ ],
-  "nouns" : [ "من", "الأفريقي", "مارشوف", "وهي", "بياتريس" ],
-  "text" : "بياتريس مارشوف (بالإنجليزية: Beatrice Marshoff) (و. 1957 – م)هي سياسية من جنوب أفريقيا . وهي عضوة في المؤتمر الوطني الأفريقي ."
-}, {
-  "entityIndex" : "3_entity7169",
-  "entityUrl" : "http://dbpedia.org/resource/Hazel_Jenkins",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:subjectName" : [ "Hazel Jenkins" ]
-  },
-  "words" : [ "--", "من", "الأفريقي", "-LRB-", "هي", "م", "بالإنجليزية", "هيزل", "و", "في", "جنكينز", "Hazel", ".", "الوطني", "Jenkins", "عضوة", "وهي", "1960", "المؤتمر", "-RRB-", "أفريقيا", ":", "سياسية", "جنوب" ],
-  "adjectives" : [ ],
-  "nouns" : [ "من", "الأفريقي", "وهي", "هيزل", "جنكينز" ],
-  "text" : "هيزل جنكينز (بالإنجليزية: Hazel Jenkins) (و. 1960 – م)هي سياسية من جنوب أفريقيا . وهي عضوة في المؤتمر الوطني الأفريقي ."
-}, {
-  "entityIndex" : "4_entity17224",
-  "entityUrl" : "http://dbpedia.org/resource/Sylvia_Lucas",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:subjectName" : [ "Sylvia Lucas" ]
-  },
-  "words" : [ "--", "من", "الأفريقي", "-LRB-", "هي", "م", "بالإنجليزية", "و", "Lucas", "في", ".", "الوطني", "1964", "عضوة", "وهي", "لوكاس", "المؤتمر", "Sylvia", "-RRB-", "أفريقيا", ":", "سياسية", "جنوب", "سيلفيا" ],
-  "adjectives" : [ "سيلفيا" ],
-  "nouns" : [ "من", "الأفريقي", "وهي", "لوكاس" ],
-  "text" : "سيلفيا لوكاس (بالإنجليزية: Sylvia Lucas) (و. 1964 – م)هي سياسية من جنوب أفريقيا . وهي عضوة في المؤتمر الوطني الأفريقي ."
-}, {
-  "entityIndex" : "5_entity13518",
+  "entityIndex" : "2_entity8262",
   "entityUrl" : "http://dbpedia.org/resource/Marius_Fransman",
   "dboClass" : "dbo:Politician",
   "properties" : {

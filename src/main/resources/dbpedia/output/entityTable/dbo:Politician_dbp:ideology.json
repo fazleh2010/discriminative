@@ -1,16 +1,5 @@
 [ {
-  "entityIndex" : "1_entity7350",
-  "entityUrl" : "http://dbpedia.org/resource/Hamdeen_Sabahi",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:ideology" : [ "http://dbpedia.org/resource/Nasserism" ]
-  },
-  "words" : [ "له", "الميول", "لرئاسة", "سابق", "حقوق", "حمدين", "وانتخابات", "،", "رئيس", "يوليو", "عبد", "المصريين", "الرئاسة", "جريدة", "المقصود", "ويعمل", "العاطي", "ناصري", "في", "عن", ".", "لحزب", "ومناصرة", "الدفاع", "5", "تحرير", "-RRB-", "مصري", "ومرشح", "الكرامة", "الوطنية", "-LRB-", "سياسي", "2012", "برلمان", "1954", "والعدالة", "القضايا", "وشهرته", "كرئيس", "الاجتماعية", "انتخابات", "صباحي", "الجمهورية", "وعضو", "المصرية", "وبرلماني", "2014", "تاريخ" ],
-  "adjectives" : [ ],
-  "nouns" : [ "له", "الميول", "رئيس", "حمدين", "صباحي", "عن" ],
-  "text" : "حمدين عبد العاطي عبد المقصود صباحي وشهرته حمدين صباحي (5 يوليو 1954) سياسي وبرلماني مصري. رئيس سابق لحزب الكرامة ويعمل كرئيس تحرير جريدة الكرامة وعضو برلمان سابق ومرشح لرئاسة الجمهورية في انتخابات 2012 وانتخابات الرئاسة المصرية 2014. له تاريخ في الدفاع عن حقوق المصريين والعدالة الاجتماعية ومناصرة القضايا الوطنية، ناصري الميول."
-}, {
-  "entityIndex" : "2_entity13423",
+  "entityIndex" : "1_entity8190",
   "entityUrl" : "http://dbpedia.org/resource/Mustafa_Hijri",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +10,7 @@
   "nouns" : [ ],
   "text" : "Mustafa Hijri (Kurdish: Mustafa Hijri) is the current (as of 2010) General Secretary of the Democratic Party of Iranian Kurdistan (KDPI)"
 }, {
-  "entityIndex" : "3_entity1368",
+  "entityIndex" : "2_entity741",
   "entityUrl" : "http://dbpedia.org/resource/Anna_Zakletska-Burak",
   "dboClass" : "dbo:Politician",
   "properties" : {

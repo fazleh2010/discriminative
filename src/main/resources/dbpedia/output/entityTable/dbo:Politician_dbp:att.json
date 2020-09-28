@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity16315",
+  "entityIndex" : "1_entity9995",
   "entityUrl" : "http://dbpedia.org/resource/Samuel_Spruill",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "death", "Assembly" ],
   "text" : "Samuel Spruill served in the Provincial Assembly of North Carolina from 1754 until his death in 1760."
 }, {
-  "entityIndex" : "2_entity12961",
+  "entityIndex" : "2_entity7867",
   "entityUrl" : "http://dbpedia.org/resource/Moulana_Abdullah_Tari",
   "dboClass" : "dbo:Politician",
   "properties" : {

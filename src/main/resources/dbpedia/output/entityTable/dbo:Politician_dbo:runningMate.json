@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity11386",
+  "entityIndex" : "1_entity7041",
   "entityUrl" : "http://dbpedia.org/resource/Linda_Jenness",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "candidate", "election", "president" ],
   "text" : "Linda Jenness (born 1941) was a Socialist Workers Party candidate for president of the United States in the 1972 election. She received 83,380 votes (vs. 47,169,911 for Richard Nixon)."
 }, {
-  "entityIndex" : "2_entity3657",
+  "entityIndex" : "2_entity2199",
   "entityUrl" : "http://dbpedia.org/resource/Diane_E._Benson",
   "dboClass" : "dbo:Politician",
   "properties" : {

@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10656",
+  "entityIndex" : "1_entity6588",
   "entityUrl" : "http://dbpedia.org/resource/Keith_Locke",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,18 +10,7 @@
   "nouns" : [ "number", "MP", "election", "spokesperson", "parliament" ],
   "text" : "Keith James Locke (born 1944) is a former New Zealand MP who represented the Green Party, being first elected to parliament in 1999 and retiring from parliament at the 2011 election. He was the Green Party spokesperson on Foreign Affairs, Defence, Ethnic Affairs, Pacific Affairs, Human Rights, Immigration, Police and Auckland Transport. He served on the Foreign Affairs, Defence and Trade Select Committee. During his 12 years in Parliament he won a number of awards. He was twice named 'Backbencher of the Year', first in 2002 by Vernon Small, then deputy political editor of The New Zealand Herald, and again in 2010 by The Dominion Post political staff. He also received the New Zealand Republic's Colonel Allen Bell Award in 2011; the New Zealand Amnesty International's Human Rights Defender Award in 2012; and the Federation of Islamic Associations for New Zealand's Harmony Award in 2013. Since retiring from Parliament, Locke has joined the boards of the Auckland Refugee Council and the New Zealand Peace and Conflict Studies Centre Trust. He writes on political issues for New Zealand newspapers and the Daily Blog."
 }, {
-  "entityIndex" : "2_entity10673",
-  "entityUrl" : "http://dbpedia.org/resource/Kenneth_Wang",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "List" ]
-  },
-  "words" : [ "New", "siblings", "-LRB-", "Wang", "advertising", "Auckland", "three", "two", "second", "arrived", "worked", "children", "China", "Wong", "sector", "MP", "born", ",", "'s", ".", "marketing", "Zealand", "1984", "Pansy", "-RRB-", "Chinese", "married", "first" ],
-  "adjectives" : [ "Chinese", "first", "second" ],
-  "nouns" : [ "marketing", "MP", "advertising", "sector" ],
-  "text" : "Wang was born in China, and has three siblings. He arrived in New Zealand in 1984 and is married with two children. Wang worked in the marketing and advertising sector in Auckland. He was New Zealand's second Chinese MP (with the first being Pansy Wong). At the 2005 elections Wang contested the seat of Mt Roskill, and was seventh on ACT's party list. However, he was not returned to Parliament. In the 2008 general election he stood unsuccessfully in the Electorate of Botany for the ACT New Zealand Party. National candidate Pansy Wong filed a complaint to the electoral commission about Wang's billboards which exhorted \"Vote for Wang, get Wang and Wong\" (because Pansy Wong's high rank on the National Party List assured her of a seat in parliament). He was elected Deputy Leader of ACT in April 2014."
-}, {
-  "entityIndex" : "3_entity10992",
+  "entityIndex" : "2_entity6776",
   "entityUrl" : "http://dbpedia.org/resource/Kenneth_Williams_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +21,7 @@
   "nouns" : [ ],
   "text" : "Kenneth Stuart Williams (13 September 1870 – 25 November 1935) was a Reform Party Member of Parliament in New Zealand. He was Minister of Public Works from 1926 to 1928 in the Reform Government."
 }, {
-  "entityIndex" : "4_entity13659",
+  "entityIndex" : "3_entity8333",
   "entityUrl" : "http://dbpedia.org/resource/Neil_Morrison",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,29 +32,7 @@
   "nouns" : [ "politician" ],
   "text" : "Neil Joseph Morrison (1938 – 19 September 2007) was a New Zealand politician of the Social Credit Party."
 }, {
-  "entityIndex" : "5_entity8025",
-  "entityUrl" : "http://dbpedia.org/resource/John_Cargill_(politician)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "http://dbpedia.org/resource/Dunedin_Country", "Dunedin Country" ]
-  },
-  "words" : [ "--", "runholder", "New", "-LRB-", "politician", "John", "Cargill", ".", "1821", "1898", "2", "Zealand", "-RRB-", "January" ],
-  "adjectives" : [ ],
-  "nouns" : [ "runholder", "politician" ],
-  "text" : "John Cargill (1821 – 2 January 1898) was a New Zealand politician and runholder."
-}, {
-  "entityIndex" : "6_entity8031",
-  "entityUrl" : "http://dbpedia.org/resource/John_Cuff_(politician)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "http://dbpedia.org/resource/Akaroa_(New_Zealand_electorate)" ]
-  },
-  "words" : [ "New", "-LRB-", "John", "serve", "1855", "subsequent", "represented", "end", "term", "electorate", "1858", "resigned", "--", "politician", "2nd", ",", ".", "Akaroa", "Cuff", "Zealand", "-RRB-", "Parliaments", "1805", "1869", "Parliament" ],
-  "adjectives" : [ "2nd", "subsequent" ],
-  "nouns" : [ "politician", "end", "term", "electorate" ],
-  "text" : "John Cuff (1805–1869) was a New Zealand politician. He represented the Akaroa electorate in the 2nd New Zealand Parliament from 1855 to 1858, but resigned before the end of his term. He did not serve in any subsequent Parliaments."
-}, {
-  "entityIndex" : "7_entity8043",
+  "entityIndex" : "4_entity4890",
   "entityUrl" : "http://dbpedia.org/resource/Joe_Hawke",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -76,18 +43,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "Joseph Parata Hohepa Hawke, MNZM (born 1940), is a former New Zealand politician. He was a member of Parliament for the Labour Party from 1996 to 2002."
 }, {
-  "entityIndex" : "8_entity8049",
-  "entityUrl" : "http://dbpedia.org/resource/Jenny_Bloxham",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "List" ]
-  },
-  "words" : [ "New", "Zealand", "politician", "Bloxham", "Jenny", "former", "." ],
-  "adjectives" : [ "former" ],
-  "nouns" : [ "politician" ],
-  "text" : "Jenny Bloxham is a former New Zealand politician."
-}, {
-  "entityIndex" : "9_entity8513",
+  "entityIndex" : "5_entity5091",
   "entityUrl" : "http://dbpedia.org/resource/John_Davies_Ormond",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,7 +54,7 @@
   "nouns" : [ "death", "politician", "member", "electorate", "Council" ],
   "text" : "John Davies Ormond (1831 – 6 October 1917) was a New Zealand politician whose positions included Superintendent of Hawke's Bay Province, Minister of Public Works and member of the New Zealand Legislative Council. He represented the Clive electorate in Parliament from 1861 to 1881, when he was defeated (standing for the electorate of Waipawa). He then represented the Napier electorate from 1884 to 1890, when he retired. He was appointed to the Legislative Council on 20 January 1891 and served until his death on 6 October 1917. He was appointed to the Council as one of seven new members (including Harry Atkinson himself) appointed to the Council by the outgoing fourth Atkinson Ministry; a move regarded by Liberals as a stacking of the upper house against the new government. Ormond was baptised on 28 June 1831. He came from Wallingford, Oxfordshire, (then Berkshire), England, and established a homestead called Wallingford in Central Hawke's Bay in 1847, which became a major farming station. Businessman and farmer Sir John Ormond, politician and farmer Tiaki Omana, and politician and Historic Places Trust chairman Ormond Wilson were his grandsons. His brother-in-law and husband of his sister was the Governor of Jamaica, Edward John Eyre. His second great-granddaughter is the Headmistress, Ormond Felicity Lusk. He married Hannah Richardson on 4 December 1860, the sister of George Edward Gordon Richardson. He died on 6 October 1917 at his home 'Tintagel' in Napier."
 }, {
-  "entityIndex" : "10_entity8761",
+  "entityIndex" : "6_entity5260",
   "entityUrl" : "http://dbpedia.org/resource/John_Luke_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -109,7 +65,7 @@
   "nouns" : [ "politician", "brother" ],
   "text" : "Sir John-Pearce Luke CMG (16 July 1858 – 7 December 1931) was a New Zealand politician. Luke was Mayor of Wellington from 1913–1921 and Member of Parliament for Wellington Suburbs 1908–1911 and Wellington North 1918–1928. His brother Charles Manley Luke had previously also been Mayor of Wellington in 1895. Sir John Pearce was nicknamed Peanut because he was short."
 }, {
-  "entityIndex" : "11_entity8944",
+  "entityIndex" : "7_entity5393",
   "entityUrl" : "http://dbpedia.org/resource/Joseph_Tole",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -120,7 +76,7 @@
   "nouns" : [ "teacher", "guidance", "politician" ],
   "text" : "Joseph Augustus Tole KC (1846 – 13 December 1920) was a 19th-century New Zealand politician, and Minister of Justice from 1884 to 1887. He was born in 1846 in Wakefield, Yorkshire, England. He came to Auckland with his parents, John Tole and Margaret O'Halloran. He attended St Peter's School under the guidance of his teacher, Richard O'Sullivan. From St Peter's School, he knew John Sheehan. He married Eleanor Blanche Mary Lewis in Auckland on 4 November 1882. He represented the Auckland electorate of Eden from 1876 general election (held on 6 January) until 1887, when he contested the Newton electorate. The two other candidates were Edward Withy (a political novice who, after early retirement from business, had emigrated with his large family to Auckland in 1884) and Henry Thomas Garrett. Tole and Garrett were liberal politicians, whilst Withy was a conservative. The liberal vote was split, and Tole, Withy and Garrett received 606, 701 and 170 votes, respectively, with Withy thus elected. In 1893, he became Crown Prosecutor at Auckland and remained in that role until his death. He became a King's Counsel in 1907. His death on 13 December 1920 came suddenly."
 }, {
-  "entityIndex" : "12_entity8963",
+  "entityIndex" : "8_entity5404",
   "entityUrl" : "http://dbpedia.org/resource/James_Thomas_Hogan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -131,7 +87,7 @@
   "nouns" : [ "trade", "secretary", "railway", "union", "machinist" ],
   "text" : "James Thomas Hogan (1 December 1874 – 1 January 1953) was an Independent Member of Parliament for two electorates in the North Island of New Zealand. Born in Wanganui, Hogan was a machinist in the railway workshops, and a trade union secretary."
 }, {
-  "entityIndex" : "13_entity9034",
+  "entityIndex" : "9_entity5464",
   "entityUrl" : "http://dbpedia.org/resource/Jack_Massey_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -142,7 +98,7 @@
   "nouns" : [ "politician" ],
   "text" : "John Norman (Jack) Massey (1885 – 12 December 1964) was a New Zealand politician of the Reform Party and then the National Party."
 }, {
-  "entityIndex" : "14_entity9045",
+  "entityIndex" : "10_entity5471",
   "entityUrl" : "http://dbpedia.org/resource/John_Parkin_Taylor",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -153,7 +109,7 @@
   "nouns" : [ "runholder", "homestead", "politician", "merchant", "farmer", "family", "life", "sheep" ],
   "text" : "John Parkin Taylor (1812 – 12 August 1875) was a 19th-century New Zealand runholder, and a politician in Otago and Southland. In his early life, Taylor lived in various countries and studied languages in Germany. He worked as a merchant and got married when he returned to England. Taylor's family emigrated to New Zealand in 1849 and he was a sheep farmer in various parts of the South Island before finally settling on a run near Riverton in Southland, where he had his homestead 'Waldeck' built. He entered the House of Representatives for the Dunedin Country electorate through a by-election in 1858 but fell out with many of his constituents over a broken election promise, as he helped the Southland Province to break away from the Otago Province. He eventually became Southland's second Superintendent and served from 1865 to 1869, and also represented an electorate on the Southland Provincial Council for a few months. In 1865, he was appointed to the New Zealand Legislative Council and with one break in membership due to non-attendance, he remained a member until his death. He served for one year as mayor of Riverton (1872–73) but did not stand again due to poor health. Taylor had a painful illness and died in 1875."
 }, {
-  "entityIndex" : "15_entity9451",
+  "entityIndex" : "11_entity5669",
   "entityUrl" : "http://dbpedia.org/resource/John_Patterson_(Southern_Maori_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -164,7 +120,7 @@
   "nouns" : [ "coast", "member", "electorate", "man", "parliament" ],
   "text" : "Hōne Paratene Tamanuiarangi (c.1821 – 30 April 1899), also known as John Patterson, was a Māori member of Parliament in New Zealand. He was one of four Māori elected in 1868 for the new Māori electorates in the New Zealand parliament He represented the electorate of Southern Maori from 1868 to 1870 when he retired. As a young man, Patterson was involved in whaling with Philip Ryan at Oashore Bay, south of Lake Forsyth on the southern coast of Banks Peninsula. He also participated in the West Coast Gold Rush of the mid-1860s. He died aged 78 years at Kaiapoi in 1899."
 }, {
-  "entityIndex" : "16_entity9523",
+  "entityIndex" : "12_entity5694",
   "entityUrl" : "http://dbpedia.org/resource/James_McColl_Dickson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -175,7 +131,7 @@
   "nouns" : [ "election", "electorate" ],
   "text" : "(For other people named James Dickson, see James Dickson.) James McColl Dickson (1854–1937) was a Reform Party Member of Parliament in New Zealand. He won the Dunedin electorate of Chalmers in the 1914 general election, and held it to 1928, when he retired."
 }, {
-  "entityIndex" : "17_entity9524",
+  "entityIndex" : "13_entity5695",
   "entityUrl" : "http://dbpedia.org/resource/James_Samuel_Dickson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -186,7 +142,7 @@
   "nouns" : [ "ballot", "seat", "election", "Labour", "electorate", "support" ],
   "text" : "James Samuel Dickson (1870 – 18 October 1939) was a Reform Party Member of Parliament in New Zealand. Born in Belfast, County Antrim, in 1870, Dickson emigrated to New Zealand in about 1887. He won the Auckland electorate of Parnell in the 1911 general election, winning on the second ballot against a senior Liberal from Wellington, Sir John Findlay, with some support from Labour. He held the seat until 1928, when he was defeated. He was the chief government whip from 1919 to 1928, and also served as chair of the railways committee and the labour bills committee. Outside of parliament, Dickson served on the Remuera Road Board for 15 years, including five years as chairman. He was also a member of the Auckland City Council, the Auckland Drainage Board, the Auckland Hospital Board and the Manukau County Council. He died in Auckland in 1939, and was buried at Purewa Cemetery."
 }, {
-  "entityIndex" : "18_entity9527",
+  "entityIndex" : "14_entity5698",
   "entityUrl" : "http://dbpedia.org/resource/James_Benn_Bradshaw",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -197,7 +153,7 @@
   "nouns" : [ "member", "parliament", "region" ],
   "text" : "James Benn Bradshaigh Bradshaw (22 September 1832 – 1 September 1886) was a 19th-century member of parliament in the Otago region of New Zealand."
 }, {
-  "entityIndex" : "19_entity9532",
+  "entityIndex" : "15_entity5703",
   "entityUrl" : "http://dbpedia.org/resource/John_Bird_Hine",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -208,7 +164,7 @@
   "nouns" : [ "Masters", "election", "electorate", "Medal", "region" ],
   "text" : "John Bird Hine (1868 – 4 February 1954) was a Reform Party Member of Parliament in the Taranaki region of New Zealand. He was Minister of Internal Affairs from 1919 to 1920 in the Reform Government. He won the Stratford electorate in the 1908 general election, and held it to 1919, when he was defeated by Robert Masters of the Liberal Party. In 1935, he was awarded the King George V Silver Jubilee Medal. Hine died on 4 February 1954, and was buried at Kopuatama Cemetery in Stratford."
 }, {
-  "entityIndex" : "20_entity9540",
+  "entityIndex" : "16_entity5711",
   "entityUrl" : "http://dbpedia.org/resource/James_Escott",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -219,18 +175,7 @@
   "nouns" : [ "electorate" ],
   "text" : "James Henry Escott (17 April 1872 – 28 July 1916) was a Reform Party Member of Parliament in New Zealand. He won the Pahiatua electorate in 1911, and held it until he died in 1916."
 }, {
-  "entityIndex" : "21_entity9652",
-  "entityUrl" : "http://dbpedia.org/resource/Joseph_Linklater",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "Manawatu" ]
-  },
-  "words" : [ "--", "12", "Linklater", "-LRB-", "25", "March", "April", ".", "1876", "OBE", "Party", "1961", "Joseph", "-RRB-", "Reform", "Member", "Parliament" ],
-  "adjectives" : [ ],
-  "nouns" : [ ],
-  "text" : "Joseph Linklater OBE (12 March 1876 – 25 April 1961) was a Reform Party Member of Parliament."
-}, {
-  "entityIndex" : "22_entity9659",
+  "entityIndex" : "17_entity5801",
   "entityUrl" : "http://dbpedia.org/resource/John_Bitchener",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -241,7 +186,7 @@
   "nouns" : [ "minister", "Government", "Reform", "cabinet" ],
   "text" : "John Bitchener OBE (1864 – 10 March 1952) was a Reform Party Member of Parliament in New Zealand. He was a cabinet minister from 1933 to 1935 in the Reform Government of New Zealand."
 }, {
-  "entityIndex" : "23_entity9664",
+  "entityIndex" : "18_entity5806",
   "entityUrl" : "http://dbpedia.org/resource/John_Stevens_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -252,7 +197,7 @@
   "nouns" : [ ],
   "text" : "John Stevens (1845 – 31 July 1916) was a Liberal Party Member of Parliament in New Zealand."
 }, {
-  "entityIndex" : "24_entity9695",
+  "entityIndex" : "19_entity5828",
   "entityUrl" : "http://dbpedia.org/resource/James_Clark_Brown",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -263,7 +208,7 @@
   "nouns" : [ "electorate" ],
   "text" : "James Clark Brown (1830–1891) was a 19th-century Member of Parliament in Otago, New Zealand. He represented the Bruce electorate in 1870 (from 21 March to 30 December), and then the Tuapeka electorate from 1871 to 1890, when he was defeated."
 }, {
-  "entityIndex" : "25_entity9735",
+  "entityIndex" : "20_entity5856",
   "entityUrl" : "http://dbpedia.org/resource/John_Munro_(New_Zealand_politician_born_c._1798)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -274,7 +219,7 @@
   "nouns" : [ ],
   "text" : "John Munro (1798/99 – 24 April 1879) was a 19th-century Member of Parliament in the Auckland Province, New Zealand."
 }, {
-  "entityIndex" : "26_entity9736",
+  "entityIndex" : "21_entity5857",
   "entityUrl" : "http://dbpedia.org/resource/James_Balfour_Wemyss",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -285,7 +230,7 @@
   "nouns" : [ ],
   "text" : "James Balfour Wemyss (1828–1909) was a 19th-century Member of Parliament in Nelson, New Zealand."
 }, {
-  "entityIndex" : "27_entity9737",
+  "entityIndex" : "22_entity5858",
   "entityUrl" : "http://dbpedia.org/resource/James_Burne_Ferguson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -296,7 +241,7 @@
   "nouns" : [ "electorate", "by-election" ],
   "text" : "James Burne Ferguson was a 19th-century Member of Parliament in New Zealand. He represented the Wairarapa and Hawkes Bay electorate from 1858 to 1860, when he resigned. In the by-election on 22 July 1858, he was elected unopposed."
 }, {
-  "entityIndex" : "28_entity9738",
+  "entityIndex" : "23_entity5859",
   "entityUrl" : "http://dbpedia.org/resource/James_Williamson_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -307,7 +252,7 @@
   "nouns" : [ "merchant", "land", "speculator" ],
   "text" : "James Williamson (1814 – 22 March 1888) was a 19th-century Member of Parliament, merchant and land speculator in the Auckland Region, New Zealand."
 }, {
-  "entityIndex" : "29_entity9740",
+  "entityIndex" : "24_entity5861",
   "entityUrl" : "http://dbpedia.org/resource/John_Studholme",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -318,7 +263,7 @@
   "nouns" : [ "electorate", "region" ],
   "text" : "John Studholme (1829–1903) was a 19th-century Member of Parliament in the Canterbury region of New Zealand. He represented the Kaiapoi electorate from 1867 to 1874, when he resigned. He then represented the Gladstone electorate from 1879 to 1881, when he retired. He stood for Ashburton in 1902, and came second."
 }, {
-  "entityIndex" : "30_entity9749",
+  "entityIndex" : "25_entity5870",
   "entityUrl" : "http://dbpedia.org/resource/John_Lewthwaite",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -329,7 +274,7 @@
   "nouns" : [ "Region", "electorate" ],
   "text" : "John Lewthwaite (1816–1892) was a 19th-century Member of Parliament in the Taranaki Region of New Zealand. He represented the Grey and Bell electorate from 1856 to 1858, when he resigned."
 }, {
-  "entityIndex" : "31_entity9755",
+  "entityIndex" : "26_entity5874",
   "entityUrl" : "http://dbpedia.org/resource/James_Fulton_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -340,7 +285,7 @@
   "nouns" : [ "cricketer" ],
   "text" : "James Fulton (27 June 1830 – 20 November 1891) was a 19th-century Member of Parliament in Otago, New Zealand and a cricketer."
 }, {
-  "entityIndex" : "32_entity9758",
+  "entityIndex" : "27_entity5877",
   "entityUrl" : "http://dbpedia.org/resource/James_Sutter",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -351,7 +296,7 @@
   "nouns" : [ "member", "electorate", "parliament" ],
   "text" : "James Hutchinson Sutter (1818 – 13 April 1903) was a 19th-century member of parliament in Canterbury, New Zealand. He represented the Gladstone electorate from 1881 to 1887, when he retired. He was Mayor of Timaru at various times. He died on 13 April 1903."
 }, {
-  "entityIndex" : "33_entity9761",
+  "entityIndex" : "28_entity5880",
   "entityUrl" : "http://dbpedia.org/resource/Joseph_Shephard",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -362,7 +307,7 @@
   "nouns" : [ ],
   "text" : "Joseph Shephard (1822 – 25 October 1898) was a 19th-century Member of Parliament from Nelson, New Zealand."
 }, {
-  "entityIndex" : "34_entity9762",
+  "entityIndex" : "29_entity5881",
   "entityUrl" : "http://dbpedia.org/resource/John_Lillie_Gillies",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -373,7 +318,7 @@
   "nouns" : [ "65y", "electorate" ],
   "text" : "John Lillie Gillies (1832 – 27 September 1897) was a 19th-century Member of Parliament from the Otago Region of New Zealand. He was from Rothesay, Bute on the Isle of Bute, Scotland. He represented the Waikouaiti electorate from 1873 to 1875, when he resigned. He was Secretary to the Harbour Board when he died aged 65y, and had been Provincial Treasurer and Speaker of the Otago Provincial Council. He was the brother of Thomas Gillies and Robert Gillies."
 }, {
-  "entityIndex" : "35_entity9767",
+  "entityIndex" : "30_entity5885",
   "entityUrl" : "http://dbpedia.org/resource/John_Munro_(New_Zealand_politician_born_1839)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -384,7 +329,7 @@
   "nouns" : [ ],
   "text" : "John Munro (1839 – 23 November 1910) was a 19th-century Member of Parliament from the West Coast, New Zealand."
 }, {
-  "entityIndex" : "36_entity9773",
+  "entityIndex" : "31_entity5891",
   "entityUrl" : "http://dbpedia.org/resource/James_Shanks",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -395,7 +340,7 @@
   "nouns" : [ "electorate" ],
   "text" : "James Stewart Shanks (1835–1911) was a 19th-century Member of Parliament from the Otago Region, New Zealand. He represented the Mataura electorate from 1879 to 1881, when he retired."
 }, {
-  "entityIndex" : "37_entity9811",
+  "entityIndex" : "32_entity5919",
   "entityUrl" : "http://dbpedia.org/resource/John_William_Williams",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -406,7 +351,7 @@
   "nouns" : [ "electorate" ],
   "text" : "John William Williams (6 April 1827 – 27 April 1904) was a 19th-century Member of Parliament from Northland, New Zealand. Williams was born in Pahia on 6 April 1827. He was one of the sons of Marianne Williams and the pioneering New Zealand missionary Archdeacon Henry Williams. He represented the Mongonui and Bay of Islands electorate from 1873 to 1879, when he was defeated. He married Sarah Busby (1835–1913), daughter of James Busby. They had 11 children including Kenneth Williams, who became a politician. He died in Napier on 27 April 1904."
 }, {
-  "entityIndex" : "38_entity9812",
+  "entityIndex" : "33_entity5920",
   "entityUrl" : "http://dbpedia.org/resource/James_Temple_Fisher",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -417,18 +362,7 @@
   "nouns" : [ "electorate" ],
   "text" : "James Temple Fisher (1828 – 3 January 1905) was a 19th-century Member of Parliament from Canterbury, New Zealand. Fisher arrived in New Zealand on the Charlotte Jane, one of the First Four Ships. He represented the Heathcote electorate from 1876 to 1881, when he was defeated. He was Postmaster-General and Commissioner of Telegraphs in the Grey Ministry, from 15 October 1877 to 8 October 1879. He died on 3 January 1905 at his home in south Colombo Street in the Heathcote district. He is buried at Barbadoes Street Cemetery."
 }, {
-  "entityIndex" : "39_entity9818",
-  "entityUrl" : "http://dbpedia.org/resource/Joseph_Dargaville",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "http://dbpedia.org/resource/Auckland_West", "Auckland West" ]
-  },
-  "words" : [ "--", "New", "-LRB-", "27", "McMullen", "Auckland", ",", "Dargaville", ".", "October", "Zealand", "1896", "Joseph", "-RRB-", "1837", "Member", "Parliament", "19th-century" ],
-  "adjectives" : [ "19th-century" ],
-  "nouns" : [ ],
-  "text" : "Joseph McMullen Dargaville (1837 – 27 October 1896) was a 19th-century Member of Parliament from Auckland, New Zealand."
-}, {
-  "entityIndex" : "40_entity9820",
+  "entityIndex" : "34_entity5926",
   "entityUrl" : "http://dbpedia.org/resource/John_Holmes_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -439,7 +373,7 @@
   "nouns" : [ "election", "electorate" ],
   "text" : "John Holmes (1831–1910) was a 19th-century Member of Parliament from Christchurch in the Canterbury Region of New Zealand. He represented the Christchurch South electorate from 1881 to 1887, when he retired. In the 1884 election, he was challenged by Thomas Joynt, whom he defeated with 638 votes to 600."
 }, {
-  "entityIndex" : "41_entity4445",
+  "entityIndex" : "35_entity2762",
   "entityUrl" : "http://dbpedia.org/resource/Edwin_Perry",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -450,7 +384,7 @@
   "nouns" : [ "politician" ],
   "text" : "Edwin Jock Perry is a New Zealand politician. He was a New Zealand First Member of Parliament from 2002 to 2005."
 }, {
-  "entityIndex" : "42_entity4656",
+  "entityIndex" : "36_entity2849",
   "entityUrl" : "http://dbpedia.org/resource/Ernest_Lee",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -461,7 +395,7 @@
   "nouns" : [ "politician", "lawyer" ],
   "text" : "Ernest Page Lee (1862 – 19 February 1932) was a New Zealand lawyer and politician of the Reform Party."
 }, {
-  "entityIndex" : "43_entity4679",
+  "entityIndex" : "37_entity2861",
   "entityUrl" : "http://dbpedia.org/resource/Edward_Conolly_(judge)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -472,7 +406,7 @@
   "nouns" : [ "son", "politician", "physician", "judge", "electorate", "lawyer" ],
   "text" : "Edward Tennyson Conolly (31 August 1822 – 8 November 1908) was a New Zealand lawyer, politician and judge. Conolly was born in Chichester, Sussex, England on 31 August 1822, and was the son of noted physician John Conolly. He represented the Marlborough electorate of Picton in Parliament from 1881 to 1887, when he retired. He was the Minister of Justice 1882–1884 and Attorney-General 1883–1884."
 }, {
-  "entityIndex" : "44_entity4806",
+  "entityIndex" : "38_entity2946",
   "entityUrl" : "http://dbpedia.org/resource/Ewen_Alison",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -483,7 +417,7 @@
   "nouns" : [ "politician", "Council" ],
   "text" : "Ewen William Alison (29 February 1852 – 6 June 1945) was a conservative politician who sat in both the House of Representatives (1902–1908) and the Legislative Council (1918–1932) of New Zealand."
 }, {
-  "entityIndex" : "45_entity4819",
+  "entityIndex" : "39_entity2953",
   "entityUrl" : "http://dbpedia.org/resource/Ewen_McLennan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -494,7 +428,7 @@
   "nouns" : [ "MP", "death", "electorate", "by-election" ],
   "text" : "Ewen Donald McLennan (1861–1948) was a Reform Party Member of Parliament. He won the Franklin electorate in a 1925 by-election after the death of the previous MP, Prime Minister William Massey and retired in 1928."
 }, {
-  "entityIndex" : "46_entity4852",
+  "entityIndex" : "40_entity2978",
   "entityUrl" : "http://dbpedia.org/resource/Edward_Healy",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -505,7 +439,7 @@
   "nouns" : [ ],
   "text" : "Edward Francis Healy (28 September 1869 – 23 August 1954) was a United Party Member of Parliament in New Zealand."
 }, {
-  "entityIndex" : "47_entity4854",
+  "entityIndex" : "41_entity2979",
   "entityUrl" : "http://dbpedia.org/resource/Edward_George_Wright",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -516,7 +450,7 @@
   "nouns" : [ ],
   "text" : "Edward George Wright (14 June 1831 – 12 August 1902) was an independent conservative Member of Parliament in New Zealand."
 }, {
-  "entityIndex" : "48_entity4868",
+  "entityIndex" : "42_entity2984",
   "entityUrl" : "http://dbpedia.org/resource/Ebenezer_Hamlin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -527,7 +461,7 @@
   "nouns" : [ "Rev", "son", "member", "parliament" ],
   "text" : "Ebenezer Hamlin (1844 – 4 June 1900) was a member of parliament in New Zealand, and an independent conservative. Hamlin was born in Orua on the Manukau Harbour to the Rev James Hamlin, a missionary who had arrived in New Zealand in 1823 with the Church Missionary Society. He was the ninth and youngest son of the reverent. He fought in the New Zealand Wars in the 1860s, and was a Major in the Territorial Army. On 28 April 1868, Hamlin married Sarah Grace Barriball, the daughter of Charles Barriball of Waiuku, at his father's house near Waiuku (Barriball Road in Waiuku commemorates the location of the family's land). Electors from Waiuku presented a requisition to Hamlin in November 1869 to stand for election in the Raglan electorate for the Auckland Provincial Council, which he accepted. Three representatives were elected on 20 December, and of four candidates, Joseph May came first and Hamlin came second. Hamlin remained a member of the provincial council until the abolition of provincial government in 1875. He represented the South Auckland seats of Franklin in the New Zealand House of Representatives from 1876 to 1881; and then the replacement electorate of Franklin South from 1881 to 1890. He then represented the reconstituted Franklin electorate from 1890 to 1893 when he retired. He was never defeated. He served as Chairman of Committees from 1882 to 1890. He died at his residence in the Auckland suburb of Remuera on 4 June 1900. He was survived by his wife, three sons, and seven daughters."
 }, {
-  "entityIndex" : "49_entity4880",
+  "entityIndex" : "43_entity2993",
   "entityUrl" : "http://dbpedia.org/resource/Edwin_Blake",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -538,7 +472,7 @@
   "nouns" : [ ],
   "text" : "Edwin Blake (1830 – 18 March 1914) was a 19th-century Liberal Party Member of Parliament in Canterbury, New Zealand."
 }, {
-  "entityIndex" : "50_entity4888",
+  "entityIndex" : "44_entity2998",
   "entityUrl" : "http://dbpedia.org/resource/Edward_McGlashan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -549,7 +483,7 @@
   "nouns" : [ "education", "trade", "father", "book", "family" ],
   "text" : "Edward McGlashan (12 December 1817 – 31 July 1889) was a 19th-century Member of Parliament in Dunedin, Otago, New Zealand. McGlashan was born in Edinburgh, Scotland in 1817. His father's family were publishers to the University of Edinburgh. After receiving a good education, McGlashan worked in the book trade. Inspired by his brother's work as secretary for the Otago Association, he decided to emigrate and left in 1848. He went to Adelaide in South Australia, then Melbourne and finally Sydney, where he sold the books that he took with him for a good profit. There, he purchased provisions that he took with himself to Dunedin in 1850, which he could once again sell at a good profit. In 1853, he was joined in Dunedin by his older brother, John McGlashan. Edward McGlashan worked at first as a registrar at the Supreme Court under Justice Sidney Stephen. He then leased a flour mill from William Henry Valpy on the Water of Leith. He also had a store and auction room in Princes Street. From 1858 until 1862, when the Otago Gold Rush began, he was in partnership with W. Carr Young, and they traded as Young and McGlashan. McGlashan visited England in 1862. Edward McGlashan stood for election in the first Otago Provincial Council, and represented the Dunedin Country electorate from 28 September 1853 to 15 September 1855. He was unsuccessful at some later provincial elections. In 1865, he contested the superintendancy, but was beaten by Thomas Dick. He would later represent the North Harbour electorate in the 6th and 7th council, from 17 March 1871 until the abolition of the provincial governments on 31 October 1876. He represented the City of Dunedin electorate from the 1860 general election to 1862 when he resigned; and then the Roslyn electorate from the 1871 general election to 1875, when he resigned. McGlashan had various business interests later in life. He dealt in stock and farmland, and owned Mount Stokes station. He owned steamers and was milling in The Catlins. He started to manufacture paper, but was unsuccessful in making it from tussock grasses. He moved to Timaru for some years and was a director of a number of companies, including a major shareholder in the New Zealand Shipping Company. After a long visit to England from 1881, he returned to Dunedin to live in St Clair. McGlashan married twice, and his second wife was Henrietta, the daughter of George Bell; they married on 10 March 1880. McGlashan's health was poor for his last few years. He died on 31 July 1889 at his residence in St Clair, and was survived by his second wife."
 }, {
-  "entityIndex" : "51_entity4892",
+  "entityIndex" : "45_entity3002",
   "entityUrl" : "http://dbpedia.org/resource/Edward_Pearce_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -560,7 +494,7 @@
   "nouns" : [ "Government", "disambiguation", "member", "chairman", "City", "electorate" ],
   "text" : "(For other people named Edward Pearce, see Edward Pearce (disambiguation).) Edward Pearce (1832 – 13 October 1922) was a 19th-century Member of Parliament in Wellington, New Zealand. He represented the City of Wellington electorate from 1871 to 1877, when he resigned. He was the Government appointed member of the Wellington Harbour Board for 16 years and its chairman for 5 years. Pearce emigrated to New Zealand in 1861, but returned to England after 1899. He died at Cheltenham, England, on 13 October 1922."
 }, {
-  "entityIndex" : "52_entity4895",
+  "entityIndex" : "46_entity3004",
   "entityUrl" : "http://dbpedia.org/resource/Edmund_Barff",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -571,7 +505,7 @@
   "nouns" : [ "month", "requisition", "part", "county", "member", "electorate" ],
   "text" : "Edmund Barff (5 March 1833 – 29 June 1882) was a 19th-century Member of Parliament from the West Coast, New Zealand. Barff was born in the English county of Kent on 5 March 1833, probably at Lee (now part of Greater London), where he was baptised five months later. He first came to New Zealand to join the West Coast Gold Rush in the mid-1860s. The West Coast was initially part of the Canterbury Province and following a requisition in October 1865, he was first elected as the member of the West Coast Goldfields electorate in the following month. Barff and Evan Prosser, who was elected at the same time, were the first members from the West Coast on the Canterbury Provincial Council. In July 1866, Barff became a member for the Westland electorate. He remained a member of the Canterbury Provincial Council until December 1867. The Westland district separated from the Canterbury Province on 1 January 1868, and Barff joined the Westland County, which was the predecessor to Westland Province. During the existence of Westland County (January 1868 – November 1873), Barff represented the ridings of Westland, Ōkārito, and Arahura. He did not join the Westland Provincial Council, but stood for the first election in January 1874 as one of three candidates in the two-member Arahura electorate (incorrectly referred to as 'Waimea' in some sources). Much to his surprise, he was defeated with 120 votes by Richard Seddon and Houlahan, who were equal at 145 votes. He represented the Westland South electorate in the House of Representatives from 1868 to 1870, when he was defeated for Hokitika by John White. He then represented the Hokitika electorate from 1876 to 1879, when he was again defeated. Barff died in Kumara in 1882; he had never married."
 }, {
-  "entityIndex" : "53_entity4918",
+  "entityIndex" : "47_entity3024",
   "entityUrl" : "http://dbpedia.org/resource/Eparaima_Te_Mutu_Kapa",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -582,7 +516,7 @@
   "nouns" : [ "member", "parliament" ],
   "text" : "Eparaima Te Mutu Kapa (1842 – 23 October 1924) was a 19th-century Māori member of the New Zealand parliament."
 }, {
-  "entityIndex" : "54_entity18657",
+  "entityIndex" : "48_entity11504",
   "entityUrl" : "http://dbpedia.org/resource/Walter_Lee_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -593,7 +527,7 @@
   "nouns" : [ "politician" ],
   "text" : "Walter Lee (1811–1887) was a 19th-century New Zealand politician."
 }, {
-  "entityIndex" : "55_entity18664",
+  "entityIndex" : "49_entity11507",
   "entityUrl" : "http://dbpedia.org/resource/William_Cutten",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -604,40 +538,7 @@
   "nouns" : [ "politician", "region" ],
   "text" : "William Henry Cutten (10 April 1822 – 30 June 1883) was a New Zealand politician from the Otago region."
 }, {
-  "entityIndex" : "56_entity18667",
-  "entityUrl" : "http://dbpedia.org/resource/William_Wells_(New_Zealand_politician)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "http://dbpedia.org/resource/Suburbs_of_Nelson", "Suburbs of Nelson" ]
-  },
-  "words" : [ "--", "New", "-LRB-", "politician", "William", ".", "1810", "Zealand", "1893", "-RRB-", "Wells", "January", "21" ],
-  "adjectives" : [ ],
-  "nouns" : [ "politician" ],
-  "text" : "William Wells (1810 – 21 January 1893) was a New Zealand politician."
-}, {
-  "entityIndex" : "57_entity18755",
-  "entityUrl" : "http://dbpedia.org/resource/William_Gisborne",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "Totara" ]
-  },
-  "words" : [ "de", "-LRB-", "secrétaire", "était", "publiques", "nom", "1898", "Gisborne", "des", "affaires", "son", "général", "1872", "La", "1871", "1870", "porte", "à", "13", "Nouvelle-Zélande", "ville", "janvier", "août", "ministre", "William", "-", ".", "et", "colonisation", "la", "7", "-RRB-", "1825", "1869" ],
-  "adjectives" : [ ],
-  "nouns" : [ "son", "général", "secrétaire", "janvier", "était", "août", "nom" ],
-  "text" : "William Gisborne (13 août 1825 - 7 janvier 1898) était secrétaire général de la colonisation de la Nouvelle-Zélande de 1869 à 1872 et ministre des affaires publiques de 1870 à 1871. La ville de Gisborne porte son nom."
-}, {
-  "entityIndex" : "58_entity18908",
-  "entityUrl" : "http://dbpedia.org/resource/William_Herries",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "Bay of Plenty", "Tauranga" ]
-  },
-  "words" : [ "--", "22", "New", "-LRB-", "politician", "19", "William", "Herries", "April", ".", "KCMG", "Zealand", "Herbert", "-RRB-", "1859", "English-born", "Sir", "February", "1923" ],
-  "adjectives" : [ "English-born" ],
-  "nouns" : [ "politician" ],
-  "text" : "Sir William Herbert Herries KCMG (19 April 1859 – 22 February 1923) was an English-born New Zealand politician."
-}, {
-  "entityIndex" : "59_entity18920",
+  "entityIndex" : "50_entity11633",
   "entityUrl" : "http://dbpedia.org/resource/William_Brown_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -648,7 +549,7 @@
   "nouns" : [ "newspaper", "politician", "merchant", "proprietor" ],
   "text" : "William Brown (died 19 January 1898) was a 19th-century New Zealand politician, merchant and newspaper proprietor. Brown was born in Angus, Scotland, in 1809 or 1810. He came to New Zealand on 2 February 1840, arriving in the Bay of Islands."
 }, {
-  "entityIndex" : "60_entity18958",
+  "entityIndex" : "51_entity11662",
   "entityUrl" : "http://dbpedia.org/resource/William_Henry_Eyes",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -659,7 +560,7 @@
   "nouns" : [ "year", "politician", "Superintendent", "electorate" ],
   "text" : "William Henry Eyes (1819 – 12 April 1907) was a British-born, New Zealand politician who was the fifth Superintendent of the Marlborough Province, and who represented the Wairau electorate in the New Zealand House of Representatives for many years. Born in England, Eyes had emigrated to Australia in 1839. He was jailed at Parramatta Gaol for a year before he was pardoned, after which he immediately emigrated to New Zealand."
 }, {
-  "entityIndex" : "61_entity18989",
+  "entityIndex" : "52_entity11683",
   "entityUrl" : "http://dbpedia.org/resource/Walter_William_Massey",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -670,7 +571,7 @@
   "nouns" : [ "son", "death", "politician", "electorate", "by-election", "Medal", "brother" ],
   "text" : "Walter William Massey (1882 – 8 November 1959) was a New Zealand politician of the Reform Party. He represented the Hauraki electorate from the 1931 by-election (after the death of Arthur Hall), to 1935 when he was defeated by Charles Robert Petrie of the Labour Party. He was a son of Prime Minister William Massey, and brother of Jack Massey who represented the Franklin electorate. In 1935, he was awarded the King George V Silver Jubilee Medal."
 }, {
-  "entityIndex" : "62_entity19094",
+  "entityIndex" : "53_entity11756",
   "entityUrl" : "http://dbpedia.org/resource/William_Henry_Dillon_Bell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -681,7 +582,7 @@
   "nouns" : [ "seat", "election", "service", "Horse", "action", "regiment", "composer/musician" ],
   "text" : "(For the English/South African composer/musician, see William Henry Bell.) William Henry Dillon Bell (1 March 1884 – 31 July 1917) was a Reform Party Member of Parliament in New Zealand. He won the Wellington Suburbs and Country seat in the 1911 general election, and held it to 1914, when he retired and volunteered for service in World War I. He served in the Samoa Expeditionary Force, and was killed in action in Belgium on 31 July 1917 as a Captain with a King's regiment, the 1st King Edward's Horse. He was a son of Sir Francis Bell, a Reform Party leader and later the first New Zealand-born Prime Minister."
 }, {
-  "entityIndex" : "63_entity19121",
+  "entityIndex" : "54_entity11770",
   "entityUrl" : "http://dbpedia.org/resource/William_Fisher_Pearson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -692,7 +593,7 @@
   "nouns" : [ "electorate" ],
   "text" : "William Fisher Pearson (1854 – 3 July 1888) was a 19th-century Member of Parliament in New Zealand. He represented the Ashley electorate from 1881 to 1888, when he died."
 }, {
-  "entityIndex" : "64_entity19136",
+  "entityIndex" : "55_entity11783",
   "entityUrl" : "http://dbpedia.org/resource/William_Hunter_Reynolds",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -703,7 +604,7 @@
   "nouns" : [ "minister", "shipping", "brother-in-law", "electorate", "businessman", "cabinet" ],
   "text" : "William Hunter Reynolds (1 May 1822 – 1 April 1899) was a 19th-century businessman and Member of Parliament in Dunedin, Otago Region, New Zealand. He was a cabinet minister. He was involved in shipping, initially with his brother-in-law James Macandrew who had married Elizabeth Hunter Reynolds. He represented the Dunedin and Suburbs South electorate from 1863 to 1866, when the 3rd Parliament was dissolved. He then represented the City of Dunedin electorate in 1866 (resigned) and from 1867 to 1875. He then represented the Port Chalmers electorate (Port Chalmers was Dunedin’s port) from 1876 to 1878, when he resigned. He was appointed to the New Zealand Legislative Council on 30 April 1878, and served until he died. In 1893 Reynolds was at the centre of a drama that led to the passing of the Women's suffrage bill into law. Premier Seddon had expected to stop the bill in the upper house, but found that one more vote was needed. Thomas Kelly, a new Liberal Party councillor had left himself paired in favour of the measure, but Seddon obtained his consent by wire to change his vote. Seddon's manipulation so incensed two opposition councillors, Reynolds and Edward Cephas John Stevens that they changed sides and voted for the bill, allowing it to pass by 20 votes to 18 and so gave the vote to women. Reynolds married Rachel Pinkerton in 1856 and together raised nine children."
 }, {
-  "entityIndex" : "65_entity19157",
+  "entityIndex" : "56_entity11799",
   "entityUrl" : "http://dbpedia.org/resource/William_Girling",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -714,7 +615,7 @@
   "nouns" : [ "election", "electorate", "Medal" ],
   "text" : "William James Girling CBE (9 March 1882 – 7 September 1973) was a Reform Party Member of Parliament in New Zealand. He was elected to the Wairau electorate in the 1922 general election, but was defeated in 1928. He was elected as Mayor of Blenheim and served from 1945 to 1950. In 1935, he was awarded the King George V Silver Jubilee Medal. In the 1950 King's Birthday Honours, Girling was appointed a Commander of the Order of the British Empire for public services, especially in the Marlborough provincial district. He was appointed to the Legislative Council on 22 June 1950 as a member of the so-called suicide squad to vote for its abolition. Girling died in 1973 and was buried at Omaka Cemetery, Blenheim."
 }, {
-  "entityIndex" : "66_entity19211",
+  "entityIndex" : "57_entity11836",
   "entityUrl" : "http://dbpedia.org/resource/William_Waring_Taylor",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -725,7 +626,7 @@
   "nouns" : [ "election", "City", "electorate" ],
   "text" : "William Waring Taylor (1819–1903) was a 19th-century Member of Parliament in Wellington, New Zealand. He represented the City of Wellington electorate from the 1860 general election to 1870 when he retired."
 }, {
-  "entityIndex" : "67_entity19215",
+  "entityIndex" : "58_entity11839",
   "entityUrl" : "http://dbpedia.org/resource/William_Butler_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -736,7 +637,7 @@
   "nouns" : [ "commander", "ship", "sailing", "sea", "age", "whaler" ],
   "text" : "William Butler (1841 – 4 March 1875) was a 19th-century Member of Parliament in Auckland, New Zealand. Butler was born in England in 1841 and went to sea at a young age. By age 24, he was commander of a sailing ship that traded with Australia. He traded and was a whaler. He settled in Mangonui (then spelled Mongonui) in Northland, New Zealand and his children were born there from 1841. He represented the Mongonui electorate from 1861 to 1866, when he retired. Butler died on 4 March 1875."
 }, {
-  "entityIndex" : "68_entity19216",
+  "entityIndex" : "59_entity11840",
   "entityUrl" : "http://dbpedia.org/resource/William_Swanson_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -747,7 +648,7 @@
   "nouns" : [ "minister", "death", "electorate", "position" ],
   "text" : "William Swanson (1819 – 23 April 1903) was a 19th-century Member of Parliament in Auckland, New Zealand. He represented the Newton electorate from 1871 to 1884, when he retired. He was a minister in the Vogel Ministry, 1876 and Grey Ministry 1877–1879 as a Member of the Executive Council. He was then appointed to the Legislative Council in 1885, a position he held until his death."
 }, {
-  "entityIndex" : "69_entity19220",
+  "entityIndex" : "60_entity11844",
   "entityUrl" : "http://dbpedia.org/resource/William_Baldwin_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -758,7 +659,7 @@
   "nouns" : [ "region" ],
   "text" : "William Baldwin, born John Baldwin (1836 – 30 July 1917) was a 19th-century Member of Parliament in the Otago region of New Zealand."
 }, {
-  "entityIndex" : "70_entity19223",
+  "entityIndex" : "61_entity11847",
   "entityUrl" : "http://dbpedia.org/resource/William_Speight",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -769,7 +670,7 @@
   "nouns" : [ ],
   "text" : "William James Speight (1843 – 24 April 1919) was a 19th-century Member of Parliament in Auckland, New Zealand."
 }, {
-  "entityIndex" : "71_entity19224",
+  "entityIndex" : "62_entity11848",
   "entityUrl" : "http://dbpedia.org/resource/William_Rowe_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -780,7 +681,7 @@
   "nouns" : [ "committee", "electorate" ],
   "text" : "William Rowe (1819–1886) was a 19th-century Member of Parliament in the Auckland Region, New Zealand. He represented the Thames electorate from 1876 to 1879 when he retired. In 1876 he polled second in Thames to Sir George Grey, who had also stood for the Auckland West electorate. A committee decided that Grey was validly elected for Thames as well as Auckland West, but that Grey had to decide which electorate he wished to represent. Grey had originally chosen Auckland West, but then decided that he wished to represent Thames and asked that a by-election be held in Auckland West for the vacated seat."
 }, {
-  "entityIndex" : "72_entity19226",
+  "entityIndex" : "63_entity11850",
   "entityUrl" : "http://dbpedia.org/resource/William_Archibald_Murray",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -791,7 +692,7 @@
   "nouns" : [ "electorate" ],
   "text" : "William Archibald Murray (1832–1900) was a 19th-century Member of Parliament in Otago, New Zealand. He represented the Bruce electorate from 1871 to 1881, when he was defeated."
 }, {
-  "entityIndex" : "73_entity19229",
+  "entityIndex" : "64_entity11853",
   "entityUrl" : "http://dbpedia.org/resource/William_Adams_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -802,7 +703,7 @@
   "nouns" : [ "Superintendent" ],
   "text" : "William Adams (21 March 1811 – 23 July 1884) was a 19th-century Member of Parliament from Marlborough, New Zealand and the first Superintendent of Marlborough Province."
 }, {
-  "entityIndex" : "74_entity19230",
+  "entityIndex" : "65_entity11854",
   "entityUrl" : "http://dbpedia.org/resource/William_Henry_Harrison_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -813,7 +714,7 @@
   "nouns" : [ "journalist" ],
   "text" : "William Henry Harrison (1831 – 30 May 1879) was a 19th-century journalist from Greymouth who represented two Westland electorates in the New Zealand House of Representatives."
 }, {
-  "entityIndex" : "75_entity19231",
+  "entityIndex" : "66_entity11855",
   "entityUrl" : "http://dbpedia.org/resource/William_Pollock_Moat",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -824,7 +725,7 @@
   "nouns" : [ "electorate" ],
   "text" : "William Pollock Moat (1827–1895) was a 19th-century Member of Parliament from Auckland, New Zealand. He represented the Rodney electorate from 1884 to 1890, when he retired."
 }, {
-  "entityIndex" : "76_entity19232",
+  "entityIndex" : "67_entity11856",
   "entityUrl" : "http://dbpedia.org/resource/William_Barron_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -835,7 +736,7 @@
   "nouns" : [ "business", "merchant", "time", "miner" ],
   "text" : "William Barron (1837 – 16 June 1916) was a 19th-century Member of Parliament from Dunedin, New Zealand. Born in St Andrews, Scotland in 1837, Barron arrived in New Zealand in 1851. He first spent time as a miner and merchant on the Otago goldfields before engaging in business in Dunedin. He served as Grand Master of the New Zealand Lodge of Freemasons. He represented the Caversham electorate from 1879 to 1890, when he retired."
 }, {
-  "entityIndex" : "77_entity19255",
+  "entityIndex" : "68_entity11873",
   "entityUrl" : "http://dbpedia.org/resource/William_Gibbs_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -846,7 +747,7 @@
   "nouns" : [ "homestead", "wife", "land", "block" ],
   "text" : "William Gibbs (1819/1820 – 7 November 1896) was a 19th-century Member of Parliament from the Nelson Region of New Zealand. Gibbs migrated to New Zealand in 1851 and purchased a large block of land at Totaranui. Much of this land is now incorporated into the Abel Tasman National Park. He completed a large homestead there for his wife and eight children, where they lived until moving to Nelson in 1892 when Gibbs retired. His daughter Hannah Sarah Gibbs married Alexander Mackay at Collingwood in 1863. He represented the Collingwood electorate from 1873 to 1881, when he was defeated for Motueka. His son W. B. Gibbs stood in the Nelson electorate in the 1887 election, but came third against Henry Levestam and Jesse Piper. The town of Collingwood was originally called Gibbstown after Gibbs. Gibbs died aged 76 at his home in Nelson on 7 November 1896, and was buried at Wakapuaka Cemetery."
 }, {
-  "entityIndex" : "78_entity19464",
+  "entityIndex" : "69_entity12053",
   "entityUrl" : "http://dbpedia.org/resource/William_Parker_Henson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -857,18 +758,7 @@
   "nouns" : [ "government", "business", "accountant", "director", "chairman", "company", "City", "representative", "life" ],
   "text" : "[William] Parker Henson (21 January 1905 – 21 September 1999) was an Australian local government representative who represented the Civic Reform Association on the Council of the City of Sydney and as a Councillor and chairman of the Sydney County Council. In business and professional life he was an accountant and company director."
 }, {
-  "entityIndex" : "79_entity11316",
-  "entityUrl" : "http://dbpedia.org/resource/Loughlin_O'Brien",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "http://dbpedia.org/resource/Auckland_(New_Zealand_electorate)" ]
-  },
-  "words" : [ "--", "23", "New", "-LRB-", "17", "politician", "Laughlin", "often", "spelled", ",", "Loughlin", "April", ".", "1821", "Zealand", "-RRB-", "O'Brien", "judge", "1901", "November" ],
-  "adjectives" : [ ],
-  "nouns" : [ "politician", "judge" ],
-  "text" : "Loughlin O'Brien (23 November 1821 – 17 April 1901), often spelled Laughlin O'Brien, was a New Zealand politician and judge."
-}, {
-  "entityIndex" : "80_entity11775",
+  "entityIndex" : "70_entity7245",
   "entityUrl" : "http://dbpedia.org/resource/Lauchlan_McGillivray",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -879,7 +769,7 @@
   "nouns" : [ "mayor", "electorate" ],
   "text" : "Lauchlan McGillivray (died 1880) was a 19th-century Member of Parliament from Southland, New Zealand. He represented the Riverton electorate from 1870 to 1875, when he was defeated. In 1871, he was the first mayor of Riverton when he was elected unopposed."
 }, {
-  "entityIndex" : "81_entity2417",
+  "entityIndex" : "71_entity1420",
   "entityUrl" : "http://dbpedia.org/resource/Charles_John_Taylor",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -890,7 +780,7 @@
   "nouns" : [ "area", "half", "director", "politician", "part", "auditor", "house", "son", "surname", "name", "land", "judge", "family", "brother" ],
   "text" : "Charles John Taylor (1826–1897) was a New Zealand politician. He was the second son of General Taylor (1790-1868) of West Tamaki. Charles was a judge in India, before buying land in the Auckland area and a director of The Bank of New Zealand, of which his brother, Allan Kerr Taylor, was auditor Charles John Taylor had two brothers and one half brother who lived in Auckland: The names of their properties later became the names of the suburbs - Charles John Taylor at Glen Orchard (now St Heliers), William Innes Taylor at Glen Innes, and Richard James Taylor at Glen Dowie. The half brother Allan Kerr Taylor lived in Mount Albert in a house called Alberton; it is possibly to differentiate themselves from the main part of the family that the Mt Albert Talyors adopted Allan's middle name as part of their surname - becoming the Kerr Taylors or Kerr-Taylors. This may well have simply grown out of the social conventions of the period. Charles John Taylor served in the 1st New Zealand Parliament and the 2nd New Zealand Parliament as representative for the Southern Division; (consisting of the Waikato, Bay of Plenty, and East Cape regions). He resigned on 13 April 1858. From the 1861 election, he served in the 3rd New Zealand Parliament as representative for the Raglan electorate. He resigned from Raglan before the end of that term on 1 April 1865. His election statement for the 1861 election read, \"Having always held opinions opposed to a centralising policy, I should vote for the repeal of the \"New Provinces Act.” I am prepared to unite with the other representatives of this province in obtaining a sweeping reduction in the expenditure now lavished on an overgrown and daily increasing official staff, and to act in concert with those gentlemen that Auckland may hold the prominent position due to her in the government of the colony.\" In that election he defeated Theodore Haultain. He represented the Southern Division electorate on the 3rd Auckland Provincial Council from 26 October 1860 to 12 September 1861. He was appointed to the Legislative Council on 31 March 1869. His membership lapsed on 26 July 1878 through absence, when he and his family went to live in England."
 }, {
-  "entityIndex" : "82_entity2671",
+  "entityIndex" : "72_entity1556",
   "entityUrl" : "http://dbpedia.org/resource/Charles_Hunter_Brown",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -901,7 +791,7 @@
   "nouns" : [ "election", "politician", "electorate" ],
   "text" : "(Not to be confused with Charles Brown (Taranaki).) Charles Hunter Brown (1825–1898) was a New Zealand politician from Canterbury, New Zealand. He represented Christchurch Country in the 2nd Parliament in 1860 from 21 April to 5 November, but was defeated when he then stood for the Cheviot electorate in North Canterbury in the 1861 election."
 }, {
-  "entityIndex" : "83_entity2831",
+  "entityIndex" : "73_entity1655",
   "entityUrl" : "http://dbpedia.org/resource/Charles_Gordon_O'Neill",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -912,18 +802,7 @@
   "nouns" : [ "philanthropist", "inventor", "engineer", "parliamentarian", "co-founder" ],
   "text" : "Charles Gordon O'Neill (23 March 1828 – 8 November 1900) was a Scottish-Australasian civil engineer, inventor, parliamentarian and philanthropist, and a co-founder of the St Vincent de Paul Society in Australia and New Zealand."
 }, {
-  "entityIndex" : "84_entity2963",
-  "entityUrl" : "http://dbpedia.org/resource/Clutha_Mackenzie",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "http://dbpedia.org/resource/Auckland_East" ]
-  },
-  "words" : [ "de", "politique", "est", "Ida", "libéral", "soutien", "brièvement", "née", "durant", "devient", "du", "vie", "aveugles", "1895", "un", "Haut-commissaire", "études", "Clutha", "père", "enthousiasme", "11", "Parti", "en", "Royaume-Uni", "ministre", ",", "Première", ".", "et", "l'essentiel", "homme", "dédié", "au", "lorsque", "né", "d'affaires", "Sir", "février", "avec", "Il", "aux", "Auckland", "sa", "fermier", "mort", "puis", "30", "Balclutha", "1912", "à", "Thomas", "ses", "`", "membre", "Nouvelle-Zélande", "Nantes", "après", "mars", "Guerre", "pour", "secondaires", "Premier", "1920", "mondiale", "Son", "la", "engage", "partir", "Mackenzie", "le", "néo-zélandais", "dernier", "front", "septième", "personnes", "enfant", "éclate", "1966" ],
-  "adjectives" : [ "dédié", "néo-zélandais", "lorsque", "durant", "devient" ],
-  "nouns" : [ "membre", "Il", "politique", "est", "libéral", "brièvement", "née", "l'essentiel", "fermier", "homme", "un", "né", "front", "septième", "Clutha", "père", "février" ],
-  "text" : "Sir Clutha Nantes Mackenzie, né le 11 février 1895 à Balclutha et mort le 30 mars 1966 à Auckland, est un homme politique néo-zélandais, dédié durant l'essentiel de sa vie au soutien aux personnes aveugles. Il est le septième et dernier enfant de Thomas et Ida Mackenzie, née Nantes. Son père, homme d'affaires et homme politique, membre du Parti libéral, est brièvement Premier ministre en 1912, puis Haut-commissaire de Nouvelle-Zélande au Royaume-Uni de 1912 à 1920. Clutha devient fermier après ses études secondaires, et s'engage avec enthousiasme pour partir au front lorsque éclate la Première Guerre mondiale. Il est blessé aux yeux et perd la vue lors de la bataille de Chunuk Bair aux Dardanelles en août 1915. Envoyé en Angleterre, il est pris en charge avec d'autres soldats aveugles par Sir Arthur Pearson, fondateur du Foyer de St Dunstan's pour soldats et marins aveuglés. Pearson y promeut l'autonomie des aveugles. Encouragé, Mackenzie crée et édite un magazine pour les soldats sur le front : Chronicles of the NZEF. De retour en Nouvelle-Zélande en 1919, il y épouse Doris Sawyer, travailleuse volontaire anglaise qu'il avait rencontrée à St Dunstan's. Le couple aura cinq enfants. À la suite de son père il entre en politique, au Parti de la réforme (conservateur). Candidat malheureux aux élections législatives de 1919, il remporte la circonscription d'Auckland-est lors d'une élection partielle en 1921. Il ne siège toutefois que brièvement à la Chambre des représentants, battu aux législatives de 1922 par le candidat travailliste John A. Lee, lui aussi mutilé de guerre et ancien contributeur au magazine Chronicles. En 1923 il est nommé directeur de l'Institut du jubilé pour les aveugles (Jubilee Institute for the Blind), à Auckland. Il parvient à collecter des fonds pour ouvrir des ateliers où sont employés des aveugles, ainsi qu'un foyer pour les loger. Sous sa direction, et en accord avec sa philosophie d'autonomisation des personnes handicapées, l'institut propose des formations professionnalisantes et du travail aux aveugles. Il lui est toutefois reproché sa gestion dictatoriale de l'institut, et les règles de conduite très strictes qu'il impose aux résidents. En 1935 il est fait chevalier pour services rendus aux personnes aveugles. Il quitte l'institut en 1938, et voyage à l'étranger pour lever des fonds pour St Dunstan's. De 1942 à 1948 il est établi en Inde, présidant un centre de formations pour aveugles de guerre, branche locale de St Dunstan's. En 1947 il « entrepr[end] des missions pour les gouvernements de Chine et de Malaisie pour les conseiller sur l'aide aux aveugles ». Au début des années 1950 il travaille à l'Unesco à Paris, sur le développement d'un système de braille international. De 1952 à 1964 il préside le Conseil mondial du braille, et entreprend des missions dans plusieurs pays d'Afrique orientale et d'Asie. C'est néanmoins à son domicile à Auckland qu'il décède en 1966."
-}, {
-  "entityIndex" : "85_entity3016",
+  "entityIndex" : "74_entity1761",
   "entityUrl" : "http://dbpedia.org/resource/Charles_Albert_Creery_Hardy",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -934,7 +813,7 @@
   "nouns" : [ "candidate", "election", "electorate", "Council" ],
   "text" : "Charles Albert Creery Hardy (1865 – 29 August 1922) was an independent conservative Member of Parliament in New Zealand. He was elected to the Selwyn electorate in the 1899 general election, but was defeated in 1911, when he was a candidate for the then newly formed Reform Party. In 1902, 1905 and 1908, he was opposed by Joseph Ivess. He was appointed to the Legislative Council on 26 June 1913. At the end of his term, he was reappointed on 25 June 1920. He remained a member until his death on 29 August 1922."
 }, {
-  "entityIndex" : "86_entity3050",
+  "entityIndex" : "75_entity1782",
   "entityUrl" : "http://dbpedia.org/resource/Crosbie_Ward",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -945,7 +824,7 @@
   "nouns" : [ "minister", "Town", "electorate", "cabinet" ],
   "text" : "Crosbie Ward (10 February 1832 – 10 November 1867) was a 19th-century Member of Parliament in Canterbury, New Zealand. He was born in County Down, Ireland. He represented the Town of Lyttelton electorate from 1858 to 1866. He was a cabinet minister, Postmaster-General and Secretary for Crown Lands. He then represented the Avon electorate from 1866 to 1867, when he resigned. He was a prominent Christchurch journalist, editing the Lyttelton Times. On 13 January 1857, he married Margaret (Maggie) Townsend of Rangiora. Their only child was Harriett Louise Frances Ward. He died on 10 November 1867 in London. On 18 September 1868, his widow married John George Cooke at Holy Trinity Church in New Plymouth."
 }, {
-  "entityIndex" : "87_entity3058",
+  "entityIndex" : "76_entity1788",
   "entityUrl" : "http://dbpedia.org/resource/Charles_Edward_Haughton",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -956,7 +835,7 @@
   "nouns" : [ "electorate" ],
   "text" : "Charles Edward (Mallard) Haughton (1827–1904) was a 19th-century Member of Parliament in Otago, New Zealand. He represented the Goldfields electorate from 1865 to 1866, then the Hampden electorate from 1866 to 1870, then the Wakatipu electorate in 1871, until he resigned."
 }, {
-  "entityIndex" : "88_entity3059",
+  "entityIndex" : "77_entity1789",
   "entityUrl" : "http://dbpedia.org/resource/Charles_Beard_Izard",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -967,7 +846,7 @@
   "nouns" : [ "bar", "lawyer" ],
   "text" : "Charles Beard Izard (1829–1904) was a 19th-century Member of Parliament and lawyer in Wellington, New Zealand. He was born in Brighton, England, and educated at King's College London and Magdalene College, Cambridge, graduating in mathematics in 1854. After studying at Lincoln's Inn he was admitted to the bar in England. He married Miss Mary Ann Hayward from Sussex in 1859. She died in Wellington on 18 July 1900 aged 71 years. In 1860 they emigrated to Auckland, and that year moved to Wellington. He was a Crown solicitor and partner in the law firm that became Bell Gully. His son, Charles Hayward Izard, was a partner in that firm from 1882 to 1897. He was on the boards of local schools and local companies e.g. the Wellington and Manawatu Railway Company and the Meat Export Company. He retired from the law in 1887 due to failing eyesight. He contested the 1881 election in the Foxton electorate, where he was second of six candidates, beaten by James Wilson. He represented the Wellington South and Suburbs electorate from 1887 to 1890, when he was defeated (for the Hutt electorate). His son Charles Hayward Izard was also a Member of Parliament."
 }, {
-  "entityIndex" : "89_entity3061",
+  "entityIndex" : "78_entity1791",
   "entityUrl" : "http://dbpedia.org/resource/Cecil_de_Lautour",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -978,7 +857,7 @@
   "nouns" : [ "career", "election", "electorate", "region", "circa" ],
   "text" : "Cecil Albert de Lautour (1845 – 15 December 1930) was a 19th-century Member of Parliament in the Otago region of New Zealand. He represented the Mount Ida electorate from 1876 to 1884. In circa 1879, he moved to Napier to pursue a legal career. In July 1884, he travelled to Auckland to contest the Newton electorate in the 1884 election. Thomas Peacock defeated him by 732 to 608 votes. He stood in the 1893 election in the Waiapu electorate and was beaten by James Carroll. He died on 15 December 1930."
 }, {
-  "entityIndex" : "90_entity3063",
+  "entityIndex" : "79_entity1793",
   "entityUrl" : "http://dbpedia.org/resource/Courtney_Kenny",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -989,7 +868,7 @@
   "nouns" : [ "army", "wife", "officer", "Burma" ],
   "text" : "Courtney William Alymer Thomas Kenny  (25 December 1835 – 12 December 1905) was a 19th-century Member of Parliament from the Marlborough Region, New Zealand. Courtenay and his wife (Georgina Paulina Edith Kenny, 1835-1899,) are reported to have arrived in Port Nicholson on the 'Philip Laing' 23 December 1856  and to have established and named the 'Lochmara Run' in Queen Charlotte Sound, centred on Double Cove Bay and what was to become Lochmara Bay, in 1857. They later farmed ‘The Rocks’ in Double Cove, until their deaths. Courtenay Kenny is reported to have been born in India, probably Moulmein (now in Burma), to an Indian army officer. His wife was born in Geilston, Dumbarton, Scotland, also to an Indian army father. Both were educated in England. Courtenay, having risen from ensign to captain in the 88th (Connaught Rangers) Regiment of Foot, served in Crimea and then exchanged to the 94th (Scotch) Regiment. He was founding Captain of the Marlborough Volunteers 1860-1 and Marlborough Commissioner of Crown Lands 1862-1866, then represented the Picton electorate from an 1866 by-election till 1881, when he retired. He was appointed to the New Zealand Legislative Council on 15 May 1885 and served until his death on 12 December 1905."
 }, {
-  "entityIndex" : "91_entity3064",
+  "entityIndex" : "80_entity1794",
   "entityUrl" : "http://dbpedia.org/resource/Cuthbert_Cowan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1000,7 +879,7 @@
   "nouns" : [ ],
   "text" : "Cuthbert Cowan (1835 – April 1927) was a 19th-century Member of Parliament from Southland, New Zealand."
 }, {
-  "entityIndex" : "92_entity1672",
+  "entityIndex" : "81_entity941",
   "entityUrl" : "http://dbpedia.org/resource/Bernie_Ogilvy",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1011,7 +890,7 @@
   "nouns" : [ "politician", "member", "list", "educator", "party" ],
   "text" : "Bernard James (Bernie) Ogilvy is a New Zealand educator and politician. He was a list member of Parliament (MP) for the United Future New Zealand party from 2002 to 2005. He left United Future with the breakaway Kiwi Party in 2007."
 }, {
-  "entityIndex" : "93_entity1673",
+  "entityIndex" : "82_entity942",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Gudgeon",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1022,7 +901,7 @@
   "nouns" : [ "Gudgeon", "politician", "Bill", "member", "party", "Wiremu" ],
   "text" : "Wiremu (Bill) Gudgeon is a former New Zealand politician. He is a member of the New Zealand First party."
 }, {
-  "entityIndex" : "94_entity17760",
+  "entityIndex" : "83_entity10930",
   "entityUrl" : "http://dbpedia.org/resource/Taite_Te_Tomo",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1033,18 +912,7 @@
   "nouns" : [ "candidate", "death", "tribe", "member", "electorate", "by-election", "Medal" ],
   "text" : "Taite Te Tomo (1883 – 22 May 1939) was a Māori and Reform Party Member of Parliament in New Zealand. He won the Western Maori electorate in a 1930 by-election after the death of Māui Pōmare, but lost it in 1935 to the Ratana candidate Haami Tokouru Ratana. In 1935, he was awarded the King George V Silver Jubilee Medal. He was a member of the Ngāti Tūwharetoa tribe, and of the Board of Ethnological Research. He died at Kākāriki Pā on 22 May 1939."
 }, {
-  "entityIndex" : "95_entity17761",
-  "entityUrl" : "http://dbpedia.org/resource/Tuiti_Makitanara",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "http://dbpedia.org/resource/Southern_Maori", "Southern Maori" ]
-  },
-  "words" : [ "--", "June", "Māori", "New", "24", "-LRB-", "sometimes", "United", "Tuiti", "Makitanara", ",", "MacDonald", ".", "August", "1932", "Zealand", "1874", "Party", "known", "8", "-RRB-", "Sweet", "Member", "Parliament" ],
-  "adjectives" : [ ],
-  "nouns" : [ ],
-  "text" : "Tuiti Makitanara (8 August 1874 – 24 June 1932), sometimes known as Sweet MacDonald, was a Māori and United Party Member of Parliament in New Zealand."
-}, {
-  "entityIndex" : "96_entity17839",
+  "entityIndex" : "84_entity10994",
   "entityUrl" : "http://dbpedia.org/resource/Tareha_Te_Moananui",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1055,7 +923,7 @@
   "nouns" : [ "son", "chief", "member", "electorate", "parliament", "Oneone", "Hāmene" ],
   "text" : "Tareha Te Moananui (died 19 December 1880) was a principal chief of the Ngāti Kahungunu iwi, and a Māori member of Parliament in New Zealand. He was one of four Māori elected in 1868 for the new Māori electorates in the New Zealand parliament, and he was the first of the four to speak in Parliament. He represented the electorate of Eastern Maori from 1868 to 1870 when he retired. Born between 1800 and 1810, Tareha was the son of Oneone and Hāmene. He added Te Moananui to his name following the death of Ngāti Kahungunu leader Kurupo Te Moananui in 1861. He died on 19 December 1880, and his tangi and funeral took place at Waiohiki, near Taradale."
 }, {
-  "entityIndex" : "97_entity17932",
+  "entityIndex" : "85_entity11055",
   "entityUrl" : "http://dbpedia.org/resource/Te_Puke_Te_Ao",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1066,7 +934,7 @@
   "nouns" : [ "chief", "tribe", "member", "farmer", "life", "sheep" ],
   "text" : "Te Puke Te Ao (1834 – 28 October 1886) was a 19th-century Māori member of the House of Representatives. Te Ao was a chief of the Ngāti Raukawa tribe. Early in his life, he was converted by missionaries. Te Ao was a sheep farmer at Otaki on the Kapiti Coast. He represented the Western Maori electorate from 1884 when he defeated Wiremu Te Wheoro, to 1886 when he died. He was related to Ropata Te Ao, who represented the Western Maori electorate from 1893 to 1896."
 }, {
-  "entityIndex" : "98_entity17955",
+  "entityIndex" : "86_entity11068",
   "entityUrl" : "http://dbpedia.org/resource/Thomas_Kelly_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1077,7 +945,7 @@
   "nouns" : [ "drama", "law", "Town", "member", "centre", "bill", "electorate", "passing", "councillor", "suffrage" ],
   "text" : "Thomas Kelly (1830 – 20 September 1921) was a 19th-century Member of Parliament in Taranaki, New Zealand. He represented the Town of New Plymouth electorate from 1869 to 1879, and then the (renamed) New Plymouth electorate from 1879 to 1884, when he was defeated. He then became a member of the Legislative Council from 1892 to 1913. In 1893 Kelly, a new councillor was at the centre of a drama that led to the passing of the Women's suffrage bill into law. Premier Seddon had expected to stop the bill in the upper house, but found that one more vote was needed. Kelly had left himself paired in favour of the measure, but Seddon obtained his consent by wire to change his vote. Seddon’s manipulation so incensed two opposition councillors William Hunter Reynolds and Edward Cephas John Stevens that they changed sides and voted for the bill, allowing it to pass by 20 votes to 18 and so gave the vote to women. Kelly died at his home in Bell Block on 20 September 1921, and was buried at Te Henui Cemetery."
 }, {
-  "entityIndex" : "99_entity17957",
+  "entityIndex" : "87_entity11070",
   "entityUrl" : "http://dbpedia.org/resource/Thomas_Ball_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1088,7 +956,7 @@
   "nouns" : [ "coloniser", "politician", "electorate", "landowner" ],
   "text" : "Thomas Ball (28 February 1809 – 25 December 1897) was a New Zealand coloniser, landowner and politician. He was born in Brigg, Lincolnshire, England on 28 February 1809. He was a 19th-century Member of Parliament from Northland, New Zealand. He represented the Mongonui electorate from 1866 to 1870, when he resigned. He died at Onehunga in 1897, having resided there for 18 years. He was buried at Purewa Cemetery."
 }, {
-  "entityIndex" : "100_entity17960",
+  "entityIndex" : "88_entity11073",
   "entityUrl" : "http://dbpedia.org/resource/Thomas_Kynnersley",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1099,7 +967,7 @@
   "nouns" : [ "navy", "health", "warden", "region" ],
   "text" : "Thomas Alfred Sneyd Kynnersley (14 June 1839 – 1 February 1874) was a 19th-century Member of Parliament from the West Coast, New Zealand. He was born in Uttoxeter in the West Midlands region of England. He retired from the navy due to ill health and settled in New Zealand in the early 1860s. He was appointed warden for goldfields on the West Coast. He represented the Westland North electorate in 1870, from the 2 July by-election to the dissolution of the 4th Parliament on 30 December, when he retired."
 }, {
-  "entityIndex" : "101_entity17961",
+  "entityIndex" : "89_entity11074",
   "entityUrl" : "http://dbpedia.org/resource/Timothy_Gallagher_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1110,7 +978,7 @@
   "nouns" : [ "electorate" ],
   "text" : "Timothy Gallagher (1840–1888) was a 19th-century Member of Parliament from the West Coast, New Zealand. He represented the Westland North electorate from 1868 to 1870, when he resigned."
 }, {
-  "entityIndex" : "102_entity18085",
+  "entityIndex" : "90_entity11175",
   "entityUrl" : "http://dbpedia.org/resource/Thomas_Mason_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1121,7 +989,7 @@
   "nouns" : [ "runholder", "horticulturalist", "quaker" ],
   "text" : "Thomas Mason (28 July 1818 – 11 June 1903) was a New Zealand quaker, runholder, horticulturalist and Member of Parliament."
 }, {
-  "entityIndex" : "103_entity14980",
+  "entityIndex" : "91_entity9098",
   "entityUrl" : "http://dbpedia.org/resource/Robert_Graham_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1132,18 +1000,7 @@
   "nouns" : [ "area", "politician" ],
   "text" : "Robert Graham (15 May 1820 – 26 May 1885) was a 19th-century New Zealand politician in the Auckland area."
 }, {
-  "entityIndex" : "104_entity14985",
-  "entityUrl" : "http://dbpedia.org/resource/Robyn_McDonald",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "List" ]
-  },
-  "words" : [ "McDonald", "New", "Zealand", "Hon", "politician", "Robyn", "former", "." ],
-  "adjectives" : [ "former" ],
-  "nouns" : [ "politician" ],
-  "text" : "Hon Robyn McDonald is a former New Zealand politician."
-}, {
-  "entityIndex" : "105_entity15316",
+  "entityIndex" : "92_entity9282",
   "entityUrl" : "http://dbpedia.org/resource/Robert_Heaton_Rhodes",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1154,7 +1011,7 @@
   "nouns" : [ "politician", "county", "electorate" ],
   "text" : "Robert Heaton Rhodes (1815 – 1 June 1884) was a New Zealand politician, who represented the Akaroa electorate from 1871 to 1874, when he resigned. He was elected unopposed in 1871. Born in 1815 in Rotherham, in the English county of Yorkshire, he followed his brothers, including William Barnard Rhodes, to New Zealand in 1850, having worked in Australia. He lived at Purau and managed properties on Banks Peninsula belonging to the Rhodes brothers. He built a large house in Christchurch, Elmwood, where he died. He was a founder of several early business enterprises, including the New Zealand Shipping Company and the Kaiapoi Woollen Manufacturing Company. His eldest son Sir Heaton Rhodes (1861–1956) had a long Parliamentary career."
 }, {
-  "entityIndex" : "106_entity15343",
+  "entityIndex" : "93_entity9307",
   "entityUrl" : "http://dbpedia.org/resource/Reader_Wood",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1165,7 +1022,7 @@
   "nouns" : [ "politician" ],
   "text" : "Reader Gilson Wood (1821 – 20 August 1895) was a 19th-century New Zealand politician."
 }, {
-  "entityIndex" : "107_entity15464",
+  "entityIndex" : "94_entity9394",
   "entityUrl" : "http://dbpedia.org/resource/Richard_Bollard",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1176,7 +1033,7 @@
   "nouns" : [ "minister", "post", "politician", "farmer", "electorate", "office", "publican", "cabinet", "opening", "A." ],
   "text" : "Richard Francis Bollard (23 May 1863 – 25 August 1927) was a farmer and New Zealand politician of the Reform Party. He represented the Raglan electorate from 1911 to 1927, when he died. As Minister of Internal Affairs, he was a cabinet minister from 1923 to 1927 in the Reform Government. He was reported making speeches and opening events and buildings; in 1912 farewelling the local publican, in 1914 opening Matangi post office, in 1915 opening the Winter Show of the Raglan A. and P. Association and opening Whatawhata post office. As Minister for Internal Affairs he opened Te Uku post office and Te Hutewai School in 1924, Raglan footbridge in 1926 and in 1924 was reported as making three calls one day and two the next, in between catching the train from Auckland to Wellington. Bollard was the eldest son of John Bollard, also a Member of Parliament."
 }, {
-  "entityIndex" : "108_entity15616",
+  "entityIndex" : "95_entity9500",
   "entityUrl" : "http://dbpedia.org/resource/Richard_Monk",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1187,7 +1044,7 @@
   "nouns" : [ ],
   "text" : "Richard Monk (1833–1912) was a 19th-century Member of Parliament in New Zealand."
 }, {
-  "entityIndex" : "109_entity15690",
+  "entityIndex" : "96_entity9561",
   "entityUrl" : "http://dbpedia.org/resource/Richard_Hawke",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1198,7 +1055,7 @@
   "nouns" : [ ],
   "text" : "Richard Wilson Hawke (1865–1941) was a United Party Member of Parliament in New Zealand."
 }, {
-  "entityIndex" : "110_entity15691",
+  "entityIndex" : "97_entity9562",
   "entityUrl" : "http://dbpedia.org/resource/Robert_Scott_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1209,7 +1066,7 @@
   "nouns" : [ "electorate" ],
   "text" : "Robert Scott (1854–1944) was a Reform Party Member of Parliament in New Zealand. He was elected to the Tuapeka electorate in 1908, and for Otago Central in 1911. He was defeated for Wakatipu in 1919. He was later on the Legislative Council."
 }, {
-  "entityIndex" : "111_entity15693",
+  "entityIndex" : "98_entity9563",
   "entityUrl" : "http://dbpedia.org/resource/Ropata_Te_Ao",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1220,7 +1077,7 @@
   "nouns" : [ "mother", "tribe", "father", "member", "electorate", "retirement" ],
   "text" : "Ropata Te Ao (died 23 April 1908) was a nineteenth-century Māori member of the House of Representatives. His father was Te Aotuta-hanga and his mother was Te Raute. Te Ao was an elder of the Ngāti Raukawa tribe and lived in Otaki on the Kapiti Coast. He represented the Western Maori electorate from 1893 after the retirement of Hoani Taipua, to 1896 when he was defeated by Henare Kaihau. He was related to Te Puke Te Ao, who had represented the Western Maori electorate from 1884 until his death in 1886. Te Ao died on 23 April 1908."
 }, {
-  "entityIndex" : "112_entity15728",
+  "entityIndex" : "99_entity9589",
   "entityUrl" : "http://dbpedia.org/resource/Richmond_Hursthouse",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1231,7 +1088,7 @@
   "nouns" : [ "minister", "cabinet" ],
   "text" : "Richmond Hursthouse (5 May 1845 – 11 November 1902) was a 19th-century Member of Parliament in Nelson, New Zealand, and a cabinet minister."
 }, {
-  "entityIndex" : "113_entity15734",
+  "entityIndex" : "100_entity9594",
   "entityUrl" : "http://dbpedia.org/resource/Richard_Oliver_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1242,7 +1099,7 @@
   "nouns" : [ "son", "wife", "City", "electorate" ],
   "text" : "Richard Oliver (21 February 1830 – 1910) was a 19th-century Member of Parliament in Dunedin, Otago, New Zealand. Oliver was the son of Robert Oliver, of Penzance, Cornwall, England, and Elizabeth (Fox) his wife, and emigrated to New Zealand. Oliver represented the City of Dunedin electorate from 1878 to 1881, when he retired. He was Minister of Public Works in the John Hall Ministry from October 1879 to May 1881. He was included in the Frederick Whitaker Government as a member of the Executive Council till September 1883, when on a second reconstruction he became Postmaster-General and Commissioner of Electric Telegraphs under Major (later Sir) Harry Atkinson, retiring, with the rest of his colleagues, in August 1884. On 10 November 1881, he was appointed to the Legislative Council. He resigned from that role on 4 April 1901. Oliver married first at Penzance on 18 June 1858, Ellen, daughter of William Purchase; and secondly, at Penzance, on 19 August 1885, Louise d'Este, daughter of J. S. Courtney, of Alverton House, Penzance, and sister of Right Hon. Leonard H. Courtney, M.P., Chairman of Committees, House of Commons."
 }, {
-  "entityIndex" : "114_entity15735",
+  "entityIndex" : "101_entity9595",
   "entityUrl" : "http://dbpedia.org/resource/Ralph_Richardson_(politician_born_1848)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1253,7 +1110,7 @@
   "nouns" : [ ],
   "text" : "Ralph Richardson (1848–1895) was a 19th-century Member of Parliament in Nelson, New Zealand."
 }, {
-  "entityIndex" : "115_entity15741",
+  "entityIndex" : "102_entity9601",
   "entityUrl" : "http://dbpedia.org/resource/Robert_Bruce_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1264,7 +1121,7 @@
   "nouns" : [ "sailor", "politician", "conservationist", "family", "apprentice", "age" ],
   "text" : "Robert Cunningham Bruce (1843 – 23 April 1917) was a Scottish-born sailor, New Zealand politician and conservationist. Born in East Lothian, Scotland, Bruce's family moved to County Cork, Ireland, when he was seven years of age. He became an apprentice sailor at 13, leaving London on an East Indiaman. He eventually arrived in New Zealand on the Blue Jacket in 1860. After working in the goldfields of New Zealand and Queensland, he went to the United States where he remained for several years. In 1877 he returned to New Zealand, buying land in Paraekaretu in the Manawatu region. Bruce was an independent conservative Member of Parliament in the Manawatu region of New Zealand. He represented the Rangitikei electorate from 1884 to 1890. He contested the 1890 election in the Waitotara electorate, but was beaten by the incumbent, George Hutchison. The Rangitiki electorate, meanwhile, was won by Douglas Hastings Macarthur in 1890, but Macarthur died on 24 May 1892. The resulting 1892 by-election was won by Bruce. He served until the end of the parliamentary term in 1893 when he retired. He was one of three candidates to contest the new Manawatu electorate in the 1896 election, but he was narrowly beaten by John Stevens. He challenged Stevens again in the 1899 election but was again defeated. Bruce was a notable pioneer of the Manawatu District, who preserved several native forest remnants, including Bruce Park Scenic Reserve. Late in his life, he wrote a book about his experiences at sea. He died at his homestead Carrick in the Wanganui suburb of St. Johns Hill on 23 April 1917."
 }, {
-  "entityIndex" : "116_entity15745",
+  "entityIndex" : "103_entity9604",
   "entityUrl" : "http://dbpedia.org/resource/Robert_Gillies_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1275,7 +1132,7 @@
   "nouns" : [ "aneurysm", "father", "surgeon", "health", "electorate", "resignation", "brother", "heart" ],
   "text" : "Robert Gillies (1835 – 15 June 1886) was a 19th-century Member of Parliament in the Otago Region, New Zealand. He represented the Bruce electorate from 1884 until his resignation in 1885 for failing health. He died on 15 June 1886 from an aneurysm of the heart. He was the brother of Thomas Gillies and John Lillie Gillies, and the father of surgeon Harold Gillies."
 }, {
-  "entityIndex" : "117_entity15746",
+  "entityIndex" : "104_entity9605",
   "entityUrl" : "http://dbpedia.org/resource/Richard_Turnbull_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1286,7 +1143,7 @@
   "nouns" : [ "member", "electorate", "parliament" ],
   "text" : "Richard Turnbull (1826 – 17 July 1890) was a 19th-century member of parliament in Canterbury, New Zealand. He represented the Timaru electorate from 1878 to 1890 when he died."
 }, {
-  "entityIndex" : "118_entity15755",
+  "entityIndex" : "105_entity9613",
   "entityUrl" : "http://dbpedia.org/resource/Richard_Hobbs_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1297,7 +1154,7 @@
   "nouns" : [ "father" ],
   "text" : "Richard Hobbs (1833–1910) was a 19th-century Member of Parliament from the Auckland and Northland regions in New Zealand. His father was the missionary John Hobbs."
 }, {
-  "entityIndex" : "119_entity3455",
+  "entityIndex" : "106_entity2086",
   "entityUrl" : "http://dbpedia.org/resource/Dingley_Askham_Brittin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1308,7 +1165,7 @@
   "nouns" : [ "runholder", "profession", "education", "solicitor", "term", "time", "electorate" ],
   "text" : "Dingley Askham Brittin (1823–1881) was an English solicitor. He spent three years in New Zealand as a runholder and during that time, he represented the Christchurch Country electorate in the New Zealand House of Representatives for one term. Brittin was born in Huntingdonshire, England in 1823. He received an education as a solicitor, but during his time in New Zealand, he did not practice in that profession. Brittin came out to New Zealand on the Minerva in 1853, together with his wife, and his brother John Danns Brittin, his wife and son. The Minerva, one of the ships chartered by the Canterbury Association, had left London on 29 September and Plymouth on 12 October 1852, and arrived in Lyttelton on 2 February 1853. Other notable passengers on the ship were Henry Sewell, Edward Gibbon Wakefield, Jane and John Deans, Thomas Rowley, John Cuff, and Elizabeth Torlesse. The Brittin brothers took up run 105 at the mouth of the Rakaia River. They sold their land in 1854, and took land in the Port Hills. In the 1855 election, Brittin was one of four candidates in the two-member Christchurch Country electorate. He came second and represented the electorate in the 2nd New Zealand Parliament in 1856, but resigned during the 1856 session before the end of his term; the Speaker read out his letter of resignation on 31 July, two weeks before the session finished. He had to return to England on 'urgent business' in 1856 and feared that he may not be back in time for the start of the 1857 parliamentary session. In fact, he did not return to New Zealand, and historian George Macdonald noted that he \"was not heard of again\" in Canterbury. The resulting by-election was won by John Ollivier, who beat Crosbie Ward. Brittin died in 1881 and is buried at All Saints, the Parish Church of St Ives. His wife Anna Maria Brittin, who died in 1902, is buried next to him."
 }, {
-  "entityIndex" : "120_entity3743",
+  "entityIndex" : "107_entity2259",
   "entityUrl" : "http://dbpedia.org/resource/David_Guthrie",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1319,7 +1176,7 @@
   "nouns" : [ "politician" ],
   "text" : "David Henry Guthrie (1856 – 31 March 1927) was a New Zealand politician of the Reform Party. He was the Minister of Railways (1922–1923) in the Reform Government, and the Member of Parliament for Oroua from 1908 to 1925, when he retired. He was then appointed to the Legislative Council, from 1925 to 1927 when he died."
 }, {
-  "entityIndex" : "121_entity4045",
+  "entityIndex" : "108_entity2467",
   "entityUrl" : "http://dbpedia.org/resource/Donald_Reid_(politician_born_1855)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1330,7 +1187,7 @@
   "nouns" : [ "generation", "partner", "agency", "father", "station", "solicitor", "electorate", "stock" ],
   "text" : "Donald Reid (1855 – 25 August 1920) was a Dunedin, New Zealand solicitor and partner in his father's stock and station agency. For two consecutive terms he was an independent conservative Member of Parliament in New Zealand. His father had represented the same electorate for three terms a generation earlier."
 }, {
-  "entityIndex" : "122_entity4077",
+  "entityIndex" : "109_entity2488",
   "entityUrl" : "http://dbpedia.org/resource/Daniel_Reese_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1341,7 +1198,7 @@
   "nouns" : [ "cricketer", "firm", "son", "rower", "building", "champion" ],
   "text" : "Daniel Reese (1841 – 4 October 1891) was a 19th-century Member of Parliament from Christchurch, New Zealand. Reese was born in Motherwell, Scotland. He emigrated to New Zealand in 1861 on the New Zealandia, and founded a Christchurch building firm in 1864. He was a champion rower, and his son Dan Reese (who was 12 when he died) was a champion Canterbury cricketer. Two other sons, Tom and Jack, were also prominent cricketers in Canterbury. Reese had several high profile commissions. He built Trinity Congregational Church (ca 1870), the Canterbury Club (1873), Cranmer Court (1873–1875), St Paul's Church (1877), parts of Lincoln College, the Chief Post Office (1877–1878), the United Service Hotel in Cathedral Square (1884–1885), parts of Sunnyside Hospital, the first Christchurch Girls' High School (now part of the Arts Centre, and the second Girls' High School (1881). He also built the Belfast Freezing Works. He represented the Stanmore electorate from 1884 when he defeated Walter Pilliet, but was defeated in 1887."
 }, {
-  "entityIndex" : "123_entity4083",
+  "entityIndex" : "110_entity2493",
   "entityUrl" : "http://dbpedia.org/resource/Douglas_Hastings_Macarthur",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1352,7 +1209,7 @@
   "nouns" : [ "electorate", "region" ],
   "text" : "Douglas Hastings Macarthur (1839 – 24 May 1892) was a 19th-century independent conservative Member of Parliament in the Manawatu region of New Zealand. He represented the Manawatu electorate from 1884 to 1890, and then the Rangitikei electorate from 1890 to 1892, when he died."
 }, {
-  "entityIndex" : "124_entity4085",
+  "entityIndex" : "111_entity2494",
   "entityUrl" : "http://dbpedia.org/resource/David_McMillan_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1363,7 +1220,7 @@
   "nouns" : [ "beginning", "body" ],
   "text" : "David McMillan (1836 – 6 July 1904) was a 19th-century Member of Parliament in the Canterbury Region of New Zealand. He came to New Zealand on the Rose of Sharon in 1857 and settled near Southbridge. From 1874, he held various local political roles. He was on the Selwyn County Council from the beginning and chaired the body for 11 years. He represented the Coleridge electorate from 1881 to 1887, when he retired. In 1900, he visited his native Scotland. He died on 6 July 1904 and was buried at Ellesmere Cemetery."
 }, {
-  "entityIndex" : "125_entity4087",
+  "entityIndex" : "112_entity2496",
   "entityUrl" : "http://dbpedia.org/resource/David_Mervyn",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1374,7 +1231,7 @@
   "nouns" : [ "election", "electorate", "by-election" ],
   "text" : "David Hunter Mervyn was a 19th-century Member of Parliament in the Otago Region of New Zealand. He represented the Manuherikia electorate from 1867 to 1870 through winning the by-election on 15 May, and then the Mount Ida electorate from 1871 (having won the 17 February general election) to 1875, when he retired."
 }, {
-  "entityIndex" : "126_entity6850",
+  "entityIndex" : "113_entity4203",
   "entityUrl" : "http://dbpedia.org/resource/Henare_Kaihau",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1385,7 +1242,7 @@
   "nouns" : [ "year", "politician", "Biography", "birth", "range", "electorate" ],
   "text" : "Henare Kaihau (1854/1860? – 20 May 1920) was a New Zealand Māori politician, serving as Member of the House of Representatives for the Western Maori electorate. His birth year is uncertain. The Dictionary of New Zealand Biography gives a range from 1854 to 1860, whereas Wilson gives 1855. He unsuccessfully contested the Western Maori electorate in the 1884 election. Of eight candidates, he came fifth with 9.7% of the vote. In the 1886 by-election, he came third out of five candidates. In the 1896 election, he defeated Ropata Te Ao, and he held the Western Maori electorate to 1911 when he was defeated by Māui Pōmare. Wilson notes him as a Reform Party supporter. Kaihau does, however, appear on a poster of the Liberal Party in 1910. The New Zealand Herald, in its 1905 election reporting, also lists him as a government supporter, i.e. a Liberal. Those newspapers that listed political affiliation for Maori candidates for the 1908 election, The Star (Christchurch) and The Tuapeka Times, also show him as a supporter of the Ward Ministry."
 }, {
-  "entityIndex" : "127_entity7005",
+  "entityIndex" : "114_entity4287",
   "entityUrl" : "http://dbpedia.org/resource/Henry_Feldwick",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1396,7 +1253,7 @@
   "nouns" : [ "member", "electorate", "parliament", "region" ],
   "text" : "Henry Feldwick (1844 – 3 August 1908) was a 19th-century member of parliament from the Southland region of New Zealand. He represented the Invercargill electorate in Parliament from 1878 to 1879, from 1881 to 1884 and from 1887 to 1890. He was defeated in 1879 by James Bain, in 1884 by Joseph Hatch, and in 1890 by James Kelly. He was a member of the New Zealand Legislative Council from 1892 to 3 August 1908, when he died."
 }, {
-  "entityIndex" : "128_entity7108",
+  "entityIndex" : "115_entity4345",
   "entityUrl" : "http://dbpedia.org/resource/Henare_Uru",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1407,7 +1264,7 @@
   "nouns" : [ "politician", "March" ],
   "text" : "Henare Whakatau Uru (1872 – 7 March 1929) was a New Zealand politician. He was the Reform Party Member of Parliament for Southern Maori from 1922 to 1928."
 }, {
-  "entityIndex" : "129_entity7109",
+  "entityIndex" : "116_entity4346",
   "entityUrl" : "http://dbpedia.org/resource/Hopere_Uru",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1418,7 +1275,7 @@
   "nouns" : [ "cricket", "politician", "union", "Reform", "sportsman" ],
   "text" : "John Hopere Wharewiti Uru (26 March 1868 – 29 November 1921), sometimes known as Billy Uru, was a New Zealand Māori sportsman and politician. He represented Canterbury at both cricket and rugby union, and was an Independent (and sometimes Reform) Member of Parliament for Southern Maori."
 }, {
-  "entityIndex" : "130_entity7185",
+  "entityIndex" : "117_entity4393",
   "entityUrl" : "http://dbpedia.org/resource/Hori_Kerei_Taiaroa",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1429,7 +1286,7 @@
   "nouns" : [ "leader", "resentment", "son", "bitterness", "technicality", "member", "iwi", "electorate", "parliament" ],
   "text" : "Hori Kerei Taiaroa (born 1830s or early 1840s – 4 August 1905), also known as Huriwhenua, was a Māori member of the New Zealand parliament and the Paramount Chief of the southern iwi of Ngāi Tahu. The son of Ngāi Tahu leader Te Matenga Taiaroa and Mawera Taiaroa, he was born at Otakau on the Otago Peninsula in the 1830s or early 1840s. He represented the Southern Maori electorate from 1871 to February 1879, when he appointed to the Legislative Council. He was disqualified from the Legislative Council in August 1880 over a technicality, which caused bitterness and resentment among Māori. In 1881 Ihaia Tainui who had held the electorate since 1879 resigned so that Taiaroa could resume the electorate. Taiaroa then held the electorate from 1881 to 1885 when he was again appointed to the Legislative Council, where he served for 20 years until his death. Taiaroa was active in pursuing Ngāi Tahu land claims in Parliament. Taiaroa's son John Taiaroa played all for the All Blacks in their 1884 tour of New South Wales and went on to work as a lawyer in Hastings."
 }, {
-  "entityIndex" : "131_entity7213",
+  "entityIndex" : "118_entity4400",
   "entityUrl" : "http://dbpedia.org/resource/Henry_Okey",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1440,7 +1297,7 @@
   "nouns" : [ ],
   "text" : "Henry James Hobbs Okey (28 May 1857 – 13 September 1918) was a Reform Party Member of Parliament in New Zealand."
 }, {
-  "entityIndex" : "132_entity7216",
+  "entityIndex" : "119_entity4402",
   "entityUrl" : "http://dbpedia.org/resource/Hoani_Nahi",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1451,7 +1308,7 @@
   "nouns" : [ "MP", "election", "author", "member", "Maori", "historian" ],
   "text" : "Hoani Nahi (c. 1833 – 18 May 1894), also spelled Hoani Nahe, was a Māori member of the House of Representatives, author and historian. He was born in 1833 or 1834. He was the third MP for Western Maori from 1876, when he defeated Te Keepa Te Rangihiwinui and the incumbent, Wiremu Parata. He retired at the subsequent election in 1879. He was a minister without portfolio, and on the Executive Council of the Grey Ministry (17 November 1877 – 8 October 1879). His life work was recording Māori history and tradition, particularly of Tainui and Hauraki. He was also involved in contemporary affairs such as land disputes, as at Parawai in 1894 where he contracted a cold, later an inflammation, and died."
 }, {
-  "entityIndex" : "133_entity7252",
+  "entityIndex" : "120_entity4427",
   "entityUrl" : "http://dbpedia.org/resource/Hori_Tawhiti",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1462,7 +1319,7 @@
   "nouns" : [ "member", "electorate" ],
   "text" : "Hori Karaka Tawhiti was a 19th-century Māori member of the New Zealand Parliament. He represented the Northern Maori electorate from 1876 to 1879, when he was defeated by Hone Tawhai. He was a Member of the Executive Council in the second Atkinson Ministry, from 28 November 1876 to 13 October 1877."
 }, {
-  "entityIndex" : "134_entity7253",
+  "entityIndex" : "121_entity4428",
   "entityUrl" : "http://dbpedia.org/resource/Hone_Tawhai",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1473,7 +1330,7 @@
   "nouns" : [ "c1834", "council", "father", "district", "member", "runanga", "parliament" ],
   "text" : "Hone Mohi Tawhai (c1834 – July 1894) was a 19th-century Māori member of the New Zealand parliament. Hone Mohi Tawhai was born in the Hokianga in 1827 or 1828. He was about 12 years old when his father signed the Treaty of Waitangi in February 1840. In the 1860s he was involved in a district runanga (tribal council) set up by Governor Grey. Later he was made a Native Land Court assessor. By the mid-1870s he became disillusioned with the Native Land Court and began to call for Maori control over land title and land alienation. He represented the Northern Maori electorate from 1879 when he defeated Hori Tawhiti, to 1884 when he retired. He debated effectively on a number of race relations issues. In 1881 and 1882 he promoted a Native Committees Bill to limit the power of the Native Land Court, and give Maori control of awarding land titles. Tawhai died in July 1894."
 }, {
-  "entityIndex" : "135_entity7254",
+  "entityIndex" : "122_entity4429",
   "entityUrl" : "http://dbpedia.org/resource/Hoani_Taipua",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1484,7 +1341,7 @@
   "nouns" : [ "descent", "part", "member", "migration" ],
   "text" : "Hoani Te Puna i Rangiriri Taipua (1839 or 1840 – 29/30 September 1896) was a 19th-century Māori member of the New Zealand House of Representatives. He was born at Rangiuru Pa Otaki to his parents Te Puna I Rangiriri and TeRia Haukoraki. Both his parents were also a part of the Ngāti Raukawa migration to Otaki from Maungatautari. He is of Ngati Pare descent, and is also kin to Ngati Huia and Ngati Toa. He was born of a very high chiefly status. He represented the Western Maori electorate from the 1886 by-election after the death of Te Puke Te Ao to 1893 when he retired. He was married to Hiria Te Mahauariki a.k.a. Amokura, whom he had numerous children with. Today his descendants still live in the Otaki area."
 }, {
-  "entityIndex" : "136_entity7277",
+  "entityIndex" : "123_entity4442",
   "entityUrl" : "http://dbpedia.org/resource/Harry_Allwright",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1495,7 +1352,7 @@
   "nouns" : [ "electorate" ],
   "text" : "Harry Allwright (1836/1837 – 18 July 1892) was a 19th-century Member of Parliament in Canterbury, New Zealand. Allwright arrived in Lyttelton on the Cressy on 27 December 1850. He was thus one of the Canterbury Pilgrims. In 1879, he successfully contested the Lyttelton electorate against the incumbent Hugh Murray-Aynsley. He represented Lyttelton until 1887 when he was defeated by John Joyce. He died on 18 July 1892 in 277 Armagh Street, Christchurch Central City, after having been ill for several months, aged 55."
 }, {
-  "entityIndex" : "137_entity7282",
+  "entityIndex" : "124_entity4446",
   "entityUrl" : "http://dbpedia.org/resource/Henry_Shafto_Harrison",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1506,7 +1363,7 @@
   "nouns" : [ "seat", "election", "end", "term", "electorate", "by-election" ],
   "text" : "Henry Shafto Harrison (1810–1892) was a 19th-century Member of Parliament in Wanganui, New Zealand. He won the Wanganui electorate in the 1861 general election, but was disqualified. He won the electorate again in the 1861 by-election, and held it to the end of the term of the 3rd New Zealand Parliament in 1866. John Bryce won the seat in the 1866 general election, but resigned in 1867. Harrison won the subsequent by-election on 27 April 1867. He represented the electorate until the end of the 4th New Zealand Parliament in 1870. He was defeated at the 1871 general election."
 }, {
-  "entityIndex" : "138_entity7285",
+  "entityIndex" : "125_entity4449",
   "entityUrl" : "http://dbpedia.org/resource/Henry_Samuel_Fitzherbert",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1517,7 +1374,7 @@
   "nouns" : [ "electorate" ],
   "text" : "Henry Samuel Fitzherbert (1851–1912) was a 19th-century Member of Parliament in Wellington, New Zealand. He represented the Hutt electorate from 1884 to 1890, when he retired."
 }, {
-  "entityIndex" : "139_entity7290",
+  "entityIndex" : "126_entity4454",
   "entityUrl" : "http://dbpedia.org/resource/Henry_Driver",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1528,7 +1385,7 @@
   "nouns" : [ "Driver", "merchant", "man" ],
   "text" : "Henry Driver (1831–23 Jan 1893) was a 19th-century Member of Parliament from Otago, New Zealand. He was born in the United States, but as a young man emigrated to Victoria, Australia. When the Otago Gold Rush began in 1861 he established himself as a merchant in Dunedin. Later he joined with John Maclean to form Driver, Maclean & Co., auctioneers. He represented the Roslyn electorate from 1869 to 1871, when he resigned, and from 1878 to 1881. He then represented the Hokonui electorate from 1881 to 1884, when he retired."
 }, {
-  "entityIndex" : "140_entity7291",
+  "entityIndex" : "127_entity4455",
   "entityUrl" : "http://dbpedia.org/resource/Henry_Hirst",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1539,7 +1396,7 @@
   "nouns" : [ ],
   "text" : "Henry Hirst (1838 – 14 December 1911) was a 19th-century Member of Parliament from Southland, New Zealand."
 }, {
-  "entityIndex" : "141_entity7293",
+  "entityIndex" : "128_entity4457",
   "entityUrl" : "http://dbpedia.org/resource/Henry_Dodson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1550,7 +1407,7 @@
   "nouns" : [ "brewer" ],
   "text" : "Henry Dodson (21 April 1828 – 8 May 1892) was a brewer and a 19th-century Member of Parliament from Marlborough, New Zealand."
 }, {
-  "entityIndex" : "142_entity7311",
+  "entityIndex" : "129_entity4472",
   "entityUrl" : "http://dbpedia.org/resource/Horace_Bastings",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1561,7 +1418,7 @@
   "nouns" : [ "electorate", "region" ],
   "text" : "Horace Bastings (1831–1909) was a 19th-century Member of Parliament from the Southland region of New Zealand. From November 1872 to May 1874, and from May to June 1875, he served on the Executive Council of the Otago Province. He represented the Waikaia electorate from 1876 to 1879, when he retired; and from 1880 to 1881, when he was defeated for Dunedin Central."
 }, {
-  "entityIndex" : "143_entity7730",
+  "entityIndex" : "130_entity4746",
   "entityUrl" : "http://dbpedia.org/resource/Ihaia_Tainui",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1572,7 +1429,7 @@
   "nouns" : [ "son", "grandson", "hapū", "suicide", "north", "member", "electorate", "parliament", "sub-tribe", "rūnanga" ],
   "text" : "Ihaia Tainui (died 19 October 1885) was a Māori member of the New Zealand parliament. He was the son of Wereta Tainui and grandson of Tuhuru Kokare, both chiefs of the Ngāi Tahu hapū (sub-tribe) Ngāti Waewae. He represented the electorate of Southern Maori from 1879 (after Hori Kerei Taiaroa was disqualified) to 1881, when he resigned and Hori Taiaroa resumed the electorate. Tainui committed suicide by hanging on 19 October 1885 in the whare rūnanga at Arahura Pā, north of Hokitika."
 }, {
-  "entityIndex" : "144_entity7757",
+  "entityIndex" : "131_entity4760",
   "entityUrl" : "http://dbpedia.org/resource/Ihaka_Hakuene",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1583,7 +1440,7 @@
   "nouns" : [ "leader", "descent", "reader", "member", "electorate", "parliament" ],
   "text" : "Ihaka Te Tai Hakuene (1836 – 6 April 1887) was a 19th-century New Zealand tribal leader, lay reader and a Māori member of the New Zealand parliament. Of Māori descent, he identified with the Nga Puhi iwi. He was born in Rawhiti, Northland, New Zealand. He represented the Northern Maori electorate from 1884 to 1887, when he died."
 }, {
-  "entityIndex" : "145_entity7795",
+  "entityIndex" : "132_entity4769",
   "entityUrl" : "http://dbpedia.org/resource/Isaac_Thomas_Cookson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1594,7 +1451,7 @@
   "nouns" : [ "Town", "member", "electorate", "resignation", "City" ],
   "text" : "Isaac Thomas Cookson (1817–1881) was a 19th-century Member of Parliament in Canterbury, New Zealand. He represented the Christchurch Country electorate in 1860 following the resignation of John Ollivier, and then the Kaiapoi electorate from 1861 to 1863, when he resigned. He was a member of the Canterbury Provincial Council and represented the Town of Lyttelton electorate (1853–1861) and then the City of Christchurch electorate (1861–1862)."
 }, {
-  "entityIndex" : "146_entity13955",
+  "entityIndex" : "133_entity8525",
   "entityUrl" : "http://dbpedia.org/resource/Owen_Jennings",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1605,7 +1462,7 @@
   "nouns" : [ "politician", "party" ],
   "text" : "Owen Jennings is a former New Zealand politician. He was a Member of Parliament from 1996 to 2002, representing the ACT New Zealand party."
 }, {
-  "entityIndex" : "147_entity14046",
+  "entityIndex" : "134_entity8566",
   "entityUrl" : "http://dbpedia.org/resource/Oswald_Hawken",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1616,7 +1473,7 @@
   "nouns" : [ "election", "minister", "electorate", "Medal", "cabinet" ],
   "text" : "Oswald James Hawken (1870–1957) was a Reform Party Member of Parliament in New Zealand, and was a cabinet minister 1926–1928 in the Reform Government. He was elected to the Egmont electorate in the 1919 general election, but was defeated in 1928. In 1935, he was awarded the King George V Silver Jubilee Medal."
 }, {
-  "entityIndex" : "148_entity14054",
+  "entityIndex" : "135_entity8568",
   "entityUrl" : "http://dbpedia.org/resource/Oliver_Samuel",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1627,7 +1484,7 @@
   "nouns" : [ "Region", "electorate", "family" ],
   "text" : "Oliver Samuel KC (1849 – 11 January 1925) was a 19th-century Member of Parliament from the Taranaki Region of New Zealand. Born in Saint Helier, Jersey in 1849, Samuel emigrated to New Zealand with his family in 1855. He was educated at Nelson College from 1863 to 1865. He represented the New Plymouth electorate from 1884 to 1890, when he retired. On 22 January 1907, he was appointed to the Legislative Council. He was reappointed on 14 July 1914 and 14 July 1921. He remained a member until his death on 11 January 1925. From 19 November 1918 until his death, he was Chairman of Committees."
 }, {
-  "entityIndex" : "149_entity16221",
+  "entityIndex" : "136_entity9950",
   "entityUrl" : "http://dbpedia.org/resource/Sandra_Goudie",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1638,7 +1495,7 @@
   "nouns" : [ "politician" ],
   "text" : "Sandra Anne Goudie (born 1952) is a New Zealand politician. The current Mayor of Thames-Coromandel, she previously served as a Member of Parliament for the National Party."
 }, {
-  "entityIndex" : "150_entity16647",
+  "entityIndex" : "137_entity10182",
   "entityUrl" : "http://dbpedia.org/resource/Sydney_George_Smith",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1649,7 +1506,7 @@
   "nouns" : [ "minister", "politician", "cabinet" ],
   "text" : "Sydney George Smith (19 January 1879 – 21 May 1943), known to his friends as Sid, was a New Zealand politician of the Liberal Party and then the National Party, and a cabinet minister."
 }, {
-  "entityIndex" : "151_entity16935",
+  "entityIndex" : "138_entity10395",
   "entityUrl" : "http://dbpedia.org/resource/Scobie_Mackenzie",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1660,7 +1517,7 @@
   "nouns" : [ ],
   "text" : "Mackay John Scobie Mackenzie (23 January 1845 – 15 September 1901), known as Scobie, was an independent conservative Member of Parliament in New Zealand."
 }, {
-  "entityIndex" : "152_entity16942",
+  "entityIndex" : "139_entity10400",
   "entityUrl" : "http://dbpedia.org/resource/Sydney_Taiwhanga",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1671,7 +1528,7 @@
   "nouns" : [ "election", "father", "member", "Taiwhanga", "iwi", "electorate" ],
   "text" : "Hirini Rawiri Taiwhanga (c. 1832 – 27 November 1890), known as Sydney Taiwhanga, was a 19th-century Māori member of the House of Representatives. Taiwhanga identified with the Ngāpuhi iwi. He was born in Kaikohe, Northland, New Zealand in about 1832; his father was Rawiri Taiwhanga. He unsuccessfully contested the Western Maori electorate in the 1884 election. Of eight candidates, he came last with 5.5% of the vote. In the Western Maori 1886 by-election, he came fourth out of five candidates. He represented the Northern Maori electorate from 1887 to 1890 when he died, aged about 55. He had been re-elected in 1890 for Northern Maori, but died on election day. He also stood in Eastern Maori, and came second."
 }, {
-  "entityIndex" : "153_entity17001",
+  "entityIndex" : "140_entity10432",
   "entityUrl" : "http://dbpedia.org/resource/Samuel_Locke_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1682,7 +1539,7 @@
   "nouns" : [ "election", "electorate", "by-election" ],
   "text" : "Samuel Locke (1836–1890) was a 19th-century Member of Parliament from the Gisborne Region of New Zealand. He represented the East Coast electorate from a by-election in 1884 to 1887, when he retired. In the 1884 election, he defeated William Lee Rees."
 }, {
-  "entityIndex" : "154_entity12092",
+  "entityIndex" : "141_entity7441",
   "entityUrl" : "http://dbpedia.org/resource/Murray_Smith_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1693,7 +1550,7 @@
   "nouns" : [ "MP", "politician", "caucus", "member", "list", "party" ],
   "text" : "Murray Smith is a former New Zealand politician. He was a member of the United Future New Zealand party caucus, having been elected to Parliament as a list MP in the 2002 elections."
 }, {
-  "entityIndex" : "155_entity12098",
+  "entityIndex" : "142_entity7447",
   "entityUrl" : "http://dbpedia.org/resource/Mark_Peck",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1704,7 +1561,7 @@
   "nouns" : [ "MP", "politician", "member" ],
   "text" : "Mark Everett Peck (born 16 July 1953) is a New Zealand politician and a member of the Labour Party. Since 2013, he has been a Wellington City Councillor, and was MP for Invercargill from 1993 to 2005."
 }, {
-  "entityIndex" : "156_entity12363",
+  "entityIndex" : "143_entity7545",
   "entityUrl" : "http://dbpedia.org/resource/Matiu_Rata",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1715,18 +1572,7 @@
   "nouns" : [ "politician" ],
   "text" : "Matiu Rata (26 March 1934 – 25 July 1997) was a New Zealand Māori politician from the Labour Party."
 }, {
-  "entityIndex" : "157_entity12793",
-  "entityUrl" : "http://dbpedia.org/resource/Mete_Paetahi",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "http://dbpedia.org/resource/Western_Maori" ]
-  },
-  "words" : [ "participe", "de", "Dans", "politique", "vers", "est", "ramener", "coloniales", "Mete", "conflits", "territoriaux", "temps", "mais", "souveraineté", "Rangi", "Te", "du", "Putiki", "des", "premiers", "son", "1850", "partisan", "un", "les", "Paetahi", "1813", "années", "exprimer", "par", "il", "représentants", "l'un", "tribu", "Haunui-a-Paparangi", "en", "affectée", ",", "dans", ".", "et", "tandis", "homme", "au", "autorités", "britannique", "quatre", "-RRB-", ":", "né", "Kingi", "22", "même", "que", "Il", "-LRB-", "réunions", "Chambre", "vis-à-vis", "inter-tribaux", "siéger", "opposition", "paix", "septembre", "mort", "Maori", "Kingitanga", "à", "`", "cette", "Nouvelle-Zélande", "l'iwi", "Membre", "pour", "médiations", "indépendance", "région", "1883", "la", "Wanganui", "Ati", "le", "néo-zélandais", "y", "affirme", "implique", "violents", "mouvement" ],
-  "adjectives" : [ "même", "partisan", "affectée", "exprimer" ],
-  "nouns" : [ "par", "Il", "il", "politique", "est", "territoriaux", "vis-à-vis", "souveraineté", "inter-tribaux", "opposition", "homme", "son", "indépendance", "région", "au", "septembre", "britannique", "un", "néo-zélandais", "né", "mouvement" ],
-  "text" : "Mete Kingi Te Rangi Paetahi, né vers 1813 et mort à Putiki le 22 septembre 1883, est un homme politique néo-zélandais. Il est l'un des quatre premiers Maori à siéger à la Chambre des représentants. Membre de l’iwi (tribu) Te Ati Haunui-a-Paparangi dans la région de Wanganui, il s'implique dans les années 1850 dans les médiations pour ramener la paix dans cette région affectée par de violents conflits territoriaux inter-tribaux. Dans le même temps il participe à des réunions du mouvement Kingitanga, mais pour y exprimer son opposition au mouvement : le Kingitanga affirme son indépendance vis-à-vis des autorités coloniales, tandis que Mete Paetahi est partisan de la souveraineté britannique en Nouvelle-Zélande. Il s'oppose aussi au soulèvement de la secte Pai Marire dans les années 1860, et se joint aux forces maori pro-britanniques qui le combattent. Il prend part à la bataille de Moutoa le 14 mai 1864. Il fournit au gouvernement colonial d'importantes recommandations tactiques dans le conflit, et participe à la bataille d'Ohoutahi en février 1865, puis à l'expédition militaire des forces gouvernementales dans le Taranaki en janvier et février 1866. En 1868 se tiennent les premières élections pour des sièges réservés aux Maori à la Chambre des représentants. Seul candidat dans la circonscription couvrant l'ouest du pays, Paetahi est déclaré élu. Un mois après son entrée au Parlement en mai, les forces coloniales font à nouveau face à une résistance maori armée : l’iwi Ngati Ruanui, sous son chef Titokowaru, se soulève en réponse à des confiscations de terres. Mete Paetahi, s'exprimant au Parlement, incite le gouvernement à répondre avec fermeté, soulignant les exactions commises par les rebelles. La même année, il succède au statut de chef de plus haut rang des tribus du sud du Wanganui. Il perd son siège de député aux élections de 1871. Il ne participe dès lors plus à la vie politique coloniale, mais prend part dans les années 1870 à des réunions inter-tribales maori pour discuter de la représentation politique des Maori, et de l'attitude à adopter sur la question des terres. Il est généralement favorable à l'idée de vendre des terres aux colons, tant que les tribus en conservent suffisamment pour vivre. Il se consacre par ailleurs à l'élevage de moutons qu'il acquiert en 1877. Il meurt à l'âge d'environ 70 ans, et les autorités coloniales l'honorent de funérailles militaires, en reconnaissance de ses services durant les Guerres maories."
-}, {
-  "entityIndex" : "158_entity12942",
+  "entityIndex" : "144_entity7861",
   "entityUrl" : "http://dbpedia.org/resource/Matthew_Kirkbride",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1737,7 +1583,7 @@
   "nouns" : [ ],
   "text" : "Matthew Middlewood Kirkbride (13 August 1848 – 4 November 1906) was an independent conservative Member of Parliament in New Zealand."
 }, {
-  "entityIndex" : "159_entity12993",
+  "entityIndex" : "145_entity7889",
   "entityUrl" : "http://dbpedia.org/resource/Matthew_Green_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1748,7 +1594,7 @@
   "nouns" : [ "electorate" ],
   "text" : "Matthew Wood Green (1840 – 29 September 1914) was a 19th-century Member of Parliament from Dunedin, New Zealand. He represented the Dunedin East electorate from 1881 to 1884, when he was defeated."
 }, {
-  "entityIndex" : "160_entity5420",
+  "entityIndex" : "146_entity3319",
   "entityUrl" : "http://dbpedia.org/resource/Frederick_Nene_Russell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1759,7 +1605,7 @@
   "nouns" : [ "mother", "father", "member", "electorate", "parliament" ],
   "text" : "Frederick Nene Russell was a Māori member of Parliament in New Zealand. He was one of four Māori elected in 1868 for the new Māori electorates in the New Zealand parliament. He represented the electorate of Northern Maori from 1868 to 1870 when he retired. He had a Pākehā father and a Māori mother and through her, he was related to Tāmati Wāka Nene."
 }, {
-  "entityIndex" : "161_entity5438",
+  "entityIndex" : "147_entity3324",
   "entityUrl" : "http://dbpedia.org/resource/Francis_Mander",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1770,18 +1616,7 @@
   "nouns" : [ "owner", "newspaper", "sawmiller", "election", "business", "member", "electorate", "parliament", "pioneer" ],
   "text" : "Francis Mander (1849–1942) was an Independent Conservative then from 1909 a Reform Party member of parliament in New Zealand. He won the Marsden electorate in Northland in the 1902 general election, and held it until 1922, when he retired. He was appointed to the Legislative Council in 1923, and served on it to 1930. In business he was a pioneer sawmiller and owner of The Northern Chronicle newspaper, based in Whangarei. He then purchased a popular newspaper, The Northern Advocate, and closed the Chronicle. He was the father of the notable New Zealand novelist and journalist, Jane Mander, and a descendant of the Mander family of Midland England."
 }, {
-  "entityIndex" : "162_entity5462",
-  "entityUrl" : "http://dbpedia.org/resource/Frank_Hockly",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "Rotorua" ]
-  },
-  "words" : [ "Franklin", "--", "New", "-LRB-", ".", "1865", "Zealand", "Party", "7", "-RRB-", "Hockly", "Reform", "1936", "Frank", "Octcober", "Member", "Parliament" ],
-  "adjectives" : [ ],
-  "nouns" : [ ],
-  "text" : "Frank Franklin Hockly (1865 – 7 Octcober 1936) was a Reform Party Member of Parliament in New Zealand."
-}, {
-  "entityIndex" : "163_entity5465",
+  "entityIndex" : "148_entity3343",
   "entityUrl" : "http://dbpedia.org/resource/Frank_Lethbridge",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1792,7 +1627,7 @@
   "nouns" : [ "electorate" ],
   "text" : "Frank Yates Lethbridge (22 May 1852 – 26 January 1915) was an independent conservative Member of Parliament in New Zealand. He represented the Rangitikei electorate from 1896 to 1902, and then the Oroua electorate from 1902 to 1908, when he retired."
 }, {
-  "entityIndex" : "164_entity5466",
+  "entityIndex" : "149_entity3344",
   "entityUrl" : "http://dbpedia.org/resource/Felix_McGuire",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1803,7 +1638,7 @@
   "nouns" : [ "election", "end", "electorate", "by-election", "resignation" ],
   "text" : "Felix McGuire (1847 – 6 April 1915) was an independent conservative Member of Parliament in New Zealand. McGuire unsuccessfully contested the Egmont electorate in the 1890 election. He was elected to the Egmont electorate in a 1891 by-election after the resignation of Harry Atkinson, and represented it until the end of the 12th Parliament in 1896. He successfully contested the Hawera electorate in the 1896 general election and served until he was defeated in the 1902 general election. He once again stood (unsuccessfully) for Hawera in 1905. McGuire died on 6 April 1915 at his home in the Auckland suburb of Epsom, and was buried in Waikaraka Cemetery."
 }, {
-  "entityIndex" : "165_entity5479",
+  "entityIndex" : "150_entity3352",
   "entityUrl" : "http://dbpedia.org/resource/Frederick_Alexander_Whitaker",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1814,7 +1649,7 @@
   "nouns" : [ "birthday", "son", "ceremony", "member", "farm", "parliament", "region", "daughter", "sister" ],
   "text" : "Frederick Alexander Whitaker (1 March 1847 – 9 June 1887) was a 19th-century member of parliament in the Waikato region of New Zealand. Whitaker was born in Pernambuco, Brazil, on 1 March 1847; he was the eldest son of Frederick Whitaker, New Zealand's 5th Premier. He married Kate Cox, the daughter of Alfred Cox, at Riverslea farm near Temuka in South Canterbury on 30 September 1879, three days after her 20th birthday. In the same ceremony, Cox's twin sister Marian married Francis Henry Barker, the fourth son of the late Dr Alfred Barker. He represented the Waipa electorate from 1879 to 1884, when he retired having served as government whip during his father's premiership. He committed suicide in the Auckland Club on 9 June 1887 triggered by losses from land speculation."
 }, {
-  "entityIndex" : "166_entity5490",
+  "entityIndex" : "151_entity3361",
   "entityUrl" : "http://dbpedia.org/resource/Frederick_Fitchett",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1825,7 +1660,7 @@
   "nouns" : [ "electorate" ],
   "text" : "Frederick Fitchett (1854–1930) was a 19th-century Member of Parliament from Dunedin, Otago, New Zealand. He was born in Grantham, Lincolnshire. He represented the Dunedin Central electorate from 1887 to 1890, when he retired."
 }, {
-  "entityIndex" : "167_entity5500",
+  "entityIndex" : "152_entity3369",
   "entityUrl" : "http://dbpedia.org/resource/Frederick_Haselden",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1836,7 +1671,7 @@
   "nouns" : [ "seat", "election", "Patea", "electorate", "resignation", "by-election" ],
   "text" : "Frederick Henry Haselden (1849–1934) was a conservative Member of Parliament from the Taranaki Region in New Zealand for the Patea electorate. Following the resignation of George Hutchison, he was elected in an 18 July 1901 by-election. The seat was declared vacant from 9 October 1901. He was re-elected in another by-election on 6 November 1901, but was defeated in the 1902 general election. In the 1908 general election, he stood unsuccessfully for Ohinemuri."
 }, {
-  "entityIndex" : "168_entity5501",
+  "entityIndex" : "153_entity3370",
   "entityUrl" : "http://dbpedia.org/resource/Fred_Sutton",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1847,7 +1682,7 @@
   "nouns" : [ "electorate", "region" ],
   "text" : "Frederick (Fred) Sutton (1836–1906) was a 19th-century Member of Parliament from the Hawke's Bay region of New Zealand. He represented the Napier electorate from 1877 to 1881, and then the Hawkes Bay electorate from 1881 to 1884, when he was defeated."
 }, {
-  "entityIndex" : "169_entity5753",
+  "entityIndex" : "154_entity3513",
   "entityUrl" : "http://dbpedia.org/resource/Gerry_Eckhoff",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1858,7 +1693,7 @@
   "nouns" : [ "country", "politician", "beef", "sheep" ],
   "text" : "Gerrard Mortland \"Gerry\" Eckhoff farms sheep and beef in the high country near Roxburgh, Central Otago. He is a former New Zealand politician, having served as an ACT New Zealand Member of Parliament."
 }, {
-  "entityIndex" : "170_entity5862",
+  "entityIndex" : "155_entity3572",
   "entityUrl" : "http://dbpedia.org/resource/George_Warren_Russell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1869,18 +1704,7 @@
   "nouns" : [ "influenza", "government", "response", "politician" ],
   "text" : "George Warren Russell (24 February 1854 – 28 June 1937) was a New Zealand politician from Christchurch. He served as Minister of Internal Affairs and Minister of Public Health in the wartime National government, and was responsible for the New Zealand government's response to the 1918 influenza epidemic."
 }, {
-  "entityIndex" : "171_entity6047",
-  "entityUrl" : "http://dbpedia.org/resource/George_Hutchison_(New_Zealand_politician)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "Waitotara", "Patea" ]
-  },
-  "words" : [ "--", "New", "Hutchison", "-LRB-", "politician", ".", "1930", "Zealand", "George", "-RRB-", "July", "30", "1846", "Taranaki" ],
-  "adjectives" : [ ],
-  "nouns" : [ "politician" ],
-  "text" : "George Hutchison (1846 – 30 July 1930) was a New Zealand politician from Taranaki."
-}, {
-  "entityIndex" : "172_entity6059",
+  "entityIndex" : "156_entity3690",
   "entityUrl" : "http://dbpedia.org/resource/George_Pearce_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1891,7 +1715,7 @@
   "nouns" : [ "politician", "Patea", "great-grandfather", "electorate", "Medal" ],
   "text" : "George Vater Pearce (1863–1935) was a New Zealand politician of the Reform Party. He represented the Patea electorate in Parliament from 1908 to 1919, when he was defeated. In 1935, he was awarded the King George V Silver Jubilee Medal. He was the great-grandfather of a National Party Minister of Finance, Ruth Richardson."
 }, {
-  "entityIndex" : "173_entity6237",
+  "entityIndex" : "157_entity3787",
   "entityUrl" : "http://dbpedia.org/resource/G._M._Thomson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1902,7 +1726,7 @@
   "nouns" : [ "educationalist", "scientist", "politician", "worker" ],
   "text" : "George Malcolm Thomson (2 October 1848 – 25 August 1933) was a New Zealand scientist, educationalist, social worker and politician."
 }, {
-  "entityIndex" : "174_entity6332",
+  "entityIndex" : "158_entity3851",
   "entityUrl" : "http://dbpedia.org/resource/George_Richardson_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1913,7 +1737,7 @@
   "nouns" : [ "minister", "cabinet" ],
   "text" : "George Frederick Richardson (1837 – 23 October 1909), sometimes published as George Francis Richardson, was a 19th-century Member of Parliament in Southland, New Zealand and a cabinet minister."
 }, {
-  "entityIndex" : "175_entity6380",
+  "entityIndex" : "159_entity3881",
   "entityUrl" : "http://dbpedia.org/resource/George_Graham_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1924,7 +1748,7 @@
   "nouns" : [ "clerk", "birthplace", "grandfather", "interpreter" ],
   "text" : "George Graham (10 December 1812 – 14 February 1901) was a 19th-century Member of Parliament in the Auckland, New Zealand. Graham was born in 1812; sources differ whether his birthplace was in Hove, East Sussex or at Frogmore in Berkshire, England. He belonged to Clan Graham, and his grandfather was an interpreter between the Scottish and the English. He became clerk of works with the Board of Ordnance aged 19, and belonged to the Royal Engineers for the next 25 years. He was posted to Ireland in 1835, to New South Wales in 1836, and to New Zealand in 1840. He worked for the Royal Engineers and was involved in public works, roading, and military installations. The Flagstaff War in the Bay of Islands in 1845–46 put a scare to the population of Auckland, and Graham supervised the enlargement of the Albert Barracks overlooking the town. He later claimed that the fortification of the barracks was not necessary, but by doing so, it would prevent the subdivision of the hill and that the area could thus later become a park. Indeed, Albert Park was formed in the 1880s. Graham was then sent to China, where he suffered a nervous breakdown after witnessing a fellow soldier being buried alive. He resigned from the military and returned to New Zealand, where he took up farming in Māngere. He represented the Newton electorate from 1861 to 1869, when he resigned. Graham retired to Hove in England for the last years of his life. He died at Hove on 14 February 1901. His son James Bannatyne Graham married Elizabeth Mary Josephine Sheehan, the sister of cabinet minister John Sheehan. Their son was George Samuel Graham."
 }, {
-  "entityIndex" : "176_entity6388",
+  "entityIndex" : "160_entity3889",
   "entityUrl" : "http://dbpedia.org/resource/George_Armstrong_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1935,7 +1759,7 @@
   "nouns" : [ ],
   "text" : "George Armstrong (1822 – 1 September 1905) was a 19th-century Member of Parliament in Canterbury, New Zealand."
 }, {
-  "entityIndex" : "177_entity6391",
+  "entityIndex" : "161_entity3891",
   "entityUrl" : "http://dbpedia.org/resource/George_Henry_Tribe",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1946,18 +1770,7 @@
   "nouns" : [ "newspaper", "paper", "failure", "electorate", "evening" ],
   "text" : "George Henry Tribe (1828 – 19 March 1877) was a 19th-century Member of Parliament in Westland, New Zealand. He lived in Christchurch and bought its first evening newspaper, the Evening Mail. After the paper's failure, he moved to the West Coast. He represented the Totara electorate from 1871 to 1877, when he died."
 }, {
-  "entityIndex" : "178_entity6393",
-  "entityUrl" : "http://dbpedia.org/resource/Gustav_von_der_Heyde",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:electorate" : [ "Waitemata" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "Juni", "29", "Ludwig", "ein", "Theodor", "der", "von", "Bremen", "Heyde", "1834", "†", "1891", "war", "Gustav", "*", "und", ",", ".", "Geschäftsmann", "Australien", "-RRB-", ";", "deutsch-neuseeländischer", "Sydney" ],
-  "adjectives" : [ ],
-  "nouns" : [ "war", "ein", "deutsch-neuseeländischer" ],
-  "text" : "Gustav Ludwig Theodor von der Heyde (* 1834 in Bremen; † 29. Juni 1891 in Sydney, Australien) war ein deutsch-neuseeländischer Geschäftsmann und Politiker."
-}, {
-  "entityIndex" : "179_entity6395",
+  "entityIndex" : "162_entity3894",
   "entityUrl" : "http://dbpedia.org/resource/George_McLean_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1968,7 +1781,7 @@
   "nouns" : [ ],
   "text" : "Sir George McLean (1834 – 17 February 1917) was a 19th-century Member of Parliament from the Otago Region in New Zealand."
 }, {
-  "entityIndex" : "180_entity6396",
+  "entityIndex" : "163_entity3895",
   "entityUrl" : "http://dbpedia.org/resource/George_Webster_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1979,7 +1792,7 @@
   "nouns" : [ "Trustee", "inflammation", "trustee", "state", "electorate", "brain", "illness" ],
   "text" : "George Webster (died 15 July 1875) was a 19th-century Member of Parliament from Southland, New Zealand. In 1860 while in Australia he attempted to found a state trustee in Victoria, similar to the Public Trustee (known as the Public Trust) set up in 1873 by Vogel. He represented the Wallace electorate from 1869 to 1875, when he died. He died on 15 July 1875 from an inflammation of the brain after a short illness."
 }, {
-  "entityIndex" : "181_entity6408",
+  "entityIndex" : "164_entity3903",
   "entityUrl" : "http://dbpedia.org/resource/George_Read_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1990,7 +1803,7 @@
   "nouns" : [ "trading", "whaling", "ship", "life" ],
   "text" : "George Edward Read (1814 – 23 February 1878) was a 19th-century Member of Parliament from the Gisborne Region of New Zealand. Read was born in Mendlesham, Suffolk, England, in either 1814 or 1815. Little is known of his early life. He came to the Pacific in the 1830s on a whaling ship, and worked on trading ships. By 1852, he owned a schooner. He was a prominent trader and landowner in the Gisborne area from 1852. Following the general election held on 6 January 1876, he represented the East Coast electorate until 22 August, when he was unseated on a petition."
 }, {
-  "entityIndex" : "182_entity6409",
+  "entityIndex" : "165_entity3904",
   "entityUrl" : "http://dbpedia.org/resource/George_Morris_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2001,7 +1814,7 @@
   "nouns" : [ "owner", "agent", "election", "petition", "surveyor", "commission", "electorate" ],
   "text" : "George Betham Morris (1840 – 16 April 1903) was a 19th-century Member of Parliament from the Gisborne and Bay of Plenty regions of New Zealand. He represented the East Coast electorate from 1876 (when he was declared elected on a petition) to 1879, when he was defeated. The 1881 election in the newly formed Tauranga electorate was hotly contested. Four candidates were nominated: Morris; William Kelly, who had also previously represented the East Coast electorate; George Vesey Stewart, then the owner of the Bay of Plenty Times; and Henry Thomas Rowe, a surveyor and commission agent. Rowe announced his retirement from the contest on 6 December three days out from election day, urging his supporters to vote for Stewart instead. The unofficial results were released the day after the election (Saturday, 10 December) and Morris had a majority of 13 votes over Stewart, with the official declaration to be made on 12 December. This was deferred until 14 December, with Morris ahead by 10 votes. Stewart stood for the Tauranga mayoralty a few months later and was elected the town's first mayor. He represented the Tauranga electorate until 1885, when he resigned. He was later a member of the Legislative Council, from 15 May 1885 to 16 April 1903, when he died."
 }, {
-  "entityIndex" : "183_entity14156",
+  "entityIndex" : "166_entity8615",
   "entityUrl" : "http://dbpedia.org/resource/Patricia_Schnauer",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2012,7 +1825,7 @@
   "nouns" : [ "MP", "politician", "party" ],
   "text" : "Patricia Schnauer (born 30 July 1942) is a former New Zealand politician. She was an MP from 1996 to 1999, representing the ACT New Zealand party."
 }, {
-  "entityIndex" : "184_entity14682",
+  "entityIndex" : "167_entity8910",
   "entityUrl" : "http://dbpedia.org/resource/Patrick_Dignan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2023,7 +1836,7 @@
   "nouns" : [ "layman" ],
   "text" : "Patrick Dignan (1814 – 20 October 1894) was a 19th-century Member of Parliament in Auckland, New Zealand. He was born in Loughrea, County Galway, Ireland. He emigrated to New South Wales in 1839 and came to Auckland on the Sophia Pate in 1841. He was a leading Catholic layman in Auckland and was a Member of the Board of Governors of St Peter's School. He represented the Auckland West electorate from 1867 to 1870 when he was defeated, and from 1875 to 1879 when he resigned. He was appointed a member of the Legislative Council in 1879, until he died in 1894. His eldest son, Peter Dignan, was Mayor of Auckland in 1897 and 1898."
 }, {
-  "entityIndex" : "185_entity87",
+  "entityIndex" : "168_entity28",
   "entityUrl" : "http://dbpedia.org/resource/Alfred_William_East",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2034,7 +1847,7 @@
   "nouns" : [ "politician", "end", "term", "electorate" ],
   "text" : "Alfred William East was a New Zealand politician. He represented the Omata electorate in the 2nd New Zealand Parliament, but resigned in March 1860 before the end of his term. He did not serve in any subsequent Parliaments. He represented the Omata electorate on the Taranaki Provincial Council from 5 November 1855 to 13 December 185."
 }, {
-  "entityIndex" : "186_entity94",
+  "entityIndex" : "169_entity32",
   "entityUrl" : "http://dbpedia.org/resource/Ann_Batten",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2045,7 +1858,7 @@
   "nouns" : [ "politician", "member", "priest" ],
   "text" : "Reverend Ann Batten is an Anglican priest and a former New Zealand politician. She has been a member of various political parties and represented New Zealand First and Mauri Pacific in Parliament."
 }, {
-  "entityIndex" : "187_entity909",
+  "entityIndex" : "170_entity432",
   "entityUrl" : "http://dbpedia.org/resource/Augustus_White",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2056,7 +1869,7 @@
   "nouns" : [ "seat", "Superintendent", "majority", "electorate", "by-election" ],
   "text" : "Augustus Edward White was a 19th-century Member of Parliament in New Zealand. He contested the Akaroa electorate against William Sefton Moorhouse, the incumbent for the seat and Superintendent of the Province of Canterbury. White and Moorhouse received 51 and 32 votes, respectively; a majority of 19 for White, who was thus elected. White resigned in 1863, and Lancelot Walker won the subsequent by-election. White's house Blythcliffe in 37 Rue Balguerie, Akaroa, is presumed to have been designed by Samuel Farr based on drawings prepared by the Australian architect John Verge. Built in 1857, it was \"the grandest house of its day in Akaroa\". Originally registered as Category II in 1983, its classification was later changed to Category I."
 }, {
-  "entityIndex" : "188_entity979",
+  "entityIndex" : "171_entity479",
   "entityUrl" : "http://dbpedia.org/resource/Albert_Samuel",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2067,7 +1880,7 @@
   "nouns" : [ "election", "electorate", "Medal" ],
   "text" : "Albert Moeller Samuel (7 June 1876 – 18 June 1963) was a Reform Party Member of Parliament in New Zealand. He was elected to the Ohinemuri electorate in the 1925 general election. In 1928 he was elected to the Thames electorate, but was defeated in 1935. In 1935, he was awarded the King George V Silver Jubilee Medal."
 }, {
-  "entityIndex" : "189_entity981",
+  "entityIndex" : "172_entity481",
   "entityUrl" : "http://dbpedia.org/resource/Alfred_Ansell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2078,7 +1891,7 @@
   "nouns" : [ "election", "electorate", "Medal" ],
   "text" : "Alfred Edward Ansell (1876–1941) was a Reform Party Member of Parliament in New Zealand. He was elected to the Chalmers electorate in the 1928 general election, but was defeated in 1935. In 1935, he was awarded the King George V Silver Jubilee Medal."
 }, {
-  "entityIndex" : "190_entity982",
+  "entityIndex" : "173_entity482",
   "entityUrl" : "http://dbpedia.org/resource/Alexander_Stuart_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2089,7 +1902,7 @@
   "nouns" : [ "election", "electorate" ],
   "text" : "Alexander Stuart (c.1875–1954) was a Reform Party Member of Parliament in New Zealand. He was elected to the Rangitikei electorate in the 1931 general election, but was defeated in 1935."
 }, {
-  "entityIndex" : "191_entity983",
+  "entityIndex" : "174_entity483",
   "entityUrl" : "http://dbpedia.org/resource/Alexander_Malcolm",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2100,7 +1913,7 @@
   "nouns" : [ "election", "term", "electorate", "Council" ],
   "text" : "Alexander Scott Malcolm (1864–1956) was an independent conservative and then Reform Party Member of Parliament in New Zealand. He was elected to the Clutha electorate in the 1905 general election, but was defeated in 1922. He was Chairman of Committees for three terms: 4 July 1913 to 20 November 1914, 7 July 1915 to 27 November 1919 and 15 July 1920 to 30 November 1922. He was appointed to the Legislative Council on 16 June 1924 and served for one term until 15 June 1931, when his term ended."
 }, {
-  "entityIndex" : "192_entity1060",
+  "entityIndex" : "175_entity516",
   "entityUrl" : "http://dbpedia.org/resource/Alfred_Renall",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2111,7 +1924,7 @@
   "nouns" : [ "electorate" ],
   "text" : "Alfred William Renall (1813–1902) was a 19th-century Member of Parliament in Wellington, New Zealand. He represented the Hutt Valley electorate of Hutt from 1858 to 1866 when he retired."
 }, {
-  "entityIndex" : "193_entity1068",
+  "entityIndex" : "176_entity520",
   "entityUrl" : "http://dbpedia.org/resource/Andrew_Richmond",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2122,7 +1935,7 @@
   "nouns" : [ "son", "daughter", "Council" ],
   "text" : "Andrew James Richmond (1832 – 15 November 1880) was a 19th-century Member of Parliament in Nelson, New Zealand. He was the son of Major Mathew Richmond, Member of the Legislative Council (1853–1887). In 1856, he married Anna Selina Richmond (née Blundell) at Nelson, oldest daughter of Captain Francis H. Blundell. They were to have one son and three daughters. He represented the Collingwood electorate from 1861 to 1868, when he resigned. He then represented the Suburbs of Nelson electorate from 1873 to 1880, when he died. His death on 15 November 1880 at age 48 was sudden and was attributed to heart disease. He died while at home on his farm Richmond Brook at Awatere, Marlborough. He had managed Richmond Brook for his father. He was survived by his wife."
 }, {
-  "entityIndex" : "194_entity1103",
+  "entityIndex" : "177_entity542",
   "entityUrl" : "http://dbpedia.org/resource/Allan_McDonald_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -2133,7 +1946,7 @@
   "nouns" : [ "electorate" ],
   "text" : "Allan McDonald was a 19th-century Member of Parliament from the Gisborne Region of New Zealand. He represented the East Coast electorate from 1879 to 1884, when he resigned."
 }, {
-  "entityIndex" : "195_entity1105",
+  "entityIndex" : "178_entity544",
   "entityUrl" : "http://dbpedia.org/resource/Arthur_O'Callaghan",
   "dboClass" : "dbo:Politician",
   "properties" : {

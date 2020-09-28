@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity11062",
+  "entityIndex" : "1_entity6837",
   "entityUrl" : "http://dbpedia.org/resource/Ken_Reed",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "2_entity8370",
+  "entityIndex" : "2_entity5044",
   "entityUrl" : "http://dbpedia.org/resource/Jin_Yi",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "3_entity8424",
+  "entityIndex" : "3_entity5073",
   "entityUrl" : "http://dbpedia.org/resource/James_Craigen",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "4_entity8928",
+  "entityIndex" : "4_entity5378",
   "entityUrl" : "http://dbpedia.org/resource/John_Fullerton",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,7 +43,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "5_entity9070",
+  "entityIndex" : "5_entity5488",
   "entityUrl" : "http://dbpedia.org/resource/Jack_Byrne",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -54,7 +54,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "6_entity9906",
+  "entityIndex" : "6_entity5991",
   "entityUrl" : "http://dbpedia.org/resource/John_Flowers",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -65,7 +65,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "7_entity10099",
+  "entityIndex" : "7_entity6147",
   "entityUrl" : "http://dbpedia.org/resource/John_M._Smith",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -76,7 +76,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "8_entity10590",
+  "entityIndex" : "8_entity6540",
   "entityUrl" : "http://dbpedia.org/resource/Jeff_Carr",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -87,7 +87,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "9_entity4529",
+  "entityIndex" : "9_entity2796",
   "entityUrl" : "http://dbpedia.org/resource/Edward_Stewart",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,7 +98,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "10_entity18777",
+  "entityIndex" : "10_entity11558",
   "entityUrl" : "http://dbpedia.org/resource/Walter_Harrison",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -109,7 +109,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "11_entity11776",
+  "entityIndex" : "11_entity7246",
   "entityUrl" : "http://dbpedia.org/resource/Li_Da",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -120,7 +120,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "12_entity2672",
+  "entityIndex" : "12_entity1557",
   "entityUrl" : "http://dbpedia.org/resource/Carol_Martin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -131,7 +131,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "13_entity2734",
+  "entityIndex" : "13_entity1597",
   "entityUrl" : "http://dbpedia.org/resource/Christopher_Reynolds",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -142,7 +142,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "14_entity1850",
+  "entityIndex" : "14_entity1035",
   "entityUrl" : "http://dbpedia.org/resource/Barbara_Perry",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -153,7 +153,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "15_entity18097",
+  "entityIndex" : "15_entity11183",
   "entityUrl" : "http://dbpedia.org/resource/Thomas_Sanderson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -164,7 +164,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "16_entity15133",
+  "entityIndex" : "16_entity9173",
   "entityUrl" : "http://dbpedia.org/resource/Robert_Scobie",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -175,7 +175,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "17_entity15426",
+  "entityIndex" : "17_entity9368",
   "entityUrl" : "http://dbpedia.org/resource/Robert_Reilly",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -186,7 +186,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "18_entity15544",
+  "entityIndex" : "18_entity9448",
   "entityUrl" : "http://dbpedia.org/resource/Robin_Matthews",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -197,7 +197,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "19_entity15752",
+  "entityIndex" : "19_entity9610",
   "entityUrl" : "http://dbpedia.org/resource/Richard_Cannings",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -208,7 +208,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "20_entity3604",
+  "entityIndex" : "20_entity2170",
   "entityUrl" : "http://dbpedia.org/resource/Ding_Yi",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -219,7 +219,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "21_entity4064",
+  "entityIndex" : "21_entity2479",
   "entityUrl" : "http://dbpedia.org/resource/Douglas_Miller",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -230,7 +230,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "22_entity4169",
+  "entityIndex" : "22_entity2562",
   "entityUrl" : "http://dbpedia.org/resource/Donald_Cochrane",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -241,7 +241,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "23_entity19579",
+  "entityIndex" : "23_entity12124",
   "entityUrl" : "http://dbpedia.org/resource/Yuan_Hong",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -252,7 +252,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "24_entity6810",
+  "entityIndex" : "24_entity4191",
   "entityUrl" : "http://dbpedia.org/resource/Harold_Fisher",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -263,7 +263,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "25_entity7772",
+  "entityIndex" : "25_entity4762",
   "entityUrl" : "http://dbpedia.org/resource/Ion_Popa",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -274,7 +274,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "26_entity7871",
+  "entityIndex" : "26_entity4814",
   "entityUrl" : "http://dbpedia.org/resource/Ihor_Lutsenko",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -285,7 +285,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "27_entity12027",
+  "entityIndex" : "27_entity7407",
   "entityUrl" : "http://dbpedia.org/resource/Michael_John_Foster",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -296,7 +296,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "28_entity12049",
+  "entityIndex" : "28_entity7423",
   "entityUrl" : "http://dbpedia.org/resource/Michael_Cassidy",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -307,7 +307,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "29_entity12255",
+  "entityIndex" : "29_entity7515",
   "entityUrl" : "http://dbpedia.org/resource/Matthew_Morris",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -318,7 +318,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "30_entity12522",
+  "entityIndex" : "30_entity7637",
   "entityUrl" : "http://dbpedia.org/resource/Michael_McLeod",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -329,7 +329,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "31_entity5135",
+  "entityIndex" : "31_entity3183",
   "entityUrl" : "http://dbpedia.org/resource/Francis_Locke",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -340,7 +340,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "32_entity5700",
+  "entityIndex" : "32_entity3495",
   "entityUrl" : "http://dbpedia.org/resource/Gustaf_Bonde",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -351,7 +351,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "33_entity6329",
+  "entityIndex" : "33_entity3849",
   "entityUrl" : "http://dbpedia.org/resource/Gonzalo_Barrios",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -362,7 +362,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "34_entity6461",
+  "entityIndex" : "34_entity3945",
   "entityUrl" : "http://dbpedia.org/resource/Glenn_Taylor",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -373,7 +373,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "35_entity14126",
+  "entityIndex" : "35_entity8601",
   "entityUrl" : "http://dbpedia.org/resource/Peter_Bradley",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -384,7 +384,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "36_entity134",
+  "entityIndex" : "36_entity46",
   "entityUrl" : "http://dbpedia.org/resource/Altaf_Hussain",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -395,7 +395,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "37_entity542",
+  "entityIndex" : "37_entity226",
   "entityUrl" : "http://dbpedia.org/resource/Ahmed_Ezz",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -406,7 +406,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "38_entity589",
+  "entityIndex" : "38_entity259",
   "entityUrl" : "http://dbpedia.org/resource/Archie_Lang",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -416,15 +416,4 @@
   "adjectives" : [ ],
   "nouns" : [ ],
   "text" : ""
-}, {
-  "entityIndex" : "39_entity713",
-  "entityUrl" : "http://dbpedia.org/resource/Ali_Saad",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbo:wikiPageDisambiguates" : [ "http://dbpedia.org/resource/Ali_Saad_(actor)", "http://dbpedia.org/resource/Ali_Saad_(minister)" ]
-  },
-  "words" : [ "سعد", "يشير", "علي", ":", "قد", "إلى" ],
-  "adjectives" : [ ],
-  "nouns" : [ "علي" ],
-  "text" : "علي سعد قد يشير إلى:"
 } ]

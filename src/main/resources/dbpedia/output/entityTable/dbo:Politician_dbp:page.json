@@ -1,16 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10729",
-  "entityUrl" : "http://dbpedia.org/resource/Ken_Rothman",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:page" : [ "72" ]
-  },
-  "words" : [ "``", "Oktober", "Politiker", "-LRB-", "Zwischen", "ist", "ein", "St.", "ehemaliger", "Kenneth", "des", "Rothman", "Missouri", "1935", "US-amerikanischer", "11", "J.", "war", "*", "und", ",", "er", ".", "1985", "Ken", "1981", "-RRB-", "Bundesstaates", "Louis", "Vizegouverneur" ],
-  "adjectives" : [ "und" ],
-  "nouns" : [ "Politiker", "war", "ist", "ein", "ehemaliger", "er", "US-amerikanischer" ],
-  "text" : "Kenneth J. „Ken“ Rothman (* 11. Oktober 1935 in St. Louis, Missouri) ist ein ehemaliger US-amerikanischer Politiker. Zwischen 1981 und 1985 war er Vizegouverneur des Bundesstaates Missouri."
-}, {
-  "entityIndex" : "2_entity13898",
+  "entityIndex" : "1_entity8490",
   "entityUrl" : "http://dbpedia.org/resource/Nathan_Sadowsky",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +10,7 @@
   "nouns" : [ "candidate", "district" ],
   "text" : "Nathan Sadowsky was a political candidate in Wisconsin. In 1948, he ran for the Wisconsin State Senate. He lost to Gaylord Nelson. In 1950, Sadowsky was a candidate for the United States House of Representatives from Wisconsin's 2nd congressional district. He lost to incumbent Glenn Robert Davis. Sadowsky was a member of the Socialist Party of America."
 }, {
-  "entityIndex" : "3_entity17123",
+  "entityIndex" : "2_entity10528",
   "entityUrl" : "http://dbpedia.org/resource/Seah_Tee_Heng",
   "dboClass" : "dbo:Politician",
   "properties" : {

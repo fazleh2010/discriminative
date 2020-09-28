@@ -1,16 +1,5 @@
 [ {
-  "entityIndex" : "1_entity13714",
-  "entityUrl" : "http://dbpedia.org/resource/Nicolas_Hentz",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:movement" : [ "http://dbpedia.org/resource/French_Revolution" ]
-  },
-  "words" : [ "français", "de", "-LRB-", "Il", "fut", "est", "Nicolas", "Hentz", "1831", "1753", "1830", "député", "1795", "1750", "juillet", "un", "1er", "à", "ou", "1792", ",", "-", ".", "Convention", "la", "révolutionnaire", "-RRB-", "1829", "nationale", "Moselle", "1824", "1768" ],
-  "adjectives" : [ "juillet" ],
-  "nouns" : [ "français", "Il", "fut", "ou", "révolutionnaire", "un" ],
-  "text" : "Nicolas Hentz (1750, 1753 ou 1768 - 1er juillet 1824, 1829, 1830 ou 1831) est un révolutionnaire français. Il fut député de la Moselle à la Convention nationale de 1792 à 1795."
-}, {
-  "entityIndex" : "2_entity18637",
+  "entityIndex" : "1_entity11499",
   "entityUrl" : "http://dbpedia.org/resource/Willie_MacRae",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +10,7 @@
   "nouns" : [ "death", "revolver", "officer", "orator", "politician", "part", "independence", "life", "campaigner", "head", "SNP", "car", "movement", "lawyer" ],
   "text" : "Willie MacRae (18 May 1923 – 7 April 1985) was a Scottish naval officer, lawyer, orator, politician and anti-nuclear campaigner. In the Second World War he served in the British Army and then the Royal Indian Navy. He supported the Indian independence movement and for much of his life was active in the Scottish National Party (SNP). MacRae is remembered for his mysterious death, in which his car crashed in a remote part of the Scottish Highlands and he was shot in the head with a revolver. The official verdict was undetermined."
 }, {
-  "entityIndex" : "3_entity18129",
+  "entityIndex" : "2_entity11205",
   "entityUrl" : "http://dbpedia.org/resource/Timothy_Brown_(radical)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,18 +21,7 @@
   "nouns" : [ "Company", "radical", "nickname", "merchant", "association", "time", "banker", "master" ],
   "text" : "Timothy Brown (1743/1744 – 4 September 1820) was an English banker, merchant and radical, known for his association with other radicals of the time, such as John Horne Tooke, Robert Waithman, William Frend, William Cobbett, John Cartwright and George Cannon; his political views gave him the nickname \"Equality Brown\". He was also one of the early partners of Whitbread, and became the master of the Worshipful Company of Brewers."
 }, {
-  "entityIndex" : "4_entity5213",
-  "entityUrl" : "http://dbpedia.org/resource/Filippo_Turati",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:movement" : [ "http://dbpedia.org/resource/Labor_Movement" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "Soziologe", "26", "bei", "29", "dei", "Filippo", "Er", "bis", "Como", "1932", "der", "gehörte", "sozialdemokratischer", "von", "1895", "März", "Camera", "italienischer", "1857", "November", "†", "war", "*", "und", ",", ".", "Jurist", "Dichter", "Turati", "Canzo", "-RRB-", "1929", "deputati", ";", "Paris" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Politiker", "gehörte", "sozialdemokratischer", "Soziologe", "von", "war", "und", "italienischer", "Er", "bis", "Jurist" ],
-  "text" : "Filippo Turati (* 26. November 1857 in Canzo bei Como; † 29. März 1932 in Paris) war italienischer Jurist, Soziologe, Dichter und sozialdemokratischer Politiker. Er gehörte von 1895 bis 1929 der Camera dei deputati an."
-}, {
-  "entityIndex" : "5_entity1488",
+  "entityIndex" : "3_entity821",
   "entityUrl" : "http://dbpedia.org/resource/As'ad_Madani",
   "dboClass" : "dbo:Politician",
   "properties" : {

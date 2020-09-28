@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity8845",
+  "entityIndex" : "1_entity5323",
   "entityUrl" : "http://dbpedia.org/resource/Jody_Wagner",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "candidate", "election", "politician", "district", "nominee" ],
   "text" : "Jody Moses Wagner (born August 6, 1955) is an American politician from Virginia Beach, Virginia. A Democrat, she served as State Treasurer of Virginia from January 2002 to January 2006, and as Virginia Secretary of Finance in the Cabinet of Governor Tim Kaine from January 2006 to August 2008. She was an unsuccessful candidate for United States House of Representatives in Virginia's 2nd congressional district in 2000. She was the nominee for Lieutenant Governor of Virginia in the 2009 election. She lost the election to the incumbent Bill Bolling."
 }, {
-  "entityIndex" : "2_entity17087",
+  "entityIndex" : "2_entity10499",
   "entityUrl" : "http://dbpedia.org/resource/S._Vedachalam",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ ],
   "text" : ""
 }, {
-  "entityIndex" : "3_entity14571",
+  "entityIndex" : "3_entity8833",
   "entityUrl" : "http://dbpedia.org/resource/Phil_Hermanson",
   "dboClass" : "dbo:Politician",
   "properties" : {

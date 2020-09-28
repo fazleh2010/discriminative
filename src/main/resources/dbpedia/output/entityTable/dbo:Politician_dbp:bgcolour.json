@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity11887",
+  "entityIndex" : "1_entity7321",
   "entityUrl" : "http://dbpedia.org/resource/Lal_Chand_Kataria",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "Politician", "Jun", "house" ],
   "text" : "Lal Chand Kataria (born 12 Jun 1968) is an Indian Politician belonging to the Indian National Congress.He was elected to the Lok Sabha, lower house of the Parliament of India from Jaipur Rural, Rajasthan in 2009."
 }, {
-  "entityIndex" : "2_entity2256",
+  "entityIndex" : "2_entity1320",
   "entityUrl" : "http://dbpedia.org/resource/Bharat_Ram_Meghwal",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "Politician", "house" ],
   "text" : "Bharat Ram Meghwal (born 11 Jan 1956) is an Indian Politician belonging to the Indian National Congress.He was elected to the Lok Sabha, lower house of the Parliament of India from Ganganagar Rajasthan in 2009."
 }, {
-  "entityIndex" : "3_entity18118",
+  "entityIndex" : "3_entity11197",
   "entityUrl" : "http://dbpedia.org/resource/Tarachand_Bhagora",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "Politician", "house" ],
   "text" : "Tarachand Bhagora (born 1 January 1954) is an Indian Politician belonging to the Indian National Congress.He was elected to the Lok Sabha, lower house of the Parliament of India from Banswara, Rajasthan in 1996,1999 and 2009."
 }, {
-  "entityIndex" : "4_entity7132",
+  "entityIndex" : "4_entity4354",
   "entityUrl" : "http://dbpedia.org/resource/Hemananda_Biswal",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,7 +43,7 @@
   "nouns" : [ "ନନ", "leader", "ଳ", "MP", "ଶ", "office" ],
   "text" : "Hemananda Biswal (Odia: ହେମାନନ୍ଦ ବିଶ୍ୱାଳ; born 1 December 1939) is a leader of the Indian National Congress, and a former Chief Minister of Odisha, who was in office from 7 December 1989 to 5 March 1990 and again from 6 December 1999 to 5 March 2000; and was again elected as an MP from Sundergarh in 2009."
 }, {
-  "entityIndex" : "5_entity17185",
+  "entityIndex" : "5_entity10571",
   "entityUrl" : "http://dbpedia.org/resource/Santosh_Chowdhary",
   "dboClass" : "dbo:Politician",
   "properties" : {

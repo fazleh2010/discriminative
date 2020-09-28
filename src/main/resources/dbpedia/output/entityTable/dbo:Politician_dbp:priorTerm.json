@@ -1,16 +1,5 @@
 [ {
-  "entityIndex" : "1_entity8066",
-  "entityUrl" : "http://dbpedia.org/resource/Joe_Schwarz",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:priorTerm" : [ "20" ]
-  },
-  "words" : [ "``", "congressional", "-LRB-", "independent", "John", "M.D.", "United", "Republican", "Representatives", "Schwarz", "States", "2007", "2005", "2004", "represented", "1937", "January", "November", "moderate", "''", "Joe", "J.", "15", "H.", "born", "politician", "House", "7th", ",", "'s", ".", "Michigan", "elected", "district", "-RRB-" ],
-  "adjectives" : [ "congressional", "independent", "7th", "moderate" ],
-  "nouns" : [ "politician", "district" ],
-  "text" : "John J. H. \"Joe\" Schwarz, M.D. (born November 15, 1937), is an independent politician from Michigan, who was elected to the United States House of Representatives in 2004 as a moderate Republican. He represented Michigan's 7th congressional district from January 2005 to January 2007."
-}, {
-  "entityIndex" : "2_entity9535",
+  "entityIndex" : "1_entity5706",
   "entityUrl" : "http://dbpedia.org/resource/Jeff_Gorell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +10,7 @@
   "nouns" : [ "candidate", "redistricting", "politician", "district", "City", "District", "Assembly" ],
   "text" : "Jeffrey Frederick Gorell (born November 6, 1970) is currently serving as Deputy Mayor of the City of Los Angeles for Homeland Security and Public Safety. Gorell is a Republican politician from California and a former candidate for the U.S. House of Representatives in California's 26th congressional district. In 2010, Gorell was elected to the State Legislature to serve as Assembly Member for the 37th Assembly District in California. After the decennial redistricting in 2011, Gorell was reelected to represent the new 44th Assembly District and served as Vice-Chairman of the Assembly Budget Committee. Gorell is notable for being the first California legislator called to active duty since WWII. During his deployment, fourteen bills were sponsored in his name."
 }, {
-  "entityIndex" : "3_entity15808",
+  "entityIndex" : "2_entity9650",
   "entityUrl" : "http://dbpedia.org/resource/Rick_Bertrand",
   "dboClass" : "dbo:Politician",
   "properties" : {

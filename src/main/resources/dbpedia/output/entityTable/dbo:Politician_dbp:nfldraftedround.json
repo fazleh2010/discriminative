@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity8808",
+  "entityIndex" : "1_entity5291",
   "entityUrl" : "http://dbpedia.org/resource/Jay_Walker_(legislator)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Jay Walker (born January 24, 1972) is an American politician who represents district 26 in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "2_entity6042",
+  "entityIndex" : "2_entity3676",
   "entityUrl" : "http://dbpedia.org/resource/Greg_Skrepenak",
   "dboClass" : "dbo:Politician",
   "properties" : {

@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity13577",
+  "entityIndex" : "1_entity8278",
   "entityUrl" : "http://dbpedia.org/resource/Naranbhai_Rathwa",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
   "text" : "Naranbhai J. Rathwa (born 1 June 1953) was a member of the 9th, 10th, 11th, 12th & 14th Lok Sabha of India. He represented the Chhota Udaipur constituency of Gujarat and is a member of the Indian National Congress. He was a Minister of State in the Ministry of Railways. He lost to Ramsinh Rathwa in 2009 Lok Sabha Elections"
 }, {
-  "entityIndex" : "2_entity1927",
+  "entityIndex" : "2_entity1094",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Proctor",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "re-election", "role", "committee", "director" ],
   "text" : "Bill Proctor is the Leon County, Florida District 1 County Commissioner, a role in which he has served since 1996. He has also been an Instructor Political Science at Florida A&M University in Tallahassee, Florida since August 2000. Previously, he served on former Florida Governor Lawton Chiles' 1994 re-election committee before being essentially fired according to Chuck Wolfe, Chiles' director of external affairs."
 }, {
-  "entityIndex" : "3_entity17038",
+  "entityIndex" : "3_entity10459",
   "entityUrl" : "http://dbpedia.org/resource/Sewa_Singh_Sekhwan",
   "dboClass" : "dbo:Politician",
   "properties" : {

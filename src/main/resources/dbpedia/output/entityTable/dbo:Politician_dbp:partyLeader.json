@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity4131",
+  "entityIndex" : "1_entity2531",
   "entityUrl" : "http://dbpedia.org/resource/Dondogdorjyn_Erdenebat",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "Governor", "city", "State", "politician", "district", "member", "bator" ],
   "text" : "Dondogdorjyn Erdenebat (Mongolian: Дондогдоржийн Эрдэнэбат) is a Mongolian politician, who was the Governor of Baganuur district of Ulan bator city. He served as Secretary General for Democratic Party of Mongolia . Currently he is a State Great Khural member."
 }, {
-  "entityIndex" : "2_entity197",
+  "entityIndex" : "2_entity69",
   "entityUrl" : "http://dbpedia.org/resource/Anthony_Bennett_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {

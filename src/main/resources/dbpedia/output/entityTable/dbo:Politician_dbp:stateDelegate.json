@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10837",
+  "entityIndex" : "1_entity6668",
   "entityUrl" : "http://dbpedia.org/resource/Keiffer_J._Mitchell,_Jr.",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "candidate", "election", "politician" ],
   "text" : "Keiffer Jackson Mitchell, Jr. (born September 28, 1967) is an American politician from Baltimore, Maryland who once served in the Maryland House of Delegates and the Baltimore City Council and was a candidate in the 2007 mayoral election."
 }, {
-  "entityIndex" : "2_entity10844",
+  "entityIndex" : "2_entity6672",
   "entityUrl" : "http://dbpedia.org/resource/Kevin_Kelly_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "1B", "politician", "district", "member", "term" ],
   "text" : "Kevin Kelly (born August 18, 1953) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his fifth term in the Maryland House of Delegates, representing district 1B in Allegany County. Kelly is a member of the Judiciary Committee and its Civil Law and Procedure Subcommittee."
 }, {
-  "entityIndex" : "3_entity10848",
+  "entityIndex" : "3_entity6675",
   "entityUrl" : "http://dbpedia.org/resource/Keith_E._Haynes",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "practice", "Law", "Asbestos", "Litigation", "politician", "District", "lawyer" ],
   "text" : "Keith E. Haynes (born February 15, 1963) is an American politician and lawyer. Haynes was first elected to the Maryland House of Delegates in 2002 and re-elected in 2006. He represents the 44th Legislative District (Baltimore City) in the Maryland House of Delegates and is the current Vice-Chair of the Baltimore City Delegation. As a lawyer, Haynes is a Senior Attorney with the Law of Offices of Peter G. Angelos, P.C. and practices in Maryland and the District of Columbia in the practice areas of Products Liability, Asbestos Litigation, Toxic Torts and General Civil Litigation."
 }, {
-  "entityIndex" : "4_entity10875",
+  "entityIndex" : "4_entity6693",
   "entityUrl" : "http://dbpedia.org/resource/Kirill_Reznik",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,18 +43,7 @@
   "nouns" : [ "area", "middle", "Town", "politician", "member" ],
   "text" : "Kirill Reznik (born August 9, 1974) is an American politician from Maryland and a member of the Democratic Party. He is one of three members of the Maryland House of Delegates from District 39. District 39 encompasses a horse-shoe shaped area in the middle of Montgomery County, Maryland, and includes parts of North Potomac, Darnestown, Germantown, Montgomery Village, Derwood, and the Town of Washington Grove. District 39 is represented by fellow Democrats, Senator Nancy J. King, and Delegates Shane Robinson and Charles E. Barkley."
 }, {
-  "entityIndex" : "5_entity10892",
-  "entityUrl" : "http://dbpedia.org/resource/Kenneth_Cooper_Alexander",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateDelegate" : [ "Virginia" ]
-  },
-  "words" : [ "Oktober", "Politiker", "Alexander", "-LRB-", "2012", "ist", "ein", "den", "Kenneth", "Demokratische", "von", "US-amerikanischer", "dort", "im", "17", "Partei", "Senator", "vertritt", "*", "und", ",", "er", ".", "Senat", "5", "Distrikt", "-RRB-", "Seit", "Virginia", "Cooper", "1966", "Norfolk" ],
-  "adjectives" : [ "Seit" ],
-  "nouns" : [ "Politiker", "Demokratische", "dort", "Partei", "vertritt", "und", "ist", "ein", "den", "er", "US-amerikanischer" ],
-  "text" : "Kenneth Cooper Alexander (* 17. Oktober 1966 in Norfolk, Virginia) ist ein US-amerikanischer Politiker (Demokratische Partei). Seit 2012 ist er Senator im Senat von Virginia und vertritt dort den 5. Distrikt."
-}, {
-  "entityIndex" : "6_entity11172",
+  "entityIndex" : "5_entity6917",
   "entityUrl" : "http://dbpedia.org/resource/Keith_Hodges",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -65,7 +54,7 @@
   "nouns" : [ "politician", "district", "part" ],
   "text" : "M. Keith Hodges (born May 6, 1966 in Richmond, Virginia) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2011. He currently represents the 98th district, made up of the Middle Peninsula counties of Essex, Gloucester, King and Queen, Mathews and Middlesex, and part of King William County."
 }, {
-  "entityIndex" : "7_entity13647",
+  "entityIndex" : "6_entity8324",
   "entityUrl" : "http://dbpedia.org/resource/Nathaniel_T._Oaks",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -76,7 +65,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Nathaniel T. Oaks (born October 19, 1946) is an American politician who represents district 41 in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "8_entity13885",
+  "entityIndex" : "7_entity8478",
   "entityUrl" : "http://dbpedia.org/resource/Nina_R._Harper",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -87,7 +76,7 @@
   "nouns" : [ "politician" ],
   "text" : "Nina R. Harper (born October 15, 1950) is an American politician who serves in the Maryland General Assembly representing Maryland's 45th legislative located in northeast Baltimore City."
 }, {
-  "entityIndex" : "9_entity8659",
+  "entityIndex" : "8_entity5186",
   "entityUrl" : "http://dbpedia.org/resource/Jeannemarie_Devolites_Davis",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,7 +87,7 @@
   "nouns" : [ "convention", "candidate", "round", "politician", "member", "voting", "husband", "nomination" ],
   "text" : "Jeannemarie Aragona Devolites Davis (born February 28, 1956) is an American politician. She served in the Virginia House of Delegates 1998–2004 and the Senate of Virginia 2004–2008. She was a candidate for the 2013 Republican nomination for Lieutenant Governor of Virginia, but was eliminated in the first round of voting at the 2013 Republican convention in Richmond, Virginia. Her husband, Thomas M. Davis, was a member of the United States House of Representatives. Virginia Governor Bob McDonnell appointed Davis director of the Virginia Liaison Office in Washington, D.C. in January 2010. She resigned in September 2012 to pursue an unsuccessful bid for lieutenant governor."
 }, {
-  "entityIndex" : "10_entity8799",
+  "entityIndex" : "9_entity5283",
   "entityUrl" : "http://dbpedia.org/resource/John_P._Donoghue",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -109,7 +98,7 @@
   "nouns" : [ "2C", "politician", "member", "term" ],
   "text" : "John P. Donoghue (born May 24, 1957) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his 5th term in the Maryland House of Delegates, representing Maryland's District 2C in Washington County. Donoghue is a member of the Health and Government Operations Committee."
 }, {
-  "entityIndex" : "11_entity8825",
+  "entityIndex" : "10_entity5305",
   "entityUrl" : "http://dbpedia.org/resource/John_L._Bohanan,_Jr.",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -120,7 +109,7 @@
   "nouns" : [ "Spending", "politician", "district", "chairman", "29B" ],
   "text" : "John L. Bohanan, Jr. (born September 12, 1958) is an American politician who represents district 29B in the Maryland House of Delegates. Bohanan is chairman of the House Spending Affordability Committee."
 }, {
-  "entityIndex" : "12_entity8833",
+  "entityIndex" : "11_entity5311",
   "entityUrl" : "http://dbpedia.org/resource/Jennie_M._Forehand",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -131,7 +120,7 @@
   "nouns" : [ "probation", "statistician", "teacher", "counselor", "legislator", "Forehand", "degree", "Bachelor", "businesswoman", "court" ],
   "text" : "Jennie M. Forehand (born December 17, 1935) is a legislator who has served 15 years in the Maryland Senate, representing Rockville, Gaithersburg, and Garrett Park. She previously served four terms in the Maryland House of Delegates. Born in Nashville, Tennessee, Forehand attended the University of North Carolina, receiving her Bachelor of Science degree in Industrial Relations. A businesswoman, Forehand founded Forehand Antiques and Interiors and has worked as a teacher, juvenile court probation counselor, and statistician. She and her husband raised two children in Rockville, sending them through Montgomery County Public Schools. Her daughter graduated from the United States Naval Academy and her son is now an architect. Forehand’s constituent service, institutional memory and willingness to stand her ground on tough issues have resulted in numerous awards recognizing her leadership and forward thinking."
 }, {
-  "entityIndex" : "13_entity10303",
+  "entityIndex" : "12_entity6316",
   "entityUrl" : "http://dbpedia.org/resource/Jerrauld_Jones",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -142,7 +131,7 @@
   "nouns" : [ "jurist", "politician", "member", "judge", "District" ],
   "text" : "Jerrauld Corey Jones (born July 22, 1954, in Norfolk, Virginia) is an American politician and jurist. He was a Democratic member of the Virginia House of Delegates 1988-2002, representing the 89th District in Norfolk. He is currently a judge of the Norfolk Circuit Court."
 }, {
-  "entityIndex" : "14_entity10316",
+  "entityIndex" : "13_entity6326",
   "entityUrl" : "http://dbpedia.org/resource/Joseph_R._Yost",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -153,7 +142,7 @@
   "nouns" : [ "city", "politician", "district", "part", "state" ],
   "text" : "Joseph R. \"Joe\" Yost (born June 9, 1986 in Pearisburg, Virginia) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2011. He currently represents the 12th district, made up of Giles County, the city of Radford, and parts of Montgomery and Pulaski counties in the western part of the state."
 }, {
-  "entityIndex" : "15_entity4653",
+  "entityIndex" : "14_entity2847",
   "entityUrl" : "http://dbpedia.org/resource/Emmett_C._Burns,_Jr.",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -164,7 +153,7 @@
   "nouns" : [ "re-election", "politician", "member", "intention" ],
   "text" : "Emmett C. Burns, Jr. (born August 26, 1940) is an American politician from Maryland and a member of the Democratic Party. He served four terms in the Maryland House of Delegates, representing Maryland's District 10 in Baltimore County. Burns was a member of the Economic Matters Committee. On July 8, 2013, Burns announced his intention not to seek re-election to the Maryland Legislature in 2014."
 }, {
-  "entityIndex" : "16_entity4654",
+  "entityIndex" : "15_entity2848",
   "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Bobo",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -175,7 +164,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "Elizabeth Bobo (born December 21, 1943) is an American politician from Maryland and a member of the Democratic Party. She served as Howard County Executive and in the Maryland House of Delegates. Bobo was the first and only female Howard County Executive, serving from 1986 to 1990."
 }, {
-  "entityIndex" : "17_entity4911",
+  "entityIndex" : "16_entity3017",
   "entityUrl" : "http://dbpedia.org/resource/Eric_Luedtke",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -186,7 +175,7 @@
   "nouns" : [ "politician", "member", "Gaming" ],
   "text" : "Eric Luedtke (born November 13, 1981) is an American politician from Maryland and a member of the Democratic Party. He was elected in 2010 to the Maryland House of Delegates, representing District 14 in Montgomery County, which includes parts of Burtonsville, Silver Spring, Olney, Sandy Spring, Brookeville, and Damascus. Luedtke serves on the Ways and Means Committee in the House of Delegates, chairs the Financial Resources Subcommittee, and co-chairs the Joint Committee on Gaming Oversight."
 }, {
-  "entityIndex" : "18_entity5034",
+  "entityIndex" : "17_entity3115",
   "entityUrl" : "http://dbpedia.org/resource/Evelyn_Momsen_Hailey",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -197,7 +186,7 @@
   "nouns" : [ "city", "politician" ],
   "text" : "Evelyn Clare Momsen Hailey (April 21, 1921 – March 29, 2011) was an American politician. A Democrat, she served in the Virginia House of Delegates 1974–1982 and the Senate of Virginia 1982–1984, while living in the city of Norfolk."
 }, {
-  "entityIndex" : "19_entity18911",
+  "entityIndex" : "18_entity11628",
   "entityUrl" : "http://dbpedia.org/resource/William_A._Bronrott",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -208,7 +197,7 @@
   "nouns" : [ "seat", "Master", "degree", "appointment", "Carrier", "Bachelor", "communication" ],
   "text" : "William A. \"Bill\" Bronrott (born 1955) served in the Maryland House of Delegates from January 1999 until April 2010, representing Maryland's District 16 in Montgomery County. He stepped down from his seat in the General Assembly to accept a Presidential appointment as Deputy Administrator of the Federal Motor Carrier Safety Administration at the U.S. Department of Transportation. Bronrott was born in Washington, DC on June 30, 1955. He graduated from Montgomery Blair High School in Silver Spring before earning a Bachelor of Arts degree in communications and a Master of Arts degree in political communication from the University of Maryland, College Park. Bronrott worked on Capitol Hill for Congressman Michael D. Barnes from 1979 to 1987 before founding his own firm, Bronrott Communications."
 }, {
-  "entityIndex" : "20_entity19364",
+  "entityIndex" : "19_entity11963",
   "entityUrl" : "http://dbpedia.org/resource/W._Henry_Maxwell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -219,7 +208,7 @@
   "nouns" : [ "minister", "Baptist", "politician" ],
   "text" : "The Rev. Dr. Walter Henry Maxwell, Sr. (April 3, 1935 – November 13, 2010) was an African-American politician and Baptist minister from Newport News, Virginia. A Democrat, he served in the Virginia House of Delegates 1983–1993 and the Senate of Virginia 1993–2004."
 }, {
-  "entityIndex" : "21_entity18364",
+  "entityIndex" : "20_entity11344",
   "entityUrl" : "http://dbpedia.org/resource/Virginia_P._Clagett",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -230,7 +219,7 @@
   "nouns" : [ "re-election", "vote-getter", "politician", "member", "term" ],
   "text" : "Virginia P. Clagett is an American politician from Maryland and a member of the Democratic Party. She served in the Maryland House of Delegates, representing Maryland's District 30 in Anne Arundel County, until her 4th term ended in December 2010. A proven vote-getter for decades, she lost re-election in November 2010 to Delegate Herbert H. McMillan. Clagett is a member of the Marlborough Hunt Club, a local Fox Hunt in Southern Maryland."
 }, {
-  "entityIndex" : "22_entity2649",
+  "entityIndex" : "21_entity1542",
   "entityUrl" : "http://dbpedia.org/resource/Cheryl_Glenn",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -241,7 +230,7 @@
   "nouns" : [ "district", "member" ],
   "text" : "Cheryl D. Glenn, (born May 27, 1951) is a member of the Maryland House of Delegates representing Maryland's 45th legislative district which is situated in northeast Baltimore."
 }, {
-  "entityIndex" : "23_entity2685",
+  "entityIndex" : "22_entity1566",
   "entityUrl" : "http://dbpedia.org/resource/Carolyn_J._Krysiak",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -252,7 +241,7 @@
   "nouns" : [ "re-election", "politician", "district", "chairman", "position" ],
   "text" : "Carolyn J. Krysiak (born August 9, 1939) is an American politician who represented the 46th legislative district in the Maryland House of Delegates. Krysiak was also chairman of the House Facilities Committee, being appointed by Speaker Michael E. Busch to that position in 2005. She did not run for re-election in 2010."
 }, {
-  "entityIndex" : "24_entity2690",
+  "entityIndex" : "23_entity1569",
   "entityUrl" : "http://dbpedia.org/resource/Carolyn_J._B._Howard",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -263,7 +252,7 @@
   "nouns" : [ "politician", "chairman" ],
   "text" : "Carolyn J. B. Howard is an American politician in the Maryland House of Delegates representing District 24 in Prince George's County. She is the Deputy Speaker Pro Tem of the Maryland House and a former chairman of the Legislative Black Caucus of Maryland."
 }, {
-  "entityIndex" : "25_entity2691",
+  "entityIndex" : "24_entity1570",
   "entityUrl" : "http://dbpedia.org/resource/Charles_E._Barkley",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -274,7 +263,7 @@
   "nouns" : [ "education", "Chair", "politician", "member", "degree", "term", "Bachelor" ],
   "text" : "Charles E. \"Charlie\" Barkley (born October 16, 1950) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his third term in the Maryland House of Delegates, representing Maryland's District 39 in Montgomery County. He currently serves on the Economic Matters Committee and formerly served as Chair of the Montgomery County Delegation. Born in Elkins, West Virginia on October 16, 1950, Barkley graduated from Towson State University with a Bachelor of Science degree in education. He later earned a Master of Education degree in Administration from Western Maryland College. Barkley was active in educational advocacy throughout his career, and is a former Vice President of the Montgomery County Education Association. He has remained active on education issues throughout his time in the Assembly."
 }, {
-  "entityIndex" : "26_entity3235",
+  "entityIndex" : "25_entity1928",
   "entityUrl" : "http://dbpedia.org/resource/Chris_Head_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -285,7 +274,7 @@
   "nouns" : [ "city", "politician", "district", "part", "state" ],
   "text" : "Christopher T. \"Chris\" Head (born January 13, 1963) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2011. He currently represents the 17th district, made up parts of Botetourt and Roanoke counties and the city of Roanoke, in the western part of the state."
 }, {
-  "entityIndex" : "27_entity3369",
+  "entityIndex" : "26_entity2029",
   "entityUrl" : "http://dbpedia.org/resource/Clarence_%22Tiger%22_Davis",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -296,7 +285,7 @@
   "nouns" : [ "politician" ],
   "text" : "Clarence \"Tiger\" Davis (born September 25, 1942) is an American politician who served in the Maryland General Assembly representing Maryland's 45th legislative located in northeast Baltimore City."
 }, {
-  "entityIndex" : "28_entity1891",
+  "entityIndex" : "27_entity1063",
   "entityUrl" : "http://dbpedia.org/resource/Barbara_A._Robinson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -307,7 +296,7 @@
   "nouns" : [ "politician", "district", "member" ],
   "text" : "Barbara A. Robinson (born June 8, 1938) is an American politician who represents the 40th legislative district in the Maryland House of Delegates. Robinson is a member of the House Appropriations Committee and the Legislative Black Caucus of Maryland."
 }, {
-  "entityIndex" : "29_entity1897",
+  "entityIndex" : "28_entity1067",
   "entityUrl" : "http://dbpedia.org/resource/Benjamin_S._Barnes",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -318,7 +307,7 @@
   "nouns" : [ "politician" ],
   "text" : "Benjamin S. Barnes (born March 30, 1975) is an American politician who represents District 21 in the Maryland House of Delegates. First elected in 2006, Barnes was reelected in 2010 and 2014."
 }, {
-  "entityIndex" : "30_entity1900",
+  "entityIndex" : "29_entity1070",
   "entityUrl" : "http://dbpedia.org/resource/Brian_K._McHale",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -329,7 +318,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Brian K. McHale (born December 9, 1954) is an American politician who represents the 46th legislative district in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "31_entity1902",
+  "entityIndex" : "30_entity1072",
   "entityUrl" : "http://dbpedia.org/resource/Barbara_A._Frush",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -340,7 +329,7 @@
   "nouns" : [ "politician", "member", "term" ],
   "text" : "Barbara A. Frush (born May 31, 1945) is an American politician from Maryland and a member of the Democratic Party. She is currently serving in her 4th term in the Maryland House of Delegates, representing Maryland's District 21 in Anne Arundel & Prince George's Counties. She currently serves on the Environmental Matters Committee."
 }, {
-  "entityIndex" : "32_entity2273",
+  "entityIndex" : "31_entity1330",
   "entityUrl" : "http://dbpedia.org/resource/Billy_O'Brien_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -351,7 +340,7 @@
   "nouns" : [ "politician" ],
   "text" : "Joseph William \"Billy\" O'Brien, Jr. (April 20, 1929 – November 9, 2012) was an American politician. A Democrat, he served in the Virginia House of Delegates 1974–1992."
 }, {
-  "entityIndex" : "33_entity17651",
+  "entityIndex" : "32_entity10857",
   "entityUrl" : "http://dbpedia.org/resource/Talmadge_Branch",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -362,7 +351,7 @@
   "nouns" : [ "founder", "politician", "district", "majority", "chairman", "office", "foundation", "whip" ],
   "text" : "Talmadge Branch (born January 30, 1956) is an American politician who represents the 45th legislative district in the Maryland House of Delegates. Branch has been in office since 1995 and is currently the House majority whip. Delegate Branch is a former chairman of the Legislative Black Caucus of Maryland and founder of the Legislative Black Caucus of Maryland's foundation."
 }, {
-  "entityIndex" : "34_entity17663",
+  "entityIndex" : "33_entity10866",
   "entityUrl" : "http://dbpedia.org/resource/Tawanna_P._Gaines",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -373,7 +362,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Tawanna Phyllis Gaines (born February 1, 1952) is an American politician who represents district 22 in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "35_entity18004",
+  "entityIndex" : "34_entity11110",
   "entityUrl" : "http://dbpedia.org/resource/Tiffany_Alston",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -384,7 +373,7 @@
   "nouns" : [ "politician" ],
   "text" : "Tiffany Alston  is an American politician who represented Prince George's County District 24 in the Maryland House of Delegates from January 2011 to January 2013."
 }, {
-  "entityIndex" : "36_entity18126",
+  "entityIndex" : "35_entity11202",
   "entityUrl" : "http://dbpedia.org/resource/Tony_Wilt",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -395,18 +384,7 @@
   "nouns" : [ "city", "politician", "district", "part" ],
   "text" : "Tony O. Wilt (born September 18, 1961 in Harrisonburg, Virginia) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2010. He currently represents the 26th district, made up of the city of Harrisonburg and part of Rockingham County in the Shenandoah Valley."
 }, {
-  "entityIndex" : "37_entity15307",
-  "entityUrl" : "http://dbpedia.org/resource/Ruth_M._Kirk",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateDelegate" : [ "Maryland" ]
-  },
-  "words" : [ "que", "44", "M.", "de", "estadounidense", "-LRB-", "Delegados", "legislativo", "siete", "oeste", "28", "2011", "número", "centro-oeste", "representó", "1930", "total", "representando", "Kirk", "Fue", "un", "febrero", "elegida", "distrito", "junio", "17", "el", "una", "en", "al", "Cámara", "veces", "-", ".", "Ruth", "2", "Baltimore", "la", "fue", "política", "-RRB-", "y", "años", "Maryland", "sirvió" ],
-  "adjectives" : [ "total" ],
-  "nouns" : [ "representando", "siete", "fue", "Fue", "el", "un", "elegida" ],
-  "text" : "Ruth M. Kirk (2 de febrero de 1930 - 17 de junio de 2011) fue una política estadounidense que representó al distrito legislativo número 44 en la Cámara de Delegados de Maryland. Fue elegida siete veces y sirvió un total de 28 años representando el oeste y centro-oeste de Baltimore."
-}, {
-  "entityIndex" : "38_entity15319",
+  "entityIndex" : "36_entity9284",
   "entityUrl" : "http://dbpedia.org/resource/Rudolph_C._Cane",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -417,7 +395,7 @@
   "nouns" : [ "politician", "member", "chairman" ],
   "text" : "Rudolph C.\"Rudy\" Cane (born May 23, 1934) is an American politician and member of the Democratic Party. He represented District 37A in the Maryland House of Delegates for 15 years before retiring in 2014. He is the first African American to represent the Eastern Shore in the Maryland House of Delegates. Cane is also a former chairman of the Legislative Black Caucus of Maryland."
 }, {
-  "entityIndex" : "39_entity15977",
+  "entityIndex" : "37_entity9781",
   "entityUrl" : "http://dbpedia.org/resource/Randy_Minchew",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -428,7 +406,7 @@
   "nouns" : [ "politician", "district", "part", "state", "lawyer" ],
   "text" : "J. Randall \"Randy\" Minchew (born July 31, 1957, in Arlington, Virginia) is an American politician and lawyer. A Republican, he was elected to the Virginia House of Delegates in 2011. He currently represents the 10th district, made up of parts of Clarke, Frederick and Loudoun counties in the northern part of the state."
 }, {
-  "entityIndex" : "40_entity15978",
+  "entityIndex" : "38_entity9782",
   "entityUrl" : "http://dbpedia.org/resource/Roxann_Robinson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -439,7 +417,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Roxann L. Robinson (born January 11, 1956 in Weirton, West Virginia) is an American politician. A Republican, she was elected to the Virginia House of Delegates in 2010. She currently represents the 27th district, in Chesterfield County, in the southern suburbs of Richmond."
 }, {
-  "entityIndex" : "41_entity15979",
+  "entityIndex" : "39_entity9783",
   "entityUrl" : "http://dbpedia.org/resource/Rick_Morris_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -450,7 +428,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Richard L. \"Rick\" Morris (born November 6, 1968, in Fort Polk, Louisiana) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2011. He currently represents the 64th district, made up of parts of the Tidewater Virginia counties of Isle of Wight, Prince George, Southampton, Surry, and Sussex and cities of Franklin and Suffolk."
 }, {
-  "entityIndex" : "42_entity3712",
+  "entityIndex" : "40_entity2234",
   "entityUrl" : "http://dbpedia.org/resource/D._Page_Elmore",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -461,7 +439,7 @@
   "nouns" : [ "death", "district", "member", "chairman", "38A" ],
   "text" : "D. Page Elmore (May 31, 1939 – June 26, 2010) was a member of the Maryland House of Delegates. He had served from January 2003 until his death, representing district 38A which encompasses Somerset and Wicomico Counties. Elmore was also the chairman of the Eastern Shore Delegation."
 }, {
-  "entityIndex" : "43_entity3741",
+  "entityIndex" : "41_entity2257",
   "entityUrl" : "http://dbpedia.org/resource/Dana_Stein",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -472,7 +450,7 @@
   "nouns" : [ "politician", "member", "term" ],
   "text" : "Dana M. Stein (born 1958) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his first full term in the Maryland House of Delegates, representing District 11 in Baltimore County."
 }, {
-  "entityIndex" : "44_entity3746",
+  "entityIndex" : "42_entity2262",
   "entityUrl" : "http://dbpedia.org/resource/Dereck_E._Davis",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -483,7 +461,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Dereck Eugene Davis (born June 6, 1967) is an American politician who represents district 25 in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "45_entity3749",
+  "entityIndex" : "43_entity2264",
   "entityUrl" : "http://dbpedia.org/resource/Doyle_Niemann",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -494,18 +472,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Doyle L. Niemann (born March 19, 1947) is an American politician who represents district 47 in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "46_entity4136",
-  "entityUrl" : "http://dbpedia.org/resource/David_Ramadan",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateDelegate" : [ "Virginia" ]
-  },
-  "words" : [ "فرجينيا", "-LRB-", "منصب", "لبناني", "يشغل", "مجلس", "سياسي", "2011", "برلمان", "أحد", "عضو", "فيرجينيا", "نوفمبر", "العامة", "ديفيد", "مندوبي", "اُنتخب", "هو", "في", "ولد", "مجلسي", "أمريكي", ".", "رمضان", "جمعية", "منذ", "عماد", "-RRB-" ],
-  "adjectives" : [ ],
-  "nouns" : [ "رمضان", "العامة", "في", "ديفيد" ],
-  "text" : "ديفيد رمضان (ولد ديفيد عماد رمضان) هو سياسي أمريكي لبناني يشغل منصب عضو في مجلس مندوبي فرجينيا أحد مجلسي جمعية فيرجينيا العامة (برلمان فرجينيا) اُنتخب منذ نوفمبر 2011."
-}, {
-  "entityIndex" : "47_entity4256",
+  "entityIndex" : "44_entity2629",
   "entityUrl" : "http://dbpedia.org/resource/David_Yancey",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -516,7 +483,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "David E. Yancey (born April 6, 1972 in Newport News, Virginia) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2011. He currently represents the 94th district in Newport News."
 }, {
-  "entityIndex" : "48_entity4260",
+  "entityIndex" : "45_entity2632",
   "entityUrl" : "http://dbpedia.org/resource/Daun_Sessoms_Hester",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -527,7 +494,7 @@
   "nouns" : [ "vice", "election", "mayor", "politician", "district", "member", "educator" ],
   "text" : "Daun Sessoms Hester (born October 7, 1955) is an American politician and educator. She served on the nonpartisan Norfolk, Virginia City Council 1996–2010, and was vice mayor 2004–08. She is currently a Democratic member of the Virginia House of Delegates, having won a special election on December 18, 2012, in the 89th district in Norfolk."
 }, {
-  "entityIndex" : "49_entity4313",
+  "entityIndex" : "46_entity2674",
   "entityUrl" : "http://dbpedia.org/resource/David_Fraser-Hidalgo",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -538,18 +505,7 @@
   "nouns" : [ "area", "seat", "politician", "district", "member", "term", "appointment", "population" ],
   "text" : "David Fraser-Hidalgo (born November 25, 1969) is an Ecuadorian-born American politician and a member of the Maryland House of Delegates representing District 15 in Montgomery County, Maryland. Maryland's Legislative District 15 is Montgomery County's largest district both in terms of geographic area and population and includes Boyds, Clarksburg, Darnestown, Germantown, Poolesville, Potomac, Dickerson, Barnesville, Beallsville as well as parts of Gaithersburg, North Potomac, and Rockville. Delegate Fraser-Hidalgo was appointed to complete the term of Brian J. Feldman following Feldman's appointment to a Senate seat."
 }, {
-  "entityIndex" : "50_entity19594",
-  "entityUrl" : "http://dbpedia.org/resource/Yvonne_B._Miller",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:stateDelegate" : [ "Virginia" ]
-  },
-  "words" : [ "Yvonne", "-LRB-", "woman", "American", "2012", "office", "house", "years", "later", "dying", "Democrat", "won", "July", "state", "1934", "--", "politician", "Four", ",", ".", "elected", "Senate", "3", "re-elected", "4", "1983", "African-American", "Miller", "-RRB-", "consistently", "Bond", "Virginia", "first" ],
-  "adjectives" : [ "American", "African-American", "first" ],
-  "nouns" : [ "woman", "politician", "state", "office", "house" ],
-  "text" : "Yvonne Bond Miller (July 4, 1934 – July 3, 2012) was an American politician in Virginia. A Democrat, she was the first African-American woman to be elected to the state house when she won in 1983. Four years later, she was elected to the state Senate, and was consistently re-elected after that, dying in office."
-}, {
-  "entityIndex" : "51_entity6972",
+  "entityIndex" : "47_entity4265",
   "entityUrl" : "http://dbpedia.org/resource/Hattie_N._Harrison",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -560,7 +516,7 @@
   "nouns" : [ "chairperson", "subcommittee", "woman", "committee", "death", "chair", "politician", "science", "member", "time", "technology" ],
   "text" : "Hattie N. Harrison (February 11, 1928 – January 28, 2013) was an American politician who served in the Maryland General Assembly from 1973. Harrison was the chairperson of the Maryland House of Delegates Rules and Executive Nominations Committee, and was the first African-American woman to chair a legislative committee in Maryland. At the time of her death, she had been a member of the Economic Matters Committee since 1973 and served on its science & technology subcommittee. She was a member of the Legislative Black Caucus of Maryland (formerly Maryland Legislative Black Caucus) and the Women's Legislators of Maryland."
 }, {
-  "entityIndex" : "52_entity6980",
+  "entityIndex" : "48_entity4269",
   "entityUrl" : "http://dbpedia.org/resource/Henry_B._Heller",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -571,7 +527,7 @@
   "nouns" : [ "politician", "state" ],
   "text" : "Henry B. \"Hank\" Heller (born 1941) is an American politician from the state of Maryland. A Democrat, he represented District 19 in central Montgomery County in the Maryland House of Delegates from 1987 until 2011."
 }, {
-  "entityIndex" : "53_entity7842",
+  "entityIndex" : "49_entity4798",
   "entityUrl" : "http://dbpedia.org/resource/Israel_O'Quinn",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -582,7 +538,7 @@
   "nouns" : [ "politician", "district", "part", "state" ],
   "text" : "Israel D. O'Quinn (born March 5, 1980) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2011. He currently represents the 5th district, made up of the cities of Bristol and Galax, Grayson County, and parts of Smyth and Washington counties in the southwestern part of the state."
 }, {
-  "entityIndex" : "54_entity16274",
+  "entityIndex" : "50_entity9974",
   "entityUrl" : "http://dbpedia.org/resource/Steven_J._DeBoy,_Sr.",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -593,7 +549,7 @@
   "nouns" : [ "member" ],
   "text" : "Steven J. DeBoy, Sr. (born January 2, 1956) is a Democratic member of the Maryland House of Delegates, serving since 2003."
 }, {
-  "entityIndex" : "55_entity16464",
+  "entityIndex" : "51_entity10065",
   "entityUrl" : "http://dbpedia.org/resource/Saqib_Ali",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -604,7 +560,7 @@
   "nouns" : [ "descent" ],
   "text" : "Saqib Ali (born January 21, 1975) is a former State Delegate in the Maryland House of Delegates, having been elected in 2006 to represent the 39th District. Ali is an American of Indian and Pakistani descent."
 }, {
-  "entityIndex" : "56_entity16555",
+  "entityIndex" : "52_entity10120",
   "entityUrl" : "http://dbpedia.org/resource/Samuel_I._Rosenberg",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -615,7 +571,7 @@
   "nouns" : [ "committee", "politician", "district", "vice-chairman" ],
   "text" : "Samuel I. \"Sandy\" Rosenberg (born May 18, 1950) is an American politician who represents the 41st legislative district in the Maryland House of Delegates. Delegate Rosenberg is the vice-chairman of the Ways and Means committee and has been in the General Assembly since 1983."
 }, {
-  "entityIndex" : "57_entity16558",
+  "entityIndex" : "53_entity10122",
   "entityUrl" : "http://dbpedia.org/resource/Shawn_Z._Tarrant",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -626,7 +582,7 @@
   "nouns" : [ "politician", "district", "member" ],
   "text" : "Shawn Z. Tarrant (born July 30, 1965) is an American politician who represented the 40th legislative district in the Maryland House of Delegates from 2007 to 2015. Tarrant was a member of the House Health and Government Operations Committee, Insurance Subcommittee and Secretary to the Legislative Black Caucus of Maryland."
 }, {
-  "entityIndex" : "58_entity16570",
+  "entityIndex" : "54_entity10133",
   "entityUrl" : "http://dbpedia.org/resource/Stephen_W._Lafferty",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -637,7 +593,7 @@
   "nouns" : [ "century", "redistricting", "politician", "district", "census" ],
   "text" : "Stephen W. Lafferty (born February 28, 1949) is an American politician who represents district 42 in the Maryland House of Delegates. Lafferty is the first Democrat to be elected in district 42 since it was moved to Baltimore County after the 21st century census and redistricting."
 }, {
-  "entityIndex" : "59_entity17017",
+  "entityIndex" : "55_entity10445",
   "entityUrl" : "http://dbpedia.org/resource/Scherod_C._Barnes",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -648,7 +604,7 @@
   "nouns" : [ "activist", "politician", "district", "member", "community", "vacancy", "legislature" ],
   "text" : "Scherod C. Barnes is an American politician and community activist who represented the  43rd legislative district in Baltimore, Maryland as a member of the Maryland House of Delegates. Barnes was appointed to the legislature on July 18, 2010 to fill the vacancy created when Ann Marie Doory retired."
 }, {
-  "entityIndex" : "60_entity17026",
+  "entityIndex" : "56_entity10451",
   "entityUrl" : "http://dbpedia.org/resource/Shane_Robinson_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -659,7 +615,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "Arash Shane Robinson (born December 26, 1976) is an American politician who is a member of the Maryland House of Delegates representing District 39 in Montgomery County, Maryland."
 }, {
-  "entityIndex" : "61_entity12496",
+  "entityIndex" : "57_entity7617",
   "entityUrl" : "http://dbpedia.org/resource/Melvin_L._Stukes",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -670,7 +626,7 @@
   "nouns" : [ "seat", "Governor", "politician", "district", "member", "office" ],
   "text" : "Melvin L. Stukes (born March 15, 1948) is an American politician who represented the 44th legislative district in the Maryland House of Delegates. Stukes was a member of the House Ways and Means Committee and the Legislative Black Caucus of Maryland. Prior to winning a seat in the Maryland General Assembly, Stukes served 13 years in the Baltimore City Council.Delegate Melvin. L. Stukes is currently being investigated by Governor Hogan's office."
 }, {
-  "entityIndex" : "62_entity12499",
+  "entityIndex" : "58_entity7619",
   "entityUrl" : "http://dbpedia.org/resource/Michael_L._Vaughn",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -681,7 +637,7 @@
   "nouns" : [ "politician" ],
   "text" : "Michael L. Vaughn (born November 12, 1957) is an American politician who represents District 24 as a Democrat in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "63_entity12503",
+  "entityIndex" : "59_entity7622",
   "entityUrl" : "http://dbpedia.org/resource/Melony_G._Griffith",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -692,7 +648,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Melony Ghee Griffith (born June 5, 1963) is an American politician who represents district 25 in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "64_entity13201",
+  "entityIndex" : "60_entity8043",
   "entityUrl" : "http://dbpedia.org/resource/Mike_McDermott_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -703,7 +659,7 @@
   "nouns" : [ "district", "member", "38B" ],
   "text" : "Michael Andrew McDermott (born November 22, 1961) is a former Republican member of the Maryland House of Delegates who represented district 38B from January 12, 2011 to January 14, 2015."
 }, {
-  "entityIndex" : "65_entity13265",
+  "entityIndex" : "61_entity8087",
   "entityUrl" : "http://dbpedia.org/resource/Mark_Dudenhefer",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -714,7 +670,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Leon Mark Dudenhefer (born September 25, 1952) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2011. He currently represents the 2nd district, made up of parts of Prince William and Stafford counties in Northern Virginia. Previously, he served 2005–2011 on the Stafford County Board of Supervisors."
 }, {
-  "entityIndex" : "66_entity13266",
+  "entityIndex" : "62_entity8088",
   "entityUrl" : "http://dbpedia.org/resource/Michael_Webert",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -725,7 +681,7 @@
   "nouns" : [ "politician", "district", "north", "part", "state" ],
   "text" : "Michael J. Webert (born September 24, 1979) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2011. He currently represents the 18th district, made up of Rappahannock County and parts of Culpeper, Fauquier and Warren counties, in the north central part of the state."
 }, {
-  "entityIndex" : "67_entity13268",
+  "entityIndex" : "63_entity8090",
   "entityUrl" : "http://dbpedia.org/resource/Matt_Fariss",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -736,7 +692,7 @@
   "nouns" : [ "politician", "district", "west" ],
   "text" : "C. Matthew \"Matt\" Fariss (born May 11, 1968 in Lynchburg, Virginia) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2011. He currently represents the 59th district, made up of Appomattox County and Buckingham counties, and parts of Albemarle, Campbell, and Nelson counties west of Richmond."
 }, {
-  "entityIndex" : "68_entity13270",
+  "entityIndex" : "64_entity8091",
   "entityUrl" : "http://dbpedia.org/resource/Michael_B._Watson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -747,7 +703,7 @@
   "nouns" : [ "city", "politician", "district" ],
   "text" : "Michael B. \"Mike\" Watson (born September 19, 1961 in Hopewell, Virginia) is an American politician. A Republican, he was elected to the Virginia House of Delegates in 2011. He represented the 93rd district, made up of the city of Williamsburg and parts of the counties of James City and York and the city of Newport News on the Virginia Peninsula."
 }, {
-  "entityIndex" : "69_entity13271",
+  "entityIndex" : "65_entity8092",
   "entityUrl" : "http://dbpedia.org/resource/Margaret_Ransone",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -758,7 +714,7 @@
   "nouns" : [ "politician", "district", "part", "Neck" ],
   "text" : "Margaret Bevans Ransone (born April 24, 1973 in Richmond, Virginia) is an American politician. A Republican, she was elected to the Virginia House of Delegates in 2011. She currently represents the 99th district, made up of the Northern Neck counties of King George, Lancaster, Northumberland, Richmond and Westmoreland, and part of Caroline County."
 }, {
-  "entityIndex" : "70_entity6034",
+  "entityIndex" : "66_entity3669",
   "entityUrl" : "http://dbpedia.org/resource/Galen_R._Clagett",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -769,7 +725,7 @@
   "nouns" : [ "politician", "member", "term", "3A" ],
   "text" : "Galen R. Clagett (born February 9, 1942) is an American politician from Maryland and a member of the Democratic Party. He is currently serving in his 2nd term in the Maryland House of Delegates, representing Maryland's District 3A in Frederick County. Clagett is a member of the Appropriations Committee. Clagett was born in Brunswick, Maryland on February 9, 1942. He attended Frostburg State University before becoming a real estate agent and President of the property management firm Clagett Enterprises, Inc."
 }, {
-  "entityIndex" : "71_entity6430",
+  "entityIndex" : "67_entity3922",
   "entityUrl" : "http://dbpedia.org/resource/Geraldine_Valentino-Smith",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -780,7 +736,7 @@
   "nouns" : [ "23A", "politician", "district", "member" ],
   "text" : "Geraldine Valentino-Smith (born March 5, 1964) is an American politician who represents district 23A in the Maryland House of Delegates and a former member of the Bowie City Council."
 }, {
-  "entityIndex" : "72_entity14373",
+  "entityIndex" : "68_entity8730",
   "entityUrl" : "http://dbpedia.org/resource/Peter_A._Hammen",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -791,7 +747,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Peter A. Hammen (born July 1, 1966) is an American politician who represents the 46th legislative district in the Maryland House of Delegates. Delegate Hammen is also the Chairman of the House Health and Government Operations Committee."
 }, {
-  "entityIndex" : "73_entity14381",
+  "entityIndex" : "69_entity8737",
   "entityUrl" : "http://dbpedia.org/resource/Pamela_Beidle",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -802,7 +758,7 @@
   "nouns" : [ "election", "politician", "member", "District" ],
   "text" : "Pamela Graboski Beidle (born July 21, 1951) is an American politician from Maryland and a member of the Democratic Party. She was elected in 2006, and reelected in 2010 and 2014 to the Maryland House of Delegates, representing Maryland's District 32 in Anne Arundel County. She currently serves on the Environmental Matters Committee. Prior to her election in the Maryland House of Delegates, she served two terms as a County Council Member for the 1st District of Anne Arundel County. She is also the President of Beidle Insurance Agency located in Glen Burnie, Maryland and Hanover, Maryland. Beidle also serves as a bank director with the Arundel Federal Savings Bank. As a member of the House of Delegates, Delegate Beidle serves on the Environmental Matters committee, serving on theEnvironment, Housing and Real Property, and the Bi-County and Local Government sub-committees. Beidle is a graduate of Archbishop Spalding High School, 1969, Anne Arundel Community College, 1977 and Towson State University,1994. Pamela and her husband, Len live in Linthicum, Maryland. They have three grown children, Nicholas, Nathan, and Lyndsey. They also have two grandchildren."
 }, {
-  "entityIndex" : "74_entity14806",
+  "entityIndex" : "70_entity8999",
   "entityUrl" : "http://dbpedia.org/resource/Peter_Farrell_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -813,7 +769,7 @@
   "nouns" : [ "Education", "politician", "district", "north", "west" ],
   "text" : "Peter F. Farrell (born June 12, 1983) is an American politician. Since 2012 he has served in the Virginia House of Delegates, representing the 56th district, made up of Louisa County and parts of Goochland, Henrico, and Spotsylvania Counties, to the north and west of Richmond. Farrell serves on the House committees on Education, Finance and Commerce and Labor."
 }, {
-  "entityIndex" : "75_entity14859",
+  "entityIndex" : "71_entity9031",
   "entityUrl" : "http://dbpedia.org/resource/Paul_L._Cordish",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -824,7 +780,7 @@
   "nouns" : [ "attorney", "founder", "member", "businessman", "Firm" ],
   "text" : "Paul L. Cordish was an attorney and a member of the Maryland House of Delegates, he was also a businessman who worked for the Cordish Company and the founder of the Cordish Law Firm."
 }, {
-  "entityIndex" : "76_entity535",
+  "entityIndex" : "72_entity222",
   "entityUrl" : "http://dbpedia.org/resource/Ann_Marie_Doory",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -835,7 +791,7 @@
   "nouns" : [ "Bar", "attorney", "science", "B.A.", "member" ],
   "text" : "Born in Yonkers, New York on August 19, 1954, Ann Marie Doory attended St. Mary's Academy, in Leonardtown, Maryland graduating in 1972. She majored in political science at Towson State University, earning her B.A. in 1976. Three years later she graduated from the University of Baltimore School of Law, earning a Juris Doctor in 1979. As an attorney, she is a member of Maryland State and Women's Bar Associations. Prior to running for office she served as counsel to the Majority Leader of the Maryland State Senate(1981) and was elected to the Maryland Democratic State Central Committee from Baltimore City in 1982, serving until her successful run for the Maryland House of Delegates in 1986. In the 2006 campaign, Doory joined with 43rd district incumbents Senator Joan Carter Conway, and Delegates Maggie McIntosh and Curt Anderson to defeat a field of 6 other challengers. The team knocked on more than 20,000 doors, mailed nearly 100,000 thousand pieces of literature and defeated all challengers in both the primary and general elections."
 }, {
-  "entityIndex" : "77_entity547",
+  "entityIndex" : "73_entity230",
   "entityUrl" : "http://dbpedia.org/resource/Aisha_N._Braveboy",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -846,7 +802,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Aisha N. Braveboy (born July 29, 1974) is an American politician who represents district 25 in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "78_entity607",
+  "entityIndex" : "74_entity267",
   "entityUrl" : "http://dbpedia.org/resource/Aris_T._Allen",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -857,7 +813,7 @@
   "nouns" : [ "chair", "politician", "office", "party" ],
   "text" : "Aris T. Allen (December 27, 1910 – February 8, 1991) was an American politician who was the first African-American chair of the Maryland Republican party and the first to run for a statewide office in Maryland."
 }, {
-  "entityIndex" : "79_entity1125",
+  "entityIndex" : "75_entity557",
   "entityUrl" : "http://dbpedia.org/resource/Aruna_Miller",
   "dboClass" : "dbo:Politician",
   "properties" : {

@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity13423",
+  "entityIndex" : "1_entity8190",
   "entityUrl" : "http://dbpedia.org/resource/Mustafa_Hijri",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ ],
   "text" : "Mustafa Hijri (Kurdish: Mustafa Hijri) is the current (as of 2010) General Secretary of the Democratic Party of Iranian Kurdistan (KDPI)"
 }, {
-  "entityIndex" : "2_entity5337",
+  "entityIndex" : "2_entity3281",
   "entityUrl" : "http://dbpedia.org/resource/Frank_Ogbuewu",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "country", "figure", "minister", "mayor", "administration", "tourism", "appointment", "government", "culture", "council", "record", "ambassador", "time", "ministry" ],
   "text" : "Ambassador Frank Nchita Ogbuewu is a Nigerian political figure and a former Minister of Culture and Tourism for the country. His appointment as minister was confirmed in July 2003 by the Obasanjo administration. Frank Ogbuewu is on record as being the longest serving minister of the culture and tourism ministry in the Obasanjo administration. Prior to his appointment as minister of culture and tourism, he served as Nigeria's ambassador to Greece and was also a one time mayor (1994–1996) in his local government council, Ikwo. His appointment as chairman (mayor) of Ikwo Local Government shot him into the political lime light and he has continued to be a proponent of youth development in his state. Frank Ogbuewu who until August 2010 was a member of the ruling People's Democratic Party (PDP) sought his former party's gubernatorial ticket in 2007 against the current governor of Ebonyi State, Chief Martin Elechi but lost. He later vied for the PDP national chairmanship position but was not successful. On August 28, 2010 during the traditional marriage of his oldest daughter, Nnenna Ogbuewu, the Ambassador announced his intention to vie once again, for the office of Governor in his home state of Ebonyi but this time, under a different party. His party of choice, the All Progressives Grand Alliance was made known in September, 2010. On January 12, 2011, Ambassador Ogbuewu was nominated by the All Progressives Grand Alliance with a total vote of 1852 to represent the party in the forthcoming general elections that will be held in Nigeria on April 16, 2011."
 }, {
-  "entityIndex" : "3_entity1368",
+  "entityIndex" : "3_entity741",
   "entityUrl" : "http://dbpedia.org/resource/Anna_Zakletska-Burak",
   "dboClass" : "dbo:Politician",
   "properties" : {

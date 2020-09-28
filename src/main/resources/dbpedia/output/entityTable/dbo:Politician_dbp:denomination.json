@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity1927",
+  "entityIndex" : "1_entity1094",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Proctor",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "re-election", "role", "committee", "director" ],
   "text" : "Bill Proctor is the Leon County, Florida District 1 County Commissioner, a role in which he has served since 1996. He has also been an Instructor Political Science at Florida A&M University in Tallahassee, Florida since August 2000. Previously, he served on former Florida Governor Lawton Chiles' 1994 re-election committee before being essentially fired according to Chuck Wolfe, Chiles' director of external affairs."
 }, {
-  "entityIndex" : "2_entity1488",
+  "entityIndex" : "2_entity821",
   "entityUrl" : "http://dbpedia.org/resource/As'ad_Madani",
   "dboClass" : "dbo:Politician",
   "properties" : {

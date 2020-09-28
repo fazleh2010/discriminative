@@ -1,16 +1,5 @@
 [ {
-  "entityIndex" : "1_entity2665",
-  "entityUrl" : "http://dbpedia.org/resource/Conrad_L._Raiford",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:honors" : [ "1971" ]
-  },
-  "words" : [ "goodwill", "Greensboro", "-LRB-", "May", "27", "Raiford", "December", "Conrad", "2002", "North", "officers", "--", "athlete", "Laurel", "one", "Carolina", ",", "'s", ".", "police", "African-American", "ambassador", "1907", "-RRB-", "20", "first" ],
-  "adjectives" : [ "African-American", "first" ],
-  "nouns" : [ "goodwill", "police", "athlete", "ambassador" ],
-  "text" : "Conrad Laurel Raiford (December 27, 1907 – May 20, 2002) was an athlete, goodwill ambassador and one of Greensboro, North Carolina's first African-American police officers."
-}, {
-  "entityIndex" : "2_entity6042",
+  "entityIndex" : "1_entity3676",
   "entityUrl" : "http://dbpedia.org/resource/Greg_Skrepenak",
   "dboClass" : "dbo:Politician",
   "properties" : {

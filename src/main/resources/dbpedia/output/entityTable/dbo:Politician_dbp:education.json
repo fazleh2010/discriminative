@@ -1,16 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10930",
-  "entityUrl" : "http://dbpedia.org/resource/Kevin_Boyce",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Columbus_East_High_School" ]
-  },
-  "words" : [ "Politiker", "L.", "Treasurer", "-LRB-", "Partei", "war", "2011", "*", "ist", "ein", "Er", "bis", ".", "2009", "Kevin", "Demokratische", "von", "1971", "State", "Boyce", "-RRB-", "Ohio", "US-amerikanischer" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Politiker", "Demokratische", "von", "Partei", "war", "ist", "ein", "US-amerikanischer" ],
-  "text" : "Kevin L. Boyce (* 1971) ist ein US-amerikanischer Politiker (Demokratische Partei). Er war von 2009 bis 2011 Treasurer of State von Ohio."
-}, {
-  "entityIndex" : "2_entity10952",
+  "entityIndex" : "1_entity6746",
   "entityUrl" : "http://dbpedia.org/resource/Kezia_Purick",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +10,7 @@
   "nouns" : [ "seat", "election", "politician", "member", "position", "CEO", "Purick", "Assembly" ],
   "text" : "Kezia Dorcas Tibisay Purick (born 12 May 1958) is an Australian politician. She is an independent member of the Northern Territory Legislative Assembly, having held her seat of Goyder since the 2008 election. Prior to entering Parliament, Purick was the CEO of the NT Minerals Council for 16 years. The position of Speaker of the Northern Territory Legislative Assembly has been held by Purick since 23 October 2012. Despite Labor's massive majority following the outcome of the 2016 election, the incoming government re-appointed Purick as Speaker."
 }, {
-  "entityIndex" : "3_entity11055",
+  "entityIndex" : "2_entity6831",
   "entityUrl" : "http://dbpedia.org/resource/Kath_Venn",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +21,7 @@
   "nouns" : [ "seat", "election", "%", "politician", "member", "Labor", "vote" ],
   "text" : "Kathleen Joan \"Kath\" Venn OAM (born 12 November 1926) is a former Australian politician. Born in Tasmania, she was a Labor member of the Tasmanian Legislative Council from 1976 to 1982, representing the seat of Hobart. In 1982, she was defeated. She ran for the Senate in the 1984 election as an independent affiliated with Senator Brian Harradine, and received 8.6% of the vote, but preferences from Labor and the Nuclear Disarmament Party gave the seventh seat to Democrat Norm Sanders, who had 6% of the vote."
 }, {
-  "entityIndex" : "4_entity11225",
+  "entityIndex" : "3_entity6953",
   "entityUrl" : "http://dbpedia.org/resource/Katrine_Hildyard",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,29 +32,7 @@
   "nouns" : [ "seat", "election", "politician", "district", "member", "state" ],
   "text" : "Katrine Anne Hildyard is an Australian politician representing the electoral district of Reynell in the Parliament of South Australia. She has held the seat as a member of the Australian Labor Party since the 2014 state election, and is currently Parliamentary Secretary to the Premier of South Australia."
 }, {
-  "entityIndex" : "5_entity13560",
-  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Henderson",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Stowe_School" ]
-  },
-  "words" : [ "-LRB-", "britischer", "Universität", "1919", "John", "Autor", "Hubert", "ein", "2009", "der", "School", "des", "dann", "Stowe", "wurde", "GCMG", "das", "März", "Ökonomen", "Politischen", "Oxford", "besuchte", "Hertford", "†", "16", "Sohn", "erzogen", "Nicholas", "war", "*", "und", ",", ".", "April", "1", "Diplomat", "KCVO", "Douglas", "auf", "-RRB-", "College", ";", "Sir", "Henderson" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Diplomat", "britischer", "dann", "erzogen", "war", "und", "ein", "besuchte" ],
-  "text" : "Sir John Nicholas Henderson GCMG, KCVO (* 1. April 1919; † 16. März 2009) war ein britischer Diplomat und Autor. Henderson, Sohn des Politischen Ökonomen Hubert Douglas Henderson, wurde auf der Stowe School erzogen und besuchte dann das Hertford College an der Universität Oxford. 1946 trat Henderson in den Diplomatischen Dienst ein; dort war er im Aus- und Inland tätig. 1963 wurde er Privatsekretär des britischen Außenministers George Brown. Ab 1965 war er als Botschafter in Spanien, Polen (1969–1972), Deutschland (1972–1975) und Frankreich (1975–1979) tätig. 1979 bat er um seine Entlassung, war aber für Margaret Thatcher noch bis 1982 als Botschafter in den Vereinigten Staaten tätig. Weiterhin schrieb er Bücher über Geschichte, etwa über Eugen von Savoyen, sowie seine Lebenserinnerungen."
-}, {
-  "entityIndex" : "6_entity13594",
-  "entityUrl" : "http://dbpedia.org/resource/Norman_Warner,_Baron_Warner",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Dulwich_College" ]
-  },
-  "words" : [ "Norman", "-LRB-", "September", "britischen", "*", "House", "und", "Labour", "ist", "ein", ",", ".", "der", "Warner", "Mitglied", "1940", "des", "Party", "8", "-RRB-", "Baron", "Lords" ],
-  "adjectives" : [ "und" ],
-  "nouns" : [ "der", "ist", "ein" ],
-  "text" : "Norman Warner, Baron Warner (* 8. September 1940) ist ein Mitglied des britischen House of Lords und der Labour Party."
-}, {
-  "entityIndex" : "7_entity13618",
+  "entityIndex" : "4_entity8305",
   "entityUrl" : "http://dbpedia.org/resource/Northrup_R._Knox",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -76,18 +43,7 @@
   "nouns" : [ "generation", "leader", "franchise", "Hockey", "father", "chairman", "grandfather", "banker", "community", "family", "sportsman", "brother" ],
   "text" : "Northrup Rand Knox (December 24, 1928 – July 23, 1998), was a Buffalo banker, sportsman, and community leader who, along with his brother Seymour, brought the National Hockey League franchise the Buffalo Sabres to Buffalo, New York. Knox is the third generation of the Knox family to serve as chairman of Marine Midland Bank and its predecessors. His father Seymour H. Knox II and grandfather Seymour H. Knox I also served as chairmen. He was also a past chairman of the Buffalo Sabres. He was chairman and governor of the United States Polo Association."
 }, {
-  "entityIndex" : "8_entity13756",
-  "entityUrl" : "http://dbpedia.org/resource/Nat_Wei,_Baron_Wei",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "BA  French and German" ]
-  },
-  "words" : [ "Nat", "``", "Politiker", "Gründungsteams", "bei", "ist", "der", "des", "Regierung", "Teach", "First", "Lords", "1977", "im", "Berater", "'", "19", "als", "*", "House", ",", "-", ".", "Kids", "/", "Shaftesbury", "Pinyin", "Wéi", "bekannt", "-RRB-", "Wei", "ēn", "Society", "韦鸣恩", "Gründer", "-LRB-", "britischer", "britischen", "Rahmen", "ein", "Absolute", "韋鳴恩", "Wohltätigkeitsorganisation", "Watford", "Party", "von", "Nathanael", "chinesisch", "Baron", "Partner", "Januar", "Míng", "Social", "Big", "Return", "und", "Hertfordshire", "Ming-Yan", "Projekts", "Mitglied", "strategischer", "Partnership", "Conservative", "Entrepreneur", "früherer" ],
-  "adjectives" : [ "und", "chinesisch", "Absolute", "Januar" ],
-  "nouns" : [ "britischer", "strategischer", "Return", "bekannt", "und", "ēn", "ein", "früherer" ],
-  "text" : "Nathanael Ming-Yan Wei, Baron Wei (chinesisch 韋鳴恩 / 韦鸣恩, Pinyin Wéi Míng'ēn), bekannt als Nat Wei, * 19. Januar 1977 in Watford, Hertfordshire ist ein britischer Social Entrepreneur, Berater der britischen Regierung im Rahmen des „Big Society“-Projekts, Politiker der Conservative Party und Mitglied des House of Lords. Wei ist Gründer und Partner der Shaftesbury Partnership, Mitglied des Gründungsteams von Teach First und früherer strategischer Berater bei der Wohltätigkeitsorganisation Absolute Return For Kids."
-}, {
-  "entityIndex" : "9_entity13822",
+  "entityIndex" : "5_entity8429",
   "entityUrl" : "http://dbpedia.org/resource/Natasha_Maclaren-Jones",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,7 +54,7 @@
   "nouns" : [ "advisor", "politician", "member", "history" ],
   "text" : "Natasha Maclaren-Jones (born 11 March 1976) is an Australian politician. She has been a Liberal Party of Australia member of the New South Wales Legislative Council since March 2011. Before Parliament, Natasha was a senior advisor to Helen Coonan and Bronwyn Bishop and was the State Liberal Party President that presided over the largest Coalition win in NSW political history"
 }, {
-  "entityIndex" : "10_entity13939",
+  "entityIndex" : "6_entity8518",
   "entityUrl" : "http://dbpedia.org/resource/Nat_Cook",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -109,7 +65,7 @@
   "nouns" : [ "campaigner", "beach", "politician", "district", "volleyball", "by-election", "player" ],
   "text" : "(For the Australian beach volleyball player, see Natalie Cook.) Natalie Fleur \"Nat\" Cook is an Australian politician and anti-violence campaigner representing the electoral district of Fisher in the South Australian House of Assembly for the Australian Labor Party since the 2014 Fisher by-election."
 }, {
-  "entityIndex" : "11_entity8820",
+  "entityIndex" : "7_entity5301",
   "entityUrl" : "http://dbpedia.org/resource/Jesudasu_Seelam",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -120,18 +76,7 @@
   "nouns" : [ "officer", "politician", "cadre", "house", "party" ],
   "text" : "Shri Jesudasu Seelam, a politician from Indian National Congress party, is a Member of the Parliament of India representing Andhra Pradesh in the Rajya Sabha, the upper house of the Parliament from 2004. He was Minister of State (Revenue) under the Ministry of Finance from 17 June 2013. Prior to entering politics he served as an Indian Administrative Service (IAS) officer from 1984-99 of Karnataka cadre."
 }, {
-  "entityIndex" : "12_entity9051",
-  "entityUrl" : "http://dbpedia.org/resource/J._Roger_Pichette",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "St.Hyacinthe Seminary" ]
-  },
-  "words" : [ "homonymes", "Roger", "politique", "était", ",", ".", "et", "homme", "canadien", "voir", "Joseph", "un", "Pour", "les", "Pichette", "d'affaires", "articles" ],
-  "adjectives" : [ ],
-  "nouns" : [ "homme", "politique", "canadien", "était", "un" ],
-  "text" : "Pour les articles homonymes, voir Pichette. Roger Joseph Pichette était un homme d'affaires et un homme politique canadien."
-}, {
-  "entityIndex" : "13_entity9369",
+  "entityIndex" : "8_entity5609",
   "entityUrl" : "http://dbpedia.org/resource/John_Monds",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -142,7 +87,7 @@
   "nouns" : [ "activist", "ballot", "seat", "Governor", "rest", "candidate", "election", "politician", "nominee", "office" ],
   "text" : "John Monds (born June 17, 1965) is an American politician and activist. He was the Libertarian nominee for Governor of Georgia in 2010. He was the first African American to appear on the general election ballot for Governor of Georgia. In 2008, Monds became the first Libertarian Party candidate in Georgia and the rest of the United States to receive over 1,000,000 votes, when he ran for the Statewide office of Public Service Commission District 1 seat in 2008.Monds received 1,076,726 votes for 33.4% of the vote in a two-way race with only a Republican opponent. His vote total was highest number of votes that a Libertarian candidate has ever received in a United States election at any level, until Gary Johnson received 1,139,562 votes in the 2012 presidential election Monds also received the highest percentage of the vote ever for a Libertarian in a statewide race."
 }, {
-  "entityIndex" : "14_entity9412",
+  "entityIndex" : "9_entity5640",
   "entityUrl" : "http://dbpedia.org/resource/James_Clement_Baxter",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -153,7 +98,7 @@
   "nouns" : [ "doctor", "mother", "politician", "father", "club", "chairman", "medicine", "football" ],
   "text" : "Dr James Clement Baxter (1 July 1857 – 27 January 1928) was an English politician and football club chairman and doctor of medicine. Baxter represented the Liberal Party on Liverpool City Council between the years of 1906 and 1920 and was the chairman of Everton F.C. James Clement Baxter was born in Liverpool, Lancashire, England, on 1 July 1857. His father, William Baxter, was originally from Clitheroe and his mother, Ann Hughes, was from Liverpool. His father was Church of England and his mother was Roman Catholic. His father was a chemist and druggist in Great Homer Street Everton, Liverpool. His mother's father, James Hughes, was from Ireland. Baxter was a Licentiate of the King and Queen's College of Physicians in Ireland, renamed Royal College of Physicians of Ireland from 1890 when, under charter of Queen Victoria, it adopted the present title. According to college records he was admitted on 13 December 1878. He had received his medical training at the Liverpool Royal Infirmary and, presumably, made the short journey to Dublin just to sit the examination (as many English doctors did). After qualifying as a doctor he set up a practice in Robson Street Liverpool. Baxter was initially a medical adviser for Everton F.C. and later he reluctantly became the club's chairman. In 1892 he advanced the club a loan of £1000 to develop Goodison Park."
 }, {
-  "entityIndex" : "15_entity9544",
+  "entityIndex" : "10_entity5714",
   "entityUrl" : "http://dbpedia.org/resource/Janardan_Waghmare",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -164,7 +109,7 @@
   "nouns" : [ "Berfore", "thant", "politician", "member", "house", "Principal" ],
   "text" : "Janardan Waghmare is an Indian politician and a member of the Rajya Sabha, the upper house of the Indian Parliament. Berfore thant he was the President of Latur Municipal Council. He has also served the First Vice Chancellor of Swami Ramanand Teerth Marathwda University, Nanded and as Principal of Rajarshi Shahu College, Latur."
 }, {
-  "entityIndex" : "16_entity10111",
+  "entityIndex" : "11_entity6155",
   "entityUrl" : "http://dbpedia.org/resource/Joseph_Sheffield",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -175,29 +120,7 @@
   "nouns" : [ "number", "century", "agent", "half", "role", "colony", "charter", "time", "inhabitant", "indecision" ],
   "text" : "Joseph Sheffield (1661 - 1706) was an inhabitant of Portsmouth in the Colony of Rhode Island and Providence Plantations during the last half of the 17th century. He held a number of important offices within the colony, including Deputy, Assistant and Attorney General. He is most noted for being selected as Rhode Island's agent to England on two occasions, but never appears to have served in that role due to the indecision of the General Assembly. He played a prominent role in the affairs of the colony during an extremely turbulent time, when Rhode Island was threatened with losing its charter due to \"irregularities\" perceived by the English Board of Trade. Sheffield died at the age of 44, leaving a widow and several minor children."
 }, {
-  "entityIndex" : "17_entity10113",
-  "entityUrl" : "http://dbpedia.org/resource/Jaime_Ravinet",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Johns_Hopkins_University", "http://dbpedia.org/resource/University_of_Chile" ]
-  },
-  "words" : [ "تشيلي", "موثقة", "-LRB-", "فوِنتي", "25بك", "أي", "بمصادر", "سياسي", "،", "التشكيك", "سانتياغو", "المحتوى", "معلومات", "يوليو", "أكتوبر", "الاستشهاد", "من", "هو", "لا", "17", "في", "ينقصه", "يمكن", "وإزالتها", "رافينيت", ".", "موثوق", "خايمي", "هنا", "2016", "يرجى", "-RRB-", "غير", "مصادر", "دي", "1946", "إيراد", "بها", "مواليد" ],
-  "adjectives" : [ ],
-  "nouns" : [ "تشيلي", "يرجى", "أي", "بمصادر", "دي", "،", "وإزالتها" ],
-  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (يوليو 2016) خايمي رافينيت دي لا فوِنتي ،من مواليد 17 أكتوبر 1946 في سانتياغو، هو سياسي تشيلي. رئيس بلدية سانتياغو عاصمة شيلي في الفترة من عام 1990 إلى عام 2000.و شغل منصب وزير الإسكان والتخطيط العمراني والملكية الوطنية في الفترة ما بين 2001 إلى 2004 و منصب وزير للدفاع من 2004 و حتى 11 مارس 2006. مشاريع شقيقة في كومنز صور وملفات عن: خايمي رافينيت"
-}, {
-  "entityIndex" : "18_entity10586",
-  "entityUrl" : "http://dbpedia.org/resource/Jagga_Reddy",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "SSC" ]
-  },
-  "words" : [ "-LRB-", "Telangana", "politician", "born", "Jagga", "జగ్గా", ",", ".", "Sangareddy", "Telugu", "Reddy", "రెడ్డి", "7", "Indrakaran", "district", "-RRB-", "Indian", ":", "Medak", "July", "village", "1966", "mandal" ],
-  "adjectives" : [ "Indian" ],
-  "nouns" : [ "politician", "district", "village", "mandal" ],
-  "text" : "Jagga Reddy (Telugu: జగ్గా రెడ్డి) is an Indian politician, born on 7 July 1966 at Indrakaran village in Sangareddy mandal of Medak district Telangana."
-}, {
-  "entityIndex" : "19_entity10587",
+  "entityIndex" : "12_entity6538",
   "entityUrl" : "http://dbpedia.org/resource/John_Cole_(judge)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -208,29 +131,7 @@
   "nouns" : [ "burning", "execution", "revenue", "role", "committee", "legislator", "schooner", "parliament", "plan", "lawyer", "tenure", "lead" ],
   "text" : "John Cole (1715–1777) was a lawyer who became the 12th Chief Justice of the Rhode Island Supreme Court, serving from 1764 to 1765. Following his short tenure as Chief Justice, he became a Providence legislator, and Speaker of the Rhode Island House of Deputies. In this role he was on a committee to draft instructions to Providence citizens in regards to protesting the egregious Stamp Act passed by the British parliament to tax the American colonists. During the lead up to the American Revolutionary War Cole was privy to the plan and execution of the burning of the British revenue schooner Gaspee that ran aground near Pawtuxet, Rhode Island. He was deeply complicit with Stephen Hopkins and other leading Providence citizens in withholding evidence from the British commission of inquiry that was established to find the instigators of the Gaspee Affair. After a year of collecting testimonies, the court dissolved, having failed to indict a single person. In 1775 Cole became the Advocate General of Rhode Island's Vice Admiralty Court, but died of smallpox just two years later."
 }, {
-  "entityIndex" : "20_entity10589",
-  "entityUrl" : "http://dbpedia.org/resource/John_Ames_(politician)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "* University of New Brunswick, 2007 BA in Political Science" ]
-  },
-  "words" : [ "Saint-Stephen", "de", "politique", "est", "John", "du", "député", "Nouveau-Brunswick", "un", "circonscription", "été", "il", "janvier", "en", ",", "Charlotte-Campobello", "l'élection", ".", "et", "élu", "2", "qu'un", "homme", "1983", "lors", "-RRB-", "Avant", "municipal", "né", "Saint-Jean", "-LRB-", "Il", "tant", "l'Association", "devenir", "conseiller", "maire-adjoint", "libérale", "à", "représente", "membre", "Ames", "provinciale", "législative", "l'Assemblée", "canadien", "la", "2014", "le" ],
-  "adjectives" : [ "législative", "Avant", "municipal" ],
-  "nouns" : [ "il", "Il", "politique", "est", "provinciale", "janvier", "l'élection", "qu'un", "homme", "l'Assemblée", "canadien", "conseiller", "un", "été" ],
-  "text" : "John Ames (né le 2 janvier 1983 à Saint-Jean) est un homme politique canadien, il est élu à l'Assemblée législative du Nouveau-Brunswick lors de l'élection provinciale de 2014. Il représente la circonscription de Charlotte-Campobello en tant qu'un membre de l'Association libérale du Nouveau-Brunswick. Avant devenir député, il a été le conseiller municipal et maire-adjoint de Saint-Stephen."
-}, {
-  "entityIndex" : "21_entity4401",
-  "entityUrl" : "http://dbpedia.org/resource/Edmund_Barton",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/University_of_Sydney", "http://dbpedia.org/resource/Fort_Street_High_School", "http://dbpedia.org/resource/Sydney_Grammar_School" ]
-  },
-  "words" : [ "New", "Wales", "Court", "Protectionist", "justice", "judge", "January", "Minister", "contributed", "--", "MP", "18", "Barton", ",", ".", "7", "served", "-RRB-", "1903", "Hopetoun", "Sir", "confusion", "1901", "Parliament", "became", "-LRB-", "Prime", "contesting", "eventually", "founding", "head", "Party", "government", "GCMG", "KC", "federal", "1879", "High", "federation", "election", "caretaker", "Blunder", "initial", "politician", "South", "inaugural", "Edmund", "1920", "Australian", "1890s", "1849", "Australia", "movement", "first" ],
-  "adjectives" : [ "initial", "Australian", "federal", "first", "inaugural", "founding" ],
-  "nouns" : [ "federation", "head", "MP", "election", "caretaker", "government", "Blunder", "politician", "justice", "judge", "movement", "confusion" ],
-  "text" : "Sir Edmund Barton, GCMG, KC (18 January 1849 – 7 January 1920) was an Australian politician and judge. He served as the first Prime Minister of Australia from 1901 to 1903 and became a founding justice of the High Court of Australia. Barton first became an MP in 1879, in the Parliament of New South Wales. He contributed to the federation movement through the 1890s, eventually contesting the inaugural 1901 federal election as head of a caretaker Protectionist Party federal government, after the initial confusion of the Hopetoun Blunder. No party won a majority; however, he was able to form government with support from the Australian Labor Party, against the opposition Free Trade Party. Barton resigned as Prime Minister in 1903 to become a judge of the High Court of Australia, serving until his death in 1920."
-}, {
-  "entityIndex" : "22_entity4410",
+  "entityIndex" : "13_entity2746",
   "entityUrl" : "http://dbpedia.org/resource/Eric_Forth",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -241,18 +142,7 @@
   "nouns" : [ "death", "minister", "politician", "MEP", "libertarian", "junior" ],
   "text" : "Eric Forth (9 September 1944 – 17 May 2006) was a British politician. He was the Conservative Member of the European Parliament (MEP) for Birmingham North, then Member of Parliament (MP) for Mid Worcestershire and finally Bromley and Chislehurst at his death. He served as a junior minister in the governments of Margaret Thatcher and John Major between 1988 and 1997. In his obituaries, he was described as \"colourful\", \"flamboyant\", \"provocative\" and a \"right-wing libertarian\". He was noted for his colourful ties and waistcoats, sideburns, and jewellery."
 }, {
-  "entityIndex" : "23_entity4457",
-  "entityUrl" : "http://dbpedia.org/resource/Edgar_Vincent,_1st_Viscount_D'Abernon",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Eton_College" ]
-  },
-  "words" : [ "Edgar", "-LRB-", "FRS", "collector", "1st", "GCMG", "1857", "November", "--", "Vincent", "British", "art", "author", "GCB", "politician", "19", ",", "D'Abernon", ".", "August", "1", "1941", "PC", "Viscount", "-RRB-", "diplomat" ],
-  "adjectives" : [ "British" ],
-  "nouns" : [ "art", "author", "politician", "diplomat", "collector" ],
-  "text" : "Edgar Vincent, 1st Viscount D'Abernon GCB GCMG PC FRS (19 August 1857 – 1 November 1941) was a British politician, diplomat, art collector and author."
-}, {
-  "entityIndex" : "24_entity4549",
+  "entityIndex" : "14_entity2803",
   "entityUrl" : "http://dbpedia.org/resource/Ethel_Bentham",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -263,29 +153,7 @@
   "nouns" : [ "doctor", "suffragist", "politician" ],
   "text" : "Dr. Ethel Bentham (5 January 1861 – 19 January 1931) was a progressive doctor, a politician and a suffragist in the United Kingdom. She was born in London, educated at Alexandra School and College in Dublin, the London School of Medicine for Women and the Rotunda Hospital. She never married."
 }, {
-  "entityIndex" : "25_entity4927",
-  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Berridge,_Baroness_Berridge",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "BA  Law" ]
-  },
-  "words" : [ "22", "-LRB-", "Rutland", "England", "Rose", "*", "und", "ist", ",", "britische", ".", "Baroness", "Politikerin", "Elizabeth", "Party", "Peeress", "1972", "eine", "Conservative", "-RRB-", "Life", "März", "Juristin", "Berridge" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Politikerin", "eine", "ist", "britische", "Juristin" ],
-  "text" : "Elizabeth Rose Berridge, Baroness Berridge (* 22. März 1972 in Rutland, England) ist eine britische Juristin, Politikerin (Conservative Party) und Life Peeress."
-}, {
-  "entityIndex" : "26_entity5064",
-  "entityUrl" : "http://dbpedia.org/resource/Ekrem_Alican",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "Finance" ]
-  },
-  "words" : [ "leader", "-LRB-", "Adapazarı-June", "minister", "18", "politician", "2000", "Ekrem", ",", ".", "Turkish", "government", "İstanbul", "-RRB-", "1916", "Alican", "party" ],
-  "adjectives" : [ "Turkish" ],
-  "nouns" : [ "leader", "government", "minister", "politician", "party" ],
-  "text" : "Ekrem Alican (1916, Adapazarı-June 18, 2000 İstanbul) was a Turkish politician, government minister and party leader."
-}, {
-  "entityIndex" : "27_entity5108",
+  "entityIndex" : "15_entity3171",
   "entityUrl" : "http://dbpedia.org/resource/Elaine_Cassidy_(mayor)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -296,7 +164,7 @@
   "nouns" : [ "area", "teacher", "government", "Municipality", "politician", "book" ],
   "text" : "Elaine Armgard Cassidy (15 March 1930 – 21 February 2014) was a socially prominent Australian teacher and municipal politician. She served as Mayor and Deputy Mayor in the local government area of the Municipality of Woollahra in Sydney. Cassidy compiled and edited a Bicentennial book on the Eastern Suburbs of Sydney."
 }, {
-  "entityIndex" : "28_entity5113",
+  "entityIndex" : "16_entity3173",
   "entityUrl" : "http://dbpedia.org/resource/Eric_C._Bauman",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -307,7 +175,7 @@
   "nouns" : [ "operative", "influence" ],
   "text" : "Eric Carl Bauman is an American political operative who is known for his influence in Los Angeles County Democratic politics. He has been the Vice Chair of the California Democratic Party since 2009 and Chair of the Los Angeles Democratic Party since 2000."
 }, {
-  "entityIndex" : "29_entity18697",
+  "entityIndex" : "17_entity11523",
   "entityUrl" : "http://dbpedia.org/resource/Wayne_K._Curry",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -318,7 +186,7 @@
   "nouns" : [ "executive", "career", "government", "politician", "county", "community" ],
   "text" : "Wayne Keith Curry (January 6, 1951 – July 2, 2014) was an American politician. He was elected as the executive for Prince George's County, Maryland in November 1994, and served two terms as the county executive from December 1994 to December 2002. His career has encompassed government, civic, and community affairs for more than 20 years."
 }, {
-  "entityIndex" : "30_entity18840",
+  "entityIndex" : "18_entity11580",
   "entityUrl" : "http://dbpedia.org/resource/Wan_J._Kim",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -329,7 +197,7 @@
   "nouns" : [ "agency", "position", "sector" ],
   "text" : "Wan J. Kim (born 1968) is the former Assistant United States Attorney General for the Civil Rights Division in the Department of Justice, a position in which he served from November 9, 2005 to August 31, 2007. Born in Seoul, South Korea, Kim is the first immigrant to serve as Assistant Attorney General for the Civil Rights Division of the United States Department of Justice, and is the first Korean American ever to become an Assistant Attorney General. On August 23, 2007 Kim announced that he was leaving the agency for the private sector."
 }, {
-  "entityIndex" : "31_entity19314",
+  "entityIndex" : "19_entity11920",
   "entityUrl" : "http://dbpedia.org/resource/William_Dyer_(settler)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -340,7 +208,7 @@
   "nouns" : [ "martyr", "wife", "church", "petition", "Dyre", "settler", "husband", "man", "supporter", "support", "founding", "activism" ],
   "text" : "William Dyer (also Dyre) (1609–by 1677) was an early settler of the Colony of Rhode Island and Providence Plantations, a founding settler of both Portsmouth and Newport, and Rhode Island's first Attorney General. He is best known for being the husband of the Quaker martyr, Mary Dyer, who was executed for her Quaker activism. Sailing from England as a young man with his wife, Dyer first settled in Boston in the Massachusetts Bay Colony, but like many members of the Boston church became a supporter of the dissident ministers John Wheelwright and Anne Hutchinson during the Antinomian Controversy, and signed a petition in support of Wheelwright. For doing this, he was disenfranchised and disarmed, and with many other supporters of Hutchinson, he signed the Portsmouth Compact, and settled on Aquidneck Island in the Narragansett Bay. Within a year of arriving there, he and others followed William Coddington to the south end of the island where they established the town of Newport. Once in Newport, Dyer was very active in civil affairs, holding a number of offices, particularly those using his clerical skills such as clerk and secretary. The political alignment of the island towns of Portsmouth and Newport was in flux for the first decade of government there, and Coddington had gone to England to obtain a commission to keep the island independent with him as governor. By 1651 Dyer and others had greatly tired of Coddington's rule, and he was one of three men who went to England to have Coddington's commission revoked. Being successful, Dyer returned with the news in 1653, but his wife, Mary, who had been there at the same time, remained in England. Mary returned from England in 1657 after being there for five years, and had become a zealous Quaker convert. Banned from Massachusetts, she nevertheless defied the authorities and returned in 1659, being sentenced to hang, but getting a stay of execution while on the gallows. Her last trip to Boston in 1660 resulted in her execution and martyrdom. Following Mary's death, Dyer remarried, and continued his public service, while having some legal entanglements with William Coddington. He was dead by late 1677, though no record for his death has been found."
 }, {
-  "entityIndex" : "32_entity19430",
+  "entityIndex" : "20_entity12022",
   "entityUrl" : "http://dbpedia.org/resource/William_Horner_Fletcher",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -351,7 +219,7 @@
   "nouns" : [ "accountant", "mayor", "union", "player" ],
   "text" : "William Horner Fletcher (1851 – 1931) was a New Zealand-born Australian accountant and mayor of Manly Council. He was a pioneering player of rugby union in New South Wales."
 }, {
-  "entityIndex" : "33_entity19434",
+  "entityIndex" : "21_entity12025",
   "entityUrl" : "http://dbpedia.org/resource/Winter_Warden",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -362,7 +230,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "Winter David Warden (26 November 1860 – 3 June 1936) was an Australian politician and a member of the New South Wales Legislative Council for the Nationalist Party of Australia for 17 years."
 }, {
-  "entityIndex" : "34_entity19442",
+  "entityIndex" : "22_entity12031",
   "entityUrl" : "http://dbpedia.org/resource/William_Henry_Piddington",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -373,7 +241,7 @@
   "nouns" : [ "politician", "member", "Assembly" ],
   "text" : "William Henry Burgess Piddington (24 April 1856 – 27 September 1900) was an Australian politician and a member of the New South Wales Legislative Assembly for six years."
 }, {
-  "entityIndex" : "35_entity18592",
+  "entityIndex" : "23_entity11475",
   "entityUrl" : "http://dbpedia.org/resource/Virdhi_Chand_Jain",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -384,7 +252,7 @@
   "nouns" : [ "constituency", "member", "Rajasthan.He", "Assembly", "party" ],
   "text" : "Virdhi Chand Jain was a Member of Parliament for Barmer in Rajasthan and former Member of Legislative Assembly in Barmer constituency from Rajasthan.He was a party member of Indian National Congress."
 }, {
-  "entityIndex" : "36_entity11623",
+  "entityIndex" : "24_entity7161",
   "entityUrl" : "http://dbpedia.org/resource/Lynda_Voltz",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -395,7 +263,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "Lynda Jane Voltz (born 1965) is an Australian politician and Australian Labor Party member of the New South Wales Legislative Council. Voltz has been a member of the Council since March 2007. As of April 2016, Lynda Voltz is also the Shadow Minister for Sport and Veterans' Affairs. Voltz was born in Hornsby on Sydney's North Shore, and attended Birrong Girls High School. Voltz joined the Australian Army Reserve in 1984, and in 1987 she became one of the first women to the join the regular Australian Army as one of the second group of women to train alongside men at Army Recruit Training Centre at Kapooka. She joined the Royal Australian Corps of Military Police, as it was one of the few field force units women were allowed to join. After leaving the army, she worked as a political staffer for state MP Sandra Nori, federal member for Sydney Peter Baldwin, and then as an electoral officer for Senator John Faulkner. At the 1995 New South Wales state election, she contested the district of North Shore but was defeated by the Liberal candidate, Jillian Skinner. She has two daughters, Katerina and Anastasia."
 }, {
-  "entityIndex" : "37_entity11991",
+  "entityIndex" : "25_entity7386",
   "entityUrl" : "http://dbpedia.org/resource/Lorie_Masters",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -406,7 +274,7 @@
   "nouns" : [ "insurance", "Masters", "candidate", "litigation", "work", "rule", "trafficking", "lawyer", "home" ],
   "text" : "Lorelie \"Lorie\" S. Masters (born 1954) is an American lawyer specializing in insurance litigation notable for her work supporting District of Columbia home rule and opposing human trafficking. She was a candidate for Attorney General of the District of Columbia in 2014."
 }, {
-  "entityIndex" : "38_entity12002",
+  "entityIndex" : "26_entity7396",
   "entityUrl" : "http://dbpedia.org/resource/Lane_Beattie",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -417,29 +285,7 @@
   "nouns" : [ "reelection", "politician", "state", "businessman" ],
   "text" : "Lane Beattie is an American businessman and politician from the state of Utah. Beattie served in the Utah Senate from 1989 through 2000, representing the 23rd Utah Senate District. He served as Senate Majority Leader from 1993 through 1994 and Senate President from 1995. He opted not to seek reelection in 2000. Beattie helped plan the 2002 Winter Olympics, held in Salt Lake City, and consulted with the committee planning the 2010 Winter Olympics, held in Vancouver. Beattie is the President and Chief Executive Officer of the Salt Lake Chamber of Commerce, and he was named to the board of directors of the United States Chamber of Commerce in 2011. Beattie is a potential candidate in the 2016 election for the United States Senate seat held by Mike Lee."
 }, {
-  "entityIndex" : "39_entity2386",
-  "entityUrl" : "http://dbpedia.org/resource/Charles_Wood,_2nd_Viscount_Halifax",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Eton_College" ]
-  },
-  "words" : [ "June", "Church", "-LRB-", "1919", "Union", "1839", "ecumenist", "January", "1934", "--", "Charles", "British", "Wood", "2nd", "19", ",", "Lindley", "Halifax", ".", "English", "Viscount", "7", "served", "-RRB-", "1927", "1868", "president" ],
-  "adjectives" : [ "British", "2nd" ],
-  "nouns" : [ "ecumenist", "president" ],
-  "text" : "Charles Lindley Wood, 2nd Viscount Halifax (7 June 1839 – 19 January 1934) was a British ecumenist who served as president of the English Church Union from 1868 to 1919, and from 1927 to 1934."
-}, {
-  "entityIndex" : "40_entity2422",
-  "entityUrl" : "http://dbpedia.org/resource/Craig_Murray",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Master_of_Arts_(Scotland)", "http://dbpedia.org/resource/University_of_Dundee" ]
-  },
-  "words" : [ "موثقة", "-LRB-", "دبلوماسي", "25بك", "أي", "بمصادر", "كريغ", "التشكيك", "المحتوى", "مارس", "معلومات", "أكتوبر", "1958", "الاستشهاد", "من", "ميراي", "17", "ينقصه", "يمكن", "وإزالتها", "بريطاني", ".", "موثوق", "هنا", "2016", "يرجى", "-RRB-", "غير", "مصادر", "إيراد", "بها", "مواليد" ],
-  "adjectives" : [ ],
-  "nouns" : [ "من", "يرجى", "أي", "بمصادر", "وإزالتها" ],
-  "text" : "25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) كريغ ميراي دبلوماسي بريطاني من مواليد 17 أكتوبر 1958. تقلد عدة مناصب مهمة منها منها منصب سفير المملكة المتحدة في أوزبكستان قبل عزله من منصبه بتاريخ 14 أكتوبر 2004 بسبب معارضته الدعم الذي قدمه إسلام كاريموف لتحالف الحرب على الإرهاب وإبلاغه وزارة خارجية بلاده بالطابع \"الفاشي\" لنظام كاريموف حسب تعبير ميراي, واللجوء المبالغ فيه إلى التعذيب وبعد سياسة شد الحبل التي دامت طويلا مع حكومة توني بلير, قرر ميراي رفع الغطاء عن تلك الملابسات. ولقد قادت وشايته إلى اكتشاف شبكة اختطاف جماعي, وحجز الأشخاص ثم تعذيبهم. الشبكة التي وضع أسسها وكالة المخابرات الأمريكية و\"إم آي 6\" بعد أحداث 11 سبتمبر 2001. والتي يبقى ملف \"الرحلات السرية\" بأوربا أكثرها توثيقا. في نوفمبر من عام 2005, شارك كريغ ميراي في فعاليات المؤتمر العالمي \"محور من أجل السلام\", والذي نظمته شبكة فولتير. وفي يوليو 2006, قام كريغ ميراي بنشر شهادته تحت عنوان \"جريمة اغتيال في سمرقند\". وحسب السفير ذاته, والذي تم تهديده بأقصى العقوبات القضائية, فإنه أجبر على الرجوع عن نشر الوثائق الرسمية التي في حوزته داخل بريطانيا, مفضلا نشرها على شبكة فولتير."
-}, {
-  "entityIndex" : "41_entity2855",
+  "entityIndex" : "27_entity1661",
   "entityUrl" : "http://dbpedia.org/resource/Cynthia_Hogan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -450,18 +296,7 @@
   "nouns" : [ "time", "legislation" ],
   "text" : "Cynthia C. Hogan (born Cincinnati, Ohio about 1958) is the Senior Vice President of Public Policy and Government Affairs for the National Football League. Previously Hogan served as the Counsel to the Vice President of the United States, Joe Biden, under President Barack Obama. Hogan previously worked as Chief Counsel to Vice President Biden during his time in the United States Senate and served as Staff Director of the Senate Judiciary Committee. In 1995, she assisted with the drafting of anti-terrorism legislation. She has experience with judicial nominations. During the confirmation process for Sonia Sotomayor's nomination to the U.S. Supreme Court, she was (metaphorically) Judge Sotomayor's sherpa. She holds a B.A. in art history from Oberlin College (1979), and a J.D. from the University of Virginia Law School (1984). She was Notes Editor of the Virginia Law Review, then a clerk for U.S. District Court judge Edward Norman Cahn in the Eastern District of Pennsylvania. She was an associate at Williams & Connolly, before going to work for Biden (1991–1996). She advised Biden unofficially while she stayed home raising her children. She and her husband both contributed to Democratic National Committee (1992). She gave money to Ralph Neas (1997) in his unsuccessful attempt to unseat Connie Morella in Maryland's 8th congressional district. Her husband has consistently donated to his employer's (the Arent Fox law firm) political action committee; the firm appears to contribute to the party of the incumbent President of the United States."
 }, {
-  "entityIndex" : "42_entity3333",
-  "entityUrl" : "http://dbpedia.org/resource/Chowdhury_Irad_Ahmed_Siddiky",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "M.A. in History and Economics" ]
-  },
-  "words" : [ "activist", "Ahmed", "sociologist", "Mayor", "Siddiky", "anti-corruption", "Bangladeshi", "politician", "historian", "Shadow", ",", "Irad", ".", "Chowdhury", "urban", "2015", "served", "Dhaka", "since" ],
-  "adjectives" : [ "anti-corruption", "urban" ],
-  "nouns" : [ "activist", "sociologist", "politician", "historian" ],
-  "text" : "Chowdhury Irad Ahmed Siddiky is a Bangladeshi urban sociologist, historian, politician and anti-corruption activist who has served as Shadow Mayor of Dhaka since 2015."
-}, {
-  "entityIndex" : "43_entity3335",
+  "entityIndex" : "28_entity2003",
   "entityUrl" : "http://dbpedia.org/resource/Chintaman_Vanaga",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -472,7 +307,7 @@
   "nouns" : [ "qualification", "Sabha", "constituency", "politician", "district", "member", "Lok", "office", "advocate" ],
   "text" : "Chintaman Vanaga is an Indian politician from Maharashtra and is a member of the Bharatiya Janata Party. He is member of 16th Lok Sabha elected from Palghar (Lok Sabha constituency). He is an advocate by qualification from Mumbai University and served as the President of BJP's Thane district office from 1990 to 1996."
 }, {
-  "entityIndex" : "44_entity1671",
+  "entityIndex" : "29_entity940",
   "entityUrl" : "http://dbpedia.org/resource/Barbara_Marshall",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -483,40 +318,7 @@
   "nouns" : [ "broadcast", "news", "career", "television", "politician", "reporter", "retirement", "advocate", "filmmaker", "broadcasting", "journalist", "anchor", "station", "consumer", "documentary", "KHON-TV" ],
   "text" : "Barbara Novak Marshall (March 5, 1944 – February 22, 2009) was an American television broadcast journalist and politician. She was elected three times to the Honolulu City Council in Honolulu, Hawaii following her retirement from broadcasting. Marshall was known throughout Hawaii for a long career as an investigative journalist, consumer advocate, documentary filmmaker, news anchor and reporter for KHON-TV television station."
 }, {
-  "entityIndex" : "45_entity1755",
-  "entityUrl" : "http://dbpedia.org/resource/Basdeo_Panday",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/University_of_London" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "25", "ist", "ein", "Er", "bis", "1995", "Trinidad", "von", "Town", "Premierminister", "Princes", "1933", "Tobago", "2001", "war", "*", "und", ",", ".", "Panday", "Mai", "Basdeo", "-RRB-", "aus" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Politiker", "von", "war", "ist", "ein", "aus" ],
-  "text" : "Basdeo Panday (* 25. Mai 1933 in Princes Town, Trinidad) ist ein Politiker aus Trinidad und Tobago. Er war von 1995 bis 2001 Premierminister von Trinidad und Tobago."
-}, {
-  "entityIndex" : "46_entity1781",
-  "entityUrl" : "http://dbpedia.org/resource/Bruno_Julliard",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Lumière_University_Lyon_2" ]
-  },
-  "words" : [ "Politiker", "de", "Adjoint", "ist", "studierte", "dem", "bis", "Haute-Loire", "der", "Julliard-Landau", "des", "Frankreich", "damit", "Öffentliches", "ab", "Pariser", "*", "Hidalgo", ",", "er", ".", "April", "5", "Bürgermeisterin", "1981", "-RRB-", "Seit", "Vorsitzender", "französischer", "étudiants", "-LRB-", "Universität", "Julliard", "Puy-en-Velay", "ein", "Er", "Recht", "Union", "Bruno", "2007", "von", "2005", "größten", "Anne", "Stellvertreter", "France", "UNEF", "1999", "Studentenverbandes", "Lyon", "war", "und", "oder", "Premier", "2014", "nationale" ],
-  "adjectives" : [ ],
-  "nouns" : [ "oder", "Politiker", "ab", "von", "war", "Seit", "ist", "ein", "französischer", "studierte", "er" ],
-  "text" : "Bruno Julliard oder Bruno Julliard-Landau (* 1981 in Puy-en-Velay, Haute-Loire) ist ein französischer Politiker. Seit dem 5. April 2014 ist er Premier Adjoint und damit Stellvertreter der Pariser Bürgermeisterin Anne Hidalgo Bruno Julliard studierte ab 1999 Öffentliches Recht an der Universität Lyon. Er war von 2005 bis 2007 Vorsitzender der Union nationale des étudiants de France (UNEF), des größten Studentenverbandes in Frankreich. In dieser Zeit wurde er durch die studentischen Proteste gegen den Ersteinstellungsvertrag (CPE) bekannt, deren Galionsfigur er darstellte. Seit 2008 gehört Julliard für den Parti Socialiste dem Pariser Stadtrat (Conseil de Paris) an. Ab 2008 war er Beigeordneter des Pariser Bürgermeisters Bertrand Delanoë, zunächst zuständig für Jugend, ab 2012 für Kultur. Nach der Kommunalwahl 2014 wurde er zum Ersten Beigeordneten und damit zum Stellvertreter von Bürgermeisterin Anne Hidalgo gewählt; er ist weiterhin für Kultur verantwortlich."
-}, {
-  "entityIndex" : "47_entity17380",
-  "entityUrl" : "http://dbpedia.org/resource/Tim_Boswell",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Marlborough_College" ]
-  },
-  "words" : [ "Timothy", "-LRB-", "Eric", "2010", "Aynho", "general", "December", "retired", "Baron", "Member", "MP", "election", "Boswell", "born", "politician", ",", ".", "1987", "1942", "English", "2", "Daventry", "Conservative", "-RRB-", "formerly", "Parliament" ],
-  "adjectives" : [ "English", "general", "Conservative" ],
-  "nouns" : [ "election", "politician" ],
-  "text" : "Timothy Eric Boswell, Baron Boswell of Aynho (born 2 December 1942) is an English politician who was formerly the Conservative  Member of Parliament (MP) for Daventry from 1987 until he retired at the 2010 general election."
-}, {
-  "entityIndex" : "48_entity17502",
+  "entityIndex" : "30_entity10782",
   "entityUrl" : "http://dbpedia.org/resource/Tom_Morey_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -527,7 +329,7 @@
   "nouns" : [ "politician", "district", "member", "Assembly" ],
   "text" : "Thomas Irving \"Tom\" Morey (6 February 1906 – 11 December 1980) was an Australian politician, elected from 1962 to 1965 as a member of the New South Wales Legislative Assembly, for the electoral district of Bligh. He was a member of the Australian Labor Party."
 }, {
-  "entityIndex" : "49_entity17762",
+  "entityIndex" : "31_entity10931",
   "entityUrl" : "http://dbpedia.org/resource/Thummala_Nageswara_Rao",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -538,18 +340,7 @@
   "nouns" : [ "Member.He", "minister", "Government", "State", "Ex-MLA", "member", "reservation", "thrice", "party", "Assembly" ],
   "text" : "Thummala Nageswara Rao is a minister and a member of Telangana Rashtra Samithi. He once served the State Government of Andhra Pradesh as a minister for Heavy Water Irrigation Projects and Excise as a Telugu Desam party member under Chandra Babu Naidu. He was elected thrice to Assembly from Sathupalli Constituency as Legislative Member.He is an Ex-MLA of Khammam.. Though is actually from Sathupally, due to changes in reservation of seats in constituencies, he contested from Khammam and defeated his opponents Younis Sulthan and Jalagam Venkatrao in 2009 elections.... He sanctioned a waterproject to khammam people to make them get rid of fluoride water... He is from Gandugula Palli village of Dammapeta Mandal Khammam District. He is Minister for Roads and Buildings Department in TRS Government 2014 He became MLA in 2009 Assembly elections from Khammam & lost in 2014 Elections."
 }, {
-  "entityIndex" : "50_entity18114",
-  "entityUrl" : "http://dbpedia.org/resource/Tom_Rice",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "B.S. MA in Accounting, Juris Doctor" ]
-  },
-  "words" : [ "``", "Politiker", "-LRB-", "Myrtle", "Jr.", "ist", "ein", "den", "Beach", "US-Repräsentantenhaus", "Thompson", "1957", "Bundesstaat", "US-amerikanischer", "Rice", "im", "South", "vertritt", "Carolina", "*", "Hugh", ",", "er", ".", "August", "Tom", "4", "2013", "-RRB-", "Seit" ],
-  "adjectives" : [ "Seit" ],
-  "nouns" : [ "Politiker", "im", "US-Repräsentantenhaus", "vertritt", "ist", "ein", "den", "er", "US-amerikanischer" ],
-  "text" : "Hugh Thompson „Tom“ Rice Jr. (* 4. August 1957 in Myrtle Beach, South Carolina) ist ein US-amerikanischer Politiker. Seit 2013 vertritt er den Bundesstaat South Carolina im US-Repräsentantenhaus."
-}, {
-  "entityIndex" : "51_entity18173",
+  "entityIndex" : "32_entity11240",
   "entityUrl" : "http://dbpedia.org/resource/Tiernan_Brady",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -560,18 +351,7 @@
   "nouns" : [ "campaigner", "HIV", "director", "Director", "campaign", "equality", "LGBT" ],
   "text" : "Tiernan Brady is an Irish political and LGBT rights and equality campaigner. He was the Director of Gay HIV Strategies in GLEN – The Irish Gay and Lesbian Equality Network. and the political director of the Yes Equality campaign"
 }, {
-  "entityIndex" : "52_entity14953",
-  "entityUrl" : "http://dbpedia.org/resource/Randolph_Churchill",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Eton_College" ]
-  },
-  "words" : [ "1940-45", "46", "official", "Spencer-Churchill", "son", "Winston", "Pamela", "1939", "Randolph", "Member", "Minister", "--", "Frederick", "MP", "wife", "wrote", "volumes", "archive", ",", ".", "journalist", "materials", "6", "-RRB-", ";", "Sir", "Parliament", "June", "-LRB-", "Preston", "Prime", "May", "28", "father", "Churchill", "Edward", "two", "life", "MBE", "Clementine", "Digby", "1911", "British", "complemented", "followed", "extensive", "Conservative", "1968", "first" ],
-  "adjectives" : [ "British", "extensive", "Conservative", "official", "first" ],
-  "nouns" : [ "journalist", "son", "wife", "father", "archive", "life" ],
-  "text" : "Randolph Frederick Edward Spencer-Churchill MBE (28 May 1911 – 6 June 1968) was a journalist and a Conservative Member of Parliament (MP) for Preston from 1940-45. He was the son of British Prime Minister Sir Winston Churchill and his wife Clementine. He wrote the first two volumes of the official life of his father, complemented by an extensive archive of materials. His first wife (1939–46) was Pamela Digby; their son, Winston, followed his father into Parliament."
-}, {
-  "entityIndex" : "53_entity14987",
+  "entityIndex" : "33_entity9104",
   "entityUrl" : "http://dbpedia.org/resource/R._R._Patil",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -582,18 +362,7 @@
   "nouns" : [ "leader", "election", "alliance", "पाटील", "politician", "victory", "member", "assembly", "state", "time" ],
   "text" : "Raosaheb Ramrao Patil, better known as R. R. Patil, (Marathi: रावसाहेब रामराव पाटील) (16 August 1957 – 16 February 2015), was an Indian politician from the state of Maharashtra. He was an important leader of modern Maharashtra. He was a member of the Nationalist Congress Party. He became Home Minister of Maharashtra for the second time after the 2009 Maharashtra assembly election victory of the Congress-NCP alliance. He was also the former Deputy Chief Minister of Maharashtra."
 }, {
-  "entityIndex" : "54_entity15173",
-  "entityUrl" : "http://dbpedia.org/resource/Ronald_Atkins",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Barry_County_Grammar_School" ]
-  },
-  "words" : [ "June", "13", "British", "-LRB-", "born", "politician", "Atkins", "Labour", "former", ".", "Party", "Ronald", "served", "-RRB-", "1916", "Member", "Henry", "Parliament" ],
-  "adjectives" : [ "British", "former" ],
-  "nouns" : [ "politician" ],
-  "text" : "Ronald Henry Atkins (born 13 June 1916) is a British former politician who served as a Labour Party Member of Parliament."
-}, {
-  "entityIndex" : "55_entity15472",
+  "entityIndex" : "34_entity9402",
   "entityUrl" : "http://dbpedia.org/resource/Ron_C._Bigelow",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -604,7 +373,7 @@
   "nouns" : [ "Governor", "committee", "mayor", "city", "Education", "State", "invitation", "member", "Revenue", "state", "budget", "Chairman" ],
   "text" : "Ron C. Bigelow (born 1948) is the eighth mayor of Utah's second largest city, West Valley City. He was Director of the Office of Planning and Budget for the State of Utah. He was elected for nine terms as a member of the Utah State House of Representatives District 32, representing West Valley City, before stepping down at the invitation of the Governor. Previously he had served as House Chair of the Executive Appropriations Committee (state budget committee), Vice-Chairman of the Executive Appropriations Committee, Vice-Chairman of the Education Committee, Chairman of the Executive Offices, Criminal Justice sub-appropriations committee and Chairman of the Retirement and Independent Entities Committee, Government Operations Committee, Higher Education sub-appropriations, and the National Conference State Legislatures Revenue and Budgets Committee. He was recognized with the Friend of the Taxpayer award by the Utah Taxpayers Association , Guardian of Small Business by the National Federation of Independent Businesses and Champion of Children by NetSmartz. He was widely recognized for his work on public education, finances and protecting children from abuse and exploitation. Utah has long been recognized as either the best or one of the best financially managed states in the United States of America by numerous national publications  . This trend continued while he served as the Co-Chair of the committee that sets the state budget."
 }, {
-  "entityIndex" : "56_entity3638",
+  "entityIndex" : "35_entity2186",
   "entityUrl" : "http://dbpedia.org/resource/Duncan_Gay",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -615,7 +384,7 @@
   "nouns" : [ "role", "government", "Government", "politician", "implementation", "member", "state", "nanny", "Freight", "ministry" ],
   "text" : "Duncan John Gay (born 2 May 1950), an Australian politician, has been the Vice-President of the Executive Council of New South Wales and the Leader of the Government in the Legislative Council since May 2014; and the Minister for Roads, Maritime and Freight since April 2015. Gay is the Leader of the Nationals in the Legislative Council and has been a member of the Council since 1988, represent The Nationals. He served as the Minister for Roads and Freight, has played a key role in the implementation of the NSW nanny state and as the Minister for the North Coast between 2014 and 2015 in the first Baird government; and the Minister for Roads and Ports in the O'Farrell ministry between 2011 and 2014."
 }, {
-  "entityIndex" : "57_entity4222",
+  "entityIndex" : "36_entity2600",
   "entityUrl" : "http://dbpedia.org/resource/Drew_Barnes",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -626,7 +395,7 @@
   "nouns" : [ "politician", "district", "member", "Assembly" ],
   "text" : "Drew Barnes (born May 21, 1961) is a Canadian politician who is an elected member to the Legislative Assembly of Alberta representing the electoral district of Cypress-Medicine Hat. He was born in Moosomin, Saskatchewan. Currently (2015) he is the Finance, Education & Advanced Education, and Human Services Critic. He also acts as Caucus Whip. In the past he has been the Infrastructure and Transportation Critic for the Wildrose Official Opposition. He has served on the Standing Committees of the Alberta Heritage Trust Fund, Public Accounts, Resource Stewardship and Private Bills. He authored two reports, (\"How to Build Alberta Better\" and \"On Time, On Budget\", and co-authored \"Twin Highway 63 Now\" and \"Debt Free Capital Plan\"."
 }, {
-  "entityIndex" : "58_entity4224",
+  "entityIndex" : "37_entity2602",
   "entityUrl" : "http://dbpedia.org/resource/Desmond_Choo",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -637,18 +406,7 @@
   "nouns" : [ "Wage", "leader", "candidate", "pinyin", "election", "constituency", "%", "politician", "Director" ],
   "text" : "Desmond Choo Pey Ching (simplified Chinese: 朱倍庆; traditional Chinese: 朱倍慶; pinyin: Zhū Béi Qìng) is a Singaporean politician and Director (Progressive Wage Model) of the Industrial Relations Department, and concurrently Director of the Youth Development Unit at the National Trades Union Congress (NTUC). He is also the Executive Secretary of the Attractions, Resorts and Entertainment Union (AREU) and Union of Telecoms Employees of Singapore (UTES). Choo stood as a candidate for Singapore's governing People's Action Party (PAP) at the 2011 general election in the single-member constituency of Hougang, where he was defeated by Yaw Shin Leong of the Workers' Party by 14,850 votes (64.8%) to 8,065 (35.2%). (The constituency had previously been represented in Parliament by the Workers' Party's leader, Low Thia Khiang, from 1991 to 2011.) After Yaw was expelled from the Workers' Party and lost his seat in Parliament in 2012, the PAP announced that Choo would be the party's candidate in the 2012 Hougang by-election. He was defeated in the by-election by Png Eng Huat of the Workers' Party by 13,460 votes (62.1%) to 8,223 (37.9%)."
 }, {
-  "entityIndex" : "59_entity4338",
-  "entityUrl" : "http://dbpedia.org/resource/Dmytro_Bulatov",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Kiev_Polytechnic_Institute" ]
-  },
-  "words" : [ "działacz", "Сергійович", "Dmytro", "-LRB-", "27", "lutego", "od", "lider", "Дмитро", "Kijowie", "sportu", "założyciel", "ukraiński", "ukr", "ur", "obywatelski", "1978", "13", "Bułatow", "minister", "Arsenija", "Serhijowycz", "Jaceniuka", "Булатов", ",", "-", "rządzie", ".", "sierpnia", "Automajdanu", "2014", "w", "młodzieży", "-RRB-" ],
-  "adjectives" : [ ],
-  "nouns" : [ "działacz", "minister", "sierpnia", "lutego", "Automajdanu", "od", "w", "lider", "młodzieży", "Kijowie", "ukraiński", "ukr", "ur", "obywatelski" ],
-  "text" : "Dmytro Serhijowycz Bułatow (ukr. Дмитро Сергійович Булатов, ur. 13 sierpnia 1978 w Kijowie) - ukraiński działacz obywatelski, lider i założyciel Automajdanu, od 27 lutego 2014 minister młodzieży i sportu w rządzie Arsenija Jaceniuka."
-}, {
-  "entityIndex" : "60_entity6831",
+  "entityIndex" : "38_entity4196",
   "entityUrl" : "http://dbpedia.org/resource/Heather_Deal",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -659,73 +417,7 @@
   "nouns" : [ "city", "biologist", "politician", "member", "term", "councillor", "commissioner" ],
   "text" : "Heather Deal is an English-born Canadian biologist and politician. She is currently a Vancouver city councillor, first elected as a member of Vision Vancouver in 2005. She previously served as a Vancouver Parks Board commissioner for the 2002 to 2005 term as a member of Coalition of Progressive Electors. Deal was born in England and raised in Michigan. In 1984, she moved to Vancouver and became a Canadian citizen in 1991."
 }, {
-  "entityIndex" : "61_entity7153",
-  "entityUrl" : "http://dbpedia.org/resource/Henry_Marchant",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "considerable, based on his committee positions and selection as Attorney General" ]
-  },
-  "words" : [ "--", "هو", "من", "-LRB-", "م", "بالإنجليزية", "Marchant", "و", "هنري", "،", "الأمريكية", ".", "1741", "1796", "ميرشنت", "محام", "المتحدة", "-RRB-", "الولايات", ":", "وقاض", "Henry" ],
-  "adjectives" : [ ],
-  "nouns" : [ "م", "ميرشنت", "هنري", "،" ],
-  "text" : "هنري ميرشنت (بالإنجليزية: Henry Marchant) (و. 1741 – 1796 م) هو محام، وقاض من الولايات المتحدة الأمريكية ."
-}, {
-  "entityIndex" : "62_entity7684",
-  "entityUrl" : "http://dbpedia.org/resource/Ian_Armstrong_(politician)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Newington_College" ]
-  },
-  "words" : [ "New", "-LRB-", "17", "Deputy", "born", "Wales", "South", ",", "former", ".", "Armstrong", "Premier", "OBE", "Morton", "Ian", "-RRB-", "July", "1937" ],
-  "adjectives" : [ "former" ],
-  "nouns" : [ ],
-  "text" : "Ian Morton Armstrong, AM OBE (born 17 July 1937) is a former Deputy Premier of New South Wales."
-}, {
-  "entityIndex" : "63_entity7868",
-  "entityUrl" : "http://dbpedia.org/resource/Ihor_Zhdanov",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/University_of_West_London", "Kiev University  - History", "Kiev University  - Justice" ]
-  },
-  "words" : [ "Ihor", "Жданов", "Winnicy", "Олександрович", "-LRB-", "grudnia", "29", "Ігор", "polityk", "od", "sportu", "ukraiński", "ukr", "ur", "--", "minister", ",", ".", "Żdanow", "Ołeksandrowycz", "2014", "w", "młodzieży", "-RRB-", "analityk", "1967" ],
-  "adjectives" : [ "ukraiński" ],
-  "nouns" : [ "Winnicy", "minister", "od", "grudnia", "w", "młodzieży", "ukr", "ur", "polityk" ],
-  "text" : "Ihor Ołeksandrowycz Żdanow, ukr. Ігор Олександрович Жданов (ur. 29 grudnia 1967 w Winnicy) – ukraiński polityk i analityk, od 2014 minister młodzieży i sportu."
-}, {
-  "entityIndex" : "64_entity7870",
-  "entityUrl" : "http://dbpedia.org/resource/Ihor_Shevchenko",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "European University Institute - Justice", "Kiev University - International Relations" ]
-  },
-  "words" : [ "Ihor", "-LRB-", "prawnik", "Ігор", "środowiska", "1971", "od", "stycznia", "ukraiński", "Anatolijowycz", "ukr", "Анатолійович", "ur", "10", "--", "Шевченко", "Szewczenko", "minister", "Aleksandrii", ",", ".", "przedsiębiorca", "2015", "2014", "w", "-RRB-" ],
-  "adjectives" : [ "ukraiński" ],
-  "nouns" : [ "minister", "od", "stycznia", "w", "Aleksandrii", "prawnik", "środowiska", "ukr", "ur" ],
-  "text" : "Ihor Anatolijowycz Szewczenko, ukr. Ігор Анатолійович Шевченко (ur. 10 stycznia 1971 w Aleksandrii) – ukraiński prawnik i przedsiębiorca, od 2014 do 2015 minister środowiska."
-}, {
-  "entityIndex" : "65_entity14104",
-  "entityUrl" : "http://dbpedia.org/resource/Oleksiy_Pavlenko",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Master_of_Business_Administration", "http://dbpedia.org/resource/Nyenrode_Business_University", "Kyiv-Mohyla Academy  - Economics" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "ukrainischer", "Mychailowytsch", "Oleksij", "ist", "ein", "Uman", "bis", "der", "Agrarpolitik", "von", "für", "Januar", "Minister", "1977", "Ukrainische", "Lebensmittel", "Ukraine", "war", "*", "und", ",", ".", "April", "1", "SSR", "2016", "2014", "-RRB-", "Pawlenko" ],
-  "adjectives" : [ "Oleksij", "Januar" ],
-  "nouns" : [ "Politiker", "ukrainischer", "von", "Mychailowytsch", "war", "und", "ist", "ein", "für", "Pawlenko" ],
-  "text" : "Oleksij Mychailowytsch Pawlenko (* 1. Januar 1977 in Uman, Ukrainische SSR) ist ein ukrainischer Politiker. Pawlenko war von 2014 bis April 2016 Minister für Agrarpolitik und Lebensmittel der Ukraine."
-}, {
-  "entityIndex" : "66_entity16359",
-  "entityUrl" : "http://dbpedia.org/resource/Safa_Giray",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Civil_engineering" ]
-  },
-  "words" : [ "June", "ANAP", "-LRB-", "2011", "parliament", "Safa", "Turkish", "1931", "Party", "National", "civil", "member", "Works", "Minister", "--", "Foreign", "Affairs", "politician", "Motherland", "Public", ",", "Housing", "engineer", "Anavatan", ".", "Defense", "Giray", "İsmail", "served", "-RRB-", "Partisi", ":", "20" ],
-  "adjectives" : [ "civil", "Turkish" ],
-  "nouns" : [ "politician", "member", "parliament", "engineer" ],
-  "text" : "İsmail Safa Giray (1931 – 20 June 2011) was a Turkish civil engineer and politician from the Motherland Party (Turkish: Anavatan Partisi, ANAP). He was a member of the Turkish parliament and served as Minister of Public Works and Housing, Minister of National Defense, and Minister of Foreign Affairs."
-}, {
-  "entityIndex" : "67_entity16589",
+  "entityIndex" : "39_entity10148",
   "entityUrl" : "http://dbpedia.org/resource/Sheila_McHale",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -736,18 +428,7 @@
   "nouns" : [ "MP", "Government", "retirement", "Culture" ],
   "text" : "Sheila Margaret McHale (1 September 1953) born is a former Australian Labor Party MP in the Government of Western Australia. Prior to retirement, she served as Member for Kenwick and Minister for Disability Services, Tourism, Culture and the Arts, and Consumer Protection. Born in Yorkshire, England she emigrated to Western Australia in 1978. She was first elected to State Parliament in 1996 and served as the Shadow Minister for Health, the Arts and Heritage. During this period, she spent three years as an elected councillor. In 2001, she was re-elected to state parliament as Gallop took power and undertook the position of Cabinet Minister, as Minister for Community Development, Women's Interests, Seniors and Youth; Disability Services; and Culture and the Arts. In March 2008, McHale announced that she would retire and not contest the upcoming State election. In the 2008 election the seat of Kenwick was abolished and replaced with the seat of Gosnells. Chris Tallentire was preselected and won the new seat for the ALP despite a swing of 5.9% against them."
 }, {
-  "entityIndex" : "68_entity16869",
-  "entityUrl" : "http://dbpedia.org/resource/Savitri_Jindal",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "Diploma" ]
-  },
-  "words" : [ "Jindal", "-LRB-", "Assam", "*", "und", "ist", ",", ".", "Savitri", "Politikerin", "1950", "eine", "-RRB-", "März", "Tinsukia", "indische", "20", "Unternehmerin" ],
-  "adjectives" : [ ],
-  "nouns" : [ "eine", "ist", "indische" ],
-  "text" : "Savitri Jindal (* 20. März 1950 in Tinsukia, Assam) ist eine indische Unternehmerin und Politikerin."
-}, {
-  "entityIndex" : "69_entity17259",
+  "entityIndex" : "40_entity10626",
   "entityUrl" : "http://dbpedia.org/resource/Satish_Nigam",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -758,7 +439,7 @@
   "nouns" : [ "seat", "news", "judgement", "candidate", "committee", "politician", "assembly", "channel", "chairman", "sting", "operation", "Assembly" ],
   "text" : "Satish Kumar Nigam is a politician representing Kanpur's Kalyanpur Assembly seat since 2012. He won the Kalyanpur's assembly seat after defeating the Bharatiya Janata Party candidate Premlata Katiyar. He is a politician representing Samajwadi Party headed by Akhilesh . He was elected as the chairman of the seven members committee formed by Uttar Pradesh Legislative Assembly Speaker Mata Prasad Pandey to give judgement on a sting operation of a news channel related to 2013 Muzaffarnagar riots ."
 }, {
-  "entityIndex" : "70_entity17361",
+  "entityIndex" : "41_entity10708",
   "entityUrl" : "http://dbpedia.org/resource/Samuel_R._Rodgers",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -769,18 +450,7 @@
   "nouns" : [ "convention", "passage", "ratification", "politician", "War", "war", "government", "attorney", "senate", "judge", "state", "forerunner", "legislation" ],
   "text" : "Samuel Ramsey Rodgers (1798 – July 14, 1866) was an American attorney, judge and politician, who served as Speaker of the Tennessee Senate during the months following the Civil War. He oversaw the passage of several important pieces of legislation in the senate, including the state's ratification of the Thirteenth Amendment to the U.S. Constitution. Rodgers remained loyal to the Union during the war, and chaired the convention that reorganized the state government in January 1865. Prior to the war, Rodgers served as U.S. Attorney for Tennessee's Eastern District (1850–1853), and taught at East Tennessee College (the forerunner of the University of Tennessee)."
 }, {
-  "entityIndex" : "71_entity12054",
-  "entityUrl" : "http://dbpedia.org/resource/Matthew_H._Carpenter",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "Studied law with Paul Dillingham and Rufus Choate" ]
-  },
-  "words" : [ "United", "19th", "Court", "States", "December", "Supreme", "presented", "legal", "state", "--", "law", "Merritt", "made", "'", ",", ".", "corporations", "important", "Senate", "Hammond", "attorney", "served", "authority", "Matthew", "-RRB-", ";", "S.", "1869", "1824", "Carpenter", "involving", "22", "24", "-LRB-", "American", "Recognized", "constitutional", "states", "Decatur", "1875", "America", "rights", "February", "Wisconsin", "1879", "cases", "born", "Hale", "century", "matters", "regulation", "1881", "U.", "arguments" ],
-  "adjectives" : [ "important", "American", "constitutional", "legal", "19th" ],
-  "nouns" : [ "century", "law", "regulation", "attorney", "authority", "state" ],
-  "text" : "Matthew Hale Carpenter (born Decatur Merritt Hammond Carpenter; December 22, 1824 – February 24, 1881) was an American attorney from the state of Wisconsin. He served in the United States Senate from 1869–1875 and again from 1879–1881. Recognized as an authority on constitutional law, he made some of the most important legal arguments of 19th century America. Carpenter presented cases before the U. S. Supreme Court involving such matters as states' rights and regulation of corporations. Originally a Democrat, he evolved into a Republican during the Civil War, and helped perpetuate the Wisconsin party's political machinery. His sustained support for President Ulysses S. Grant's administration despite allegations of corruption lost him the backing of reformers, and his legal arguments in favor of Democratic candidate Samuel J. Tilden in the disputed presidential election of 1876 outraged many Republicans. A gifted orator, he was dubbed \"the Webster of the West.\""
-}, {
-  "entityIndex" : "72_entity12372",
+  "entityIndex" : "42_entity7554",
   "entityUrl" : "http://dbpedia.org/resource/Mike_Feuer",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -791,7 +461,7 @@
   "nouns" : [ "ticket", "politician", "member", "lawyer" ],
   "text" : "Michael Nelson \"Mike\" Feuer (born May 14, 1958) is an American politician and lawyer who has been serving as Los Angeles City Attorney since July, 2013, after defeating incumbent City Attorney Carmen Trutanich on May 21, 2013. Feuer was previously elected to three two-year terms in the California State Assembly, representing the 42nd Assembly District. He was elected in 2006 on the Democratic ticket, and reelected in 2008 and 2010. Feuer served as a member of the Los Angeles City Council from 1995 to 2001, representing the 5th Council District. In 2001, he was a candidate for Los Angeles City Attorney. He placed first of four candidates in the primary for the non-partisan office, but lost the run-off to Rocky Delgadillo. Prior to seeking office, Feuer served as executive director of Bet Tzedek Legal Services - The House of Justice and was a lawyer in private practice."
 }, {
-  "entityIndex" : "73_entity12382",
+  "entityIndex" : "43_entity7559",
   "entityUrl" : "http://dbpedia.org/resource/Murray_Robson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -802,18 +472,7 @@
   "nouns" : [ "law", "distinction", "lieutenant", "war", "by-election", "parliament", "life", "seat", "Lieutenant", "soldier", "service", "member", "lawyer", "colonel", "promotion" ],
   "text" : "Lieutenant Colonel Ewan Murray Robson CBE, DSO (7 March 1906 – 26 August 1974) was an Australian lawyer, soldier and a member of the New south Wales Parliament for over twenty years. Known for most of his life as Murray Robson, he was born in Sydney and educated at Newington College and the University of Sydney, where he gained degrees in arts and law. After working several years as a Solicitor, Robson stood for, and was elected to, parliament on 29 August 1936 at a by-election for the seat of Vaucluse. He served many years on the backbenches, he enlisted in the Second World War and served with distinction during the war, gaining promotion to lieutenant colonel and receiving the Distinguished Service Order for his service. Returning to politics, he had missed the foundation of the Liberal Party of Australia in 1945. When long-time Leader Vernon Treatt resigned the leadership in 1954 and contests between Deputy Leader Robert Askin and Pat Morton became deadlocked he was asked to stand and was consequently elected as party leader and Leader of the Opposition. He served little more than a year before he was deposed by Pat Morton. In 1957 he retired from politics and returned to his legal career before retiring. He died of a heart attack in August 1974."
 }, {
-  "entityIndex" : "74_entity12469",
-  "entityUrl" : "http://dbpedia.org/resource/Mike_Baird",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/University_of_Sydney", "http://dbpedia.org/resource/Regent_College", "http://dbpedia.org/resource/The_King's_School,_Parramatta" ]
-  },
-  "words" : [ "de", "23", "politique", "est", "australien", "Melbourne", "avril", "du", "Baird", "depuis", "un", "1er", "à", "Sud", "ministre", ",", "Nouvelle-Galles", ".", "Premier", "Mike", "homme", "la", "2014", "le", "né", "1968" ],
-  "adjectives" : [ "1er" ],
-  "nouns" : [ "à", "homme", "politique", "est", "un", "né", "australien", "avril" ],
-  "text" : "Mike Baird, né à Melbourne le 1er avril 1968, est un homme politique australien, Premier ministre de la Nouvelle-Galles du Sud depuis le 23 avril 2014."
-}, {
-  "entityIndex" : "75_entity12480",
+  "entityIndex" : "44_entity7609",
   "entityUrl" : "http://dbpedia.org/resource/Mahnaz_Afkhami",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -824,18 +483,7 @@
   "nouns" : [ "participation", "society-building", "exile", "technology", "advocate", "Founder", "Muslim-majority", "President", "democratization", "government", "leadership", "movement", "status" ],
   "text" : "Mahnaz Afkhami (Persian: مهناز افخمی‎‎) is Founder and President of Women's Learning Partnership (WLP), the Executive Director of the Foundation for Iranian Studies and the former Minister of Women's Affairs in Iran's pre-Revolution government. She has lived in exile in the United States since 1979. Having founded and headed several international non-governmental organizations focused on advancing the status of women, Afkhami has been an advocate of women's rights for more than three decades. She has lectured and published extensively on the international women’s movement, women's human rights, women in leadership, women and technology, the status of women in Muslim-majority societies and on women's participation in civil society-building and democratization. Her books have been translated into multiple languages and distributed internationally."
 }, {
-  "entityIndex" : "76_entity12520",
-  "entityUrl" : "http://dbpedia.org/resource/Michael_Miltenberger",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Arctic_College" ]
-  },
-  "words" : [ "de", "-LRB-", "politique", "est", "du", "1951", "député", "des", "1995", "Michael", "depuis", "un", "ténois", "Thebacha", "Ottawa", "circonscription", "Nord-Ouest", "à", "il", "J.", "17", "mars", "en", ",", ".", "Miltenberger", "et", "Canada", "législative", "homme", "l'Assemblée", "canadien", "la", "anglais", "charpentier", "-RRB-", "le", "né", "Territoires", "Ontario" ],
-  "adjectives" : [ "législative" ],
-  "nouns" : [ "homme", "il", "l'Assemblée", "politique", "canadien", "anglais", "charpentier", "est", "un", "ténois" ],
-  "text" : "J. Michael Miltenberger (né le 17 mars 1951 à Ottawa en Ontario (Canada)) est un charpentier et un homme politique ténois (canadien anglais), il est le député de la circonscription de Thebacha à l'Assemblée législative des Territoires du Nord-Ouest depuis 1995."
-}, {
-  "entityIndex" : "77_entity12790",
+  "entityIndex" : "45_entity7764",
   "entityUrl" : "http://dbpedia.org/resource/Mukul_Wasnik",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -846,7 +494,7 @@
   "nouns" : [ "वासनिक", "constituency", "member", "party" ],
   "text" : "Mukul Balkrishna Wasnik (Marathi: मुकुल बाळकृष्ण वासनिक) is the Former Minister for Social Justice and Empowerment, Government of India. He represented the Ramtek constituency of Maharashtra in 2009.He is a member of the Indian National Congress (INC) political party. He is also a General Secretary of the All India Congress Committee. Earlier he has represented Buldhana (Lok Sabha constituency) of Maharashtra during 12th Lok Sabha during 1998-1999, 10th Lok Sabha during 1991-1996 and 8th Lok Sabha during 1984-1989. Mukul Wasnik was National President of National Students Union of India during 1984-1986. Mukul Wasnik was President of Indian Youth Congress during 1988-1990. He is son of veteran Congress Leader and three time MP Balkrishna Wasnik"
 }, {
-  "entityIndex" : "78_entity12844",
+  "entityIndex" : "46_entity7796",
   "entityUrl" : "http://dbpedia.org/resource/M._I._Shanavas",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -857,7 +505,7 @@
   "nouns" : [ "Politician", "Sabha", "election", "constituency", "member", "Lok" ],
   "text" : "M. I. Shanavas (s/o Advocate Ibrabim Sahib, born 1952) is an Indian Politician and is a Member of Parliament of the 16th Lok Sabha of India. He represents the Wayanad constituency and is a member of the Indian National Congress. He has been a member of the Kerala Pradesh Congress Committee since 1983. He won the 2009 Lok Sabha election from Wayanad. He entered politics through the Kerala Students Union, worked in the Youth Congress and Seva Dal. He was one of three leaders who rebelled against senior Congress leader K. Karunakaran and formed a third group. He has also been re-elected in the 2014 Lok Sabha elections. APM Mohd Haneesh IAS is his son in law."
 }, {
-  "entityIndex" : "79_entity12940",
+  "entityIndex" : "47_entity7859",
   "entityUrl" : "http://dbpedia.org/resource/Morgan_Philpot",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -868,7 +516,7 @@
   "nouns" : [ "Governor", "candidate", "district", "nominee", "state", "representative", "heart", "vice-chair" ],
   "text" : "J. Morgan Philpot (born July 30, 1971) is a former state representative for District 45 in the heart of Salt Lake County and was the 2010 Republican nominee for Utah's 2nd congressional district. He is a former vice-chair of the Utah Republican Party. Philpot was also a candidate for Governor of the U.S. state of Utah."
 }, {
-  "entityIndex" : "80_entity13001",
+  "entityIndex" : "48_entity7896",
   "entityUrl" : "http://dbpedia.org/resource/M._M._Hassan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -879,7 +527,7 @@
   "nouns" : [ "leader", "Government" ],
   "text" : "M. M. Hassan is a leader of the Indian National Congress and a former Minister in the Government of Kerala."
 }, {
-  "entityIndex" : "81_entity13386",
+  "entityIndex" : "49_entity8161",
   "entityUrl" : "http://dbpedia.org/resource/Mayank_Gandhi",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -890,7 +538,7 @@
   "nouns" : [ "activist", "core", "qualification", "committee", "education", "member", "experience", "movement", "activism" ],
   "text" : "Mayank Gandhi is a social activist from India. He was previously a member of the core committee in the India Against Corruption movement, and a National Executive member of the Aam Aadmi Party. His education qualification is of Engineering and Management from Mumbai. Mayank Gandhi has a longstanding activism experience. Gandhi presently is presently involved in Fulora Foundation to bring a change in water solutions of Beed district of Maharashtra which are victims of bad rains. India Leadership Conclave founded by Satya Brahma recognized the efforts of Gandhi & the jury of Network 7 Media Group awarded Fulora Foundation as Best Social Enterprise award in July 2016 in Mumbai."
 }, {
-  "entityIndex" : "82_entity13503",
+  "entityIndex" : "50_entity8249",
   "entityUrl" : "http://dbpedia.org/resource/Mustafa_Necati",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -901,7 +549,7 @@
   "nouns" : [ "statesman", "death", "surname", "family", "Republic" ],
   "text" : "Mustafa Necati (1894 - January 1, 1929) was a Turkish statesman in the early years of the Turkish Republic. He is also known as Mustafa Necati Uğural. He died before the Turkish Surname Law was adopted and the surname Uğural is actually the surname his family members adopted after his death."
 }, {
-  "entityIndex" : "83_entity5513",
+  "entityIndex" : "51_entity3377",
   "entityUrl" : "http://dbpedia.org/resource/Frederick_B._Ogden",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -912,7 +560,7 @@
   "nouns" : [ "jurist", "attorney", "politician" ],
   "text" : "Frederick Beasley Ogden (July 20, 1827 - November 1, 1893) was an American attorney, jurist, and politician who served as the eighth Mayor of Hoboken, New Jersey from 1865 to 1867."
 }, {
-  "entityIndex" : "84_entity5616",
+  "entityIndex" : "52_entity3448",
   "entityUrl" : "http://dbpedia.org/resource/Frederick_Tout",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -923,40 +571,7 @@
   "nouns" : [ "pastoralist", "politician", "member", "solicitor", "businessman", "president" ],
   "text" : "Frederick Henry Tout (13 January 1873 – 4 July 1950) was an Australian solicitor, pastoralist, businessman and politician who was a member of the New South Wales Legislative Council for 14 years. He was president of the Bank of New South Wales."
 }, {
-  "entityIndex" : "85_entity5660",
-  "entityUrl" : "http://dbpedia.org/resource/Frauke_Petry",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/University_of_Reading", "University of Göttingen" ]
-  },
-  "words" : [ "Jörg", "ehemalige", "ist", "Juli", "der", "Petry", "1975", "des", "promovierte", "wurde", "Meuthen", "Frauke", "drei", "AfD", "wiedergewählt", "Alternative", "Landtags", "deutsche", "als", "*", ",", ".", "innerparteilichen", "1", "einem", "Bernd", "-RRB-", ";", "Marquardt", "Chemikerin", "-LRB-", "Dresden", "Im", "Juni", "seit", "Sächsischen", "Bundessprecherin", "sie", "Politikerin", "Lucke", "Deutschland", "von", "Machtkampf", "mit", "für", "zusammen", "monatelangen", "Parteisprechern", "Sachsen", "und", "nach", "Vorsitzende", "Mitglied", "eine", "2015", "2014", "2013", "Unternehmerin" ],
-  "adjectives" : [ "Alternative", "promovierte", "seit" ],
-  "nouns" : [ "monatelangen", "wiedergewählt", "Jörg", "deutsche", "ehemalige", "und", "ist", "nach", "Bundessprecherin", "sie", "innerparteilichen", "einem", "Deutschland", "eine", "von", "wurde", "Machtkampf", "mit", "Meuthen", "für", "zusammen", "Unternehmerin", "AfD" ],
-  "text" : "Frauke Petry (* 1. Juni 1975 in Dresden als Frauke Marquardt) ist eine deutsche Politikerin, promovierte Chemikerin und ehemalige Unternehmerin. 2013 wurde sie eine von drei Parteisprechern der Alternative für Deutschland (AfD) und Vorsitzende der AfD Sachsen; seit 2014 ist sie Mitglied des Sächsischen Landtags. Im Juli 2015 wurde sie nach einem monatelangen innerparteilichen Machtkampf mit Bernd Lucke als Bundessprecherin wiedergewählt (zusammen mit Jörg Meuthen). Sie wird hinsichtlich der politischen Ausrichtung dem nationalkonservativen Parteiflügel zugerechnet."
-}, {
-  "entityIndex" : "86_entity5833",
-  "entityUrl" : "http://dbpedia.org/resource/Gijsbert_Karel_van_Hogendorp",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "Law" ]
-  },
-  "words" : [ "dagegen", "trat", "Erbstatthalters", "Prinzen", "den", "oranischer", "Hauses", "der", "des", "Vaterland", "wurde", "Stadtschreiber", "seines", "Vermögens", "seinen", "Kadettenhaus", "im", "siegreich", "zurücktrat", "erzogen", "übernehmen", "Militärdienst", "Seite", ",", "Okkupation", ".", "ihn", "Garde", "vereinigte", "zu", ";", "Befreiung", "indem", "bayrischen", "Erbfolgekrieg", "-LRB-", "später", "Eroberung", "ein", "Guten", "Teil", "welchem", "derselben", "Amsterdam", "Latein", "Franzosen", "fehlgeschlagenen", "mit", "stand", "Hoffnung", "während", "wesentlich", "nach", "Plan", "Leiden", "Hollands", "eine", "Wilhelm", "Unruhen", "Anhänger", "Oranien", "die", "zurückgekehrt", "bei", "studierte", "1778", "zur", "V.", "um", "Fähnrich", "durch", "1813", "Erich", "Kolonie", "angestellt", "aber", "trug", "als", "Verbündeten", "büßte", "er", "machte", "1787", "auf", "1782", "französischen", "unterrichtete", "-RRB-", "Kap", "Posten", "sein", "Rechtswissenschaften", "preußischen", "Er", "Johann", "Rotterdam", "von", "1795", "größten", "vom", "Kaufmannsgeschäft", "für", "Haag", "Biester", "Pensionär", "und", "gründen", "Den", "Unterdrückung", "vordrangen", "Durch", "Griechisch" ],
-  "adjectives" : [ "während", "Franzosen", "unterrichtete", "Verbündeten", "Kap" ],
-  "nouns" : [ "zurückgekehrt", "dagegen", "bei", "den", "studierte", "oranischer", "der", "Vaterland", "wurde", "Stadtschreiber", "zur", "um", "seinen", "Kadettenhaus", "angestellt", "aber", "im", "siegreich", "zurücktrat", "trug", "erzogen", "übernehmen", "büßte", "Okkupation", "er", "ihn", "machte", "auf", "französischen", "zu", "indem", "bayrischen", "sein", "Erbfolgekrieg", "später", "ein", "preußischen", "Er", "Teil", "von", "derselben", "größten", "vom", "Latein", "fehlgeschlagenen", "mit", "für", "wesentlich", "Pensionär", "und", "nach", "Plan", "gründen", "vordrangen", "eine" ],
-  "text" : "Er wurde im preußischen Kadettenhaus erzogen, trat 1778 in den preußischen Militärdienst ein und machte als Fähnrich den bayrischen Erbfolgekrieg mit. Johann Erich Biester unterrichtete ihn in Griechisch und Latein. In sein Vaterland zurückgekehrt, wurde er 1782 in der Garde des Erbstatthalters Wilhelm V. angestellt, studierte aber später in Leiden Rechtswissenschaften, stand 1787 während der Unruhen auf oranischer Seite und wurde nach Unterdrückung derselben Pensionär (Stadtschreiber) von Rotterdam, von welchem Posten er nach der Eroberung Hollands durch die Franzosen 1795 zurücktrat, um in Amsterdam ein Kaufmannsgeschäft zu übernehmen. Durch seinen fehlgeschlagenen Plan, eine Kolonie für die Anhänger des Hauses Oranien am Kap der Guten Hoffnung zu gründen, büßte er den größten Teil seines Vermögens ein; dagegen trug er 1813 wesentlich zur Befreiung Hollands vom französischen Okkupation bei, indem er, als die Verbündeten siegreich vordrangen, die Anhänger des Prinzen von Oranien in Den Haag vereinigte. Als Präsident der Kommission, welche mit der Entwerfung der neuen Verfassungsurkunde beauftragt war, übte er einen entscheidenden Einfluss auf die übrigen Kommissionsmitglieder aus, so dass er der Haupturheber des niederländischen Staatsgrundgesetzes war. Darauf erhielt er das Departement der auswärtigen Angelegenheiten, wurde Vizepräsident des Staatsrats und 1815 Graf, nahm aber schon 1816 wegen Kränklichkeit seine Entlassung. Als Mitglied der Zweiten Kammer der Generalstaaten, in die er 1815 gewählt worden war, gehörte er zur Opposition gegen den Minister van Maanen. Auf seinen Platz in der Ersten Kammer verzichtete er, weil die Verhandlungen derselben nicht öffentlich waren. Er war vom 20. September 1815 bis 22. Mai 1819 Staatsminister der Niederlande, wurde dann aber wegen Kritik an der Finanzpolitik Wilhelm I. der Niederlande dieses Titels enthoben. Er ist einer von nur sechs niederländischen Staatsministern bei denen das der Fall war. Er starb am 5. August 1834 im Haag. Er schrieb: \"Über den Handel nach Indien\" (1801, 2 Bde.), \"Memoiren über den Handel nach Java\" (1804), \"Beiträge zur Staatshaushaltung des Königreichs der Niederlande\" (Delft 1818-29, 10 Bde.; 2. Aufl., hrsg. von Thorbecke, Zaltbommel 1854-56, 5 Bde.), sämtlich in holländischer Sprache; \"Lettres sur la prospérité publique\" (Amsterd. 1830, 2 Bde.); \"La séparation de la Hollande et de la Belgique\" (das.. 1830) u. a."
-}, {
-  "entityIndex" : "87_entity5872",
-  "entityUrl" : "http://dbpedia.org/resource/G._V._Harsha_Kumar",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "M.S.c Marine Geology, Andhra University" ]
-  },
-  "words" : [ "14th", "Congress", "June", "Kumar", "-LRB-", "born", "Andhra", "Lok", "Amalapuram", ".", "15th", "India", "represents", "Sabha", "constituency", "National", "Pradesh", "-RRB-", "member", "9", "Indian", "Harsha", "1959", "G.V." ],
-  "adjectives" : [ "14th", "15th" ],
-  "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
-  "text" : "G.V. Harsha Kumar (born 9 June 1959) is a member of the 14th and 15th Lok Sabha of India. He represents the Amalapuram constituency of Andhra Pradesh and is a member of the Indian National Congress."
-}, {
-  "entityIndex" : "88_entity6115",
+  "entityIndex" : "53_entity3728",
   "entityUrl" : "http://dbpedia.org/resource/Garrett_Michael_Hayes",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -967,18 +582,7 @@
   "nouns" : [ "screenwriter", "candidate", "politician", "governor", "née" ],
   "text" : "Garrett Michael Hayes (born February 10, 1956) is a U.S. politician from Georgia. He was the Libertarian Party of Georgia's candidate for governor in both 2002 and 2006. He was born in California to screenwriter John Michael Hayes and Mildred \"Mel\" (née Hicks) Hayes. Garrett was raised in Maine and moved back to California in 1969, where he later attended Beverly Hills High School and California State College at Bakersfield. He moved to Georgia in 1991 and currently serves as the secretary of the Cobb County Libertarian Party. After serving in a number of roles with the both county and state Libertarian organizations in Georgia, Hayes sought and won the party nomination for governor in 2002 and again in 2006. Hayes received 2.3% of the vote in 2003 and 3.8% of the vote in 2006. In his second run at office, Hayes set several benchmarks for third party politics in the state, beginning with being the first Libertarian to run twice for governor. Hayes’s campaign was the first Libertarian gubernatorial campaign to produce and run television advertisements in Georgia. He also garnered the highest polling numbers to date for a Libertarian gubernatorial candidate in the state, polling as high as 9% in one non-partisan poll, leading to press speculation that Hayes might force an unprecedented runoff electionbetween incumbent Republican Sonny Perdue and Democratic rival Lieutenant Governor Mark Taylor. Though a runoff did not in fact result, Hayes still gathered both the highest number and the highest percentage of votes for a Libertarian gubernatorial candidate in Georgia. Hayes currently co-hosts a weekly Libertarian-themed political radio talk show on radio station WHIE in Griffin, Georgia, a suburb of Atlanta."
 }, {
-  "entityIndex" : "89_entity6266",
-  "entityUrl" : "http://dbpedia.org/resource/George_W._Clinton",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/The_Albany_Academy" ]
-  },
-  "words" : [ "New", "de", "botanique", "politique", "1739-1812", "est", "vice-président", "son", "George", "Beck", "un", "père", "gouverneur", "Albany", "botaniste", "sénateur", "étudie", "fils", "en", "William", ",", "Clinton", ".", "et", "homme", "au", "Romeyn", "7", "-RRB-", "Medical", "1828", "né", "février", "21", "-LRB-", "Il", "York", "En", "Brooklyn", "manifeste", "petit-neveu", "avril", "1769-1828", "DeWitt", "School", "intérêt", "septembre", "mort", "puis", "1791-1855", "à", "ville", "maire", "pour", "Theodric", "auprès", "américain", "meurt", "1885", "brutalement", "médecine", "la", "le", "1807", "Fairfield", "fort", "1804" ],
-  "adjectives" : [ "un" ],
-  "nouns" : [ "à", "botanique", "Il", "politique", "étudie", "est", "avril", "américain", "meurt", "homme", "intérêt", "son", "brutalement", "Beck", "au", "septembre", "un", "né", "fort", "père", "gouverneur", "février" ],
-  "text" : "George William Clinton est un homme politique et un botaniste américain, né le 21 avril 1807 à Brooklyn et mort le 7 septembre 1885 à Albany (New York). Il est le petit-neveu de George Clinton (1739-1812), gouverneur de New York et vice-président en 1804, et le fils de DeWitt Clinton (1769-1828), sénateur de New York et maire de la ville. Il étudie à Albany puis la médecine auprès de Theodric Romeyn Beck (1791-1855) au Fairfield Medical School et manifeste un fort intérêt pour la botanique. En février 1828, son père meurt brutalement. Il s’oriente alors vers des études de droit auprès de John Canfield Spencer (1788-1855) et est admis au barreau en 1831. L’année suivante, il se marie avec la fille de John Spencer, Laura Catherine, union dont naîtra neuf enfants. Il s’installe à Buffalo en 1836. Clinton y fonde un cabinet d’avocat et participe à l’organisation d’une délégation locale du parti démocrate. Il participe à la campagne de Martin Van Buren (1782-1862) en 1838. En 1842, il est élu maire de Buffalo. En 1852, il devient président du conseil de l’université de Buffalo. En 1861, il fonde la Buffalo Society of Natural Sciences avec Coleman Townsend Robinson (1838-1872). Clinton la dirige durant vingt ans. Sa collection de plante est conservé par la Société qu’il a créée, sous le nom d’herbier Clinton. Il part pour Albany en 1882 afin de s’occuper de l’édition des documents laissé par son grand-oncle George Clinton."
-}, {
-  "entityIndex" : "90_entity6296",
+  "entityIndex" : "54_entity3827",
   "entityUrl" : "http://dbpedia.org/resource/Gopalrao_Patil",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -989,18 +593,7 @@
   "nouns" : [ "politician", "member", "pediatrician", "president" ],
   "text" : "Gopalrao Patil is an Indian politician and pediatrician. He belongs to the Bharatiya Janata Party and is a former member of the Rajya Sabha. He is the president of Shivchhatrapati Shikshan Sanstha, which runs the Rajarshi Shahu College, Latur, Maharashtra."
 }, {
-  "entityIndex" : "91_entity14184",
-  "entityUrl" : "http://dbpedia.org/resource/Pierre_Dupuy_(diplomat)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/University_of_Paris", "http://dbpedia.org/resource/Université_de_Montréal", "*" ]
-  },
-  "words" : [ "CC", "--", "67", "Pierre", "-LRB-", "May", "Canadian", "achievement", "Commissioner", ",", ".", "noted", "1896", "Expo", "Dupuy", "-RRB-", "9", "General", "diplomat", "July", "writer", "1969", "21" ],
-  "adjectives" : [ "Canadian" ],
-  "nouns" : [ "CC", "achievement", "diplomat", "writer" ],
-  "text" : "Pierre Dupuy, CC (July 9, 1896 – May 21, 1969) was a Canadian diplomat and writer. His most noted achievement was as the Commissioner General of Expo 67."
-}, {
-  "entityIndex" : "92_entity14797",
+  "entityIndex" : "55_entity8993",
   "entityUrl" : "http://dbpedia.org/resource/Percy_Nolan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1011,29 +604,7 @@
   "nouns" : [ "mayor", "solicitor" ],
   "text" : "Percy Leonard Nolan (1886 – 1954) was an Australian solicitor and mayor of Manly Council."
 }, {
-  "entityIndex" : "93_entity4",
-  "entityUrl" : "http://dbpedia.org/resource/Alfred_Deakin",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/University_of_Melbourne", "http://dbpedia.org/resource/Melbourne_Church_of_England_Grammar_School" ]
-  },
-  "words" : [ "devote", "leader", "-LRB-", "Prime", "colony", "pro-worker", "1919", "part", "establishing", "19th", "second", "October", "later", "contributor", "irrigation", "major", "chose", "Minister", "1856", "energy", "--", "federation", "likely", "including", "last", "Victoria", "could", "establishment", "also", ",", "reforms", "played", ".", "August", "Premier", "century", "industrial", "3", "Deakin", "Australian", "7", "-RRB-", "Alfred", "Australia", "movement", "quarter", "liberal" ],
-  "adjectives" : [ "likely", "industrial", "last", "major", "Australian", "pro-worker", "19th", "second", "liberal" ],
-  "nouns" : [ "federation", "leader", "century", "contributor", "irrigation", "colony", "part", "establishment", "movement", "quarter", "energy" ],
-  "text" : "Alfred Deakin (3 August 1856 – 7 October 1919) was a leader of the movement for Australian federation and later the second Prime Minister of Australia. In the last quarter of the 19th century, Deakin was a major contributor to the establishment of liberal reforms in the colony of Victoria, including pro-worker industrial reforms. He also played a major part in establishing irrigation in Australia. It is likely that he could have been Premier of Victoria, but he chose to devote his energy to federation. Throughout the 1890s Deakin was a participant in conferences of representatives of the Australian colonies that were established to draft a constitution for the proposed federation. He played an important role in ensuring that the draft was liberal and democratic and in achieving compromises to enable its eventual success. Between conferences, he worked to popularise the concept of federation and campaigned for its acceptance in colonial referenda. He then fought hard to ensure acceptance of the proposed constitution by the Government of the United Kingdom. As Prime Minister, Deakin completed a significant legislative program that makes him, with Labor's Andrew Fisher, the founder of an effective Commonwealth government. He expanded the High Court, provided major funding for the purchase of ships, leading to the establishment of the Royal Australian Navy as a significant force under the Fisher government, and established Australian control of Papua. Confronted by the rising Australian Labor Party in 1909, he merged his Protectionist Party with Joseph Cook's Anti-Socialist Party to create the Commonwealth Liberal Party (known commonly as the Fusion), the main ancestor of the modern Liberal Party of Australia. The Deakin-led Liberal Party government lost to Fisher Labor at the 1910 election, which saw the first time a federal political party had been elected with a majority in either house in Federal Parliament. Deakin resigned from Parliament prior to the 1913 election, with Joseph Cook winning the Liberal Party leadership ballot."
-}, {
-  "entityIndex" : "94_entity19",
-  "entityUrl" : "http://dbpedia.org/resource/Andrew_Peacock",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:education" : [ "http://dbpedia.org/resource/Scotch_College,_Melbourne" ]
-  },
-  "words" : [ "leader", "-LRB-", "Leader", "leading", "McMahon", "Opposition", "Sharp", "governments", "Gorton", "defeat", "Peacock", "opposition", "Party", "federal", "1939", "February", "--", "AC", "13", "election", "minister", "Andrew", "Liberal", "born", "politician", "1990", ",", "Fraser", "former", ".", "GCL", "1985", "1984", "1983", "Australian", "Coalition", "-RRB-", "Australia", "1989" ],
-  "adjectives" : [ "Australian", "Liberal", "federal", "former" ],
-  "nouns" : [ "GCL", "leader", "opposition", "AC", "election", "minister", "politician", "Opposition" ],
-  "text" : "Andrew Sharp Peacock AC GCL (born 13 February 1939) is a former Australian Liberal politician. He was a minister in the Gorton, McMahon and Fraser governments and federal leader of the Liberal Party of Australia and Leader of the Opposition (1983–1985 and 1989–1990), leading the Coalition opposition to defeat at the 1984 election and the 1990 election."
-}, {
-  "entityIndex" : "95_entity720",
+  "entityIndex" : "56_entity333",
   "entityUrl" : "http://dbpedia.org/resource/Allen_Buckley",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1044,7 +615,7 @@
   "nouns" : [ "candidate", "CPA", "%", "attorney", "bachelor", "member", "degree", "JD", "LLM", "vote", "taxation", "party" ],
   "text" : "Allen Buckley is an attorney and CPA, who in 2008 ran for one of Georgia's United States Senate seats as a member of the Libertarian Party. He was the party's candidate for Lieutenant Governor of Georgia in 2006, where he drew 3.6% of the vote, and for Senator in 2004, where he took 2% of the vote. Buckley attended Kent State University, earning his bachelor's degree and then graduating in 1985 from the University of Georgia with his JD. In 1989, he earned his LLM in taxation from the University of Florida. Buckley is now an attorney and a CPA in Smyrna, Georgia, with a specialty in tax law and employee benefits."
 }, {
-  "entityIndex" : "96_entity1156",
+  "entityIndex" : "57_entity576",
   "entityUrl" : "http://dbpedia.org/resource/Akbaruddin_Owaisi",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1055,7 +626,7 @@
   "nouns" : [ "leader", "MLA", "son", "politician", "member", "hate", "floor", "family", "brother", "Assembly", "Owaisi" ],
   "text" : "Akbaruddin Owaisi (born 14 June 1970) is a politician based in Hyderabad, Telangana and an MLA of the Telangana Legislative Assembly. He belongs to All India Majlis-e Ittihad al-Muslimin and is its floor leader in the Telangana Legislative Assembly. Akbaruddin is a member of the Owaisi family, the son of Sultan Salahuddin Owaisi and the younger brother of Asaduddin Owaisi. He is known for his hate speeches against Hindus."
 }, {
-  "entityIndex" : "97_entity1205",
+  "entityIndex" : "58_entity614",
   "entityUrl" : "http://dbpedia.org/resource/Arthur_Clarey",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1066,7 +637,7 @@
   "nouns" : [ "clerk", "agent", "half-brother", "politician", "estate", "BHP", "Bachelor" ],
   "text" : "Reynold Arthur Clarey (15 March 1897 – 9 May 1972) was an Australian politician. Born in South Yarra to estate agent Francis William Clarey and Catherine Lawson (his half-brother Percy would also go on to be a prominent politician and unionist), Arthur attended Flemington State School, Melbourne High School and Melbourne University, graduating with a Bachelor of Commerce. He was employed as a clerk with the Victorian Public Service from 1913 to 1920 and with BHP from 1920 to 1947. On 23 September 1940 he married Irene Mary Leech, who died in 1957; he remarried on 1 July 1958 Doris Jane McGinnis, née Blythe. Clarey joined the Australian Labor Party in 1932, and was later president of the Clerks' Union. In 1955 he was elected to the Victorian Legislative Assembly for Melbourne. He was the auditor of the state branch from 1955 to 1970 and the parliamentary treasury spokesman from 1967 to 1970. He died in 1972 at Fitzroy."
 }, {
-  "entityIndex" : "98_entity1505",
+  "entityIndex" : "59_entity833",
   "entityUrl" : "http://dbpedia.org/resource/Anjali_Damania",
   "dboClass" : "dbo:Politician",
   "properties" : {

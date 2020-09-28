@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity8786",
+  "entityIndex" : "1_entity5272",
   "entityUrl" : "http://dbpedia.org/resource/Josie_Muscat",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "doctor", "seat", "leader", "MP", "politician", "member", "medicine", "councillor", "party", "co-founder" ],
   "text" : "Josie Muscat (born 31 July 1943 ) is a Maltese politician, a former Nationalist MP (1966–87), an independent local councillor in Marsascala (2006–09) and co-founder of Azzjoni Nazzjonali (AN)  (2007). He is a qualified doctor of medicine. After the general elections of 2008, Josie Muscat decided to resign as leader of Azzjoni Nazzjonali after he and his party failed to win any seats. Just two months after he resigned, he was persuaded to stay on as Party Leader because no other party member contested his seat. Muscat was, therefore, confirmed leader. In 2012, he argued that men who beat women generally did so “as a reaction to provocation” He is not to be confused with namesake Prime Minister of Malta and Malta Labour Party Leader Joseph Muscat."
 }, {
-  "entityIndex" : "2_entity10629",
+  "entityIndex" : "2_entity6573",
   "entityUrl" : "http://dbpedia.org/resource/Jamuna_Devi",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "leader", "deputy", "minister", "chief", "district", "Opposition", "member", "state", "party", "Assembly" ],
   "text" : "Jamuna Devi (born November 29, 1929 in Sardarpur, Dhar district - died September 24, 2010 in Indore) was a leader of Indian National Congress party from Madhya Pradesh. She was a member of Madhya Pradesh Legislative Assembly and served as the leader of Opposition and deputy chief minister of the state. She was elected as Lok Sabha member from Jhabua (1962–67). She was also the member of Rajya Sabha from 1978-81."
 }, {
-  "entityIndex" : "3_entity11499",
+  "entityIndex" : "3_entity7094",
   "entityUrl" : "http://dbpedia.org/resource/Leonard_Lenihan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "Elector", "wife", "county", "commissioner" ],
   "text" : "Leonard Lenihan was the Chairman of the Erie County Democratic Committee in Erie County, New York. He is a former Chairman of the Erie County Legislature and a former county personnel commissioner. He was a Presidential Elector for Sen. John Kerry and Sen. John Edwards in 2004. His wife, Kathleen Lenihan, is the Community Liaison for Congresswoman Louise M. Slaughter (D-NY) of the 28th Congressional District. Mr. Lenihan has a Masters of Public Administration from the State University of New York at Albany and a Bachelor of Science in Education from Northwest Missouri State University. Mr. Lenihan was elected chair of the Erie County Democratic Committee in 2002."
 }, {
-  "entityIndex" : "4_entity6929",
+  "entityIndex" : "4_entity4239",
   "entityUrl" : "http://dbpedia.org/resource/Harry_Vassallo",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,7 +43,7 @@
   "nouns" : [ "doctor", "thesis", "Chaiperson", "party" ],
   "text" : "Harry Vassallo (born Enrico Vassallo) was the Chaiperson of the Maltese Green political party, Democratic Alternative from 1998 till 2008. He was succeeded by Prof. Arnold Cassola. Vassallo studied at the University of Malta from where he graduated as doctor of laws in 1982 with a thesis on Insurance Law."
 }, {
-  "entityIndex" : "5_entity13274",
+  "entityIndex" : "5_entity8095",
   "entityUrl" : "http://dbpedia.org/resource/Mike_King_(transportation_executive)",
   "dboClass" : "dbo:Politician",
   "properties" : {

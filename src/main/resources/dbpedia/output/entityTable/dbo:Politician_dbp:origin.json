@@ -1,16 +1,5 @@
 [ {
-  "entityIndex" : "1_entity11366",
-  "entityUrl" : "http://dbpedia.org/resource/Lim_Keng_Yaik",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:origin" : [ "http://dbpedia.org/resource/Malaysia" ]
-  },
-  "words" : [ "Water", "Tan", "Rakyat", "Lîm", "Malaysia", "stepping", "Keng", "December", "four", "林", "1939", "Malaysian", "Minister", "--", "Parti", "Gerakan", "林敬益", "Communications", ",", "-", ".", "April", "former", "Dr", "pinyin", "Yì", "ōe-jī", "among", "1980", "Tsu", "name", "-RRB-", "8", ":", ";", "Jìng", "22", "Koon", "Dr.", "-LRB-", "death", "2012", "Sri", "2007", "Energy", "pave", "holders", "national", "Tunship", "Yaik", "living", "Koh", "politician", "Tun", "Lín", "Kèng-iah", "way", "Lim", "Pe̍h", "Chinese", "family", "cabinet", "president" ],
-  "adjectives" : [ "Chinese", "national", "former", "Malaysian" ],
-  "nouns" : [ "death", "politician", "Lîm", "Lín", "Kèng-iah", "way", "pinyin", "Yì", "ōe-jī", "Pe̍h", "name", "family", "cabinet", "Jìng", "president", "Tunship" ],
-  "text" : "(This is a Chinese name; the family name is Lim (林).) Tun Dr. Lim Keng Yaik (Chinese: 林敬益; pinyin: Lín Jìng Yì; Pe̍h-ōe-jī: Lîm Kèng-iah; 8 April 1939 – 22 December 2012) was a former Malaysian politician and former Minister of Energy, Water and Communications in the Malaysian cabinet. He was the national president of Parti Gerakan Rakyat Malaysia from 1980 until stepping down on 8 April 2007 to pave the way for Tan Sri Dr Koh Tsu Koon. Just before his death, he was among the only four Chinese Tunship living holders in Malaysia."
-}, {
-  "entityIndex" : "2_entity17799",
+  "entityIndex" : "1_entity10960",
   "entityUrl" : "http://dbpedia.org/resource/Tara_Chand_(Indian_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,18 +10,7 @@
   "nouns" : [ "leader", "candidate", "constituency", "district", "Assembly" ],
   "text" : "Tara Chand is a Dalit leader of Indian National Congress from Jammu and Kashmir. He was Deputy Chief Minister of Jammu and Kashmir from 2009 to 2014. He had earlier served as the Speaker of the Jammu and Kashmir Legislative Assembly. In 2014 elections, Tara Chand lost to BJP candidate Dr Krishan Lal in Chhamb Assembly constituency of Jammu district."
 }, {
-  "entityIndex" : "3_entity18090",
-  "entityUrl" : "http://dbpedia.org/resource/Tedo_Isakadze",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:origin" : [ "http://dbpedia.org/resource/Tbilisi" ]
-  },
-  "words" : [ "ისაკაძე", "June", "-LRB-", "27", "born", "politician", ",", ".", "თედო", "-RRB-", "Georgian", ":", "Tedo", "Isakadze", "1966" ],
-  "adjectives" : [ "Georgian" ],
-  "nouns" : [ "politician" ],
-  "text" : "Tedo Isakadze (Georgian: თედო ისაკაძე, born 27 June 1966) is a Georgian politician."
-}, {
-  "entityIndex" : "4_entity7508",
+  "entityIndex" : "2_entity4630",
   "entityUrl" : "http://dbpedia.org/resource/House_of_Shennib",
   "dboClass" : "dbo:Politician",
   "properties" : {

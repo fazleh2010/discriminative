@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity11248",
+  "entityIndex" : "1_entity6974",
   "entityUrl" : "http://dbpedia.org/resource/Khagendra_Nath_Dasgupta",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "activist", "government", "minister", "independence" ],
   "text" : "Khagendra Nath Dasgupta was an independence activist, minister in the West Bengal government, Leader of the Opposition in West Bengal Vidhan Sabha and Member of the Lok Sabha."
 }, {
-  "entityIndex" : "2_entity8808",
+  "entityIndex" : "2_entity5291",
   "entityUrl" : "http://dbpedia.org/resource/Jay_Walker_(legislator)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "Jay Walker (born January 24, 1972) is an American politician who represents district 26 in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "3_entity15837",
+  "entityIndex" : "3_entity9673",
   "entityUrl" : "http://dbpedia.org/resource/Rabiranjan_Chattopadhyay",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "MLA", "election", "constituency", "Government", "politician", "assembly", "state" ],
   "text" : "Rabiranjan Chattopadhyay is an Indian politician and the present Minister for the departments of Technical Education and Training,Science and Technology and Biotechnology in the Government of West Bengal. He is also an MLA, elected from the Bardhaman Dakshin constituency in the West Bengal state assembly election, 2011."
 }, {
-  "entityIndex" : "4_entity17076",
+  "entityIndex" : "4_entity10490",
   "entityUrl" : "http://dbpedia.org/resource/Sabina_Yasmin_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,7 +43,7 @@
   "nouns" : [ "MLA", "election", "woman", "minister", "Government", "politician", "victory", "A.", "seat", "candidate", "niece", "constituency", "assembly", "state" ],
   "text" : "Sabina Yasmin is an Indian politician and a former Minister of State for Labour in the Government of West Bengal. She is an MLA, elected from the Mothabari constituency in the West Bengal state assembly election, 2011. Sabina Yasmin's victory from Mothabari constituency was particularly creditable because Shehnaz Quadery, a niece of A. B. A. Ghani Khan Choudhury contested the seat as an independent candidate. Sabina Yasmin was the first Muslim woman to be a minister in West Bengal. She was one of the seven Muslim woman MLAs in the West Bengal Vidhan Sabha. She resigned as a minister when the Congress party decided to pull out of the Mamata Banerjee government."
 }, {
-  "entityIndex" : "5_entity6042",
+  "entityIndex" : "5_entity3676",
   "entityUrl" : "http://dbpedia.org/resource/Greg_Skrepenak",
   "dboClass" : "dbo:Politician",
   "properties" : {

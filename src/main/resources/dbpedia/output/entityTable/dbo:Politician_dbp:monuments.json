@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity9913",
+  "entityIndex" : "1_entity5998",
   "entityUrl" : "http://dbpedia.org/resource/James_Kershaw",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "owner", "franchise", "MP", "death", "tomb", "architect", "cotton", "borough", "History", "mill", "home", "clerk", "head", "condition", "partner", "Museum", "company", "risk", "register" ],
   "text" : "James Kershaw (1795–1864) was a British cotton mill owner and Liberal MP, associated with the Anti-Corn Law League. He rose from being a clerk for the cotton-spinning company of Lees, Millington & Cullender, of Manchester, to a partner and then head of Kershaw, Lees & Sidebottom, mill owners of Manchester. He was instrumental in obtaining the municipal franchise of Manchester as a borough in 1838, and was its Mayor between 1842-3, and later became the MP for Stockport from 1847 until his death. He died at his home in Streatham, and was buried in West Norwood Cemetery where his ornate Gothic tomb by Alfred Waterhouse (architect of the Natural History Museum, London and Manchester Town Hall) is listed Grade II, and in such poor condition as to be on the English Heritage at risk register. There is currently no plan from Lambeth council to improve the situation."
 }, {
-  "entityIndex" : "2_entity1310",
+  "entityIndex" : "2_entity699",
   "entityUrl" : "http://dbpedia.org/resource/Alan_Garner_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {

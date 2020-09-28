@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity11615",
+  "entityIndex" : "1_entity7154",
   "entityUrl" : "http://dbpedia.org/resource/Lasha_Zhvania",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "ex-Parliament", "education", "law", "State", "politician", "Consul", "lawyer", "Republic" ],
   "text" : "Lasha Zhvania (Georgian: ლაშა ჟვანია) (born 14 October 1973 in Tbilisi, Georgia) is a Georgian politician, Currently serves as General Manager of the International Humanitarian Foundation of Patriarch of Georgia His Holiness Ilia II , the Minister for Economic Development from November 2008 till August 2009 and an ex-Parliament of Georgia. A lawyer by education specializing in international law, he has served in the posts of Consul in Israel, Deputy-Minister of Finance, Deputy-Minister of Foreign Affairs, and Ambassador Extraordinary and Plenipotentiary to the State of Israel and the Republic of Cyprus, Chairman of the Foreign Relations Committee of the Parliament of Georgia."
 }, {
-  "entityIndex" : "2_entity15989",
+  "entityIndex" : "2_entity9789",
   "entityUrl" : "http://dbpedia.org/resource/Razi_Nurullayev",
   "dboClass" : "dbo:Politician",
   "properties" : {

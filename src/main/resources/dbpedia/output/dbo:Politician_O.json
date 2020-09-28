@@ -1,0 +1,1209 @@
+[ {
+  "entityIndex" : "entity8524",
+  "entityUrl" : "http://dbpedia.org/resource/Onora_O'Neill,_Baroness_O'Neill_of_Bengarve",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48681750" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/Onora_O'Neill" ],
+    "dbo:wikiPageRevisionID" : [ "692978420" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Onora_O'Neill" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity8525",
+  "entityUrl" : "http://dbpedia.org/resource/Owen_Jennings",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:electorate" : [ "List" ],
+    "dbp:end" : [ "1999", "2002" ],
+    "dbp:list" : [ "6" ],
+    "dbp:party" : [ "ACT New Zealand" ],
+    "dbp:start" : [ "1996", "1999" ],
+    "dbp:term" : [ "45", "46" ]
+  },
+  "words" : [ "New", "politician", "representing", "Jennings", ",", "former", ".", "Zealand", "1996", "ACT", "Owen", "2002", "Member", "Parliament", "party" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "politician", "party" ],
+  "text" : "Owen Jennings is a former New Zealand politician. He was a Member of Parliament from 1996 to 2002, representing the ACT New Zealand party."
+}, {
+  "entityIndex" : "entity8526",
+  "entityUrl" : "http://dbpedia.org/resource/Osias_Godin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1965-09-08" ],
+    "dbo:activeYearsStartDate" : [ "1958-05-12" ],
+    "dbo:orderInOffice" : [ "Member of ParliamentforNickel Belt" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Liberal_Party_of_Canada" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Roman_Catholic" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Ontario", "http://dbpedia.org/resource/Greater_Sudbury" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Norman_Fawcett" ],
+    "dbp:occupation" : [ "lawyer" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Léoda_Gauthier" ]
+  },
+  "words" : [ "-LRB-", "May", "Canadian", "city", "Sudbury", "riding", "Party", "Commons", "Osias", "member", "represented", "1958", "Godin", "councillor", "lawyer", "1911", "--", "election", "Liberal", "politician", "House", ",", "April", ".", "1965", "Canada", "Belt", "6", "Prior", "-RRB-", "Nickel", "20", "1988" ],
+  "adjectives" : [ "Canadian" ],
+  "nouns" : [ "election", "city", "politician", "member", "councillor", "lawyer" ],
+  "text" : "Osias Godin (May 6, 1911–April 20, 1988) was a Canadian politician, who represented the riding of Nickel Belt in the Canadian House of Commons from 1958 to 1965. He was a member of the Liberal Party of Canada. Prior to his election to the House of Commons, Godin was a lawyer and city councillor in Sudbury."
+}, {
+  "entityIndex" : "entity8527",
+  "entityUrl" : "http://dbpedia.org/resource/O._Joy_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "based", "chief", "People", "political", "'s", ",", ".", "Party", "Joy", "member", "Indian", "Singh", "Manipur", "state", "party", "O.", "legislature" ],
+  "adjectives" : [ "political", "Indian" ],
+  "nouns" : [ "chief", "member", "state", "party", "legislature" ],
+  "text" : "O. Joy Singh is the chief of the Manipur People's Party, a political party based in the Indian state of Manipur and a member of the Manipur legislature."
+}, {
+  "entityIndex" : "entity8528",
+  "entityUrl" : "http://dbpedia.org/resource/Oran_McPherson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:party" : [ "http://dbpedia.org/resource/United_Farmers_of_Alberta" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/George_Johnston_(politician)" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/George_Johnston_(politician)", "http://dbpedia.org/resource/Peter_Dawson_(Alberta_politician)" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/James_McNaughton_(politician)", "http://dbpedia.org/resource/Charles_Pingle" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Charles_Pingle" ],
+    "dbp:termEnd" : [ "1926" ],
+    "dbp:termStart" : [ "1922" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Legislative_Assembly_of_Alberta", "http://dbpedia.org/resource/Little_Bow_(electoral_district)", "http://dbpedia.org/resource/Speaker_of_the_Alberta_Legislative_Assembly", "http://dbpedia.org/resource/Speaker_of_the_Legislative_Assembly_of_Alberta" ],
+    "dbp:years" : [ "1921", "1922" ]
+  },
+  "words" : [ "``", "Tony", "23", "-LRB-", "May", "Alberta", "United", "Oran", "member", "1935", "Assembly", "''", "--", "12", "Farmers", "Bow", ",", "McPherson", "April", ".", "1921", "Canada", "1886", "Leo", "-RRB-", "Little", "Legislative", "1949" ],
+  "adjectives" : [ "Little", "Legislative" ],
+  "nouns" : [ "member", "Bow", "Assembly" ],
+  "text" : "Oran Leo \"Tony\" McPherson (April 12, 1886 – May 23, 1949) was a member of the Legislative Assembly of Alberta (Canada) for Little Bow from 1921 to 1935 as a member of the United Farmers of Alberta."
+}, {
+  "entityIndex" : "entity8529",
+  "entityUrl" : "http://dbpedia.org/resource/Osie_Villeneuve",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "Ontario MPP" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Canada", "http://dbpedia.org/resource/Ontario_Progressive_Conservative_Party" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Glengarry_(provincial_electoral_district)" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Noble_Villeneuve", "http://dbpedia.org/resource/Viateur_Éthier", "http://dbpedia.org/resource/Fernand_Guindon" ],
+    "dbp:children" : [ "3" ],
+    "dbp:occupation" : [ "Livestock broker" ],
+    "dbp:parliament" : [ "Canadian" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Edmund_MacGillivray", "http://dbpedia.org/resource/Raymond_Bruneau", "http://dbpedia.org/resource/Fernand_Guindon", "New riding" ],
+    "dbp:riding" : [ "http://dbpedia.org/resource/Glengarry—Prescott" ],
+    "dbp:spouse" : [ "Alma MacLeod" ],
+    "dbp:successor" : [ "Riding abolished" ],
+    "dbp:termEnd" : [ "1957", "1962", "1975", "1983" ],
+    "dbp:termStart" : [ "1948", "1957", "1963", "1975" ]
+  },
+  "words" : [ "``", "June", "1940s", "-LRB-", "25", "September", "death", "Osie", "Canadian", "almost", "28", "Commons", "Osias", "representative", "Assembly", "''", "--", "longtime", "politician", "F.", "House", ",", "continuously", ".", "Villeneuve", "elected", "Canada", "1983", "served", "-RRB-", "1906", "Legislative", "Ontario" ],
+  "adjectives" : [ "longtime", "Legislative" ],
+  "nouns" : [ "death", "politician", "representative", "Assembly" ],
+  "text" : "Osias F. \"Osie\" Villeneuve (June 28, 1906 – September 25, 1983) was a longtime politician in Ontario, Canada. He served in the Legislative Assembly of Ontario and the Canadian House of Commons, and was an elected representative almost continuously from the 1940s until his death."
+}, {
+  "entityIndex" : "entity8530",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Vincent_Lange",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1855-08-31", "1856-05-31", "1857-07-31", "1858-08-14", "1859-09-30", "1861-08-11", "1862-08-31", "1863-06-21" ],
+    "dbo:activeYearsStartDate" : [ "1854-10-07", "1855-09-01", "1856-06-01", "1857-08-01", "1858-09-01", "1859-10-01", "1861-09-01", "1862-09-01" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Norway" ],
+    "dbo:office" : [ "Minister of Church and Education (Norway)", "Minister of Finance and Customs (Norway)", "Member of the Council of State Division in Stockholm" ],
+    "dbo:orderInOffice" : [ "Member of Parliament" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Independent_(politician)" ],
+    "dbo:relation" : [ "http://dbpedia.org/resource/Ulrik_Frederik_Lange", "http://dbpedia.org/resource/Jørgen_Aall", "http://dbpedia.org/resource/Jacob_Aall", "http://dbpedia.org/resource/Niels_Aall" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Henrik_Laurentius_Helliesen", "http://dbpedia.org/resource/Erik_Røring_Møinichen", "http://dbpedia.org/resource/Hans_Riddervold" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Erik_Røring_Møinichen", "http://dbpedia.org/resource/Jørgen_Herman_Vogt" ],
+    "dbp:occupation" : [ "School teacher", "Surveyor of customs and excise" ],
+    "dbp:spouse" : [ "Anne Nicoline Aall" ],
+    "dbp:termEnd" : [ "1856" ],
+    "dbp:termStart" : [ "1833" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Minister_of_Finance_and_Customs_(Norway)", "http://dbpedia.org/resource/Minister_of_Church_and_Education_(Norway)" ],
+    "dbp:years" : [ "1854", "1855", "1857", "1859", "1862" ]
+  },
+  "words" : [ "-LRB-", "moved", "Lange", "local", "1833", "1832", "worked", "1797", "teacher", "found", "library", "Arendal", "school", "1870", "helped", "30", "Norwegian", "November", "--", "Vincent", "Otto", "politician", "born", ",", ".", "Jevnaker", "elected", "4", "museum", "-RRB-", "time", "Parliament", "first" ],
+  "adjectives" : [ "Norwegian", "local", "first" ],
+  "nouns" : [ "teacher", "library", "museum", "school", "politician", "time" ],
+  "text" : "Otto Vincent Lange (30 November 1797 – 4 November 1870) was a Norwegian politician. Lange was born in Jevnaker, but moved to Arendal. He worked as a school teacher, and helped found the local library and museum in 1832. In 1833 he was elected to the Norwegian Parliament for the first time. He then changed his civil job to that of surveyor of customs and excise. He was elected to the Norwegian Parliament in 1836, 1839, 1842, 1845, 1848, 1851 and 1854, representing the constituency of Arendal og Grimstad. In October 1854 he was appointed Minister of Church and Education, succeeding Jørgen Herman Vogt. In September 1855 he left that succeeded Vogt again, this time as Minister of Finance and Customs. He held this position periodically until June 1863, interrupted by spells as member of the Council of State Division in Stockholm from 1 June 1856 to 31 July 1857, 1 September 1858 to 30 September 1859 and 1 September 1861 to 31 August 1862. Otto Vincent Lange was married to Anne Nicoline Aall (1800–1886), daughter of businessperson, politician and historian Jacob Aall. The Aall family was a notable one; Anne Nicoline Aall's grandfather was businessman Nicolai Benjamin Aall (died 1798) and her uncles were politicians Niels and Jørgen Aall. Also, Otto Vincent Lange had a brother Ulrik Frederik Lange who was an educator and five-term member of Parliament. Otto Vincent's sister Barbara Abigael married Even Hanssen, whose son Johan Jørgen Lange Hanssen married Otto Vincent's daughter Lovise Jacobine. Otto Vincent Lange was proclaimed Knight of the Order of St. Olav 1847, promoted to Commander in 1857, and in 1863 was awarded the Grand Cross in 1863. He was awarded two Swedish orders: the Grand Cross of the Order of the Polar Star and Knight of the Order of Vasa. Lange also held the first class (equivalent to Grand Cross) of the Ottoman Mecidi Order. He died in 1870 in Kristiania and was buried at Vår Frelsers gravlund."
+}, {
+  "entityIndex" : "entity8531",
+  "entityUrl" : "http://dbpedia.org/resource/Olav_Meisdalshagen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/University_of_Oslo" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Norway" ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Fagernes", "http://dbpedia.org/resource/Parliament_of_Norway", "http://dbpedia.org/resource/Norges_Kooperative_Landsforening" ],
+    "dbo:office" : [ "Minister of Finance", "Minister of Agriculture" ],
+    "dbo:orderInOffice" : [ "Member of Parliament" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Norwegian_Labour_Party" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Trygve_Bratteli", "http://dbpedia.org/resource/Harald_Johan_Løbak" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Erik_Brofoss", "http://dbpedia.org/resource/Rasmus_Nordbø" ],
+    "dbp:caption" : [ "Olav Meisdalshagen in 1946" ],
+    "dbp:profession" : [ "Jurist" ],
+    "dbp:termEnd" : [ "1951", "1956", "1959" ],
+    "dbp:termStart" : [ "1936", "1947", "1955" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Minister_of_Finance_(Norway)", "http://dbpedia.org/resource/Minister_of_Agriculture_(Norway)" ],
+    "dbp:years" : [ "1947", "1955" ]
+  },
+  "words" : [ "1920s", "de", "occupation", "crofter", "rural", "Labour", "losing", "growing", "December", "Nord-Aurdal", "farm", "1936", "Norwegian", "January", "Member", "Minister", "--", "profession", "period", "jurist", "17", ",", "'s", ".", "former", "elected", "1940", "background", "-RRB-", "except", "1903", "1947", "Parliament", "1945", "Germany", "21", "shortly", "humble", "-LRB-", "May", "death", "father", "March", "facto", "best", "Meisdalshagen", "long", "serving", "Party", "1951", "defunct", "known", "Olav", "came", "parliamentary", "Agriculture", "term", "1959", "1956", "November", "1955", "election", "Finance", "Nazi", "politician", "also", "halfway", "Norway", "due", "speech", "fifth", "time", "family", "first" ],
+  "adjectives" : [ "humble", "defunct", "due", "Nord-Aurdal", "rural", "parliamentary", "fifth", "Norwegian", "long", "first", "former" ],
+  "nouns" : [ "profession", "period", "election", "occupation", "death", "jurist", "crofter", "politician", "father", "Meisdalshagen", "speech", "background", "farm", "term", "time", "family" ],
+  "text" : "Olav Meisdalshagen (17 March 1903 – 21 November 1959) was a Norwegian politician for the Labour Party best known for serving as the Norwegian Minister of Finance from December 1947 to November 1951 and as the Norwegian Minister of Agriculture from January 1955 to May 1956. He was also a Member of Parliament for a long time, being elected for the first time in parliamentary election of 1936 and serving until his death, except for the period between 1940 and 1945 when the Parliament of Norway was de facto defunct due to the occupation of Norway by Nazi Germany. His death in 1959 came halfway through his fifth term in Parliament, and shortly after a parliamentary speech. A jurist by profession, Meisdalshagen came from a humble family background, growing up at a former crofter's farm in rural Nord-Aurdal, and losing his father in the 1920s. After studying he moved back to Nord-Aurdal, worked as an attorney and built the Labour Party organization in the region. The background formed him in that his main political goal was to improve the economy of dwellers in rural farming districts. He was a proponent of economic regulation, which marked his period as Minister of Finance. However, his period was also marked by the dominance of Erik Brofoss and the Ministry of Trade in deciding the country's overall financial policy. When Trygve Bratteli succeeded Meisdalshagen as Minister of Finance, the ministry regained its dominance, but also set out on a gradual deregulation. This, in addition to Meisdalshagen's discontent with increased spendings on defence, made him an oppositional figure within the Labour Party. He did return briefly to cabinet as Minister of Agriculture, and also cooperated with the government through the position as chairman of Norges Kooperative Landsforening, a national association of consumer co-operatives. However his oppositional tendencies grew stronger in his later life. He was a part of the \"Easter Uprising\" in 1958, and in 1958 and 1959 there were rumours of Meisdalshagen worked behind the scene to facilitate a change of personnel—and policy—in the Labour Party. His death came in this period."
+}, {
+  "entityIndex" : "entity8532",
+  "entityUrl" : "http://dbpedia.org/resource/Olayuk_Akesuk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "MLAforSouth Baffin" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Consensus_government" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Fred_Schell" ],
+    "dbp:birthDate" : [ "1965" ],
+    "dbp:imagesize" : [ "150" ],
+    "dbp:predecessor" : [ "new district" ],
+    "dbp:termEnd" : [ "2008" ],
+    "dbp:termStart" : [ "1999" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ "Dorset", "-LRB-", "MLA", "defeated", "housing", "held", "electoral", "newly", "2008", "Board", "split", "Compensation", "won", "responsible", "Arlooktoo", "Member", "Assembly", "1999", "Baffin", "election", "deputy", "minister", "Olayuk", "created", "Goo", "born", "politician", "South", "premier", "Cape", ",", "elections", "Territories", ".", "Akesuk", "1965", "seat", "Canada", "Nunavut", "environment", "Northwest", "Workers", "district", "served", "-RRB-", "Legislative", "first", "territory" ],
+  "adjectives" : [ "deputy", "Olayuk", "electoral", "responsible", "Legislative", "first" ],
+  "nouns" : [ "Akesuk", "seat", "environment", "MLA", "election", "minister", "housing", "politician", "district", "premier", "Assembly", "territory" ],
+  "text" : "Olayuk Akesuk (born 1965) is a politician from Cape Dorset, Nunavut, Canada. Akesuk was the Member of the Legislative Assembly (MLA) for the electoral district of South Baffin from 1999 to 2008, having won the seat in the 1999 Nunavut election. He served as the minister of the environment, the minister responsible for the Workers Compensation Board, and the minister responsible for Nunavut housing. In the first elections held in the newly created territory of Nunavut in 1999, Akesuk defeated Goo Arlooktoo, who had been deputy premier of the Northwest Territories, from which Nunavut had been split off. This was considered one of the biggest upsets of the election, as many people had expected Arlooktoo to become premier of Nunavut. On 10 September 2008, Akesuk was appointed Health Minister after Leona Aglukkaq stepped down to run in the 2008 Canadian federal election for the Conservative Party. Akesuk did not stand for re-election in the 2008 territorial election."
+}, {
+  "entityIndex" : "entity8533",
+  "entityUrl" : "http://dbpedia.org/resource/Owen_Gilbert",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Australia" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Australian_Labor_Party" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Arthur_Gardiner", "Abolished" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/James_Thomson_(Australian_politician)", "http://dbpedia.org/resource/William_Dick_(Australian_politician)" ],
+    "dbp:title" : [ "Member for Newcastle", "Member for Newcastle West" ],
+    "dbp:years" : [ "1901", "1907" ]
+  },
+  "words" : [ "New", "schoolteacher", "-LRB-", "Raymond", "Wales", "Wallsend", "Gilbert", "Newcastle", "areas", "years", "1910", "Owen", "member", "1934", "early", "Assembly", "November", "--", "Goulburn", "13", "West", "politician", "born", "spent", "South", ",", ".", "elected", "seat", "Terrace", "Australian", "-RRB-", "1907", "Legislative", "1904", "1868", "1901" ],
+  "adjectives" : [ "Australian", "Legislative", "early" ],
+  "nouns" : [ "seat", "schoolteacher", "politician", "member", "Assembly" ],
+  "text" : "Owen Gilbert (1868 – 13 November 1934) was an Australian politician. Owen was born in Raymond Terrace, New South Wales and spent early years in Wallsend. He was a schoolteacher in the Newcastle and Goulburn areas. He was elected as the member for the seat of Newcastle West in 1901 until 1904 and for Newcastle from 1907 to 1910 in the New South Wales Legislative Assembly."
+}, {
+  "entityIndex" : "entity8534",
+  "entityUrl" : "http://dbpedia.org/resource/Ossie_O'Brien",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1983-06-09" ],
+    "dbo:activeYearsStartDate" : [ "1983-03-24" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/University_of_Durham" ],
+    "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:electionMajority" : [ "2412" ],
+    "dbo:office" : [ "Member of Parliament", "forDarlington" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Labor_Party_(UK)", "http://dbpedia.org/resource/Labour_Party_(UK)" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Michael_Fallon" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Michael_Fallon" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Edward_Fletcher_(politician)" ],
+    "dbp:nationality" : [ "British" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Edward_Fletcher_(politician)" ],
+    "dbp:title" : [ "Member of Parliament for Darlington" ],
+    "dbp:years" : [ "March 1983&ndash;June 1983" ]
+  },
+  "words" : [ "-LRB-", "weeks", "March", "Labour", "serving", "1997", "O'Brien", "Oswald", "Co-operative", "day", "10", "shortest", "--", "11", "British", "politician", "one", "European", ",", "April", ".", "1", "6", "-RRB-", "1928", "Members", "Parliament" ],
+  "adjectives" : [ "British", "European", "Co-operative" ],
+  "nouns" : [ "politician", "Labour", "day" ],
+  "text" : "Oswald O'Brien (6 April 1928 – 10 March 1997) was a British and European Labour Co-operative politician. He was one of the shortest serving Members of Parliament, serving just 11 weeks and 1 day."
+}, {
+  "entityIndex" : "entity8535",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_B._Jackson_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/University_of_Oklahoma" ],
+    "dbo:governor" : [ "http://dbpedia.org/resource/Frank_Keating", "http://dbpedia.org/resource/Brad_Henry", "http://dbpedia.org/resource/David_Walters", "http://dbpedia.org/resource/Mary_Fallin" ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Public_administration" ],
+    "dbo:office" : [ "Administrator of the Oklahoma Office of Personnel Management" ],
+    "dbo:orderInOffice" : [ "Oklahoma Secretary of Human Resources and Administration" ],
+    "dbp:termStart" : [ "1991" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Oklahoma_Office_of_Personnel_Management", "http://dbpedia.org/resource/Oklahoma_State_Cabinet", "Brad Henry and Mary Fallin", "Under Governors David Walters, Frank Keating," ],
+    "dbp:years" : [ "1991" ]
+  },
+  "words" : [ "almost", "political", "Republican", "appointment", "Jackson", "Brad", "three", "years", "Democrat", "continuous", "July", "state", "different", "Human", "history", "B.", ",", ".", "appointed", "Governor", "State", "served", "-RRB-", "David", "parties", "9", ":", "Resources", "position", "1947", "since", "-LRB-", "longest", "American", "Secretary", "Oklahoma", "Jr.", "Governors", "serving", "Keating", "servant", "current", "spanning", "civil", "1991", "Walters", "Since", "Henry", "Oscar", "twenty", "Administration", "Cabinet", "born", "service", "Frank" ],
+  "adjectives" : [ "current", "American", "civil", "continuous", "political", "different" ],
+  "nouns" : [ "Governor", "servant", "service", "appointment", "state", "position", "history" ],
+  "text" : "Oscar B. Jackson Jr. (born July 9, 1947) is an American civil servant from the state of Oklahoma. Jackson is the current Oklahoma Secretary of Human Resources and Administration, having served in that position since he was appointed by Governor of Oklahoma David Walters in 1991. With almost twenty years of continuous service, Jackson is the longest serving Cabinet Secretary in State history. Since his appointment, Jackson has served under three different Governors spanning both political parties: Democrat David Walters, Republican Frank Keating, and Democrat Brad Henry. Republican Governor-elect Mary Fallin has announced that she will retain Jackson in that position under her Administration. In addition to his service as Human Resources and Administration Secretary, Jackson serves concurrently as the Administrator of the Oklahoma Office of Personnel Management."
+}, {
+  "entityIndex" : "entity8536",
+  "entityUrl" : "http://dbpedia.org/resource/Oswald_Cawley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Liberal_Party_(UK)" ],
+    "dbp:title" : [ "Member of Parliament for Prestwich" ],
+    "dbp:years" : [ "January 1918 – October 1918" ]
+  },
+  "words" : [ "22", "Rugby", "New", "-LRB-", "John", "youngest", "styled", "Arts", "October", "1st", "School", "Party", "son", "1918", "older", "Oswald", "Honourable", "January", "Baron", "Oxford", "--", "Thomas", "British", "Frederick", "Cawley", "Liberal", "wife", "politician", "Smith", "Harold", ",", "Bachelor", ".", "August", "educated", "Elizabeth", "soldier", "1882", "7", "graduated", "-RRB-", "College", "fourth", "daughter", "brother" ],
+  "adjectives" : [ "British", "fourth", "Honourable" ],
+  "nouns" : [ "son", "soldier", "wife", "politician", "Bachelor", "daughter", "brother" ],
+  "text" : "Oswald Cawley (7 October 1882 – 22 August 1918), styled The Honourable from January 1918, was a British soldier and Liberal Party politician. He was the fourth and youngest son of Frederick Cawley, 1st Baron Cawley and his wife Elizabeth Smith, daughter of John Smith. His older brother was Harold Thomas Cawley. Cawley was educated at Rugby School and New College, Oxford, where he graduated with a Bachelor of Arts. He served as lieutenant of the Shropshire Yeomanry and became a captain of the King's Shropshire Light Infantry. He fought in the First World War, where he was killed in action near Merville. Cawley was buried in Néry Communal Cemetery. Shortly before his death in 1918, Cawley had been elected in a by-election in January to succeed his father as Member of Parliament (MP) for Prestwich. It was in memory of Oswald and two other sons - Harold and John - who died in the war that their father endowed a ward at Ancoats Hospital, Manchester, in 1919 at a cost of £10,000. All three brothers are commemorated on the Parliamentary War Memorial in Westminster Hall. Oswald and Harold, on Panel 8, are among the 22 MPs that died during World War I to be named on that memorial. John, included on the memorial as the son of an MP, appears on Panel 2 of the memorial. Oswald Cawley is one of 19 MPs who fell in the war who are commemorated by heraldic shields in the Commons Chamber. A further act of commemoration came with the unveiling in 1932 of a manuscript-style illuminated book of remembrance for the House of Commons, which includes short biographical accounts of the life and death of the Cawley brothers."
+}, {
+  "entityIndex" : "entity8537",
+  "entityUrl" : "http://dbpedia.org/resource/Owen_Evans",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_Kingdom" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Liberal_Party_(UK)" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Roderic_Bowen" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Rhys_Hopkin_Morris" ],
+    "dbp:title" : [ "Member of Parliament for Cardiganshire" ],
+    "dbp:years" : [ "1932" ]
+  },
+  "words" : [ "June", "-LRB-", "called", "Wales", "Science", "Inn", "1876", "School", "Department", "Party", "1896", "Owen", "civil", "February", "--", "11", "Inland", "Gray", "read", "Liberal", "joined", "politician", "'s", "Llandovery", ".", "Later", "educated", "Bar", "5", "Evans", "service", "David", "-RRB-", "College", "Revenue", "Imperial", "1945" ],
+  "adjectives" : [ "civil" ],
+  "nouns" : [ "Bar", "service", "politician" ],
+  "text" : "David Owen Evans (5 February 1876 – 11 June 1945) was a Liberal Party politician from Wales. Owen Evans was educated at Llandovery School and the Imperial College of Science. In 1896 he joined the civil service (Inland Revenue Department). Later he read for the Bar and was called to Gray's Inn. He practised law in London until 1916 when he joined the Mond Nickel Company. Rising through the ranks, he eventually became chief administrative officer of the company. He later became vice-president of the International Nickel Company of Canada. He was elected as Member of Parliament (MP) for Cardiganshire at a by-election in 1932, following the resignation of the Liberal MP Rhys Hopkin Morris. Evans held the seat until his sudden death, probably of heart failure, shortly before the 1945 general election. His death robbed him of becoming a Knight Bachelor; his appointment had been announced in the Dissolution Honours List published on 7 June 1945 but he died before he could be knighted. In public life in Wales he was a member of the Councils of the University colleges of Aberystwyth and Swansea, treasurer of the college at Aberystwyth and of the National Museum of Wales. He was also a governor and member of the Council of the National Library of Wales."
+}, {
+  "entityIndex" : "entity8538",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Smith_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51216112" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/Oliver_Smith_(politician)" ],
+    "dbo:wikiPageRevisionID" : [ "732454884" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Oliver_Smith_(politician)" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity8539",
+  "entityUrl" : "http://dbpedia.org/resource/Otho_Prior-Palmer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "Member of ParliamentforWorthing" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Conservative_Party_(UK)" ],
+    "dbp:children" : [ "Anthony Errol Prior-Palmer", "David Errol Prior-Palmer", "Diana Mary Leslie Prior-Palmer" ],
+    "dbp:spouse" : [ "1" ],
+    "dbp:termEnd" : [ "1964" ],
+    "dbp:termStart" : [ "1945" ],
+    "dbp:title" : [ "Member of Parliament for Worthing" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ],
+    "dbp:years" : [ "1945" ]
+  },
+  "words" : [ "Worthing", "-LRB-", "defence", "28", "officer", "subject", "29", "nearly", "sometimes", "main", "Labour", "years", "opposition", "October", "1897", "Party", "contributions", "criticism", "January", "Member", "twenty", "--", "DSO", "roused", "British", "Army", "Brigadier", "politician", "Otho", ",", ".", "Prior-Palmer", "1986", "outspoken", "Conservative", "served", "-RRB-", "Anglo-Irish", "Leslie", "Sir", "Parliament" ],
+  "adjectives" : [ "British", "outspoken", "Anglo-Irish", "main" ],
+  "nouns" : [ "opposition", "defence", "officer", "subject", "politician", "criticism" ],
+  "text" : "Brigadier Sir Otho Leslie Prior-Palmer, DSO (28 October 1897 – 29 January 1986) was an Anglo-Irish British Army officer and Conservative Party politician. He served for nearly twenty years as a Member of Parliament for Worthing. His main contributions were on the subject of defence, on which he was sometimes roused to outspoken criticism of the opposition Labour Party."
+}, {
+  "entityIndex" : "entity8540",
+  "entityUrl" : "http://dbpedia.org/resource/Osborne_Russell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "SecondExecutive Committee" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Oregon_Country" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/George_Abernethy" ],
+    "dbp:birthDate" : [ "1814" ],
+    "dbp:predecessor" : [ "First Executive Committee" ],
+    "dbp:regent" : [ "http://dbpedia.org/resource/David_Hill_(Oregon_politician)", "http://dbpedia.org/resource/Joseph_Gale", "http://dbpedia.org/resource/Peter_G._Stewart", "http://dbpedia.org/resource/William_J._Bailey", "http://dbpedia.org/resource/Alanson_Beers" ],
+    "dbp:termEnd" : [ "1845" ],
+    "dbp:termStart" : [ "1844" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Provisional_Government_of_Oregon", "Preceded by", "First Executive Committee", "Second Executive Committee" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ],
+    "dbp:years" : [ "1844" ]
+  },
+  "words" : [ "Oregon", "country", "-LRB-", "Maine", "expedition", "second", "mountain", "government", "U.S.", "Wyeth", "1892", "came", "member", "Osborne", "helped", "man", "state", "1814", "Nathaniel", "1834", "--", "J.", "politician", "born", ",", "'s", ".", "Elijah", "August", "Russell", "2", "1842", "White", "form", "-RRB-", "Country", "returned", "first", "party" ],
+  "adjectives" : [ "second" ],
+  "nouns" : [ "country", "mountain", "government", "Wyeth", "politician", "member", "expedition", "Country", "man", "state", "party" ],
+  "text" : "Osborne Russell (1814 – August 2, 1892) was a mountain man and politician who helped form the government of the U.S. state of Oregon. He was born in Maine. Russell first came to the Oregon Country in 1834 as a member of Nathaniel J. Wyeth's second expedition. He returned to the country in 1842 with the Elijah White party. He participated in the May 2, 1843 Champoeg Meeting, voting in favor of forming a government. In October of that year he was selected by the First Executive Committee to serve as the supreme judge for the Provisional Government of Oregon and served until May 14, 1844. In 1844, he was elected to the second Executive Committee of the Provisional Government of Oregon. He was allied with the group that planned to create an independent Republic of the Pacific and thus was unsuccessful in his run for governor of the Provisional Government in 1845, losing to George Abernethy. Russell eventually went to California. Although not published until well after the establishment of Yellowstone National Park, Osborne's Journal of a Trapper contains an early description of the Lamar Valley or Osborne's Secluded Valley in Yellowstone."
+}, {
+  "entityIndex" : "entity8541",
+  "entityUrl" : "http://dbpedia.org/resource/Olga_Ilich",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2006-08-15", "2008-06-23" ],
+    "dbo:activeYearsStartDate" : [ "2005-06-16", "2006-08-15" ],
+    "dbo:office" : [ "Minister of Labour and Citizens’ Services ofBritish Columbia", "Minister of Tourism, Sports and the Arts ofBritish Columbia" ],
+    "dbo:orderInOffice" : [ "MLAforRichmond Centre" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/British_Columbia_Liberal_Party" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Iain_Black", "http://dbpedia.org/resource/Rob_Howard", "http://dbpedia.org/resource/Stan_Hagen" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Greg_Halsey-Brandt", "http://dbpedia.org/resource/Michael_de_Jong" ],
+    "dbp:premier" : [ "http://dbpedia.org/resource/Gordon_Campbell" ],
+    "dbp:termEnd" : [ "2009" ],
+    "dbp:termStart" : [ "2005" ]
+  },
+  "words" : [ "-LRB-", "Canadian", "riding", "Labour", "Council", "Arts", "2009", "Tourism", "Sport", "1951", "Party", "1950", "2005", "previously", "member", "represented", "Ilich", "Assembly", "Minister", "British", "Executive", "Citizens", "Liberal", "born", "politician", "'", ",", "Centre", ".", "Services", "Olga", "Columbia", "served", "-RRB-", "Legislative", "Richmond" ],
+  "adjectives" : [ "Canadian", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Olga Ilich (born 1950 or 1951) is Canadian politician, who represented the riding of Richmond Centre in the Legislative Assembly of British Columbia from 2005 to 2009. She is a member of the British Columbia Liberal Party. Ilich served in the Executive Council of British Columbia as Minister of Labour and Citizens' Services. She previously served as Minister of Tourism, Sport and the Arts."
+}, {
+  "entityIndex" : "entity8542",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_Lathlin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2008-11-01" ],
+    "dbo:orderInOffice" : [ "MLAforThe Pas" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Manitoba_New_Democratic_Party" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Frank_Whitehead" ],
+    "dbp:occupation" : [ "teacher, First Nations band chief" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Harry_Harapiak" ],
+    "dbp:termStart" : [ "1990" ]
+  },
+  "words" : [ "--", "Gary", "New", "-LRB-", "Manitoba", "May", "minister", "Democratic", "politician", ",", ".", "1", "2008", "Canada", "Party", "government", "-RRB-", "Doer", "Lathlin", "1947", "cabinet", "20", "Oscar", "November" ],
+  "adjectives" : [ ],
+  "nouns" : [ "government", "minister", "politician", "cabinet" ],
+  "text" : "Oscar Lathlin (May 20, 1947 – November 1, 2008) was a politician in Manitoba, Canada, and was a cabinet minister in the New Democratic Party government of Gary Doer."
+}, {
+  "entityIndex" : "entity8543",
+  "entityUrl" : "http://dbpedia.org/resource/Orestes_Qu%C3%A9rcia",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity8544",
+  "entityUrl" : "http://dbpedia.org/resource/Oswald_Parent",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "MNAforHull" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Quebec_Liberal_Party" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Jocelyne_Ouellette" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Alexandre_Taché_(politician)" ],
+    "dbp:termEnd" : [ "1976" ],
+    "dbp:termStart" : [ "1956" ]
+  },
+  "words" : [ "-LRB-", "longest", "September", "accountant", "Parent", "2011", "riding", "commerce", "years", "Hull", "serving", "1976", "National", "graduate", "member", "July", "Oswald", "30", "Member", "Assembly", "1956", "--", "chartered", "Queen", "Quebec", "politician", "degree", "MLA/MNA", ",", "'s", ".", "4", "University", "-RRB-", "Legislative", "obtained", "1925", "1968", "20", "legislature" ],
+  "adjectives" : [ "chartered", "Legislative" ],
+  "nouns" : [ "accountant", "graduate", "politician", "member", "degree", "MLA/MNA", "commerce", "Assembly", "legislature" ],
+  "text" : "Oswald Parent (September 30, 1925 in Hull, Quebec – July 4, 2011) was a Quebec politician and chartered accountant. He was the Member of the National Assembly of Quebec from 1956 to 1976 (Legislative Assembly of Quebec from 1956 to 1968) for the riding of Hull. A member of the legislature for 20 years, Parent was the longest serving MLA/MNA for the Hull riding. Parent was a graduate of Queen's University, where he obtained a degree in commerce. He later worked as a clerk at the Hull branch of the provincial bank and was an auditor and a chartered accountant from 1946 to 1965. He also worked for the Youth Chamber of Commerce of Hull and of Canada as well as the Western Quebec Chamber of Commerce. He was a member of the Knights of Columbus and the director of the Societe Saint-Jean-Baptiste. Parent was first elected as a Quebec Liberal Party MLA in 1956 defeating the Union Nationale's Alexandre Taché. He was re-elected for five other terms until 1976, when he was defeated by the Parti Québécois candidate. He served as the Minister for intergovernmental affairs and Finances Minister from 1971 to 1975 as well as the Minister of Public Works from 1972 to 1976. After his defeat, Parent returned to practicing his profession until his retirement in 1995."
+}, {
+  "entityIndex" : "entity8545",
+  "entityUrl" : "http://dbpedia.org/resource/Owen_Cox",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "however", "New", "Welsh-born", "-LRB-", "Wales", "ship", "GBE", "Edward", "Auckland", "sea", "years", "banking", "1932", "Owen", "known", "sailed", "July", "Hospital", "January", "30", "businessman", "Christ", "--", "went", "business", "settled", "politician", "born", "South", "Britain", ",", "'s", "Cox", ".", "fourteen", "1866", "educated", "Zealand", "left", "Australian", "-RRB-", "returned", "Australia", "Sir", "age", "first", "Sydney", "21" ],
+  "adjectives" : [ "Welsh-born", "Australian", "first" ],
+  "nouns" : [ "business", "politician", "ship", "businessman", "Cox", "sea", "age", "banking" ],
+  "text" : "Sir Edward Owen Cox GBE (21 January 1866 – 30 July 1932), known as Owen Cox, was a Welsh-born Australian businessman and politician. Cox was born in South Wales, was educated at Christ's Hospital, and went to sea at the age of fourteen. He left his first ship at Auckland, New Zealand, however, and went into the banking business. After a few years he returned to Britain, but then sailed to Australia and settled in Sydney. He became chairman of Birt & Co and a director of the Federal Steam Navigation Co Ltd. He was elected to the New South Wales Legislative Council in 1922. For his war services, Cox was appointed Knight Commander of the Order of the British Empire (KBE) in the 1918 New Year Honours and promoted to Knight Grand Cross (GBE) in the Dominion war honours of 1920. Cox died in Monte Carlo, aged 66, after an illness lasting several months."
+}, {
+  "entityIndex" : "entity8546",
+  "entityUrl" : "http://dbpedia.org/resource/Ovide_Alakannuark",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "MLAforAkulliq" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Consensus_government" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Steve_Mapsalak" ],
+    "dbp:imagesize" : [ "150" ],
+    "dbp:termEnd" : [ "2004" ],
+    "dbp:termStart" : [ "1999" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ "-LRB-", "25", "defeated", "electoral", "general", "December", "candidate", "Ovide", "Mapsalak", "2004", "member", "1938", "win", "Alakannuark", "Assembly", "1999", "election", "level", "born", "politician", ",", "former", ".", "elected", "Canada", "Nunavut", "Steve", "served", "district", "-RRB-", "territorial", "Legislative", "votes", "Akulliq" ],
+  "adjectives" : [ "general", "electoral", "territorial", "Legislative", "former" ],
+  "nouns" : [ "candidate", "election", "level", "politician", "district", "member", "Assembly" ],
+  "text" : "Ovide Alakannuark (born December 25, 1938) is a former territorial level politician in Canada. He served as a member of the Legislative Assembly of Nunavut from 1999 until 2004. Alakannuark was elected in the 1999 Nunavut general election. He defeated candidate Steve Mapsalak by just 25 votes to win the Akulliq electoral district. He only served a single term in the Legislature deciding not to run for re-election when it was dissolved in 2004. He attempted a return to politics running in rerun for the Akulliq district finishing a distant third on March 2, 2009. The two front runners Steve Mapsalak and John Ningark had also served as MLA's in the Nunavut Legislature."
+}, {
+  "entityIndex" : "entity8547",
+  "entityUrl" : "http://dbpedia.org/resource/Olemic_Thommessen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2001-10-01", "2013-10-08" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/University_of_Oslo" ],
+    "dbo:monarch" : [ "http://dbpedia.org/resource/Harald_V" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Norwegian_people" ],
+    "dbo:orderInOffice" : [ "Member of the Norwegian Parliament", "19thPresident of the Storting" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Conservative_Party_(Norway)" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Oppland" ],
+    "dbp:honorificSuffix" : [ "http://dbpedia.org/resource/Member_of_Parliament" ],
+    "dbp:imagesize" : [ "200" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Dag_Terje_Andersen" ],
+    "dbp:spouse" : [ "Nina Høstmælingen" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/President_of_the_Storting", "Chair of Foreningen Norden in Norway" ],
+    "dbp:years" : [ "2010", "2013" ]
+  },
+  "words" : [ "``", "-LRB-", "Thommessen", "Olaf", "municipality", "two", "Olemic", "President", "1997", "October", "Party", "1995", "previously", "1993", "Michael", "Lillehammer", "member", "term", "Norwegian", "representative", "1956", "''", "--", "deputy", "born", "18", "politician", "2001", "Storting", ",", "April", ".", "elected", "1987", "re-elected", "council", "Conservative", "2013", "served", "-RRB-", "8", "occasions", "Oppland", "Parliament", "since" ],
+  "adjectives" : [ "Norwegian", "Olemic" ],
+  "nouns" : [ "deputy", "Thommessen", "council", "politician", "member", "municipality", "term", "representative" ],
+  "text" : "Olaf Michael \"Olemic\" Thommessen (born 18 April 1956 in Lillehammer) is a Norwegian politician for the Conservative Party and the President of the Storting since 8 October 2013. He was elected to the Norwegian Parliament from Oppland in 2001, and has been re-elected on two occasions. He previously served as a deputy representative during the term 1993–1997. Thommessen was a member of Lillehammer municipality council from 1987 to 1995."
+}, {
+  "entityIndex" : "entity8548",
+  "entityUrl" : "http://dbpedia.org/resource/O.C._Woolley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "Mayor of Jeffersonville" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:relation" : [ "http://dbpedia.org/resource/Locofocos" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/John_Ware_(mayor)" ],
+    "dbp:birthDate" : [ "1808" ],
+    "dbp:caption" : [ "Photo needed" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/John_Shyer" ],
+    "dbp:termEnd" : [ "1865" ],
+    "dbp:termStart" : [ "1861" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ "Jeffersonville", "-LRB-", "Indiana", "16", "mayor", "politician", "1808-February", "notable", "C.", ",", ".", "1895", "-RRB-", "Oswald", "Woolley", "tenure" ],
+  "adjectives" : [ "notable" ],
+  "nouns" : [ "mayor", "politician", "tenure" ],
+  "text" : "Oswald C. Woolley (1808-February 16, 1895) was a politician which is most notable for his tenure as the mayor of Jeffersonville, Indiana."
+}, {
+  "entityIndex" : "entity8549",
+  "entityUrl" : "http://dbpedia.org/resource/Owen_McInerney",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "New", "-LRB-", "May", "death", "political", "infant", "County", "Irish-born", "son", "Francis", "Owen", "came", "represented", "Chatham", "Assembly", "Mary", "--", "Brunswick", "figure", "Kent", "wife", "born", "1890", "merchant", "Longford", ",", "McAuley", "'s", "Jane", ".", "McInerney", "1866", "Canada", "-RRB-", "9", "Legislative", "1826", "Burns", "1869", "married", "first" ],
+  "adjectives" : [ "Irish-born", "political", "Legislative", "first" ],
+  "nouns" : [ "figure", "son", "death", "wife", "merchant", "infant", "Assembly" ],
+  "text" : "Owen McInerney (1826 – May 9, 1890) was an Irish-born merchant and political figure in New Brunswick, Canada. He represented Kent County in the Legislative Assembly of New Brunswick from 1866 to 1869. He was born in County Longford, the son of Francis McInerney, and came to Chatham as an infant. He married Mary McAuley and then Jane Burns after his first wife's death. He served as a captain in the county militia. He was named to the Legislative Council of New Brunswick in 1869. McInerney ran unsuccessfully for a seat in the House of Commons in 1867. His son George Valentine later served in the House of Commons."
+}, {
+  "entityIndex" : "entity8550",
+  "entityUrl" : "http://dbpedia.org/resource/Obie_Patterson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2010-12-06" ],
+    "dbo:orderInOffice" : [ "Prince George's County Council" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Baptist" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Maryland", "http://dbpedia.org/resource/Fort_Washington,_Maryland" ],
+    "dbp:constituency" : [ "Prince George's County, MD - District 8" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ "Mr.", "Black", "Prince", "December", "George", "Development", "represented", "Assembly", "Vice-Chair", "--", "12", "past", "committees", "Patterson", "House", "'s", ",", "-", ".", "6", "following", "8", "-RRB-", "Delegates", "General", ":", "Planning", "District", "Maryland", "since", "-LRB-", "American", "26", "serves", "Caucus", "2012", "2011", "2010", "Committee", "County", "Council", "represents", "previously", "within", "chair", "politician", "Obie", "chairman", "also", "Zoning", "Rules", "Economic", "currently", "Legislative", "board" ],
+  "adjectives" : [ "American", "past", "Legislative", "Black" ],
+  "nouns" : [ "chair", "politician", "chairman", "board" ],
+  "text" : "Obie Patterson is an American politician who currently represents Prince George's County, District 8 within the Prince George's County Council, since December 6, 2010. He previously represented District 26 in the Maryland House of Delegates and is a past chairman of the Legislative Black Caucus of Maryland. Mr. Patterson also serves on the following committees and board(s): Vice-Chair, Planning, Zoning and Economic Development Committee, 2012- (chair, 2011–12). Vice-Chair, Rules and General Assembly Committee, 2012-. Member, Transportation, Housing and the Environment Committee, 2011-. Member, Public Safety and Fiscal Management Committee, 2011–12. Member, Board of Health, Prince George’s County, 2010-. Member, Housing Commission, Gainesville, Florida, 1970."
+}, {
+  "entityIndex" : "entity8551",
+  "entityUrl" : "http://dbpedia.org/resource/Orlando_Allen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1851-12-31", "1860-12-31" ],
+    "dbo:activeYearsStartDate" : [ "1850-01-01", "1860-01-01" ],
+    "dbo:office" : [ "Mayor of Buffalo" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Whig_Party_(United_States)" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Hiram_Barton" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Hiram_Barton" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Elbridge_G._Spaulding" ],
+    "dbp:children" : [ "six children" ],
+    "dbp:district" : [ "Erie County, 1st" ],
+    "dbp:preceded" : [ "Benoni Thompson", "Daniel Bowen" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Elbridge_G._Spaulding" ],
+    "dbp:spouse" : [ "Marilla A. Pratt" ],
+    "dbp:stateAssembly" : [ "New York" ],
+    "dbp:succeeded" : [ "http://dbpedia.org/resource/Israel_T._Hatch", "Stephen V. R. Watson" ],
+    "dbp:term" : [ "1848" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/List_of_mayors_of_Buffalo,_New_York" ],
+    "dbp:years" : [ "1848" ]
+  },
+  "words" : [ "New", "career", "Alderman", "-LRB-", "separate", "York", "city", "year", "political", "March", "run", "18th", "treasurer", "two", "extended", "second", "1874", "expired", "terms", "member", "term", "January", "Assembly", "Buffalo", "--", "mayor", "began", "City", "Allen", ",", "followed", ".", "single", "appointed", "elected", "declined", "Second", "Orlando", "Ward", "State", "served", "-RRB-", "1849", "1848", "1803", "full" ],
+  "adjectives" : [ "single", "separate", "Second", "political", "18th", "extended", "full", "second" ],
+  "nouns" : [ "career", "mayor", "city", "year", "member", "term", "City", "treasurer" ],
+  "text" : "Orlando Allen (1803–1874) was a member of the New York State Assembly and the 18th mayor of the City of Buffalo, New York. Allen began his political career as city treasurer, followed by two separate terms as Second Ward Alderman. He served an extended single term as mayor after being appointed in January 1848. He was elected to a full term in March of that year, and served until the term expired in 1849, when he declined to run for a second term. He was a member of the State Assembly in 1850 and 1851. He later served on the Buffalo Board of Supervisors, representing the Second Ward in 1856–1857, before winning one final term in the State Assembly in 1860. He ran for most of his offices as a Whig, however, after the collapse of that party, he served his final term in the Assembly as a Republican."
+}, {
+  "entityIndex" : "entity8552",
+  "entityUrl" : "http://dbpedia.org/resource/O'Love_Jacobsen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "Minister in charge of the Niue Power Corporation", "Minister of Health,", "Minister of Public Works,", "Minister of Women’s Affairs," ],
+    "dbo:orderInOffice" : [ "High Commissioner of Niue to New Zealand" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Niue_Assembly" ],
+    "dbp:parliament" : [ "Niuean" ],
+    "dbp:party" : [ "none" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Sisilia_Talagi", "?" ],
+    "dbp:successor" : [ "?" ],
+    "dbp:termEnd" : [ "March 2011" ],
+    "dbp:termStart" : [ "?", "June 2008", "March 2011" ]
+  },
+  "words" : [ "Niuean", "New", "-LRB-", "Talagi", "leading", "Opposition", "2011", "Vivian", "Niue", "serving", "2008", "O'Love", "Toke", "government", "previously", "member", "national", "parliamentary", "Works", "Assembly", "long-standing", "Minister", "Tauveve", "High", "Women", "figure", "Young", "charge", "minister", "Affairs", "Health", "politician", "Commissioner", "Public", "'s", ",", ".", "Jacobsen", "Corporation", "Zealand", "currently", "-RRB-", "diplomat", "informal", "Parliament", "Power" ],
+  "adjectives" : [ "Niuean", "High", "national", "parliamentary", "informal", "long-standing" ],
+  "nouns" : [ "figure", "government", "charge", "minister", "politician", "Opposition", "member", "diplomat", "Assembly" ],
+  "text" : "Tauveve O’Love Jacobsen is a Niuean politician and diplomat. She is currently Niue's High Commissioner to New Zealand, after serving as a member of the Niue Assembly (national Parliament) and a minister in Toke Talagi's government. She was previously a long-standing leading figure in the informal parliamentary Opposition to Young Vivian's government. She was, from 2008 to 2011, Minister of Health, Minister of Public Works, Minister of Women’s Affairs, and Minister in charge of the Niue Power Corporation. She had previously been Minister of Education, Health, Environment, Training and Development. Additionally, Jacobsen is a member of the Commonwealth Parliamentary Association, and Patroness of the Niuean Volleyball Association. Following the 1999 general election, she was a candidate for the post of Premier (head of government), who is selected by the national Assembly. She lost to Sani Lakatani, of the Niue People's Party, by six votes to fourteen. Following the 2005 general election, Jacobsen was Young Vivian's only opponent contending for the position of Premier. She was defeated by three votes to seventeen. Vivian thanked her for competing against him: \"That the selection was contested, thanks to Ekepule [member of the Assembly] O’love Jacobsen, confirms our determination under the Westminster system of government to adhere and uphold one of the fundamental principles of democracy.\" In February 2008, Jacobsen stated that landowners had been bullied into authorising the building of a hotel and golf course on their land, a project supported by the government and funded by Chinese investors. Premier Young Vivian rejected the allegation. In the lead-up to the 2008 general election, which saw her successfully retain her seat in the Assembly (as a common roll representative, Jacobsen was critical of the fact that several members of the Assembly would be re-elected unopposed. She accused Vivian of discouraging people from taking part in the election as Opposition candidates, and argued that a democracy requires voters being able to choose between several candidates in each constituency. \"If the principle of democracy is going to be upheld, then it is very important that people do need to go to the polls and not have them unopposed and become duly elected.\" Vivian rejected Jacobsen's criticism, and argued in return that candidates were chosen within the villages, in traditional ways. With such a practice, he said, \"there is no conflict, there’s peace and togetherness.\" A government news publication stated with thinly veiled criticism that Jacobsen \"saw herself as a self-appointed backbench champion of the masses\". Following the election, Jacobsen supported Toke Talagi's candidacy to prime ministership, against Vivian, and was appointed to Talagi's small Cabinet. In March 2011, she resigned from government and from the Assembly to be appointed Niue's High Commissioner to New Zealand."
+}, {
+  "entityIndex" : "entity8553",
+  "entityUrl" : "http://dbpedia.org/resource/Olivier_Guichard__France-politician-stub__1",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/France" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity8554",
+  "entityUrl" : "http://dbpedia.org/resource/Olaf_Bjerke",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:party" : [ "http://dbpedia.org/resource/Communist_Party_of_Norway" ]
+  },
+  "words" : [ "communist", "occupation", "leading", "unionist", "Bjerke", "imprisoned", "World", "Communist", "1893", "members", "Strand", "January", "Norwegian", "10", "--", "II", "Johansen", "Heiestad", "milk", "19", ",", ".", "camp", "Sachsenhausen", "1941", "6", "among", "-RRB-", "formed", "Germany", "21", "arrested", "-LRB-", "September", "Olaf", "War", "Mugaas", "Party", "along", "Johan", "inmates", "end", "1957", "Halvor", "Sørum", "Grini", "Kristian", "Nazi", "politician", "strike", "concentration", "Møllergata", "trade", "Erling", "Norway", "caucus", "Skramstad" ],
+  "adjectives" : [ "communist", "unionist", "Norwegian" ],
+  "nouns" : [ "trade", "occupation", "politician", "strike", "caucus", "milk", "concentration", "end", "camp" ],
+  "text" : "Olaf Bjerke (6 January 1893 – 21 September 1957) was a Norwegian trade unionist and politician for the Communist Party. During the occupation of Norway by Nazi Germany he was arrested on 10 September 1941 after the milk strike. He was imprisoned at Møllergata 19, then in Grini concentration camp, then in Sachsenhausen concentration camp until the end of World War II. The communist inmates formed a caucus in the camp, and Bjerke was among the leading members along with Kristian Mugaas, Johan Strand Johansen, Olaf Skramstad, Halvor Sørum and Erling Heiestad. A railway worker, Bjerke was involved in the trade union Norwegian Union of Railway Workers. As former chairman Ludvik Buland died in a concentration camp in 1945, Bjerke came close to being elected chairman at the national convention later that year, but lost the vote to the Social Democrat Marius Trana. The electoral committee had been unified in its support of Bjerke, but reportedly Haakon Lie and Trygve Bratteli swayed the result in Trana's favor. He did become elected to the Norwegian Confederation of Trade Unions secretariat, as the only communist. He also entered the Communist Party leadership stratum. Bjerke served as a deputy representative to the Parliament of Norway from Oslo during the term 1954–1957. He died in September 1957."
+}, {
+  "entityIndex" : "entity8555",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_A._Swenson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Gustavus_Adolphus_College" ],
+    "dbo:office" : [ "Minnesota State Senator", "Minnesota State Representative" ],
+    "dbo:orderInOffice" : [ "35th", "Speaker of the Minnesota House of Representatives" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Conservatism_in_the_United_States", "http://dbpedia.org/resource/Minnesota_Republican_Party" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Lutheran" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Nicollet,_Minnesota" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Charles_Munn" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Charles_Munn" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/John_A._Johnson_(politician)" ],
+    "dbp:children" : [ "Maurice, Bernhard, Constance, Clara, and Eda" ],
+    "dbp:imageName" : [ "OscarASwenson.jpg" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/John_A._Johnson_(politician)" ],
+    "dbp:profession" : [ "Farmer" ],
+    "dbp:spouse" : [ "Bertha Jenson" ],
+    "dbp:termEnd" : [ "January 1933", "January 1951" ],
+    "dbp:termStart" : [ "January 1937", "January 1913", "January 1931" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/List_of_Speakers_of_the_Minnesota_House_of_Representatives" ],
+    "dbp:years" : [ "1931" ]
+  },
+  "words" : [ "June", "New", "-LRB-", "27", "another", "father", "March", "Swen", "Representatives", "A.", "two", "years", "1877", "Sweden", "1951", "immigrant", "Norwegian", "1836", "Oscar", "Speaker", "--", "14", "Township", "politician", "born", "Minnesota", "House", ",", ".", "Senate", "State", "served", "-RRB-", "decades", "1905", "Representative", "Swenson", "20", "parents" ],
+  "adjectives" : [ "immigrant", "Norwegian" ],
+  "nouns" : [ "politician", "father" ],
+  "text" : "Oscar A. Swenson ( March 27, 1877 – June 20, 1951) was a Minnesota politician and a Speaker of the Minnesota House of Representatives. He served two decades in the Minnesota House of Representatives, and another 14 years in the Minnesota Senate. Oscar A. Swenson born in New Sweden Township, Minnesota to Norwegian immigrant parents. His father, Swen Swenson, (1836–1905) was a Minnesota State Representative. His brother Laurits S. Swenson served as an American ambassador. Oscar Swenson attended New Sweden Township Rural Schools, Luther Academy, Albert Lea, Minnesota and Gustavus Adolphus College Oscar Swenson was elected to the House in 1912. He caucused with the Conservative Caucus in the then-nonpartisan body, and was selected as speaker in 1931, a position he held for two years. Swenson left the House in 1933, but returned to the legislature after being elected to the Senate in 1936. He held that seat until 1951, serving as chair of the Senate agriculture committee. Swenson died in 1951 in St. Paul, Minnesota. He was a member of the Norwegian Lutheran Church of Norseland in Nicollet County, Minnesota. His grandsons, Howard Swenson and Douglas G. Swenson both served the House of Representatives in the late 1990s. Oscar Swenson was a member of the Norwegian Lutheran Church of Norseland, Minnesota. He died due to complications from a cerebral hemorrhage at Miller Hospital in St. Paul, Minnesota. His funeral was held at the Norwegian Lutheran Church of Norseland in Nicollet County, Minnesota. The collection consisting of papers belonging to Oscar A. Swenson are contained inMemorial Library, Southern Minnesota Historical Center at the Minnesota State University, in Mankato, Minnesota."
+}, {
+  "entityIndex" : "entity8556",
+  "entityUrl" : "http://dbpedia.org/resource/Orlando_Plummer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Thomas_Jefferson_University" ],
+    "dbo:office" : [ "Member of thePortland City Council" ],
+    "dbo:orderInOffice" : [ "Member of theOregon House of Representatives" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Portland,_Oregon", "http://dbpedia.org/resource/Multnomah_County,_Oregon" ],
+    "dbp:caption" : [ "Plummer circa 1910" ],
+    "dbp:imagesize" : [ "175" ],
+    "dbp:party" : [ "Republican" ],
+    "dbp:spouse" : [ "Martha Elizabeth Kelly", "Sarah B. Cool" ],
+    "dbp:term" : [ "1880" ],
+    "dbp:termend" : [ "1866" ],
+    "dbp:termstart" : [ "1865" ]
+  },
+  "words" : [ "Oregon", "medical", "-LRB-", "Portland", "American", "city", "fruit", "Plummer", "several", "Republican", "telegraph", "December", "companies", "native", "member", "working", "physician", "state", "1836", "1913", "moving", "Shields", "Assembly", "--", "13", "practicing", "work", "politician", "Pleasant", "continued", "started", "medicine", "also", ",", "April", ".", "Pennsylvania", "professor", "Orlando", "Illinois", "council", "7", "-RRB-", "well", "Legislative", "farmer" ],
+  "adjectives" : [ "medical", "American", "several", "Legislative" ],
+  "nouns" : [ "city", "work", "fruit", "politician", "medicine", "telegraph", "professor", "native", "council", "member", "farmer", "physician", "state", "Assembly" ],
+  "text" : "Orlando Pleasant Shields Plummer (April 13, 1836 – December 7, 1913) was an American physician and politician in the state of Oregon. A native of Pennsylvania, he started practicing medicine in Illinois before moving to Portland, Oregon. In Oregon, he continued his medical work as well as working for several telegraph companies. A Republican, Plummer was also a member of the Oregon Legislative Assembly, a medical professor, fruit farmer, and Portland city council member. His drug store in downtown had the first telephone in Portland."
+}, {
+  "entityIndex" : "entity8557",
+  "entityUrl" : "http://dbpedia.org/resource/Osbeorn_Bulax",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:residence" : [ "http://dbpedia.org/resource/Northumbria" ],
+    "dbp:birthDate" : [ "Unknown" ],
+    "dbp:children" : [ "none known" ],
+    "dbp:deathDate" : [ "1054" ],
+    "dbp:spouse" : [ "none known" ]
+  },
+  "words" : [ "Northumbria", "``", "-LRB-", "probably", "Old", "Bulax", "Kapelle", "died", "Poleaxe", "two", "represents", "mother", "son", "Siward", "known", "sons", "Bamburgh", "Earl", "nickname", "Osbeorn", "older", "term", "--", "''", "given", "wife", "one", "1055", "1054", "c.", ",", "'s", "William", ".", "Ælfflæd", "suggested", "-RRB-", "Norse", "assumed", "normally" ],
+  "adjectives" : [ "known", "Old", "Norse" ],
+  "nouns" : [ "mother", "son", "wife", "nickname", "Osbeorn", "term", "Ælfflæd" ],
+  "text" : "Osbeorn (died c. 1054), given the nickname Bulax, was the son of Siward, Earl of Northumbria (died 1055). He is one of two known sons — probably the older — of Siward. While it is normally assumed he was the son of Siward's Bamburgh wife Ælfflæd, it has been suggested by William Kapelle that Osbeorn's mother was not Ælfflæd. The nickname \"Bulax\" probably represents the Old Norse term for \"Poleaxe\". According to the most reliable sources, he died at the Battle of the Seven Sleepers, fought somewhere in Scotland between Siward and Mac Bethad mac Findlaích, King of the Scots, in 1054. Under this year, the Anglo-Saxon Chronicle, recension D, related that: \"At this time earl Siward went with a great army into Scotland, with both fleet and a land-force; and fought against the Scots, and put to flight the king Mac Bethad, and slew all that were best in the land, and brought thence much war-spoil, such as no man obtained before;   And there were slain his son Osbeorn, and his sister's son Siward, and some of his housecarls, and also of the king's, on the day of the Seven Sleepers (July 27).\"   This battle was fought somewhere in Scotland north of the Firth of Forth, and is known variously as the \"Battle of the Seven Sleepers\" or the \"Battle of Dunsinane\". The location Dunsinane is not accepted as historical by modern historians, resting as it does on later medieval accounts. The earliest mention of Dunsinane as the location of the battle being the early 15th-century account by Andrew of Wyntoun. In recension C of the Anglo-Saxon Chronicle, the names of the slain are omitted, an omission repeated by the Chronicle of John of Worcester. Henry of Huntingdon related that Osbeorn had been sent to Scotland ahead of Siward:\"[Siward] sent his son to acquire Scotland. And when they reported to his father that he had been slain in battle, [Siward] said, 'Did he receive the mortal wound in front of his body, or behind?' The messengers said. 'In front'. And he replied: 'I rejoice wholly, for I would deem myself or my son worthy of no meaner death'. Siward therefore marched into Scotland and conquered the king battle ... \" Another legendary account, in the Vita et Passio Waldevi, a hagiography of Osbeorn's brother Waltheof, claimed that Osbeorn, called \"Osbert Bulax\", was killed by Northumbrians while his father was absent in Scotland. The accounts in Henry of Huntingdon and the Vita et Passio Waldevi are thought to be derived from a saga devoted to the life of Earl Siward. Geoffrey Gaimar's account related activity in 1053, an agreement made between Siward and Mac Bethad, but a death of Osbeorn is not mentioned. Osbeorn's death left Siward's legacy in danger. When he died the following year, his only son Waltheof was underage and thus did not succeed immediately to the whole territory ruled by Siward, Northumbria going instead to Tostig Godwinson."
+}, {
+  "entityIndex" : "entity8558",
+  "entityUrl" : "http://dbpedia.org/resource/Odilia_Dank",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/University_of_Oklahoma", "http://dbpedia.org/resource/Randolph-Macon_Women's_College" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/U.S." ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Politician", "http://dbpedia.org/resource/Educator" ],
+    "dbo:orderInOffice" : [ "Oklahoma State Representative" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Republican_Party_(United_States)" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Roman_Catholic" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Oklahoma_City,_Oklahoma" ],
+    "dbo:spouse" : [ "http://dbpedia.org/resource/David_Dank" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/David_Dank" ],
+    "dbp:birthName" : [ "Odilia Mary Russo" ],
+    "dbp:children" : [ "One daughter, Trina" ],
+    "dbp:constituency" : [ "85" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Mary_Fallin" ],
+    "dbp:termEnd" : [ "2006" ],
+    "dbp:termStart" : [ "1994" ]
+  },
+  "words" : [ "-LRB-", "September", "Oklahoma", "Republican", "Representatives", "educator", "2006", "1994", "member", "1938", "term", "Mary", "--", "limited", "17", "House", "City", ",", ".", "August", "elected", "Odilia", "3", "2013", "served", "-RRB-", "Dank", "District", "85" ],
+  "adjectives" : [ "Republican" ],
+  "nouns" : [ "member", "term", "educator" ],
+  "text" : "Odilia Mary Dank (September 3, 1938 – August 17, 2013) was an educator from Oklahoma City who served as a Republican member of the Oklahoma House of Representatives, from District 85. Dank was elected in 1994 and served until she was term limited in 2006."
+}, {
+  "entityIndex" : "entity8559",
+  "entityUrl" : "http://dbpedia.org/resource/Ossie_Fraser",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1978-09-19", "1982-10-29" ],
+    "dbo:activeYearsStartDate" : [ "1976-09-07", "1978-09-19" ],
+    "dbo:office" : [ "MLAforCape Breton The Lakes", "MLAforCape Breton West" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Nova_Scotia_Liberal_Party" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/John_Newell_(politician)", "http://dbpedia.org/resource/David_Muise" ],
+    "dbp:occupation" : [ "Steelworker" ],
+    "dbp:predecessor" : [ "new riding", "Allan Sullivan" ]
+  },
+  "words" : [ "steel", "politics", "-LRB-", "Ossie", "29", "County", "years", "Council", "Edwardsville", "October", "worked", "son", "McKenzie", "provincial", "Osborne", "worker", "Ernest", "moving", "November", "Mary", "`", "--", "SYSCO", "35", "Scotia", "'", "politician", "Nova", "Catherine", "Breton", "Fraser", ",", "Steel", "Cape", ".", "elected", "Canada", "Corporation", "1964", "1982", "Born", "7", "-RRB-", "1923", "Sydney" ],
+  "adjectives" : [ "provincial" ],
+  "nouns" : [ "steel", "son", "politician", "worker" ],
+  "text" : "Osborne 'Ossie' McKenzie Fraser, (November 7, 1923 – October 29, 1982) was a politician in Nova Scotia, Canada. Born in Edwardsville, he was the son of Ernest Osborne Mary Catherine Fraser. Fraser worked as a steel worker with Sydney Steel Corporation (SYSCO) for 35 years. He was elected to the Cape Breton County Council in 1964 before moving into provincial politics. He was first elected to the Nova Scotia House of Assembly in a 1976 byelection in the Cape Breton West riding. He was re-elected in the new riding of Cape Breton The Lakes in the 1978 and 1981 provincial elections. He served as a member of the Nova Scotia Liberal Party until he died suddenly on October 29, 1982. Fraser was also a veteran of World War II. He was married to Mary Ruth Briscoe."
+}, {
+  "entityIndex" : "entity8560",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Robert_Gould",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "Wales", "United", "John", "political", "Lake", "carpenter", "worked", "son", "Robert", "Commons", "Pike", "farm", "represented", "near", "moving", "--", "Farmers", "settled", "House", "Saskatchewan", "Assiniboia", ",", "April", ".", "Progressive", "Canada", "4", "7", "-RRB-", "Oak", "Gould", "Ontario", "Ann", "-LRB-", "Manitoba", "Canadian", "1919", "October", "1874", "1951", "Party", "member", "came", "early", "Mary", "figure", "Oliver", "born", "also", "1881", "Manor", "farmer", "Forest", "1890s", "1925", "family", "Pontypridd" ],
+  "adjectives" : [ "political", "early" ],
+  "nouns" : [ "figure", "son", "member", "farmer", "farm", "family", "carpenter" ],
+  "text" : "Oliver Robert Gould (April 4, 1874 – October 7, 1951) was a farmer and political figure in Saskatchewan, Canada. He represented Assiniboia in the Canadian House of Commons from 1919 to 1925 as a United Farmers and then Progressive Party member. He was born in Pontypridd, Wales, the son of John Gould and Mary Ann Pike, and came to Forest, Ontario with his family in 1881, moving to Oak Lake, Manitoba in the early 1890s. Gould settled on a farm near Manor, Saskatchewan, where he also worked as a carpenter. He served five years on the town council for Manor. Gould was first elected to the House of Commons as a United Farmers MP in an 1919 by-election held after John Gillanders Turriff was named to the Senate. He was re-elected as a Progressive MP in the 1921 general election but defeated when he ran for re-election in 1925 federal election. He was married three times; first to Sarah Elizabeth Hindmarch, then to Daisy Fern Malin and finally to Hazel Maxwell Reid."
+}, {
+  "entityIndex" : "entity8561",
+  "entityUrl" : "http://dbpedia.org/resource/O._S._Veluchami",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ]
+  },
+  "words" : [ "Nadu", "Congress", "election", "politician", "former", ".", "Tamil", "legislative", "elected", "candidate", "Ottapidaram", "National", "constituency", "assembly", "Indian", "Legislative", "S.", "Member", "Assembly", "O.", "Veluchami", "1977" ],
+  "adjectives" : [ "Indian", "Legislative", "former", "legislative" ],
+  "nouns" : [ "candidate", "election", "constituency", "politician", "assembly", "Assembly" ],
+  "text" : "O. S. Veluchami was an Indian politician and former Member of the Legislative Assembly. He was elected to the Tamil Nadu legislative assembly as an Indian National Congress candidate from Ottapidaram constituency in 1977 election."
+}, {
+  "entityIndex" : "entity8562",
+  "entityUrl" : "http://dbpedia.org/resource/O._R._Ramachandran",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ]
+  },
+  "words" : [ "Nadu", "Congress", "-LRB-", "Cumbum", "Maanila", "legislative", "Ramachandran", "Moopanar", "candidate", "1996", "National", "1991", "assembly", "R.", "Member", "Assembly", "election", "politician", "2001", "elections", "former", "Tamil", ".", "elected", "constituency", "-RRB-", "Indian", "Legislative", "O." ],
+  "adjectives" : [ "Indian", "Legislative", "former", "legislative" ],
+  "nouns" : [ "candidate", "election", "constituency", "politician", "assembly", "Assembly" ],
+  "text" : "O. R. Ramachandran was an Indian politician and former Member of the Legislative Assembly of Tamil Nadu. He was elected to the Tamil Nadu legislative assembly as an Indian National Congress candidate from Cumbum constituency in 1991 election and as a Tamil Maanila Congress (Moopanar) candidate in 1996 and 2001 elections."
+}, {
+  "entityIndex" : "entity8563",
+  "entityUrl" : "http://dbpedia.org/resource/O._Subramanian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ]
+  },
+  "words" : [ "Nadu", "Congress", "-LRB-", "legislative", "candidate", "National", "assembly", "Member", "Assembly", "1977", "election", "Sivaganga", "politician", "elections", "former", "Tamil", ".", "elected", "1984", "constituency", "Indira", "1980", "-RRB-", "Indian", "Legislative", "Subramanian", "O." ],
+  "adjectives" : [ "Indian", "Legislative", "former", "legislative" ],
+  "nouns" : [ "candidate", "election", "constituency", "politician", "assembly", "Assembly" ],
+  "text" : "O. Subramanian is an Indian politician and former Member of the Legislative Assembly of Tamil Nadu. He was elected to the Tamil Nadu legislative assembly as an Indian National Congress candidate from Sivaganga constituency in 1977 and 1984 elections and as an Indian National Congress (Indira) candidate in 1980 election."
+}, {
+  "entityIndex" : "entity8564",
+  "entityUrl" : "http://dbpedia.org/resource/Ogbonna_Okechukwu_Onovo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2010-09-08" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/University_of_Nigeria" ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Police_Officer" ],
+    "dbo:orderInOffice" : [ "Inspector General of the Nigerian Police" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Hafiz_Ringim" ],
+    "dbp:imagesize" : [ "185" ],
+    "dbp:nationality" : [ "Nigerian" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Mike_Mbama_Okiro" ],
+    "dbp:termStart" : [ "2009" ]
+  },
+  "words" : [ "Okiro", "Onovo", "Mbama", "Nigerian", "Police", "retirement", ".", "appointed", "2009", "Mike", "Okechukwu", "Ogbonna", "Inspector", "General", "July" ],
+  "adjectives" : [ "Nigerian" ],
+  "nouns" : [ "Police", "retirement" ],
+  "text" : "Ogbonna Okechukwu Onovo was appointed Inspector General of the Nigerian Police in July 2009 on the retirement of Mike Mbama Okiro."
+}, {
+  "entityIndex" : "entity8565",
+  "entityUrl" : "http://dbpedia.org/resource/Omer_St._Germain",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1935-08-22" ],
+    "dbo:activeYearsStartDate" : [ "1930-06-19" ],
+    "dbo:orderInOffice" : [ "Member of the Legislative Assembly of Alberta" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/United_Farmers_of_Alberta", "http://dbpedia.org/resource/Alberta_Liberal_Party" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/St._Albert_(provincial_electoral_district)" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Charles_Holder" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Lucien_Boudreau" ]
+  },
+  "words" : [ "Germain", "Morinville", "became", "-LRB-", "September", "Alberta", "perennial", "United", "barrister", "office", "St.", "Omer", "hold", "1877", "Liberals", "candidate", "1930", "member", "provincial", "floor", "February", "1935", "Assembly", "--", "11", "13", "Farmers", "mayor", "politician", "solicitor", ",", "elections", "crossing", ".", "Canada", "notary", "served", "-RRB-", "publisher", "Legislative", "1949", "first", "sitting" ],
+  "adjectives" : [ "notary", "perennial", "provincial", "Legislative", "first" ],
+  "nouns" : [ "candidate", "mayor", "politician", "member", "barrister", "publisher", "solicitor", "office", "floor", "Assembly" ],
+  "text" : "Omer St. Germain (13 September 1877 – 11 February 1949) was a barrister, solicitor, notary, publisher and a provincial politician from Canada. He served as the first mayor of Morinville, Alberta, and became a perennial candidate in Alberta elections hold office as a member of the Legislative Assembly of Alberta from 1930 to 1935 sitting with the United Farmers first and crossing the floor to the Liberals."
+}, {
+  "entityIndex" : "entity8566",
+  "entityUrl" : "http://dbpedia.org/resource/Oswald_Hawken",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:electorate" : [ "Egmont" ],
+    "dbp:end" : [ "1922", "1925", "1928" ],
+    "dbp:party" : [ "New Zealand Reform Party" ],
+    "dbp:term" : [ "20", "22", "21.0" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Egmont_(New_Zealand_electorate)" ],
+    "dbp:years" : [ "1919" ]
+  },
+  "words" : [ "New", "-LRB-", "defeated", "1919", "Jubilee", "general", "Party", "King", "George", "V", "1870", "electorate", "Oswald", "1957", "Member", "1935", "--", "election", "James", "minister", "Government", "awarded", ",", ".", "elected", "Silver", "Zealand", "Egmont", "-RRB-", "1928", "Reform", "1926", "Medal", "Hawken", "cabinet", "Parliament" ],
+  "adjectives" : [ "general" ],
+  "nouns" : [ "election", "minister", "electorate", "Medal", "cabinet" ],
+  "text" : "Oswald James Hawken (1870–1957) was a Reform Party Member of Parliament in New Zealand, and was a cabinet minister 1926–1928 in the Reform Government. He was elected to the Egmont electorate in the 1919 general election, but was defeated in 1928. In 1935, he was awarded the King George V Silver Jubilee Medal."
+}, {
+  "entityIndex" : "entity8567",
+  "entityUrl" : "http://dbpedia.org/resource/Oluf_Gjerset",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Farmer", "http://dbpedia.org/resource/Lawyer" ],
+    "dbo:orderInOffice" : [ "Minnesota Senate" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Lutheran" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Chippewa_County,_Minnesota" ],
+    "dbp:party" : [ "Non-Partisan" ],
+    "dbp:termEnd" : [ "1922" ],
+    "dbp:termStart" : [ "1915" ]
+  },
+  "words" : [ "--", "June", "-LRB-", "May", "American", "mayor", "29", "politician", "Minnesota", "Oluf", ",", "Norwegian-born", ".", "1", "Gjerset", "1941", "senate", "served", "-RRB-", "state", "1848", "Montevideo" ],
+  "adjectives" : [ "American", "Oluf", "Norwegian-born" ],
+  "nouns" : [ "Gjerset", "mayor", "senate", "politician", "state" ],
+  "text" : "Oluf Gjerset (1 June 1848 – 29 May 1941) was a Norwegian-born, American politician from Minnesota. He served as the mayor of Montevideo, Minnesota and in the Minnesota state senate."
+}, {
+  "entityIndex" : "entity8568",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Samuel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:align" : [ "right" ],
+    "dbp:electorate" : [ "New Plymouth" ],
+    "dbp:end" : [ "1887", "1890" ],
+    "dbp:nolist" : [ "true" ],
+    "dbp:party" : [ "Independent" ],
+    "dbp:term" : [ "9", "10" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/New_Plymouth_(New_Zealand_electorate)", "http://dbpedia.org/resource/Chairman_of_Committees_(New_Zealand_Legislative_Council)" ],
+    "dbp:years" : [ "1884", "1918" ]
+  },
+  "words" : [ "New", "-LRB-", "1855", "Samuel", "KC", "Helier", "represented", "retired", "Jersey", "electorate", "January", "Member", "19th-century", "--", "11", "Nelson", "Oliver", "Plymouth", "1890", ",", ".", "1865", "Zealand", "educated", "1863", "1884", "Born", "-RRB-", "College", "Region", "1849", "emigrated", "1925", "family", "Parliament", "Saint", "Taranaki" ],
+  "adjectives" : [ "19th-century" ],
+  "nouns" : [ "Region", "electorate", "family" ],
+  "text" : "Oliver Samuel KC (1849 – 11 January 1925) was a 19th-century Member of Parliament from the Taranaki Region of New Zealand. Born in Saint Helier, Jersey in 1849, Samuel emigrated to New Zealand with his family in 1855. He was educated at Nelson College from 1863 to 1865. He represented the New Plymouth electorate from 1884 to 1890, when he retired. On 22 January 1907, he was appointed to the Legislative Council. He was reappointed on 14 July 1914 and 14 July 1921. He remained a member until his death on 11 January 1925. From 19 November 1918 until his death, he was Chairman of Committees."
+}, {
+  "entityIndex" : "entity8569",
+  "entityUrl" : "http://dbpedia.org/resource/Olaf_C._Olsen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States" ]
+  },
+  "words" : [ "Milwaukee", "Law", "11th", "-LRB-", "student", "Olaf", "C.", "Socialist", "two", "County", "wards", "School", "terms", "Wisconsin", "Assembly", "24th", "law", "Marquette", "representing", "City", ".", "elected", "Olsen", "University", "State", "district", "-RRB-", "first", "1922" ],
+  "adjectives" : [ "24th", "11th", "first" ],
+  "nouns" : [ "law", "student", "district", "City" ],
+  "text" : "Olaf C. Olsen was a Socialist from Milwaukee. He was a law student at Marquette University Law School in 1922 when he was elected to the first of his two terms in the Wisconsin State Assembly representing the 11th Milwaukee County district (11th and 24th wards of the City of Milwaukee)."
+}, {
+  "entityIndex" : "entity8570",
+  "entityUrl" : "http://dbpedia.org/resource/Ossi_Sandvik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Demographics_of_Finland" ],
+    "dbo:office" : [ "Party Secretary ofTrue FinnsParty" ],
+    "dbo:orderInOffice" : [ "Member ofJalasjärviMunicipal Council" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/True_Finns" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Lutheranism" ],
+    "dbp:occupation" : [ "party secretary" ],
+    "dbp:termEnd" : [ "1996", "2013" ],
+    "dbp:termStart" : [ "1993", "2007", "2008" ],
+    "dbp:website" : [ "ossi.sandvik at perussuomalaiset.fi" ]
+  },
+  "words" : [ "Luopajärvi", "-LRB-", "Jalasjärvi", "rural", "municipality", "True", "parliament", "Mari", "1953", "2007", "worked", "secretary", "previously", "member", "parliamentary", "Sandvik", "different", "village", "prime", "minister", "16", "Kiviniemi", "born", "politician", "assistant", "South", "also", ",", "Vistbacka", "Raimo", "April", ".", "former", "Ostrobothnian", "served", "2013", "district", "-RRB-", "Finns", "party", "Ossi" ],
+  "adjectives" : [ "prime", "rural", "True", "parliamentary", "different", "former" ],
+  "nouns" : [ "secretary", "minister", "politician", "assistant", "district", "member", "municipality", "parliament", "village", "party" ],
+  "text" : "Ossi Sandvik (born April 16, 1953)is a True Finns politician, who served as the party secretary from 2007 to 2013. He previously worked as a parliamentary assistant for the member of the parliament Raimo Vistbacka and had also been the district secretary of the True Finns in the South Ostrobothnian district of the True Finns. Ossi Sandvik is from the same rural municipality as the former prime minister Mari Kiviniemi, Jalasjärvi, but from a different village. Ossi Sandvik is from Luopajärvi. Sandvik was elected as a member of the municipal council of Jalasjärvi in 2008 and got 101 votes. The previous time he was the member of the council was 1993-1996. Now the True Finns have five seats in the council."
+}, {
+  "entityIndex" : "entity8571",
+  "entityUrl" : "http://dbpedia.org/resource/Orange_Phelps",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Hanover_College", "http://dbpedia.org/resource/Northwestern_University" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/United_States" ],
+    "dbo:orderInOffice" : [ "Mayor of Hillsboro, Oregon" ],
+    "dbp:children" : [ "2" ],
+    "dbp:imagesize" : [ "130" ],
+    "dbp:preceded" : [ "Mason P. Cady" ],
+    "dbp:profession" : [ "Businessman" ],
+    "dbp:spouse" : [ "Ora Etta Whitmore" ],
+    "dbp:succeeded" : [ "John H. Garrett" ],
+    "dbp:term" : [ "--01-02" ]
+  },
+  "words" : [ "Oregon", "24", "-LRB-", "Portland", "American", "movie", "city", "county", "Orange", "December", "later", "native", "theater", "state", "near", "businessman", "moving", "drive-in", "1970s", "--", "attended", "business", "mayor", "settled", "politician", "colleges", "continued", "opened", "also", "California", ",", "played", "Phelps", ".", "August", "1886", "1985", "Midwest", "4", "Hillsboro", "council", "served", "-RRB-", "baseball", "first" ],
+  "adjectives" : [ "American", "first" ],
+  "nouns" : [ "movie", "business", "mayor", "city", "politician", "county", "native", "theater", "council", "baseball", "state", "businessman", "drive-in" ],
+  "text" : "Orange Phelps (December 24, 1886 – August 4, 1985) was an American businessman and politician in the state of Oregon. A native of California, he attended colleges in the Midwest where he played baseball before moving to Oregon. Phelps settled near Portland in Hillsboro where he opened the first movie theater and later served as a mayor of that city and on the city council. He continued in the movie business until the 1970s and also opened the first drive-in theater in the county."
+}, {
+  "entityIndex" : "entity8572",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Junkermann",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States" ]
+  },
+  "words" : [ "``", "Brown", "preamble", "-LRB-", "American", "Republican", "2011", "Nancy", "Nusbaum", "County", "candidate", "Democrat", "Robert", "lost", "recall", "member", "February", "businessman", "Wisconsin", "Assembly", "ran", "''", "margin", "Executive", "election", "wide", "Otto", "Democratic", "Cowles", "Senator", ",", "former", ".", "Sixth", "7", "1929", "-RRB-", "parts", "Junkermann", "fake", "Bay", "District", "Green", "primary" ],
+  "adjectives" : [ "American", "wide", "Democratic", "fake", "former" ],
+  "nouns" : [ "preamble", "candidate", "margin", "election", "recall", "member", "businessman", "primary" ],
+  "text" : "Otto Junkermann (February 7, 1929) is an American businessman from Green Bay, Wisconsin, and a former Republican member of the Wisconsin Assembly from the Sixth District (parts of Brown County). In 2011, he ran as a \"fake Democrat\" candidate in the Democratic primary against former Brown County Executive Nancy Nusbaum in the preamble to the recall election against Senator Robert Cowles. He lost by a wide margin."
+}, {
+  "entityIndex" : "entity8573",
+  "entityUrl" : "http://dbpedia.org/resource/O._K._Chinnaraj",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "Nadu", "Munnetra", "K.", "politician", ",", "elections", "Tamil", ".", "incumbent", "constituency", "2016", "member", "Indian", "Legislative", "cadre", "represented", "Chinnaraj", "Dravida", "Kazhagam", "Assembly", "Mettupalayam", "party", "O.", "Anna" ],
+  "adjectives" : [ "Indian", "Legislative", "incumbent" ],
+  "nouns" : [ "constituency", "politician", "member", "cadre", "Assembly", "party", "Mettupalayam" ],
+  "text" : "O. K. Chinnaraj is an Indian politician and incumbent member of the Tamil Nadu Legislative Assembly from the Mettupalayam constituency. As a cadre of Anna Dravida Munnetra Kazhagam party, he represented the same Mettupalayam constituency in 2016 elections."
+}, {
+  "entityIndex" : "entity8574",
+  "entityUrl" : "http://dbpedia.org/resource/O._S._Manian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartYear" : [ "1995" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Athirampattinam", "http://dbpedia.org/resource/Kathir_Mohaitheen_College" ],
+    "dbo:birthName" : [ "O.S. Manian" ],
+    "dbo:birthYear" : [ "1954" ],
+    "dbo:citizenship" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:education" : [ "http://dbpedia.org/resource/P.U.C." ],
+    "dbo:hometown" : [ "http://dbpedia.org/resource/Tamil_Nadu", "http://dbpedia.org/resource/Nagapattinam", "http://dbpedia.org/resource/Oradiyampulam" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Politician", "http://dbpedia.org/resource/O._S._Manian__1" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/All_India_Anna_Dravida_Munnetra_Kazhagam" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/India", "http://dbpedia.org/resource/Nagapattinam" ],
+    "dbo:stateOfOrigin" : [ "http://dbpedia.org/resource/India" ],
+    "dbp:children" : [ "2" ],
+    "dbp:parents" : [ "Mr. Somuthevar  & Mrs. Kasambuammal" ],
+    "dbp:spouse" : [ "Mrs. Kalaiselvi" ]
+  },
+  "words" : [ "Nadu", "Munnetra", "Vedaranyam", "-LRB-", "Previously", "political", "Handlooms", "15th", "incumbent", "Textiles", "Sabha", "member", "represented", "Constituency", "Dravida", "O.S.", "Assembly", "Minister", "Anna", "Government", "India.He", "Lok", "Tamil", ".", "India", "Manian", "constituency", "State", "-RRB-", "Legislative", "Kazhagam", "Mayiladuturai", "party" ],
+  "adjectives" : [ "Legislative", "political", "15th", "incumbent" ],
+  "nouns" : [ "constituency", "member", "Assembly", "party" ],
+  "text" : "O.S. Manian is a member of the 15th Lok Sabha of India.He is incumbent member of the Tamil Nadu Legislative Assembly from Vedaranyam (State Assembly Constituency).He is incumbent Minister for Handlooms and Textiles in Government of Tamil Nadu. He Previously represented the Mayiladuturai (Lok Sabha constituency) of Tamil Nadu and is a member of the All India Anna Dravida Munnetra Kazhagam political party."
+}, {
+  "entityIndex" : "entity8575",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Elwin_Wells",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States" ]
+  },
+  "words" : [ "Vermont", "-LRB-", "American", "moved", "back", "Elwin", "County", "educator", "principal", "du", "1853", "School", "public", "school", "graduate", "July", "lived", "Wisconsin", "Manawa", "--", "1858-1862", "went", "superintendent", "set", "Oliver", "Chicago", ",", "Normal", ".", "Lac", "help", "2", "Waupaca", "University", "schools", "Born", "-RRB-", "Lamartine", ";", "Wells", "Fond", "1922", "Appleton", "Wausau" ],
+  "adjectives" : [ "American", "public", "graduate", "Normal" ],
+  "nouns" : [ "principal", "superintendent", "school", "educator" ],
+  "text" : "Oliver Elwin Wells (July 2, 1853 – 1922) was an American educator. Born in Lamartine, Wisconsin, Wells lived in Vermont 1858-1862, but moved back to Fond du Lac County, Wisconsin; Wells went to University of Chicago, but did not graduate. He moved to Waupaca County, Wisconsin where he was principal of a school in Manawa, Wisconsin and then moved to Appleton, Wisconsin, where he was a superintendent of public schools. Then he moved to Wausau, Wisconsin, where he help set up the Wausau Normal School. He served as the Wisconsin Superintendent of Public Instruction 1891–1895."
+}, {
+  "entityIndex" : "entity8576",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_van_Rees__Netherlands-politician-stub__1",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/Netherlands" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity8577",
+  "entityUrl" : "http://dbpedia.org/resource/Otis_Norton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States" ]
+  },
+  "words" : [ "commercial", "Company", "Central", "three", "years", "15th", "1855", "President", "presidency", "1853", "bank", "later", "National", "1850", "Democrat", "Light", "1855-1858", "First", "grain", "businessman", "1858", "businesses", "--", "Janesville", "Rock", "Co.", "town", "Andrew", "&", "opened", "City", ",", ".", "Beloit", "Senate", "State", "W.", "served", "-RRB-", "Mutual", "Gas", "bondsman", ";", "District", "succeeded", "become", "Madison", "-LRB-", "Bank", "American", "city", "directors", "freight", "Otis", "appears", "forwarding", "County", "directory", "October", "member", "reported", "Wisconsin", "Railroad", "living", "Whig", "one", "Norton", "produce", "home", "Palmer", "listed", "Insurance", "Fire", "time", "1848", "Milton", "merchants", "board" ],
+  "adjectives" : [ "commercial", "American", "Whig", "Mutual", "15th" ],
+  "nouns" : [ "Company", "town", "city", "freight", "forwarding", "City", "directory", "home", "presidency", "bank", "Insurance", "Fire", "member", "bondsman", "time", "grain", "businessman", "board" ],
+  "text" : "Otis W. Norton was an American businessman from Rock County, Wisconsin who served for three years (1848–1850) as a Whig member of the Wisconsin State Senate from the 15th Senate District; his home town at that time is listed as Milton. He was succeeded in the Senate by Andrew Palmer, a Democrat. In 1853, he was listed as one of the directors of the Beloit and Madison Railroad and is reported to be living in Janesville. He was President of the Central Bank of Wisconsin in Janesville (later to become the First National Bank of Janesville) when it opened in October 1855, and served as a bondsman for the bank from 1855-1858 He appears in an 1858 Janesville city directory, with his presidency of the Central Bank and Norton & Co. (grain, produce and commercial merchants, and freight forwarding) listed as his businesses; he was on the board of directors of the Mutual Fire Insurance Company of the City of Janesville, and of the Janesville Gas Light Company."
+}, {
+  "entityIndex" : "entity8578",
+  "entityUrl" : "http://dbpedia.org/resource/Omer_Alphonse_Demers",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "-LRB-", "Victoriaville", "father", "moved", "settle", "March", "political", "Rose", "Debden", "Omer", "general", "Shellbrook", "mother", "son", "1893", "represented", "February", "1934", "Assembly", "1912", "Anna", "--", "area", "figure", "Liberal", "born", "Quebec", "one", "merchant", "Saskatchewan", ",", "families", "Alphonse", ".", "Dufresne", "Demers", "2", "educated", "8", "-RRB-", "Legislative", "Alfred", ";", "1969", "Ham-Nord", "first", "1944" ],
+  "adjectives" : [ "general", "political", "Legislative", "first" ],
+  "nouns" : [ "area", "mother", "figure", "son", "father", "merchant", "Assembly" ],
+  "text" : "Omer Alphonse Demers (March 2, 1893 – February 8, 1969) was a general merchant and political figure in Saskatchewan. He represented Shellbrook from 1934 to 1944 in the Legislative Assembly of Saskatchewan as a Liberal. He was born in Ham-Nord, Quebec, the son of Alfred Demers and Rose Anna Dufresne, and was educated in Victoriaville. In 1912, his father and mother moved to Debden, Saskatchewan; they were one of the first families to settle in the area. They convinced Omer and his brother Adelbert to move to Debden. The two brothers arrived with a boxcar full of supplies and, soon after arriving, built a store which included living quarters. In 1914, Omer married Lucienne Larose. With his business going well, he soon built a larger store and residence. Demers helped open the first school in the town in 1915 and helped establish a Catholic parish. He also served as postmaster from 1912 to 1919. In 1920, Demers became the first mayor of Debden. He sold the store after his wife developed tuberculosis. After she recovered, she opened a women's clothing store in Debden. Demers took up ranching and then muskrat ranching; both ventures were not successful. He was defeated by Albert Victor Sterling when he ran for reelection to the assembly in 1944. In 1945, Demers moved to British Columbia. He died in Esquimalt at the age of 75."
+}, {
+  "entityIndex" : "entity8579",
+  "entityUrl" : "http://dbpedia.org/resource/Oakland_Woods_Valleau",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "Provincial Secretary", "MLAforMelfort", "Minister of Social Welfare/" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party" ],
+    "dbo:predecessor" : [ "http://dbpedia.org/resource/John_Duncan_MacFarlane" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/John_George_Egnatoff" ],
+    "dbo:termPeriod" : [ "http://dbpedia.org/resource/Oakland_Woods_Valleau__1" ],
+    "dbp:spouse" : [ "Eliza Storey" ],
+    "dbp:termEnd" : [ "1948" ],
+    "dbp:termStart" : [ "1934", "1944" ],
+    "dbp:width" : [ "144" ]
+  },
+  "words" : [ "``", "political", "areas", "Oakland", "Moose", "1976", "son", "homestead", "later", "Commonwealth", "Federation", "1892", "represented", "1938", "Co-operative", "Assembly", "--", "took", "Kenaston", "Saskatchewan", ",", "William", "Range", ".", "Lennox", "6", "district", "Woods", "Oak", "-RRB-", "1948", "Ontario", "20", "Addington", "Aylsham", "-LRB-", "Melfort", "Rebecca", "March", "County", "farming", "member", "came", "1911", "''", "figure", "CCF", "born", "Valleau", "Hanley", "educated", "farmer", "Legislative" ],
+  "adjectives" : [ "political", "Legislative", "Co-operative" ],
+  "nouns" : [ "figure", "son", "homestead", "district", "member", "farmer", "Assembly" ],
+  "text" : "Oakland Woods \"Oak\" Valleau (March 20, 1892 – March 6, 1976) was a farmer and political figure in Saskatchewan. He represented Melfort from 1938 to 1948 in the Legislative Assembly of Saskatchewan as a Co-operative Commonwealth Federation (CCF) member. He was born in Lennox and Addington County, Ontario, the son of William Valleau and Rebecca Woods, and was educated there. He came to Saskatchewan in 1911 and took a homestead in the Moose Range district, later farming in the Hanley, Kenaston and Aylsham areas. In 1915, he married Eliza \"Minn\" Storey. Valleau served in the provincial cabinet as Minister of Social Welfare and as Provincial Secretary. He was a member of the Saskatchewan Power Commission and later served on the board of directors for the Saskatchewan Power Corporation. Valleau was defeated when he ran for reelection to the assembly in 1948. From 1948 to 1962, he was chairman of the Saskatchewan Workmen's Compensation Board. Valleau died in California while visiting his son. His son Delmar also served in the provincial assembly as an Active Service Voters' Representative."
+}, {
+  "entityIndex" : "entity8580",
+  "entityUrl" : "http://dbpedia.org/resource/Orest_Zerebko",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "Galician-born", "-LRB-", "Manitoba", "becoming", "September", "Canadian", "university", "Zerebko", "political", "Elias", "Arts", "Ukrainian", "son", "graduate", "came", "represented", "1938", "February", "1913", "Assembly", "--", "figure", "15", "Liberal", "born", "Austria-Hungary", "degree", "Redberry", "received", "Saskatchewan", ",", "Bachelor", "Orest", ".", "1943", "journalist", "1887", "descent", "Canada", "University", "person", "-RRB-", "Legislative", "Horodenka", "first", "21", "1900" ],
+  "adjectives" : [ "Galician-born", "Ukrainian", "Canadian", "political", "Legislative", "first" ],
+  "nouns" : [ "journalist", "descent", "figure", "son", "person", "university", "degree", "Bachelor", "Assembly" ],
+  "text" : "Orest Zerebko (September 15, 1887 – February 21, 1943) was a Galician-born journalist and political figure in Saskatchewan. He represented Redberry from 1938 to 1943 in the Legislative Assembly of Saskatchewan as a Liberal. He was born in Horodenka, Austria-Hungary, the son of Elias Zerebko, of Ukrainian descent, and came to Canada in 1900. In 1913, Zerebko received a Bachelor of Arts degree from the University of Manitoba, becoming the first person of Ukrainian descent to graduate from a Canadian university. He was a contributor and later editor-in-chief for the weekly Ukrainian newspaper Ukrainskyi Holos. He died in office at home in Blaine Lake at the age of 55."
+}, {
+  "entityIndex" : "entity8581",
+  "entityUrl" : "http://dbpedia.org/resource/Olaf_Turnbull",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "Swanson", "rural", "municipality", "political", "December", "son", "locally", "Commonwealth", "Federation", "represented", "near", "Co-operative", "Assembly", "--", "Economics", "Farmers", "15", "Harry", "going", "director", "'", "Saskatchewan", ",", ".", "BSc", "University", "Kindersley", "council", "served", "-RRB-", "Alexander", "-LRB-", "vice-president", "Olaf", "March", "Ingaborg", "educator", "Union", "Turnbull", "2004", "member", "1917", "30", "Gordon", "figure", "CCF", "born", "Agricultural", "also", "1964", "educated", "Elrose", "1960", "earn", "farmer", "Legislative" ],
+  "adjectives" : [ "rural", "political", "Legislative", "Co-operative" ],
+  "nouns" : [ "figure", "director", "vice-president", "municipality", "educator", "Elrose", "son", "BSc", "Kindersley", "council", "member", "farmer", "Assembly" ],
+  "text" : "Olaf Alexander Turnbull (December 30, 1917 – March 15, 2004) was a farmer, educator and political figure in Saskatchewan. He represented Elrose from 1960 to 1964 in the Legislative Assembly of Saskatchewan as a Co-operative Commonwealth Federation (CCF) member. He was born near Kindersley, Saskatchewan, the son of Harry Gordon Turnbull and Ingaborg Swanson, and was educated locally, going on to earn a BSc in Agricultural Economics from the University of Saskatchewan. Turnbull served on the council for the rural municipality of Kindersley and was also a director and vice-president for the Saskatchewan Farmers' Union. In 1945, he married Alice Turner. Turnbull was a candidate for the leadership of the Saskatchewan CCF in 1961. He was a member of the provincial cabinet, serving as Minister of Co-operation and Co-operative Development and as Minister of Education. Turnbull was defeated by George Leith when he ran for reelection to the Saskatchewan assembly in 1964. After retiring from politics, he briefly returned to farming and then was hired by the Western Co-operative College of Canada in Saskatoon. Turnbull was executive director for the college from 1972 to 1982. After retiring from the college, he worked overseas with the Canadian International Development Agency. Turnbull died in Saskatoon at the age of 86."
+}, {
+  "entityIndex" : "entity8582",
+  "entityUrl" : "http://dbpedia.org/resource/Ong_Kian_Ming",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2013-05-06" ],
+    "dbo:electionMajority" : [ "42206" ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Politician" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Action_Party" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Seri_Kembangan" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Christian" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Malaysia" ],
+    "dbp:honorificPrefix" : [ "http://dbpedia.org/resource/Malay_titles", "http://dbpedia.org/resource/Dr." ],
+    "dbp:honorificSuffix" : [ "http://dbpedia.org/resource/Member_of_Parliament" ],
+    "dbp:nativeNameLang" : [ "zh-my" ],
+    "dbp:p" : [ "Wáng Jiàn Mín" ],
+    "dbp:parliament" : [ "Malaysian" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Teo_Nie_Ching" ],
+    "dbp:s" : [ "王建民" ],
+    "dbp:spouse" : [ "Yeoh Ee Leng" ]
+  },
+  "words" : [ "Dr.", "Action", "Serdang", "-LRB-", "September", "turned", "Kian", "Ong", "Wáng", "political", "王", "Jiàn", "Ming", "1975", "academician", "Party", "Member", "Malaysian", "王建民", "12", "Strategist", "Democratic", "born", "politician", "also", ",", "Election", ".", "Mín", "DAP", "pinyin", "currently", "name", "-RRB-", "Chinese", "analyst", ":", ";", "family", "Parliament" ],
+  "adjectives" : [ "Democratic", "Chinese", "political", "Malaysian" ],
+  "nouns" : [ "academician", "DAP", "pinyin", "politician", "name", "analyst", "family" ],
+  "text" : "(This is a Chinese name; the family name is Ong (王).) Dr. Ong Kian Ming (Chinese: 王建民; pinyin: Wáng Jiàn Mín; born 12 September 1975), is a Malaysian Chinese politician from the Democratic Action Party (DAP). He is currently the Member of Parliament for Serdang. He is also an academician, political analyst before he turned Election Strategist for the DAP. Ong was formerly a prominent political analyst in the Malaysian political scene. His articles were widely published in popular news portals such as Malaysiakini, Malaysian Insider, The Edge. Prior to that he was a lecturer in Faculty of Economics and Policy Science, UCSI University, also a regional consultant for the Blue Ocean Strategy regional center. His experience includes being a policy analyst for Socio Economics Development and Research Institute (SEDAR) and Institute of Strategic Analysis and Policy Research (INSAP). In addition, he was also associate consultant for the Boston Consulting Group Kuala Lumpur."
+}, {
+  "entityIndex" : "entity8583",
+  "entityUrl" : "http://dbpedia.org/resource/Olivia_Wigzell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "Stockholm County Councilor", "Municipal commissionerandVice MayorofStockholm Municipality", "Director-generalof theSwedish Agency for Health Technology Assessment and Assessment of Social Services" ],
+    "dbo:orderInOffice" : [ "Director-generalofthe Swedish National Board of Health and Welfare" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Swedish_Social_Democratic_Party" ],
+    "dbp:spouse" : [ "Niclas Jacobson" ],
+    "dbp:termEnd" : [ "1998", "2000", "2015" ],
+    "dbp:termStart" : [ "1994", "1998", "2014", "2015" ]
+  },
+  "words" : [ "-LRB-", "director-general", "affiliated", "official", "political", "County", "Council", "Selma", "Swedish", "1998", "Board", "Party", "National", "1994", "Welfare", "today", "Since", "represented", "January", "Vice", "11", "Social", "Municipality", "Health", "mayor", "tunures", "Democratic", "born", "politician", "Commissioner", "2000", ",", "former", ".", "Stockholm", "Wigzell", "Municipal", "Olivia", "1964", "2015", "served", "-RRB-", "Councilor", "Jacobson", "party" ],
+  "adjectives" : [ "political", "former", "Swedish", "Municipal" ],
+  "nouns" : [ "mayor", "director-general", "politician", "today", "official", "party" ],
+  "text" : "Selma Olivia Jacobson Wigzell (born 11 January 1964) is a Swedish official and former politician. Since 2015 she is director-general of the Swedish National Board of Health and Welfare. She served as County Council Councilor of Stockholm County between 1994 and 1998, and Municipal Commissioner and Vice mayor of Stockholm Municipality between 1998 and 2000. During both tunures she represented the Swedish Social Democratic Party, but today she is not affiliated with any political party. After leaving politics Olivia has worked at the Swedish Association of Health Professionals and as secretary in Ansvarskommittén. In April 2007 Olivia was employed by the National Board of Health and Welfare, which she left in 2008 for the job as head of the Division for Public Health and Health Care, at the Ministry of Health and Social Affairs. In 2014 she took the office as director-general of the Swedish Agency for Health Technology Assessment and Assessment of Social Services. She maintained the office until the following year when she was appointed director-general of the Swedish National Board of Health and Welfare. In 2016 she was named the 4th most influential person in Swedish health policy. During the three year term between 2015 and 2018 she will serve as Swedens representative in the executive board of the World Health Organization."
+}, {
+  "entityIndex" : "entity8584",
+  "entityUrl" : "http://dbpedia.org/resource/Othman_Aziz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "Member of theKedah State Legislative Assemblyfor Ayer Hitam" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/United_Malays_National_Organisation" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Kedah", "http://dbpedia.org/resource/Jerlun" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Sunni_Islam" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Abdul_Ghani_Ahmad" ],
+    "dbp:birthName" : [ "Othman bin Aziz" ],
+    "dbp:citizenship" : [ "http://dbpedia.org/resource/Malaysian_people" ],
+    "dbp:honorificPrefix" : [ "http://dbpedia.org/resource/Malay_titles" ],
+    "dbp:honorificSuffix" : [ "http://dbpedia.org/resource/Member_of_Parliament" ],
+    "dbp:occupation" : [ "Politician" ],
+    "dbp:parliament" : [ "Malaysian" ],
+    "dbp:predecessor" : [ "Abdul Ghani Ahmad", "Mukhriz Mahathir" ],
+    "dbp:termEnd" : [ "2008" ],
+    "dbp:termStart" : [ "2004", "2013" ]
+  },
+  "words" : [ "Kedah", "Action", "-LRB-", "May", "bin", "Malaysia", "Council", "Tourism", "2008", "previously", "Aziz", "Othman", "2004", "member", "Malay", "term", "1959", "Malaysian", "Assembly", "--", "given", "15", "Jerlun", "'", "born", "politician", "one", "chairman", ",", ".", "seat", "elected", "patronymic", "person", "State", "2013", "served", "name", "-RRB-", "Dato", "Legislative", ";", "family", "Parliament", "referred" ],
+  "adjectives" : [ "patronymic", "Legislative", "Malay", "Malaysian" ],
+  "nouns" : [ "seat", "person", "politician", "name", "member", "term", "chairman", "family", "Assembly" ],
+  "text" : "(This is a Malay name; the name Aziz is a patronymic, not a family name, and the person should be referred to by the given name, Othman.) Dato' Othman bin Aziz (born 15 May 1959) is a Malaysian politician. He is the member of the Parliament of Malaysia for the seat of Jerlun, Kedah, having been elected in 2013. He previously served one term in the Kedah State Legislative Assembly (2004–2008) and was the chairman of the Kedah Tourism Action Council. He is a member of the United Malays National Organisation (UMNO) in the ruling Barisan Nasional coalition. Othman was born in Alor Setar, Kedah. He received his primary education at the Sekolah Kebangsaan Ayer Hitam, Kedah. He continued his secondary education in Kolej Sultan Abdul Hamid and later went to University Technology MARA to study a Diploma in Business Administration. After completing his diploma he went to the National University of Malaysia and graduated with Bachelor of Marketing Studies. He subsequently held a number of positions in corporate enterprises. In the 2004 general election, Othman was elected to the state assembly of Kedah, defeating the incumbent Pan-Malaysian Islamic Party (PAS) assemblyman Abdul Ghani Ahmad by 860 votes in the seat of Ayer Hitam. In 2005 he was appointed to the Executive Council of the Kedah state government by the incoming Chief Minister Mahdzir Khalid. During this time he also managed the Kedah Football Association. He was a casualty of the Barisan Nasional state government's defeat in the 2008 election, as he lost his seat by 506 votes to his predecessor, Abdul Ghani. In the 2013 election, Othman ran for the UMNO-held federal seat of Jerlun. Jerlun was being vacated by Mukhriz Mahathir, who was seeking to move to state politics to become Kedah's Chief Minister. Othman defeated PAS's Ismail Salleh by 3,270 votes, winning election to the federal parliament."
+}, {
+  "entityIndex" : "entity8585",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Hoyt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "Member of theConnecticut Senate", "from the12th District" ],
+    "dbo:orderInOffice" : [ "of the", "Connecticut Senate", "President Pro Tempore" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Republican_Party_(United_States)" ],
+    "dbo:restingPlace" : [ "http://dbpedia.org/resource/Connecticut", "http://dbpedia.org/resource/Stamford,_Connecticut" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Edwin_L._Scofield", "http://dbpedia.org/resource/Gilbert_W._Phillips" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Edwin_L._Scofield", "http://dbpedia.org/resource/Gilbert_W._Phillips" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Frederick_Bruggerhof", "http://dbpedia.org/resource/Ephraim_H._Hyde" ],
+    "dbp:children" : [ "Edward Clark Hoyt, Alice Maria Hoyt, Theodore Rushmore Hoyt, Nellie Elinor Hoyt, George S. Hoyt, Schuyler Colfax Hoyt, Walter S. Hoyt" ],
+    "dbp:occupation" : [ "leather merchant and financier" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Frederick_Bruggerhof", "http://dbpedia.org/resource/Ephraim_H._Hyde" ],
+    "dbp:religion" : [ "Methodist Episcopal" ],
+    "dbp:spouse" : [ "Maria Hoyt" ],
+    "dbp:termEnd" : [ "1879", "1881" ],
+    "dbp:termStart" : [ "1877" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Connecticut_Senate", "Member of the", "from the 12th District", "President Pro Tempore of the" ],
+    "dbp:years" : [ "1877" ]
+  },
+  "words" : [ "New", "24", "-LRB-", "May", "York", "Pro", "1877", "President", "firm", "son", "member", "July", "Corse", "Blachley", "1879", "Mary", "Hoyt", "--", "Stamford", "Weed", "Oliver", "&", "born", "City", ",", "William", ".", "1844", "1887", "Senate", "5", "Connecticut", "1881", "Tempore", "Joseph", "W.", "-RRB-", "formed", "brother", "1823", "O." ],
+  "adjectives" : [ ],
+  "nouns" : [ "firm", "son", "member", "brother" ],
+  "text" : "Oliver Corse Hoyt (July 24, 1823 – May 5, 1887) was a member of the Connecticut Senate from 1877 to 1881. He was President Pro Tempore of the Connecticut Senate from 1877 to 1879. He was born in Stamford, Connecticut on July 24, 1823, the son of Joseph Blachley Hoyt and Mary Blachley Weed Hoyt. In 1844, Oliver and his brother William formed the firm W. & O. Hoyt in New York City. He was a presidential elector in 1872, he cast his vote for Ulysses S. Grant. Hoyt was a trustee of a fund of $250,000. that had was raised by private subscription in 1881 for the benefit of Grant and his family, to insure the General an income for the remainder of his life. He served as Chairman of Wesleyan College. He was a nominee for Governor of Connecticut. Oliver Hoyt died at his home in Stamford in 1887."
+}, {
+  "entityIndex" : "entity8586",
+  "entityUrl" : "http://dbpedia.org/resource/Ole_Ramsland",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1907-01-07" ],
+    "dbo:activeYearsStartDate" : [ "1905-01-03" ],
+    "dbo:orderInOffice" : [ "Member of theMinnesota House of Representativesfor District 22" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Minnesota_Democratic_Party" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Minnesota", "http://dbpedia.org/resource/Sacred_Heart,_Minnesota" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/John_Alton_Dalzell" ],
+    "dbp:occupation" : [ "merchant" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Andrew_H._Anderson" ]
+  },
+  "words" : [ "22", "Heart", "-LRB-", "Ramsland", "American", "Ole", "Representatives", "local", "general", "October", "1853", "Democrat", "school", "represented", "Sacred", "village", "resident", "16", "politician", "Minnesota", "House", "also", "store", ",", "-", ".", "owned", "council", "served", "-RRB-", "1907", "1905", "District", "board", "?" ],
+  "adjectives" : [ "general", "American", "Ole", "Sacred", "local" ],
+  "nouns" : [ "Ramsland", "school", "council", "politician", "store", "village", "board", "resident" ],
+  "text" : "Ole Ramsland (October 16, 1853 - ?) was an American politician, who served in the Minnesota House of Representatives from 1905 to 1907. A Democrat, he represented District 22. A resident of Sacred Heart, where he owned a general store, Ramsland also served on the local school board and the village council. His son Magnus married Sarah McEwen, the daughter of Minnesota state representative Charles D. McEwen, in 1906. The couple later moved to the Canadian province of Saskatchewan, where they were among the founding settlers of the village of Buchanan and both later served in the Legislative Assembly of Saskatchewan."
+}, {
+  "entityIndex" : "entity8587",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Gregory",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:title" : [ "Member for Westmorland" ],
+    "dbp:years" : [ "1959" ]
+  },
+  "words" : [ "June", "-LRB-", "independent", "28", "Gregory", "retirement", "Council", "Launceston", "member", "1917", "1959", "January", "--", "Oliver", "16", "Harold", "politician", "born", "2001", ".", "Westmorland", "elected", "1985", "Australian", "served", "-RRB-", "Legislative", "Tasmanian" ],
+  "adjectives" : [ "independent", "Australian", "Legislative" ],
+  "nouns" : [ "politician", "member", "retirement" ],
+  "text" : "Oliver Harold Gregory (28 January 1917 – 16 June 2001) was an Australian politician. He was born in Launceston. In 1959 he was elected to the Tasmanian Legislative Council as the independent member for Westmorland. He served until his retirement in 1985."
+}, {
+  "entityIndex" : "entity8588",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Ernesto_Branch",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Hamilton_College_(New_York)", "http://dbpedia.org/resource/Columbia_Law_School" ],
+    "dbo:appointer" : [ "http://dbpedia.org/resource/Grover_Cleveland" ],
+    "dbo:child" : [ "http://dbpedia.org/resource/Oliver_W._Branch" ],
+    "dbo:office" : [ "Member of the", "New Hampshire House of Representatives", "Moderator of the", "Town Meeting", "Weare, New Hampshire" ],
+    "dbo:orderInOffice" : [ "for the District of New Hampshire", "26thUnited States Attorney" ],
+    "dbp:honorificPrefix" : [ "Hon." ],
+    "dbp:termEnd" : [ "1892" ],
+    "dbp:termStart" : [ "1888" ],
+    "dbp:title" : [ "26", "for the District of New Hampshire", "Member of the New Hampshire House of Representatives" ],
+    "dbp:years" : [ "1888", "1894" ]
+  },
+  "words" : [ "22", "June", "New", "-LRB-", "American", "United", "Representatives", "States", "Branch", "Hampshire", "1916", "July", "lawyer", "Weare", "--", "Oliver", "politician", "19", "House", ",", ".", "served", "-RRB-", "1847", "Attorney", "District", "Ernesto" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "politician", "lawyer" ],
+  "text" : "Oliver Ernesto Branch (July 19, 1847 – June 22, 1916) was an American lawyer and politician from Weare, New Hampshire, who served in the New Hampshire House of Representatives and as the United States Attorney for the District of New Hampshire."
+}, {
+  "entityIndex" : "entity8589",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_R._Olson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States" ]
+  },
+  "words" : [ "23", "24", "-LRB-", "March", ",", "-", ".", "Senate", "State", "-RRB-", "member", "Olson", "R.", "1869", "1945", "Wisconsin", "Oscar", "November" ],
+  "adjectives" : [ ],
+  "nouns" : [ "member" ],
+  "text" : "Oscar R. Olson (March 24, 1869 - November 23, 1945) was a member of the Wisconsin State Senate."
+}, {
+  "entityIndex" : "entity8590",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_A._Vogel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States" ]
+  },
+  "words" : [ "Otto", "State", "member", "Vogel", "A.", "Wisconsin", "Assembly", "." ],
+  "adjectives" : [ ],
+  "nouns" : [ "member" ],
+  "text" : "Otto A. Vogel was a member of the Wisconsin State Assembly."
+}, {
+  "entityIndex" : "entity8591",
+  "entityUrl" : "http://dbpedia.org/resource/Omkar_Shah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ]
+  },
+  "words" : [ "Gariaband", "-LRB-", "Village", "Raipur", "Post", "politician", "2003-2008", ",", "resides", "-", ".", "Chhattisgarh", "Omkar", "constituency", "Bindranawagarh", "district", "member", "-RRB-", "Indian", "Legislative", "Shah", "52", "Assembly", "Chhura" ],
+  "adjectives" : [ "Indian", "Legislative" ],
+  "nouns" : [ "constituency", "politician", "district", "member", "Assembly" ],
+  "text" : "Omkar Shah is an Indian politician who was the member of Chhattisgarh Legislative Assembly from Bindranawagarh Assembly constituency (no 52) then Raipur district, (now Gariaband district), during 2003-2008. He resides at Village and Post - Chhura in Gariaband district."
+}, {
+  "entityIndex" : "entity8592",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Laverrenz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States" ]
+  },
+  "words" : [ "Milwaukee", "-LRB-", "Otto", "Berlin", "born", "book", "1880", "Republican", "Prussia", "box", ",", ".", "manufacturer", "1844", "elected", "2", "paper", "State", "-RRB-", "Laverrenz", "binder", "January", "Wisconsin", "Assembly" ],
+  "adjectives" : [ ],
+  "nouns" : [ "paper", "book", "box", "binder", "manufacturer" ],
+  "text" : "Otto Laverrenz (born January 2, 1844 in Berlin, Prussia) was elected to the Wisconsin State Assembly in 1880. He was a Republican. From Milwaukee, Wisconsin, Laverrenz was a paper box manufacturer and a book binder."
+}, {
+  "entityIndex" : "entity8593",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_L._Clark",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "15th", "President of the Board of Trustees of Chico, California" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/California", "http://dbpedia.org/resource/Chico,_California" ],
+    "dbo:restingPlace" : [ "http://dbpedia.org/resource/California", "http://dbpedia.org/resource/Chico,_California" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/William_Robbie" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/William_Robbie" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/J._Ellis_Rodley" ],
+    "dbp:birthDate" : [ "February 1836" ],
+    "dbp:birthName" : [ "Oliver Lovell Clark" ],
+    "dbp:children" : [ "Ellen Clark, Charles Clark, Alice J. Clark Tetreau" ],
+    "dbp:occupation" : [ "Farmer, mayor" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/J._Ellis_Rodley" ],
+    "dbp:spouse" : [ "Sarah E. Clark" ],
+    "dbp:termEnd" : [ "1907" ],
+    "dbp:termStart" : [ "1899" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/List_of_mayors_of_Chico,_California" ],
+    "dbp:years" : [ "1899" ]
+  },
+  "words" : [ "Vermont", "Trustees", "-LRB-", "May", "directors", "C.", "body", "1899", "delegate", "Lovell", "President", "Chico", "Clark", "Board", "son", "Exclusion", "member", "February", "1836", "fifteenth", "Mary", "--", "Upper", "12", "Sacramento", "Oliver", "1908", "born", "Agricultural", "California", ",", ".", "Willam", "governing", "Convention", "1882", "-RRB-", "1907", "Chinese", "Society", "board", "1901" ],
+  "adjectives" : [ "fifteenth" ],
+  "nouns" : [ "delegate", "President", "son", "member", "body", "board" ],
+  "text" : "Oliver Lovell Clark (February 1836 – May 12, 1908) was the fifteenth President of the Chico Board of Trustees, the governing body of Chico, California from 1899 to 1907. He was born in Vermont, the son of Willam C. and Mary Clark. In 1882, he was a member of the board of directors of the Upper Sacramento Agricultural Society. In 1901, he was a delegate to the California Chinese Exclusion Convention. In 1902, he was a delegate to the League of Municipalities of California."
+}, {
+  "entityIndex" : "entity8594",
+  "entityUrl" : "http://dbpedia.org/resource/Osman_Mohammud_Dufle",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "Minister of Health of Somalia" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Islam" ],
+    "dbp:imagesize" : [ "180" ],
+    "dbp:termEnd" : [ "2004" ],
+    "dbp:termStart" : [ "2000" ]
+  },
+  "words" : [ "Transitional", "Maxamed", "country", "-LRB-", "Somalia", "founders", "Committee", "professional", "Arabic", "previously", "National", "Osman", "physician", "Additionally", "Cismaan", "Hospital", "Minister", "عثمان", "محمود", "Health", "Government", "politician", "one", "also", ",", "Joint", "Mogadishu", ".", "volunteer", "ضوفلآ", "doctors", "served", "organization", "-RRB-", "Mohammud", "Dufle", ":", "Medical", "Somali", "Keysaney" ],
+  "adjectives" : [ "Somali", "professional" ],
+  "nouns" : [ "country", "volunteer", "ضوفلآ", "politician", "organization", "physician" ],
+  "text" : "Osman Mohammud Dufle (Somali: Cismaan Maxamed Dufle, Arabic: عثمان محمود ضوفلآ‎‎) is a Somali physician and politician. He previously served as a Minister of Health in the Transitional National Government of Somalia. Dufle was also one of the founders of the Joint Medical Committee, a professional organization for doctors in the country. Additionally, he served as a volunteer at the Keysaney Hospital in Mogadishu. In June 2014, he was nominated for a Noble Prize in recognition of his humanitarian work."
+}, {
+  "entityIndex" : "entity8595",
+  "entityUrl" : "http://dbpedia.org/resource/Oleksiy_Ryabchyn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2014-11-27" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Donetsk_National_University" ],
+    "dbo:orderInOffice" : [ "People's Deputy of Ukraine" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/All-Ukrainian_Union_%22Fatherland%22" ],
+    "dbp:nationality" : [ "Ukrainian" ]
+  },
+  "words" : [ "Policy", "friendship", "energysaving", "United", "Ryabchyn", "Ukrainian", "Олексій", "group", "Alex", "Verkhovna", "Donetsk", "inter", "Rada", "Britain", ",", "list", "April", ".", "elected", "subcommittee", "1983", "Nuclear", "-RRB-", "Oleksiy", ":", "region", "party", "22", "Batkivshchyna", "Heading", "-LRB-", "Рябчин", "Co-chairing", "Committee", "Complex", "October", "Energy", "Ireland", "Northern", "Mykhailovych", "parliamentary", "Safety", "born", "politician", "Great", "Михайлович", "Kingdom", "2014", "Fuel", "energyefficiency" ],
+  "adjectives" : [ "Ukrainian", "Nuclear", "parliamentary" ],
+  "nouns" : [ "Policy", "friendship", "politician", "inter", "list", "Complex", "subcommittee", "Energy", "Fuel", "energyefficiency", "Safety", "region", "party", "group" ],
+  "text" : "Oleksiy (Alex) Mykhailovych Ryabchyn (Ukrainian: Олексій Михайлович Рябчин, born 22 April 1983) is a Ukrainian politician from Donetsk region. In October 2014, he was elected to the Verkhovna Rada on the party list of Batkivshchyna. Heading the subcommittee on energysaving and energyefficiency of the Committee on Fuel and Energy Complex, Nuclear Policy and Nuclear Safety. Co-chairing the inter parliamentary friendship group with The United Kingdom of Great Britain and Northern Ireland. Co-charing the inter fractional caucus \"The Eurooptimists\" which unites the civil society activists, journalists and educated professionals to the Ukrainian Parliament . Ryabchyn has a MSc with Distinction in Innovation and Sustainability for International Development from the SPRU University of Sussex and has worked as an assistant professor at Donetsk National University. He relocated from Donetsk to Kyiv in May 2014 as a result of the war in Donbass. His mother is Russian origin. Education: 2012 – 2013 SPRU – Science and Technology Policy Research, University of Sussex, UKMSc with Distinction in Innovation and Sustainability for International Development. 2000 – 2010 Donetsk National University, UkrainePhD in International Economics. MA (Hons), BA (Hons) in International Economics Professional Experience: 2005 - present, Assistant Professor, Research Fellow at Donetsk National University, Ukraine.Scientific interest - innovative development, economic crises, green economy and energy aspects of globalization, Ukrainian unconventional energy sources. 2014 - Ukraine Reforms Communications Taskforce, International communications strategy manager, Kyiv.Establishing the communications helping to developing and disseminating all kinds of reforms-focused information products needed to build public awareness, understanding and support for reforms. 2014 - Washington Post, Fixer, Freelancer. . Contributed to more than 50 articles  covering the events in Ukraine during the conflict at the Donbas. 2006 - 2012, Deputy chairman at PromEconomService Corporation, Ukraine. Was responsible for strategy and introduction of innovative industrial energy-saving and nature- conservative technologies at municipal and industrial enterprises. 2002 - 2004, Volunteer, Project manager at NGO - Regional Development Agency \"Donbas\", Ukraine. Was responsible for the implementation of economic restructuration program of depressed cities in Donbas."
+}, {
+  "entityIndex" : "entity8596",
+  "entityUrl" : "http://dbpedia.org/resource/Oleksiy_Skrypnyk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2014-11-27" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Lviv_Polytechnic" ],
+    "dbo:orderInOffice" : [ "People's Deputy of Ukraine" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Self_Reliance_(political_party)" ],
+    "dbp:nativeName" : [ "Олексій Скрипник" ],
+    "dbp:nativeNameLang" : [ "uk" ]
+  },
+  "words" : [ "Formerly", "-LRB-", "Олексійович", "March", "ELEKS", "Скрипник", "Self", "Appearing", "Ukrainian", "parliamentary", "Олексій", "November", "election", "Verkhovna", "born", "politician", "Reliance", "Rada", ",", "list", "CEO", "Skrypnyk", ".", "elected", "1964", "Oleksiyovych", "Lviv", "third", "2014", "8", "-RRB-", "Oleksiy", ":", "resigning", "party" ],
+  "adjectives" : [ "Ukrainian", "third", "parliamentary" ],
+  "nouns" : [ "election", "politician", "Self", "list", "party" ],
+  "text" : "Oleksiy Oleksiyovych Skrypnyk (Ukrainian: Олексій Олексійович Скрипник, born 8 March 1964 in Lviv) is a Ukrainian politician. Appearing third on the party list of Self Reliance, he was elected to the Verkhovna Rada in the 2014 Ukrainian parliamentary election. Formerly, he was the CEO of ELEKS, resigning in November 2014."
+} ]

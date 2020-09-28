@@ -1,16 +1,5 @@
 [ {
-  "entityIndex" : "1_entity13530",
-  "entityUrl" : "http://dbpedia.org/resource/Nova_Peris",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:updated" : [ "2013-01-22" ]
-  },
-  "words" : [ "``", "named", "incumbent", "later", "1971", "Commonwealth", "pick", "indigenous", "Aboriginal", "Minister", "went", "athlete", "2000", "'s", ",", "Olympic", "former", ".", "elected", "senator", "sprinting", "Senate", "Maree", "Games", "-RRB-", "switched", "OAM", "Gillard", "women", "-LRB-", "25", "Prime", "part", "captain", "installing", "Labor", "gold", "1998", "1996", "candidate", "medal", "federal", "Crossin", "February", "win", "''", "hockey", "election", "sports", "born", "politician", "Nova", "team", "Julia", "Peris", "Trish", "Australian", "preselected", "2013", "first", "Hockeyroos" ],
-  "adjectives" : [ "indigenous", "Australian", "preselected", "federal", "Olympic", "former", "first", "incumbent" ],
-  "nouns" : [ "hockey", "election", "athlete", "politician", "part", "team", "captain", "Labor", "gold", "senator", "candidate", "pick", "medal" ],
-  "text" : "Nova Maree Peris OAM (born 25 February 1971) is an indigenous Australian athlete and former politician. As part of the Australian women's hockey (Hockeyroos) team at the 1996 Olympic Games, she was the first Aboriginal Australian to win an Olympic gold medal. She later switched sports to sprinting and went to the 1998 Commonwealth Games and 2000 Olympic Games. She was elected to the Australian Senate at the 2013 federal election, after then Prime Minister Julia Gillard named her as a \"captain's pick\", installing her as the preselected Labor candidate over incumbent Labor senator Trish Crossin. She retired from the Senate in 2016."
-}, {
-  "entityIndex" : "2_entity14324",
+  "entityIndex" : "1_entity8694",
   "entityUrl" : "http://dbpedia.org/resource/Paul_Gibson_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {

@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity13720",
+  "entityIndex" : "1_entity8364",
   "entityUrl" : "http://dbpedia.org/resource/N._H._Gouda",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "state", "time", "M.L.A", "Assembly", "party" ],
   "text" : "Narayan Holiyappa Gouda (1938–1992) was a M.L.A to the Karnataka state Legislative Assembly, Bangalore from 1985-1989; He was elected from the Janata Dal. That time Ramakrishna Hegde from the Janata party was the Chief Minister of Karnataka."
 }, {
-  "entityIndex" : "2_entity2053",
+  "entityIndex" : "2_entity1168",
   "entityUrl" : "http://dbpedia.org/resource/B._V._Naik",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "nickname", "house" ],
   "text" : "Balakrishna Venkanna Naik M.P. (1929–2008) was known to the people of Karnataka by his nickname, Balasaheb. He was elected from the Karwar District Constituency (Uttar Kannada) in 1971 to Loka Sabha (the lower house), of the Parliament of India."
 }, {
-  "entityIndex" : "3_entity3951",
+  "entityIndex" : "3_entity2400",
   "entityUrl" : "http://dbpedia.org/resource/Dayanand_S._Nadkarni",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "activist", "candidate", "freedom", "founder", "assembly", "member", "fighter", "state" ],
   "text" : "Dayanand Sarveshwar Nadkarni (1910–2000) was an activist, a freedom fighter, and a Member of the legislative assembly to the Karnataka State, Bangalore during 1967-1971 (from Ankola Constituency as a Praja Socialist Party candidate), when Veerendra Patil was the Chief Minister of the Karnataka state. Nadkarni was also the founder member of The Kanara Welfare Trust."
 }, {
-  "entityIndex" : "4_entity17300",
+  "entityIndex" : "4_entity10659",
   "entityUrl" : "http://dbpedia.org/resource/Shivanand_Naik",
   "dboClass" : "dbo:Politician",
   "properties" : {

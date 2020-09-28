@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity18405",
+  "entityIndex" : "1_entity11364",
   "entityUrl" : "http://dbpedia.org/resource/V._R._Karuppasamy_Pandian",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "candidate", "secretary", "election", "constituency", "politician", "district", "assembly", "Assembly" ],
   "text" : "V. Karuppasamy Pandian is an Indian politician and a former Member of the Legislative Assembly in Tamil Nadu. He is currently DMK's Tirunelveli district secretary. He was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Alangulam constituency in 1977 election He was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Palayamkottai constituency in 1980 election He was elected to the Tamil Nadu legislative assembly as an Dravida Munnetra Kazhagam candidate from Tenkasi constituency in 2006 election"
 }, {
-  "entityIndex" : "2_entity7232",
+  "entityIndex" : "2_entity4415",
   "entityUrl" : "http://dbpedia.org/resource/Heera_Saraniya",
   "dboClass" : "dbo:Politician",
   "properties" : {

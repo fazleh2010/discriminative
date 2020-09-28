@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity3120",
+  "entityIndex" : "1_entity1836",
   "entityUrl" : "http://dbpedia.org/resource/Chandranath_Singha",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "MLA", "election", "constituency", "Government", "politician", "assembly", "state" ],
   "text" : "Chandranath Singha is an Indian politician and the present Minister for fisheries in the Government of West Bengal. He is also an MLA, elected from the Bolpur constituency in the West Bengal state assembly election, 2011."
 }, {
-  "entityIndex" : "2_entity15837",
+  "entityIndex" : "2_entity9673",
   "entityUrl" : "http://dbpedia.org/resource/Rabiranjan_Chattopadhyay",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "MLA", "election", "constituency", "Government", "politician", "assembly", "state" ],
   "text" : "Rabiranjan Chattopadhyay is an Indian politician and the present Minister for the departments of Technical Education and Training,Science and Technology and Biotechnology in the Government of West Bengal. He is also an MLA, elected from the Bardhaman Dakshin constituency in the West Bengal state assembly election, 2011."
 }, {
-  "entityIndex" : "3_entity15838",
+  "entityIndex" : "3_entity9674",
   "entityUrl" : "http://dbpedia.org/resource/Rachhpal_Singh",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "MLA", "election", "constituency", "Government", "politician", "assembly", "state" ],
   "text" : "Rachhpal Singh is an Indian politician and the present Minister for Planning in the Government of West Bengal. He is also an MLA, elected from the Tarakeswar constituency in the West Bengal state assembly election, 2011."
 }, {
-  "entityIndex" : "4_entity7356",
+  "entityIndex" : "4_entity4506",
   "entityUrl" : "http://dbpedia.org/resource/Haider_Aziz_Safwi",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,7 +43,7 @@
   "nouns" : [ "MLA", "administration", "officer", "emergency", "I.P.S", "office", "general", "integrity", "government", "honesty", "assembly", "fire", "term", "state", "Assembly", "cooperation", "fairness", "election", "minister", "director", "politician", "transport", "water", "police", "constituency" ],
   "text" : "Haider Aziz Safwi is an Indian politician and the present Deputy Speaker of the West Bengal Legislative Assembly. He was also a minister in the TMC government's first term in office and held posts like minister for cooperation and inland water transport and minister for correctional administration. he served as director general of police(fire and emergency services),government of West Bengal.he retired in 2005  He is also an MLA, elected from the Uluberia Purba constituency in the West Bengal state assembly election, 2011.As an I.P.S officer, Safwi was respected for his honesty,integrity and fairness. He held important positions like d.g.fire and emergency services,d.g enforcement branch,sp 24parganas(undivided),deputy commissioner detective department(kolkata police) among others. He is a recipient of the presidents police medal for distinguished service and the police medal for meritorious service.Safwi was inspired by Mamata Banerjee's honesty and the service she had rendered to the people,specially the farmers in singur. This was what prompted him to join the party in 2009 post his retirement from the I.P.S. He contested the 2011 assembly elections on a tmc ticket from uluberia purba and won that seat by a margin of over 19000 votes following which he was inducted as a cabinet minister in the Mamata Banerjee government on 20 May 2011."
 }, {
-  "entityIndex" : "5_entity17051",
+  "entityIndex" : "5_entity10469",
   "entityUrl" : "http://dbpedia.org/resource/Sadhan_Pande",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -54,7 +54,7 @@
   "nouns" : [ "MLA", "election", "constituency", "Government", "politician", "assembly", "Self", "state" ],
   "text" : "Sadhan Pandey is an Indian politician and the present Minister for Consumer Affairs & Self Help Group & Self-Employment in the Government of West Bengal. He is also an MLA, elected from the Maniktala constituency in the West Bengal state assembly election, 2011.Previously,He Was an Congress Leader and Three Times Elected Congress MLA From Burtola.After Defeated In Lok Sabha Elections In 1998 From Calcutta North East,In July,He Left Congress and Joined Trinamool Congress."
 }, {
-  "entityIndex" : "6_entity17072",
+  "entityIndex" : "6_entity10486",
   "entityUrl" : "http://dbpedia.org/resource/Santiram_Mahato",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -65,7 +65,7 @@
   "nouns" : [ "Self-employment", "Help", "MLA", "election", "constituency", "Government", "politician", "assembly", "Self", "state" ],
   "text" : "Santiram Mahato is an Indian politician and the present Minister for Self Help Group & Self-employment in the Government of West Bengal. He is also an MLA, elected from the Balarampur constituency in the West Bengal state assembly election, 2011."
 }, {
-  "entityIndex" : "7_entity17073",
+  "entityIndex" : "7_entity10487",
   "entityUrl" : "http://dbpedia.org/resource/Sukumar_Hansda",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -76,7 +76,7 @@
   "nouns" : [ "MLA", "election", "constituency", "Government", "politician", "assembly", "state" ],
   "text" : "Sukumar Hansda is an Indian politician and the ex Minister for Paschimanchal Unnayan Affairs in the Government of West Bengal. He is also an MLA, elected from the Jhargram constituency in the West Bengal state assembly election, 2011."
 }, {
-  "entityIndex" : "8_entity17074",
+  "entityIndex" : "8_entity10488",
   "entityUrl" : "http://dbpedia.org/resource/Subrata_Saha",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -87,7 +87,7 @@
   "nouns" : [ "MLA", "election", "law", "constituency", "minister", "portfolio", "Government", "graduate", "politician", "assembly", "state", "businessman" ],
   "text" : "Subrata Saha is an Indian politician the present Minister without portfolio and a former Minister of State for Public Works in the Government of West Bengal. He is also an MLA, elected from the Sagardighi constituency in the West Bengal state assembly election, 2011. Subrata Saha was divested of his portfolio and retained as minister without portfolio in May 2014. He is a law graduate and a businessman."
 }, {
-  "entityIndex" : "9_entity17075",
+  "entityIndex" : "9_entity10489",
   "entityUrl" : "http://dbpedia.org/resource/Sunil_Chandra_Tirkey",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,18 +98,7 @@
   "nouns" : [ "MLA", "election", "government", "constituency", "Government", "politician", "assembly", "state", "support", "ministry" ],
   "text" : "Sunil Chandra Tirkey is an Indian politician and was the Minister of State for Consumer Affairs in the Government of West Bengal. He is also an MLA, elected from the Phansidewa constituency in the West Bengal state assembly election, 2011. He resigned from the ministry when Congress withdrew its support to the Mamata Banerjee government in September 2012."
 }, {
-  "entityIndex" : "10_entity12758",
-  "entityUrl" : "http://dbpedia.org/resource/Marcelo_Itagiba",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:governor" : [ "Rosinha Matheus - PMDB-RJ" ]
-  },
-  "words" : [ "de", "Federal", "político", "assessor", "Janeiro", "Saúde", "um", "Marcelo", "ocupados", "pela", "Formado", "desde", "brasileiro", "em", "segurança", ",", ".", "Nogueira", "1983", "Itagiba", "-RRB-", "Filho", "direito", "Zaturansky", "20", "Entre", "foi", "cidade", "-LRB-", "ex-prefeito", "Ministério", "regional", "delegado", "cargos", "Estado", "superintendente", "outros", "desembargador", "Universidade", "1956", "pública", "Polícia", "e", "Ivair", "é", "março", "Rio", "secretário", "da", "Macaé" ],
-  "adjectives" : [ "ex-prefeito", "regional", "superintendente", "desembargador" ],
-  "nouns" : [ "foi", "político", "brasileiro", "assessor", "um", "em", "é", "da", "direito", "pela" ],
-  "text" : "Marcelo Zaturansky Nogueira Itagiba (Rio de Janeiro, 20 de março de 1956) é um político brasileiro. Filho do desembargador e ex-prefeito da cidade de Macaé, Ivair Itagiba. Formado em direito pela Universidade Federal do Rio de Janeiro e delegado da Polícia Federal desde 1983. Entre outros cargos ocupados, foi assessor no Ministério da Saúde, superintendente regional da Polícia Federal do Estado do Rio de Janeiro e secretário de segurança pública do Rio de Janeiro. Em 2006, foi eleito deputado federal pelo Partido do Movimento Democrático Brasileiro. Em 2 de outubro de 2009, mudou de partido e se filiou ao Partido da Social Democracia Brasileira. Judeu, Itagiba recebeu o primeiro-ministro israelense Shimon Peres em sua visita ao Brasil. Foi ainda autor do projeto de lei criminalizando o questionamento do holocausto judaico na Segunda Guerra mundial e, consequentemente, o revisionismo histórico."
-}, {
-  "entityIndex" : "11_entity13113",
+  "entityIndex" : "10_entity7976",
   "entityUrl" : "http://dbpedia.org/resource/Majulkrishna_Thakur",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -120,7 +109,7 @@
   "nouns" : [ "MLA", "election", "MP", "son", "constituency", "Government", "politician", "assembly", "state", "brother" ],
   "text" : "Majulkrishna Thakur is an Indian politician and the present Minister of State for Refugee Relief & Rehabilitation (Independent Charge) and the Minister of State for Micro & Small Scale Enterprises and Textiles in the Government of West Bengal. He is a MLA, elected from the Gaighata constituency in the West Bengal state assembly election, 2011. Kapil Krishna Thakur, the former MP from Bangaon, was his elder brother. He is the second son of Matua Barama Binapani Devi. The estimated seven-million-strong Matua sect comprises West Bengal's second largest scheduled caste population. The Namasudra refugees had migrated from former East Pakistan."
 }, {
-  "entityIndex" : "12_entity13114",
+  "entityIndex" : "11_entity7977",
   "entityUrl" : "http://dbpedia.org/resource/Manoj_Chakraborty",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -131,7 +120,7 @@
   "nouns" : [ "Berhampore", "seat", "MLA", "election", "constituency", "Government", "politician", "assembly", "state", "cabinet", "prominence" ],
   "text" : "Manoj Chakraborty is an Indian politician and was Minister of State for Parliamentary Affairs in the Government of West Bengal. He is also an MLA, elected from the Baharampur constituency in the West Bengal state assembly election, 2011. Manoj Chakraborty resigned from the state cabinet on 18 January 2012. Manoj Chakraborty shot into prominence when in the 2006 state assembly elections as an independent he won the Berhampore assembly seat defeating his nearest rival Amal Karmakar of RSP. Manoj Chakraborty, contesting as an independent, was a rebel Congress candidate put up by Adhir Choudhury as a protest against the official Congress candidate Maya Rani Paul."
 }, {
-  "entityIndex" : "13_entity14573",
+  "entityIndex" : "12_entity8834",
   "entityUrl" : "http://dbpedia.org/resource/Pat_George",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -142,7 +131,7 @@
   "nouns" : [ "politician", "district", "CEO", "businessman", "president" ],
   "text" : "Pat George is an American businessman and politician from Kansas. He is currently the president and CEO of Valley Hope Association in Norton, Kansas. In 2010, George was elected as the State Representative of the 199th district, and served from 2005 to January 10, 2011. He resigned from the House when Governor Sam Brownback was inaugurated. Brownback had previously announced his intention to nominate George to serve as commerce secretary. George's appointment was confirmed by the Kansas Senate on February 3, 2011. He resigned in July 2015 to work with Valley Hope. George was a co-owner of the Dodge City Legend professional basketball team. Additionally, he has been a partner in a number of businesses, including the Dodge City Steak Company and G and G Incorporated. He has his B.A. in psychology from Benedictine College."
 }, {
-  "entityIndex" : "14_entity14727",
+  "entityIndex" : "13_entity8940",
   "entityUrl" : "http://dbpedia.org/resource/Pramatha_Nath_Ray",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -153,7 +142,7 @@
   "nouns" : [ "MLA", "election", "government", "son", "constituency", "Government", "politician", "assembly", "state", "support", "ministry" ],
   "text" : "Pramatha Nath Ray is an Indian politician and was the Minister of State for Development & Planning in the Government of West Bengal. He is a MLA, elected from the Kaliaganj constituency in the West Bengal state assembly election, 2011. He resigned from the ministry when Congress withdrew its support to the Mamata Banerjee government in September 2012. Pramatha Nath Ray, son of Rabindra Nath Ray, was born in 1943. He is a post graduate in humanities."
 }, {
-  "entityIndex" : "15_entity1181",
+  "entityIndex" : "14_entity594",
   "entityUrl" : "http://dbpedia.org/resource/Arup_Roy",
   "dboClass" : "dbo:Politician",
   "properties" : {

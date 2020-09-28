@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity18573",
+  "entityIndex" : "1_entity11458",
   "entityUrl" : "http://dbpedia.org/resource/Vedas_Venkaiah",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "MLA", "politician", "Assembly", "party" ],
   "text" : "Vedas Venkaiah (Telugu:వెదస్ వెంకయ్య)(born 2 March 1941) is an Indian politician and former Member of Legislative Assembly (MLA) for Suryapet Assembly Constituency under the Indian National Congress party between 2004-2009."
 }, {
-  "entityIndex" : "2_entity13321",
+  "entityIndex" : "2_entity8122",
   "entityUrl" : "http://dbpedia.org/resource/Mynampally_Hanmanth_Rao",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "politician", "member", "state", "party" ],
   "text" : "Mynampally Hanmanth Rao is an Indian politician and TRS Party Greater Hyderabad President and former MLA of Medak in the South Indian state of Telangana at Velama Community Family. He is a member of the Telangana Rashtra Samithi party & Hyderabad President."
 }, {
-  "entityIndex" : "3_entity13430",
+  "entityIndex" : "3_entity8193",
   "entityUrl" : "http://dbpedia.org/resource/Muttamsetti_Srinivasa_Rao",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "candidate", "educationalist", "election", "constituency", "connectivity", "line", "politician", "rail", "member", "parliament" ],
   "text" : "Muttamsetti Srinivasa Rao popularly known as Avanthi Srinivas is an Indian educationalist turned politician and a member of parliament from Anakapalli (Lok Sabha constituency), Andhra Pradesh. He operates Avanthi Education Institutes in Andhra Pradesh and Telangana under Avanthi Educational Society, Visakhapatnam. He won the Indian general election, 2014 as a Telugu Desam Party candidate. Mr. Srinivasa Rao had written to Mr. Suresh Prabhu on January 21, 2016 seeking a new line that would provide rail connectivity to the hitherto unconnected and remote villages, which fall under his Parliamentary constituency. He suggested that the railway lane would also foster development of the remote areas. His efforts got a new railway line between Tuni and Kottavalasa junction via Narsipatnam, Chodavaram and Madugula have yielded fruit with the Railway Minister making a provision for Rs.16.82 crore in the budget for preparing a Detailed Project Report (DPR) on the new line."
 }, {
-  "entityIndex" : "4_entity14882",
+  "entityIndex" : "4_entity9044",
   "entityUrl" : "http://dbpedia.org/resource/P._V._Midhun_Reddy",
   "dboClass" : "dbo:Politician",
   "properties" : {

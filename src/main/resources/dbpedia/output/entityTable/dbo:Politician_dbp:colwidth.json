@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10889",
+  "entityIndex" : "1_entity6699",
   "entityUrl" : "http://dbpedia.org/resource/Keith_Fimian",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,18 +10,7 @@
   "nouns" : [ "%", "politician", "district", "nominee", "businessman" ],
   "text" : "Keith Shawn Fimian is a businessman and politician in Virginia. He was the 2008 and 2010 Republican nominee for Virginia's 11th congressional district. Fimian lost both elections, the first by 12%, and the second by 0.4%."
 }, {
-  "entityIndex" : "2_entity7991",
-  "entityUrl" : "http://dbpedia.org/resource/Jody_Powell",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:colwidth" : [ "30" ]
-  },
-  "words" : [ "``", "-LRB-", "September", "Secretary", "Jr.", "Carter", "2009", "presidency", "firm", "Lester", "later", "public", "Jody", "30", "Jimmy", "''", "--", "14", "founded", "House", ",", ".", "1943", "White", "Joseph", "-RRB-", "Powell", "relations", "Press" ],
-  "adjectives" : [ "public" ],
-  "nouns" : [ "presidency", "firm" ],
-  "text" : "Joseph Lester \"Jody\" Powell, Jr. (September 30, 1943 – September 14, 2009) was the White House Press Secretary during the presidency of Jimmy Carter. He later founded a public relations firm."
-}, {
-  "entityIndex" : "3_entity4946",
+  "entityIndex" : "2_entity3044",
   "entityUrl" : "http://dbpedia.org/resource/Emmanuel_Dangana_Ocheja",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,29 +21,7 @@
   "nouns" : [ "principal", "firm", "law", "district", "member" ],
   "text" : "Emmanuel Dangana Ocheja is a former Nigerian Senator who represented Kogi East senatorial district in the National Assembly, and a member of the All Progressives Congress. He is the principal of Dangana Global Legal Services (formerly Dangana, Musa & Co), a law firm based in Abuja, Kano and Lagos states in Nigeria."
 }, {
-  "entityIndex" : "4_entity18760",
-  "entityUrl" : "http://dbpedia.org/resource/William_Hunter,_Lord_Hunter",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:colwidth" : [ "35" ]
-  },
-  "words" : [ "--", "Hunter", "-LRB-", "Liberal", "politician", "DL", "William", ",", "advocate", "April", ".", "Lord", "1865", "October", "Scottish", "Party", "KC", "-RRB-", "9", "judge", "1957", "10" ],
-  "adjectives" : [ "Scottish" ],
-  "nouns" : [ "politician", "DL", "judge", "advocate" ],
-  "text" : "William Hunter, Lord Hunter KC DL (9 October 1865 – 10 April 1957) was a Scottish advocate, judge and Liberal Party politician."
-}, {
-  "entityIndex" : "5_entity2467",
-  "entityUrl" : "http://dbpedia.org/resource/Craigie_Aitchison,_Lord_Aitchison",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:colwidth" : [ "35" ]
-  },
-  "words" : [ "--", "-LRB-", "26", "May", "politician", ".", "2", "1941", "Scottish", "Aitchison", "Mason", "1882", "KC", "-RRB-", "judge", "January", "Craigie" ],
-  "adjectives" : [ "Scottish" ],
-  "nouns" : [ "politician", "judge" ],
-  "text" : "Craigie Mason Aitchison KC (26 January 1882 – 2 May 1941) was a Scottish politician and judge."
-}, {
-  "entityIndex" : "6_entity3054",
+  "entityIndex" : "3_entity1785",
   "entityUrl" : "http://dbpedia.org/resource/Corey_Mock",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -65,29 +32,18 @@
   "nouns" : [ "member" ],
   "text" : "Corey Ray Mock (born February 17, 1985) is a Democratic-NPL member of the North Dakota House of Representatives who has represented District 42 since 2008. District 42 is in northern Grand Forks and includes the University of North Dakota."
 }, {
-  "entityIndex" : "7_entity17459",
+  "entityIndex" : "4_entity10757",
   "entityUrl" : "http://dbpedia.org/resource/Thomas_Shaw,_1st_Baron_Craigmyle",
   "dboClass" : "dbo:Politician",
   "properties" : {
     "dbp:colwidth" : [ "35" ]
   },
-  "words" : [ "St", "Mental", "Craigmyle", "Aberdeen", "Dunfermline", "advocate", "son", "1850", "1894", "gained", "1937", "judge", "--", "1909", "Queen", ",", "'s", ".", "appointed", "Lord", "University", "-RRB-", "1906", "1902", "Philosophy", "23", "June", "became", "Alexander", "-LRB-", "Fife", "May", "LLD", "28", "Shaw", "1st", "Scottish", "School", "1875", "Party", "known", "Hamilton", "KC", "Edinburgh", "Counsel", "Baron", "Thomas", "High", "radical", "Liberal", "Andrews", "politician", "also", "educated", "Fellow", "PC", "1929" ],
-  "adjectives" : [ "Scottish", "radical" ],
-  "nouns" : [ "son", "LLD", "politician", "judge", "advocate" ],
-  "text" : "Thomas Shaw, 1st Baron Craigmyle PC KC LLD (23 May 1850 – 28 June 1937), known as The Lord Shaw from 1909 to 1929, was a Scottish radical Liberal Party politician and judge. The son of Alexander Shaw of Dunfermline, Fife, Craigmyle was educated at the Dunfermline High School and at Edinburgh University. He was appointed an advocate in 1875 and became a Queen's Counsel in 1894. He gained an LLD from St Andrews University in 1902 and from the University of Aberdeen in 1906 and was also Hamilton Fellow in Mental Philosophy at Edinburgh University. Craigmyle sat as Member of Parliament (MP) for Hawick Burghs from 1892 to 1909 and served as Solicitor General for Scotland from 1894 to 1895 and as Lord Advocate from December 1905 to 1909. He resigned from parliament and ministerial office and was created a life peer as Baron Shaw, of Dunfermline in the County of Fife, on 20 February 1909, so that he could sit in the House of Lords and serve as a Lord of Appeal in Ordinary. He retired from this office in 1929 and was made an hereditary peer as Baron Craigmyle, of Craigmyle in the County of Aberdeen, on 7 Mar 1929. Lord Craigmyle married Elspeth, daughter of George Forrest, in 1879. He died in June 1937, aged 87, and was succeeded in the hereditary barony by his son Alexander. Lady Craigmyle died in 1939."
+  "words" : [ "Politiker", "Craigmyle", "Aberdeen", "Dunfermline", "dem", "der", "QC", "des", "1850", "Appellate", "Abgeordneter", "Commons", "wurde", "1937", "Lords", "†", "Ordinary", "Jahre", "im", "Peer", "einige", "als", "*", "House", ",", ".", "Jurist", "Jurisdiction", "1", "Lord", "Mai", "auch", "Titel", "-RRB-", "Life", "eines", "zuletzt", ";", "23", "Fife", "-LRB-", "Juni", "28", "verliehen", "schottisch-britischer", "Shaw", "County", "1876", "Party", "aufgrund", "Baron", "Thomas", "Liberal", "Appeal", "war", "vererbliche", "Mitglied", "PC", "Act", "1929", "sowie" ],
+  "adjectives" : [ "Ordinary" ],
+  "nouns" : [ "Appeal", "verliehen", "war", "vererbliche", "House", "schottisch-britischer", "Jurist", "der", "Lord", "aufgrund", "wurde", "zuletzt", "sowie" ],
+  "text" : "Thomas Shaw, 1. Baron Craigmyle, of Craigmyle in the County of Aberdeen, Baron Shaw, of Dunfermline in the County of Fife PC QC (* 23. Mai 1850; † 28. Juni 1937) war ein schottisch-britischer Politiker der Liberal Party und Jurist, der einige Jahre Abgeordneter im House of Commons sowie zuletzt als Lord of Appeal in Ordinary aufgrund des Appellate Jurisdiction Act 1876 als Life Peer auch Mitglied des House of Lords war und dem 1929 der vererbliche Titel eines Baron Craigmyle verliehen wurde."
 }, {
-  "entityIndex" : "8_entity18196",
-  "entityUrl" : "http://dbpedia.org/resource/Tetiana_Chornovol",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:colwidth" : [ "30" ]
-  },
-  "words" : [ "-LRB-", "Juni", "Antikorruptionspolitik", "ist", "Volksfront", "ernannt", "der", "Gründungsmitglied", "Politikerin", "Jazenjuk", "Kiew", "Tetjana", "wurde", "zur", "Mykolaiiwna", "Fragen", "1979", "für", "Kabinett", "ukrainisch", "Тетя́на", "im", "Partei", "ukrainische", "Aktivistin", "war", "*", "und", "Чорново́л", ",", "Journalistin", "Regierungsbeauftragten", ".", "Sie", "Tschornowol", "4", "eine", "Микола́ївна", "-RRB-" ],
-  "adjectives" : [ "ukrainisch" ],
-  "nouns" : [ "Тетя́на", "im", "ukrainische", "war", "Чорново́л", "ist", "Volksfront", "Sie", "eine", "wurde", "Микола́ївна", "Fragen", "für" ],
-  "text" : "Tetjana Mykolaiiwna Tschornowol (ukrainisch Тетя́на Микола́ївна Чорново́л, * 4. Juni 1979 in Kiew), ist eine ukrainische Journalistin, Aktivistin und Politikerin. Sie wurde im Kabinett Jazenjuk I zur Regierungsbeauftragten für Fragen der Antikorruptionspolitik ernannt und war Gründungsmitglied der Partei Volksfront."
-}, {
-  "entityIndex" : "9_entity15988",
+  "entityIndex" : "5_entity9788",
   "entityUrl" : "http://dbpedia.org/resource/R._Roshan_Baig",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,29 +54,7 @@
   "nouns" : [ "minister", "member", "state", "Assembly", "vice-chairman" ],
   "text" : "R. Roshan Baig (born 15 July 1951) is a minister of Karnataka state in India. He is a member of the Karnataka Legislative Assembly in Karnataka a state in southern India. He is a member of the Indian National Congress. He is also vice-chairman of the Al-Ameen Educational Society."
 }, {
-  "entityIndex" : "10_entity16410",
-  "entityUrl" : "http://dbpedia.org/resource/Sharron_Angle",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:colwidth" : [ "30" ]
-  },
-  "words" : [ "die", "Sharron", "Unterhaus", "bei", "Senatssitz", "Juli", "ist", "bis", "der", "des", "zum", "das", "Primary", "hat", "Assembly", "Kandidatin", "Kandidatur", "*", ",", ".", "Sie", "Falls", "Von", "angekündigt", "-RRB-", "1949", "Klamath", "Oregon", "denselben", "-LRB-", "26", "Wahl", "2010", "sie", "Politikerin", "2005", "Republikanische", "ihrer", "republikanischen", "für", "1999", "Nevada", "weitere", "Partei", "war", "und", "erfolglose", "Mitglied", "Angle", "eine", "US-Senat", "2016", "Legislative", "US-amerikanische", "Bundesstaates" ],
-  "adjectives" : [ "Primary", "Legislative", "und" ],
-  "nouns" : [ "denselben", "Kandidatin", "weitere", "war", "ist", "sie", "erfolglose", "Politikerin", "eine", "angekündigt", "ihrer", "hat", "US-amerikanische", "für" ],
-  "text" : "Sharron Angle (* 26. Juli 1949 in Klamath Falls, Oregon) ist eine US-amerikanische Politikerin. Von 1999 bis 2005 war sie für die Republikanische Partei Mitglied der Nevada Assembly (das Unterhaus der Legislative des Bundesstaates Nevada). Sie war erfolglose Kandidatin ihrer Partei bei der Wahl zum US-Senat 2010 und hat eine weitere Kandidatur in der republikanischen Primary für denselben Senatssitz 2016 angekündigt."
-}, {
-  "entityIndex" : "11_entity12640",
-  "entityUrl" : "http://dbpedia.org/resource/Ma_Zhongchen",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:colwidth" : [ "30" ]
-  },
-  "words" : [ "马忠臣", "。", "1936年", "（", "）", "山东省泰安市岱岳区角峪镇人", "，", "中华人民共和国政治人物", "－" ],
-  "adjectives" : [ ],
-  "nouns" : [ "。", "，", "－" ],
-  "text" : "马忠臣（1936年－），山东省泰安市岱岳区角峪镇人，中华人民共和国政治人物。"
-}, {
-  "entityIndex" : "12_entity13284",
+  "entityIndex" : "6_entity8101",
   "entityUrl" : "http://dbpedia.org/resource/Mario_Ferri",
   "dboClass" : "dbo:Politician",
   "properties" : {

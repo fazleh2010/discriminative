@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10656",
+  "entityIndex" : "1_entity6588",
   "entityUrl" : "http://dbpedia.org/resource/Keith_Locke",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,18 +10,7 @@
   "nouns" : [ "number", "MP", "election", "spokesperson", "parliament" ],
   "text" : "Keith James Locke (born 1944) is a former New Zealand MP who represented the Green Party, being first elected to parliament in 1999 and retiring from parliament at the 2011 election. He was the Green Party spokesperson on Foreign Affairs, Defence, Ethnic Affairs, Pacific Affairs, Human Rights, Immigration, Police and Auckland Transport. He served on the Foreign Affairs, Defence and Trade Select Committee. During his 12 years in Parliament he won a number of awards. He was twice named 'Backbencher of the Year', first in 2002 by Vernon Small, then deputy political editor of The New Zealand Herald, and again in 2010 by The Dominion Post political staff. He also received the New Zealand Republic's Colonel Allen Bell Award in 2011; the New Zealand Amnesty International's Human Rights Defender Award in 2012; and the Federation of Islamic Associations for New Zealand's Harmony Award in 2013. Since retiring from Parliament, Locke has joined the boards of the Auckland Refugee Council and the New Zealand Peace and Conflict Studies Centre Trust. He writes on political issues for New Zealand newspapers and the Daily Blog."
 }, {
-  "entityIndex" : "2_entity10673",
-  "entityUrl" : "http://dbpedia.org/resource/Kenneth_Wang",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:list" : [ "10" ]
-  },
-  "words" : [ "New", "siblings", "-LRB-", "Wang", "advertising", "Auckland", "three", "two", "second", "arrived", "worked", "children", "China", "Wong", "sector", "MP", "born", ",", "'s", ".", "marketing", "Zealand", "1984", "Pansy", "-RRB-", "Chinese", "married", "first" ],
-  "adjectives" : [ "Chinese", "first", "second" ],
-  "nouns" : [ "marketing", "MP", "advertising", "sector" ],
-  "text" : "Wang was born in China, and has three siblings. He arrived in New Zealand in 1984 and is married with two children. Wang worked in the marketing and advertising sector in Auckland. He was New Zealand's second Chinese MP (with the first being Pansy Wong). At the 2005 elections Wang contested the seat of Mt Roskill, and was seventh on ACT's party list. However, he was not returned to Parliament. In the 2008 general election he stood unsuccessfully in the Electorate of Botany for the ACT New Zealand Party. National candidate Pansy Wong filed a complaint to the electoral commission about Wang's billboards which exhorted \"Vote for Wang, get Wang and Wong\" (because Pansy Wong's high rank on the National Party List assured her of a seat in parliament). He was elected Deputy Leader of ACT in April 2014."
-}, {
-  "entityIndex" : "3_entity8043",
+  "entityIndex" : "2_entity4890",
   "entityUrl" : "http://dbpedia.org/resource/Joe_Hawke",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,18 +21,7 @@
   "nouns" : [ "politician", "member" ],
   "text" : "Joseph Parata Hohepa Hawke, MNZM (born 1940), is a former New Zealand politician. He was a member of Parliament for the Labour Party from 1996 to 2002."
 }, {
-  "entityIndex" : "4_entity8049",
-  "entityUrl" : "http://dbpedia.org/resource/Jenny_Bloxham",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:list" : [ "5" ]
-  },
-  "words" : [ "New", "Zealand", "politician", "Bloxham", "Jenny", "former", "." ],
-  "adjectives" : [ "former" ],
-  "nouns" : [ "politician" ],
-  "text" : "Jenny Bloxham is a former New Zealand politician."
-}, {
-  "entityIndex" : "5_entity4445",
+  "entityIndex" : "3_entity2762",
   "entityUrl" : "http://dbpedia.org/resource/Edwin_Perry",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -54,7 +32,7 @@
   "nouns" : [ "politician" ],
   "text" : "Edwin Jock Perry is a New Zealand politician. He was a New Zealand First Member of Parliament from 2002 to 2005."
 }, {
-  "entityIndex" : "6_entity1672",
+  "entityIndex" : "4_entity941",
   "entityUrl" : "http://dbpedia.org/resource/Bernie_Ogilvy",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -65,7 +43,7 @@
   "nouns" : [ "politician", "member", "list", "educator", "party" ],
   "text" : "Bernard James (Bernie) Ogilvy is a New Zealand educator and politician. He was a list member of Parliament (MP) for the United Future New Zealand party from 2002 to 2005. He left United Future with the breakaway Kiwi Party in 2007."
 }, {
-  "entityIndex" : "7_entity1673",
+  "entityIndex" : "5_entity942",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Gudgeon",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -76,18 +54,7 @@
   "nouns" : [ "Gudgeon", "politician", "Bill", "member", "party", "Wiremu" ],
   "text" : "Wiremu (Bill) Gudgeon is a former New Zealand politician. He is a member of the New Zealand First party."
 }, {
-  "entityIndex" : "8_entity14985",
-  "entityUrl" : "http://dbpedia.org/resource/Robyn_McDonald",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:list" : [ "14" ]
-  },
-  "words" : [ "McDonald", "New", "Zealand", "Hon", "politician", "Robyn", "former", "." ],
-  "adjectives" : [ "former" ],
-  "nouns" : [ "politician" ],
-  "text" : "Hon Robyn McDonald is a former New Zealand politician."
-}, {
-  "entityIndex" : "9_entity13955",
+  "entityIndex" : "6_entity8525",
   "entityUrl" : "http://dbpedia.org/resource/Owen_Jennings",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,7 +65,7 @@
   "nouns" : [ "politician", "party" ],
   "text" : "Owen Jennings is a former New Zealand politician. He was a Member of Parliament from 1996 to 2002, representing the ACT New Zealand party."
 }, {
-  "entityIndex" : "10_entity16221",
+  "entityIndex" : "7_entity9950",
   "entityUrl" : "http://dbpedia.org/resource/Sandra_Goudie",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -109,7 +76,7 @@
   "nouns" : [ "politician" ],
   "text" : "Sandra Anne Goudie (born 1952) is a New Zealand politician. The current Mayor of Thames-Coromandel, she previously served as a Member of Parliament for the National Party."
 }, {
-  "entityIndex" : "11_entity12092",
+  "entityIndex" : "8_entity7441",
   "entityUrl" : "http://dbpedia.org/resource/Murray_Smith_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -120,7 +87,7 @@
   "nouns" : [ "MP", "politician", "caucus", "member", "list", "party" ],
   "text" : "Murray Smith is a former New Zealand politician. He was a member of the United Future New Zealand party caucus, having been elected to Parliament as a list MP in the 2002 elections."
 }, {
-  "entityIndex" : "12_entity12098",
+  "entityIndex" : "9_entity7447",
   "entityUrl" : "http://dbpedia.org/resource/Mark_Peck",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -131,7 +98,7 @@
   "nouns" : [ "MP", "politician", "member" ],
   "text" : "Mark Everett Peck (born 16 July 1953) is a New Zealand politician and a member of the Labour Party. Since 2013, he has been a Wellington City Councillor, and was MP for Invercargill from 1993 to 2005."
 }, {
-  "entityIndex" : "13_entity5753",
+  "entityIndex" : "10_entity3513",
   "entityUrl" : "http://dbpedia.org/resource/Gerry_Eckhoff",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -142,7 +109,7 @@
   "nouns" : [ "country", "politician", "beef", "sheep" ],
   "text" : "Gerrard Mortland \"Gerry\" Eckhoff farms sheep and beef in the high country near Roxburgh, Central Otago. He is a former New Zealand politician, having served as an ACT New Zealand Member of Parliament."
 }, {
-  "entityIndex" : "14_entity14156",
+  "entityIndex" : "11_entity8615",
   "entityUrl" : "http://dbpedia.org/resource/Patricia_Schnauer",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -153,18 +120,7 @@
   "nouns" : [ "MP", "politician", "party" ],
   "text" : "Patricia Schnauer (born 30 July 1942) is a former New Zealand politician. She was an MP from 1996 to 1999, representing the ACT New Zealand party."
 }, {
-  "entityIndex" : "15_entity14304",
-  "entityUrl" : "http://dbpedia.org/resource/Pierre_Guillaumat",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:list" : [ "Simon • Audibert • Escallier • Flouret • Gaspard • Guillaumat • Massé • Delouvrier • Boiteux • Delaporte • Ménage • Alphandéry • Roussely • Gadonneix • Proglio" ]
-  },
-  "words" : [ "Politiker", "Pierre", "-LRB-", "Sarthe", "28", "Guillaumat", "ein", "Manager", "Er", "Flèche", "der", "erste", "La", "1991", "Villeurbanne", "†", "Verteidigungsminister", "1909", "war", "*", "und", "Jean", ",", ".", "August", "Energiewirtschaft", "5", "Lucien", "-RRB-", ";", "französischer" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Politiker", "war", "und", "ein", "französischer" ],
-  "text" : "Pierre Lucien Jean Guillaumat (* 5. August 1909 in La Flèche, Sarthe; † 28. August 1991 in Villeurbanne) war ein französischer Politiker und Manager der Energiewirtschaft. Er war der erste Verteidigungsminister der 5. Republik und Gründer des Unternehmens Elf Aquitaine."
-}, {
-  "entityIndex" : "16_entity14771",
+  "entityIndex" : "12_entity8974",
   "entityUrl" : "http://dbpedia.org/resource/P.G._Sittenfeld",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -175,7 +131,7 @@
   "nouns" : [ "seat", "person", "politician", "member", "position", "bid", "Election", "age" ],
   "text" : "Alexander Paul George \"P.G.\" Sittenfeld (born October 1, 1984) is an American politician who has been a member of the City Council of Cincinnati since 2011, when he became the youngest person (age 27) ever elected to the position. He is a Democrat. In January 2015, he announced his 2016 bid for Ohio's U.S. Senate seat currently held by Republican Rob Portman. On March 15, 2016, Sittenfeld lost the Senate Democratic Primary Election to former Ohio Governor, Ted Strickland."
 }, {
-  "entityIndex" : "17_entity94",
+  "entityIndex" : "13_entity32",
   "entityUrl" : "http://dbpedia.org/resource/Ann_Batten",
   "dboClass" : "dbo:Politician",
   "properties" : {

@@ -1,16 +1,5 @@
 [ {
-  "entityIndex" : "1_entity13160",
-  "entityUrl" : "http://dbpedia.org/resource/Mykola_Mikhnovsky",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:notableworks" : [ "\"Independent Ukraine\"" ]
-  },
-  "words" : [ "Politiker", "bei", "Michnowskyj", "der", "Michnowski", "Kiew", "des", "Pryluky", "Staatlichkeit", "Chefideologe", "ukrainisch", "11", "Poltawa", "†", "Nationalismus", "Iwanowitsch", "Ukraine", "Begründer", "als", "*", "Микола", ",", ".", "russisch", "3", "Mai", "-RRB-", "Михновский", ";", "ukrainischen", "-LRB-", "ukrainischer", "Міхновський", "ein", "1873", "gilt", "Иванович", "Іванович", "Nikolai", "heute", "Николай", "Turiwzi", "Mykola", "war", "und", "radikalen", "Gouvernement", "1924", "Februar" ],
-  "adjectives" : [ "ukrainisch", "heute", "Februar" ],
-  "nouns" : [ "russisch", "ukrainischen", "Politiker", "radikalen", "ukrainischer", "war", "und", "gilt", "ein" ],
-  "text" : "Mykola Michnowskyj (ukrainisch Микола Іванович Міхновський; russisch Николай Иванович Михновский, Nikolai Iwanowitsch Michnowski; * 11. Februar 1873 in Turiwzi bei Pryluky, Gouvernement Poltawa, heute Ukraine; † 3. Mai 1924 in Kiew) war ein ukrainischer Politiker und Begründer des radikalen ukrainischen Nationalismus. Michnowskyj gilt als Chefideologe der ukrainischen Staatlichkeit. Die 1902 von ihm gegründete Ukrainische Volkspartei war die erste politische Partei, die in ihrem Programm Gründung eines ukrainischen Nationalstaates forderte."
-}, {
-  "entityIndex" : "2_entity13184",
+  "entityIndex" : "1_entity8031",
   "entityUrl" : "http://dbpedia.org/resource/Mandour_Elmahdi",
   "dboClass" : "dbo:Politician",
   "properties" : {

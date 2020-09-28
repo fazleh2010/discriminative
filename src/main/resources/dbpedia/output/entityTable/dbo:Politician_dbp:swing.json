@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity13658",
+  "entityIndex" : "1_entity8332",
   "entityUrl" : "http://dbpedia.org/resource/N._R._Govindarajar",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "R", "constituency", "politician", "member", "house", "N" ],
   "text" : "N R Govindarajar an Indian politician from All India Anna Dravida Munnetra Kazhagam and a previous member of the Parliament of India representing Tamil Nadu in the Rajya Sabha, the upper house of the Indian Parliament. He contested the 2004 Indian General Elections from Gobichettipalayam (Lok Sabha constituency) and lost to E. V. K. S. Elangovan."
 }, {
-  "entityIndex" : "2_entity9432",
+  "entityIndex" : "2_entity5654",
   "entityUrl" : "http://dbpedia.org/resource/John_William_Wilson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,18 +21,7 @@
   "nouns" : [ "architect", "disambiguation" ],
   "text" : "(For the Australian architect, see John William Wilson (architect).)(For other people named John Wilson, see John Wilson (disambiguation).)"
 }, {
-  "entityIndex" : "3_entity15118",
-  "entityUrl" : "http://dbpedia.org/resource/Robert_William_Hamilton",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:swing" : [ "n/a" ]
-  },
-  "words" : [ "†", "Politiker", "-LRB-", "15", "Liberal", "war", "*", "Juli", "ein", "William", ".", "der", "Party", "Robert", "Hamilton", "-RRB-", "schottischer", ";", "1867", "1944" ],
-  "adjectives" : [ ],
-  "nouns" : [ "schottischer", "war", "ein" ],
-  "text" : "Robert William Hamilton (* 1867; † 15. Juli 1944) war ein schottischer Politiker der Liberal Party."
-}, {
-  "entityIndex" : "4_entity15536",
+  "entityIndex" : "3_entity9440",
   "entityUrl" : "http://dbpedia.org/resource/Robert_Andrew_Allison",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,18 +32,7 @@
   "nouns" : [ "Railway", "son", "wife", "director", "politician" ],
   "text" : "Sir Robert Andrew Allison (3 March 1838 – 15 January 1926) was an English Liberal politician who sat in the House of Commons from 1885 to 1900. Allison was the son of Joseph Allison of Eden Morent Carlisle and his wife Jane Andrew. He was educated at Rugby School and at Trinity College, Cambridge. He was a director of the Midland Railway. In 1885, he was elected as MP for Eskdale and held the seat until 1900. He was J.P. and Deputy Lieutenant for Cumberland and was High Sheriff of Cumberland in 1908. He was knighted in 1910. Allison was the author of several works including"
 }, {
-  "entityIndex" : "5_entity7115",
-  "entityUrl" : "http://dbpedia.org/resource/Henry_Chancellor",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:swing" : [ "n/a" ]
-  },
-  "words" : [ "--", "Chancellor", "June", "British", "-LRB-", "14", "radical", "Liberal", "politician", "March", ",", ".", "3", "1863", "Party", "George", "-RRB-", "Henry", "1945" ],
-  "adjectives" : [ "British", "radical" ],
-  "nouns" : [ "politician" ],
-  "text" : "Henry George Chancellor (3 June 1863 – 14 March 1945), was a radical British Liberal Party politician."
-}, {
-  "entityIndex" : "6_entity16335",
+  "entityIndex" : "4_entity10006",
   "entityUrl" : "http://dbpedia.org/resource/Sir_Robert_Thomas,_1st_Baronet",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -65,7 +43,7 @@
   "nouns" : [ "insurance", "politician", "ship", "Baronet", "broker", "businessman" ],
   "text" : "Sir Robert John Thomas, 1st Baronet (23 April 1873 – 27 September 1951) was a Welsh businessman and Liberal Party politician, who was twice elected to Parliament. Thomas was a ship and insurance broker. In 1918 he was created a Baronet, of Garreglwyd in the County of Anglesey."
 }, {
-  "entityIndex" : "7_entity5402",
+  "entityIndex" : "5_entity3303",
   "entityUrl" : "http://dbpedia.org/resource/Frank_Walter_Raffety",
   "dboClass" : "dbo:Politician",
   "properties" : {

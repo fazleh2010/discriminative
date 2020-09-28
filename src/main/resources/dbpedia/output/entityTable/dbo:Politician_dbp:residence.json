@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10731",
+  "entityIndex" : "1_entity6616",
   "entityUrl" : "http://dbpedia.org/resource/Kishanbhai_Vestabhai_Patel",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "Sabha", "constituency", "member", "Lok" ],
   "text" : "Kishanbhai Vestabhai Patel (born 2 June 1964) is a member of the 14th Lok Sabha of India. He represents the Bulsar constituency of Gujarat and is a member of the Indian National Congress."
 }, {
-  "entityIndex" : "2_entity10952",
+  "entityIndex" : "2_entity6746",
   "entityUrl" : "http://dbpedia.org/resource/Kezia_Purick",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "seat", "election", "politician", "member", "position", "CEO", "Purick", "Assembly" ],
   "text" : "Kezia Dorcas Tibisay Purick (born 12 May 1958) is an Australian politician. She is an independent member of the Northern Territory Legislative Assembly, having held her seat of Goyder since the 2008 election. Prior to entering Parliament, Purick was the CEO of the NT Minerals Council for 16 years. The position of Speaker of the Northern Territory Legislative Assembly has been held by Purick since 23 October 2012. Despite Labor's massive majority following the outcome of the 2016 election, the incoming government re-appointed Purick as Speaker."
 }, {
-  "entityIndex" : "3_entity11188",
+  "entityIndex" : "3_entity6929",
   "entityUrl" : "http://dbpedia.org/resource/Keith_Butler_(Ontario_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "politician", "member", "Assembly" ],
   "text" : "Keith Elkington Butler (1920 - 1977) was a Canadian politician, who represented Waterloo North in the Legislative Assembly of Ontario from 1963 to 1967 as a Progressive Conservative member."
 }, {
-  "entityIndex" : "4_entity11260",
+  "entityIndex" : "4_entity6984",
   "entityUrl" : "http://dbpedia.org/resource/Kennie_MacAskill",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,18 +43,7 @@
   "nouns" : [ "graduate", "politician", "district", "member", "certificate", "plumbing" ],
   "text" : "Kenneth MacAskill (born August 12, 1933) is a Canadian politician. He represented the electoral district of Victoria in the Nova Scotia House of Assembly from 1988 to 2003. He was a member of the Nova Scotia Liberal Party. Born in 1933, MacAskill is a graduate of the Nova Scotia Institute of Technology where he obtained an interprovincial plumbing certificate. For over 20 years, he operated his own plumbing and heating business in Englishtown, Nova Scotia. MacAskill entered provincial politics in 1988, defeating Progressive Conservative incumbent Fisher Hudson to become the MLA for Victoria. He was re-elected in 1993 and served as a backbencher in John Savage's government. On July 18, 1997, MacAskill was appointed to the Executive Council of Nova Scotia as Minister of Natural Resources. Following his re-election in the 1998 election, MacAskill retained the Natural Resources portfolio. He was re-elected to a fourth term as MLA in the 1999 election, and did not seek re-election in 2003."
 }, {
-  "entityIndex" : "5_entity13526",
-  "entityUrl" : "http://dbpedia.org/resource/Natwar_Singh",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "New Delhi" ]
-  },
-  "words" : [ "Congress", "-LRB-", "May", "Union", "1931", "1953", "government", "National", "won", "member", "Singh", "state", "selected", "resigned", "Natwar", "Foreign", "prestigious", "contest", "election", "Kunwar", "minister", "16", "born", "politician", "one", "Service", "services", "union", ",", "elections", "former", ".", "senior", "1984", "service", "served", "-RRB-", "bureaucrat", "Indian", "competitive", "writer", "cabinet", "party", "1989" ],
-  "adjectives" : [ "senior", "prestigious", "Indian", "competitive", "former" ],
-  "nouns" : [ "contest", "election", "minister", "politician", "union", "government", "service", "bureaucrat", "member", "writer", "state", "cabinet", "party" ],
-  "text" : "Kunwar Natwar Singh (born 16 May 1931) is an Indian politician, a former senior bureaucrat, a former Union cabinet minister, and a writer. Singh was selected into the Indian Foreign Service, one of the most competitive and prestigious government services, in 1953. In 1984, he resigned from the service to contest elections as a member of the Indian National Congress party. He won the election and served as a union minister of state until 1989. Thereafter, he had a patchy political career until being made India's foreign minister in 2004. However, 18 months later, he had to resign under a cloud after the UN's Volcker committee named both him and the Congress party to which he belonged as beneficiaries of illegal pay-offs in the Iraqi oil scam."
-}, {
-  "entityIndex" : "6_entity13588",
+  "entityIndex" : "5_entity8285",
   "entityUrl" : "http://dbpedia.org/resource/Nedurumalli_Janardhana_Reddy",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -65,7 +54,7 @@
   "nouns" : [ "Sabha", "government", "constituency", "minister", "wife", "రెడ్డి", "member", "Lok" ],
   "text" : "Nedurumalli Janardhana Reddy (Telugu: నేదురుమల్లి జనార్థన్ రెడ్డి; 20 February 1935 – 9 May 2014) was a member of the 12th, 13th and 14th Lok Sabha of India. He represented the Visakhapatnam constituency of Andhra Pradesh and was a member of the Indian National Congress. He was also a Chief Minister of Andhra Pradesh from 1990 to 1992. His wife, Nedurumalli Rajyalakshmi, has been a minister in the Andhra Pradesh government since 2004. He is the one who laid the foundation stone for the much acclaimed Hi-Tech City(Cyber Towers) in Madhapur, Hyderabad. In September 2007, Reddy escaped an assassination attempt near Nellore by naxal groups. Janardhana Reddy and his wife both escaped the event unhurt."
 }, {
-  "entityIndex" : "7_entity13743",
+  "entityIndex" : "6_entity8382",
   "entityUrl" : "http://dbpedia.org/resource/N._Sundarraj",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -76,18 +65,7 @@
   "nouns" : [ "Sabha", "candidate", "election", "constituency", "politician", "assembly", "Lok", "Assembly" ],
   "text" : "N. Sundarraj (Tamil: நா.சுந்தர்ராஜ்) is an Indian politician and former Member of the Parliament - Lok Sabha Pudukkottai (Tamil Nadu) 3 times (8th Lok Sabha (1984–89), 9th Lok Sabha (1989 - 91), 10th Lok Sabha (1991 - 94)) and Member of the Legislative Assembly of Thirumayam (Tamil Nadu). He was elected to the Tamil Nadu legislative assembly as an Indian National Congress candidate from Tirumayam constituency in 1977 election and from Indian National Congress (Indira) 1980 election."
 }, {
-  "entityIndex" : "8_entity13761",
-  "entityUrl" : "http://dbpedia.org/resource/N._Gobalakrishnan",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Kulim Hi-Tech" ]
-  },
-  "words" : [ "。", "马来西亚吉打州巴东色海无党籍国会议员", "马来语", "Nagapan", "（", "）", "：", "哥巴拉克里斯南", "Gobalakrishnan", "，", "a/l" ],
-  "adjectives" : [ ],
-  "nouns" : [ "。", "Nagapan", "哥巴拉克里斯南", "a/l" ],
-  "text" : "哥巴拉克里斯南（马来语：Gobalakrishnan a/l Nagapan），马来西亚吉打州巴东色海无党籍国会议员 。"
-}, {
-  "entityIndex" : "9_entity13879",
+  "entityIndex" : "7_entity8473",
   "entityUrl" : "http://dbpedia.org/resource/Narendra_Singh_Verma",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,7 +76,7 @@
   "nouns" : [ "constituency", "politician", "member", "वर्मा", "Assembly", "party" ],
   "text" : "Narendra Singh Verma (Hindi: नरेंद्र सिंह वर्मा) is an Indian politician and a member of the 16th Legislative Assembly in India. He represents the Mahmoodabad constituency of Uttar Pradesh and is a member of the Samajwadi Party political party."
 }, {
-  "entityIndex" : "10_entity7941",
+  "entityIndex" : "8_entity4850",
   "entityUrl" : "http://dbpedia.org/resource/Jerry_W._Tillman",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -109,18 +87,7 @@
   "nouns" : [ "reform", "administrator", "teacher", "act", "school", "district", "member", "voting", "term", "state", "coach" ],
   "text" : "Jerry W. Tillman is a Republican member of the North Carolina General Assembly representing the state's twenty-ninth Senate district, including constituents in Moore and Randolph counties. A retired teacher, coach and school administrator from Archdale, North Carolina, Tillman is currently serving in his fifth term in the state Senate. Tillman is the Senate Majority Whip and is Chair or Co-Chair of several committees in the NC Senate. In 2013, Senator Tillman co-authored and introduced the state's controversial \"voting reform act,\" which will prevent, by conservative estimates, at least 100,000 people from being allowed to vote."
 }, {
-  "entityIndex" : "11_entity8108",
-  "entityUrl" : "http://dbpedia.org/resource/Jean-Luc_Bennahmias",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "France" ]
-  },
-  "words" : [ "1954", "2", "December", "Jean-Luc", "-LRB-", "French", "born", "politician", "Bennahmias", "-RRB-", "Paris", "." ],
-  "adjectives" : [ "French" ],
-  "nouns" : [ "politician" ],
-  "text" : "Jean-Luc Bennahmias (born 2 December 1954 in Paris) is a French politician."
-}, {
-  "entityIndex" : "12_entity8134",
+  "entityIndex" : "9_entity4933",
   "entityUrl" : "http://dbpedia.org/resource/Jane_Pitfield",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -131,18 +98,7 @@
   "nouns" : [ "city", "councillor" ],
   "text" : "Jane Pitfield c. 1954 was a Toronto city councillor, representing one of the two Don Valley West wards. She ran unsuccessfully for Mayor of Toronto in 2006."
 }, {
-  "entityIndex" : "13_entity8658",
-  "entityUrl" : "http://dbpedia.org/resource/John_A._Nejedly",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Walnut Creek, CA" ]
-  },
-  "words" : [ "22", "--", "-LRB-", "September", "Contra", "John", "19", "Senator", "Republican", "California", ",", "A.", "County", ".", "Costa", "October", "2006", "State", "1980", "-RRB-", "represented", "Nejedly", "1914", "1969" ],
-  "adjectives" : [ "Republican" ],
-  "nouns" : [ "State" ],
-  "text" : "John A. Nejedly (October 22, 1914 – September 19, 2006) was a Republican State Senator who represented Contra Costa County, California from 1969 to 1980."
-}, {
-  "entityIndex" : "14_entity9014",
+  "entityIndex" : "10_entity5447",
   "entityUrl" : "http://dbpedia.org/resource/John_Newman_(mayor)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -153,7 +109,7 @@
   "nouns" : [ "business", "baby", "store", "family", "boy", "transportation" ],
   "text" : "John Newman was the Mayor of Bayonne, New Jersey from 1887 to 1891. Newman was born in England around 1829 and immigrated here with his family to New York City when he was a baby. As a boy, he worked in a dry goods store. He spent ten years working in the New York harbor transportation business. He joined the Produce Exchange when it began and later served as its president. He became a junior partner in the insurance firm of Brown & Newman. Newman moved across the river to Bayonne around 1860. A Republican, Newman was elected as a councilman in 1873. He was elected president of the Bayonne City Council in 1881. He would serve ten years on the council. He won election to mayor of Bayonne in 1887. He won re-election in 1889. During his time in office, he instituted street paving for Bayonne. He lost a chance for a third term when he was defeated by Republican Councilman William C. Farr, who also was endorsed by the Democrats and the Independent Parties in a highly contested election. A year after the election, Newman switched to the Democratic Party. Newman, a banker, was president of the Mechanics Trust Fund and the Bayonne Mutual Building and Loan Association. Newman died from Bright's Disease in his home on October 29, 1901."
 }, {
-  "entityIndex" : "15_entity9016",
+  "entityIndex" : "11_entity5448",
   "entityUrl" : "http://dbpedia.org/resource/John_J._Cain",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -164,18 +120,7 @@
   "nouns" : [ "mayor", "work", "mechanic" ],
   "text" : "John J. Cain (July 5, 1861 – January 17, 1937) was the 9th mayor of Bayonne, New Jersey from 1910 to 1912. Born on July 5, 1861 in Jersey City, Cain started work as a mechanic. He worked for the Babcock & Wilcox Boiler Company in Bayonne. He married Katherine Drudy. Cain became involved in politics in Bayonne in the early 1900s. In 1910, Cain, a Democrat, defeated incumbent Pierre P. Garven to become the 9th mayor of Bayonne. As mayor, Cain was very independent, and was many times at odds with the city's Democratic party. The following year, when he ran for re-election, he lost in the Democratic primary to Bayonne's Democratic leader Matthew T. Cronin. Cain lost again in 1914, ending his political career. Cain died on January 17, 1937 in his home after a long illness at age 75. His funeral was at St. Henry's Church in Bayonne. He is buried in Holy Name Cemetery in Jersey City."
 }, {
-  "entityIndex" : "16_entity9051",
-  "entityUrl" : "http://dbpedia.org/resource/J._Roger_Pichette",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Campbellton, New Brunswick" ]
-  },
-  "words" : [ "homonymes", "Roger", "politique", "était", ",", ".", "et", "homme", "canadien", "voir", "Joseph", "un", "Pour", "les", "Pichette", "d'affaires", "articles" ],
-  "adjectives" : [ ],
-  "nouns" : [ "homme", "politique", "canadien", "était", "un" ],
-  "text" : "Pour les articles homonymes, voir Pichette. Roger Joseph Pichette était un homme d'affaires et un homme politique canadien."
-}, {
-  "entityIndex" : "17_entity9671",
+  "entityIndex" : "12_entity5811",
   "entityUrl" : "http://dbpedia.org/resource/Joe_Szwaja",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -186,7 +131,7 @@
   "nouns" : [ "activist", "citizen", "teacher", "school", "city", "council", "member", "community", "board", "president" ],
   "text" : "Joseph Brian \"Joe\" Szwaja (born October 10, 1956) is a Seattle public school teacher and political activist. Szwaja currently works at Ballard High School and is an active member of the community. As a dedicate public citizen, Szwaja founded and serves on the board of the non-profit New Dawn Guatemala in 2013, is the president of Rank Choice Voting Washington, and actively volunteers for political campaigns and various social causes. Prior to living in Seattle, Szwaja served four consecutive terms on the Madison, Wisconsin city council. In 2000 he ran for a seat in the United States Congress in his current home of Washington's 7th congressional district as a Green Party candidate then, in 2007, ran for a seat on the Seattle City Council against incumbent Jean Godden."
 }, {
-  "entityIndex" : "18_entity9775",
+  "entityIndex" : "13_entity5892",
   "entityUrl" : "http://dbpedia.org/resource/Jeff_Lehman_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -197,7 +142,7 @@
   "nouns" : [ "advisor", "economist", "role", "mayor", "work", "infrastructure", "term", "growth", "City", "investing" ],
   "text" : "Jeffrey Robert \"Jeff\" Lehman (born June 1975) is an economist and current mayor of Barrie, Ontario. The Chairman of the Finance Committee of Council, he has played a central role in many of the issues affecting the City of Barrie during the current term of Council (2006–2010). As an economist, his work specializes in managing growth and investing in urban infrastructure, and he has served as an advisor to many large Canadian cities including Calgary, Ottawa, Waterloo Region, Regina, and Hamilton."
 }, {
-  "entityIndex" : "19_entity10050",
+  "entityIndex" : "14_entity6105",
   "entityUrl" : "http://dbpedia.org/resource/Jack_MacLaren",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -208,18 +153,7 @@
   "nouns" : [ "election", "politician", "district", "caucus", "member", "Assembly" ],
   "text" : "Jack MacLaren is a Canadian politician, who was first elected to the Legislative Assembly of Ontario in the 2011 election. He represents the electoral district of Carleton—Mississippi Mills as a member of the Ontario Progressive Conservative Party caucus."
 }, {
-  "entityIndex" : "20_entity10095",
-  "entityUrl" : "http://dbpedia.org/resource/Junius_Ho",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Hong Kong" ]
-  },
-  "words" : [ "、", "。", "律師樓資深合夥人", "JP", "（", "）", "，", "英语", "－", "2016年8月", "現為屯門區議會議員及立法會新界西選區議員", "：", "身兼多項公職", "香港師爺", "政治人物", "已婚", "Ho", "廣州代辦處首席代表", "香港律師會前會長及香港足球總會獨立董事", "1962年6月4日", "Junius", "育有兩子一女", "Kwan-yiu", "周永勤在電視選舉論壇指出何氏并非新界原居民", "何君堯" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Kwan-yiu", "）" ],
-  "text" : "何君堯，JP（英语：Junius Ho Kwan-yiu，1962年6月4日－）香港師爺，政治人物，已婚，育有兩子一女，現為屯門區議會議員及立法會新界西選區議員，律師樓資深合夥人、廣州代辦處首席代表、香港律師會前會長及香港足球總會獨立董事，身兼多項公職。（ 2016年8月，周永勤在電視選舉論壇指出何氏并非新界原居民）"
-}, {
-  "entityIndex" : "21_entity10475",
+  "entityIndex" : "15_entity6441",
   "entityUrl" : "http://dbpedia.org/resource/John_Merlo",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -230,7 +164,7 @@
   "nouns" : [ "senator", "leader", "politician", "father", "state" ],
   "text" : "John Merlo (1912 - August 9, 1992) was an American politician, who served for seven terms as an Illinois State Representative, for three years as an Illinois state senator, as well as for two years as a Chicago City Council alderman for Chicago's 44th Ward. His father was Mike Merlo, leader of Unione Siciliana."
 }, {
-  "entityIndex" : "22_entity10491",
+  "entityIndex" : "16_entity6457",
   "entityUrl" : "http://dbpedia.org/resource/John_Sharpe_James",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -241,18 +175,7 @@
   "nouns" : [ "politician", "Council" ],
   "text" : "John Sharpe James (born July 19, 1968) is an American politician who is Member of the Municipal Council of Newark, New Jersey, representing the South Ward."
 }, {
-  "entityIndex" : "23_entity10516",
-  "entityUrl" : "http://dbpedia.org/resource/Juan_Requesens",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Caracas" ]
-  },
-  "words" : [ "Nacional", "de", "-LSB-", "con", "político", "UCV", "hablar", "Central", "salió", "del", "dirigido", "puesto", "han", "dada", "oponiéndose", "un", "Ha", "vivo", "estudiantil", "las", "el", "Maduro", "en", "Asamblea", "al", "estudiantes", "diputado", ",", "diciembre", "directamente", "Bolivariana", "es", ".", "líder", "puedan", "República", "movimiento", "presidido", "6", "marchas", "-RRB-", "electo", "CNE", "adjudicación", "1989", "venezolano", "que", "Actualmente", "-LRB-", "Universidad", "gobierno", "periodo", "detenidos", "Táchira", "Nicolás", "llevara", "sea", "los", "por", "se", "liberación", "sido", "para", "durante", "si", "pueblo", "elecciones", "televisada", "su", "demandas", "una", "Requesens", "protestas", "Venezuela", "oposición", "venezolanas", "la", "2015", "2014", "fue", "2016-2020", "y", "requerida", "-RSB-", "Juan", "reunión", "cita", "Las", "principales" ],
-  "adjectives" : [ "y", "adjudicación" ],
-  "nouns" : [ "que", "con", "político", "periodo", "el", "diputado", "sea", "líder", "por", "para", "dada", "un", "estudiantil", "televisada" ],
-  "text" : "Juan Requesens (Táchira, Venezuela, 1989) es un líder político estudiantil de la Universidad Central de Venezuela (UCV) y fue el líder de la oposición estudiantil durante las protestas venezolanas de 2014. Ha dirigido marchas oponiéndose al gobierno venezolano presidido por Nicolás Maduro. Las demandas principales de su movimiento es la liberación de los estudiantes que han sido detenidos, y si una reunión se llevara con Maduro, que sea televisada en vivo para que puedan hablar directamente con el pueblo venezolano.[cita requerida] Actualmente, Requesens es diputado a la Asamblea Nacional de la República Bolivariana de Venezuela, puesto que salió electo en las elecciones del 6 de diciembre de 2015, para el periodo 2016-2020, adjudicación dada por el CNE."
-}, {
-  "entityIndex" : "24_entity10593",
+  "entityIndex" : "17_entity6543",
   "entityUrl" : "http://dbpedia.org/resource/Jon_Carey",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -263,7 +186,7 @@
   "nouns" : [ "politician", "district", "member" ],
   "text" : "Jon Carey (born February 19, 1946) is a Canadian politician. He represented the electoral district of Kings West in the Nova Scotia House of Assembly from 1999 to 2003. He was a member of the Progressive Conservative Party of Nova Scotia. Carey was born in 1946 at Aylesford, Nova Scotia. He is a former teacher, and farm equipment business owner in Aylesford. Prior to entering provincial politics, he spent 21 years as chief of the Aylesford Volunteer Fire Department. In the 1999 election, he was elected MLA for Kings West defeating his closest opponent by almost 1,700 votes. He was defeated by Liberal Leo Glavine when he ran for re-election in 2003. In the 2004 federal election, Carey attempted a political comeback running for the Conservative Party in the West Nova riding. He was defeated by Liberal incumbent Robert Thibault by more than 4,000 votes."
 }, {
-  "entityIndex" : "25_entity10611",
+  "entityIndex" : "18_entity6558",
   "entityUrl" : "http://dbpedia.org/resource/John_Francis_Burke",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -274,7 +197,7 @@
   "nouns" : [ "politician", "district", "member", "dentist" ],
   "text" : "John Francis Burke (February 8, 1923 – August 4, 2006) was a Canadian dentist and politician. He represented the electoral district of Cape Breton South in the Nova Scotia House of Assembly from 1970 to 1974. He was a member of the Nova Scotia Progressive Conservative Party. Burke was born in Sydney, Nova Scotia. He was educated at St. Francis Xavier University and Dalhousie University, earning his D.D.S. degree at the latter in 1947. He was married to Theresa Carmelita MacLean. She died in 2003. He died at Cape Breton Regional Hospital on August 4, 2006."
 }, {
-  "entityIndex" : "26_entity10631",
+  "entityIndex" : "19_entity6574",
   "entityUrl" : "http://dbpedia.org/resource/Joe_Markley",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -285,29 +208,7 @@
   "nouns" : [ "native", "State", "member", "term", "age" ],
   "text" : "Joe Markley (born November 28, 1956) is a member of the Connecticut State Senator representing the 16th State Senate District. A native of Southington, Connecticut, he was first elected to the State Senate in 1984 at the age of 27, serving only one term. He returned to the State Senate in 2010 at the age of 53."
 }, {
-  "entityIndex" : "27_entity19759",
-  "entityUrl" : "http://dbpedia.org/resource/Zulfiqar_Mirza",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Khayaban-e-Mujahid, Phase-V, D.H.A, Karachi" ]
-  },
-  "words" : [ "Politiker", "Provinz", "-LRB-", "Pakistanischen", "vollem", "ist", "ein", "Er", "Innenminister", "1954", "der", "Zulfiqar", "mit", "Namen", "Januar", "12", "*", "Hyderabed", "und", ",", ".", "Mitglied", "Volkspartei", "Mirza", "pakistanischer", "-RRB-", "Ali", "Sindh" ],
-  "adjectives" : [ "Hyderabed", "Januar" ],
-  "nouns" : [ "Politiker", "pakistanischer", "mit", "und", "vollem", "ist", "ein" ],
-  "text" : "Zulfiqar Mirza, mit vollem Namen Zulfiqar Ali Mirza, (* 12. Januar 1954 in Hyderabed) ist ein pakistanischer Politiker. Er ist Mitglied der Pakistanischen Volkspartei  und Innenminister der Provinz Sindh."
-}, {
-  "entityIndex" : "28_entity4434",
-  "entityUrl" : "http://dbpedia.org/resource/Eugene_Dennis",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "http://dbpedia.org/resource/New_York" ]
-  },
-  "words" : [ "communist", "leader", "named", "-LRB-", "American", "Dennis", "United", "Waldron", "best", "pseudonym", "Court", "States", "Xavier", "remembered", "Communist", "Supreme", "Francis", "Party", "known", "long-time", "January", "31", "case", "10", "--", "USA", "famous", "McCarthy", "politician", "union", ",", ".", "August", "Ryan", "1961", "Era", "organizer", "-RRB-", "v.", "Tim", "1905", "Eugene", "party" ],
-  "adjectives" : [ "famous", "American", "long-time" ],
-  "nouns" : [ "communist", "leader", "organizer", "politician", "union", "pseudonym", "party", "case" ],
-  "text" : "Francis Xavier Waldron (August 10, 1905 – January 31, 1961), best known by the pseudonym Eugene Dennis and Tim Ryan was an American communist politician and union organizer, best remembered as the long-time leader of the Communist Party USA and as named party in Dennis v. United States, a famous McCarthy Era Supreme Court case."
-}, {
-  "entityIndex" : "29_entity4439",
+  "entityIndex" : "20_entity2759",
   "entityUrl" : "http://dbpedia.org/resource/Edson_Zvobgo",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -318,18 +219,7 @@
   "nouns" : [ "spokesman", "minister", "founder", "Front", "father", "scholarship", "name", "poet", "party", "lawyer", "Zanu-PF" ],
   "text" : "Edson Jonasi Zvobgo (2 October 1935 – 22 August 2004) was a founder of Zimbabwe's ruling party Zanu-PF, was the Patriotic Front's spokesman at the Lancaster House in late 1979, a Harvard-trained lawyer, and a poet. His name is often misspelled by the media, either as Eddison instead of Edson or Zvogbo instead of Zvobgo. He was born in then Southern Rhodesia in 1935, near Fort Victoria (now Masvingo), where his father was a minister in the Dutch Reformed Church. In 1960, Zvobgo won a scholarship to Tufts University in Boston, Massachusetts aged 25. After taking a bachelor's degree there in 1964, he returned home to be arrested and detained for political activism against white rule in Rhodesia, along with Robert Mugabe and Joshua Nkomo. Zvobgo was freed in 1971, and he spent a period in exile in Canada. He then studied law at Harvard and international relations at The Fletcher School of Law and Diplomacy, followed by a position as associate professor teaching criminal law at Lewis University College in Illinois. Zvobgo played a key role in international negotiations at Lancaster House that ended the bitter bush war and led to British-sponsored all race elections ahead of independence in 1980. He was the Zanu-PF spokesman, and impressed many in the international press with his quick repartee and astute analysis of the negotiations. In the 1980 elections, he won a seat in parliament for Masvingo, which he continued to hold until his death. An influential member of Zimbabwe's first fully independent cabinet, Zvobgo was minister for local government and housing until 1982, and minister for justice until 1985. As minister of parliamentary and constitutional affairs, in 1987 he made several amendments to the Constitution that concentrated power in the hands of the president and moved Zimbabwe towards a one-party state. Initially a staunch supporter of Zanu-PF policies, in later years he criticised Robert Mugabe's autocratic rule. In 1992 Zvobgo was moved to the less influential post of Minister of Mines. In 1996 he survived a car accident, in which both his legs were broken. This accident was considered suspicious by many. Shortly after the accident Mugabe demoted Zvobgo further to Minister Without Portfolio, and, in 2000, he was dropped from the cabinet altogether. In the 2002 presidential elections, he refused to campaign for Mugabe, but did not endorse the opposition challenger Morgan Tsvangirai, leader of the Movement for Democratic Change (MDC). He also voiced his opposition to the sweeping media law, passed the same year, calling it \"the most serious assault on our constitutional liberties since independence\". Despite his criticism, Zvobgo eventually voted for the legislation, which was used to close off Zimbabwe's only privately owned daily newspaper, The Daily News, and to arrest at least 31 independent journalists. He became the subject of an internal party disciplinary inquiry in 2003 for his refusal to campaign for Mugabe and after describing the laws as a weapon to stifle opposition to the government, but allegations of disloyalty were eventually dropped. Zvobgo had also been accused of holding private talks with the opposition Movement for Democratic Change as the ruling party abandoned formal dialogue between the two parties. Zvobgo died on 22 August 2004 after a lengthy battle with cancer. His wife Julia Tukai Zvobgo, a former Zanu-PF MP, died in February 2004 at the age of 67. He is survived by his seven children, Kerina, Edson Junior, Tsungirirai, Jonasi, Esther, Tendai and Farai Emily."
 }, {
-  "entityIndex" : "30_entity4501",
-  "entityUrl" : "http://dbpedia.org/resource/Eric_Li",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Hong Kong" ]
-  },
-  "words" : [ "23", "Hong", "functional", "-LRB-", "Lǐ", "May", "Eric", "JP", "Baptist", "accounting", "Committee", "Council", "1953", "School", "member", "GBS", "adjunct", "Kong", "Business", "Accountancy", "Jiāxiáng", "born", "Public", ".", "Chairman", "Ka-Cheung", "李家祥", "professor", "pinyin", "University", "constituency", "-RRB-", "Chinese", "Legislative", ":", ";", "LI", "formerly", "Accounts" ],
-  "adjectives" : [ "functional", "Legislative" ],
-  "nouns" : [ "professor", "pinyin", "Lǐ", "constituency", "Jiāxiáng", "member", "accounting", "adjunct", "Chairman" ],
-  "text" : "Eric LI Ka-Cheung GBS JP (Chinese: 李家祥; pinyin: Lǐ Jiāxiáng) (born 23 May 1953) is adjunct professor at the School of Accountancy of the Chinese University of Hong Kong and the School of Business of Hong Kong Baptist University. He was formerly a member of the Hong Kong Legislative Council for the accounting functional constituency and Chairman of its Public Accounts Committee."
-}, {
-  "entityIndex" : "31_entity4592",
+  "entityIndex" : "21_entity2816",
   "entityUrl" : "http://dbpedia.org/resource/Edward_Hoos",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -340,7 +230,7 @@
   "nouns" : [ "boss", "business", "furniture", "wife", "upholster" ],
   "text" : "Hoos was born in Neuwied am Rhine, Germany on August 31, 1850. He was an upholster and after immigrating to the United States, started a furniture business in Jersey City. His wife Dora Wilkins, of Hanover, Germany, died in 1890. In 1897, he was pushed by Democratic political boss, Robert Davis, to run for Mayor of Jersey City. The mayoral election of 1897 was very controversial. The Republican controlled state legislature passed the McArthur Act which postponed Jersey City and Newark's elections from the Spring to November to make them coincide with the state elections. The New Jersey Supreme Court ruled that this was unconstitutional. The Republicans appealed the Supreme Court's decision to the New Jersey Court of Errors and Appeals. Since the decision was under appeal, the Republicans claimed that the elections planned for April 14 should not be held at that time until the court ruled on their appeal and if they were held then their results would not be valid until after the appeal was ruled on. The Democrats claimed they would be held and their results would be valid. Hoos won the election against Republican J. Herbert Potts, 15,264 votes to 12,018. however, Mayor Peter F. Wanser refused to vacate the mayor's office claiming the election was not valid until their appeal was heard in court. Hoos had to formally demand Wanser to leave the office on May 3, 1897. The New Jersey Court of Errors and Appeals ruled in September in favor of Hoos. Hoos won re-election over Republican Edward M. Watson by an even bigger margin of 7,000 votes on April 11, 1899. Hoos had served two terms (May 3, 1897 to December 31, 1901), but Boss Davis knew the voters wanted a change and dumped Hoos from the ticket in 1901 in favor of Edward L. Young (New Jersey), son of Edward Faitoute Condict Young (Davis' financial backing). It did not matter to the voters who swept in Republican Mark M. Fagan as mayor. Hoos died on October 24, 1912 and was buried in New York Bay Cemetery in Jersey City alongside his wife and three of his children."
 }, {
-  "entityIndex" : "32_entity4593",
+  "entityIndex" : "22_entity2817",
   "entityUrl" : "http://dbpedia.org/resource/Egbert_Seymour",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -351,18 +241,7 @@
   "nouns" : [ "election", "mayor", "term", "sheriff" ],
   "text" : "Born December 15, 1850 in Walkill in upstate New York, Seymour came to Bayonne, New Jersey in the 1880s and became active in Democratic Party politics. He was elected Mayor in 1895, defeating incumbent Republican mayor William C. Farr who was seeking a third term. On April 11, 1899, Seymour was elected to a second term. In 1905, Seymour ran for Hudson County sheriff, but was upset in the election by Republican John C. Kaiser. After this, Seymour withdrew from public service. Seymour ran a butter and egg business in New York City. He was one of the founders of the Bayonne Democratic Club. He was also a leader of the Volunteer and Exempt Firemen of Bayonne. He was chairman of the Board of Directors of Bayonne Hospital. Seymour died on February 6, 1921 in his home of influenza at age 70. He is buried in Bayview/New York Bay Cemetery in Jersey City. Coincidentally, Farr, who he defeated as mayor, died of influenza eight days later."
 }, {
-  "entityIndex" : "33_entity4775",
-  "entityUrl" : "http://dbpedia.org/resource/Ephraim_H._Hyde",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Stafford, Connecticut" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "Juni", "Stafford", "Zwischen", "Ephraim", "ein", "Hyde", "1896", "des", "US-amerikanischer", "1812", "†", "H.", "18", "war", "*", "und", ",", "er", ".", "1", "Connecticut", "-RRB-", ";", "1869", "Bundesstaates", "1867", "Vizegouverneur" ],
-  "adjectives" : [ "und" ],
-  "nouns" : [ "Politiker", "war", "ein", "er", "US-amerikanischer" ],
-  "text" : "Ephraim H. Hyde (* 1. Juni 1812 in Stafford, Connecticut; † 18. Juni 1896) war ein US-amerikanischer Politiker. Zwischen 1867 und 1869 war er Vizegouverneur des Bundesstaates Connecticut."
-}, {
-  "entityIndex" : "34_entity5104",
+  "entityIndex" : "23_entity3167",
   "entityUrl" : "http://dbpedia.org/resource/Eddie_Osborne",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -373,7 +252,7 @@
   "nouns" : [ "leader", "at-Large", "union", "Council" ],
   "text" : "Edward \"Eddie\" Osborne is a Council Member at-Large of the Municipal Council of Newark, New Jersey. He has worked as a union leader and on the Newark Housing Authority."
 }, {
-  "entityIndex" : "35_entity18941",
+  "entityIndex" : "24_entity11649",
   "entityUrl" : "http://dbpedia.org/resource/Warren_McCall",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -384,18 +263,7 @@
   "nouns" : [ "member", "by-election", "Assembly" ],
   "text" : "Warren McCall is a Member of the Legislative Assembly of Saskatchewan. A member of the Saskatchewan New Democratic Party, he was first elected in a February 2001 by-election. McCall has subsequently been returned to the Legislative Assembly by the people of Regina Elphinstone-Centre in the 2003 and 2007 general elections. McCall is the Official Opposition Critic for First Nations & Métis Relations, the Provincial Secretary and Crown Corporations. In the Lorne Calvert NDP Government, McCall served in a variety of roles. Most notable were appointments as Minister of Advanced Education & Employment, and as Minister of Corrections & Public Safety. He chaired a Review of Accessibility & Affordability of Post-Secondary Education in Saskatchewan. He also served as Deputy Whip, Deputy Caucus Chair, Chair of the Crown Corporations Committee, Chair of the Standing Committee on the Economy, in addition to membership on several committees of the Assembly. McCall holds a Bachelor of Arts in Canadian History from the University of Regina. From 1997 to 2001, he worked for veteran New Democratic Party Member of Parliament Lorne Nystrom in Ottawa and Regina. McCall calls North Central Regina home. It is the neighbourhood where he was born and raised, and is the largest community in Regina Elphinstone-Centre. McCall has put his beliefs into action as a long-time Credit Union / Co-operative member, and as a labour activist. As both player and coach, McCall has enjoyed sports such as water polo, hockey and softball. He was voted \"Best Regina MLA\" four times by the readers of Regina's Prairie Dog Newsmagazine. McCall volunteers for a number of organizations and community events, including Habitat for Humanity, the Regina Folk Festival, the Cathedral Village Arts Festival, the Albert Library Community Council, the Canadian Blood Service, and the North Central Community Association."
 }, {
-  "entityIndex" : "36_entity18975",
-  "entityUrl" : "http://dbpedia.org/resource/Wu_Xinxiong",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Beijing" ]
-  },
-  "words" : [ "吴新雄", "Politiker", "Provinz", "-LRB-", "trat", "bei", "seit", "Jiangxi", "Kommunistischen", "ist", "ein", "Gouverneur", "Er", "der", "2006", "China", "Ökonom", "chinesisch", "1979", "Chinas", "Ämter", "Partei", "Jiangyin", "*", "hatte", ",", "Xinxiong", "inne", ".", "Volksrepublik", "Der", "hohe", "-RRB-", "Jiangsu", "1949", ";", "Wu" ],
-  "adjectives" : [ "chinesisch" ],
-  "nouns" : [ "吴新雄", "Politiker", "hohe", "Ämter", "seit", "ist", "ein", "hatte", "inne" ],
-  "text" : "Wu Xinxiong (chinesisch 吴新雄; * 1949 in Jiangyin, Provinz Jiangsu) ist ein Politiker in der Volksrepublik China. Er ist seit 2006 Gouverneur der Provinz Jiangxi. Wu trat 1979 der Kommunistischen Partei Chinas bei. Der Ökonom hatte hohe Ämter in der Provinz Jiangsu inne. So war er Bürgermeister seiner Geburtsstadt und Vizebürgermeister von Wuxi. Wu war von 2003 bis 2006 Vizegouverneur der Provinz Jiangxi."
-}, {
-  "entityIndex" : "37_entity19011",
+  "entityIndex" : "25_entity11699",
   "entityUrl" : "http://dbpedia.org/resource/Wendell_H._Phillips",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -406,7 +274,7 @@
   "nouns" : [ "politician", "district", "chairman", "section" ],
   "text" : "Wendell Harrison Phillips (November 19, 1934 – January 29, 1993) was an American politician who served in the Maryland House of Delegates and was the first African American chairman of the Baltimore City Delegation. Phillips was one of three delegates serving the 41st legislative district, which lies in the central, northwest section of Baltimore City."
 }, {
-  "entityIndex" : "38_entity19024",
+  "entityIndex" : "26_entity11705",
   "entityUrl" : "http://dbpedia.org/resource/Walter_C._Lawson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -417,7 +285,7 @@
   "nouns" : [ "figure", "public", "member", "lawyer", "Assembly" ],
   "text" : "Walter Cyril Lawson BCL (February 1, 1889 – 1970) was a lawyer, notary public and political figure in the Province of New Brunswick, Canada. He represented Sunbury County in the Legislative Assembly of New Brunswick from 1935 to 1944 as a Liberal member."
 }, {
-  "entityIndex" : "39_entity19364",
+  "entityIndex" : "27_entity11963",
   "entityUrl" : "http://dbpedia.org/resource/W._Henry_Maxwell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -428,7 +296,7 @@
   "nouns" : [ "minister", "Baptist", "politician" ],
   "text" : "The Rev. Dr. Walter Henry Maxwell, Sr. (April 3, 1935 – November 13, 2010) was an African-American politician and Baptist minister from Newport News, Virginia. A Democrat, he served in the Virginia House of Delegates 1983–1993 and the Senate of Virginia 1993–2004."
 }, {
-  "entityIndex" : "40_entity19384",
+  "entityIndex" : "28_entity11981",
   "entityUrl" : "http://dbpedia.org/resource/William_Digges",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -439,7 +307,7 @@
   "nouns" : [ "politician", "member", "office", "revolt", "councillor", "seventeenth", "c1651", "eighteenth" ],
   "text" : "Colonel William Digges (c1651- 24 July 1697) was a politician in Colonial Virginia and a councillor in Colonial Maryland in the late seventeenth and early eighteenth centuries. He was a member of the Maryland Proprietary Council until losing his office in 1689 during the Protestant Revolution, when the Calvert Proprietorship was overthrown by a Puritan revolt."
 }, {
-  "entityIndex" : "41_entity19537",
+  "entityIndex" : "29_entity12116",
   "entityUrl" : "http://dbpedia.org/resource/Walton_Cook",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -450,18 +318,7 @@
   "nouns" : [ "politician", "district", "member", "lawyer" ],
   "text" : "Walton William Cook (May 12, 1933 – April 20, 2008) was a Canadian lawyer and politician. He represented the electoral district of Lunenburg Centre in the Nova Scotia House of Assembly from 1970 to 1974. He was a member of the Nova Scotia Liberal Party. Cook was born in Bridgewater, Nova Scotia. A lawyer, he attended Dalhousie University for his Bachelor of Laws (L.L.B.) degree. In 1962, he married Judith Isabelle Keddy. He died at home in Lunenburg in 2008."
 }, {
-  "entityIndex" : "42_entity18497",
-  "entityUrl" : "http://dbpedia.org/resource/Vasudeva_Nanayakkara",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "49", "Colombo 10, Sri Lanka." ]
-  },
-  "words" : [ "-LRB-", "left-wing", "Lankan", "Vasudeva", "born", "politician", "Nanayakkara", "Sri", ",", "former", ".", "candidate", "3", "veteran", "-RRB-", "1939", "presidential", "January", "Member", "Parliament" ],
-  "adjectives" : [ "left-wing", "presidential", "former" ],
-  "nouns" : [ "candidate", "veteran", "politician" ],
-  "text" : "Vasudeva Nanayakkara (born 3 January 1939) is a veteran left-wing Sri Lankan politician, Member of Parliament and a former presidential candidate."
-}, {
-  "entityIndex" : "43_entity18553",
+  "entityIndex" : "30_entity11445",
   "entityUrl" : "http://dbpedia.org/resource/Vivian_L._Page",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -472,7 +329,7 @@
   "nouns" : [ "city", "politician", "member", "lawyer" ],
   "text" : "Vivian L. Page (June 1, 1894 – June 21, 1962) was an American politician and lawyer. He was a Democratic member of the Virginia House of Delegates 1924–1936 and the Senate of Virginia 1936–1944, representing the city of Norfolk."
 }, {
-  "entityIndex" : "44_entity18581",
+  "entityIndex" : "31_entity11465",
   "entityUrl" : "http://dbpedia.org/resource/Vijayalaxmi_Sadho",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -483,7 +340,7 @@
   "nouns" : [ "candidate", "politician", "worker" ],
   "text" : "Dr Vijaylaxmi Sadho (born November 13, 1959) is an Indian social worker, politician and a Member of Parliament (Rajya Sabha) elected from Madhya Pradesh, India being an Indian National Congress candidate."
 }, {
-  "entityIndex" : "45_entity18584",
+  "entityIndex" : "32_entity11467",
   "entityUrl" : "http://dbpedia.org/resource/Vinayak_Raut",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -494,18 +351,7 @@
   "nouns" : [ "candidate", "constituency", "politician", "Raut", "member", "state", "Assembly" ],
   "text" : "Vinayak Raut (Marathi: विनायक राऊत) (born 1954) is a Shiv Sena politician from Vile Parle, Mumbai in the Maharashtra state of India. Raut represents Ratnagiri-Sindhudurg constituency in the 16th Lok Sabha. He was previously elected as a member of the Maharashtra Legislative Assembly from Vile-Parle for 1999-2004 as a Shiv Sena candidate. He was also elected as a member of Maharashtra Legislative Council from Shiv Sena Party in 2012. He resigned on 27 May 2014 from the Maharashtra Legislative Assembly. Raut was elected as MP for Ratnagiri-Sindhudurg constituency in the 2014 elections."
 }, {
-  "entityIndex" : "46_entity11400",
-  "entityUrl" : "http://dbpedia.org/resource/Lau_Wong-fat",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Hong Kong" ]
-  },
-  "words" : [ "Lau", "New", "Hong", "-LRB-", "strength", "JP", "rural", "political", "morphed", "Council", "represents", "October", "GBM", "government", "Heung", "member", "劉皇發", "power", "1936", "Kong", "Kuk", "Executive", "centrally", "15", "born", "Mun", "representing", "chairman", "establishment", "also", ",", "Wong-fat", "Tuen", "Territories", "former", ".", "Beijing", "constituency", "powerful", "-RRB-", "Yee", "Chinese", "Legislative", ":", "interests", "District" ],
-  "adjectives" : [ "powerful", "rural", "Legislative", "political", "former" ],
-  "nouns" : [ "government", "constituency", "strength", "member", "chairman", "establishment", "power" ],
-  "text" : "Lau Wong-fat, GBM, JP (Chinese: 劉皇發, born 15 October 1936 in Tuen Mun, Hong Kong) is a former member of the Hong Kong Legislative Council, representing the Heung Yee Kuk constituency. He was a member of Hong Kong Executive Council and chairman of the powerful Heung Yee Kuk, which represents the interests of the New Territories establishment. He was also the chairman of Tuen Mun District Council. This political strength in rural Hong Kong has been morphed into power centrally and with the Beijing government. He earned his prestige by fighting for the New Territories indigenous interests by insert an article in the Hong Kong Basic Law to ensure their privileges remained protected after Hong Kong's handover to Chinese sovereignty in 1997 when he was a member of the Hong Kong Basic Law Drafting Committee. For this, together with his extensive ownership of land and property, he is known as the \"King of the New Territories\" (新界王) or the \"Land Emperor of the New Territories\" (新界土皇帝). Billionaire Lau is politically identified as part of the pro-Beijing camp. He is a member of the Chinese People's Political Consultative Conference and has a close relationship with the Chinese Communist Party."
-}, {
-  "entityIndex" : "47_entity11555",
+  "entityIndex" : "33_entity7125",
   "entityUrl" : "http://dbpedia.org/resource/Linda_Reid",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -516,7 +362,7 @@
   "nouns" : [ "politician", "Assembly" ],
   "text" : "Linda Reid is a Canadian politician. She serves as Speaker of the Legislative Assembly of British Columbia. She was first elected in 1991 to represent the riding of Richmond East and was re-elected in 1996, 2001, 2005, 2009, 2013. Reid served as Minister of State for Childcare from June 2005 to June 2009 and the Minister of State for Early Childhood Development from June 2001 to June 2005. She also served as the Deputy Speaker from 2009 until 2013."
 }, {
-  "entityIndex" : "48_entity11685",
+  "entityIndex" : "34_entity7188",
   "entityUrl" : "http://dbpedia.org/resource/Larry_Delgado",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -527,7 +373,7 @@
   "nouns" : [ "election", "mayor", "%", "position", "vote", "pro-development" ],
   "text" : "Larry Delgado (born 1936) was elected mayor of Santa Fe, New Mexico after serving two terms on the Santa Fe City Council from 1990 to 1998. He was elected mayor of Santa Fe in 1998 after defeating mayor Debbie Jaramillo and former mayor Sam Pick. In that election, he was viewed as taking a centrist position between Jaramillo's anti-development policies and Pick's pro-development policies. He received 44% of the vote, ahead of Pick's 32% and Jaramillo's 11%. Delgado served two full terms as mayor, leaving office in 2006. Larry Delgado is a current member of the New Mexico Racing Commission, having been appointed by Governor Bill Richardson in 2006."
 }, {
-  "entityIndex" : "49_entity11749",
+  "entityIndex" : "35_entity7226",
   "entityUrl" : "http://dbpedia.org/resource/Lawrence_Taliaferro_Dade",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -538,7 +384,7 @@
   "nouns" : [ "Regiment", "member", "War", "time", "daughter", "Assembly" ],
   "text" : "General Lawrence Taliaferro Dade of “Bell Forest,” (1785 in Orange County, Virginia – March 25, 1842 in Owensboro, Kentucky), who married Anne Mayo on May 4, 1815 in Henrico Virginia. Anne was the daughter of William and Elizabeth Bland (Poythress) Mayo. Lawrence entered the War of 1812 as Captain of the 2nd Regiment of the Virginia Artillery. At the time he was serving as a member of the Virginia Assembly (1808–1819). He also served as a member of the Virginia State Senate from 1819 to 1832. During session of the senate in 1828 he spoke regarding Joseph Cabell of Nelson County Virginia who was nearly regarded as a co-founder of the University of Virginia this the words \"If aught of good proceeds from the University, the pride and glory of Virginia, the member from Nelson cannot be forgotten; for he, in promoting that monument of wisdom and taste, was second only to the immortal Jefferson.\" Before his death in 1842 General Lawrence Taliaferro Dade moved his family to Owensboro, Kentucky."
 }, {
-  "entityIndex" : "50_entity11794",
+  "entityIndex" : "36_entity7255",
   "entityUrl" : "http://dbpedia.org/resource/Lawrence_Fagan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -549,29 +395,7 @@
   "nouns" : [ "owner", "business", "mayor", "politician" ],
   "text" : "Lawrence Fagan (January 1, 1851 - May 9, 1921) was an American business owner and Democratic politician who served as the twenty-second mayor of Hoboken, New Jersey and served in the New Jersey General Assembly for two terms from 1889 to 1890."
 }, {
-  "entityIndex" : "51_entity11985",
-  "entityUrl" : "http://dbpedia.org/resource/Lutfal_Haque",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Village: Khanabari, PO: Daharpur, District: Murshidabad" ]
-  },
-  "words" : [ "five-time", "-LRB-", "MLA", "MP", "two-time", "politician", "also", "Haque", ",", ".", "Lutfal", "known", "-RRB-", "Indian", "Haji" ],
-  "adjectives" : [ "five-time", "two-time", "Indian" ],
-  "nouns" : [ "MP", "politician" ],
-  "text" : "Lutfal Haque (also known as Haji Lutfal Haque) is an Indian politician, five-time MLA and two-time MP."
-}, {
-  "entityIndex" : "52_entity11988",
-  "entityUrl" : "http://dbpedia.org/resource/Lew_Mon-hung",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Hong Kong" ]
-  },
-  "words" : [ "、", "。", "（", "）", "國際資源集團", "《", "》", "，", "「", "指點江山", "－", "」", "Dream", "香港商人", "BBS", "但自2013年與梁振英反目後則強烈批評梁振英及特區政府", "：", "首席顧問", "；", "也聲援中國大陸三聚氰胺奶受害者維權群體結石寶寶之家發起人趙連海", "劉夢熊曾經擔任中央政策組非全職顧問", "長期支持保釣運動", "香港上市公司佳訊控股", "香港", "有限公司", "暱稱尖啤", "港交所", "文匯報", "劉夢熊", "於1973年游泳偷渡到香港", "香港特區政府策略發展委員會委員", "批評其政策", "1948年11月", "此外", "京華山一國際", "又撰寫", "東方日報", "Bear", "0030", "此後在香港一直從事期貨及外匯炒賣等高風險行業", "曾經經常對泛民主派人士嚴厲批評", "百家戰略智庫主席", "主席", "於1968年上山下鄉到東莞長安落戶", "前身為信用咭防盜及智富能源金融", "之出版機構董事", "世界最大華資投資銀行及證券行", "鏡報月刊", "生於中國廣東台山", "董事局副主席", "1051", "他當年強烈支持梁振英參與2012年行政長官選舉", "0632", "董事局主席兼執行董事及東方明珠創業", "專欄", "曾經擔任第11屆全國政協委員及外事委員會委員" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Dream", "、", "。", "（", "）", "，", "此外" ],
-  "text" : "劉夢熊，BBS（1948年11月－），暱稱尖啤、Dream Bear，香港商人，生於中國廣東台山，於1968年上山下鄉到東莞長安落戶，於1973年游泳偷渡到香港，此後在香港一直從事期貨及外匯炒賣等高風險行業；曾經擔任第11屆全國政協委員及外事委員會委員、香港特區政府策略發展委員會委員、百家戰略智庫主席、香港上市公司佳訊控股（港交所：0030）董事局主席兼執行董事及東方明珠創業（港交所：0632）董事局副主席。長期支持保釣運動，也聲援中國大陸三聚氰胺奶受害者維權群體結石寶寶之家發起人趙連海。 此外，劉夢熊曾經擔任中央政策組非全職顧問、國際資源集團（前身為信用咭防盜及智富能源金融）（港交所：1051）主席、世界最大華資投資銀行及證券行「京華山一國際（香港）有限公司」首席顧問、《鏡報月刊》之出版機構董事，又撰寫《文匯報》「指點江山」、《東方日報》「指點江山」專欄，他當年強烈支持梁振英參與2012年行政長官選舉，曾經經常對泛民主派人士嚴厲批評，但自2013年與梁振英反目後則強烈批評梁振英及特區政府，批評其政策。"
-}, {
-  "entityIndex" : "53_entity2450",
+  "entityIndex" : "37_entity1439",
   "entityUrl" : "http://dbpedia.org/resource/Carman_McClelland",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -582,7 +406,7 @@
   "nouns" : [ "candidate", "election", "politician", "member", "Assembly" ],
   "text" : "John Carman McClelland (born September 22, 1951) is a former politician in Ontario, Canada. He was a Liberal member of the Legislative Assembly of Ontario from 1987 to 1995 who represented the riding of Brampton North. He was subsequently an unsuccessful Progressive Conservative candidate in the 2007 provincial election."
 }, {
-  "entityIndex" : "54_entity2621",
+  "entityIndex" : "38_entity1523",
   "entityUrl" : "http://dbpedia.org/resource/Charles_S._Murkland",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -593,18 +417,7 @@
   "nouns" : [ "college", "move", "study", "year", "degree", "scholar", "lack", "President", "executive", "background", "position", "choice", "Graduate" ],
   "text" : "Charles Sumner Murkland (May 30, 1856 – November 11, 1926) was the first elected President of the New Hampshire College of Agriculture and the Mechanic Arts following the college's move from Hanover to Durham in the United States. While a scholar and executive, his lack of an agricultural background made him a surprising choice for the position. While President, Murkland proposed adding preparatory classes and a two-year degree and during his first year Graduate study was also established ."
 }, {
-  "entityIndex" : "55_entity2686",
-  "entityUrl" : "http://dbpedia.org/resource/Charles_Mok",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Hong Kong" ]
-  },
-  "words" : [ "Charles", "。", "JP", "現任立法會議員", "（", "Mok", "他從事資訊科技及電訊業", "莫乃光", "）", "香港互聯網協會創會主席", "，", "－", "同時曾在多份香港報章撰寫專欄", "2014年7月1日獲特區政府委任為太平紳士", "公共專業聯盟副主席", "1999年時曾被選為香港十大傑出數碼青年", "：", "Peter", "香港資訊科技商會榮譽主席", "主要評述資訊科技的發展", "英語", "1964年10月25日", "資訊科技界" ],
-  "adjectives" : [ ],
-  "nouns" : [ "。", "（", "，", "－" ],
-  "text" : "莫乃光，JP（英語：Charles Peter Mok，1964年10月25日－）現任立法會議員（資訊科技界），香港互聯網協會創會主席，香港資訊科技商會榮譽主席，公共專業聯盟副主席。1999年時曾被選為香港十大傑出數碼青年。2014年7月1日獲特區政府委任為太平紳士。他從事資訊科技及電訊業，同時曾在多份香港報章撰寫專欄，主要評述資訊科技的發展。"
-}, {
-  "entityIndex" : "56_entity2767",
+  "entityIndex" : "39_entity1620",
   "entityUrl" : "http://dbpedia.org/resource/Cornelius_Van_Vorst",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -615,7 +428,7 @@
   "nouns" : [ "generation", "namesake", "century", "Superintendent", "descendant" ],
   "text" : "Cornelius Van Vorst (March 7, 1822 – November 19, 1906) was the twelfth Mayor of Jersey City serving from 1860 to 1862. He was the namesake and eighth generation descendant of the 17th century Superintendent of the Pavonia Colony."
 }, {
-  "entityIndex" : "57_entity3098",
+  "entityIndex" : "40_entity1818",
   "entityUrl" : "http://dbpedia.org/resource/C.T._Wilson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -626,29 +439,7 @@
   "nouns" : [ "politician", "district" ],
   "text" : "C.T. Wilson  (born February 20, 1972) is an American politician who represents district 28 in the Maryland House of Delegates."
 }, {
-  "entityIndex" : "58_entity3143",
-  "entityUrl" : "http://dbpedia.org/resource/Cameron_Friesen",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Morden, Manitoba" ]
-  },
-  "words" : [ "de", "Morden-Winkler", "Manitoba", "Il", "politique", "tant", "est", "2011", "Cameron", "du", "un", "circonscription", "à", "représente", "membre", "il", "Parti", "Friesen", "provinciale", "en", ",", "l'élection", ".", "élu", "législative", "qu'un", "homme", "l'Assemblée", "canadien", "la", "lors", "progressiste-conservateur" ],
-  "adjectives" : [ "législative", "un", "progressiste-conservateur" ],
-  "nouns" : [ "homme", "il", "l'Assemblée", "Il", "politique", "canadien", "est", "provinciale", "l'élection" ],
-  "text" : "Cameron Friesen est un homme politique canadien, il est élu à l'Assemblée législative du Manitoba lors de l'élection provinciale de 2011. Il représente la circonscription de Morden-Winkler en tant qu'un membre du Parti progressiste-conservateur du Manitoba"
-}, {
-  "entityIndex" : "59_entity3360",
-  "entityUrl" : "http://dbpedia.org/resource/Chiang_Chen",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Hong Kong" ]
-  },
-  "words" : [ "。", "OBE", "蔣震", "香港著名工業家", "震雄集團創辦人", "（", "）", "山東菏澤人", "大紫荊勳賢", "，", "－", "1923年8月29日" ],
-  "adjectives" : [ ],
-  "nouns" : [ "。", "OBE", "蔣震", "，", "－" ],
-  "text" : "蔣震，大紫荊勳賢，OBE（1923年8月29日－），山東菏澤人，香港著名工業家，震雄集團創辦人。"
-}, {
-  "entityIndex" : "60_entity3361",
+  "entityIndex" : "41_entity2025",
   "entityUrl" : "http://dbpedia.org/resource/Chandrima_Bhattacharya",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -659,7 +450,7 @@
   "nouns" : [ "reshuffle", "charge", "Law", "minister", "politician", "cabinet", "ministry" ],
   "text" : "Chandrima Bhattacharya is an All India Trinamool Congress politician and Minister of Law, Judicial Affairs and Health in the Council of Ministers of West Bengal.Chandrima Bhattacharya was inducted as a minister in the first reshuffle of the ministry in January 2012 after Mamata Banerjee took over as Chief Minister. She was also made the junior Law Minister in October 2012. She was promoted as a cabinet minister and given independent charge of Law and Judicial departments in November 2012. She holds B.Com and Ll.B. degrees. She was a practising advocate in Calcutta High Court till the 2011 elections. She had been elected a Member of the Legislative Assembly on a All India Trinamool Congress ticket from Dum Dum Uttar (Vidhan Sabha constituency) in 2011."
 }, {
-  "entityIndex" : "61_entity1832",
+  "entityIndex" : "42_entity1025",
   "entityUrl" : "http://dbpedia.org/resource/Balashowry_Vallabhaneni",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -670,7 +461,7 @@
   "nouns" : [ "Sabha", "constituency", "member", "Lok", "ysr" ],
   "text" : "Balashowry Vallabhaneni (born 18 September 1968) was a member of the 14th Lok Sabha of India. He represented the Tenali constituency of Andhra Pradesh and is a member of the [[ysr Congress now]]."
 }, {
-  "entityIndex" : "62_entity1861",
+  "entityIndex" : "43_entity1044",
   "entityUrl" : "http://dbpedia.org/resource/Brad_Dee",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -681,7 +472,7 @@
   "nouns" : [ "re-election", "politician", "district", "member", "state", "house", "Session" ],
   "text" : "Bradley L. Dee (born May 5, 1950) is an American politician from Utah. He was a Republican member of the Utah State House, representing the state's 11th house district in Ogden, choosing not to seek re-election after the 2016 Legislative Session."
 }, {
-  "entityIndex" : "63_entity1908",
+  "entityIndex" : "44_entity1078",
   "entityUrl" : "http://dbpedia.org/resource/Bonnie_Dumanis",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -692,7 +483,7 @@
   "nouns" : [ "re-election", "%", "term", "vote", "primary" ],
   "text" : "Bonnie Michelle Dumanis (born December 16, 1951) is currently the District Attorney of San Diego County, California. Dumanis has been the District Attorney since 2003, when she defeated incumbent Paul Pfingst. She ran for re-election unopposed in 2006 and 2010. She faced two challengers when she ran for a fourth term in 2014, but won re-election in the June primary by getting 55% of the vote. In 2012 Dumanis ran for Mayor of San Diego, did not advance from the primary election, and later endorsed Carl DeMaio in the general election. Dumanis is a Republican, though the office she holds is officially nonpartisan. She is the first openly gay or lesbian DA in the country. She is the first Jewish woman to hold the post of District Attorney in San Diego."
 }, {
-  "entityIndex" : "64_entity1968",
+  "entityIndex" : "45_entity1122",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Lann_Lee",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -703,7 +494,7 @@
   "nouns" : [ "daughter", "lawyer" ],
   "text" : "Bill Lann Lee (born February 5, 1949) is a Chinese American civil rights lawyer who served as Assistant United States Attorney General for the Civil Rights Division for the United States Department of Justice Civil Rights Division under President Bill Clinton. He is married to Carolyn Yee with whom he has two sons and a daughter. He currently resides in Berkeley, California."
 }, {
-  "entityIndex" : "65_entity2040",
+  "entityIndex" : "46_entity1156",
   "entityUrl" : "http://dbpedia.org/resource/Bimala_Prasad_Chaliha",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -714,18 +505,7 @@
   "nouns" : [ "participation", "call", "bar", "freedom", "post", "fighter", "Jail", "office" ],
   "text" : "Bimala Prasad Chaliha (March 27, 1912 – February 25, 1971) was a Leader of Indian National Congress and a freedom fighter who was put behind bar in the Jorhat Jail in 1942 for active participation in Mahatma Gandhi's call of Quit India to the British Govt. He was elected to the post of Chief Minister for three five years terms of Assam State, once from Badarpur Constituency and twice from Sonari Constituency. He was in office from December 28, 1957 to November 6, 1970. He was awarded Padma Vibhushan in 1971. During his tenure as the Chief Minister, the Assam Official Language Act, 1960 was enacted, which made Assamese language the sole official language of the state. During his terms the Chinese attacked India at Bomdilla then called NEFE now known as Arunachal Pradesh. He strongly opposed the division of Assam State into smaller states like Nagaland, Mizoram and Meghalaya and was member in various Committees of India's Central Government. Only after his death the State of Assam was broken down into smaller States. The March 1966 Mizo National Front uprising also happened during his tenure. Earlier he was instrumental in promoting the Assam Plantation Act to safeguard the interest of the Tea Tribes of Assam. During his second term as Chief Minister the issue of illegal migration from then East Bengal came up, he claimed there were 300,000 illegal entrants in Assam, and he took active steps to deport them in his third term."
 }, {
-  "entityIndex" : "66_entity2090",
-  "entityUrl" : "http://dbpedia.org/resource/Bernard_Bosson",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "France" ]
-  },
-  "words" : [ "français", "de", "25", "-LRB-", "Il", "fois", "politique", "est", "d'Annecy", "2007", "député", "Haute-Savoie", "Annecy", "UDF", "un", "l'Union", "plusieurs", "Bosson", "à", "membre", "maire", "pour", "française", "ministre", ",", ".", "et", "homme", "démocratie", "1983", "la", "-RRB-", "le", "Bernard", "né", "1948", "février" ],
-  "adjectives" : [ "à" ],
-  "nouns" : [ "homme", "Il", "politique", "démocratie", "UDF", "est", "française", "un", "né", "février" ],
-  "text" : "Bernard Bosson, né le 25 février 1948 à Annecy, est un homme politique français, membre de l'Union pour la démocratie française (UDF). Il est maire d'Annecy de 1983 à 2007 et plusieurs fois député de Haute-Savoie et ministre."
-}, {
-  "entityIndex" : "67_entity2143",
+  "entityIndex" : "47_entity1227",
   "entityUrl" : "http://dbpedia.org/resource/Balram_Naik",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -736,7 +516,7 @@
   "nouns" : [ "politician", "member", "party" ],
   "text" : "Porika Naik Balram known as Balram Naik (born 6 June 1964) is an Indian politician and a member of the Indian National Congress political party. He was a member of the 15th Lok Sabha, Lower House of the Parliament of India."
 }, {
-  "entityIndex" : "68_entity2147",
+  "entityIndex" : "48_entity1231",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Finch_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -747,18 +527,7 @@
   "nouns" : [ "mayor", "%", "majority", "vote", "whip" ],
   "text" : "Bill Finch (born March 4, 1956) was the mayor of Bridgeport, Connecticut and former majority whip in the Connecticut Senate. A Democrat, he was elected Mayor of Bridgeport in November 2007 with approximately 76% of the vote."
 }, {
-  "entityIndex" : "69_entity2154",
-  "entityUrl" : "http://dbpedia.org/resource/Brian_Macdonald_(politician)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Fredericton" ]
-  },
-  "words" : [ "Fredericton-Silverwood", "Macdonald", "de", "Il", "politique", "27", "est", "militaire", "2010", "du", "septembre", "Nouveau-Brunswick", "depuis", "un", "circonscription", "à", "représente", "générale", ".", "l'élection", "et", "Brian", "législative", "homme", "l'Assemblée", "canadien", "la" ],
-  "adjectives" : [ "législative", "septembre" ],
-  "nouns" : [ "homme", "Il", "l'Assemblée", "politique", "canadien", "générale", "un", "militaire", "l'élection" ],
-  "text" : "Brian Macdonald est un militaire et un homme politique canadien. Il représente la circonscription de Fredericton-Silverwood à l'Assemblée législative du Nouveau-Brunswick depuis l'élection générale du 27 septembre 2010."
-}, {
-  "entityIndex" : "70_entity2248",
+  "entityIndex" : "49_entity1313",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Rabon",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -769,7 +538,7 @@
   "nouns" : [ "member" ],
   "text" : "William Peter Rabon is a Republican member of the North Carolina State Senate. Rabon has degrees from North Carolina State University and the University of Georgia."
 }, {
-  "entityIndex" : "71_entity2273",
+  "entityIndex" : "50_entity1330",
   "entityUrl" : "http://dbpedia.org/resource/Billy_O'Brien_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -780,40 +549,7 @@
   "nouns" : [ "politician" ],
   "text" : "Joseph William \"Billy\" O'Brien, Jr. (April 20, 1929 – November 9, 2012) was an American politician. A Democrat, he served in the Virginia House of Delegates 1974–1992."
 }, {
-  "entityIndex" : "72_entity17420",
-  "entityUrl" : "http://dbpedia.org/resource/Theodore_McKeldin",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Baltimore, Maryland" ]
-  },
-  "words" : [ "Mayor", "-LRB-", "American", "United", "53rd", "Republican", "McKeldin", "1963-67", "States", "1974", "Party", "1951", "member", "1959", "Roosevelt", "November", "10", "--", "1943-47", "politician", ",", ".", "August", "Governor", "twice", "Theodore", "Baltimore", "served", "-RRB-", "Maryland", "20", "1900" ],
-  "adjectives" : [ "American" ],
-  "nouns" : [ "Governor", "politician", "member" ],
-  "text" : "Theodore Roosevelt McKeldin (November 20, 1900 – August 10, 1974) was an American politician. He was a member of the United States Republican Party, served as Mayor of Baltimore twice from 1943-47 and 1963-67, and was the 53rd Governor of Maryland in the United States from 1951 to 1959."
-}, {
-  "entityIndex" : "73_entity17427",
-  "entityUrl" : "http://dbpedia.org/resource/Tim_Razzall,_Baron_Razzall",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "London" ]
-  },
-  "words" : [ "12", "June", "Timothy", "British", "-LRB-", "Liberal", "Razzall", "CBE", "born", "politician", "Edward", ",", ".", "1943", "Democrat", "-RRB-", "Baron", "parliamentarian" ],
-  "adjectives" : [ "British", "Liberal" ],
-  "nouns" : [ "politician", "parliamentarian" ],
-  "text" : "Edward Timothy Razzall, Baron Razzall, CBE (born 12 June 1943) is a British Liberal Democrat politician and parliamentarian."
-}, {
-  "entityIndex" : "74_entity17554",
-  "entityUrl" : "http://dbpedia.org/resource/Teresita_Abundo",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Quezon City" ]
-  },
-  "words" : [ "``", "''", "12", "Teresita", "Abundo", "-LRB-", "athlete", "Tisha", "born", "Dominguez", "2001", "Commissioner", ",", "educator", ".", "1998", "served", "-RRB-", "1949", "Philippine", "July", "Sports" ],
-  "adjectives" : [ "Philippine" ],
-  "nouns" : [ "athlete", "educator" ],
-  "text" : "Teresita Dominguez \"Tisha\" Abundo (born July 12, 1949) is a Philippine educator and athlete who served as Philippine Sports Commissioner from 1998 to 2001."
-}, {
-  "entityIndex" : "75_entity17732",
+  "entityIndex" : "51_entity10911",
   "entityUrl" : "http://dbpedia.org/resource/Thomas_Brady_(mayor)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -824,18 +560,7 @@
   "nouns" : [ "ferry", "grocery", "tip", "store", "age" ],
   "text" : "Born around 1850 in County Meath, Ireland, Brady immigrated to the United States at the age of ten and settled in Portland, Maine. At age 20, he moved to Bayonne, New Jersey. He opened a grocery store and later, with his two of his brothers James and Terrence, started the Consumers' Coal and Ice Company in 1873. Brady helped establish a ferry from Bergen Point, at the southern tip of Bayonne, to Staten Island called the Bergen Point Port Richmond ferry. He then established a stage coach line from Greenville (modern day Jersey City) to the ferry at Bergen Point. Brady, who was a Democrat, was appointed in 1885 by President Grover Cleveland to be the Postmaster of Bayonne. In 1903, Brady was elected mayor of Bayonne defeating Republican Pierre P. Garven and served for two years. In 1906, he returned to the company he helped found and worked there until his death at age 78. After a two-year illness, Brady died on March 13, 1928 in his home. His funeral was at St. Andrew's R.C. Church in Bayonne. He is buried in Holy Name Cemetery in Jersey City. His wife Ellen had died two months earlier."
 }, {
-  "entityIndex" : "76_entity17911",
-  "entityUrl" : "http://dbpedia.org/resource/Tan_Lian_Hoe",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Sungai Siput" ]
-  },
-  "words" : [ "、", "合作社及消费部第一副部长", "。", "陈莲花", "马来西亚国内贸易", "兼霹雳州宜力国阵民政党国会议员", "，", "也是民政党副主席" ],
-  "adjectives" : [ ],
-  "nouns" : [ "。", "，" ],
-  "text" : "陈莲花，马来西亚国内贸易、合作社及消费部第一副部长，兼霹雳州宜力国阵民政党国会议员，也是民政党副主席 。"
-}, {
-  "entityIndex" : "77_entity18237",
+  "entityIndex" : "52_entity11293",
   "entityUrl" : "http://dbpedia.org/resource/Thomas_Lankey",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -846,7 +571,7 @@
   "nouns" : [ "election", "code", "town", "municipality", "state", "councilperson", "office", "Lankey", "population" ],
   "text" : "Thomas Lankey is the Mayor of Edison, New Jersey, the state's 5th largest municipality by population, with about 101,000 residents. He won the November 2013 election and was sworn January 1, 2014. He was previously a town councilperson. Soon after taking office Lankey said he would re-write the town's code of ethics."
 }, {
-  "entityIndex" : "78_entity14949",
+  "entityIndex" : "53_entity9086",
   "entityUrl" : "http://dbpedia.org/resource/Robert_A._Rucho",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -857,7 +582,7 @@
   "nouns" : [ "dispute", "session", "co-chairman", "chairmanship", "tax", "resignation", "dentist", "reform", "month", "district", "member", "term", "state", "Rucho", "policy" ],
   "text" : "Robert Anthony Rucho (born December 8, 1948) is a Republican member of the North Carolina General Assembly representing the state's thirty-ninth Senate district, including constituents in Mecklenburg County. A dentist from Matthews, North Carolina, Rucho is currently (2013-2014 session) serving in his seventh (non-consecutive) term in the state Senate. Rucho served as co-chairman of the Senate Finance Committee until his abrupt resignation in June 2013 in a dispute with Senate President Pro Tempore Phil Berger over tax reform policy. Berger never accepted the resignation and the next month, Rucho resumed his chairmanship."
 }, {
-  "entityIndex" : "79_entity15089",
+  "entityIndex" : "54_entity9148",
   "entityUrl" : "http://dbpedia.org/resource/Richard_Townley",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -868,18 +593,7 @@
   "nouns" : [ "area", "son", "suite", "wife", "today", "née" ],
   "text" : "Colonel Richard Townley (died 1711) was born in England probably at Astlam (Astleham) Manor in Littleton (formerly in Middlesex, today in Surrey). He was the eighth son of Nicholas Townley of Littleton and Joanne White. He emigrated to Virginia in the suite of Lord Effingham, Governor of Virginia in 1683. He settled in the Elizabethtown, New Jersey area and married his 2nd wife, Elizabeth Carteret (née. Smith), widow of the first governor of New Jersey Philip Carteret in 1685. Townley was one of the East New Jersey Provincial Council during the administration of deputy governor Lord Neill Campbell in 1686. In 1692 and 1697 he was a member of the New York Provincial Council but was accused by New York Governor Lord Bellomont of attending neither. At the time of his death in April 1711, Richard Townley was Presiding Judge of the Court of Quarter Sessions for Essex County. He left two sons, Charles and Effingham."
 }, {
-  "entityIndex" : "80_entity15105",
-  "entityUrl" : "http://dbpedia.org/resource/Roberto_Pacini",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Rome, Italy" ]
-  },
-  "words" : [ "e", "teatrale", "cinematografico", "È", "produttore", "anche", ".", "autore" ],
-  "adjectives" : [ ],
-  "nouns" : [ "È", "anche", "autore" ],
-  "text" : "È anche autore e produttore teatrale e produttore cinematografico."
-}, {
-  "entityIndex" : "81_entity15129",
+  "entityIndex" : "55_entity9170",
   "entityUrl" : "http://dbpedia.org/resource/Ramakrishna_Badiga",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -890,7 +604,7 @@
   "nouns" : [ "lakh", "TDP", "Sabha", "margin", "contest", "constituency", "member", "Lok", "community", "sabha", "PRP" ],
   "text" : "Ramakrishna Badiga (born 2 September 1942) was a member of the 14th Lok Sabha of India. He represented the Machilipatnam constituency of Andhra Pradesh and is a member of the Indian National Congress. He was defeated by the TDP's BC Candidate Konakalla Narayana Rao in 2009 Lok sabha elections by a meager margin of 12000 votes in a multi sided contest, where in PRP, Loksatta, BJP fielded candidates from the Kapu community and polled more than 2 lakh votes."
 }, {
-  "entityIndex" : "82_entity15424",
+  "entityIndex" : "56_entity9366",
   "entityUrl" : "http://dbpedia.org/resource/Robin_Campbell_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -901,29 +615,7 @@
   "nouns" : [ "level", "politician", "district", "caucus", "member", "Assembly", "board" ],
   "text" : "Robin Ian Campbell (born September 9, 1955) was a Canadian provincial level politician. He was elected in 2008 to represent the electoral district of West Yellowhead in the Legislative Assembly of Alberta. He was a member of the former governing Progressive Conservative caucus. He was appointed Minister of Finance and President of the Treasury board by Premier Jim Prentice on September 15, 2014. He lost his seat to Eric Rosendahl in the May 5, 2015 provincial election that also defeated the Progressive Conservative government after 44 years in office. On November 12, he was named president of the Coal Association of Canada."
 }, {
-  "entityIndex" : "83_entity15496",
-  "entityUrl" : "http://dbpedia.org/resource/Raymond_Couderc",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "France" ]
-  },
-  "words" : [ "français", "de", "Maire", "Raymond", "Bordeaux", "politique", "est", "Béziers", "Couderc", "2007", "1995", "septembre", "conseiller", "depuis", "un", "à", "sénateur", "il", "16", "l'Hérault", ",", ".", "et", "homme", "2014", "le", "municipal", "né", "1946" ],
-  "adjectives" : [ "municipal" ],
-  "nouns" : [ "à", "homme", "il", "politique", "septembre", "est", "un", "né" ],
-  "text" : "Raymond Couderc, né le 16 septembre 1946 à Bordeaux, est un homme politique français. Maire de Béziers de 1995 à 2014, il est sénateur de l'Hérault de 2007 à 2014 et conseiller municipal de Béziers depuis 2014."
-}, {
-  "entityIndex" : "84_entity15499",
-  "entityUrl" : "http://dbpedia.org/resource/Richard_S._Williamson",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "IL" ]
-  },
-  "words" : [ "-LRB-", "م", "دبلوماسي", "و", "شيكاغو", "وليامسون", "Williamson", "عضو", "المتحدة", "Richard", "الولايات", "--", "هو", "من", "الحزب", "بالإنجليزية", "في", "ولد", "الجمهوري", "الأمريكية", ".", "وهو", "ريتشارد", "2013", "-RRB-", ":", "1949", "S." ],
-  "adjectives" : [ ],
-  "nouns" : [ "من", "وهو", "م", "ريتشارد", "شيكاغو", "الجمهوري" ],
-  "text" : "ريتشارد وليامسون (بالإنجليزية: Richard S. Williamson) (و. 1949 – 2013 م) هو دبلوماسي من الولايات المتحدة الأمريكية . ولد في شيكاغو .وهو عضو في الحزب الجمهوري . توفي في إيفانستون ، إلينوي ."
-}, {
-  "entityIndex" : "85_entity15622",
+  "entityIndex" : "57_entity9506",
   "entityUrl" : "http://dbpedia.org/resource/R._Viswanathan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -934,18 +626,7 @@
   "nouns" : [ "candidate", "constituency", "death", "politician", "member", "assembly", "Assembly" ],
   "text" : "R. Viswanathan is an Indian politician and former member of the Tamil Nadu Legislative Assembly from Natham Constituency. He was the Minister for Electricity and Prohibition and Excise, Govt. of Tamil Nadu. Previously, he was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Natham constituency in 1999 after death of M. Andi Ambalam. He has won consecutively in 2001, 2006 and 2011 elections."
 }, {
-  "entityIndex" : "86_entity15882",
-  "entityUrl" : "http://dbpedia.org/resource/Randy_Edmunds_(politician)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Makkovik, Newfoundland and Labrador" ]
-  },
-  "words" : [ "de", "-LRB-", "politique", "qui", "est", "Chambre", "2011", "Torngat", "d'Assemblée", "mardi", "Terre-Neuve-et-Labrador", "Mountains", "du", "député", "un", "circonscription", "Edmunds", "à", "11", "représente", "il", "Randy", ",", "l'élection", ".", "élu", "homme", "canadien", "la", "lors", "terre-neuvienne", "-RRB-", "octobre" ],
-  "adjectives" : [ "un", "octobre" ],
-  "nouns" : [ "élu", "homme", "il", "député", "politique", "canadien", "qui", "terre-neuvienne", "est" ],
-  "text" : "Randy Edmunds est un homme politique (terre-neuvienne) canadien, il est élu député qui représente de la circonscription de Torngat Mountains à la Chambre d'Assemblée de Terre-Neuve-et-Labrador lors de l'élection terre-neuvienne du mardi 11 octobre 2011."
-}, {
-  "entityIndex" : "87_entity15946",
+  "entityIndex" : "58_entity9757",
   "entityUrl" : "http://dbpedia.org/resource/Rick_Strankman",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -956,7 +637,7 @@
   "nouns" : [ "committee", "critic", "politician", "district", "member", "Committee", "Assembly", "addition", "policy" ],
   "text" : "Richard Strankman (born June 20, 1953) is a Canadian politician who is an elected member to the Legislative Assembly of Alberta representing the electoral district of Drumheller-Stettler. In addition to serving on both the Standing Committee on Private Bills and the legislative policy committee on Alberta’s Economic Future, Strankman is the Tourism, Parks and Recreation critic for the Wildrose Party Official Opposition Caucus."
 }, {
-  "entityIndex" : "88_entity16019",
+  "entityIndex" : "59_entity9810",
   "entityUrl" : "http://dbpedia.org/resource/Ron_Stewart_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -967,18 +648,7 @@
   "nouns" : [ "politician", "district", "member" ],
   "text" : "Ronald Daniel Stewart (born October 11, 1942) is a Canadian politician. He represented the electoral district of Cape Breton North in the Nova Scotia House of Assembly from 1993 to 1997. He was a member of the Nova Scotia Liberal Party."
 }, {
-  "entityIndex" : "89_entity16130",
-  "entityUrl" : "http://dbpedia.org/resource/Robert_Chow",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Hong Kong" ]
-  },
-  "words" : [ "。", "1950年4月22日", "英国公民", "（", "）", "《", "》", "，", ",", "－", "前香港電台Phone-in時事節目", "周融", "英文名", "主持", "BBS", "CHOW", "Robert", "：", "曾經歷四度婚姻", "他同時經營公關公司", "千禧年代", "Yung" ],
-  "adjectives" : [ ],
-  "nouns" : [ "BBS", "。", "）", "》", "前香港電台Phone-in時事節目", "周融" ],
-  "text" : "周融，BBS（英文名：CHOW Yung, Robert，1950年4月22日－），英国公民，前香港電台Phone-in時事節目《千禧年代》主持，他同時經營公關公司，曾經歷四度婚姻。"
-}, {
-  "entityIndex" : "90_entity16158",
+  "entityIndex" : "60_entity9924",
   "entityUrl" : "http://dbpedia.org/resource/Raymond_M._Smith",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -989,7 +659,7 @@
   "nouns" : [ "politician", "district", "father", "member" ],
   "text" : "Raymond Morton Smith (August 3, 1924 – October 13, 1988) was a Canadian politician. He represented the electoral district of Cumberland Centre in the Nova Scotia House of Assembly from 1968 to 1974. He was a member of the Nova Scotia Progressive Conservative Party. Smith was born in Springhill, Nova Scotia; his father was former Nova Scotia MLA for Cumberland, Archie B. Smith. He was educated at Acadia University and the Maritime College of Forest Technology and worked as a sales representative. In 1950, he married Anna Burden. He died in 1988."
 }, {
-  "entityIndex" : "91_entity3631",
+  "entityIndex" : "61_entity2182",
   "entityUrl" : "http://dbpedia.org/resource/David_Coss",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1000,7 +670,7 @@
   "nouns" : [ "Wage", "hour", "mayor", "city", "politician", "Ordinance", "term", "increase", "minimum", "wage" ],
   "text" : "David Coss is a U.S. politician who was mayor of the city of Santa Fe, New Mexico from 2006 to 2014. He was elected to a four-year term in March 2006 after serving on the Santa Fe City Council from 2002-2006 representing the City's District 3. He was also elected to a second four-year term in March 2010. As a City Councilor, he co-sponsored Santa Fe's Living Wage Ordinance  and supported a subsequent minimum wage increase to $9.50 per hour. Coss also supported the Santa Fe Homes Program, an award-winning ordinance that requires 30 percent affordable housing in all new residential developments in Santa Fe. As mayor, he is a member of the Mayors Against Illegal Guns Coalition, a bi-partisan group with a stated goal of \"making the public safer by getting illegal guns off the streets.\" The Coalition is co-chaired by Boston Mayor Thomas Menino and New York City Mayor Michael Bloomberg. Prior to his election as mayor, Coss held jobs as director of the New Mexico Environmental Protection Division; environmental scientist for the New Mexico Environment Department; director of the Field Operations Division, State Land Office; director of Public Works, City of Santa Fe; and city manager of the City of Santa Fe. Mayor Coss is a 1972 graduate of Santa Fe High School. He has a Bachelor's Degree in agriculture from New Mexico State University and a Master's Degree in zoology from Southern Illinois University Carbondale. David Coss is a longtime union supporter and has served in the capacities of organizer, negotiator, and president of Communications Workers of America State Government Local."
 }, {
-  "entityIndex" : "92_entity3697",
+  "entityIndex" : "62_entity2221",
   "entityUrl" : "http://dbpedia.org/resource/Dave_Barrow",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1011,7 +681,7 @@
   "nouns" : [ "mayor", "graduate", "office", "councillor" ],
   "text" : "David Barrow (born c. 1949) is the mayor of Richmond Hill, Ontario, Canada. Barrow was born and raised in Richmond Hill and graduate of Ryerson Polytechnic Institute. He first entered elected office as Ward 4 councillor from 1978 to 1985 and York Regional Councillor from 1997 to 2006. Barrow was first elected as mayor in 2006. following the retirement of longtime mayor William F. Bell. During his hiatus from public life, Barrow ran his family business following the death of his father Elgin Barrow."
 }, {
-  "entityIndex" : "93_entity3822",
+  "entityIndex" : "63_entity2321",
   "entityUrl" : "http://dbpedia.org/resource/Dave_Quest",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1022,7 +692,7 @@
   "nouns" : [ "area", "MLA", "province", "Chair", "school", "politician", "father", "veterinarian", "Assembly", "addition" ],
   "text" : "David Jonothan Quest is a politician in Alberta, Canada, who was first elected to the province's Legislative Assembly on March 3, 2008 as the Progressive Conservative MLA for Strathcona-Sherwood Park. In addition to his regular duties as an MLA, Dave has had roles on many committees, including as Chair of the Cabinet Policy Committee on Finance. He spent his high school years in the Ardrossan area where his father was the local veterinarian. Over the years Dave was fortunate to have many opportunities to enjoy animals, including his horses Chunky and Chea. Dave graduated from Ardrossan Sr. High School and regularly attends the Ardrossan United Church. Dave obtained his post-secondary education from NAIT and in 1985 he graduated with a business administration diploma with a major in marketing management. Dave established a successful and rewarding career in the automotive industry. Prior to his election, he was the President of Kallal Pontiac in Tofield, and then general sales manager and a shareholder of Beaverhill GMC in Tofield and Petersen Pontiac in Sherwood Park. In 1997 he achieved a General Motors Dealer Award of Excellence. During his business career, Dave served with the Better Business Bureau of Northern Alberta, fulfilling various board positions, including chair and director of the Canadian Council. These volunteer experiences built a foundation for his future role of provincial representative. Dave has many personal interests, including sports. He coached a minor soccer team for four years. He enjoys running and has completed the Edmonton half-marathon six times. Dave also loves aviation, having obtained his private pilot’s licence in 1998. He flies small aircraft and takes frequent tours around the constituency, Dave, his wife Fiona Beland-Quest, and their son live on the east side of Sherwood Park. Two Newfoundland dogs and two cats round out their household."
 }, {
-  "entityIndex" : "94_entity3829",
+  "entityIndex" : "64_entity2328",
   "entityUrl" : "http://dbpedia.org/resource/David_W._Oliver",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1033,7 +703,7 @@
   "nouns" : [ "mayor", "estate" ],
   "text" : "Oliver was born in Ireland and immigrated to the United States. Oliver married Mary Warner of Vermont and became involved in real estate. A Democrat, Oliver ran for mayor of Bayonne in 1879 but lost to Republican Stephen K. Lane. Oliver ran successfully against Lane for mayor in 1883. He was re-elected in 1885. After leaving as mayor, Oliver became a member of the Bayonne Board of Adjustment. Oliver died on December 19, 1919."
 }, {
-  "entityIndex" : "95_entity3848",
+  "entityIndex" : "65_entity2341",
   "entityUrl" : "http://dbpedia.org/resource/D._Srinivas_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1044,18 +714,7 @@
   "nouns" : [ "BC", "leader", "role", "follower", "minister", "congress", "respectively.On", "politician", "Ex-MLA", "reputation", "command", "DS", "government", "leader.Being", "portfolio", "nephew", "state", "command.He", "cabinet", "pradesh", "party", "finance" ],
   "text" : "Dharmapuri Srinivas is an Indian politician belonging to the Telangana Rashtra Samithi. He is the former President of Andhra Pradesh Congress Party PCC and Ex-MLA of State Assembly.Also worked with different portfolio's in state cabinet of Andhra pradesh. Played key role to bring back congress party government in 2004 and 2009 in A.p. Good reputation with high command in new delhi and known as key strategic BC leader. He is popularly known as DS and dyanamic leader.Being true follower of High command.He is nephew of former finance minister ARGUL RAJARAM of A.P. state.Lost the elections in 2009, 2012 to BJP and 2014 to TRS PARTY respectively.On 2 July 2015 he resigned for congress party."
 }, {
-  "entityIndex" : "96_entity3853",
-  "entityUrl" : "http://dbpedia.org/resource/Du_Qinglin",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Beijing" ]
-  },
-  "words" : [ "、", "。", "せいりん", "現在", "杜青林", "吉林大学法律系修士課程修了", "（", "と", "全国政治協商会議全国委員会副主席を務める", "）", "は中華人民共和国の政治家" ],
-  "adjectives" : [ ],
-  "nouns" : [ ],
-  "text" : "杜青林（と せいりん）は中華人民共和国の政治家。吉林大学法律系修士課程修了。現在、全国政治協商会議全国委員会副主席を務める。"
-}, {
-  "entityIndex" : "97_entity3880",
+  "entityIndex" : "66_entity2368",
   "entityUrl" : "http://dbpedia.org/resource/Daggubati_Venkateswara_Rao",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1066,7 +725,7 @@
   "nouns" : [ "actor", "son-in-law", "couple", "son", "chenchuram", "founder", "politician", "member", "daughter", "party" ],
   "text" : "Dr. Daggubati Venkateswara Rao, M.B.,B.S., (born 14 December 1953) is a former member of the Indian National Congress. Daggubati Venkateswara Rao is the eldest son-in-law of Late N. T. Rama Rao, actor and founder of the Telugu Desam political party. He married politician Daggubati Purandeswari on 9 May 1979. The couple have two children, Nivedita and Hitesh chenchuram, daughter and son respectively. Daggubati Venkateswara Rao is an Ex-Minister, Ex-Member of Parliament and Ex-Member of Andhra Pradesh Legislative Assembly representing Parchur constituency in Prakasham District up to 2014.He won the 2009 General Election by getting 73,691 votes and a majority of 2,776 votes. He was elected to AP state Assembly in 1984, 1985, 1989, 2004, 2009 and to Lok sabha (Indian lower house) in 1991-1996 and to Rajya Sabha (Indian Upper House) in 1996."
 }, {
-  "entityIndex" : "98_entity3928",
+  "entityIndex" : "67_entity2383",
   "entityUrl" : "http://dbpedia.org/resource/Diliprao_Deshmukh",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1077,7 +736,7 @@
   "nouns" : [ "M.A", "development", "career", "Government", "work", "Babalgaon", "degree", "member", "state", "village", "master" ],
   "text" : "Diliprao Dagdojirao Deshmukh (Marathi: दिलीपराव देशमुख ) (born 18 April 1950) Graduated with a master's degree in Arts (M.A in Public Administration) from Fergusson College, (Pune University) and went on to join Social work and Rural development. He started his career in village Babalgaon as a Sarpanch in 1976 He is an Ex Minister of state Finance and Planning Maharashtra, from 2003 to 2004. On 1 March 2009 he was sworn in as Cabinet Minister, in Ashok Chavan’s Government. He is a member of the Indian National Congress and member of Working Committee of Maharashtra State Congress. He originally belongs to Latur district in the Marathwada region of the state of Maharashtra. He is currently Member of Legislative Council. (Local self Government Constituency. ‘Districts: Osmanabad –Beed- Latur’) He also served as Minister for Sports, Youth Welfar and Protocol. Diliprao is younger brother of Union Minister of Heavy Industries Mr. Vilasrao Deshmukh."
 }, {
-  "entityIndex" : "99_entity4031",
+  "entityIndex" : "68_entity2455",
   "entityUrl" : "http://dbpedia.org/resource/Dennis_P._Collins",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1088,7 +747,7 @@
   "nouns" : [ "grammar", "mayor", "school", "politician", "retirement", "party" ],
   "text" : "Dennis P. Collins (June 12, 1924 – December 6, 2009) was an American Democratic party politician who served as the 24th mayor of Bayonne, New Jersey from 1974 until his retirement in 1990. Born and raised in Bayonne, Collins attended St. Vincent De Paul grammar school and Holy Family Academy. He served in the United States Army for three years during World War II. Collins was elected to the Bayonne City Council in 1962, and served 12 years until being elected as mayor. His four terms in office make him the longest serving mayor in Bayonne city history. Collins served as a Democratic elector from New Jersey in the 2000 Presidential election."
 }, {
-  "entityIndex" : "100_entity4134",
+  "entityIndex" : "69_entity2534",
   "entityUrl" : "http://dbpedia.org/resource/David_Alvarez_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1099,7 +758,7 @@
   "nouns" : [ "law", "city", "council", "official", "state" ],
   "text" : "David Alvarez (born July 27, 1980) is an American elected official in San Diego, California. He serves as a San Diego City Councilmember representing City Council District 8. He is a Democrat, although city council positions are officially nonpartisan per California state law. District 8 includes the neighborhoods of Barrio Logan, Egger Highlands, Grant Hill, Golden Hill, Logan Heights,Memorial, Nestor, Ocean View Hills, Otay Mesa West, Otay Mesa East, San Ysidro, Sherman Heights, Southcrest, Stockton, and the Tijuana River Valley."
 }, {
-  "entityIndex" : "101_entity4236",
+  "entityIndex" : "70_entity2613",
   "entityUrl" : "http://dbpedia.org/resource/Darcie_Lanthier",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1110,7 +769,7 @@
   "nouns" : [ "woman", "election", "business", "party" ],
   "text" : "Darcie Lanthier was the interim Leader of the Green Party of Prince Edward Island from 17 July 2012 to 3 November 2012. She is the current Deputy Leader of the party. She is a business woman from Mermaid, PEI and she has also sat on the Provincial Women's Institute Board of Directors. In 2011 she ran in the riding of Morell-Mermaid in the provincial election."
 }, {
-  "entityIndex" : "102_entity4264",
+  "entityIndex" : "71_entity2635",
   "entityUrl" : "http://dbpedia.org/resource/Dudley_Ely",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1121,7 +780,7 @@
   "nouns" : [ "mayor", "city" ],
   "text" : "Dudley Pettibone Ely (November 16, 1817 – July 9, 1895) was the first mayor of South Norwalk, Connecticut, beginning in 1870, when the city was first incorporated. He served from 1870 to 1872 and from 1876 to 1877."
 }, {
-  "entityIndex" : "103_entity4321",
+  "entityIndex" : "72_entity2682",
   "entityUrl" : "http://dbpedia.org/resource/Darrin_Sharif",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1132,7 +791,7 @@
   "nouns" : [ "politician", "member", "downtown", "Council" ],
   "text" : "Darrin S. Sharif is a Democratic politician who was a member of the Municipal Council of Newark, New Jersey, representing the Central Ward, which includes much of downtown from 2010-2014."
 }, {
-  "entityIndex" : "104_entity4380",
+  "entityIndex" : "73_entity2734",
   "entityUrl" : "http://dbpedia.org/resource/Dan_Reid",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1143,7 +802,7 @@
   "nouns" : [ "politician", "district", "member", "physician" ],
   "text" : "Daniel Spencer Reid (born July 25, 1944) is a Canadian physician and politician. He represented the electoral district of Pictou West in the Nova Scotia House of Assembly from 1974 to 1978. He was a member of the Nova Scotia Liberal Party. Reid was born in Middle Musquodoboit, Nova Scotia. He attended Dalhousie University, where he earned his Doctor of Medicine (M.D.) degree. In 1973, he married Anne Marie MacDonald. He served in the Executive Council of Nova Scotia as Minister of Fisheries."
 }, {
-  "entityIndex" : "105_entity4381",
+  "entityIndex" : "74_entity2735",
   "entityUrl" : "http://dbpedia.org/resource/D._Scott_MacNutt",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1154,18 +813,7 @@
   "nouns" : [ "politician", "district", "member" ],
   "text" : "Donald Scott MacNutt (May 5, 1935 – September 13, 2010) was a Canadian politician. He represented the electoral district of Dartmouth South in the Nova Scotia House of Assembly from 1970 to 1974. He was a member of the Nova Scotia Liberal Party. MacNutt was born in Digby, Nova Scotia. He attended St. Francis Xavier University and was a businessman. In 1961, he married Anna Dawn Reid. He died in September 2010. MacNutt entered provincial politics in the 1970 election, defeating Progressive Conservative incumbent I. W. Akerley by 91 votes in Dartmouth South. On October 28, 1970, MacNutt was appointed to the Executive Council of Nova Scotia as Minister of Health. He was given an additional role in cabinet as Minister of Labour in September 1972. MacNutt was defeated by Roland J. Thornhill when he ran for re-election in the 1974 election. Prior to the 1998 election, MacNutt was a candidate for the Liberal nomination in his old Dartmouth South riding, but was defeated for the nomination by municipal politician Bruce Hetherington."
 }, {
-  "entityIndex" : "106_entity19612",
-  "entityUrl" : "http://dbpedia.org/resource/Yann_Gaillard",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "France" ]
-  },
-  "words" : [ "homonymes", "Yann", "français", "politique", "inspecteur", "Gaillard", "est", "du", "des", "général", "voir", "un", "Pour", "les", "1936", "à", "sénateur", "membre", ",", ".", "et", "homme", "Finances", "UMP", "le", "9", "groupe", "né", "octobre", "articles", "Paris", "haut-fonctionnaire" ],
-  "adjectives" : [ "inspecteur", "général", "un" ],
-  "nouns" : [ "à", "sénateur", "membre", "homme", "politique", "né", "octobre" ],
-  "text" : "Pour les articles homonymes, voir Gaillard. Yann Gaillard est un homme politique et haut-fonctionnaire français, inspecteur général des Finances, sénateur, membre du groupe UMP, né à Paris le 9 octobre 1936."
-}, {
-  "entityIndex" : "107_entity7053",
+  "entityIndex" : "75_entity4315",
   "entityUrl" : "http://dbpedia.org/resource/Henry_J._Hopper",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1176,7 +824,7 @@
   "nouns" : [ ],
   "text" : "Henry J. Hopper (1830–1905) was the 21st Mayor of Jersey City, New Jersey from May 6, 1878 to May 2, 1880."
 }, {
-  "entityIndex" : "108_entity7132",
+  "entityIndex" : "76_entity4354",
   "entityUrl" : "http://dbpedia.org/resource/Hemananda_Biswal",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1187,7 +835,7 @@
   "nouns" : [ "ନନ", "leader", "ଳ", "MP", "ଶ", "office" ],
   "text" : "Hemananda Biswal (Odia: ହେମାନନ୍ଦ ବିଶ୍ୱାଳ; born 1 December 1939) is a leader of the Indian National Congress, and a former Chief Minister of Odisha, who was in office from 7 December 1989 to 5 March 1990 and again from 6 December 1999 to 5 March 2000; and was again elected as an MP from Sundergarh in 2009."
 }, {
-  "entityIndex" : "109_entity7833",
+  "entityIndex" : "77_entity4792",
   "entityUrl" : "http://dbpedia.org/resource/Ian_Donovan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1198,18 +846,7 @@
   "nouns" : [ "reelection", "hamlet", "politician", "district", "caucus", "member", "Bow", "bid", "Assembly", "Wildrose", "home" ],
   "text" : "Ian Donovan (born July 7, 1976) is a Canadian politician who was an elected member to the Legislative Assembly of Alberta representing the electoral district of Little Bow. Donovan was the Agriculture and Rural Development Critic with the Wildrose Official Opposition, until leaving the caucus in November 2014 to sit as a Progressive Conservative. On May 5, 2015, Donovan lost his reelection bid to Dave Schneider, of the Wildrose. Donovan was born in High River and calls the hamlet of Mossleigh home. A graduate of Senator Riley high school, he has operated a grain farm in Mossleigh for 20 years. In addition to his running his farm, he is a long-time member and former director of the Blackie Seed Cleaning Association. Donovan is an active member of his community, having been involved with the Lions Club of Mossleigh and Community Futures Highwood, a nonprofit community-owned business development organization, for the past 15 years. He also served as councillor for division 9 of Vulcan County from 1995 until his election to the Legislative Assembly of Alberta. Donovan was appointed to the Standing Committee on Public Accounts on May 24, 2012. He was appointed to the Standing Committee on Alberta’s Economic Future on May 28, 2012."
 }, {
-  "entityIndex" : "110_entity13950",
-  "entityUrl" : "http://dbpedia.org/resource/Ole_von_Beust",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Hamburg" ]
-  },
-  "words" : [ "Beust", "Mayor", "-LRB-", "25", "called", "year", "Carl-Friedrich", "Ole", "Hamburg", "German", "2010", "Bundesrat", "Christoph", "serving", "President", "October", "2007", "Ahlhaus", "von", "First", "31", "1955", "November", "13", "mayor", "Freiherr", "born", "politician", "one", "2001", ",", "April", ".", "generally", "August", "1", "-RRB-", "Arp", "succeeded" ],
-  "adjectives" : [ "Ole", "German" ],
-  "nouns" : [ "von", "year", "mayor", "Freiherr", "politician" ],
-  "text" : "Carl-Friedrich Arp Ole Freiherr von Beust, generally called Ole von Beust (born April 13, 1955), is a German politician who was First Mayor of Hamburg from 31 October 2001 to 25 August 2010, serving as President of the Bundesrat from 1 November 2007 on for one year. He was succeeded as mayor by Christoph Ahlhaus."
-}, {
-  "entityIndex" : "111_entity16188",
+  "entityIndex" : "78_entity9939",
   "entityUrl" : "http://dbpedia.org/resource/Stan_Bingham",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1220,18 +857,7 @@
   "nouns" : [ "newspaper", "owner", "town", "lumber", "district", "member", "publisher", "company", "chairman", "state" ],
   "text" : "Stanley Walker Bingham is a Republican member of the North Carolina General Assembly representing the state's thirty-third Senate district, including constituents in Davidson and Guilford counties. A small town newspaper publisher and retired lumber company owner from Denton, North Carolina, Bingham is currently serving in the state Senate. Before being elected to the North Carolina General Assembly, Bingham served as chairman of the Davidson County Commissioners. Bingham is married to Lora Bingham; he was first elected to the North Carolina Senate in 2000."
 }, {
-  "entityIndex" : "112_entity16241",
-  "entityUrl" : "http://dbpedia.org/resource/Sharon_Labchuk",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Millvale, Prince Edward Island" ]
-  },
-  "words" : [ "leader", "-LRB-", "25", "Sharon", "Edward", "1952", "Prince", "Party", "Labchuk", "November", "activist", "environmental", "born", "staffer", "also", ",", "Island", ".", "Canada", "-RRB-", "paid", "Trenton", "GPC", "Ontario", "Green", "first" ],
-  "adjectives" : [ "environmental", "first" ],
-  "nouns" : [ "activist", "leader", "staffer" ],
-  "text" : "Sharon Labchuk (born November 25, 1952 in Trenton, Ontario) is an environmental activist and paid staffer for the Green Party of Canada (GPC). She was also the first leader of the Green Party of Prince Edward Island."
-}, {
-  "entityIndex" : "113_entity16350",
+  "entityIndex" : "79_entity10016",
   "entityUrl" : "http://dbpedia.org/resource/Sai_Prathap_Annayyagari",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1242,7 +868,7 @@
   "nouns" : [ "steel", "MP", "minister", "decision", "Kadapa", "Lok", "protest", "Sabha", "constituency", "rajampet", "State", "district", "member", "state", "pradesh", "terms.He" ],
   "text" : "Sai Prathap Annayyagari (born 20 September 1944) was a member of the 14th Lok Sabha of India. He represented the Rajampet constituency of Andhra Pradesh and was a member of the Indian National Congress until recently. He was a minister of state for steel in Manmohan Singh Cabinet.He was representing rajampet constituency for six terms.He fought for united Andhra pradesh and he even quit the Indian National Congress for that. A six-time MP from Rajampet Lok Sabha constituency of Kadapa district, Mr. Sai Pratap resigned from the Congress in protest against its decision to bifurcate the State. He had kept himself away from active politics ever since. He joined TDP in the presence of Chandra Babu Naidu on 24-Mar-2016."
 }, {
-  "entityIndex" : "114_entity16441",
+  "entityIndex" : "80_entity10050",
   "entityUrl" : "http://dbpedia.org/resource/Satish_Sharma",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1253,7 +879,7 @@
   "nouns" : [ "career", "Government", "closeness", "wife", "politician", "center", "assassination", "member", "behest", "power", "electorate", "family", "party" ],
   "text" : "Satish C. Sharma is an Indian politician. Representing the Indian National Congress party, he is a former member of the Union Cabinet in the Government of India. Sharma's political career has been boosted by his closeness to both Rajiv Gandhi, and after his assassination, his wife and the de facto political power center of the Congress party, Sonia Gandhi. He has held seats in the Lok Sabha at the behest of both the Nehru-Gandhi family and the electorate. Satish Sharma was born on 11 October in Secunderabad, a city in the Indian state Telangana.He was educated in Col. Brown Cambridge School in Dehra Dun and was later trained as a pilot in Kansas City, Missouri. In 1991 he was elected to the Lok Sabha to Rajiv Gandi's constituency of Amethi following his assassination. From January 1993 until December 1996 he was Minister of Petroleum and Natural Gas."
 }, {
-  "entityIndex" : "115_entity16509",
+  "entityIndex" : "81_entity10093",
   "entityUrl" : "http://dbpedia.org/resource/Sandi_Jackson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1264,7 +890,7 @@
   "nouns" : [ "filing", "father", "alderman", "count", "tax", "ward", "City", "map", "rival" ],
   "text" : "Sandra Lee \"Sandi\" Jackson (née Stevens; born September 14, 1963) was elected to the Chicago City Council as an alderman of the 7th ward (map) of the City of Chicago in the 2007 municipal elections held on February 27, 2007. She succeeded Darcel A. Beavers who had been appointed by Chicago Mayor Richard M. Daley after the 2006 November elections to succeed her father William Beavers, Jackson's rival, as alderman of the 7th Ward. Jackson resigned from Chicago City Council, effective January 15, 2013. On February 20, 2013, Jackson pleaded guilty to one count of filing false tax returns. On August 14, 2013, she was sentenced to one year in prison for filing false income tax returns. She is the wife of former U.S. Congressman Jesse Jackson, Jr. and daughter-in-law of Jesse Jackson. Her candidacy for the city council of a major city was part of national news stories in The New York Times, and thoughts of her running for a position in the United States House of Representatives were noted in Time. Jackson has also been a longtime political consultant through her solely owned consulting firm J. Donatella & Associates."
 }, {
-  "entityIndex" : "116_entity16659",
+  "entityIndex" : "82_entity10190",
   "entityUrl" : "http://dbpedia.org/resource/Stephen_K._Lane",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1275,7 +901,7 @@
   "nouns" : [ "member" ],
   "text" : "Lane was born in New York City in November 1833. He became a member of the New York Produce Exchange. He married Euphemia Fox of Natchez, Mississippi on February 6, 1856. Lane moved to Bayonne in 1858. A Republican, Lane was elected as a councilman in 1876. Running unopposed in 1878, he was elected mayor of Bayonne succeeding Henry Meigs. Ward was re-elected in 1879 defeating Democrat councilman David W. Oliver. While mayor, Lane oversaw a project to bring water into Bayonne. His attempt at a third term ended when he lost to Oliver in 1883. Business problems forced him to retire from public service. Lane died from heart failure at age 63 in his home on November 14, 1896."
 }, {
-  "entityIndex" : "117_entity16768",
+  "entityIndex" : "83_entity10263",
   "entityUrl" : "http://dbpedia.org/resource/Sadhu_Ram_Sharma",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1286,7 +912,7 @@
   "nouns" : [ "leader", "member", "state", "region", "party" ],
   "text" : "Sadhu Ram Sharma is a leader of the Indian National Congress party from Haryana, a state in the Punjab region of India. He was a member of the Rajya Sabha in the Indian Parliament. A noted Gandhi loyalist, he rose in political circles to become one of the most powerful men in Haryana."
 }, {
-  "entityIndex" : "118_entity16894",
+  "entityIndex" : "84_entity10367",
   "entityUrl" : "http://dbpedia.org/resource/Shivajirao_Moghe",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1297,7 +923,7 @@
   "nouns" : [ "candidate", "minister", "politician", "member", "Assembly" ],
   "text" : "Shivajirao Moghe is an Indian politician. He is the Indian National Congress Party member of the Maharashtra Legislative Assembly representing Kelapur-Arni, Yavatmal. He is currently the minister of Social Justice in Maharashtra Cabinet since November 2009. He was earlier elected as Member of Legislative Assembly of Maharashtra for Kelapur in 1980, 1985 and in 1999 as Indian National Congress candidate and 1995 as Independent."
 }, {
-  "entityIndex" : "119_entity17074",
+  "entityIndex" : "85_entity10488",
   "entityUrl" : "http://dbpedia.org/resource/Subrata_Saha",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1308,7 +934,7 @@
   "nouns" : [ "MLA", "election", "law", "constituency", "minister", "portfolio", "Government", "graduate", "politician", "assembly", "state", "businessman" ],
   "text" : "Subrata Saha is an Indian politician the present Minister without portfolio and a former Minister of State for Public Works in the Government of West Bengal. He is also an MLA, elected from the Sagardighi constituency in the West Bengal state assembly election, 2011. Subrata Saha was divested of his portfolio and retained as minister without portfolio in May 2014. He is a law graduate and a businessman."
 }, {
-  "entityIndex" : "120_entity17076",
+  "entityIndex" : "86_entity10490",
   "entityUrl" : "http://dbpedia.org/resource/Sabina_Yasmin_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1319,7 +945,7 @@
   "nouns" : [ "MLA", "election", "woman", "minister", "Government", "politician", "victory", "A.", "seat", "candidate", "niece", "constituency", "assembly", "state" ],
   "text" : "Sabina Yasmin is an Indian politician and a former Minister of State for Labour in the Government of West Bengal. She is an MLA, elected from the Mothabari constituency in the West Bengal state assembly election, 2011. Sabina Yasmin's victory from Mothabari constituency was particularly creditable because Shehnaz Quadery, a niece of A. B. A. Ghani Khan Choudhury contested the seat as an independent candidate. Sabina Yasmin was the first Muslim woman to be a minister in West Bengal. She was one of the seven Muslim woman MLAs in the West Bengal Vidhan Sabha. She resigned as a minister when the Congress party decided to pull out of the Mamata Banerjee government."
 }, {
-  "entityIndex" : "121_entity17332",
+  "entityIndex" : "87_entity10686",
   "entityUrl" : "http://dbpedia.org/resource/Shashi_Panja",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1330,18 +956,7 @@
   "nouns" : [ "minister", "practitioner", "daughter-in-law", "politician", "state" ],
   "text" : "Dr. Shashi Panja is a medical practitioner, All India Trinamool Congress politician and a minister of state in the Council of Ministers of West Bengal. She is daughter-in-law of Ajit Kumar Panja."
 }, {
-  "entityIndex" : "122_entity12021",
-  "entityUrl" : "http://dbpedia.org/resource/Ma_Lik",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Hong Kong" ]
-  },
-  "words" : [ "23", "Hong", "-LRB-", "JP", "political", "Councillor", "pro-Beijing", "1952", "2007", "GBS", "Alliance", "February", "Kong", "--", "DAB", "Democratic", ",", ".", "Lik", "August", "Chairman", "Betterment", "Ma", "8", "-RRB-", "Chinese", "Legislative", ":", ";", "馬力", "party" ],
-  "adjectives" : [ "Democratic", "Legislative", "political", "pro-Beijing" ],
-  "nouns" : [ "Councillor", "party" ],
-  "text" : "Ma Lik, GBS, JP (Chinese: 馬力; 23 February 1952 – 8 August 2007), was a Legislative Councillor, and was the Chairman of the Democratic Alliance for Betterment of Hong Kong (DAB), a pro-Beijing political party in Hong Kong."
-}, {
-  "entityIndex" : "123_entity12099",
+  "entityIndex" : "88_entity7448",
   "entityUrl" : "http://dbpedia.org/resource/Marie_Bountrogianni",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1352,7 +967,7 @@
   "nouns" : [ "government", "minister", "member", "psychologist", "cabinet", "Assembly" ],
   "text" : "Marie Bountrogianni (born December 10, 1956) is the Dean of The G. Raymond Chang School of Continuing Education at Ryerson University. She is an educational psychologist, former President and Executive Director of ROM (Royal Ontario Museum) Governors, and former member of Provincial Parliament. She was a member of the Legislative Assembly of Ontario, and a cabinet minister in the government of Liberal Premier Dalton McGuinty."
 }, {
-  "entityIndex" : "124_entity12408",
+  "entityIndex" : "89_entity7574",
   "entityUrl" : "http://dbpedia.org/resource/M._Kayveas",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1363,7 +978,7 @@
   "nouns" : [ "senator", "opposition", "candidate", "constituency", "Government", "politician", "parliament" ],
   "text" : "Tan Sri Datuk Seri Dr. M Kayveas (born 29 April 1954) is a Malaysian politician, President of the People's Progressive Party (PPP) and currently a Special Advisor to the Minister of Transport Datuk Seri Liow Tiong Lai. He was formerly a Deputy Minister in the Prime Minister's Department. He was the Member of Parliament for Taiping constituency, until losing in the 2008 Malaysian General Election to Nga Kor Ming a candidate from the opposition Democratic Action Party (DAP). Previously, he was a senator in the Malaysian bicameral parliament and a Deputy Minister of Housing and Local Government. Kayveas was conferred the title of 'Datuk' by the Yang di-Pertuan Agong on 1 June 1996."
 }, {
-  "entityIndex" : "125_entity12508",
+  "entityIndex" : "90_entity7627",
   "entityUrl" : "http://dbpedia.org/resource/Mary-Dulany_James",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1374,18 +989,7 @@
   "nouns" : [ "34A", "corridor", "politician", "district", "daughter" ],
   "text" : "Mary-Dulany James (born February 1, 1960) is an American politician who represented district 34A in the Maryland House of Delegates for sixteen years, representing Harford and Cecil Counties along the U.S. Route 40 corridor. Mary-Dulany James represented district 34A, formally district 34, for 16 having first been elected in 1998. James is the daughter of former President of the Maryland Senate William S. James, serving as Senate President from 1963 to 1974. In October 2013 James officially filled to run for State Senate in District 34 to replace retiring State Senator Nancy Jacobs. On June 24, 2014 James defeated long time Harford County politician and former State Senator Arthur Henry Helton, Jr., and went on to face Republican Bob Cassilly in November. Mary-Dulany James lost in the General Election."
 }, {
-  "entityIndex" : "126_entity12670",
-  "entityUrl" : "http://dbpedia.org/resource/Marc_Daunis",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "France" ]
-  },
-  "words" : [ "de", "politique", "est", "vice-président", "Antipolis", "d'agglomération", "mettre", "d'Azur", "du", "Valbonne", "des", "Sénat", "depuis", "un", "les", "avant", "été", "sénateur", "Parti", "démissionner", "en", ",", "relatives", ".", "et", "homme", "régional", "auparavant", "Daunis", "né", "cumul", "avec", "22", "Marc", "français", "Communauté", "limitation", "Il", "secrétaire", "2011", "avril", "1998", "2008", "se", "conseiller", "Provence-Alpes-Côte", "mandats", "socialiste", "1955", "à", "membre", "Alpes-Maritimes", "maire", "pour", "conformité", "la", "2014", "règles", "le", "Sophia" ],
-  "adjectives" : [ "régional", "auparavant" ],
-  "nouns" : [ "à", "limitation", "sénateur", "Il", "politique", "est", "avril", "homme", "conseiller", "un", "né", "été", "socialiste" ],
-  "text" : "Marc Daunis, né le 22 avril 1955, est un homme politique français, membre du Parti socialiste. Il est sénateur des Alpes-Maritimes depuis 2008 et a été secrétaire du Sénat de 2011 à 2014. Il est maire de Valbonne Sophia Antipolis et vice-président de la Communauté d'agglomération de Sophia Antipolis. Il a auparavant été conseiller régional de Provence-Alpes-Côte d'Azur de 1998 à 2008, avant de démissionner pour se mettre en conformité avec les règles relatives à la limitation du cumul des mandats. En 2011, il est à l'initiative de la création de la SPL Sophia, dont il est le PDG. Aux côtés d'autres communes de l'agglomération sophipolitaine, cette société publique locale vise à porter des projets de développement sur le bassin de vie de la première technopole d'Europe, Sophia Antipolis. La future ZAC des Clausonnes, inscrite au plan Sophia 2030, est un des exemples et sera la future entrée du parc d'activité. Il est réélu sénateur des Alpes-Maritimes le 28 septembre 2014.Cette même année, un article du Petit Nicois  révèle qu'il est au centre d'étranges affaires immobilières pour lesquelles Le Ficanas  s'émeut qu'il utilise l'argent du contribuable pour se défendre. Marc Daunis est chevalier de l’Ordre national du Mérite."
-}, {
-  "entityIndex" : "127_entity13164",
+  "entityIndex" : "91_entity8015",
   "entityUrl" : "http://dbpedia.org/resource/Michele_Smith_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1396,7 +1000,7 @@
   "nouns" : [ "member", "ward" ],
   "text" : "Michele Smith (born February 12, 1955) is a member of the Chicago City Council, representing the 43rd Ward on Chicago's North Side. The 43rd ward includes much of the Lincoln Park and a small portions of the Near North Side Community areas."
 }, {
-  "entityIndex" : "128_entity13307",
+  "entityIndex" : "92_entity8116",
   "entityUrl" : "http://dbpedia.org/resource/Matthew_Bogusz",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1407,7 +1011,7 @@
   "nouns" : [ "term", "office" ],
   "text" : "Matthew Bogusz (born November 14, 1986) is the Mayor of Des Plaines, Illinois, having begun his term of office in May 2013."
 }, {
-  "entityIndex" : "129_entity13321",
+  "entityIndex" : "93_entity8122",
   "entityUrl" : "http://dbpedia.org/resource/Mynampally_Hanmanth_Rao",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1418,7 +1022,7 @@
   "nouns" : [ "politician", "member", "state", "party" ],
   "text" : "Mynampally Hanmanth Rao is an Indian politician and TRS Party Greater Hyderabad President and former MLA of Medak in the South Indian state of Telangana at Velama Community Family. He is a member of the Telangana Rashtra Samithi party & Hyderabad President."
 }, {
-  "entityIndex" : "130_entity13433",
+  "entityIndex" : "94_entity8196",
   "entityUrl" : "http://dbpedia.org/resource/Maganti_Venkateswara_Rao",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1429,7 +1033,7 @@
   "nouns" : [ "candidate", "drinking", "constituency", "politician", "supply", "water" ],
   "text" : "Maganti Venkateswara Rao (Babu) is an Indian politician from Andhra Pradesh. He is elected in 2014 Lok Sabha elections from Eluru (Lok Sabha constituency) as Telugu Desam Party candidate. He is well known for his social initiatives. He initiated supply of drinking water through tankers to villages in Kolleru villages and distributed Try-cycles to poor and physically handicapped persons. He awarded scholarships to economically backward students and organized medical camps through the MRC trust."
 }, {
-  "entityIndex" : "131_entity13461",
+  "entityIndex" : "95_entity8216",
   "entityUrl" : "http://dbpedia.org/resource/Md._Sohrab",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1440,7 +1044,7 @@
   "nouns" : [ "leader", "politician", "assembly", "state", "party", "legislature" ],
   "text" : "Md. Sohrab is a Congress politician, five-time MLA and Congress legislature party leader in the West Bengal state assembly."
 }, {
-  "entityIndex" : "132_entity13471",
+  "entityIndex" : "96_entity8223",
   "entityUrl" : "http://dbpedia.org/resource/Muriel_Baillie",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1451,7 +1055,7 @@
   "nouns" : [ "politician", "district", "member" ],
   "text" : "Muriel \"Fluff\" Baillie (born July 4, 1935) is a Canadian politician. She represented the electoral district of Pictou West in the Nova Scotia House of Assembly from 1999 to 2003. She was a member of the Progressive Conservative Party of Nova Scotia. Baillie was born in 1935 at River John, Nova Scotia, and educated at the Nova Scotia Normal College for Teachers. A retired school principal in River John, Baillie was the Progressive Conservative candidate for Pictou West in the 1999 provincial election. She defeated New Democrat incumbent Charlie Parker by 147 votes to win the seat. She served as a backbench MLA in John Hamm's government in the 58th General Assembly of Nova Scotia, and did not seek re-election in 2003."
 }, {
-  "entityIndex" : "133_entity13488",
+  "entityIndex" : "97_entity8239",
   "entityUrl" : "http://dbpedia.org/resource/Melinda_MacLean",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1462,18 +1066,7 @@
   "nouns" : [ "politician", "district", "member", "daughter" ],
   "text" : "Melinda Jane MacLean (née McLellan; January 19, 1946) is a Canadian former politician. She represented the electoral district of Colchester in the Nova Scotia House of Assembly from 1974 to 1978. She was a member of the Nova Scotia Liberal Party. MacLean was born in Truro, Nova Scotia, the daughter of former Colchester MLA Robert F. McLellan. She attended the University of New Brunswick and Dalhousie University, earning a Bachelor of Laws degree from the latter. In 1968, she married John Alton MacLean."
 }, {
-  "entityIndex" : "134_entity5193",
-  "entityUrl" : "http://dbpedia.org/resource/Fletcher_Bowron",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Los Angeles, California" ]
-  },
-  "words" : [ "date", "June", "-LRB-", "longest", "September", "American", "26", "Bradley", "city", "boom", "presiding", "Angeles", "35th", "building", "freeways", "second", "serving", "1953", "Bowron", "1938", "judge", "30", "longest-serving", "lawyer", "--", "11", "13", "mayor", "politician", "war", "handle", "California", ",", "'s", ".", "August", "heavy", "population", "1887", "Los", "Tom", "-RRB-", "Fletcher", "growth", "1968" ],
-  "adjectives" : [ "American", "longest-serving", "35th", "second", "heavy" ],
-  "nouns" : [ "date", "mayor", "city", "boom", "politician", "war", "growth", "judge", "lawyer", "building", "population" ],
-  "text" : "Fletcher Bowron (August 13, 1887 – September 11, 1968) was an American lawyer, judge and politician. He was the 35th mayor of Los Angeles, California, from September 26, 1938, until June 30, 1953. He was the longest-serving mayor to date in the city, and was the city's second longest serving mayor after Tom Bradley, presiding over the war boom and very heavy population growth, and building freeways to handle them."
-}, {
-  "entityIndex" : "135_entity5691",
+  "entityIndex" : "98_entity3492",
   "entityUrl" : "http://dbpedia.org/resource/Fraser_MacLean",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1484,7 +1077,7 @@
   "nouns" : [ "politician", "district", "member" ],
   "text" : "Donald Fraser MacLean (born December 18, 1937) was a Canadian politician. He represented the electoral district of Pictou Centre in the Nova Scotia House of Assembly from 1974 to 1976. He was a member of the Nova Scotia Progressive Conservative Party. MacLean was born in New Glasgow, Nova Scotia. He was educated at St. Francis Xavier University and was a businessman. In 1957, he was married to Virginia Allan Brooks. MacLean entered provincial politics in the 1974 election, when he defeated his Liberal opponent by 146 votes in Pictou Centre. MacLean resigned as MLA in 1976 for business reasons."
 }, {
-  "entityIndex" : "136_entity5692",
+  "entityIndex" : "99_entity3493",
   "entityUrl" : "http://dbpedia.org/resource/Floyd_MacDonald",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1495,29 +1088,7 @@
   "nouns" : [ "doctor", "politician", "district", "member" ],
   "text" : "Floyd Duncan MacDonald (born November 6, 1934) is a Canadian doctor and politician. He represented the electoral district of Queens in the Nova Scotia House of Assembly from 1971 to 1974. He was a member of the Nova Scotia Progressive Conservative Party. MacDonald was born at Fredericton Junction, New Brunswick. He attended Acadia University and Dalhousie University, earning a M.D. degree from the latter. He resides in Hartland, New Brunswick. MacDonald entered provincial politics in November 1971, winning a byelection for the Queens riding by 808 votes. He served one term and did not reoffer in the 1974 election."
 }, {
-  "entityIndex" : "137_entity5715",
-  "entityUrl" : "http://dbpedia.org/resource/Governor-General_of_Grenada",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "http://dbpedia.org/resource/Grenada", "http://dbpedia.org/resource/Government_House,_Grenada" ]
-  },
-  "words" : [ "country", "viceroys", "governors", "Queen", "United", "viceroy", "'s", "independence", "list", ",", "Governor-General", ".", "Grenada", "1974", "see", "Kingdom", "colonial", "List", "administrators", "since" ],
-  "adjectives" : [ ],
-  "nouns" : [ "country", "Queen", "colonial", "viceroy", "List", "independence", "list" ],
-  "text" : "The Governor-General of Grenada has been the viceroy of the Queen of Grenada since the country's independence from the United Kingdom in 1974. For a list of viceroys in Grenada before independence, see List of colonial governors and administrators of Grenada."
-}, {
-  "entityIndex" : "138_entity5785",
-  "entityUrl" : "http://dbpedia.org/resource/Geraldo_Alckmin",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Bandeirantes Palace" ]
-  },
-  "words" : [ "profesión", "de", "comenzó", "Geraldo", "-LRB-", "con", "25", "Ostentó", "político", "Rodrigues", "En", "Médico", "concejal", "médico", "Brasil", "1952", "brasileño", "se", "José", "un", "Alckmin", "cargo", "más", "1977", "como", "hasta", "su", "el", "en", ",", "alcalde", "edad", "es", ".", "este", "joven", "Pindamonhangaba", "1982", "ciudad", "política", "natal", "-RRB-", "y", "Filho", "años", "carrera", "convirtió" ],
-  "adjectives" : [ "natal" ],
-  "nouns" : [ "hasta", "comenzó", "brasileño", "con", "político", "un", "y", "cargo", "edad", "médico" ],
-  "text" : "Geraldo José Rodrigues de Alckmin Filho (Pindamonhangaba, 1952) es un político y médico brasileño. Médico de profesión, comenzó su carrera política como concejal en su ciudad natal. En 1977 se convirtió en el alcalde más joven de Brasil con 25 años de edad. Ostentó este cargo hasta 1982. Tras la alcaldía, durante dos legislaturas fue diputado federal. En 1988 participó en la creación del PSDB. Entre 2001 y 2006 fue gobernador del estado de São Paulo, y posteriormente candidato a las elecciones presidenciales de 2006 por el PSDB. En estas elecciones quedó en segundo lugar en la primera vuelta, con más del 41% de los votos. Católico, Alckmin ha sido señalado como miembro del Opus Dei, algo que él negó. Está casado y tiene tres hijos."
-}, {
-  "entityIndex" : "139_entity6121",
+  "entityIndex" : "100_entity3733",
   "entityUrl" : "http://dbpedia.org/resource/Gilbert_Collins",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1528,7 +1099,7 @@
   "nouns" : [ ],
   "text" : "Gilbert Collins was the 23rd Mayor of Jersey City, New Jersey from May 5, 1884 to May 2, 1886."
 }, {
-  "entityIndex" : "140_entity6174",
+  "entityIndex" : "101_entity3762",
   "entityUrl" : "http://dbpedia.org/resource/Greg_Pearce_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1539,18 +1110,7 @@
   "nouns" : [ "politician", "member", "Council", "BA" ],
   "text" : "Greg Pearce BA, LLB MLC, an Australian politician, is a member of the Legislative Council of New South Wales representing the Liberal Party of Australia since 1 November 2000."
 }, {
-  "entityIndex" : "141_entity6221",
-  "entityUrl" : "http://dbpedia.org/resource/Gail_Rosseau",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "River Forest, Illinois", "Suburban West Chicago" ]
-  },
-  "words" : [ "conseil", "de", "Neurological", "-LRB-", "American", "est", "l'institut", "Société", "Northshore", "née", "neurochirurgienne", "World", "Rosseau", "du", "neurochirurgie", "hôpitaux", "des", "Association", "Federation", "1956", "à", "l'Illinois", "Elle", "d'administration", "neurologique", "membre", "Chicago", "française", "en", "langue", "Societies", ",", "dans", "une", ".", "et", "américaine", "SNCLF", "la", "Linskey", "travaillant", "Surgeons", "-RRB-", "Neursurgical", "AANS", "Gail", "WFNS" ],
-  "adjectives" : [ "Neurological" ],
-  "nouns" : [ "hôpitaux", "SNCLF", "française", "Gail" ],
-  "text" : "Gail Linskey Rosseau, née en 1956, est une neurochirurgienne américaine travaillant à l’institut neurologique des hôpitaux Northshore, à Chicago, dans l’Illinois. Elle est membre du conseil d’administration de la American Association of Neurological Surgeons (AANS), de la Société de neurochirurgie de langue française (SNCLF) et de la World Federation of Neursurgical Societies (WFNS)"
-}, {
-  "entityIndex" : "142_entity6262",
+  "entityIndex" : "102_entity3809",
   "entityUrl" : "http://dbpedia.org/resource/Ganesh_Naik",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1561,7 +1121,7 @@
   "nouns" : [ "environment", "government", "minister", "past", "politician", "member", "excise", "Labour", "state", "Assembly" ],
   "text" : "Ganesh Naik born September 15, 1950 is an Indian politician. He is the Nationalist Congress Party member of the Maharashtra Legislative Assembly who represented Belapur in the past, and was the Thane Guardian Minister in the state government. He was the minister of Labour, excise and environment in the previous government."
 }, {
-  "entityIndex" : "143_entity6296",
+  "entityIndex" : "103_entity3827",
   "entityUrl" : "http://dbpedia.org/resource/Gopalrao_Patil",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1572,7 +1132,7 @@
   "nouns" : [ "politician", "member", "pediatrician", "president" ],
   "text" : "Gopalrao Patil is an Indian politician and pediatrician. He belongs to the Bharatiya Janata Party and is a former member of the Rajya Sabha. He is the president of Shivchhatrapati Shikshan Sanstha, which runs the Rajarshi Shahu College, Latur, Maharashtra."
 }, {
-  "entityIndex" : "144_entity6684",
+  "entityIndex" : "104_entity4129",
   "entityUrl" : "http://dbpedia.org/resource/Gayle_Chaneyfield-Jenkins",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1583,7 +1143,7 @@
   "nouns" : [ "candidate", "election", "Ras", "city", "politician", "run-off", "Council", "slate" ],
   "text" : "Gayle Chaneyfield-Jenkins (born 1957) is an American politician in Newark, New Jersey. on the Municipal Council of Newark. She had previously served from 1995 to 2006, and ran on the slate of Ras J. Baraka, a candidate in the 2014 Newark mayoral election, for the city's Central Ward. and faced incumbent Darrin Sharif in a run-off. Preliminary results released the night of the run-off election on June 10, 2014 showed that Chaneyfield-Jenkins won the seat. She was sworn in on July 1, 2014. Chaneyfeld-Jenkins was born in Newark and raised in the Hayes Homes projects by her parents who had moved from South Carolina in the 1940s. She is married to Kevin Jenkins, who has also acted as her chief of staff. Chaneyfield Jenkins, along with late Councilman Donald Tucker, were enstooled as ‘Nana’ in Newark 's sister city Kumasi in South Ghana. ‘Nana’ is a term signifying royalty in the West African nation. She was founder of Women with Hats for the Cure, an unregistered cancer charity. After leaving the municipal council she started Jericho LLC, a firm which sought to consult the city on development."
 }, {
-  "entityIndex" : "145_entity6696",
+  "entityIndex" : "105_entity4139",
   "entityUrl" : "http://dbpedia.org/resource/Golam_Yazdani",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1594,7 +1154,7 @@
   "nouns" : [ "MP", "minister", "politician", "jail", "cabinet" ],
   "text" : "Dr. Golam Yazdani (1917–2009) was a controversial Bengali politician, six-time MLA, three-time MP and cabinet minister in West Bengal. He was in jail for around three years and went underground for twenty months."
 }, {
-  "entityIndex" : "146_entity6715",
+  "entityIndex" : "106_entity4155",
   "entityUrl" : "http://dbpedia.org/resource/Gerald_Ritcey",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1605,7 +1165,7 @@
   "nouns" : [ "politician", "district", "member" ],
   "text" : "Gerald Conrad Ritcey (March 19, 1914 – November 24, 2001) was a Canadian politician. He represented the electoral district of Colchester in the Nova Scotia House of Assembly from 1968 to 1974. He was a member of the Progressive Conservative Party of Nova Scotia. Ritcey was born in Dartmouth, Nova Scotia. He was a merchant and businessman and lived in Truro. He married Mary MacPhee in 1940. Ritcey served in the Executive Council of Nova Scotia as Minister of Trade and Industry. Ritcey died in Truro on November 24, 2001."
 }, {
-  "entityIndex" : "147_entity6717",
+  "entityIndex" : "107_entity4157",
   "entityUrl" : "http://dbpedia.org/resource/George_A._Snow",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1616,29 +1176,7 @@
   "nouns" : [ "politician", "district", "member", "lobster", "fisherman" ],
   "text" : "George Albert Snow (born August 1, 1923) was a Canadian politician. He represented the electoral district of Yarmouth in the Nova Scotia House of Assembly from 1963 to 1970. He was a member of the Nova Scotia Progressive Conservative Party. Snow was born in Port Maitland, Nova Scotia and was a lobster fisherman. He married Marjorie Louise Harris in 1947."
 }, {
-  "entityIndex" : "148_entity14153",
-  "entityUrl" : "http://dbpedia.org/resource/Penny_Wong",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Australia" ]
-  },
-  "words" : [ "``", "Federal", "Rudd", "Opposition", "political", "governments", "Malaysia", "parliament", "degrees", "second", "Arts", "mother", "Penny", "worked", "Laws", "Wong", "represented", "Malaysian", ",", ".", "Senate", "Scotch", "graduating", "University", "5", "Prior", "-RRB-", "College", "Gillard", "since", "-LRB-", "Leader", "father", "Adelaide", "Labor", "advisor", "current", "Party", "2002", "member", "lawyer", "November", "''", "attended", "Cabinet", "Government", "born", "politician", "South", "Bachelor", "Penelope", "entering", "educated", "Ying-Yen", "Australian", "Born", "Australia", "1968", "first" ],
-  "adjectives" : [ "current", "Australian", "political", "first", "Malaysian", "second" ],
-  "nouns" : [ "mother", "advisor", "Rudd", "politician", "father", "member", "Bachelor", "parliament", "lawyer" ],
-  "text" : "Penelope Ying-Yen \"Penny\" Wong (born 5 November 1968) is an Australian politician who has represented South Australia in the Senate since 2002, and is the current Leader of the Opposition in the Senate. Wong is a member of the Labor Party and was a member of the Federal Cabinet in both the Gillard Government and the first and second Rudd governments. Born in Malaysia to an Australian mother and Malaysian father, Wong was educated at Scotch College in Adelaide, and then attended the University of Adelaide, graduating with Bachelor of Arts and Bachelor of Laws degrees. Prior to entering Federal parliament, Wong worked as a lawyer and political advisor. Wong is the first Asian-born member of an Australian cabinet. She is the first female openly-LGBTI Australian federal parliamentarian as well as federal government cabinet minister and supports marriage equality in Australia. First elected to the Senate at the 2001 federal election (and sitting from July 2002), Wong was named Minister for Climate Change and Water following Labor's victory under Kevin Rudd at the 2007 election. Her appointment was amended on 26 February 2010 to Minister for Climate Change, Energy Efficiency and Water. On 13 September 2010, she was sworn in as Minister for Finance and Deregulation in the Gillard Government. Wong retained the position after Kevin Rudd's successful leadership spill in June 2013, and also gained the position of Leader of the Government in the Senate, holding these roles until Labor's defeat at the 2013 federal election."
-}, {
-  "entityIndex" : "149_entity14160",
-  "entityUrl" : "http://dbpedia.org/resource/Ploutis_Servas",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Nicosia" ]
-  },
-  "words" : [ "22", "-LRB-", "education", "May", "Loizou", "Cyprus", "student", "Ploutis", "Moscow", "Servas", "Λοΐζου", "sciences", "Σέρβας", "surname", "February", "Πλούταρχος", "--", "still", "14", "Σαββίδης", "Ploutarhos", "social", "author", "studied", "politician", "born", "2001", "reporter", ",", "Cypriot", "former", ".", "secondary", "1907", "-RRB-", "Savvidis", "Limassol", ";", "Πλουτής", "Greek", "changed" ],
-  "adjectives" : [ "secondary", "social", "Greek", "former" ],
-  "nouns" : [ "education", "student", "author", "surname", "politician", "reporter" ],
-  "text" : "Ploutis Servas (Πλουτής Σέρβας in Greek; 22 May 1907 – 14 February 2001), was a Cypriot former politician, reporter, and author. Servas was born Ploutarhos Loizou Savvidis (Πλούταρχος Λοΐζου Σαββίδης) and changed his surname to Servas while still a student in secondary education. Servas was born in Limassol, Cyprus in 1907. He studied social sciences in Moscow. He returned to Cyprus in the 1930s and had to sign a declaration saying he would not be involved in politics in order to be allowed to set foot in the country. He became the general secretary of the illegal Communist party of Cyprus and founder and first general secretary of AKEL (1941–1945). He was also the first elected Mayor of Limassol 1943–1946 and 1946–1949. As a mayor he participated in the consultative assembly and advocated accepting the British plan of self-government for Cyprus in 1948. For that opinion he became isolated within his party and was expelled in 1952. He supported Ioannis Clerides in the 1960 elections, but wasn't an active politician again himself. He worked mainly as a reporter and a writer. He wrote books such as: Spain on Fire (1936), The Labour Issue (1936), AKEL and Local Issues (1942), Portraits of Palmer's Era (1946), Corea (1949), Prague Spring (1973), How Did We Manage to Get to Zero; The Cypriot Tragedy (1975), Old and New China (1977), Responsibilities (first volume 1980, second volume 1984, third volume 1985). His death on 14 February 2001 caused controversy in Cyprus as in his will he had asked to be cremated. There were no crematoria in Cyprus and there was a heated debate between those supporting the availability of cremation as an alternative and those (mainly religious Orthodox Christians) who disapproved of it."
-}, {
-  "entityIndex" : "150_entity14187",
+  "entityIndex" : "108_entity8629",
   "entityUrl" : "http://dbpedia.org/resource/Peter_Oborne",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1649,7 +1187,7 @@
   "nouns" : [ "journalist", "editor", "commentator", "Lying", "author", "hypocrisy", "Triumph", "pamphlet", "commentary", "Rise", "mendacity" ],
   "text" : "Peter Alan Oborne (/ˈoʊ.bɔːn/; born 11 July 1957) is a British journalist. He is the associate editor of the Spectator and former chief political commentator of the Daily Telegraph, from which he resigned in early 2015. He is author of The Rise of Political Lying and The Triumph of the Political Class, and, with Frances Weaver, the pamphlet Guilty Men. Oborne is known for his acerbic commentary on the hypocrisy and apparent mendacity of contemporary politicians."
 }, {
-  "entityIndex" : "151_entity14261",
+  "entityIndex" : "109_entity8667",
   "entityUrl" : "http://dbpedia.org/resource/Panabaka_Lakshmi",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1660,7 +1198,7 @@
   "nouns" : [ "constituency", "member", "Dr.Panabaka", "Lakshmi" ],
   "text" : "Dr.Panabaka Lakshmi (born 6 October 1958) is a former Member of Parliament and Union Minister(2004-2014).She represents the Bapatla constituency of Andhra Pradesh and is a member of the Indian National Congress."
 }, {
-  "entityIndex" : "152_entity14311",
+  "entityIndex" : "110_entity8686",
   "entityUrl" : "http://dbpedia.org/resource/P._V._Rangaiah_Naidu",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1671,7 +1209,7 @@
   "nouns" : [ "country", "Sabha", "constituency", "service", "member", "Lok" ],
   "text" : "Palacholla Venkata Rangaiah Naidu (also spelled as P.V. Rangayya Naidu) (born 6 April 1933) was a member of the 10th Lok Sabha of India. He represented the Khammam constituency of Andhra Pradesh. He served his country in the Indian Police Service as a Director General of Police before joining politics. He was decorated twice for meritorious service to the country of India. In 1972 Naidu was awarded the Indian Police Medal and in 1983 he was awarded the President's Police Medal for Distinguished Service. He served as a Union Minister in the government of India during the prime ministership of P.V. Narasimha Rao, from 1991 to 1996. He served as the Deputy Minister for Telecommunications and Minister of State for Power and Water Resources. He has been a member of the Indian National Congress party since his retirement from the Indian Police Service."
 }, {
-  "entityIndex" : "153_entity14335",
+  "entityIndex" : "111_entity8702",
   "entityUrl" : "http://dbpedia.org/resource/Pusapati_Vijayarama_Gajapati_Raju",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1682,7 +1220,7 @@
   "nouns" : [ "philanthropist", "son", "parliamentarian" ],
   "text" : "Maharaja Pusapati Vijayram Gajapati Raju, \"The Maharaj Saheb of Vizianagaram\" D.Litt. (born 1 May 1924 - died 14 November 1995) was an Indian parliamentarian and philanthropist. He was the eldest son of Maharaja Alak Narayanadev Gajapathi Raju and Maharani Vidyavathi Devi of the Vizianagram Kingdom in Andhra Pradesh. Pusapati Vijayarama Gajapati Raju was born at the Phool Bagh Royal Palace of Vizianagaram. He studied at St. Aloysius Convent School in Visakhapatnam in 1933, the Central College, Bangalore, 1940/1942 and in 1942,later he joined the Presidency College, Madras. Maharaj Saheb was the hereditary trustee of the Simhachalam temple and over 100 other temples in his former estate. He purchased the Korukonda Palace and the 1,000 acres (4.0 km2) of land surrounding it and donated it to the Government of India for the establishment of the Sainik School in 1961-1962. It is one of the 20 Sainik Schools established in India and the only one in Andhra Pradesh. He founded the \"Maharaja Alak Narayan Society of Arts and Science\" (MANSAS) in 1958, in memory of his father, for the promotion of education. He was elected as a member of the Madras and Andhra Pradesh Legislative Assemblies during 1952-1956 and 1956-1957 respectively. He again became a member of Andhra Pradesh Legislative Assembly between 1960 and 1971 and served as a Minister in the State Council of Ministers and held various important portfolios. He was elected to the second and fifth Lok Sabha from Visakhapatnam parliamentary constituency in 1957-1960 and 1971-1977 respectively. He was also elected to the sixth and seventh Lok Sabha from Bobbili parliamentary constituency in 1977-1980 and 1980-1984 respectively. PVG Raju served as the president of the Andhra Cricket Association for a number of years."
 }, {
-  "entityIndex" : "154_entity14428",
+  "entityIndex" : "112_entity8769",
   "entityUrl" : "http://dbpedia.org/resource/Pierre_P._Garven_(mayor)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1693,7 +1231,7 @@
   "nouns" : [ ],
   "text" : "Pierre Prosper Garven was the Mayor of Bayonne, New Jersey."
 }, {
-  "entityIndex" : "155_entity14441",
+  "entityIndex" : "113_entity8779",
   "entityUrl" : "http://dbpedia.org/resource/P._Vishnuvardhan_Reddy",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1704,7 +1242,7 @@
   "nouns" : [ "delimitation", "election", "death", "father", "M.L.A", "youth", "constituency", "veeru", "following", "legislator.He", "Assembly", "party", "bhai.He" ],
   "text" : "P. Vishnuvardhan Reddy (born 8 February 1981) is a former Member of Legislative Assembly (M.L.A) in which he represents the Jubilee Hills constituency, of Telangana. He's the youngest legislator.He is popularly known as veeru bhai.He has a massive following among the youth. He was born in Hyderabad, India to former Indian National Congress party MLA, P. Janardhan Reddy and Sulochana. His first election was followed by the death of his father from Khairtabad constituency before delimitation. He won with a majority of 5,80,236votes, and he has since been re-elected for the newly formed constituency of Jubilee Hills. Reddy is married to Sruthi."
 }, {
-  "entityIndex" : "156_entity14470",
+  "entityIndex" : "114_entity8794",
   "entityUrl" : "http://dbpedia.org/resource/Philip_%22Brave%22_Davis",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1715,7 +1253,7 @@
   "nouns" : [ "seat", "partner", "financier", "politician", "runner", "lawyer", "drug" ],
   "text" : "Philip Edward \"Brave\" Davis QC (born June 7, 1951 in Nassau, Bahamas) is a lawyer and Bahamian politician. He is currently a Member of Parliament for the seat of Cat Island, Rum Cay & San Salvador and Senior Partner of Davis & Co.. He was formerly a partner of Christie, Ingraham & Co. with Hubert Ingraham and Perry Christie. Davis infamously represented Viktor Kožený, a financier, and Samuel \"Ninety\" Knowles, a drug runner. He was appointed Queen's Council in January 2015."
 }, {
-  "entityIndex" : "157_entity14575",
+  "entityIndex" : "115_entity8836",
   "entityUrl" : "http://dbpedia.org/resource/Piyankara_Jayaratne",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1726,7 +1264,7 @@
   "nouns" : [ "organiser", "MP", "education", "Government", "SLFP", "politician", "member" ],
   "text" : "Unnanthi Piyankara Jayaratne, MP (born September 27, 1964) is a Sri Lankan politician and a member of the Parliament of Sri Lanka. He is the current Cabinet Minister of Civil Aviation in President Mahinda Rajapakse's Government and ex Deputy Speaker of Parliament. He was educated at Royal College Colombo and gained his higher education at the National Institute of Business Management. He was the General Secretary of the Youth Organisation, SLFP and became the SLFP organiser -for the Chilaw Electorate in 1998. From 1993 to 1998 he was a member of North Western Provincial Council and Minister of Fisheries, Agriculture and Irrigation of the North Western Provincial Council from 1998 to 2000. In 2000 he entered Parliament and was appointed Deputy Minister of Youth Affairs till 2001. He reappointed to Parliament in February 2008 and since June 2008 is the Deputy Speaker of Parliament."
 }, {
-  "entityIndex" : "158_entity14625",
+  "entityIndex" : "116_entity8871",
   "entityUrl" : "http://dbpedia.org/resource/Pasha_Patel",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1737,7 +1275,7 @@
   "nouns" : [ "Government", "council" ],
   "text" : "Pasha Patel is the present Member of the legislative council in the Government of Maharashtra, India. He is from the Bharatiya Janata Party."
 }, {
-  "entityIndex" : "159_entity14645",
+  "entityIndex" : "117_entity8884",
   "entityUrl" : "http://dbpedia.org/resource/Patricia_A._Shiu",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1748,7 +1286,7 @@
   "nouns" : [ "firm", "law", "administration", "today", "Director", "Aid", "associate" ],
   "text" : "Patricia Ann Shiu is the current Director of Federal Contract Compliance from 2009 to today during the administration of Barack Obama. Prior to joining the Department of Labor, Shiu worked as Vice President for Programs at the Legal Aid Society-Employment Law Center in San Francisco. She worked there for 26 years. Shiu also worked as an associate at the law firm of Pillsbury, Madison & Sutro. In 1982, Shiu received her J.D. from the University of San Francisco School of Law and in 1979, her B.A. in Political Economy of Industrialized States from the University of California, Berkeley. Born in Chicago, she is half Chinese and half Irish, and is the daughter of Joan Pierce Shiu  and Mr. Shiu."
 }, {
-  "entityIndex" : "160_entity14705",
+  "entityIndex" : "118_entity8925",
   "entityUrl" : "http://dbpedia.org/resource/Paul_Dyster",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1759,7 +1297,7 @@
   "nouns" : [ "mayor", "A." ],
   "text" : "Paul A. Dyster (born April 21, 1954) is the incumbent mayor of Niagara Falls, New York. He is a Democrat."
 }, {
-  "entityIndex" : "161_entity14727",
+  "entityIndex" : "119_entity8940",
   "entityUrl" : "http://dbpedia.org/resource/Pramatha_Nath_Ray",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1770,18 +1308,7 @@
   "nouns" : [ "MLA", "election", "government", "son", "constituency", "Government", "politician", "assembly", "state", "support", "ministry" ],
   "text" : "Pramatha Nath Ray is an Indian politician and was the Minister of State for Development & Planning in the Government of West Bengal. He is a MLA, elected from the Kaliaganj constituency in the West Bengal state assembly election, 2011. He resigned from the ministry when Congress withdrew its support to the Mamata Banerjee government in September 2012. Pramatha Nath Ray, son of Rabindra Nath Ray, was born in 1943. He is a post graduate in humanities."
 }, {
-  "entityIndex" : "162_entity14754",
-  "entityUrl" : "http://dbpedia.org/resource/Pema_Khandu",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Tawang and Itanagar" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "Chief", "ist", "ein", "Juli", "Pema", "dem", "von", "Pradesh", "Khandu", "1979", "Gyangkar", "Arunachal", "Minister", "17", "*", "indischer", ",", "er", ".", "August", "2016", "Distrikt", "Tawang", "-RRB-", "Seit", "Indien", "21" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Politiker", "indischer", "Seit", "ist", "ein", "er" ],
-  "text" : "Pema Khandu (* 21. August 1979 in Gyangkar, Distrikt Tawang, Arunachal Pradesh, Indien) ist ein indischer Politiker. Seit dem 17. Juli 2016 ist er Chief Minister von Arunachal Pradesh."
-}, {
-  "entityIndex" : "163_entity14768",
+  "entityIndex" : "120_entity8971",
   "entityUrl" : "http://dbpedia.org/resource/Patricia_Kernighan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1792,7 +1319,7 @@
   "nouns" : [ "city", "council", "politician", "advocacy", "member", "voting", "lawyer" ],
   "text" : "Patricia (Pat) Kernighan, a politician and a lawyer, was a District 2 city council member in Oakland, California until 2014, noted for her advocacy of instant run-off voting in city elections."
 }, {
-  "entityIndex" : "164_entity14886",
+  "entityIndex" : "121_entity9048",
   "entityUrl" : "http://dbpedia.org/resource/Parmanand_Rishideo",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1803,7 +1330,7 @@
   "nouns" : [ "issue", "politician", "member", "Scam", "floor", "Assembly" ],
   "text" : "Parmanand Rishideo (born 12 January 1962) is an Indian politician. He is a member of the Bihar Legislative Assembly, and currently represents Raniganj, Araria. He exposed the Mahadalit Land Scam when he raised the issue on the floor of the Bihar Legislative Assembly"
 }, {
-  "entityIndex" : "165_entity14897",
+  "entityIndex" : "122_entity9056",
   "entityUrl" : "http://dbpedia.org/resource/Peter_John_Nicholson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1814,7 +1341,7 @@
   "nouns" : [ "son", "politician", "district", "member" ],
   "text" : "Peter John M. Nicholson (born May 3, 1942) is a Canadian former politician. He represented the electoral district of Victoria in the Nova Scotia House of Assembly from 1978 to 1980. He is a member of the Nova Scotia Liberal Party. Nicholson was born at Halifax in 1942, the son of former Nova Scotia MLA Peter M. Nicholson. He attended Dalhousie University and Stanford University and holds Bachelor of Science, Master of Science, and Doctor of Philosophy (Ph.D.) degrees. He was a consultant in the fisheries industry. In 1982, he married Penelope Jane Connolly."
 }, {
-  "entityIndex" : "166_entity14898",
+  "entityIndex" : "123_entity9057",
   "entityUrl" : "http://dbpedia.org/resource/Praniti_Shinde",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1825,7 +1352,7 @@
   "nouns" : [ "sushilkumar", "MLA", "politician", "Praniti", "party" ],
   "text" : "Praniti sushilkumar Shinde is an Indian politician and MLA of Solapur City central from legislative Assembly.Praniti Shinde on Twitter Her party is Indian National Congress."
 }, {
-  "entityIndex" : "167_entity234",
+  "entityIndex" : "124_entity87",
   "entityUrl" : "http://dbpedia.org/resource/Ashok_Kumar_(Indian_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1836,7 +1363,7 @@
   "nouns" : [ "MBBS", "constituency", "politician", "party", "Assembly" ],
   "text" : "Dr. Ashok Kumar (Hindi: अशोक कुमार, born 08 December 1948) is an Indian politician. His political party is the Indian National Congress. He is a Member of Legislative Assembly where he represents Singhia constituency, he has represented the constituency for five terms. Dr. Kumar has an MBBS from Patna Medical College and Hospital."
 }, {
-  "entityIndex" : "168_entity384",
+  "entityIndex" : "125_entity147",
   "entityUrl" : "http://dbpedia.org/resource/Alfred_C._Sikes",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1847,7 +1374,7 @@
   "nouns" : [ "administrator", "Excellence", "science", "degree", "chairman", "board" ],
   "text" : "Alfred C. Sikes (born December 16, 1939, in Cape Girardeau, Missouri) is a Republican, former U.S. administrator of the National Telecommunication and Information Administration, who served as chairman of the Federal Communications Commission (FCC) from August 8, 1989, to January 19, 1993. He received a B.A. degree for political science from Westminster College in 1961 and an L.L.B. degree from the University of Missouri School of Law in 1964. In 2000, Sikes founded the non-profit Reading Excellence and Discovery Foundation and served as chairman of the Trinity Forum's board of trustees."
 }, {
-  "entityIndex" : "169_entity413",
+  "entityIndex" : "126_entity160",
   "entityUrl" : "http://dbpedia.org/resource/Abdul_Mannan_Hossain",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1858,29 +1385,7 @@
   "nouns" : [ "Sabha", "politician", "member", "Lok" ],
   "text" : "Abdul Mannan Hossain is an All India Trinamool Congress politician and a former Indian National Congress politician. He was Vidhan Sabha member and Lok Sabha member."
 }, {
-  "entityIndex" : "170_entity443",
-  "entityUrl" : "http://dbpedia.org/resource/Alexander_Duncan_McRae",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Vancouver and later Qualicum Beach, British Columbia" ]
-  },
-  "words" : [ "June", "Alexander", "-LRB-", "26", "Canadian", "War", "World", "1874", "Ottawa", "First", "businessman", "Member", "November", "successful", "--", "Army", "Glencoe", "17", "C.B.", "Senator", "McRae", ",", ".", "Major", "-RRB-", "General", "farmer", "Ontario", "1946", "Duncan", "Parliament" ],
-  "adjectives" : [ "Major", "Canadian", "successful" ],
-  "nouns" : [ "farmer", "businessman" ],
-  "text" : "Alexander Duncan McRae, C.B., (November 17, 1874, in Glencoe, Ontario – June 26, 1946, Ottawa, Ontario) was a successful businessman, a Major General in the Canadian Army in First World War, a Member of Parliament, a Canadian Senator and a farmer."
-}, {
-  "entityIndex" : "171_entity620",
-  "entityUrl" : "http://dbpedia.org/resource/Angelito_Gatlabayan",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "Antipolo City, Rizal" ]
-  },
-  "words" : [ "Politiker", "24", "-LRB-", "C.", "Juli", "ist", "ein", "Antipolo", "philippinische", "bis", "1998", "1952", "2007", "wechselte", "von", "das", "Repräsentantenhaus", "Danach", "war", "*", "Bürgermeister", "er", ".", "philippinischer", "Gatlabayan", "-RRB-", "Angelito" ],
-  "adjectives" : [ "Danach" ],
-  "nouns" : [ "Politiker", "wechselte", "von", "Repräsentantenhaus", "das", "war", "ist", "ein", "philippinische", "er", "philippinischer" ],
-  "text" : "Angelito C. Gatlabayan (* 24. Juli 1952) ist ein philippinischer Politiker. Gatlabayan war von 1998 bis 2007 Bürgermeister von Antipolo. Danach wechselte er in das philippinische Repräsentantenhaus. Sein dortiger Vorgänger als Abgeordneter, Victor Sumulong, wurde im Gegenzug 2007 zum neuen Bürgermeister von Antipolo gewählt. Gatlabayan ist verheiratet."
-}, {
-  "entityIndex" : "172_entity682",
+  "entityIndex" : "127_entity310",
   "entityUrl" : "http://dbpedia.org/resource/Aloys_Ndimbati",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1891,7 +1396,7 @@
   "nouns" : [ "murder", "persecution", "role", "incitement", "mayor", "commune", "genocide", "war", "extermination", "Genocide", "scene", "rape", "complicity", "connection", "warrant", "criminal", "case", "humanity" ],
   "text" : "Aloys Ndimbati (born in the early 1950s) is a Rwandan fugitive war criminal, wanted in connection with his alleged role in the 1994 Rwandan Genocide. According to his warrant, as mayor of the Kibuye commune Gisovu, he was present at the scene of and participated in the killings of Tutsis across Kibuye. Ndimbati has been charged with genocide, complicity in genocide, direct and public incitement to commit genocide, as well as with murder, extermination, rape and persecution as crimes against humanity. The International Criminal Tribunal for Rwanda referred his case to Rwandan authorities in June 2012."
 }, {
-  "entityIndex" : "173_entity707",
+  "entityIndex" : "128_entity327",
   "entityUrl" : "http://dbpedia.org/resource/Augusto_Amador",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1902,29 +1407,7 @@
   "nouns" : [ "vice-president", "council", "politician", "member", "Council" ],
   "text" : "Augusto Amador is an American politician who has been a member of the Municipal Council of Newark, New Jersey since 1998. representing the East Ward, which includes the Ironbound and Gateway districts. He became vice-president of the council in 2013 and once again in May 2015."
 }, {
-  "entityIndex" : "174_entity733",
-  "entityUrl" : "http://dbpedia.org/resource/Anne-Marie_Escoffier",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "France" ]
-  },
-  "words" : [ "de", "juin", "Réforme", "politique", "renouvellement", "est", "l'Aveyron", "née", "du", "gouvernement", "élue", "les", "déléguée", "l'Yonne", "préfète", "chargée", "II", "Elle", "Parti", "15", "18", "août", "ministre", ",", "dans", ".", "et", "1942", "au", "gauche", "Ayrault", "Fonction", "lors", "l'État", "fonctionnaire", "21", "Landes", "Escoffier", "28", "Anne-Marie", "2012", "Haute", "jusqu'au", "elle", "2008", "ancienne", "septembre", "publique", "31", "sénatrice", "à", "membre", "Décentralisation", "radical", "mars", "française", "femme", "auprès", "une", "sénatorial", "l'Administration", "la", "2014", "le", "Dax" ],
-  "adjectives" : [ "radical", "septembre", "Haute", "dans", "une" ],
-  "nouns" : [ "juin", "membre", "Décentralisation", "politique", "renouvellement", "est", "française", "août", "femme", "née", "sénatorial", "jusqu'au", "au", "l'État", "gouvernement", "l'Yonne", "fonctionnaire" ],
-  "text" : "Anne-Marie Escoffier est née le 15 août 1942 à Dax, dans les Landes. Elle est une femme politique française, membre du Parti radical de gauche, ancienne ministre déléguée auprès de la ministre de la Réforme de l’État, de la Décentralisation et de la Fonction publique, chargée de la Décentralisation, dans le gouvernement Ayrault II du 18 juin 2012 au 31 mars 2014. Haute fonctionnaire de l'Administration française et ancienne préfète de l'Aveyron et de l'Yonne, elle est élue sénatrice de l'Aveyron lors du renouvellement sénatorial du 21 septembre 2008, jusqu'au renouvellement du 28 septembre 2014."
-}, {
-  "entityIndex" : "175_entity734",
-  "entityUrl" : "http://dbpedia.org/resource/Alain_Fauconnier",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:residence" : [ "France" ]
-  },
-  "words" : [ "membre", "PS", "politique", "est", "française", "personnalité", "née", ",", "une", ".", "Fauconnier", "du", "le", "Alain", "20", "février", "1945" ],
-  "adjectives" : [ "une" ],
-  "nouns" : [ "politique", "française", "personnalité", "née", "février" ],
-  "text" : "Alain Fauconnier est une personnalité politique française, née le 20 février 1945, membre du PS."
-}, {
-  "entityIndex" : "176_entity1155",
+  "entityIndex" : "129_entity575",
   "entityUrl" : "http://dbpedia.org/resource/Augustus_D._Splivalo",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1935,7 +1418,7 @@
   "nouns" : [ "State", "member", "Assembly" ],
   "text" : "Augustus D. Splivalo was a California Assembly member. He was a prominent Attorney and Graduate of Santa Clara University and in 1870 was the first Italian American to be voted to the State Assembly."
 }, {
-  "entityIndex" : "177_entity1502",
+  "entityIndex" : "130_entity831",
   "entityUrl" : "http://dbpedia.org/resource/Angeline_Kopka",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1946,7 +1429,7 @@
   "nouns" : [ "descent", "agent", "hometown", "graduate", "politician", "member", "degree", "estate", "A." ],
   "text" : "Angeline A. \"Angie\" Kopka (née Landry; born April 18, 1916) is an American politician and former member of the New Hampshire House of Representatives. She is of French and Irish descent. Kopka is a graduate of the Nashua Business College, earning an associate degree. A former real estate agent, she founded Kopka Real Estate, in her hometown of Nashua, New Hampshire, in 1953. In 1974, she served as president of the National Women's Council of Realtors, and later, the New Hampshire Association of Realtors the following year. She is a winner of the National Association of Realtors Distinguished Service Award, receiving the award in 1991. Kopka was elected to the New Hampshire House of Representatives in 2002 as a Democratic Party, and served until 2010 when she was defeated for re-election. She won re-election in 2012, becoming the oldest lawmaker in the United States. Kopka was married to John S. Kopka, Jr., from around 1935 to his death in 2009. She has two children, seven grandchildren and three great-grandchildren. She turned 100 in April 2016."
 }, {
-  "entityIndex" : "178_entity1543",
+  "entityIndex" : "131_entity864",
   "entityUrl" : "http://dbpedia.org/resource/Aparupa_Poddar",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -1957,7 +1440,7 @@
   "nouns" : [ "election", "candidature", "caste", "politician", "parliament", "plea", "religion", "candidate", "cancellation", "constituency", "complaint", "member", "name" ],
   "text" : "Aparupa Poddar (Afrin Ali) is an Indian politician and a member of parliament to the 16th Lok Sabha from Arambagh (Lok Sabha constituency), West Bengal. She won the Indian general election, 2014 as a All India Trinamool Congress candidate. The BJP had lodged a complaint with the Election Commission seeking cancellation of the candidature of Aparupa Poddar on the plea that she had converted to Islam and hence she could not be treated as one belonging to the scheduled caste. Aparupa Poddar had clarified that she had changed her name but not her religion. The Arambagh constituency has a seat reserved for scheduled castes."
 }, {
-  "entityIndex" : "179_entity1549",
+  "entityIndex" : "132_entity870",
   "entityUrl" : "http://dbpedia.org/resource/A._Arunmozhithevan",
   "dboClass" : "dbo:Politician",
   "properties" : {

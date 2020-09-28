@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity3716",
+  "entityIndex" : "1_entity2238",
   "entityUrl" : "http://dbpedia.org/resource/Doug_Hutchinson",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,18 +10,7 @@
   "nouns" : [ "mayor", "city" ],
   "text" : "Doug Hutchinson is a former mayor of the city of Fort Collins, Colorado."
 }, {
-  "entityIndex" : "2_entity12284",
-  "entityUrl" : "http://dbpedia.org/resource/Mikael_Odenberg",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:imageWidth" : [ "200" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "14", "schwedischer", "Mikael", "Moderata", "*", "ist", "ein", ".", "Stockholm", "der", "1953", "Ingemarsson", "Odenberg", "Dezember", "-RRB-", "samlingspartiet" ],
-  "adjectives" : [ ],
-  "nouns" : [ "schwedischer", "samlingspartiet", "ist", "ein" ],
-  "text" : "Mikael Ingemarsson Odenberg (* 14. Dezember 1953 in Stockholm) ist ein schwedischer Politiker der Moderata samlingspartiet."
-}, {
-  "entityIndex" : "3_entity13274",
+  "entityIndex" : "2_entity8095",
   "entityUrl" : "http://dbpedia.org/resource/Mike_King_(transportation_executive)",
   "dboClass" : "dbo:Politician",
   "properties" : {

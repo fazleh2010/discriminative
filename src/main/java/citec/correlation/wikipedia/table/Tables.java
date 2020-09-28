@@ -57,6 +57,9 @@ public class Tables implements PropertyNotation{
     
     public  List<DBpediaEntity> readSplitTables(String inputDir,String fileType) throws IOException, Exception {
         List<File> list = FileFolderUtils.getFiles(inputDir, fileType, ".json");
+        if(list.isEmpty()){
+            throw new Exception("There is no files in "+inputDir+" to generate properties!!");
+        }
         this.className = null;
         for (File file : list) {
             String[] info = file.getName().split("_");

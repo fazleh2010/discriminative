@@ -1,0 +1,50 @@
+[ {
+  "entityIndex" : "entity12184",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%85slaug_Haga",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12185",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%93scar_Ram%C3%ADrez",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12186",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89ric_Raoult",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12187",
+  "entityUrl" : "http://dbpedia.org/resource/%22Big%22_Donnie_MacLeod",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "MLAforCape Breton West" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Russell_MacKinnon" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/David_Muise" ],
+    "dbp:termEnd" : [ "1988" ],
+    "dbp:termStart" : [ "1981" ]
+  },
+  "words" : [ "``", "MacLeod", "23", "-LRB-", "Canadian", "electoral", "County", "years", "Donald", "December", "Party", "2003", "member", "represented", "January", "councillor", "Donnie", "Assembly", "''", "11", "--", "Big", "Scotia", "West", "politician", "Nova", "House", "Breton", ",", "Cape", ".", "Progressive", "Archie", "3", "1981", "Born", "district", "Conservative", "served", "-RRB-", "1928", "municipal", "Marion", "Bridge", "1988" ],
+  "adjectives" : [ "Canadian", "electoral", "municipal" ],
+  "nouns" : [ "politician", "district", "member", "councillor" ],
+  "text" : "Donald Archie \"Big Donnie\" MacLeod (December 11, 1928 – January 3, 2003) was a Canadian politician. He represented the electoral district of Cape Breton West in the Nova Scotia House of Assembly from 1981 to 1988. He was a member of the Progressive Conservative Party of Nova Scotia. Born in 1928 at Marion Bridge, Nova Scotia, MacLeod served 23 years as a municipal councillor for Cape Breton County. MacLeod first attempted to enter provincial politics in the 1978 election, finishing third in the Cape Breton West riding. MacLeod ran again in the 1981 election, and defeated the incumbent David Muise by 390 votes to win the seat. He was re-elected in the 1984 election, defeating Liberal Russell MacKinnon by 1,110 votes. He was defeated by MacKinnon when he ran for re-election in 1988. MacLeod died on January 3, 2003."
+} ]

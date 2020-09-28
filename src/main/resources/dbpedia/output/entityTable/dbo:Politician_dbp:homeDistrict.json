@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity3340",
+  "entityIndex" : "1_entity2007",
   "entityUrl" : "http://dbpedia.org/resource/Chris_Baryomunsi",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "demographer", "specialist", "politician", "health", "physician", "position" ],
   "text" : "Chris Baryomunsi (born 9 December 1969) is a Ugandan physician, public health specialist, demographer, and politician. He is the State Minister for Housing in the Cabinet of Uganda. He was appointed to that position on 6 June 2016. Previously, from 1 March 2015 until 6 June 2016, he served as State Minister of Health for General Duties. Baryomunsi is the elected Member of Parliament for Kinkiizi County East and a member of Uganda's ruling party, the National Resistance Movement (NRM}. He was appointed as State Health Minister for General Duties on 1 March 2015, replacing Elioda Tumwesigye."
 }, {
-  "entityIndex" : "2_entity13421",
+  "entityIndex" : "2_entity8188",
   "entityUrl" : "http://dbpedia.org/resource/Mukasa_Mbidde",
   "dboClass" : "dbo:Politician",
   "properties" : {

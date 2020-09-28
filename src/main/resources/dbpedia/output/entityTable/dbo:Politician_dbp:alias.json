@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity12146",
+  "entityIndex" : "1_entity7472",
   "entityUrl" : "http://dbpedia.org/resource/Michael_McLaughlin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "figure", "author", "republican", "father", "war", "blog", "battle", "mother", "son", "veteran", "playwright", "friend", "correspondent", "time" ],
   "text" : "Michael McLaughlin (born c. 1940), also known as Michael Walsh, was for a time a leading figure on the British far right. Born in Liverpool, McLaughlin was the son of an Irish republican and socialist, who was a veteran of the International Brigades. According to his blog, his father was a good friend of Irish playwright Seán O'Casey, and shared battle experiences with war correspondent and international author, Ernest Hemingway. His mother corresponded with Dolores Ibárruri (La Pasionaria) during the Spanish Civil War."
 }, {
-  "entityIndex" : "2_entity12599",
+  "entityIndex" : "2_entity7687",
   "entityUrl" : "http://dbpedia.org/resource/Malik_Altunia",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "lover", "rule", "husband", "governor" ],
   "text" : "Malik Ikhtiyar-ud-din Altunia was the lover and husband of Sultana Razia and the governor of Bhatinda (Punjab) in India under the rule of the Delhi Sultanate under the Mamluk Sultanate."
 }, {
-  "entityIndex" : "3_entity5445",
+  "entityIndex" : "3_entity3330",
   "entityUrl" : "http://dbpedia.org/resource/Francis_Dade_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "involvement", "death", "plot", "politician", "name", "Royalist", "time", "burgess", "landowner" ],
   "text" : "Francis Dade (1621 – May 1, 1662), also known as John Smith (John Smith (Virginia burgess)), was a Virginia politician and landowner. He was an English Royalist who emigrated to Virginia some time after the death of Charles I, possibly after involvement in some plot against Oliver Cromwell. He was notoriously attached to the Stuarts. In Virginia he adopted the name \"John Smith\". He served as Speaker of the Virginia House of Burgesses in 1658. He died at sea in 1662."
 }, {
-  "entityIndex" : "4_entity6376",
+  "entityIndex" : "4_entity3879",
   "entityUrl" : "http://dbpedia.org/resource/G._N._Ratanpuri",
   "dboClass" : "dbo:Politician",
   "properties" : {

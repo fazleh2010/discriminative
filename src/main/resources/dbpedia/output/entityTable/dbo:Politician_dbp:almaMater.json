@@ -1,16 +1,5 @@
 [ {
-  "entityIndex" : "1_entity11044",
-  "entityUrl" : "http://dbpedia.org/resource/Khrystofor_Baranovsky",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "no general education" ]
-  },
-  "words" : [ "с", "Украины", "-LRB-", "мая", "состоял", "1874", "Немиринцы", "не", "укр", "кооперативный", "политических", "Приднепровской", "партиях", "--", "Барановский", "декабря", "Сан-Паулу", "19", "деятель", ",", "губерния", ".", "Христофор", "1941", "в", "7", "-RRB-", "и", "Антонович", "Барановський", ";", "общественный", "Киевская" ],
-  "adjectives" : [ ],
-  "nouns" : [ "с", "декабря", "Сан-Паулу", "деятель", "мая", "губерния", "состоял", "в", "и", "не", "укр", "кооперативный", "политических", "общественный", "партиях" ],
-  "text" : "Христофор Антонович Барановский (укр. Барановський Христофор Антонович; 19 декабря 1874, с. Немиринцы, Киевская губерния — 7 мая 1941, Сан-Паулу) — общественный и кооперативный деятель Приднепровской Украины; в политических партиях не состоял."
-}, {
-  "entityIndex" : "2_entity11146",
+  "entityIndex" : "1_entity6897",
   "entityUrl" : "http://dbpedia.org/resource/K.M._Asghar_Husain",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +10,7 @@
   "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
   "text" : "Khan M. Asghar Husain (born 23 January 1916) was a member of the 4th and 5th Lok Sabha of India. He represents the Akola constituency of Maharashtra and a member of the Indian National Congress (INC) political party. He was a Member, Nagpur University Court during 1967-70 and Governing Body of Shivaji College, Akola. He was Vice-President of Municipal Council, Akola since 1955; He was President, Berar Muslim Educational Conference since 1969 and Urdu Education Society, Akola."
 }, {
-  "entityIndex" : "3_entity11147",
+  "entityIndex" : "2_entity6898",
   "entityUrl" : "http://dbpedia.org/resource/Krishnarao_Gulabrao_Deshmukh",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +21,7 @@
   "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
   "text" : "Krisharao Gulabrao Deshmukh (born 8 March 1922) was a member of the 1st, 4th and 5th Lok Sabha of India from the Amravati constituency of Maharashtra and a member of the Indian National Congress (INC) political party. He was member of 2nd Lok Sabha from Ramtek (Lok Sabha constituency). He has studied at Hislop College and College of Law at Nagpur. He was married to Ashadevi and had two sons and 4 daughters and resides at Amravati. He worked in various capacity in Vidarbha Pradesh Congress Committee, Maharashtra Pradesh Congress Committee and A.I.C.C"
 }, {
-  "entityIndex" : "4_entity13606",
+  "entityIndex" : "3_entity8296",
   "entityUrl" : "http://dbpedia.org/resource/Nelson_Dollar",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -43,7 +32,7 @@
   "nouns" : [ "reelection", "consultant", "Dollar", "district", "member", "county", "campaign", "Boy" ],
   "text" : "Joseph Nelson Dollar is a Republican member of the North Carolina General Assembly representing the State's 36th House district. The district includes constituents from the towns of Cary, Apex and Swift Creek in Wake county. In 2006 WRAL reported on Rep. Dollar's first reelection campaign. A media and public relations consultant, Dollar has been active with the Boy Scouts, C.L.U.B. Ministries, and Camp Oak Hill. Dollar served as a Presidential Elector in 1996. Rep. Dollar is currently serving in his second term in the North Carolina State House."
 }, {
-  "entityIndex" : "5_entity13936",
+  "entityIndex" : "4_entity8516",
   "entityUrl" : "http://dbpedia.org/resource/Naraparaju_Ramchander_Rao",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -54,7 +43,7 @@
   "nouns" : [ "practice", "politician", "member", "lawyer" ],
   "text" : "Naraparaju Ramchander Rao (NRR) (Telugu: నారపరాజు రామచందర్ రావు, born 27 April 1959) is an Indian politician and lawyer from Telangana. He is a Bharatiya Janata Party (BJP) National Executive member, and a member of Press Council of India NRR started his legal practice in Hyderabad in 1985. In 2014, he was elected a member of the Bar Council of India. He has also been BJP's Chief Spokesperson and the General Secretary of undivided Andhra Pradesh State."
 }, {
-  "entityIndex" : "6_entity7941",
+  "entityIndex" : "5_entity4850",
   "entityUrl" : "http://dbpedia.org/resource/Jerry_W._Tillman",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -65,29 +54,7 @@
   "nouns" : [ "reform", "administrator", "teacher", "act", "school", "district", "member", "voting", "term", "state", "coach" ],
   "text" : "Jerry W. Tillman is a Republican member of the North Carolina General Assembly representing the state's twenty-ninth Senate district, including constituents in Moore and Randolph counties. A retired teacher, coach and school administrator from Archdale, North Carolina, Tillman is currently serving in his fifth term in the state Senate. Tillman is the Senate Majority Whip and is Chair or Co-Chair of several committees in the NC Senate. In 2013, Senator Tillman co-authored and introduced the state's controversial \"voting reform act,\" which will prevent, by conservative estimates, at least 100,000 people from being allowed to vote."
 }, {
-  "entityIndex" : "7_entity8239",
-  "entityUrl" : "http://dbpedia.org/resource/John_Floyd_(Virginia_politician)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "http://dbpedia.org/resource/University_of_Pennsylvania", "http://dbpedia.org/resource/Dickinson_College" ]
-  },
-  "words" : [ "-LRB-", "الديمقراطي", "م", "John", "و", "سياسي", "،", "عضو", "المتحدة", "Floyd", "الولايات", "1837", "جيفيرسون", "--", "هو", "من", "الحزب", "بالإنجليزية", "politician", "في", "والحزب", "الأمريكي", "ولد", "الجمهوري", "الأمريكية", ".", "وهو", "كنتاكي", "1783", "فلويد", "-RRB-", "مقاطعة", ":", "جون", "Virginia" ],
-  "adjectives" : [ ],
-  "nouns" : [ "من", "وهو", "كنتاكي", "م", "politician", "الأمريكي", "،", "جيفيرسون" ],
-  "text" : "جون فلويد (بالإنجليزية: John Floyd (Virginia politician)) (و. 1783 – 1837 م) هو سياسي من الولايات المتحدة الأمريكية ولد في مقاطعة جيفيرسون (كنتاكي).وهو عضو في الحزب الجمهوري الديمقراطي، والحزب الديمقراطي الأمريكي ."
-}, {
-  "entityIndex" : "8_entity8421",
-  "entityUrl" : "http://dbpedia.org/resource/John_Fremont_Hill",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "http://dbpedia.org/resource/Maine_Medical_School" ]
-  },
-  "words" : [ "Oktober", "Politiker", "Hill", "-LRB-", "York", "Maine", "29", "John", "ein", "Gouverneur", "County", "bis", "1855", "des", "von", "Eliot", "März", "Fremont", "1912", "US-amerikanischer", "†", "Augusta", "16", "war", "*", "und", ",", ".", "-RRB-", "1905", ";", "Bundesstaates", "1901" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Politiker", "von", "war", "und", "ein", "US-amerikanischer" ],
-  "text" : "John Fremont Hill (* 29. Oktober 1855 in Eliot, York County, Maine; † 16. März 1912 in Augusta, Maine) war ein US-amerikanischer Politiker und von 1901 bis 1905 Gouverneur des Bundesstaates Maine."
-}, {
-  "entityIndex" : "9_entity9376",
+  "entityIndex" : "6_entity5614",
   "entityUrl" : "http://dbpedia.org/resource/John_A._Johnson_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,7 +65,7 @@
   "nouns" : [ "owner", "politician", "caucus", "store", "legislature", "hardware" ],
   "text" : "John A. Johnson (July 9, 1883 in Litchfield, Minnesota – February 3, 1962) was a Minnesota politician and a Speaker of the Minnesota House of Representatives. He served three decades in the Minnesota legislature, twenty of those years in the Minnesota House. Johnson was a hardware store owner in Preston, Minnesota when he was first elected to the Minnesota House of Representatives in 1920. He caucused with the Conservative caucus in the then-nonpartisan legislature. In 1925, he was elected Speaker of the House, a position he held until he left the legislature in 1931. Johnson served as postmaster of the house during his time out of office, and returned to the legislature as a representative in 1939, serving ten years, most of that as chair of the Municipal Affairs committee. In 1949, he moved to the Minnesota Senate after winning a special election. He retired from the legislature in 1959."
 }, {
-  "entityIndex" : "10_entity9402",
+  "entityIndex" : "7_entity5632",
   "entityUrl" : "http://dbpedia.org/resource/John_H._Light",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -109,18 +76,7 @@
   "nouns" : [ "state" ],
   "text" : "John Henry Light (born March 27, 1855) was a Republican Attorney General for the state of Connecticut and Speaker of the Connecticut House of Representatives."
 }, {
-  "entityIndex" : "11_entity9729",
-  "entityUrl" : "http://dbpedia.org/resource/James_Younger,_5th_Viscount_Younger_of_Leckie",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "http://dbpedia.org/resource/Henley_Business_School", "http://dbpedia.org/resource/University_of_St_Andrews" ]
-  },
-  "words" : [ "11", "Politiker", "-LRB-", "britischer", "James", "Peer", "*", "und", "ist", "ein", "Edward", ",", ".", "Leckie", "Party", "George", "5", "Viscount", "Conservative", "-RRB-", "Edinburgh", "Younger", "November", "1955" ],
-  "adjectives" : [ ],
-  "nouns" : [ "britischer", "ist", "ein" ],
-  "text" : "James Edward George Younger, 5. Viscount Younger of Leckie (* 11. November 1955 in Edinburgh) ist ein britischer Peer und Politiker (Conservative Party)."
-}, {
-  "entityIndex" : "12_entity9931",
+  "entityIndex" : "8_entity6013",
   "entityUrl" : "http://dbpedia.org/resource/Jarbom_Gamlin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -131,7 +87,7 @@
   "nouns" : [ "leader", "politician", "party" ],
   "text" : "Jarbom Gamlin (Hindi: झारबोम घामलिन; 16 April 1961 – 30 November 2014) was an Indian politician and a leader of the Indian National Congress political party in Arunachal Pradesh. He was the Chief Minister of Arunachal Pradesh."
 }, {
-  "entityIndex" : "13_entity10218",
+  "entityIndex" : "9_entity6242",
   "entityUrl" : "http://dbpedia.org/resource/Jason_Luan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -142,7 +98,7 @@
   "nouns" : [ "Calgary-Hawkwood", "politician", "district", "member", "Assembly" ],
   "text" : "Jason Luan (born April 23, 1963) is a Canadian politician who was an elected member to the Legislative Assembly of Alberta for the electoral district of Calgary-Hawkwood."
 }, {
-  "entityIndex" : "14_entity10239",
+  "entityIndex" : "10_entity6261",
   "entityUrl" : "http://dbpedia.org/resource/Jeff_Anderson_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -153,7 +109,7 @@
   "nouns" : [ "owner", "executive", "veteran", "business", "service", "politician", "district", "Iron" ],
   "text" : "Jeff Anderson (born March 2, 1977) is an American politician, veteran of military service, business executive and small business owner. The fourth-generation Iron Ranger ran for Congress in Minnesota's 8th congressional district, losing to Rick Nolan in August 2012. Anderson has worked for the U.S. House of Representatives as Congressman Rick Nolan's District Director since January 2013."
 }, {
-  "entityIndex" : "15_entity10341",
+  "entityIndex" : "11_entity6343",
   "entityUrl" : "http://dbpedia.org/resource/Janet_M._Mills",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -164,7 +120,7 @@
   "nouns" : [ "district", "member" ],
   "text" : "Janet Marsico Mills (ca. 1921 in Norwalk, Connecticut – 1991 in Norwalk, Connecticut) was a Republican member of the Connecticut House of Representatives from Norwalk, Connecticut's 140th House district."
 }, {
-  "entityIndex" : "16_entity10350",
+  "entityIndex" : "12_entity6350",
   "entityUrl" : "http://dbpedia.org/resource/James_T._Hubbell",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -175,7 +131,7 @@
   "nouns" : [ "town", "mayor", "member", "judge", "court" ],
   "text" : "James Thaddeus Hubbell (1855–1929) was a one-term Democratic mayor of Norwalk, Connecticut from 1894 to 1895. He served as a judge of the town court, and as a member of the Connecticut House of Representatives representing Wilton in 1882 and 1883."
 }, {
-  "entityIndex" : "17_entity10406",
+  "entityIndex" : "13_entity6390",
   "entityUrl" : "http://dbpedia.org/resource/John_H._Lee_(Connecticut)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -186,18 +142,7 @@
   "nouns" : [ "education", "committee", "trade", "school", "vice-president", "Redding", "member", "board" ],
   "text" : "John Hawley Lee (August 9, 1850 – December 23, 1913) was Warden of the Borough of Norwalk, Connecticut from 1890 to 1891. He was born on August 9, 1850 in Redding, Connecticut, Edmund Lee, and Electa Sherwood. He moved to Norwalk in 1871. He was a member of the board of education, school committee, and vice-president of the board of trade. He was the manager of the Cleveland Baking Powder Company in Boston."
 }, {
-  "entityIndex" : "18_entity10467",
-  "entityUrl" : "http://dbpedia.org/resource/Jarallah_Alaluwayt",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "?" ]
-  },
-  "words" : [ "جار", "рода", "командующий", "новый", "академию", "ракетными", "генерал-майор", "июле", "В", "сил", "силами", "не", "Джарруллах", "--", "столице", "الله", ",", ".", "стратегическими", "а", "частности", "в", "лично", "العلويط", "-RRB-", "и", "для", "Аравии", "печати", "ракетных", "Алалувайт", "о", "же", "он", "с", "-LRB-", "секретны", "открыты", "отдельного", "как", "Начиная", "стратегических", "войск", "имя", "открывал", "так", "года", "информации", "Саудовской", "араб", "его", "существовании", "Эр-Рияде", "звание", "2013", "штаб", "фотографии" ],
-  "adjectives" : [ ],
-  "nouns" : [ "с", "секретны", "рода", "командующий", "новый", "академию", "ракетными", "генерал-майор", "открыты", "июле", "В", "отдельного", "как", "сил", "силами", "Начиная", "стратегических", "не", "войск", "имя", "открывал", "так", "года", "информации", "столице", "Саудовской", "араб", "стратегическими", "его", "а", "существовании", "частности", "в", "лично", "Эр-Рияде", "звание", "العلويط", "и", "для", "Аравии", "штаб", "печати", "ракетных", "фотографии", "о", "же", "он" ],
-  "text" : "Джарруллах Алалувайт (араб. جار الله العلويط‎) — командующий стратегическими ракетными силами Саудовской Аравии с 2013 года, генерал-майор. Начиная с 2013 года его имя, звание и фотографии не секретны, а открыты для печати, так же как и информации о существовании стратегических ракетных сил как отдельного рода войск Саудовской Аравии. В частности, он лично открывал в июле 2013 года новый штаб и академию стратегических ракетных сил в Эр-Рияде, столице Саудовской Аравии. Генерал-майор Джарралла Алалувайт по-видимому является единственным командующим стратегических ракетных сил (как отдельного рода войск) среди арабских и исламских стран. Пакистан также имеет стратегические баллистические ракеты, но они не сведены в отдельный род войск, а находятся в подчинении у пакистанской армии в виде отдельного корпуса (командование Стратегическими Силами Армии (англ.)). Пост командующего стратегическими ракетными силами становится в настоящее время всё более важным с учетом ядерной программы Саудовской Аравии, которая была ускорена с 2009 года согласно заявлениям короля Саудовской Аравии Абдуллы и принца Турки ибн Файсал Аль Сауда."
-}, {
-  "entityIndex" : "19_entity4703",
+  "entityIndex" : "14_entity2877",
   "entityUrl" : "http://dbpedia.org/resource/Eurfyl_ap_Gwilym",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -208,29 +153,7 @@
   "nouns" : [ "economist", "member", "PhD" ],
   "text" : "Eurfyl ap Gwilym (born 14 November 1944) is a Welsh economist originally from Penparcau, Ceredigion, a prominent member of Plaid Cymru, and Deputy Chairman of the Principality Building Society. He was educated at Ardwyn Grammar School and at King's College London (BSc, PhD)."
 }, {
-  "entityIndex" : "20_entity18885",
-  "entityUrl" : "http://dbpedia.org/resource/William_Ofori_Atta",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Queens' College, University of Cambridge" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "britischen", "ist", "dem", "1910", "der", "modernen", "bekanntesten", "†", "Kolonie", "Willie", "Nana", "Ofori-Atta", "im", "Volksmund", "Goldküste", "*", "und", "Ghana", "William", ".", "ehemaligen", "Paa", "auch", "einer", "-RRB-", ";", "1988" ],
-  "adjectives" : [ ],
-  "nouns" : [ "der", "ehemaligen", "Politiker", "modernen", "einer", "britischen", "und", "ist" ],
-  "text" : "Nana William Ofori-Atta (im Volksmund auch Paa Willie) (* 1910; † 1988) ist einer der bekanntesten Politiker der ehemaligen britischen Kolonie Goldküste und dem modernen Ghana."
-}, {
-  "entityIndex" : "21_entity19022",
-  "entityUrl" : "http://dbpedia.org/resource/Wong_Ting-kwong",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Guangzhou No.6 High School", "Heung To Middle School" ]
-  },
-  "words" : [ "、", "。", "2012年及2016年", "（", "）", "，", "英语", "1949年9月12日", "「", "－", "綽號", "」", "Ting-kwong", "自動當選功能組別進出口界立法會議員", "BBS", "循功能界別自動當選為香港立法會議員", "Wong", "：", "2004年9月在無競爭對手競逐下", "進出口界", "民建聯成員", "2004年", "黃定光", "籍貫廣東東莞", "並於同年獲特區政府頒授銅紫荊星章", "象哥", "2008年", "生於香港" ],
-  "adjectives" : [ "Ting-kwong" ],
-  "nouns" : [ "、", "。", "（", "，" ],
-  "text" : "黃定光，BBS（英语：Wong Ting-kwong，1949年9月12日－），綽號「象哥」，生於香港，籍貫廣東東莞，民建聯成員，2004年9月在無競爭對手競逐下，循功能界別自動當選為香港立法會議員（進出口界），並於同年獲特區政府頒授銅紫荊星章。2004年、2008年、2012年及2016年，自動當選功能組別進出口界立法會議員。"
-}, {
-  "entityIndex" : "22_entity19448",
+  "entityIndex" : "15_entity12037",
   "entityUrl" : "http://dbpedia.org/resource/Wallace_Dann",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -241,18 +164,7 @@
   "nouns" : [ "mayor", "member" ],
   "text" : "Wallace Dann (January 12, 1847– 1934) was a two-term Democratic mayor of Norwalk, Connecticut from 1905 to 1907. He was also a member of the Connecticut House of Representatives from 1903 to 1905."
 }, {
-  "entityIndex" : "23_entity18372",
-  "entityUrl" : "http://dbpedia.org/resource/Valerie_Docherty",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "http://dbpedia.org/resource/University_of_prince_edward_island" ]
-  },
-  "words" : [ "homonymes", "de", "politique", "fut", "28", "vert", "est", "défaite", "du", "2007", "l'Île-du-Prince-Édouard", "mai", "voir", "canadienne", "Pour", "les", "circonscription", "à", "jusqu", "par", "Elle", "représente", "ce", "lundi", "Parti", "générale", "'", "chef", "Kellys", "femme", ",", "une", ".", "l'élection", "législative", "Cross-Cumberland", "l'Assemblée", "4", "Valerie", "la", "2015", "lors", "Bevan-Baker", "le", "Peter", "articles", "Docherty", "qu'elle" ],
-  "adjectives" : [ "législative", "défaite", "femme", "une" ],
-  "nouns" : [ "à", "jusqu", "par", "ce", "l'Assemblée", "politique", "fut", "générale", "canadienne", "chef", "l'élection", "qu'elle" ],
-  "text" : "Pour les articles homonymes, voir Docherty. Valerie Docherty est une femme politique canadienne. Elle représente la circonscription de Kellys Cross-Cumberland à l'Assemblée législative de l'Île-du-Prince-Édouard de l'élection générale du 28 mai 2007 jusqu'à ce qu'elle fut défaite par le chef du Parti vert Peter Bevan-Baker lors de l'élection générale du lundi 4 mai 2015."
-}, {
-  "entityIndex" : "24_entity18495",
+  "entityIndex" : "16_entity11405",
   "entityUrl" : "http://dbpedia.org/resource/Valeriu_Turea",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -263,51 +175,7 @@
   "nouns" : [ "diplomat", "Republic" ],
   "text" : "Valeriu Turea is a diplomat from the Republic of Moldova. He is the Moldovan Ambassador to Portugal."
 }, {
-  "entityIndex" : "25_entity18593",
-  "entityUrl" : "http://dbpedia.org/resource/Valeriy_Heletey",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "National Academy of Internal Affairs" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "ukrainischer", "28", "ist", "ein", "Juli", "Kowal", "Werchnij", "Wiktorowytsch", "der", "Offizier", "2008", "Jazenjuk", "Koropez", "zum", "von", "wurde", "Nachfolge", "Kabinett", "Ukrainische", "ersten", "Verteidigungsminister", "im", "*", "und", ",", "er", ".", "August", "Oblast", "Transkarpatien", "SSR", "3", "befördert.Am", "Walerij", "2014", "dritte", "Heletej", "-RRB-", "1967", "Mychajlo", "Generaloberst" ],
-  "adjectives" : [ ],
-  "nouns" : [ "zum", "ukrainischer", "wurde", "ist", "ein", "er" ],
-  "text" : "Walerij Wiktorowytsch Heletej (* 28. August 1967 in Werchnij Koropez, Oblast Transkarpatien, Ukrainische SSR) ist ein ukrainischer Offizier und Politiker. 2008 wurde Heletej zum Generaloberst befördert.Am 3. Juli 2014 wurde er in Nachfolge von Mychajlo Kowal der dritte Verteidigungsminister im ersten Kabinett Jazenjuk. Am 14. Oktober 2014 wurde er von Stepan Poltorak in dieser Position abgelöst.Zwischen dem 5. Juli und dem 27. Oktober 2014 war er als Verteidigungsminister Mitglied des Nationalen Sicherheits- und Verteidigungsrats der Ukraine. Am 15. Oktober 2014 wurde Heletej vom Präsidenten der Ukraine Petro Poroschenko zum Leiter des ukrainischen Staatsschutzes (Управління державної охорони України) ernannt. Heletej ist verheiratet und Vater zweier Söhne."
-}, {
-  "entityIndex" : "26_entity11372",
-  "entityUrl" : "http://dbpedia.org/resource/Leonidas_L._Polk",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Davidson College" ]
-  },
-  "words" : [ "--", "11", "June", "24", "figure", "-LRB-", "American", "L.L.", "political", ",", "April", ".", "journalist", "Leonidas", "Lafayette", "1892", "Polk", "-RRB-", "farmer", "1837" ],
-  "adjectives" : [ "American", "political" ],
-  "nouns" : [ "journalist", "figure", "farmer" ],
-  "text" : "Leonidas Lafayette Polk (April 24, 1837 – June 11, 1892), or L.L. Polk, was an American farmer, journalist and political figure."
-}, {
-  "entityIndex" : "27_entity11400",
-  "entityUrl" : "http://dbpedia.org/resource/Lau_Wong-fat",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Ling Shan College" ]
-  },
-  "words" : [ "Lau", "New", "Hong", "-LRB-", "strength", "JP", "rural", "political", "morphed", "Council", "represents", "October", "GBM", "government", "Heung", "member", "劉皇發", "power", "1936", "Kong", "Kuk", "Executive", "centrally", "15", "born", "Mun", "representing", "chairman", "establishment", "also", ",", "Wong-fat", "Tuen", "Territories", "former", ".", "Beijing", "constituency", "powerful", "-RRB-", "Yee", "Chinese", "Legislative", ":", "interests", "District" ],
-  "adjectives" : [ "powerful", "rural", "Legislative", "political", "former" ],
-  "nouns" : [ "government", "constituency", "strength", "member", "chairman", "establishment", "power" ],
-  "text" : "Lau Wong-fat, GBM, JP (Chinese: 劉皇發, born 15 October 1936 in Tuen Mun, Hong Kong) is a former member of the Hong Kong Legislative Council, representing the Heung Yee Kuk constituency. He was a member of Hong Kong Executive Council and chairman of the powerful Heung Yee Kuk, which represents the interests of the New Territories establishment. He was also the chairman of Tuen Mun District Council. This political strength in rural Hong Kong has been morphed into power centrally and with the Beijing government. He earned his prestige by fighting for the New Territories indigenous interests by insert an article in the Hong Kong Basic Law to ensure their privileges remained protected after Hong Kong's handover to Chinese sovereignty in 1997 when he was a member of the Hong Kong Basic Law Drafting Committee. For this, together with his extensive ownership of land and property, he is known as the \"King of the New Territories\" (新界王) or the \"Land Emperor of the New Territories\" (新界土皇帝). Billionaire Lau is politically identified as part of the pro-Beijing camp. He is a member of the Chinese People's Political Consultative Conference and has a close relationship with the Chinese Communist Party."
-}, {
-  "entityIndex" : "28_entity11459",
-  "entityUrl" : "http://dbpedia.org/resource/Lorna_E._Lockwood",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "http://dbpedia.org/resource/James_E._Rogers_College_of_Law", "http://dbpedia.org/resource/University_of_Arizona" ]
-  },
-  "words" : [ "de", "est", "Sharp", "E.", "Cour", "fait", "née", "mais", "pairs", "devient", "du", "être", "1974", "des", "ainsi", "élue", "les", "1977", "années", "par", "il", "juges", "en", "première", "Marshall", ",", "peuple", "Caroline", ".", "et", "américaine", "président", "morte", "Néanmoins", ":", ";", "1903", "Lockwood", "Justice", "que", "Lorna", "23", "24", "Chief", "qui", "Susie", "En", "États-Unis", "Lyndon", "elle", "juriste", "septembre", "juge", "présentie", "d'elle", "d'une", "qu'une", "ses", "`", "à", "cette", "ce", "aurait", "membre", "Johnson", "c'est", "mars", "pour", "femme", "suprême", "une", "l'Arizona", "1965", "la", "Pendant", "1960", "Nord", "directement", "le", "nommée", "agit" ],
-  "adjectives" : [ "par", "être", "président", "élue", "directement", "suprême", "une" ],
-  "nouns" : [ "par", "il", "est", "fait", "femme", "née", "peuple", "juriste", "américaine", "septembre", "élue", "juge", "nommée" ],
-  "text" : "Lorna E. Lockwood, née le 24 mars 1903 et morte le 23 septembre 1977 est une juriste américaine. En 1965, elle devient la première femme Chief Justice de la Cour suprême de l'Arizona ainsi que des États-Unis. Néanmoins, elle est élue par ses pairs juges ; c'est en 1974 qu'une Chief Justice d'une Cour suprême est élue, mais directement par le peuple : il s'agit de Susie Marshall Sharp, en Caroline du Nord. Pendant les années 1960, elle est présentie pour être nommée juge à la Cour suprême des États-Unis, par le président Lyndon Johnson, ce qui aurait fait d'elle la première femme membre de cette Cour. Finalement, elle n'est pas nommée, et c'est Thurgood Marshall qui occupe le poste, premier juge afro-américain à y accéder. Elle meurt en 1977 d'une pneumonie, et c'est seulement en 1981 qu'une femme, Sandra Day O'Connor, est nommée à la Cour suprême, par le président Ronald Reagan."
-}, {
-  "entityIndex" : "29_entity11472",
+  "entityIndex" : "17_entity7077",
   "entityUrl" : "http://dbpedia.org/resource/Lim_Swee_Aun",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -318,51 +186,7 @@
   "nouns" : [ "pinyin", "politician", "name", "Ruì", "member", "family", "Lín", "Ān" ],
   "text" : "(This is a Chinese name; the family name is Lim (林).) Tan Sri Dr. Lim Swee Aun (Chinese: 林瑞安; pinyin: Lín Ruì Ān; 1 September 1915 – 13 August 1977) was a Malaysian Chinese politician from the Malaysian Chinese Association, and a Cabinet member."
 }, {
-  "entityIndex" : "30_entity11866",
-  "entityUrl" : "http://dbpedia.org/resource/Leopold_Taburyansky",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Dnipropetrovsk Industrial College" ]
-  },
-  "words" : [ "22", "медалью", "-LRB-", "Табуря́нский", "Кривой", "Рог", "область", "УССР", "СССР", "Награждён", "Ива́нович", "Табурянський", "укр", "Іванович", "украинский", "--", "политический", "род", "деятель", "Леопо́льд", ",", "Леопольд", ".", "июля", "1940", "-RRB-", "Днепропетровская" ],
-  "adjectives" : [ "июля" ],
-  "nouns" : [ "медалью", "Табуря́нский", "политический", "род", "область", "деятель", "Леопо́льд", "УССР", "СССР", "Награждён", "Ива́нович", "укр", "украинский" ],
-  "text" : "Леопо́льд Ива́нович Табуря́нский (укр. Леопольд Іванович Табурянський, род. 22 июля 1940, Кривой Рог, Днепропетровская область, УССР, СССР) — украинский политический деятель. Награждён медалью. Женат, имел двоих детей."
-}, {
-  "entityIndex" : "31_entity2384",
-  "entityUrl" : "http://dbpedia.org/resource/Craig_Washington",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Prairie View A&M Uni.", "Texas Southern Uni. Law School" ]
-  },
-  "words" : [ "``", "medical", "becoming", "Mickey", "Prairie", "Reyes", "United", "electing", "minority", "seats", "States", "decided", "son", "Azalia", "1972", "George", "school", "four", "members", "Bush", "Southern", "state", "ran", "ceased", "12", "law", "already", "began", "Democratic", "Benny", "originally", "House", "admissions", ",", "'s", ".", "candidates", "1941", "Senate", "dubbed", "University", "Craig", "Texas", "State", "served", "graduated", "-RRB-", "Roy", "-LRB-", "American", "single-member", "districts", "Representatives", "Washington", "October", "Party", "along", "T.", "Cecil", "lawyer", "''", "Anthony", "apply", "born", "politician", "A&M", "People", "instead", "View", "doctor", "Five", "Leland", "interested", "time", "Hall", "first", "1966" ],
-  "adjectives" : [ "medical", "American", "single-member", "Democratic", "interested", "first" ],
-  "nouns" : [ "doctor", "son", "law", "school", "politician", "state", "time", "minority", "lawyer" ],
-  "text" : "Craig Anthony Washington (born October 12, 1941) is an American lawyer and Democratic Party politician from Texas who served in the Texas State Senate and the United States House of Representatives. The son of Roy and Azalia Washington, Washington graduated from Prairie View A&M University in 1966 and was originally interested in becoming a doctor, but as admissions to medical school had already ceased, Washington decided to instead apply at Texas Southern University's law school. In 1972, the state of Texas began electing members of the state House of Representatives and State Senate, for the first time, by single-member districts. Washington, along with four other minority candidates, Anthony Hall, George T. \"Mickey\" Leland, Benny Reyes and Cecil Bush, (dubbed the \"People's Five\"), ran for seats in the Texas House of Representatives. Washington was elected, and represented District 86 in the state House from 1973 to 1982. He then represented District 13 in the state senate from 1983 until 1989. Washington was elected as a Democrat to the 101st United States Congress for Texas's 18th congressional district, by special election, December 9, 1989, to fill the vacancy caused by the death of Mickey Leland. He was reelected to the 102nd United States Congress and 103rd United States Congress and served from December 9, 1989, to January 3, 1995. He took stands against some projects, like the International Space Station, where spending would have flowed to his district. In March, 1994, Washington was routed in the Democratic primary by Houston City Councilwoman Sheila Jackson Lee, winning only 36.5 percent of the vote. Lee won in November and still holds the seat today. Since leaving Congress, Washington has practiced law in Houston and Bastrop, Texas. On New Year's Day 2008, Washington shot at a car containing two teenagers. After being indicted by a grand jury in 2009, he agreed to two years of probation. However, Washington's attorney subsequently claimed that Washington fired because his life was in danger. Washington has since countersued the teenagers, alleging assault and property damage. The Internal Revenue Service has also sued Washington, alleging that he owes $610,000 in unpaid taxes. On January 8, 2015, Washington received a suspension of his Texas attorney's license. The 335th District Court of Bastrop County, Texas found that Washington had violated various rules, including the rules prohibiting neglecting a legal matter entrusted to him and failing to keep a client reasonably informed. On March 12, 2015, a \"modified judgment was entered imposing a four-year partially probated suspension with 12 months active.\" He was also ordered to pay over $24,600 in legal fees and expenses. Washington filed an appeal."
-}, {
-  "entityIndex" : "32_entity2500",
-  "entityUrl" : "http://dbpedia.org/resource/Chan_Kam-lam",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Hong Kong Technical College" ]
-  },
-  "words" : [ "22", "largest", "Hong", "-LRB-", "JP", "Kowloon", "Kam-lam", "Council", "pro-Beijing", "Chan", "member", "GBS", "Alliance", "January", "陳鑑林", "Kong", "Progress", "DAB", "Democratic", "born", "representing", "also", ",", ".", "former", "core", "Betterment", "constituency", "name", "-RRB-", "Chinese", "Legislative", ":", "1949", ";", "family", "East", "party" ],
-  "adjectives" : [ "Democratic", "Chinese", "Legislative", "former", "pro-Beijing" ],
-  "nouns" : [ "core", "constituency", "name", "member", "family", "Council", "party" ],
-  "text" : "(This is a Chinese name; the family name is Chan.) Chan Kam-lam, GBS, JP (Chinese: 陳鑑林; born 22 January 1949) is a former member of the Legislative Council of Hong Kong representing the Kowloon East constituency. He is also a core member of the Democratic Alliance for the Betterment and Progress of Hong Kong (DAB), the largest pro-Beijing party in Hong Kong."
-}, {
-  "entityIndex" : "33_entity2553",
-  "entityUrl" : "http://dbpedia.org/resource/Charles_Wheeler_(politician)",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "University of Missouri" ]
-  },
-  "words" : [ "-LRB-", "held", "Jr.", "offices", "1971", "Missouri", "state", "Wheeler", "1979", "10", "addition", "Charles", "mayor", "born", "Kansas", "City", ",", "former", ".", "August", "senator", "elected", "Bertan", "-RRB-", "1926" ],
-  "adjectives" : [ "former" ],
-  "nouns" : [ "senator", "mayor", "state", "addition" ],
-  "text" : "Charles Bertan Wheeler, Jr. (born August 10, 1926) is a former Missouri state senator and a former mayor of Kansas City, Missouri from 1971 to 1979, in addition to having held other elected offices."
-}, {
-  "entityIndex" : "34_entity3248",
+  "entityIndex" : "18_entity1937",
   "entityUrl" : "http://dbpedia.org/resource/Christian_Swartz",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -373,7 +197,7 @@
   "nouns" : [ "manager", "mayor", "Sheriff", "treasurer" ],
   "text" : "Christian Swartz (June 15, 1846 – 1932) was a two-term mayor of South Norwalk, Connecticut, United States in 1880, and 1882. He was treasurer and general manager of The Old Well Cigar Company, of South Norwalk, and a Sheriff of Fairfield County."
 }, {
-  "entityIndex" : "35_entity1927",
+  "entityIndex" : "19_entity1094",
   "entityUrl" : "http://dbpedia.org/resource/Bill_Proctor",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -384,7 +208,7 @@
   "nouns" : [ "re-election", "role", "committee", "director" ],
   "text" : "Bill Proctor is the Leon County, Florida District 1 County Commissioner, a role in which he has served since 1996. He has also been an Instructor Political Science at Florida A&M University in Tallahassee, Florida since August 2000. Previously, he served on former Florida Governor Lawton Chiles' 1994 re-election committee before being essentially fired according to Chuck Wolfe, Chiles' director of external affairs."
 }, {
-  "entityIndex" : "36_entity2143",
+  "entityIndex" : "20_entity1227",
   "entityUrl" : "http://dbpedia.org/resource/Balram_Naik",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -395,7 +219,7 @@
   "nouns" : [ "politician", "member", "party" ],
   "text" : "Porika Naik Balram known as Balram Naik (born 6 June 1964) is an Indian politician and a member of the Indian National Congress political party. He was a member of the 15th Lok Sabha, Lower House of the Parliament of India."
 }, {
-  "entityIndex" : "37_entity2290",
+  "entityIndex" : "21_entity1347",
   "entityUrl" : "http://dbpedia.org/resource/Benjamin_P._Mead",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -406,18 +230,7 @@
   "nouns" : [ "delegate", "son", "member", "illness" ],
   "text" : "Benjamin Penfield Mead (September 21, 1849 – March 19, 1913) was Connecticut State Comptroller from 1895 to 1899, a member of the Connecticut House of Representatives representing New Canaan from 1885 to 1889, and a member of the Connecticut Senate representing the 12th District from 1889 to 1892. He was the son of Benjamin Close Mead and Mary Elizabeth Rich of Greenwich. In 1902, he was a delegate to the Connecticut Constitutional Convention. He died in 1913 after an illness."
 }, {
-  "entityIndex" : "38_entity17431",
-  "entityUrl" : "http://dbpedia.org/resource/Truman_Smith",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "http://dbpedia.org/resource/Yale_University", "http://dbpedia.org/resource/Litchfield_Law_School" ]
-  },
-  "words" : [ "congressional", "-LRB-", "May", "27", "United", "districts", "Representatives", "States", "1854", "1832", "1831", "member", "November", "1834", "--", "Whig", "Smith", "4th", "1791", "5th", "House", "also", ",", "'s", ".", "Senate", "3", "1884", "Truman", "Connecticut", "served", "-RRB-", "1849", "1845" ],
-  "adjectives" : [ "congressional", "Whig", "4th", "5th" ],
-  "nouns" : [ "member" ],
-  "text" : "Truman Smith (November 27, 1791 – May 3, 1884) was a Whig member of the United States Senate from Connecticut from 1849 to 1854 and a member of the United States House of Representatives from Connecticut's 4th and 5th congressional districts from 1845 to 1849 and from 1849 to 1854. He also served in the Connecticut House of Representatives from 1831 to 1832, and in 1834."
-}, {
-  "entityIndex" : "39_entity17516",
+  "entityIndex" : "22_entity10794",
   "entityUrl" : "http://dbpedia.org/resource/Tom_Hayhurst",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -428,18 +241,7 @@
   "nouns" : [ "seat", "city", "council", "member", "nominee" ],
   "text" : "Thomas Eldon Hayhurst (born July 5, 1942) is a former city council member from Fort Wayne, Indiana. He unsuccessfully sought Indiana's 3rd District Congressional seat as the Democratic nominee in 2006 and 2010."
 }, {
-  "entityIndex" : "40_entity17642",
-  "entityUrl" : "http://dbpedia.org/resource/Tetsuo_Kanno",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Ichinoseki Tech High School" ]
-  },
-  "words" : [ "旧姓", "、", "。", "（", "小山", "）", "「", "-", "2期", "」", "は", "1948年10月22日", "こやま", "ニックネームは", "かんてつ", "てつお", "哲雄", "元衆議院議員", "菅野", "日本の政治家", "：", "かんの" ],
-  "adjectives" : [ ],
-  "nouns" : [ "。", "）", "「" ],
-  "text" : "菅野 哲雄（かんの てつお、旧姓：小山（こやま）、1948年10月22日- ）は、日本の政治家。元衆議院議員（2期）。ニックネームは「かんてつ」。"
-}, {
-  "entityIndex" : "41_entity17846",
+  "entityIndex" : "23_entity10999",
   "entityUrl" : "http://dbpedia.org/resource/Tony_Sutton",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -450,7 +252,7 @@
   "nouns" : [ "firm", "founder", "chairman" ],
   "text" : "Anthony G. \"Tony\" Sutton (born September 1967) is the former chairman of the Republican Party of Minnesota and founder of a political public relations firm, Winning Strategies."
 }, {
-  "entityIndex" : "42_entity17909",
+  "entityIndex" : "24_entity11045",
   "entityUrl" : "http://dbpedia.org/resource/Thakur_Ram_Lal",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -461,18 +263,7 @@
   "nouns" : [ "leader", "constituency", "politician", "office" ],
   "text" : "Thakur Ram Lal (7 July 1929 – 6 July 2002 in Shimla) was an Indian politician and a leader of the Indian National Congress in Himachal Pradesh. He was elected to the Himachal Pradesh Vidhan Sabha from Jubbal Kotkhai constituency in 1957. Later, he was re-elected to the Himachal Pradesh Vidhan Sabha from the same constituency in 1962, 1967, 1977, 1980 and 1982. He became the fourth Chief Minister of Himachal Pradesh on 28 January 1977 and remained in office till 30 April 1977. He was the leader of opposition in the Himachal Pradesh Vidhan Sabha from 29 June 1977 to 13 February 1980. He again became the Chief Minister of the state on 14 February 1980 and remained in office till 7 April 1983. Later, he served as Governor of Andhra Pradesh from 15 August 1983 to 29 August 1984. He died in Shimla following a massive cardiac arrest on 6 July 2002.His grandson Rohit Thakur is MLA from Jubbal-Kotkhai now. He is also Chief Parliament Secretary in state government."
 }, {
-  "entityIndex" : "43_entity18090",
-  "entityUrl" : "http://dbpedia.org/resource/Tedo_Isakadze",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Tbilisi State University" ]
-  },
-  "words" : [ "ისაკაძე", "June", "-LRB-", "27", "born", "politician", ",", ".", "თედო", "-RRB-", "Georgian", ":", "Tedo", "Isakadze", "1966" ],
-  "adjectives" : [ "Georgian" ],
-  "nouns" : [ "politician" ],
-  "text" : "Tedo Isakadze (Georgian: თედო ისაკაძე, born 27 June 1966) is a Georgian politician."
-}, {
-  "entityIndex" : "44_entity18146",
+  "entityIndex" : "25_entity11220",
   "entityUrl" : "http://dbpedia.org/resource/Tommy_Tucker_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -483,18 +274,7 @@
   "nouns" : [ "citizen", "development", "movie", "co-chairman", "senator", "journalist", "inquiry", "State", "theater", "statement", "challenge", "state", "criticism" ],
   "text" : "Wyatt \"Tommy\" Thomas Tucker, Sr. is a Republican state senator in the state of North Carolina. He is co-chairman of the North Carolina Senate's State and Local Government Committee. Senator Tucker has been credited with the statement \"I am the Senator, you are the Citizen, you need to be quiet,\" when responding to a citizen journalist's inquiry on North Carolina's Senatorial Rules and Procedures  In 2013 Sen. Tucker came under criticism for helping direct Rural Center funds to the development of a movie theater In 2016 he is facing a primary challenge from Matthew Daly"
 }, {
-  "entityIndex" : "45_entity14925",
-  "entityUrl" : "http://dbpedia.org/resource/Robert_Spencer,_2nd_Earl_of_Sunderland",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Oxford" ]
-  },
-  "words" : [ "numerous", "year", "forced", "England", "office", "rôle", "later", "Robert", "adviser", "--", "new", "took", "statesman", "monarchy", "made", "caustic", "Spencer", ",", "disinterested", ".", "5", "temper", "-RRB-", "Subsequently", "1702", "nevertheless", "-LRB-", "September", "28", "Sunderland", "flee", "favour", "nobleman", "Earl", "KG", "belief", "established", "regime", "2nd", "enemies", "seeking", "English", "1688", "Crown", "PC", "1641", "gifted", "absolute", "able", "neither", "family", "Revolution" ],
-  "adjectives" : [ "English", "new", "gifted", "numerous", "absolute", "able", "caustic", "2nd", "disinterested" ],
-  "nouns" : [ "statesman", "monarchy", "regime", "year", "office", "rôle", "favour", "nobleman", "temper", "adviser", "family", "belief", "Revolution" ],
-  "text" : "Robert Spencer, 2nd Earl of Sunderland KG PC (5 September 1641 – 28 September 1702) was an English nobleman of the Spencer family. An able and gifted statesman, his caustic temper and belief in absolute monarchy nevertheless made him numerous enemies. He was forced to flee England in 1688, but later established himself with the new regime after the Revolution of that year. Subsequently, he took on a more disinterested rôle as an adviser to the Crown, seeking neither office nor favour. He evinced no party loyalty, but was devoted to his country's interests, as he saw them. By the notoriously lax standards of the Restoration Court, his private life was remarkably free from scandal, which won him favour in the more sober post-Revolution state."
-}, {
-  "entityIndex" : "46_entity14932",
+  "entityIndex" : "26_entity9071",
   "entityUrl" : "http://dbpedia.org/resource/Richard_Younger-Ross",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -505,18 +285,7 @@
   "nouns" : [ "seat", "election", "constituency", "politician" ],
   "text" : "Richard Alan Younger-Ross (born Richard Alan Ross, 29 January 1953) is a politician in England. He was the Liberal Democrat Member of Parliament for Teignbridge from 2001 to 2010, having contested the seat in 1992 and 1997, finally winning in the 2001 election. He was defeated in the redefined Newton Abbot constituency in 2010 election."
 }, {
-  "entityIndex" : "47_entity14956",
-  "entityUrl" : "http://dbpedia.org/resource/Roger_Grimes",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Memorial University, B.S., B.Ed., M.Ed." ]
-  },
-  "words" : [ "leader", "Grimes", "-LRB-", "May", "Canadian", "held", "Falls-Windsor", "two", "years", "central", "Party", "teacher", "Teachers", "Association", "1950", "province", "2003", "February", "November", "Roger", "profession", "town", "Liberal", "born", "politician", "'", "raised", "eighth", "2001", "D.", "Newfoundland", ",", "'s", ".", "former", "Labrador", "elected", "Canada", "Grand", "Premier", "2", "1985", "-RRB-", "position", "president" ],
-  "adjectives" : [ "central", "Canadian", "eighth", "former" ],
-  "nouns" : [ "profession", "leader", "teacher", "Association", "town", "province", "politician", "position", "president" ],
-  "text" : "Roger D. Grimes (born May 2, 1950) is a Canadian politician from Newfoundland and Labrador, Canada. Grimes was born and raised in the central Newfoundland town of Grand Falls-Windsor. Grimes is a former leader of the province's Liberal Party and was its eighth Premier from February 2001 until November 2003. A teacher by profession, Grimes was elected president of the Newfoundland and Labrador Teachers’ Association in 1985, a position he held for two years."
-}, {
-  "entityIndex" : "48_entity15622",
+  "entityIndex" : "27_entity9506",
   "entityUrl" : "http://dbpedia.org/resource/R._Viswanathan",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -527,7 +296,7 @@
   "nouns" : [ "candidate", "constituency", "death", "politician", "member", "assembly", "Assembly" ],
   "text" : "R. Viswanathan is an Indian politician and former member of the Tamil Nadu Legislative Assembly from Natham Constituency. He was the Minister for Electricity and Prohibition and Excise, Govt. of Tamil Nadu. Previously, he was elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Natham constituency in 1999 after death of M. Andi Ambalam. He has won consecutively in 2001, 2006 and 2011 elections."
 }, {
-  "entityIndex" : "49_entity15812",
+  "entityIndex" : "28_entity9654",
   "entityUrl" : "http://dbpedia.org/resource/Roberto_Sebastian",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -538,7 +307,7 @@
   "nouns" : [ "government", "official" ],
   "text" : "Roberto \"Bobot\" Sison Sebastian (May 2, 1944 – July 23, 2012) was a Filipino government official and former Secretary of the Department of Agriculture."
 }, {
-  "entityIndex" : "50_entity16018",
+  "entityIndex" : "29_entity9809",
   "entityUrl" : "http://dbpedia.org/resource/R._Jay_Walsh",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -549,7 +318,7 @@
   "nouns" : [ "son", "State", "member", "age" ],
   "text" : "Robert Jay Walsh (August 1, 1854 – December 7, 1916) was Secretary of the State of Connecticut from 1889 to 1893, and a member of the Connecticut Senate representing the 12th District from 1885 to 1888. He also served as President pro tempore of the Connecticut Senate. He was born August 1, 1854, in Lewisboro, New York, the son of James F. and Annie E. Walsh. At the age of ten, he moved to Ridgefield, Connecticut where he attended High Ridge Institute. At the age of fourteen he became an apprentice in a blacksmith shop. After his apprenticeship, he became a teacher. He enrolled in the Normal School at New Britain. In 1877, he began studying law in the office of Huested W. R. Hoyt, in Greenwich. In 1880, Walsh was admitted to the Fairfield County bar. In 1882, he opened his own law office in Greenwich. He campaigned for Garfield in 1880. In the same year, he began his service on the Connecticut Republican Central Committee. In 1882, he was appointed corporation counsel of the town and borough of Greenwich. In 1884, he was elected to the Connecticut Senate. In 1886, he was re-elected by a wider margin. In 1886 and 1887 he was President Pro Tempore of the Senate. He was appointed judge of the Criminal Branch of the Court of Common Pleas,but resigned in 1900 to continue his law practice, business and political pursuits. He was an alternate delegate to the Republican National Convention from Connecticut in 1900. He died at his home in Greenwich in December 7, 1916."
 }, {
-  "entityIndex" : "51_entity3519",
+  "entityIndex" : "30_entity2119",
   "entityUrl" : "http://dbpedia.org/resource/Donna_Frye",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -560,7 +329,7 @@
   "nouns" : [ "assault", "candidate", "mayor", "politician", "member", "harassment" ],
   "text" : "Donna Frye (born January 20, 1952) is an American politician from San Diego. She was born in Pennsylvania and is one of three children. Frye was a member of the San Diego City Council, representing District 6 and a two-time candidate for mayor of San Diego. In July 2013 Frye was among the first to call on then-San Diego Mayor Bob Filner to resign over accusations of sexual harassment and assault."
 }, {
-  "entityIndex" : "52_entity3625",
+  "entityIndex" : "31_entity2177",
   "entityUrl" : "http://dbpedia.org/resource/David_Clarke_(Australian_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -571,7 +340,7 @@
   "nouns" : [ "politician", "member", "solicitor", "Bachelor" ],
   "text" : "David John Clarke, an Australian politician, is a member of the New South Wales Legislative Council representing the Liberal Party of Australia since 2003. and is considered to have conservative Roman Catholic views. Prior to entering Parliament, Clarke studied a Bachelor of Laws at the University of Sydney and worked as a solicitor."
 }, {
-  "entityIndex" : "53_entity3953",
+  "entityIndex" : "32_entity2401",
   "entityUrl" : "http://dbpedia.org/resource/Danny_Morgan_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -582,7 +351,7 @@
   "nouns" : [ "mayor", "politician", "state" ],
   "text" : "Danny Morgan is a Democratic politician from the U.S. state of Oklahoma. Morgan served as Minority Leader of the Oklahoma House of Representatives from 2006 to 2010. He also served as the mayor of Prague, Oklahoma."
 }, {
-  "entityIndex" : "54_entity4143",
+  "entityIndex" : "33_entity2539",
   "entityUrl" : "http://dbpedia.org/resource/Dominic_Perrottet",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -593,40 +362,7 @@
   "nouns" : [ "seat", "politician", "member", "Assembly", "ministry" ],
   "text" : "Dominic Francis Perrottet MP, an Australian politician, is a member of the New South Wales Legislative Assembly representing for the Liberal Party of Australia the seat of Hawkesbury since 2015 and before that, the seat of Castle Hill between 2011 and 2015. In April 2015, Perrottet was appointed as Minister for Finance, Services and Property in the Second Baird ministry; having served as the Minister for Finance and Services in the First Baird ministry."
 }, {
-  "entityIndex" : "55_entity4219",
-  "entityUrl" : "http://dbpedia.org/resource/Deron_Bilous",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "University of Alberta" ]
-  },
-  "words" : [ "Lors", "de", "Alberta", "politique", "d'Edmonton", "est", "vue", "d'Edmonton-Beverly-Clareview", "fait", "1975", "du", "député", "Michael", "un", "circonscription", "barrière", "Blakeman", "il", "Parti", "en", ",", "dans", "l'élection", ".", "et", "démocratique", "Laurie", "élu", "homme", "3", "Edmonton", "lors", "7", "l'Alberta", "siège", "-RRB-", "né", "octobre", "23", "troisième", "-LRB-", "NPD", "Il", "qui", "2012", "avril", "sous", "2008", "termine", "Bilous", "course", "d'obtenir", "contre", "instituteur", "place", "à", "Nouveau", "représente", "lundi", "six", "mars", "provinciale", "Centre", "une", "législative", "l'Assemblée", "canadien", "la", "campagne", "le", "Deron", "électorale" ],
-  "adjectives" : [ "législative", "dans", "une", "sous" ],
-  "nouns" : [ "troisième", "Il", "politique", "qui", "d'Edmonton", "est", "d'Edmonton-Beverly-Clareview", "fait", "avril", "termine", "député", "un", "course", "contre", "instituteur", "place", "circonscription", "à", "il", "provinciale", "l'élection", "élu", "l'Assemblée", "canadien", "siège", "octobre", "électorale" ],
-  "text" : "Deron Michael Bilous (né le 7 octobre 1975 à Edmonton, Alberta) est un instituteur et homme politique canadien, il est élu député qui représente la circonscription d'Edmonton-Beverly-Clareview lors de l'élection provinciale du lundi 23 avril 2012 sous la barrière du Nouveau Parti démocratique de l'Alberta Lors de l'élection provinciale du lundi 3 mars 2008, il fait campagne en vue d'obtenir un siège à l'Assemblée législative de l'Alberta sous la barrière du NPD. Il termine en troisième place contre Laurie Blakeman (en) dans une course à six dans la circonscription électorale d'Edmonton Centre (en)."
-}, {
-  "entityIndex" : "56_entity4351",
-  "entityUrl" : "http://dbpedia.org/resource/Dmytro_Tymchuk",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Lviv Higher Military-Political School" ]
-  },
-  "words" : [ "Tymczuk", "Dmytro", "-LRB-", "27", "kadencji", "czerwca", "wojskowy", "dziennikarz", "1972", "Дмитро", "ukraiński", "społeczny", "ukr", "ur", "--", "deputowany", "aktywista", ",", "Borysowycz", ".", "Тимчук", "bloger", "w", "-RRB-", "podpułkownik", "Czycie", "VIII", "Борисович" ],
-  "adjectives" : [ "ukraiński" ],
-  "nouns" : [ "deputowany", "w", "podpułkownik", "aktywista", "Czycie", "czerwca", "społeczny", "ukr", "ur", "wojskowy", "dziennikarz" ],
-  "text" : "Dmytro Borysowycz Tymczuk, ukr. Дмитро Борисович Тимчук (ur. 27 czerwca 1972 w Czycie) – ukraiński wojskowy, podpułkownik, dziennikarz, aktywista społeczny i bloger, deputowany VIII kadencji."
-}, {
-  "entityIndex" : "57_entity7040",
-  "entityUrl" : "http://dbpedia.org/resource/Henri_Longchambon",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "http://dbpedia.org/resource/University_of_Paris", "http://dbpedia.org/resource/École_Normale_Supérieure" ]
-  },
-  "words" : [ "français", "-LRB-", "politique", "27", "est", "Henri", "Kremlin-Bicêtre", "1896", "juillet", "décédé", "un", "à", "mars", "scientifique", ",", "Val-de-Marne", ".", "et", "homme", "au", "-RRB-", "le", "Clermont-Ferrand", "né", "Longchambon", "1969", "20" ],
-  "adjectives" : [ "juillet" ],
-  "nouns" : [ "à", "homme", "au", "politique", "est", "décédé", "un", "né" ],
-  "text" : "Henri Longchambon, né le 27 juillet 1896 à Clermont-Ferrand, décédé au Kremlin-Bicêtre (Val-de-Marne) le 20 mars 1969, est un homme politique et scientifique français."
-}, {
-  "entityIndex" : "58_entity7356",
+  "entityIndex" : "34_entity4506",
   "entityUrl" : "http://dbpedia.org/resource/Haider_Aziz_Safwi",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -637,7 +373,7 @@
   "nouns" : [ "MLA", "administration", "officer", "emergency", "I.P.S", "office", "general", "integrity", "government", "honesty", "assembly", "fire", "term", "state", "Assembly", "cooperation", "fairness", "election", "minister", "director", "politician", "transport", "water", "police", "constituency" ],
   "text" : "Haider Aziz Safwi is an Indian politician and the present Deputy Speaker of the West Bengal Legislative Assembly. He was also a minister in the TMC government's first term in office and held posts like minister for cooperation and inland water transport and minister for correctional administration. he served as director general of police(fire and emergency services),government of West Bengal.he retired in 2005  He is also an MLA, elected from the Uluberia Purba constituency in the West Bengal state assembly election, 2011.As an I.P.S officer, Safwi was respected for his honesty,integrity and fairness. He held important positions like d.g.fire and emergency services,d.g enforcement branch,sp 24parganas(undivided),deputy commissioner detective department(kolkata police) among others. He is a recipient of the presidents police medal for distinguished service and the police medal for meritorious service.Safwi was inspired by Mamata Banerjee's honesty and the service she had rendered to the people,specially the farmers in singur. This was what prompted him to join the party in 2009 post his retirement from the I.P.S. He contested the 2011 assembly elections on a tmc ticket from uluberia purba and won that seat by a margin of over 19000 votes following which he was inducted as a cabinet minister in the Mamata Banerjee government on 20 May 2011."
 }, {
-  "entityIndex" : "59_entity16188",
+  "entityIndex" : "35_entity9939",
   "entityUrl" : "http://dbpedia.org/resource/Stan_Bingham",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -648,7 +384,7 @@
   "nouns" : [ "newspaper", "owner", "town", "lumber", "district", "member", "publisher", "company", "chairman", "state" ],
   "text" : "Stanley Walker Bingham is a Republican member of the North Carolina General Assembly representing the state's thirty-third Senate district, including constituents in Davidson and Guilford counties. A small town newspaper publisher and retired lumber company owner from Denton, North Carolina, Bingham is currently serving in the state Senate. Before being elected to the North Carolina General Assembly, Bingham served as chairman of the Davidson County Commissioners. Bingham is married to Lora Bingham; he was first elected to the North Carolina Senate in 2000."
 }, {
-  "entityIndex" : "60_entity17235",
+  "entityIndex" : "36_entity10612",
   "entityUrl" : "http://dbpedia.org/resource/Samuel_Daskam",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -659,7 +395,7 @@
   "nouns" : [ ],
   "text" : "Samuel Daskam (January 31, 1823 – 1912) was Warden of the Borough of Norwalk, Connecticut from 1874 to 1877."
 }, {
-  "entityIndex" : "61_entity12040",
+  "entityIndex" : "37_entity7416",
   "entityUrl" : "http://dbpedia.org/resource/Mark_K._Hilton",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -670,7 +406,7 @@
   "nouns" : [ "owner", "police", "PD", "native", "Town", "officer", "work", "district", "member", "county", "state" ],
   "text" : "Mark Kelly Hilton was a Republican member of the North Carolina General Assembly representing the state's ninety-sixth House district, including constituents in Catawba county. A police officer from Conover, North Carolina, Hilton served six terms in the state House. A Catawba County native he began work with the NC Alcohol Beverage Commission as a Permit Compliance Officer in August of 2013. I am also a part-time officer for the Town of Catawba PD and owner of Hilton Ventures. I am a member of Tri-City Baptist Church and guided by my faith in Christ. I am beginning my senior year at WCU working for a degree in criminal justice. I am a native of Catawba County only traveled once out of country to Israel with a group from my church. I am a Bible Believing Christian and have conservative political views."
 }, {
-  "entityIndex" : "62_entity12569",
+  "entityIndex" : "38_entity7662",
   "entityUrl" : "http://dbpedia.org/resource/Maurice_Perrault",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -681,18 +417,7 @@
   "nouns" : [ "son", "architect", "politician", "father", "surveyor", "engineer", "architecture" ],
   "text" : "Maurice Perrault (12 June 1857 – 11 February 1909) was a Canadian architect, civil engineer, and politician. Born in Montreal, Canada East, the son of Henri-Maurice Perrault, a surveyor and architect, and Marie-Louise-Octavie Masson, Perrault studied at the Petit Séminaire de Montréal from 1867 to 1875. He studied surveying and architecture from 1875 to 1879. In 1880, he went to work for his father which was called Perrault et Mesnard where he practiced architecture. He designed Laval University, St. Denis Street, 1893-94. From 1898 to 1902, he was mayor of Longueuil, Quebec. He was elected by acclamation to the Legislative Assembly of Quebec for the electoral district of Chambly in the 1900 election. A Liberal, he was re-elected in the 1904 and 1908 election. He died in office in 1909 and was buried in the Notre Dame des Neiges Cemetery."
 }, {
-  "entityIndex" : "63_entity12631",
-  "entityUrl" : "http://dbpedia.org/resource/Mervyn_Silva",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Mahinda Vidyalaya,Maligakanda" ]
-  },
-  "words" : [ "ව", "පරග", "මර", "-LRB-", "ස", "25", "හ", "Hewa", "Lankan", "மேர்வின்", "March", "Sri", "government", "ක", "Member", "Silva", "minister", "born", "politician", ",", "Tamil", "former", ".", "න", "Koparage", "சில்வா", "Sinhala", "-RRB-", ":", "Mervyn", ";", "ල", "1945", "Parliament" ],
-  "adjectives" : [ "former" ],
-  "nouns" : [ "government", "minister", "politician" ],
-  "text" : "Hewa Koparage Mervyn Silva (Sinhala:හේවා කෝපරගේ මර්වින් සිල්වා; Tamil:மேர்வின் சில்வா) (born 25 March 1945) is a Sri Lankan politician, Member of Parliament and a former government minister."
-}, {
-  "entityIndex" : "64_entity12658",
+  "entityIndex" : "39_entity7720",
   "entityUrl" : "http://dbpedia.org/resource/Matt_Heinz",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -703,7 +428,7 @@
   "nouns" : [ "country", "work", "politician", "part", "Director", "LGBT", "doctor", "roll-out", "month", "aspect", "state", "job", "hospitalist" ],
   "text" : "Matthew G. Heinz (born June 6, 1977) is an American doctor and politician from Tucson, Arizona. A Democrat, he was appointed by President Barack Obama in June 2013 as Director of Provider Outreach in the Office of Intergovernmental and External Affairs, a part of the U.S. Department of Health and Human Services. Heinz was tasked with helping Secretary Kathleen Sebelius with the roll-out of the Affordable Care Act, with one aspect of his job to work with LGBT organizations across the country as they inform their members of their options in each state. For one or two weekends per month, Heinz continued his work as a hospitalist in Tucson, Arizona. Heinz left the position in March 2015. Prior to his appointment, Heinz was a member of the Arizona House of Representatives from the 29th District. First elected in 2008, he took office on January 12, 2009, won re-election to his seat in 2010 and toward the end of his second term, he ran as a candidate for US Congress."
 }, {
-  "entityIndex" : "65_entity13321",
+  "entityIndex" : "40_entity8122",
   "entityUrl" : "http://dbpedia.org/resource/Mynampally_Hanmanth_Rao",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -714,7 +439,7 @@
   "nouns" : [ "politician", "member", "state", "party" ],
   "text" : "Mynampally Hanmanth Rao is an Indian politician and TRS Party Greater Hyderabad President and former MLA of Medak in the South Indian state of Telangana at Velama Community Family. He is a member of the Telangana Rashtra Samithi party & Hyderabad President."
 }, {
-  "entityIndex" : "66_entity13397",
+  "entityIndex" : "41_entity8170",
   "entityUrl" : "http://dbpedia.org/resource/Madhavrao_Bhujangrao_Kinhalkar",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -725,7 +450,7 @@
   "nouns" : [ "leader", "period", "BJP", "time", "state", "presence" ],
   "text" : "He is MLA of Bhokar Constituency in period of 1991-1999 for 2 Successive time. He served as Minister of state for Home Affairs,Revenue & Co-Operation in Maharashtra Government headed by Sharad Pawar in period of 1991-1995.He is NCP leader, But in 2014 he joined BJP at Mumbai in presence of Amit Shah along with Suryakanta Patil & Bhaskarrao Khatgaonkar ."
 }, {
-  "entityIndex" : "67_entity13498",
+  "entityIndex" : "42_entity8246",
   "entityUrl" : "http://dbpedia.org/resource/Milton_H._Graham",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -736,18 +461,7 @@
   "nouns" : [ "veteran", "mayor", "politician", "equipment", "water", "distributor", "softening" ],
   "text" : "Milton H. Graham (March 23, 1919 – August 25, 2006) was an American politician. He served as mayor of Phoenix, Arizona from 1964 to 1970. A veteran of World War II, he was a water softening equipment distributor."
 }, {
-  "entityIndex" : "68_entity5161",
-  "entityUrl" : "http://dbpedia.org/resource/Frederick_Marquis,_1st_Earl_of_Woolton",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Victoria University of Manchester" ]
-  },
-  "words" : [ "issues", "December", "emphasis", "businessman", "potential", "Minister", "--", "raising", "Frederick", "statesman", "14", "Woolton", ",", ".", "August", "Lord", "candidates", "assisted", "-RRB-", "wartime", "1946", "aid", "party", "23", "became", "-LRB-", "critical", "financial", "provided", "membership", "Marquis", "local", "rebuilt", "1st", "Party", "organisations", "Earl", "national", "department", "successful", "Food", "1955", "broaden", "owner", "James", "CH", "propaganda", "politician", "store", "appeal", "Chairman", "1964", "English", "PC", "money", "1883", "Conservative", "unified", "base" ],
-  "adjectives" : [ "English", "critical", "financial", "unified", "national", "potential", "local", "successful" ],
-  "nouns" : [ "owner", "statesman", "CH", "propaganda", "politician", "store", "membership", "appeal", "PC", "money", "emphasis", "department", "businessman", "aid", "party", "base" ],
-  "text" : "Frederick James Marquis, 1st Earl of Woolton, CH, PC (23 August 1883 – 14 December 1964) was an English businessman, statesman and politician. A successful department store owner and wartime Minister of Food, Lord Woolton became Conservative Party Chairman from 1946 to 1955. He rebuilt the local organisations with an emphasis on membership, money and a unified national propaganda appeal on critical issues. To broaden the base of potential candidates, the national party provided financial aid to candidates, and assisted the local organisations in raising local money. Woolton also proposed changing the name of the party to the Union Party, but when that suggestion fell on deaf ears he instead emphasised a rhetoric that characterised opponents as \"Socialist\" rather than \"Labour\". He is given significant credit for the Conservative victory in 1951, their first since 1935."
-}, {
-  "entityIndex" : "69_entity5415",
+  "entityIndex" : "43_entity3314",
   "entityUrl" : "http://dbpedia.org/resource/Frank_Grisdale",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -758,18 +472,7 @@
   "nouns" : [ "government", "minister", "level", "briefly", "CBE", "politician", "caucus", "member", "cabinet", "Assembly" ],
   "text" : "Frank Sydney Grisdale BSc. CBE (1887–1976) was a provincial level politician from Olds, Alberta, Canada. He served as a member of the Legislative Assembly of Alberta from 1930 to 1935. He sat with the United Farmers caucus and served briefly from 1934 to 1935 as a cabinet minister in the government of Premier Richard Gavin Reid. He was the first principal of the Olds Agricultural College."
 }, {
-  "entityIndex" : "70_entity5426",
-  "entityUrl" : "http://dbpedia.org/resource/Fraz_Wahlah",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "University of the Punjab" ]
-  },
-  "words" : [ "-LRB-", "Fraz", "Urdu", "Wahlah", "entrepreneur", ".", "فراز", "واہلہ", "-RRB-", ":", "lawyer", "Sardar", "سردار" ],
-  "adjectives" : [ ],
-  "nouns" : [ "واہلہ", "lawyer", "entrepreneur" ],
-  "text" : "Sardar Fraz Wahlah (Urdu: سردار فراز واہلہ‎) is a lawyer and entrepreneur."
-}, {
-  "entityIndex" : "71_entity6652",
+  "entityIndex" : "44_entity4101",
   "entityUrl" : "http://dbpedia.org/resource/Gene_McLaurin",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -780,18 +483,7 @@
   "nouns" : [ "Government", "mayor", "State", "district", "member" ],
   "text" : "Gene McLaurin was a Democratic member of the North Carolina Senate, representing the 25th district. McLaurin served on the Commerce, Agriculture/Environment/Natural Resources, Appropriations on Natural and Economic Resources, Finance, Insurance, Pensions & Retirement and Aging, and State and Local Government committees. Before being elected to the North Carolina Senate in 2012, McLaurin served as the mayor of Rockingham, North Carolina from 1997 to 2012. McLaurin considers himself to be moderate to conservative in his political views, counting Jim Hunt, Ronald Reagan, and Terry Sanford among his political heroes. In addition to his political career, McLaurin has also worked as the general manager of TOTAL Lubricants and the president of Swink-Quality Oil Company."
 }, {
-  "entityIndex" : "72_entity14754",
-  "entityUrl" : "http://dbpedia.org/resource/Pema_Khandu",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Hindu College University of Delhi" ]
-  },
-  "words" : [ "Politiker", "-LRB-", "Chief", "ist", "ein", "Juli", "Pema", "dem", "von", "Pradesh", "Khandu", "1979", "Gyangkar", "Arunachal", "Minister", "17", "*", "indischer", ",", "er", ".", "August", "2016", "Distrikt", "Tawang", "-RRB-", "Seit", "Indien", "21" ],
-  "adjectives" : [ ],
-  "nouns" : [ "Politiker", "indischer", "Seit", "ist", "ein", "er" ],
-  "text" : "Pema Khandu (* 21. August 1979 in Gyangkar, Distrikt Tawang, Arunachal Pradesh, Indien) ist ein indischer Politiker. Seit dem 17. Juli 2016 ist er Chief Minister von Arunachal Pradesh."
-}, {
-  "entityIndex" : "73_entity14773",
+  "entityIndex" : "45_entity8975",
   "entityUrl" : "http://dbpedia.org/resource/Pablo_Baltodano_Monroy",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -802,7 +494,7 @@
   "nouns" : [ "politician", "diplomat", "position" ],
   "text" : "Pablo Baltodano Monroy (born December 12, 1980 in Mexico City) is a diplomat and Mexican politician. He serves as Consul General of Nicaragua in Mexico, a position he has held since August 1, 2007. Monroy also served as President of Consuls in Mexico in 2009."
 }, {
-  "entityIndex" : "74_entity671",
+  "entityIndex" : "46_entity304",
   "entityUrl" : "http://dbpedia.org/resource/Adesh_Partap_Singh_Kairon",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -813,18 +505,7 @@
   "nouns" : [ "son-in-law", "great-grandson", "son", "minister", "grandson", "politician", "nephew", "state", "brother-in-law", "family", "Assembly" ],
   "text" : "Adesh Pratap Singh Kairon (born 1959) is a politician from Punjab. He belongs to the Kairon political family and is currently the longest serving minister in the state of Punjab. He is the great-grandson of Nihal Singh Kairon, grandson of Pratap Singh Kairon, son of Surinder Singh Kairon, son-in-law of Parkash Singh Badal, nephew of Harcharan Singh Brar and brother-in-law of Sukhbir Singh Badal. He is a four-time Member of Legislative Assembly in the Punjab Legislative Assembly from the Patti Constituency. He has served thrice as a minister. He has held the portfolios of Excise and Taxation, Food and IT. He holds a BTech degree from Punjab Engineering College and an MBA from Northwestern's Kellogg School of Management. He has two sons, Dilsher Kairon and Jai Kairon."
 }, {
-  "entityIndex" : "75_entity987",
-  "entityUrl" : "http://dbpedia.org/resource/Alfio_Piva",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Universita degli Studi di Parma" ]
-  },
-  "words" : [ "profesión", "Nacional", "de", "Primer", "1914siendo", "del", "emigró", "Chinchilla", "un", "Cugola", "fisiología", "Piva", "director", "Alfio", "en", "niño", ",", "es", ".", "Goicoechea", "República", "Vicepresidente", "1940", "InBio", "hijo", "-RRB-", "italiano", "9", "animal", "Electo", "Miranda", "que", "-LRB-", "Universidad", "Carmen", "Mesén", "Rector", "Es", "muy", "Rica", "enero", "administración", "científico", "veterinario", "nativo", "Ostiglia", "ambientalista", "ejecutivo", "Mantua", "Costa", "doctor", "2010-2014", "Laura", "la", "costarricense", "medico", "y" ],
-  "adjectives" : [ ],
-  "nouns" : [ "que", "director", "ambientalista", "ejecutivo", "Primer", "emigró", "doctor", "muy", "costarricense", "medico", "un", "y", "animal", "fisiología", "científico" ],
-  "text" : "Alfio Piva Mesén (Costa Rica, Goicoechea, 9 de enero de 1940) es un científico y ambientalista costarricense, medico veterinario de profesión y doctor en fisiología animal. Rector de la Universidad Nacional de Costa Rica y director ejecutivo del InBio. Electo Primer Vicepresidente de la República de Costa Rica en la administración de Laura Chinchilla Miranda (2010-2014). Es hijo del italiano Alfio Piva Cugola, nativo de Ostiglia (Mantua), que emigró a Costa Rica en 1914siendo muy niño y de Carmen Mesén. Desde el 7 de diciembre de 1966 está casado con Ginette Rodríguez Vargas y tienen tres hijos, Alfio, Alessandro y Giancarlo Piva Rodríguez. Este último falleció en un accidente de tránsito en enero de 2009."
-}, {
-  "entityIndex" : "76_entity1348",
+  "entityIndex" : "47_entity728",
   "entityUrl" : "http://dbpedia.org/resource/Andrew_Dutney",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -835,7 +516,7 @@
   "nouns" : [ "role", "conclusion", "DOOT-nee", "President", "service", "installation", "assembly", "term", "position", "place", "day", "meeting", "Assembly", "Principal" ],
   "text" : "Andrew Fergus Dutney (/ˈduːtniː/ DOOT-nee; born 9 July 1958) is the past President of the Assembly of the Uniting Church in Australia. He took up the position on 15 July 2012 on the first day of the Uniting Church's 13th triennial assembly meeting in Adelaide, handing over 12 July 2015 to Mr Stuart McMillan. His installation service took place before around 3000 people at the Adelaide Entertainment Centre. Rev. Prof. Dutney will return to his previous role as Principal of Uniting College for Leadership and Theology at the conclusion of his term as President."
 }, {
-  "entityIndex" : "77_entity1418",
+  "entityIndex" : "48_entity775",
   "entityUrl" : "http://dbpedia.org/resource/Abdul_Wahid_Omar",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -846,7 +527,7 @@
   "nouns" : [ "completion", "development", "charge", "person", "infrastructure", "name", "term", "appointment", "company", "family", "experience", "sector" ],
   "text" : "(This is a Malay name; the name Omar is a patronymic, not a family name, and the person should be referred to by the given name, Abdul Wahid.) Tan Sri Dato' Sri Abdul Wahid bin Omar was appointed as Group Chairman of Permodalan Nasional Berhad (PNB) on 1 August 2016 following completion of his term as a Senator and Minister in the Prime Minister’s Department in charge of Economic Planning from June 2013 to June 2016. Prior to his Cabinet appointment, he was the President & CEO of Maybank, Malaysia's largest public listed company and one of the leading financial services groups in Southeast Asia. With over 28 years of corporate and public sector experience, Tan Sri Wahid is well regarded as one of the most versatile CEOs having led three major organisations in financial services, telecommunications and infrastructure development. He successfully led the transformation of Telekom Malaysia into a regional telecommunications group (prior to its demerger with Axiata in 2008) and spearheaded the successful turnaround of the UEM Group, Malaysia's leading infrastructure conglomerate following its takeover by Khazanah Nasional in 2001. Tan Sri Wahid is a Fellow of the Association of Chartered Certified Accountants (ACCA), United Kingdom, a member of the Malaysian Institute of Accountants and the Institute of Chartered Accountants in England & Wales (ICAEW). Over the years, he has received many accolades including Malaysia's CEO of the Year Award 2006 by Business Times/American Express, Asian Banker's 2013 Leadership Achievement Award for Malaysia and The Edge Value Creator Award 2013."
 }, {
-  "entityIndex" : "78_entity1421",
+  "entityIndex" : "49_entity777",
   "entityUrl" : "http://dbpedia.org/resource/A._Homer_Byington",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -857,7 +538,7 @@
   "nouns" : [ "newspaper", "editor", "member", "publisher" ],
   "text" : "Aaron Homer Byington (July 23, 1826 – December 29, 1910) was the U.S. Consul in Naples from 1897 to 1907. He was a newspaper publisher and editor. He also represented Norwalk in the Connecticut House of Representatives from 1858 to 1860, and was a member of the Connecticut Senate representing the 12th District from 1861 to 1863."
 }, {
-  "entityIndex" : "79_entity1488",
+  "entityIndex" : "50_entity821",
   "entityUrl" : "http://dbpedia.org/resource/As'ad_Madani",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -868,18 +549,7 @@
   "nouns" : [ "executive", "ad", "AD", "Majlis-e-Shura", "مدنے", "politician", "member", "scholar", "body" ],
   "text" : "Sayyed As'ad Madani (April 27, 1928 AD-February 6, 2006 AD) (Urdu: سید اسعد مدنے ) was an Indian Deobandi Islamic scholar and politician. He was the President of Jamiat Ulema-e-Hind and a prominent member of executive body (Majlis-e-Shura) of Darul Uloom Deoband."
 }, {
-  "entityIndex" : "80_entity1494",
-  "entityUrl" : "http://dbpedia.org/resource/Aymeric_Chauprade",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbp:almaMater" : [ "Institute of Political Studies" ]
-  },
-  "words" : [ "de", "lui", "Aymeric", "Sarthe", "politique", "Après", "Front", "est", "rattache", "Français", "internationales", "avoir", "européennes", "des", "député", "fondation", "son", "LFL", "La", "géopolitologue", "un", "les", "Thual", "circonscription", "Chauprade", "adhéré", "13", "il", "liste", "européen", "courant", "janvier", "en", ",", "dans", ".", "et", "élu", "homme", "au", "Disciple", "lors", "-RRB-", "libres", "né", "l'étranger", "François", "français", "incluant", "-LRB-", "Il", "réaliste", "FN", "propre", "annonce", "se", "national", "tête", "élections", "à", "théorie", "2016", "la", "quitte", "2015", "2014", "2013", "Île-de-France", "le", "Ferté-Bernard", "Les", "1969", "relations", "mouvement", "comme" ],
-  "adjectives" : [ "incluant", "national" ],
-  "nouns" : [ "à", "il", "Il", "politique", "courant", "réaliste", "Front", "est", "janvier", "FN", "propre", "son", "LFL", "quitte", "géopolitologue", "Île-de-France", "un", "né", "circonscription", "mouvement" ],
-  "text" : "Aymeric Chauprade, né le 13 janvier 1969 à La Ferté-Bernard (Sarthe), est un géopolitologue et homme politique français. Disciple de François Thual, il se rattache comme lui au courant réaliste de la théorie des relations internationales. Après avoir adhéré Front national (FN) en 2013, il est tête de liste FN et élu député européen dans la circonscription Île-de-France (incluant les Français de l'étranger) lors des élections européennes de 2014. Il quitte le FN en 2015 et annonce la fondation de son propre mouvement, Les Français libres (LFL), en 2016."
-}, {
-  "entityIndex" : "81_entity1574",
+  "entityIndex" : "51_entity885",
   "entityUrl" : "http://dbpedia.org/resource/Abdur_Rahim_(scholar)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -890,7 +560,7 @@
   "nouns" : [ "politician", "promoter", "scholar" ],
   "text" : "Abdur Rahim (Bengali: মাওলানা আব্দুর রহিম; 2 March 1918 – 1 October 1987), known as a Mawlana, was a Bangladeshi Islamic scholar and well known politician in South Asia and the first promoter of the Bangladesh Jamaat-e-Islami. He has translated several books written by prominent Islamic scholars such as Abul A'la Maududi and Yusuf al-Qaradawi into Bengali and has himself written widely on the fundamentals of Islam in both Urdu and Bangla."
 }, {
-  "entityIndex" : "82_entity1599",
+  "entityIndex" : "52_entity901",
   "entityUrl" : "http://dbpedia.org/resource/Ajay_Sancheti",
   "dboClass" : "dbo:Politician",
   "properties" : {

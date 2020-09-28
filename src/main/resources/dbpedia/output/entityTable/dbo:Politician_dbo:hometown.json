@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity9913",
+  "entityIndex" : "1_entity5998",
   "entityUrl" : "http://dbpedia.org/resource/James_Kershaw",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "owner", "franchise", "MP", "death", "tomb", "architect", "cotton", "borough", "History", "mill", "home", "clerk", "head", "condition", "partner", "Museum", "company", "risk", "register" ],
   "text" : "James Kershaw (1795–1864) was a British cotton mill owner and Liberal MP, associated with the Anti-Corn Law League. He rose from being a clerk for the cotton-spinning company of Lees, Millington & Cullender, of Manchester, to a partner and then head of Kershaw, Lees & Sidebottom, mill owners of Manchester. He was instrumental in obtaining the municipal franchise of Manchester as a borough in 1838, and was its Mayor between 1842-3, and later became the MP for Stockport from 1847 until his death. He died at his home in Streatham, and was buried in West Norwood Cemetery where his ornate Gothic tomb by Alfred Waterhouse (architect of the Natural History Museum, London and Manchester Town Hall) is listed Grade II, and in such poor condition as to be on the English Heritage at risk register. There is currently no plan from Lambeth council to improve the situation."
 }, {
-  "entityIndex" : "2_entity19220",
+  "entityIndex" : "2_entity11844",
   "entityUrl" : "http://dbpedia.org/resource/William_Baldwin_(New_Zealand_politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "region" ],
   "text" : "William Baldwin, born John Baldwin (1836 – 30 July 1917) was a 19th-century Member of Parliament in the Otago region of New Zealand."
 }, {
-  "entityIndex" : "3_entity19527",
+  "entityIndex" : "3_entity12109",
   "entityUrl" : "http://dbpedia.org/resource/Wafula_Oguttu",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,18 +32,7 @@
   "nouns" : [ "journalist", "constituency", "politician", "position", "Sub-region" ],
   "text" : "Phillip Wafula Oguttu (born 21 December 1952) is a Ugandan journalist and politician. He is a former Leader of Opposition in the Ugandan Parliament. He was appointed to that position on 31 January 2014, replacing Nandala Mafabi, who served in that position from May 2011 until January 2014. Wafula is also the Member of Parliament (MP) for Bukhooli County Central, a constituency in Bugiri District, Busoga Sub-region, Eastern Region of Uganda. He is a member of Uganda's opposition party Forum for Democratic Change (FDC) for which he is the spokesperson. Oguttu is also one of the co-founders of the Daily Monitor, a privately owned English-language daily newspaper in Uganda."
 }, {
-  "entityIndex" : "4_entity3309",
-  "entityUrl" : "http://dbpedia.org/resource/Chen_Haosu",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbo:hometown" : [ "http://dbpedia.org/resource/Lezhi_County", "http://dbpedia.org/resource/Sichuan" ]
-  },
-  "words" : [ "。", "祖籍四川乐至", "（", "）", "出生于江苏阜宁", "陈毅元帅长子", "陈昊苏", "，", "1942年5月", "－", "原中国人民对外友好协会会长" ],
-  "adjectives" : [ ],
-  "nouns" : [ "。", "，", "－" ],
-  "text" : "陈昊苏（1942年5月－），祖籍四川乐至，出生于江苏阜宁，原中国人民对外友好协会会长。陈毅元帅长子。"
-}, {
-  "entityIndex" : "5_entity2213",
+  "entityIndex" : "4_entity1283",
   "entityUrl" : "http://dbpedia.org/resource/Bakshi_Abdur_Rashid",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -54,7 +43,7 @@
   "nouns" : [ "candidate", "constituency", "politician", "member", "Lok", "party" ],
   "text" : "Bakshi Abdur Rashid (1 January 1923-August 1977) was an Indian politician who was a member of the 2nd Lok Sabha & 3rd Lok Sabha of India. He represented the Srinagar constituency of Jammu & Kashmir and was a member of the Congress (I) political party. In the 3rd Lok Sabha, he was a Lok Sabha candidate, nominated by the President of India."
 }, {
-  "entityIndex" : "6_entity15873",
+  "entityIndex" : "5_entity9701",
   "entityUrl" : "http://dbpedia.org/resource/Ramkishun",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -65,7 +54,7 @@
   "nouns" : [ "Ramkishun", "Sabha", "constituency", "member", "Lok", "SP", "party" ],
   "text" : "Ramkishun (born 3 August 1956) is a member of the 15th Lok Sabha of India. He represented the Chandauli constituency of Uttar Pradesh and is a member of the Samajwadi Party (SP) political party."
 }, {
-  "entityIndex" : "7_entity16141",
+  "entityIndex" : "6_entity9910",
   "entityUrl" : "http://dbpedia.org/resource/Roopesh",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -76,7 +65,7 @@
   "nouns" : [ "leader", "state" ],
   "text" : "Praveen, commonly known by his nom de guerre, Roopesh, is a Communist Party of India (Maoist) leader in Kerala, India. He is the most wanted Maoist leader in Kerala state by Kerala Police."
 }, {
-  "entityIndex" : "8_entity14062",
+  "entityIndex" : "7_entity8574",
   "entityUrl" : "http://dbpedia.org/resource/O._S._Manian",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -87,7 +76,7 @@
   "nouns" : [ "constituency", "member", "Assembly", "party" ],
   "text" : "O.S. Manian is a member of the 15th Lok Sabha of India.He is incumbent member of the Tamil Nadu Legislative Assembly from Vedaranyam (State Assembly Constituency).He is incumbent Minister for Handlooms and Textiles in Government of Tamil Nadu. He Previously represented the Mayiladuturai (Lok Sabha constituency) of Tamil Nadu and is a member of the All India Anna Dravida Munnetra Kazhagam political party."
 }, {
-  "entityIndex" : "9_entity13173",
+  "entityIndex" : "8_entity8022",
   "entityUrl" : "http://dbpedia.org/resource/Maulana_Abdur_Rahman",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -98,18 +87,7 @@
   "nouns" : [ "constituency", "member", "office", "party" ],
   "text" : "Maulana Abdur Rahman was member of the 2nd Lok Sabha. He represented the Jammu constituency of Jammu & Kashmir and was a member of the Congress (I) political party. He was in office from April 1957 to March 1962."
 }, {
-  "entityIndex" : "10_entity5983",
-  "entityUrl" : "http://dbpedia.org/resource/George_Mackie,_Baron_Mackie_of_Benshie",
-  "dboClass" : "dbo:Politician",
-  "properties" : {
-    "dbo:hometown" : [ "http://dbpedia.org/resource/Tarves" ]
-  },
-  "words" : [ "DFC", "Politiker", "-LRB-", "britischer", "Aberdeen", "CBE", "1919", "Juli", "ein", "Mackie", "George", "Yull", "Landwirt", "Baron", "10", "†", "DSO", "Benshie", "17", "Liberal", "war", "*", "Dundee", "und", ",", ".", "Geschäftsmann", "Democrats", "2015", "-RRB-", ";", "Februar" ],
-  "adjectives" : [ "Liberal", "Februar" ],
-  "nouns" : [ "Politiker", "britischer", "war", "ein" ],
-  "text" : "George Yull Mackie, Baron Mackie of Benshie CBE, DSO, DFC (* 10. Juli 1919 in Aberdeen; † 17. Februar 2015 in Dundee), war ein britischer Politiker (Liberal Democrats), Landwirt und Geschäftsmann."
-}, {
-  "entityIndex" : "11_entity63",
+  "entityIndex" : "9_entity22",
   "entityUrl" : "http://dbpedia.org/resource/Andrew_Cunningham_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {

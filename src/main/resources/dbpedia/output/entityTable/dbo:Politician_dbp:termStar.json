@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity13787",
+  "entityIndex" : "1_entity8405",
   "entityUrl" : "http://dbpedia.org/resource/Neal_McCaleb",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "government", "politician", "member", "position", "state", "A.", "engineer" ],
   "text" : "Neal A. \"Chief\" McCaleb (born 1935) is an American civil engineer and Republican politician from Oklahoma. A member of the Chickasaw Nation, McCaleb served as in several position with Oklahoma state government and as Assistant Secretary of the Interior for Indian Affairs under President of the United States George W. Bush."
 }, {
-  "entityIndex" : "2_entity2061",
+  "entityIndex" : "2_entity1176",
   "entityUrl" : "http://dbpedia.org/resource/Ben_Stewart",
   "dboClass" : "dbo:Politician",
   "properties" : {

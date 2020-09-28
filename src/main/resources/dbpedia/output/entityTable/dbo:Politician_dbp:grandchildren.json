@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity10806",
+  "entityIndex" : "1_entity6650",
   "entityUrl" : "http://dbpedia.org/resource/K._L._Devaser",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "presidency", "alliance", "test", "MIC", "today", "coalition", "time", "president" ],
   "text" : "Kundan Lal Devaser was the fourth president of the Malayan Indian Congress from 1951 - 1955. It was under Devaser's presidency that the MIC joined the Alliance in 1954, which was then a political coalition formed between the United Malays National Organisation and the Malayan Chinese Association. The political alliance has stood the test of time over 50 years and continues today as the Barisan Nasional"
 }, {
-  "entityIndex" : "2_entity9579",
+  "entityIndex" : "2_entity5738",
   "entityUrl" : "http://dbpedia.org/resource/John_Ingram_(politician)",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "insurance", "attorney", "politician", "businessman", "commissioner" ],
   "text" : "For the businessman, see John R. Ingram (businessman). John Randolph Ingram (June 12, 1929 – January 6, 2013) was an American Democratic politician, attorney, and insurance commissioner. He served as North Carolina's Commissioner of Insurance from 1973 until 1985."
 }, {
-  "entityIndex" : "3_entity2145",
+  "entityIndex" : "3_entity1229",
   "entityUrl" : "http://dbpedia.org/resource/Bernard_Collaery",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -32,7 +32,7 @@
   "nouns" : [ "politician", "member", "barrister", "lawyer", "Assembly", "party" ],
   "text" : "Bernard Joseph Edward Collaery (born 12 October 1944) is an Australian barrister, lawyer and former politician. Collaery was a member of the Australian Capital Territory's first Legislative Assembly for the Residents Rally party, from 1989 to 1992. He served as Deputy Chief Minister and Attorney-General from 1989 to 1991 in the Kaine Alliance Government."
 }, {
-  "entityIndex" : "4_entity7044",
+  "entityIndex" : "4_entity4308",
   "entityUrl" : "http://dbpedia.org/resource/Henry_Cianfrani",
   "dboClass" : "dbo:Politician",
   "properties" : {

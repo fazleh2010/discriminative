@@ -1,0 +1,408 @@
+[ {
+  "entityIndex" : "entity12160",
+  "entityUrl" : "http://dbpedia.org/resource/Zev_Yaroslavsky",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2014-12-01" ],
+    "dbo:activeYearsStartDate" : [ "1994-12-01" ],
+    "dbo:office" : [ "Member of theLos Angeles City Council", "from District 5" ],
+    "dbo:orderInOffice" : [ "Member of theLos Angeles County Board of Supervisors", "from District 3" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Party_(United_States)" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Jewish" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Los_Angeles,_California" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Sheila_Kuehl" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Edmund_D._Edelman" ],
+    "dbp:caption" : [ "Yaroslavsky in 2009" ],
+    "dbp:children" : [ "2" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Edmund_D._Edelman" ],
+    "dbp:rows" : [ "2" ],
+    "dbp:spouse" : [ "Barbara Yaroslavsky" ],
+    "dbp:termEnd" : [ "1994" ],
+    "dbp:termStart" : [ "1975" ],
+    "dbp:title" : [ "3", "5", "http://dbpedia.org/resource/Los_Angeles_County_Board_of_Supervisors", "http://dbpedia.org/resource/Los_Angeles_City_Council" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ],
+    "dbp:years" : [ "1975", "1994" ]
+  },
+  "words" : [ "San", "line", "Zev", "Angeles", "areas", "County", "Council", "1975", "Board", "1994", "Westside", "member", "Ventura", "politician", "includes", "California", "City", ",", ".", "former", "Venice", "elected", "Los", "3", "Valley", "Yaroslavsky", "Supervisors", "served", "Fernando", "District", "coastal", "first", "board" ],
+  "adjectives" : [ "former", "coastal", "first" ],
+  "nouns" : [ "line", "politician", "member", "board" ],
+  "text" : "Zev Yaroslavsky is a politician from Los Angeles County, California. He is a former member of the Los Angeles County Board of Supervisors from District 3, which includes the San Fernando Valley, the Westside of Los Angeles and coastal areas between Venice and the Ventura County line. He was first elected to the board in 1994. Yaroslavsky served on the Los Angeles City Council from 1975 to 1994. He has been active in the areas of transportation, the environment, health care and cultural affairs."
+}, {
+  "entityIndex" : "entity12161",
+  "entityUrl" : "http://dbpedia.org/resource/Zafar_Saifullah",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "held", "Lives", "Commission", "Muslim", "Minorities", "Development", "July", "1936", "Member", "Less", "others", "officers", "--", "Ordinary", "including", "edited", "positions", "c.", "published", ",", ".", "India", "appointed", "Governor", "Prior", "among", "-RRB-", "belonged", "-LRB-", "25", "role", "Secretary", "book", "Zafar", "Administrative", "2008", "Saifullah", "1994", "1993", "Karnataka", "variety", "cadre", "Sulaimanis", "Rural", "Cabinet", "Government", "Service", "Advisor", "Haryana", "2014", "Indian" ],
+  "adjectives" : [ "Ordinary", "Indian", "Muslim" ],
+  "nouns" : [ "Governor", "role", "Government", "variety", "book", "cadre" ],
+  "text" : "Zafar Saifullah (c. 1936 – 25 July 2014) was the only Muslim to be appointed Cabinet Secretary of the Government of India from 1993 to 1994. He belonged to the Karnataka cadre of Indian Administrative Service officers. Prior to his role as Cabinet Secretary, he held a variety of positions including that of Member Secretary of the Minorities Commission of India, Advisor to the Governor of Haryana, Secretary of Rural Development, Government of Karnataka, among others. In 2008, Saifullah edited and published a book, Sulaimanis – Lives Less Ordinary. The book was released by the Vice-President of India Hamid Ansari."
+}, {
+  "entityIndex" : "entity12162",
+  "entityUrl" : "http://dbpedia.org/resource/Zora_Singh_Maan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:office" : [ "Member of Parliament,Lok Sabha" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Shiromani_Akali_Dal" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Firozpur_(Lok_Sabha_constituency)" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Sikhism" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/India", "http://dbpedia.org/resource/Firozpur", "http://dbpedia.org/resource/Punjab,_India" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Sher_Singh_Ghubaya" ],
+    "dbo:termPeriod" : [ "http://dbpedia.org/resource/Zora_Singh_Maan__1" ],
+    "dbp:children" : [ "2" ],
+    "dbp:date" : [ "--06-27" ],
+    "dbp:predecessor" : [ "Mohan Singh Phalianwala" ],
+    "dbp:source" : [ "http://web.archive.org/web/20060620031314/http:/164.100.24.208:80/ls/lsmember/biodata.asp?mpsno=242" ],
+    "dbp:spouse" : [ "Sarabjeet Kaur" ],
+    "dbp:term" : [ "1998" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ],
+    "dbp:year" : [ "2010" ]
+  },
+  "words" : [ "14th", "June", "-LRB-", "Maan", "political", "represents", "Shiromani", "Sabha", "Akali", "member", "Singh", "born", "18", "Lok", "Punjab", "Firozpur", "Zora", ".", "Dal", "India", "1940", "constituency", "SAD", "-RRB-", "party" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "constituency", "member", "Lok", "party" ],
+  "text" : "Zora Singh Maan (born 18 June 1940) is a member of the 14th Lok Sabha of India. He represents the Firozpur constituency of Punjab and is a member of the Shiromani Akali Dal (SAD) political party."
+}, {
+  "entityIndex" : "entity12163",
+  "entityUrl" : "http://dbpedia.org/resource/Zeb_V._Walser",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Robert_Dick_Douglas" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Frank_I._Osborne" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Attorney_General_of_North_Carolina" ],
+    "dbp:years" : [ "1897" ]
+  },
+  "words" : [ "became", "nevertheless", "-LRB-", "rather", "Republican", "Zebulon", "Representatives", "Vance", "Lexington", "bar", "Party", "North", "--", "Walser", "Named", "admitted", "law", "began", "practicing", "politician", "Carolina", "active", "1890", "House", "B.", ",", "'s", ".", "elected", "1888", "Governor", "1886", "Senate", "1863", "1940", "Democrats", "Zeb", "attorney", "-RRB-" ],
+  "adjectives" : [ "active" ],
+  "nouns" : [ "Governor", "bar", "law", "attorney", "politician" ],
+  "text" : "Zeb Vance Walser (1863–1940) was an attorney and North Carolina politician. Named for Governor Zebulon B. Vance, Walser nevertheless became active in the Republican Party rather than Vance's Democrats. Walser was admitted to the bar in 1886 and began practicing law in Lexington, North Carolina. He was elected to the North Carolina House of Representatives in 1888, and to the North Carolina Senate in 1890. In 1894, Walser was again elected to the state House, which elected him Speaker for one term after Republicans and Populists formed a majority. In 1896, Walser was elected North Carolina Attorney General. In 1900, he became official reporter for the North Carolina Supreme Court. In 1912, Walser served as state campaign manager for Theodore Roosevelt's unsuccessful presidential campaign."
+}, {
+  "entityIndex" : "entity12164",
+  "entityUrl" : "http://dbpedia.org/resource/Zotique_Mageau",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "1926-10-18" ],
+    "dbo:activeYearsStartDate" : [ "1911-12-11" ],
+    "dbo:orderInOffice" : [ "MPPforSturgeon Falls" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Ontario_Liberal_Party" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Sturgeon_Falls_(provincial_electoral_district)" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Théodore_Legault" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Azaire_Adulphe_Aubin" ],
+    "dbp:religion" : [ "Roman Catholic" ]
+  },
+  "words" : [ "Judith", "-LRB-", "death", "Sainte-Julienne", "Clara", "March", "political", "youngest", "Saladine", "1951", "son", "Felix", "member", "Zotique", "represented", "Assembly", "1912", "1911", "--", "Perrault", "figure", "14", "Liberal", "born", "Quebec", "merchant", "Sturgeon", "Mageau", ",", "April", ".", "Falls", "1865", "1887", "notary", "Fabien", "6", "Serré", "-RRB-", "Legislative", "1926", ";", "Ontario", "Roy", "married" ],
+  "adjectives" : [ "notary", "Liberal", "political", "Legislative" ],
+  "nouns" : [ "figure", "son", "death", "member", "merchant", "Assembly" ],
+  "text" : "Zotique Mageau (April 6, 1865 – March 14, 1951) was an Ontario merchant, notary and political figure. He represented Sturgeon Falls in the Legislative Assembly of Ontario as a Liberal member from 1911 to 1926. He was born in Sainte-Julienne, Quebec, the youngest son of Fabien (Felix) Mageau and Judith Roy. In 1887, he married Saladine Serré; he married Clara Perrault in 1912 after her death. He opened a general store in Sturgeon Falls with his brother-in-law, Eugène Serré. He also established a lumber company, and was one of the founders of Sturgeon Falls, Ontario."
+}, {
+  "entityIndex" : "entity12165",
+  "entityUrl" : "http://dbpedia.org/resource/Zouheir_Chokr",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:birthName" : [ "Zouheir Ali Chokr" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Lebanon" ],
+    "dbo:orderInOffice" : [ "President of the Lebanese University" ],
+    "dbp:caption" : [ "Zouheir Chokr in 2006" ],
+    "dbp:spouse" : [ "Leila Natour, three children: Nadine El-Far, Ali and Jad" ],
+    "dbp:termEnd" : [ "2011" ],
+    "dbp:termStart" : [ "February, 2006" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ "-LRB-", "Shokr", "Chokor", "alternative", ",", "Choker", ".", "Chokr", "Shoker", "President", "Arabic", "University", "زهير", "Lebanese", "-RRB-", "Zouheir", ":", "شكر", "Shokor", "spellings", "Zouhair" ],
+  "adjectives" : [ "Arabic", "Lebanese", "alternative" ],
+  "nouns" : [ ],
+  "text" : "Zouheir Chokr (alternative spellings: Zouheir Shokr, Zouheir Chokor, Zouheir Shokor, Zouheir Choker, Zouheir Shoker, Zouhair Chokr, Zouhair Chokor, Zouhair Shokor) (Arabic: زهير شكر‎‎) is the President of the Lebanese University."
+}, {
+  "entityIndex" : "entity12166",
+  "entityUrl" : "http://dbpedia.org/resource/Zachariah_Adam_Hall",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "MPPforWaterloo South" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario" ],
+    "dbp:occupation" : [ "manufacturer, inventor and politician" ],
+    "dbp:term" : [ "--06-29" ]
+  },
+  "words" : [ "-LRB-", "May", "28", "1919", "political", "Waterloo", "St.", "manufacturer", "1952", "son", "member", "represented", "1914", "February", "Assembly", "--", "Thomas", "Strathroy", "figure", "Guelph", "West", "born", "South", ",", "Millbank", ".", "Adam", "1865", "Canada", "educated", "Marys", "5", "Conservative", "-RRB-", "Legislative", "Hall", "Zachariah", "Ontario" ],
+  "adjectives" : [ "Conservative", "political", "Legislative" ],
+  "nouns" : [ "figure", "son", "member", "Assembly", "manufacturer" ],
+  "text" : "Zachariah Adam Hall (February 28, 1865 – May 5, 1952) was an Ontario manufacturer and political figure. He represented Waterloo South in the Legislative Assembly of Ontario as a Conservative member from 1914 to 1919. He was born in Millbank, Canada West, the son of Thomas Hall. He was educated in St. Marys, Strathroy and Guelph. In 1900, he married Margaret Forbes. Hall manufactured stoves and furnaces in Hespeler.. He served as reeve for Preston in 1907. He was defeated in his bid for reelection in 1919 by Karl Homuth of the United Farmers of Ontario. Hall was also an inventor, patenting a design for a brake for vehicle wheels , a hot air furnace , several designs for kitchen ranges and stoves  and hockey sticks . He died in Guelph on May 5, 1952 and was buried at Woodlawn Cemetery in that same city."
+}, {
+  "entityIndex" : "entity12167",
+  "entityUrl" : "http://dbpedia.org/resource/Zbigniew_Antoni_Fronczek",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2006-11-27" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Poland" ],
+    "dbo:orderInOffice" : [ "Member ofBydgoszcz City Council" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Civic_Platform" ],
+    "dbp:imagesize" : [ "frameless" ],
+    "dbp:termEnd" : [ "?" ]
+  },
+  "words" : [ "-LRB-", "Bydgoszcz", "Platform", "27", "Zbigniew", "office", "got", "Council", "592", "represents", "current", "2006", "Fronczek", "February", "1935", "Member", "November", "12", "took", "Polish", "born", "politician", "4th", "representing", "City", "Civic", "Antoni", ",", "list", ".", "elected", "district", "-RRB-", "votes", "20" ],
+  "adjectives" : [ "current", "Polish", "4th" ],
+  "nouns" : [ "politician", "district", "office", "list" ],
+  "text" : "Zbigniew Antoni Fronczek (born 20 February 1935) is a Polish politician, current Member of Bydgoszcz City Council who represents the 4th district. On 12 November 2006 he was elected to Bydgoszcz City Council. He got 592 votes in 4th district, representing the Civic Platform list. He took office on 27 November 2006. He is a Vice-Chairperson of Health Policy Committee and a member of Culture and Science Committee."
+}, {
+  "entityIndex" : "entity12168",
+  "entityUrl" : "http://dbpedia.org/resource/Zainuddin_bin_Maidin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50222756" ],
+    "dbo:wikiPageRedirects" : [ "http://dbpedia.org/resource/Zainuddin_Maidin" ],
+    "dbo:wikiPageRevisionID" : [ "715856596" ],
+    "dbo:wikiPageWikiLink" : [ "http://dbpedia.org/resource/Zainuddin_Maidin" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-politician-noun-2" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12169",
+  "entityUrl" : "http://dbpedia.org/resource/Z._Obed",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/India" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Indian_National_Congress" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Front", "contested", "1998", "Kohima", "candidate", "Z.", "National", "Town", "1993", "2003", "lost", "Assembly", "ST", "politician", "People", ",", "'s", ".", "India", "elected", "constituency", "Obed", "-RRB-", "Legislative", "Indian", "Nagaland", "INC" ],
+  "adjectives" : [ "ST", "Legislative", "Indian" ],
+  "nouns" : [ "candidate", "constituency", "Front", "politician", "Assembly" ],
+  "text" : "Z. Obed is a politician from Nagaland, India. In 2003 he was elected to the Legislative Assembly of Nagaland, as the Nagaland People's Front candidate in the constituency Kohima Town (ST). In 1993 he was elected as an Indian National Congress candidate. In 1998 he again contested as INC candidate, but lost. In 2007 he led a rebellion inside the ruling coalition, seeking to remove Neiphiu Rio as Chief Minister. In September 2007, he resigned from NPF, after being suspended for two years from the party."
+}, {
+  "entityIndex" : "entity12170",
+  "entityUrl" : "http://dbpedia.org/resource/Zainal_Abidin_Ahmad_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsEndDate" : [ "2010-03-25" ],
+    "dbo:activeYearsStartDate" : [ "2008-03-08" ],
+    "dbo:office" : [ "DeputyMenteri BesarofSelangor", "Member of the State Assembly ofSelangorforDusun Tua" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Keadilan" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Selangor", "http://dbpedia.org/resource/Hulu_Selangor" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/P._Kamalanathan", "http://dbpedia.org/resource/UMNO" ],
+    "dbp:children" : [ "4" ],
+    "dbp:honorificPrefix" : [ "http://dbpedia.org/resource/Malay_titles" ],
+    "dbp:occupation" : [ "Politician" ],
+    "dbp:parliament" : [ "Malaysian" ],
+    "dbp:predecessor" : [ "G. Palanivel  –" ],
+    "dbp:spouse" : [ "Siti Zaharah Mohd Zin" ],
+    "dbp:termEnd" : [ "1999", "2004" ],
+    "dbp:termStart" : [ "1990", "1995" ]
+  },
+  "words" : [ "Abidin", "-LRB-", "25", "death", "Rakyat", "March", "2010", "Malaysia", "Zainal", "Pakatan", "opposition", "October", "Hulu", "member", "1939", "coalition", "Malay", "Member", "Malaysian", "10", "--", "given", "Datuk", "Parti", "politician", "Keadilan", ",", "Ahmad", ".", "Selangor", "patronymic", "constituency", "person", "PKR", "name", "-RRB-", ";", "family", "Parliament", "party", "referred" ],
+  "adjectives" : [ "patronymic", "Malay", "Malaysian" ],
+  "nouns" : [ "opposition", "constituency", "death", "person", "PKR", "politician", "name", "member", "coalition", "family", "party" ],
+  "text" : "(This is a Malay name; the name Abidin Ahmad is a patronymic, not a family name, and the person should be referred to by the given name, Zainal.) Datuk Zainal Abidin Ahmad (10 October 1939 – 25 March 2010) was a Malaysian politician. He was the Member of the Parliament of Malaysia for the Hulu Selangor constituency in Selangor until his death in 2010. He was a member of the Parti Keadilan Rakyat (PKR) party in the Pakatan Rakyat opposition coalition. Zainal Abidin was a member of the State Assembly of Selangor from 1990 for the UMNO party before being omitted from the ticket of the governing Barisan Nasional coalition for the 2004 election. From 1995 to 1999 he served as Deputy Menteri Besar (Chief Minister) and on the Selangor Executive Council. Zainal Abidin switched to the opposition Keadilan party in 2005. In the 2008 election, Zainal won the federal seat of Hulu Selangor, unseating the incumbent Barisan Nasional member by a narrow margin of 198 votes. Zainal Abidin died on 25 March 2010 from brain cancer, triggering a by-election in Hulu Selangor which was won by YB P. Kamalanathan of (MIC) – (BN). He is survived by his wife Datin Siti Zaharah Mohd Zin and four children."
+}, {
+  "entityIndex" : "entity12171",
+  "entityUrl" : "http://dbpedia.org/resource/Zhu_Zhengchang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/China" ],
+    "dbp:c" : [ "朱正昌" ],
+    "dbp:p" : [ "Zhū Zhèng chāng" ],
+    "dbp:title" : [ "Party Secretary of Shandong University" ],
+    "dbp:years" : [ "&ndash;2011" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Maritime", "2011", "Committee", "County", "marine", "Zhengchang", "Engineering", "October", "Chongming", "secretary", "Dalian", "Wuhan", "November", "--", "Waterway", "deputy", "Shanghai", "Zhu", "director", "studied", "politician", "born", "People", "Shandong", "engineering", "'s", ",", ".", "University", "served", "name", "-RRB-", "College", "Chinese", ";", "Standing", "family", "party", "1944" ],
+  "adjectives" : [ "Chinese", "marine" ],
+  "nouns" : [ "deputy", "secretary", "director", "politician", "name", "engineering", "family", "Committee", "party" ],
+  "text" : "(This is a Chinese name; the family name is Zhu.) Zhu Zhengchang (November 1944–) is a Chinese politician in Shandong. He served as deputy director of the Standing Committee of the Shandong People's Congress and party secretary of Shandong University until October 2011. Zhu was born in Chongming County, Shanghai and studied marine engineering at the Wuhan Waterway Engineering College and Dalian Maritime University. He became a member of the Chinese Communist Party in 1967. Since 1984, he has held various provincial-level party posts. He has also been executive vice president of the Chinese Confucius Foundation that was established in 1984 to advance the study of traditional Chinese culture and promote international cultural exchange. Since January 2005, he has been Deputy Director of the Standing Committee of the Shandong People's Congress and since February 2005, party secretary of Shandong University."
+}, {
+  "entityIndex" : "entity12172",
+  "entityUrl" : "http://dbpedia.org/resource/Zakir_Garalov",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2000-04-26" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Azerbaijani_language" ],
+    "dbo:orderInOffice" : [ "Prosecutor General of Azerbaijan" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/New_Azerbaijan_Party" ]
+  },
+  "words" : [ "equivalent", "New", "held", "sometimes", "official", "office", "Zakir", "years", "ruling", "Prosecutor", "January", "11", "longtime", "13", "MP", "Bəkir", "countries", ",", ".", "oğlu", "rendered", "attorney", "served", "-RRB-", "General", ":", "present", "party", "-LRB-", "influential", "Qaralov", "Georgian-born", "Azerbaijani", "general", "Party", "related", "oglu", "member", "Bakir", "Garalov", "1956", "chief", "born", "politician", "prosecutor", "Azerbaijan", "currently", "formerly", "Ganja", "Zahid" ],
+  "adjectives" : [ "longtime", "related", "influential", "present", "Georgian-born", "Azerbaijani" ],
+  "nouns" : [ "equivalent", "general", "ruling", "MP", "attorney", "chief", "politician", "member", "official", "office", "prosecutor", "party" ],
+  "text" : "Zakir Bakir oglu Garalov (Azerbaijani: Zakir Bəkir oğlu Qaralov) (born January 13, 1956), sometimes rendered Zakir Qaralov, is a Georgian-born Azerbaijani politician who is currently the Prosecutor General of Azerbaijan, an office equivalent to the attorney general in other countries. Garalov is a member of the ruling New Azerbaijan Party and has held his present office for 11 years. He formerly served as the chief prosecutor in Ganja. He is related to influential party official and longtime MP Zahid Garalov."
+}, {
+  "entityIndex" : "entity12173",
+  "entityUrl" : "http://dbpedia.org/resource/Zafar_Mehmood_Mughal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Pakistan" ],
+    "dbo:orderInOffice" : [ "Chairman Executive, Punjab Bar Council(Pakistan)" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Islam" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Pakistan", "http://dbpedia.org/resource/Rawalpindi" ],
+    "dbo:successor" : [ "http://dbpedia.org/resource/Rana_Muhammad_Asif_Saeed" ],
+    "dbp:after" : [ "http://dbpedia.org/resource/Rana_Muhammad_Asif_Saeed" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Rana_Muhammad_Akram_Khan" ],
+    "dbp:imagesize" : [ "100" ],
+    "dbp:predecessor" : [ "Rana Muhammad Akram Khan" ],
+    "dbp:termEnd" : [ "2012" ],
+    "dbp:termStart" : [ "2011" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Chairman_Executive,_Punjab_Bar_Council" ],
+    "dbp:years" : [ "2011" ]
+  },
+  "words" : [ "year", "Khan", "respectively", "Council", "Elections", "Zafar", "executive", "Mughal", "2011-12", "term", "Lawyer", "Member", "Gondal", "Mehmood", "unopposed", "vice", "Executive", "Punjab", "chairman", "Pakistani", ",", "'s", ".", "Chairman", "elected", "Muhammad", "Bar", "Lehrasib", "2010-14" ],
+  "adjectives" : [ "Pakistani" ],
+  "nouns" : [ "executive", "vice", "year", "term", "chairman" ],
+  "text" : "Zafar Mehmood Mughal is a Pakistani Lawyer, He was elected as Chairman Executive of Punjab Bar Council for the year 2011-12. He has been Member Punjab Bar Council for the term 2010-14.both Zafar Mehmood Mughal and Muhammad Lehrasib Khan Gondal were elected unopposed as Punjab Bar Council’s chairman executive and vice chairman, respectively in 2011-12 Elections."
+}, {
+  "entityIndex" : "entity12174",
+  "entityUrl" : "http://dbpedia.org/resource/Zhu_Haowen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/China" ]
+  },
+  "words" : [ "Qinhuangdao", "Haowen", "-LRB-", "mayor", "Zhu", "born", ",", ".", "Hebei", "China", "-RRB-", "February", "1967" ],
+  "adjectives" : [ ],
+  "nouns" : [ "mayor" ],
+  "text" : "Zhu Haowen (born February 1967) is the mayor of Qinhuangdao, Hebei, China."
+}, {
+  "entityIndex" : "entity12175",
+  "entityUrl" : "http://dbpedia.org/resource/Zillah_Smith_Gill",
+  "dboClass" : "dbo:Politician",
+  "properties" : { },
+  "words" : [ "New", "leader", "-LRB-", "May", "29", "England", "Kingston", "upon", "local", "Hull", "Yorkshire", "1937", "1859", "--", "Gill", "17", "Smith", "politician", "born", "community", ",", ".", "August", "Zealand", "Zillah", "-RRB-" ],
+  "adjectives" : [ "local" ],
+  "nouns" : [ "leader", "politician", "community" ],
+  "text" : "Zillah Smith Gill (29 May 1859–17 August 1937) was a New Zealand local politician and community leader. She was born in Kingston upon Hull, Yorkshire, England on 29 May 1859."
+}, {
+  "entityIndex" : "entity12176",
+  "entityUrl" : "http://dbpedia.org/resource/Zoe_Bettison",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2012-02-11" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/Flinders_University", "http://dbpedia.org/resource/University_of_Adelaide" ],
+    "dbo:nationality" : [ "http://dbpedia.org/resource/Australia" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Australian_Labor_Party_(South_Australian_Branch)", "http://dbpedia.org/resource/Australian_Labor_Party" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Electoral_district_of_Ramsay" ],
+    "dbp:before" : [ "http://dbpedia.org/resource/Jack_Snelling" ],
+    "dbp:honorificPrefix" : [ "http://dbpedia.org/resource/The_Honourable" ],
+    "dbp:honorificSuffix" : [ "BA, MBA, MP" ],
+    "dbp:nationality" : [ "Australian" ],
+    "dbp:occupation" : [ "Government Relations Manager" ],
+    "dbp:parliament" : [ "South Australian" ],
+    "dbp:predecessor" : [ "Mike Rann" ],
+    "dbp:rows" : [ "2" ],
+    "dbp:title" : [ "http://dbpedia.org/resource/Government_of_South_Australia", "Member for Ramsay" ],
+    "dbp:years" : [ "2012", "2014" ]
+  },
+  "words" : [ "Bettison", "politician", "representing", "South", "2012", "House", "by-election", "Labor", "Lee", ".", "seat", "Zoe", "Party", "Australian", "Branch", "Ramsay", "Assembly", "since" ],
+  "adjectives" : [ "Australian" ],
+  "nouns" : [ "seat", "politician", "by-election" ],
+  "text" : "Zoe Lee Bettison is an Australian politician representing the South Australian House of Assembly seat of Ramsay for the South Australian Branch of the Australian Labor Party since the 2012 Ramsay by-election."
+}, {
+  "entityIndex" : "entity12177",
+  "entityUrl" : "http://dbpedia.org/resource/Zhang_Zhijun__China-politician-stub__1",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12178",
+  "entityUrl" : "http://dbpedia.org/resource/Zhang_Lichang__China-politician-stub__1",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/China" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "entity12179",
+  "entityUrl" : "http://dbpedia.org/resource/Zainol_Fadzi_Paharudin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2008-03-08", "2010-05-12" ],
+    "dbo:monarch" : [ "http://dbpedia.org/resource/Sultan_Azlan_Shah" ],
+    "dbo:occupation" : [ "http://dbpedia.org/resource/Politician" ],
+    "dbo:office" : [ "Perak State" ],
+    "dbo:orderInOffice" : [ "PresidentPerak Football Association" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/United_Malays_National_Organisation" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Sungai_Manik" ],
+    "dbo:residence" : [ "http://dbpedia.org/resource/Perak", "http://dbpedia.org/resource/Langkap" ],
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Datin" ],
+    "dbp:children" : [ "5" ],
+    "dbp:honorificPrefix" : [ "(Yang Berhormat Dato')" ],
+    "dbp:honorificSuffix" : [ "(DPCM, PMP, DSM, ASDK)" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Mohammad_Nizar_Jamaluddin", "Haji Ibrahim Katop" ]
+  },
+  "words" : [ "-LRB-", "leading", "United", "BN", "Fadzi", "President", "current", "ruling", "Association", "Barisan", "National", "Zainol", "coalition", "Paharudin", "Malaysian", "Nasional", "Organisation", "'", "politician", ",", "Football", "Malays", ".", "Perak", "Dato", "-RRB-", "UMNO", "party" ],
+  "adjectives" : [ "current", "Malaysian" ],
+  "nouns" : [ "ruling", "politician", "coalition", "party" ],
+  "text" : "Dato' Zainol Fadzi Paharudin is the current President Perak Football Association and a Malaysian politician from the United Malays National Organisation (UMNO), the leading party in the ruling Barisan Nasional (BN) coalition."
+}, {
+  "entityIndex" : "entity12180",
+  "entityUrl" : "http://dbpedia.org/resource/Zairil_Khir_Johari",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:activeYearsStartDate" : [ "2013-05-06" ],
+    "dbo:almaMater" : [ "http://dbpedia.org/resource/University_of_London", "http://dbpedia.org/resource/Multimedia_University" ],
+    "dbo:occupation" : [ "http://penanginstitute.org/v3/home/" ],
+    "dbo:office" : [ "CEO of Penang Institute", "Executive Directorof Penang Institute", "Assistant Publicity SecretaryDemocratic Action Party" ],
+    "dbo:party" : [ "http://dbpedia.org/resource/Democratic_Action_Party" ],
+    "dbo:region" : [ "http://dbpedia.org/resource/Bukit_Bendera_(federal_constituency)", "http://dbpedia.org/resource/Penang" ],
+    "dbo:relation" : [ "http://dbpedia.org/resource/Khir_Johari" ],
+    "dbo:religion" : [ "http://dbpedia.org/resource/Islam" ],
+    "dbp:birthName" : [ "Zairil Khir Johari" ],
+    "dbp:children" : [ "2" ],
+    "dbp:citizenship" : [ "http://dbpedia.org/resource/Malaysian_people" ],
+    "dbp:honorificPrefix" : [ "http://dbpedia.org/resource/Malay_styles_and_titles" ],
+    "dbp:honorificSuffix" : [ "http://dbpedia.org/resource/Member_of_Parliament" ],
+    "dbp:imageSize" : [ "400" ],
+    "dbp:parliament" : [ "Malaysian" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Woo_Wing_Thye", "http://dbpedia.org/resource/Liew_Chin_Tong" ],
+    "dbp:spokenLanguage" : [ "http://dbpedia.org/resource/Nusantara" ],
+    "dbp:spouse" : [ "Dahlia Hamzah" ],
+    "dbp:successor" : [ "Lim Kim-Hwa" ],
+    "dbp:termEnd" : [ "March 2014" ],
+    "dbp:termStart" : [ "March 2012", "March 2014", "September 2013" ]
+  },
+  "words" : [ "Action", "-LRB-", "Khir", "Johari", "Penang", "Zairil", "opposition", "October", "Party", "son", "member", "Since", "Bukit", "Member", "Malaysian", "minister", "Cabinet", "17", "Democratic", "born", "politician", "Bendera", ",", ".", "former", "seat", "1982", "2013", "-RRB-", "Parliament" ],
+  "adjectives" : [ "Democratic", "Malaysian", "former" ],
+  "nouns" : [ "seat", "opposition", "son", "minister", "politician", "member" ],
+  "text" : "Zairil Khir Johari (born 17 October 1982) is a Malaysian politician. Since 2013, he has been the Member of Parliament for the seat of Bukit Bendera, Penang. He is a member of the opposition Democratic Action Party. He is the son of Khir Johari, a former Cabinet minister. In 2015, he was appointed the DAP Parliamentary Spokesperson for Education, Science and Technology."
+}, {
+  "entityIndex" : "entity12181",
+  "entityUrl" : "http://dbpedia.org/resource/Zainon_Ismail_C.N._Afghani",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:honorificPrefix" : [ "Cikgu Non @ C.N. Afghani" ]
+  },
+  "words" : [ "Army", "Afghanistan", "war", "also", "Soviet", ",", ".", "Taliban", "Cikgu", "known", "public", "Zainon", "speaker", "served", "Ismail", "well", "writer" ],
+  "adjectives" : [ "public", "Soviet" ],
+  "nouns" : [ "speaker", "war", "writer" ],
+  "text" : "Cikgu Zainon Ismail is a well known writer and also a public speaker. He once served in the Taliban Army, during the Soviet war in Afghanistan."
+}, {
+  "entityIndex" : "entity12182",
+  "entityUrl" : "http://dbpedia.org/resource/Zeb_Alley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:country" : [ "http://dbpedia.org/resource/United_States" ]
+  },
+  "words" : [ "``", "bachelors", "-LRB-", "Hill", "American", "United", "War", "Zebulon", "degrees", "States", "high", "Doyle", "school", "Star", "North", "July", "Sylva", "lawyer", "lobbyist", "Military", "''", "--", "11", "Bronze", "Army", "law", "Academy", "politician", "Chapel", "Carolina", "Korean", "received", ",", ".", "August", "Alley", "University", "Zeb", "Born", "2013", "graduated", "served", "-RRB-", "Oak", "9", "1928", "Ridge", "practiced" ],
+  "adjectives" : [ "high", "American", "Korean" ],
+  "nouns" : [ "Bronze", "law", "school", "Star", "politician", "Chapel", "War", "lawyer", "lobbyist" ],
+  "text" : "Zebulon Doyle \"Zeb\" Alley (August 9, 1928 – July 11, 2013) was an American lawyer, lobbyist, and politician. Born in Sylva, North Carolina, he graduated from high school at Oak Ridge Military Academy. Alley served in the United States Army during the Korean War and received the Bronze Star. He then received his bachelors and law degrees from the University of North Carolina at Chapel Hill and then practiced law and was a lobbyist. He served in the North Carolina State Senate 1971-1973 as a Democrat. Alley also was city attorney for Waynesville, North Carolina, general counsel to Governor Jim Hunt, and served on the North Carolina Board of Alcoholic Beverages. He died in Raleigh, North Carolina."
+}, {
+  "entityIndex" : "entity12183",
+  "entityUrl" : "http://dbpedia.org/resource/Zenani_Mandela-Dlamini",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:orderInOffice" : [ "South Africa Ambassador to Argentina" ],
+    "dbo:president" : [ "http://dbpedia.org/resource/Jacob_Zuma" ],
+    "dbo:spouse" : [ "http://dbpedia.org/resource/Thumbumuzi_Dlamini" ],
+    "dbp:caption" : [ "Princess of Swaziland" ],
+    "dbp:parents" : [ "http://dbpedia.org/resource/Nelson_Mandela", "http://dbpedia.org/resource/Winnie_Mandela" ],
+    "dbp:predecessor" : [ "http://dbpedia.org/resource/Tony_Leon" ],
+    "dbp:termStart" : [ "October 2012" ]
+  },
+  "words" : [ "next", "arrested", "Mandela-Dlamini", "-LRB-", "27", "nearly", "father", "elder", "years", "second", "1974", "would", "four", "1959", "February", "prison", "close", "Nelson", "16", "wife", "old", "could", "born", "South", "birth", ",", "sent", "-", ".", "Zenani", "African", "stay", "Mandela", "4", "-RRB-", "diplomat", "visit", "daughter", "Winnie" ],
+  "adjectives" : [ "next", "old", "South", "African", "second" ],
+  "nouns" : [ "wife", "father", "birth", "diplomat", "daughter", "prison" ],
+  "text" : "Zenani Mandela-Dlamini (born 4 February 1959) is a South African diplomat. She is the elder daughter of Nelson Mandela and his second wife, Winnie Mandela. She was nearly born in prison, as Winnie Mandela was arrested close to her birth in 1959, and when she was four her father was sent to prison - where he would stay for the next 27 years. Not until 1974, when she was 16 years old, she could only visit him. Mandela-Dlamini studied at Waterford Kamhlaba United World College of Southern Africa and science at Boston University. It was there that she first met Prince Thumbumuzi Dlamini of Swaziland (an elder brother of the reigning monarch of Swaziland, Mswati III and of Queen Mantfombi of the Zulus), who was studying science at the same university. The two married in 1973 and had four children (Zaziwe (born 1977), Zamaswazi (1979), Zinhle (1980) and Zozuko (1992)) and four grandchildren, but are currently separated.They are co-owners of Mandela, Dlamini and Associates (International Business Consultants). She was appointed ambassador for South Africa to Argentina in July 2012 (taking office in October), becoming the first of Mandela's children to enter public service; she succeeded retiring diplomat and former opposition leader Tony Leon."
+} ]

@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity19527",
+  "entityIndex" : "1_entity12109",
   "entityUrl" : "http://dbpedia.org/resource/Wafula_Oguttu",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "journalist", "constituency", "politician", "position", "Sub-region" ],
   "text" : "Phillip Wafula Oguttu (born 21 December 1952) is a Ugandan journalist and politician. He is a former Leader of Opposition in the Ugandan Parliament. He was appointed to that position on 31 January 2014, replacing Nandala Mafabi, who served in that position from May 2011 until January 2014. Wafula is also the Member of Parliament (MP) for Bukhooli County Central, a constituency in Bugiri District, Busoga Sub-region, Eastern Region of Uganda. He is a member of Uganda's opposition party Forum for Democratic Change (FDC) for which he is the spokesperson. Oguttu is also one of the co-founders of the Daily Monitor, a privately owned English-language daily newspaper in Uganda."
 }, {
-  "entityIndex" : "2_entity12104",
+  "entityIndex" : "2_entity7453",
   "entityUrl" : "http://dbpedia.org/resource/Maninderjeet_Singh_Bitta",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "minister", "Front", "chief", "govt", "Bitta", "chairman", "M", "AIATF", "president" ],
   "text" : "Maninderjeet Singh Bitta (also M S Bitta) is the chairman of the All-India Anti-Terrorist Front (AIATF), and former chief of the Indian Youth Congress. He was made the president of Indian Youth Congress by P. V. Narasimha Rao. Maninderjeet Singh Bitta was a Minister in Punjab Govt in the govt of Beant Singh (chief minister)."
 }, {
-  "entityIndex" : "3_entity6252",
+  "entityIndex" : "3_entity3799",
   "entityUrl" : "http://dbpedia.org/resource/Gaikhangam_Gangmei",
   "dboClass" : "dbo:Politician",
   "properties" : {

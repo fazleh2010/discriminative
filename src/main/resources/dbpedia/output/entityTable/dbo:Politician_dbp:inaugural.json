@@ -1,5 +1,5 @@
 [ {
-  "entityIndex" : "1_entity11396",
+  "entityIndex" : "1_entity7047",
   "entityUrl" : "http://dbpedia.org/resource/Leader_of_the_Liberal_Democrats_in_the_House_of_Lords",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -10,7 +10,7 @@
   "nouns" : [ "election" ],
   "text" : "The Liberal Democrat peers elect the Leader of the Liberal Democrats in the House of Lords. Until the election of Lord Wallace of Tankerness in October 2013, all previous leaders had been members of the Labour Party who left to form the Social Democratic Party in 1981 before merging with the Liberal Party in 1988."
 }, {
-  "entityIndex" : "2_entity11497",
+  "entityIndex" : "2_entity7092",
   "entityUrl" : "http://dbpedia.org/resource/Leader_of_the_Liberal_Democrats",
   "dboClass" : "dbo:Politician",
   "properties" : {
@@ -21,7 +21,7 @@
   "nouns" : [ "leader", "constitution", "member", "party" ],
   "text" : "The Liberal Democrats are a political party in the United Kingdom. Party members elect the Leader of the Liberal Democrats. Liberal Democrat Members of Parliament also elect a Deputy Leader of the Liberal Democrats Parliamentary Party in the House of Commons, often colloquially called 'the Deputy Leader'. Under the federal constitution of the Liberal Democrats the leader is required to be a member of the House of Commons. Before the election of the first federal leader of the party (the Liberal Democrats having a federal structure in their internal party organisation), the leaders of the two parties which merged to form the Liberal Democrats, the Liberal Party and the SDP, served as joint interim leaders. In the event that the leader dies, resigns or loses his or her seat in Parliament, the deputy leader serves as interim leader until a leadership election takes place. This has occurred twice, with Menzies Campbell serving as interim leader following the resignation of Charles Kennedy (Campbell was elected leader in the ensuing election) and Vince Cable serving as interim leader following Campbell's resignation."
 }, {
-  "entityIndex" : "3_entity11654",
+  "entityIndex" : "3_entity7165",
   "entityUrl" : "http://dbpedia.org/resource/List_of_Deputy_Leaders_of_the_Liberal_Democrats",
   "dboClass" : "dbo:Politician",
   "properties" : {
