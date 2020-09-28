@@ -1,0 +1,83 @@
+[ {
+  "objectIndex" : "12",
+  "property" : "dbp:align",
+  "object" : "right",
+  "distribution" : [ {
+    "Word" : "parliament-NN",
+    "multiply" : 0.7109885621,
+    "probabilities" : {
+      "probability(parliament|right)" : 0.8676470588,
+      "probability(right|parliament)" : 0.8194444444
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.7029774873,
+    "probabilities" : {
+      "probability(member|right)" : 0.862745098,
+      "probability(right|member)" : 0.8148148148
+    }
+  }, {
+    "Word" : "electorate-NN",
+    "multiply" : 0.6675603943,
+    "probabilities" : {
+      "probability(electorate|right)" : 0.7696078431,
+      "probability(right|electorate)" : 0.8674033149
+    }
+  }, {
+    "Word" : "son-NN",
+    "multiply" : 0.2419088117,
+    "probabilities" : {
+      "probability(son|right)" : 0.3137254902,
+      "probability(right|son)" : 0.7710843373
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.2033833141,
+    "probabilities" : {
+      "probability(election|right)" : 0.2254901961,
+      "probability(right|election)" : 0.9019607843
+    }
+  }, {
+    "Word" : "region-NN",
+    "multiply" : 0.1946366782,
+    "probabilities" : {
+      "probability(region|right)" : 0.2205882353,
+      "probability(right|region)" : 0.8823529412
+    }
+  }, {
+    "Word" : "politician-NN",
+    "multiply" : 0.1415686275,
+    "probabilities" : {
+      "probability(politician|right)" : 0.1862745098,
+      "probability(right|politician)" : 0.76
+    }
+  }, {
+    "Word" : "by-election-NN",
+    "multiply" : 0.0988562092,
+    "probabilities" : {
+      "probability(by-election|right)" : 0.1078431373,
+      "probability(right|by-election)" : 0.9166666667
+    }
+  }, {
+    "Word" : "first-JJ",
+    "multiply" : 0.0836495889,
+    "probabilities" : {
+      "probability(first|right)" : 0.112745098,
+      "probability(right|first)" : 0.7419354839
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.0745614035,
+    "probabilities" : {
+      "probability(conservative|right)" : 0.0833333333,
+      "probability(right|conservative)" : 0.8947368421
+    }
+  }, {
+    "Word" : "independent-JJ",
+    "multiply" : 0.0441176471,
+    "probabilities" : {
+      "probability(independent|right)" : 0.0588235294,
+      "probability(right|independent)" : 0.75
+    }
+  } ]
+} ]

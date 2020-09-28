@@ -1,0 +1,146 @@
+[ {
+  "objectIndex" : "19",
+  "property" : "dbp:party",
+  "object" : "Independent",
+  "distribution" : [ {
+    "Word" : "19th-century-JJ",
+    "multiply" : 0.3495520159,
+    "probabilities" : {
+      "probability(19th-century|Independent)" : 0.6463414634,
+      "probability(Independent|19th-century)" : 0.5408163265
+    }
+  }, {
+    "Word" : "parliament-NN",
+    "multiply" : 0.3281314593,
+    "probabilities" : {
+      "probability(parliament|Independent)" : 0.762195122,
+      "probability(Independent|parliament)" : 0.4305084746
+    }
+  }, {
+    "Word" : "electorate-NN",
+    "multiply" : 0.3203691496,
+    "probabilities" : {
+      "probability(electorate|Independent)" : 0.6585365854,
+      "probability(Independent|electorate)" : 0.4864864865
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.2912858723,
+    "probabilities" : {
+      "probability(member|Independent)" : 0.8475609756,
+      "probability(Independent|member)" : 0.3436754177
+    }
+  }, {
+    "Word" : "new-JJ",
+    "multiply" : 0.2899291896,
+    "probabilities" : {
+      "probability(new|Independent)" : 0.8048780488,
+      "probability(Independent|new)" : 0.3602150538
+    }
+  }, {
+    "Word" : "region-NN",
+    "multiply" : 0.1224510196,
+    "probabilities" : {
+      "probability(region|Independent)" : 0.2134146341,
+      "probability(Independent|region)" : 0.5737704918
+    }
+  }, {
+    "Word" : "son-NN",
+    "multiply" : 0.0733125355,
+    "probabilities" : {
+      "probability(son|Independent)" : 0.2682926829,
+      "probability(Independent|son)" : 0.273255814
+    }
+  }, {
+    "Word" : "council-NN",
+    "multiply" : 0.0664219749,
+    "probabilities" : {
+      "probability(council|Independent)" : 0.2012195122,
+      "probability(Independent|council)" : 0.3300970874
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.0590994371,
+    "probabilities" : {
+      "probability(legislative|Independent)" : 0.1646341463,
+      "probability(Independent|legislative)" : 0.358974359
+    }
+  }, {
+    "Word" : "independent-JJ",
+    "multiply" : 0.0570835496,
+    "probabilities" : {
+      "probability(independent|Independent)" : 0.1219512195,
+      "probability(Independent|independent)" : 0.4680851064
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.0508130081,
+    "probabilities" : {
+      "probability(election|Independent)" : 0.2134146341,
+      "probability(Independent|election)" : 0.2380952381
+    }
+  }, {
+    "Word" : "provincial-JJ",
+    "multiply" : 0.044054878,
+    "probabilities" : {
+      "probability(provincial|Independent)" : 0.1036585366,
+      "probability(Independent|provincial)" : 0.425
+    }
+  }, {
+    "Word" : "by-election-NN",
+    "multiply" : 0.0385706183,
+    "probabilities" : {
+      "probability(by-election|Independent)" : 0.0975609756,
+      "probability(Independent|by-election)" : 0.3953488372
+    }
+  }, {
+    "Word" : "first-JJ",
+    "multiply" : 0.0372628726,
+    "probabilities" : {
+      "probability(first|Independent)" : 0.1341463415,
+      "probability(Independent|first)" : 0.2777777778
+    }
+  }, {
+    "Word" : "father-NN",
+    "multiply" : 0.0266075388,
+    "probabilities" : {
+      "probability(father|Independent)" : 0.0731707317,
+      "probability(Independent|father)" : 0.3636363636
+    }
+  }, {
+    "Word" : "mp-NN",
+    "multiply" : 0.025901144,
+    "probabilities" : {
+      "probability(mp|Independent)" : 0.1219512195,
+      "probability(Independent|mp)" : 0.2123893805
+    }
+  }, {
+    "Word" : "town-NN",
+    "multiply" : 0.0245934959,
+    "probabilities" : {
+      "probability(town|Independent)" : 0.0670731707,
+      "probability(Independent|town)" : 0.3666666667
+    }
+  }, {
+    "Word" : "death-NN",
+    "multiply" : 0.0223577236,
+    "probabilities" : {
+      "probability(death|Independent)" : 0.0670731707,
+      "probability(Independent|death)" : 0.3333333333
+    }
+  }, {
+    "Word" : "mayor-NN",
+    "multiply" : 0.0216802168,
+    "probabilities" : {
+      "probability(mayor|Independent)" : 0.0975609756,
+      "probability(Independent|mayor)" : 0.2222222222
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.0210118655,
+    "probabilities" : {
+      "probability(assembly|Independent)" : 0.0914634146,
+      "probability(Independent|assembly)" : 0.2297297297
+    }
+  } ]
+} ]

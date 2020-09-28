@@ -104,8 +104,8 @@ public class TableMain implements PropertyNotation {
             Integer TopNwords=100;
             interestedWords.getWords(wordFoundInNumberOfEntities,TopNwords,checkType);
             
-            
-            //Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords,numberOfEntitiesSelected,dbpediaDir+output);
+            Integer ObjectMinimumEntities=150;
+            Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords,numberOfEntitiesSelected,ObjectMinimumEntities,dbpediaDir+output);
             System.out.println("System execution ended!!!");
             
             /*String property=PropertyNotation.dbo_party;

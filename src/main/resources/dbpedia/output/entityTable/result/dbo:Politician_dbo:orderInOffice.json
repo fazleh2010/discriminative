@@ -1,0 +1,90 @@
+[ {
+  "objectIndex" : "15",
+  "property" : "dbo:orderInOffice",
+  "object" : "Member of the Legislative Assembly of Alberta",
+  "distribution" : [ {
+    "Word" : "caucus-NN",
+    "multiply" : 0.5434303097,
+    "probabilities" : {
+      "probability(caucus|Member of the Legislative Assembly of Alberta)" : 0.7889273356,
+      "probability(Member of the Legislative Assembly of Alberta|caucus)" : 0.6888217523
+    }
+  }, {
+    "Word" : "provincial-JJ",
+    "multiply" : 0.3249472406,
+    "probabilities" : {
+      "probability(provincial|Member of the Legislative Assembly of Alberta)" : 0.8788927336,
+      "probability(Member of the Legislative Assembly of Alberta|provincial)" : 0.3697234352
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.2307804379,
+    "probabilities" : {
+      "probability(legislative|Member of the Legislative Assembly of Alberta)" : 0.9930795848,
+      "probability(Member of the Legislative Assembly of Alberta|legislative)" : 0.232388664
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.1934920847,
+    "probabilities" : {
+      "probability(assembly|Member of the Legislative Assembly of Alberta)" : 0.9930795848,
+      "probability(Member of the Legislative Assembly of Alberta|assembly)" : 0.1948404616
+    }
+  }, {
+    "Word" : "level-NN",
+    "multiply" : 0.1577190591,
+    "probabilities" : {
+      "probability(level|Member of the Legislative Assembly of Alberta)" : 0.3287197232,
+      "probability(Member of the Legislative Assembly of Alberta|level)" : 0.4797979798
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.124680358,
+    "probabilities" : {
+      "probability(member|Member of the Legislative Assembly of Alberta)" : 0.9757785467,
+      "probability(Member of the Legislative Assembly of Alberta|member)" : 0.1277752605
+    }
+  }, {
+    "Word" : "government-NN",
+    "multiply" : 0.103741716,
+    "probabilities" : {
+      "probability(government|Member of the Legislative Assembly of Alberta)" : 0.4602076125,
+      "probability(Member of the Legislative Assembly of Alberta|government)" : 0.2254237288
+    }
+  }, {
+    "Word" : "opposition-NN",
+    "multiply" : 0.0816724981,
+    "probabilities" : {
+      "probability(opposition|Member of the Legislative Assembly of Alberta)" : 0.2249134948,
+      "probability(Member of the Legislative Assembly of Alberta|opposition)" : 0.3631284916
+    }
+  }, {
+    "Word" : "farmer-NN",
+    "multiply" : 0.0568865654,
+    "probabilities" : {
+      "probability(farmer|Member of the Legislative Assembly of Alberta)" : 0.1903114187,
+      "probability(Member of the Legislative Assembly of Alberta|farmer)" : 0.2989130435
+    }
+  }, {
+    "Word" : "time-NN",
+    "multiply" : 0.0327611775,
+    "probabilities" : {
+      "probability(time|Member of the Legislative Assembly of Alberta)" : 0.214532872,
+      "probability(Member of the Legislative Assembly of Alberta|time)" : 0.1527093596
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.0315423265,
+    "probabilities" : {
+      "probability(conservative|Member of the Legislative Assembly of Alberta)" : 0.2456747405,
+      "probability(Member of the Legislative Assembly of Alberta|conservative)" : 0.1283905967
+    }
+  }, {
+    "Word" : "position-NN",
+    "multiply" : 0.0294152458,
+    "probabilities" : {
+      "probability(position|Member of the Legislative Assembly of Alberta)" : 0.2249134948,
+      "probability(Member of the Legislative Assembly of Alberta|position)" : 0.1307847082
+    }
+  } ]
+} ]

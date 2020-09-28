@@ -1,0 +1,398 @@
+[ {
+  "objectIndex" : "11",
+  "property" : "dbp:imagesize",
+  "object" : "150",
+  "distribution" : [ {
+    "Word" : "assembly-NN",
+    "multiply" : 0.3279765777,
+    "probabilities" : {
+      "probability(assembly|150)" : 0.6120689655,
+      "probability(150|assembly)" : 0.5358490566
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.3227604948,
+    "probabilities" : {
+      "probability(member|150)" : 0.7155172414,
+      "probability(150|member)" : 0.4510869565
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.2398119122,
+    "probabilities" : {
+      "probability(legislative|150)" : 0.4396551724,
+      "probability(150|legislative)" : 0.5454545455
+    }
+  }, {
+    "Word" : "canadian-JJ",
+    "multiply" : 0.1763686456,
+    "probabilities" : {
+      "probability(canadian|150)" : 0.2715517241,
+      "probability(150|canadian)" : 0.6494845361
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.1670707615,
+    "probabilities" : {
+      "probability(conservative|150)" : 0.2629310345,
+      "probability(150|conservative)" : 0.6354166667
+    }
+  }, {
+    "Word" : "district-NN",
+    "multiply" : 0.138546798,
+    "probabilities" : {
+      "probability(district|150)" : 0.3232758621,
+      "probability(150|district)" : 0.4285714286
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.1328345261,
+    "probabilities" : {
+      "probability(election|150)" : 0.3017241379,
+      "probability(150|election)" : 0.4402515723
+    }
+  }, {
+    "Word" : "provincial-JJ",
+    "multiply" : 0.1282547502,
+    "probabilities" : {
+      "probability(provincial|150)" : 0.2327586207,
+      "probability(150|provincial)" : 0.5510204082
+    }
+  }, {
+    "Word" : "electoral-JJ",
+    "multiply" : 0.1271173624,
+    "probabilities" : {
+      "probability(electoral|150)" : 0.1767241379,
+      "probability(150|electoral)" : 0.7192982456
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.1169354839,
+    "probabilities" : {
+      "probability(former|150)" : 0.25,
+      "probability(150|former)" : 0.4677419355
+    }
+  }, {
+    "Word" : "party-NN",
+    "multiply" : 0.1158631014,
+    "probabilities" : {
+      "probability(party|150)" : 0.2887931034,
+      "probability(150|party)" : 0.4011976048
+    }
+  }, {
+    "Word" : "son-NN",
+    "multiply" : 0.1110388202,
+    "probabilities" : {
+      "probability(son|150)" : 0.275862069,
+      "probability(150|son)" : 0.4025157233
+    }
+  }, {
+    "Word" : "level-NN",
+    "multiply" : 0.1048462255,
+    "probabilities" : {
+      "probability(level|150)" : 0.1293103448,
+      "probability(150|level)" : 0.8108108108
+    }
+  }, {
+    "Word" : "liberal-JJ",
+    "multiply" : 0.0944733113,
+    "probabilities" : {
+      "probability(liberal|150)" : 0.1724137931,
+      "probability(150|liberal)" : 0.5479452055
+    }
+  }, {
+    "Word" : "constituency-NN",
+    "multiply" : 0.0920498084,
+    "probabilities" : {
+      "probability(constituency|150)" : 0.1336206897,
+      "probability(150|constituency)" : 0.6888888889
+    }
+  }, {
+    "Word" : "seat-NN",
+    "multiply" : 0.0790914067,
+    "probabilities" : {
+      "probability(seat|150)" : 0.1465517241,
+      "probability(150|seat)" : 0.5396825397
+    }
+  }, {
+    "Word" : "political-JJ",
+    "multiply" : 0.077642922,
+    "probabilities" : {
+      "probability(political|150)" : 0.1594827586,
+      "probability(150|political)" : 0.4868421053
+    }
+  }, {
+    "Word" : "state-NN",
+    "multiply" : 0.0763685954,
+    "probabilities" : {
+      "probability(state|150)" : 0.2413793103,
+      "probability(150|state)" : 0.3163841808
+    }
+  }, {
+    "Word" : "first-JJ",
+    "multiply" : 0.0723864258,
+    "probabilities" : {
+      "probability(first|150)" : 0.1982758621,
+      "probability(150|first)" : 0.3650793651
+    }
+  }, {
+    "Word" : "name-NN",
+    "multiply" : 0.0626503609,
+    "probabilities" : {
+      "probability(name|150)" : 0.1077586207,
+      "probability(150|name)" : 0.5813953488
+    }
+  }, {
+    "Word" : "minister-NN",
+    "multiply" : 0.059318555,
+    "probabilities" : {
+      "probability(minister|150)" : 0.1465517241,
+      "probability(150|minister)" : 0.4047619048
+    }
+  }, {
+    "Word" : "figure-NN",
+    "multiply" : 0.0576018809,
+    "probabilities" : {
+      "probability(figure|150)" : 0.0905172414,
+      "probability(150|figure)" : 0.6363636364
+    }
+  }, {
+    "Word" : "cabinet-NN",
+    "multiply" : 0.0573184153,
+    "probabilities" : {
+      "probability(cabinet|150)" : 0.1077586207,
+      "probability(150|cabinet)" : 0.5319148936
+    }
+  }, {
+    "Word" : "public-JJ",
+    "multiply" : 0.0560695262,
+    "probabilities" : {
+      "probability(public|150)" : 0.1724137931,
+      "probability(150|public)" : 0.325203252
+    }
+  }, {
+    "Word" : "term-NN",
+    "multiply" : 0.0484913793,
+    "probabilities" : {
+      "probability(term|150)" : 0.1293103448,
+      "probability(150|term)" : 0.375
+    }
+  }, {
+    "Word" : "county-NN",
+    "multiply" : 0.0484913793,
+    "probabilities" : {
+      "probability(county|150)" : 0.1293103448,
+      "probability(150|county)" : 0.375
+    }
+  }, {
+    "Word" : "government-NN",
+    "multiply" : 0.0470071568,
+    "probabilities" : {
+      "probability(government|150)" : 0.1465517241,
+      "probability(150|government)" : 0.320754717
+    }
+  }, {
+    "Word" : "position-NN",
+    "multiply" : 0.0468991251,
+    "probabilities" : {
+      "probability(position|150)" : 0.1163793103,
+      "probability(150|position)" : 0.4029850746
+    }
+  }, {
+    "Word" : "teacher-NN",
+    "multiply" : 0.0459770115,
+    "probabilities" : {
+      "probability(teacher|150)" : 0.0689655172,
+      "probability(150|teacher)" : 0.6666666667
+    }
+  }, {
+    "Word" : "democratic-JJ",
+    "multiply" : 0.045666356,
+    "probabilities" : {
+      "probability(democratic|150)" : 0.1206896552,
+      "probability(150|democratic)" : 0.3783783784
+    }
+  }, {
+    "Word" : "leader-NN",
+    "multiply" : 0.0441483804,
+    "probabilities" : {
+      "probability(leader|150)" : 0.1120689655,
+      "probability(150|leader)" : 0.3939393939
+    }
+  }, {
+    "Word" : "caucus-NN",
+    "multiply" : 0.043022121,
+    "probabilities" : {
+      "probability(caucus|150)" : 0.099137931,
+      "probability(150|caucus)" : 0.4339622642
+    }
+  }, {
+    "Word" : "council-NN",
+    "multiply" : 0.0401253918,
+    "probabilities" : {
+      "probability(council|150)" : 0.1379310345,
+      "probability(150|council)" : 0.2909090909
+    }
+  }, {
+    "Word" : "president-NN",
+    "multiply" : 0.0397752073,
+    "probabilities" : {
+      "probability(president|150)" : 0.1163793103,
+      "probability(150|president)" : 0.3417721519
+    }
+  }, {
+    "Word" : "general-JJ",
+    "multiply" : 0.0380324544,
+    "probabilities" : {
+      "probability(general|150)" : 0.1293103448,
+      "probability(150|general)" : 0.2941176471
+    }
+  }, {
+    "Word" : "school-NN",
+    "multiply" : 0.0379310345,
+    "probabilities" : {
+      "probability(school|150)" : 0.0948275862,
+      "probability(150|school)" : 0.4
+    }
+  }, {
+    "Word" : "degree-NN",
+    "multiply" : 0.037301061,
+    "probabilities" : {
+      "probability(degree|150)" : 0.0646551724,
+      "probability(150|degree)" : 0.5769230769
+    }
+  }, {
+    "Word" : "law-NN",
+    "multiply" : 0.0369036372,
+    "probabilities" : {
+      "probability(law|150)" : 0.1077586207,
+      "probability(150|law)" : 0.3424657534
+    }
+  }, {
+    "Word" : "candidate-NN",
+    "multiply" : 0.035627694,
+    "probabilities" : {
+      "probability(candidate|150)" : 0.099137931,
+      "probability(150|candidate)" : 0.359375
+    }
+  }, {
+    "Word" : "second-JJ",
+    "multiply" : 0.0346024904,
+    "probabilities" : {
+      "probability(second|150)" : 0.0732758621,
+      "probability(150|second)" : 0.4722222222
+    }
+  }, {
+    "Word" : "attorney-NN",
+    "multiply" : 0.0344827586,
+    "probabilities" : {
+      "probability(attorney|150)" : 0.0689655172,
+      "probability(150|attorney)" : 0.5
+    }
+  }, {
+    "Word" : "by-election-NN",
+    "multiply" : 0.0324933687,
+    "probabilities" : {
+      "probability(by-election|150)" : 0.0603448276,
+      "probability(150|by-election)" : 0.5384615385
+    }
+  }, {
+    "Word" : "american-JJ",
+    "multiply" : 0.0313311086,
+    "probabilities" : {
+      "probability(american|150)" : 0.1120689655,
+      "probability(150|american)" : 0.2795698925
+    }
+  }, {
+    "Word" : "indian-JJ",
+    "multiply" : 0.030651341,
+    "probabilities" : {
+      "probability(indian|150)" : 0.0689655172,
+      "probability(150|indian)" : 0.4444444444
+    }
+  }, {
+    "Word" : "time-NN",
+    "multiply" : 0.0301724138,
+    "probabilities" : {
+      "probability(time|150)" : 0.0905172414,
+      "probability(150|time)" : 0.3333333333
+    }
+  }, {
+    "Word" : "incumbent-JJ",
+    "multiply" : 0.029137931,
+    "probabilities" : {
+      "probability(incumbent|150)" : 0.0560344828,
+      "probability(150|incumbent)" : 0.52
+    }
+  }, {
+    "Word" : "republican-JJ",
+    "multiply" : 0.027816092,
+    "probabilities" : {
+      "probability(republican|150)" : 0.0948275862,
+      "probability(150|republican)" : 0.2933333333
+    }
+  }, {
+    "Word" : "office-NN",
+    "multiply" : 0.0278069807,
+    "probabilities" : {
+      "probability(office|150)" : 0.099137931,
+      "probability(150|office)" : 0.2804878049
+    }
+  }, {
+    "Word" : "career-NN",
+    "multiply" : 0.0269795658,
+    "probabilities" : {
+      "probability(career|150)" : 0.0560344828,
+      "probability(150|career)" : 0.4814814815
+    }
+  }, {
+    "Word" : "mayor-NN",
+    "multiply" : 0.0264076822,
+    "probabilities" : {
+      "probability(mayor|150)" : 0.0948275862,
+      "probability(150|mayor)" : 0.2784810127
+    }
+  }, {
+    "Word" : "justice-NN",
+    "multiply" : 0.024137931,
+    "probabilities" : {
+      "probability(justice|150)" : 0.0603448276,
+      "probability(150|justice)" : 0.4
+    }
+  }, {
+    "Word" : "family-NN",
+    "multiply" : 0.0227640086,
+    "probabilities" : {
+      "probability(family|150)" : 0.0560344828,
+      "probability(150|family)" : 0.40625
+    }
+  }, {
+    "Word" : "business-NN",
+    "multiply" : 0.022229064,
+    "probabilities" : {
+      "probability(business|150)" : 0.0818965517,
+      "probability(150|business)" : 0.2714285714
+    }
+  }, {
+    "Word" : "death-NN",
+    "multiply" : 0.020862069,
+    "probabilities" : {
+      "probability(death|150)" : 0.0474137931,
+      "probability(150|death)" : 0.44
+    }
+  }, {
+    "Word" : "deputy-JJ",
+    "multiply" : 0.0206346295,
+    "probabilities" : {
+      "probability(deputy|150)" : 0.0646551724,
+      "probability(150|deputy)" : 0.3191489362
+    }
+  }, {
+    "Word" : "native-JJ",
+    "multiply" : 0.0206055509,
+    "probabilities" : {
+      "probability(native|150)" : 0.0603448276,
+      "probability(150|native)" : 0.3414634146
+    }
+  } ]
+} ]
