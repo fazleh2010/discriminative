@@ -9,7 +9,7 @@ import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.core.analyzer.TextAnalyzer;
 import citec.correlation.wikipedia.element.DbpediaClass;
 import citec.correlation.wikipedia.element.DBpediaProperty;
-import citec.correlation.utils.FileFolderUtils;
+import citec.correlation.wikipedia.utils.FileFolderUtils;
 import citec.correlation.wikipedia.element.PropertyNotation;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

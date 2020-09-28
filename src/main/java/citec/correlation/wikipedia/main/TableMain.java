@@ -15,7 +15,7 @@ import citec.correlation.wikipedia.element.DBpediaProperty;
 import citec.correlation.wikipedia.table.EntityTable;
 import citec.correlation.wikipedia.table.Tables;
 import citec.correlation.core.yaml.ParseYaml;
-import citec.correlation.utils.FileFolderUtils;
+import citec.correlation.wikipedia.utils.FileFolderUtils;
 import citec.correlation.wikipedia.element.InterestedWords;
 import static citec.correlation.wikipedia.element.InterestedWords.PROPRTY_WISE;
 import com.fasterxml.jackson.core.type.TypeReference;
@@ -61,7 +61,7 @@ public class TableMain implements PropertyNotation {
 
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
-        String type=read;
+        String type=write;
         
         Set<String> checkProperties = new HashSet<String>();
         //checkProperties.add(PropertyNotation.DBP_SHORT_DESCRIPTION);

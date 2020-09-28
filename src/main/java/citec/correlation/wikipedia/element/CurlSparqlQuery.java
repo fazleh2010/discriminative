@@ -5,7 +5,7 @@
  */
 package citec.correlation.wikipedia.element;
 
-import citec.correlation.utils.FileFolderUtils;
+import citec.correlation.wikipedia.utils.FileFolderUtils;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

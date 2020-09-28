@@ -6,8 +6,8 @@
 package citec.correlation.wikipedia.element;
 
 import static citec.correlation.core.Constants.UNICODE;
-import citec.correlation.utils.FileFolderUtils;
-import citec.correlation.utils.StringMatcherUtil;
+import citec.correlation.wikipedia.utils.FileFolderUtils;
+import citec.correlation.wikipedia.utils.StringMatcherUtil;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.*;

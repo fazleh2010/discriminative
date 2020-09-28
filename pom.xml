@@ -71,6 +71,12 @@
             <artifactId>stanford-corenlp</artifactId>
             <version>3.8.0</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.tika/tika-langdetect -->
+        <dependency>
+            <groupId>org.apache.tika</groupId>
+            <artifactId>tika-langdetect</artifactId>
+            <version>1.24</version>
+        </dependency>
     </dependencies>
 
     <build>

@@ -6,8 +6,8 @@
 package citec.correlation.wikipedia.element;
 
 import citec.correlation.core.analyzer.TextAnalyzer;
-import citec.correlation.utils.FileFolderUtils;
-import citec.correlation.utils.SortUtils;
+import citec.correlation.wikipedia.utils.FileFolderUtils;
+import citec.correlation.wikipedia.utils.SortUtils;
 import citec.correlation.wikipedia.table.Tables;
 import java.io.File;
 import java.io.IOException;

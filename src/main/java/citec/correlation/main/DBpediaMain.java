@@ -8,7 +8,7 @@ package citec.correlation.main;
 import citec.correlation.core.Ngram;
 import citec.correlation.core.yaml.ParseYaml;
 import citec.correlation.core.json.DemocraticDataUnit;
-import citec.correlation.utils.FileFolderUtils;
+import citec.correlation.wikipedia.utils.FileFolderUtils;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.FileInputStream;

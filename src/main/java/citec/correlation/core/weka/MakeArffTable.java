@@ -6,8 +6,8 @@
 package citec.correlation.core.weka;
 
 import citec.correlation.wikipedia.element.DBpediaEntity;
-import citec.correlation.utils.FileFolderUtils;
-import citec.correlation.utils.StringWrap;
+import citec.correlation.wikipedia.utils.FileFolderUtils;
+import citec.correlation.wikipedia.utils.StringWrap;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
