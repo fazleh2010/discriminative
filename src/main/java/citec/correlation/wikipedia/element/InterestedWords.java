@@ -35,7 +35,7 @@ public class InterestedWords {
     private Tables tables = null;
     public static String ALL_WORDS = "all";
     public static String PROPRTY_WISE = "PROPRTY_WISE";
-    private static String FILE_NOTATION = "_interWords.txt";
+    private static String FILE_NOTATION = ".txt";
     private Set<String> properties = new HashSet<String>();
 
     public InterestedWords(String className, Tables tables, String outputDir) {
@@ -60,7 +60,7 @@ public class InterestedWords {
 
         String str = null;
         tables.readSplitTables(dataInputDir, className);
-        String outputLocation = tables.getEntityTableDir() + "result/";
+        String outputLocation = tables.getEntityTableDir() + "selectedWords/";
         this.findAllProperties();
         if (type.contains(ALL_WORDS)) {
             str = this.prepareForAllProperties(tables.getAllDBpediaEntitys());

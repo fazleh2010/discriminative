@@ -62,6 +62,7 @@ public class TableMain implements PropertyNotation {
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
         String type=read;
+        Tables tables =null;
         
         Set<String> checkProperties = new HashSet<String>();
         //checkProperties.add(PropertyNotation.DBP_SHORT_DESCRIPTION);
@@ -82,23 +83,26 @@ public class TableMain implements PropertyNotation {
             if (fileType.contains(DbpediaClass.FREQUENT_TRIPLE)) {
                 trainingTable.write(inputFile, outputDir, dbpediaClass, checkProperties);
             } else if (fileType.contains(DbpediaClass.ALL_POLITICIANS)) {
+                //generate alphabetic files
                 trainingTable.write(inputFile, outputDir, dbpediaClass, dbpediaClass.getPropertyEntities());
             }
-        }
-
-        if (type.contains(read)) {
-            Tables tables = new Tables(new File(inputFile).getName(), outputDir);
             
             //property generation
+            tables = new Tables(new File(inputFile).getName(), outputDir);
             String dir=dbpediaDir + output;
             tables.readSplitTables(dbpediaDir + output,dbo_Politician);
             tables.writeTable(dir + entityTable);
-            
-            /*InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
+        }
+
+        if (type.contains(read)) {
+            tables = new Tables(new File(inputFile).getName(), outputDir);
+            InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
             String checkType=InterestedWords.PROPRTY_WISE;
-            Integer numberOfEntitiesSelected=100;
+            Integer numberOfEntitiesSelected=200;
             interestedWords.prepareWords(dbo_Politician,checkType,numberOfEntitiesSelected);
-            interestedWords.getWords(10,20,checkType);*/
+            Integer wordFoundInNumberOfEntities=10;
+            Integer TopNwords=100;
+            interestedWords.getWords(wordFoundInNumberOfEntities,TopNwords,checkType);
             
             
             //Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords,numberOfEntitiesSelected,dbpediaDir+output);
