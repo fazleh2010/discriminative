@@ -1,0 +1,193 @@
+[ {
+  "objectIndex" : "19",
+  "property" : "dbp:occupation",
+  "object" : "Politician",
+  "distribution" : [ {
+    "Word" : "malaysian-JJ",
+    "multiply" : 0.1892551893,
+    "probabilities" : {
+      "probability(malaysian|Politician)" : 0.2564102564,
+      "probability(Politician|malaysian)" : 0.7380952381
+    }
+  }, {
+    "Word" : "constituency-NN",
+    "multiply" : 0.0636812327,
+    "probabilities" : {
+      "probability(constituency|Politician)" : 0.1965811966,
+      "probability(Politician|constituency)" : 0.323943662
+    }
+  }, {
+    "Word" : "party-NN",
+    "multiply" : 0.0597808624,
+    "probabilities" : {
+      "probability(party|Politician)" : 0.5213675214,
+      "probability(Politician|party)" : 0.1146616541
+    }
+  }, {
+    "Word" : "family-NN",
+    "multiply" : 0.055315471,
+    "probabilities" : {
+      "probability(family|Politician)" : 0.2051282051,
+      "probability(Politician|family)" : 0.2696629213
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.0543104624,
+    "probabilities" : {
+      "probability(member|Politician)" : 0.735042735,
+      "probability(Politician|member)" : 0.0738874895
+    }
+  }, {
+    "Word" : "deputy-JJ",
+    "multiply" : 0.0539979232,
+    "probabilities" : {
+      "probability(deputy|Politician)" : 0.2222222222,
+      "probability(Politician|deputy)" : 0.2429906542
+    }
+  }, {
+    "Word" : "minister-NN",
+    "multiply" : 0.0480869079,
+    "probabilities" : {
+      "probability(minister|Politician)" : 0.358974359,
+      "probability(Politician|minister)" : 0.1339563863
+    }
+  }, {
+    "Word" : "state-NN",
+    "multiply" : 0.0457079153,
+    "probabilities" : {
+      "probability(state|Politician)" : 0.3504273504,
+      "probability(Politician|state)" : 0.1304347826
+    }
+  }, {
+    "Word" : "indian-JJ",
+    "multiply" : 0.0433348328,
+    "probabilities" : {
+      "probability(indian|Politician)" : 0.1452991453,
+      "probability(Politician|indian)" : 0.298245614
+    }
+  }, {
+    "Word" : "seat-NN",
+    "multiply" : 0.040349831,
+    "probabilities" : {
+      "probability(seat|Politician)" : 0.2393162393,
+      "probability(Politician|seat)" : 0.1686046512
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.037301061,
+    "probabilities" : {
+      "probability(election|Politician)" : 0.3846153846,
+      "probability(Politician|election)" : 0.0969827586
+    }
+  }, {
+    "Word" : "president-NN",
+    "multiply" : 0.0343915344,
+    "probabilities" : {
+      "probability(president|Politician)" : 0.2222222222,
+      "probability(Politician|president)" : 0.1547619048
+    }
+  }, {
+    "Word" : "name-NN",
+    "multiply" : 0.0315782606,
+    "probabilities" : {
+      "probability(name|Politician)" : 0.188034188,
+      "probability(Politician|name)" : 0.1679389313
+    }
+  }, {
+    "Word" : "person-NN",
+    "multiply" : 0.0310173697,
+    "probabilities" : {
+      "probability(person|Politician)" : 0.1282051282,
+      "probability(Politician|person)" : 0.2419354839
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.0303506018,
+    "probabilities" : {
+      "probability(assembly|Politician)" : 0.4871794872,
+      "probability(Politician|assembly)" : 0.0622986037
+    }
+  }, {
+    "Word" : "australian-JJ",
+    "multiply" : 0.0271333605,
+    "probabilities" : {
+      "probability(australian|Politician)" : 0.1709401709,
+      "probability(Politician|australian)" : 0.1587301587
+    }
+  } ]
+}, {
+  "objectIndex" : "20",
+  "property" : "dbp:occupation",
+  "object" : "politician",
+  "distribution" : [ {
+    "Word" : "caucus-NN",
+    "multiply" : 0.421739274,
+    "probabilities" : {
+      "probability(caucus|politician)" : 0.8248175182,
+      "probability(politician|caucus)" : 0.5113122172
+    }
+  }, {
+    "Word" : "provincial-JJ",
+    "multiply" : 0.2969194606,
+    "probabilities" : {
+      "probability(provincial|politician)" : 0.8759124088,
+      "probability(politician|provincial)" : 0.3389830508
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.1563876001,
+    "probabilities" : {
+      "probability(legislative|politician)" : 0.9197080292,
+      "probability(politician|legislative)" : 0.1700404858
+    }
+  }, {
+    "Word" : "government-NN",
+    "multiply" : 0.1392166016,
+    "probabilities" : {
+      "probability(government|politician)" : 0.5912408759,
+      "probability(politician|government)" : 0.2354651163
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.1304695524,
+    "probabilities" : {
+      "probability(assembly|politician)" : 0.9416058394,
+      "probability(politician|assembly)" : 0.1385606874
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.1067862987,
+    "probabilities" : {
+      "probability(member|politician)" : 0.9635036496,
+      "probability(politician|member)" : 0.1108312343
+    }
+  }, {
+    "Word" : "opposition-NN",
+    "multiply" : 0.0561482313,
+    "probabilities" : {
+      "probability(opposition|politician)" : 0.2189781022,
+      "probability(politician|opposition)" : 0.2564102564
+    }
+  }, {
+    "Word" : "farmer-NN",
+    "multiply" : 0.0554416468,
+    "probabilities" : {
+      "probability(farmer|politician)" : 0.1897810219,
+      "probability(politician|farmer)" : 0.2921348315
+    }
+  }, {
+    "Word" : "position-NN",
+    "multiply" : 0.0379167489,
+    "probabilities" : {
+      "probability(position|politician)" : 0.2262773723,
+      "probability(politician|position)" : 0.1675675676
+    }
+  }, {
+    "Word" : "level-NN",
+    "multiply" : 0.0213530886,
+    "probabilities" : {
+      "probability(level|politician)" : 0.102189781,
+      "probability(politician|level)" : 0.2089552239
+    }
+  } ]
+} ]

@@ -123,6 +123,8 @@ public class InterestedWords {
             Set<String> words = this.wordHash(dbpediaEntity);
             for (String word : words) {
                 //word = word.toLowerCase().trim();
+                if(word.length()<3)
+                    continue;
                 if (TextAnalyzer.ENGLISH_STOPWORDS.contains(word)) {
                     continue;
                 }

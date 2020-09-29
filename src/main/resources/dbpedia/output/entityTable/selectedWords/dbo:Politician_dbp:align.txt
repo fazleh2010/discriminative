@@ -41,7 +41,6 @@
 4 2nd
 4 health
 4 office
-4 mp
 4 county
 4 ship
 4 state
@@ -389,7 +388,6 @@
 1 village
 1 original
 1 banner
-1 a.
 1 response
 1 latter
 1 depression

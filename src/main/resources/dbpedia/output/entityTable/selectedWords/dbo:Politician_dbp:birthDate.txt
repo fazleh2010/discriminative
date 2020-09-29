@@ -200,7 +200,6 @@
 5 incumbent
 5 four-year
 5 management
-5 mp
 5 clerk
 5 alderman
 5 fourth
@@ -209,11 +208,9 @@
 5 re-election
 4 half
 4 farm
-4 %
 4 southern
 4 ceo
 4 opposition
-4 c
 4 young
 4 township
 4 jurist
@@ -307,7 +304,6 @@
 3 point
 3 banking
 3 regiment
-3 a.
 3 spokesperson
 3 rank
 3 addition
@@ -481,7 +477,6 @@
 2 population
 2 storekeeper
 2 plant
-2 ba
 2 sea
 2 sixth
 2 involvement
@@ -492,7 +487,6 @@
 2 charge
 2 right
 2 food
-2 dl
 2 trail
 2 parish
 2 amalgamation
@@ -638,7 +632,6 @@
 1 legalization
 1 musician
 1 website
-1 m
 1 co-chair
 1 blue
 1 surgery
@@ -732,7 +725,6 @@
 1 wendy
 1 nigerian
 1 air
-1 ō
 1 mason
 1 top
 1 founder-editor
@@ -1048,13 +1040,10 @@
 1 mater
 1 radiological
 1 24th
-1 ad
 1 ancestor
-1 ah
 1 know-nothing
 1 peach
 1 personal
-1 c.
 1 panic
 1 ਗਾਬੜੀਆ
 1 route
@@ -1072,8 +1061,6 @@
 1 takeover
 1 sustainable
 1 labourer
-1 bl
-1 d.
 1 great-great
 1 liquor
 1 35th
@@ -1118,7 +1105,6 @@
 1 macadamizing
 1 metropolitan
 1 three-time
-1 el
 1 enforcement
 1 conviction
 1 68th
@@ -1129,7 +1115,6 @@
 1 beginning
 1 landlord
 1 purchasing
-1 fl
 1 commonality
 1 origin
 1 outfitter
@@ -1160,7 +1145,6 @@
 1 winger
 1 form
 1 correspondent
-1 hd
 1 bid
 1 forestry
 1 calendino
@@ -1283,7 +1267,6 @@
 1 outdoor
 1 witness
 1 extraordinary
-1 pc
 1 privy
 1 due
 1 then-record
@@ -1309,7 +1292,6 @@
 1 recreation
 1 telangana
 1 intention
-1 د
 1 bathhouse
 1 miller
 1 bsc
@@ -1347,12 +1329,10 @@
 1 aaden
 1 democracy
 1 monster
-1 td
 1 bud
 1 secretary-treasurer
 1 akel
 1 pulp
-1 tv
 1 commercial
 1 wool
 1 aide
@@ -1372,7 +1352,6 @@
 1 gardener
 1 bapt
 1 الشامسي
-1 vd
 1 at-large
 1 ranch
 1 psychiatrist

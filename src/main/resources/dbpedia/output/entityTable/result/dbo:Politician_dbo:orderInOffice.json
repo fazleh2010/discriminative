@@ -1,5 +1,52 @@
 [ {
-  "objectIndex" : "15",
+  "objectIndex" : "25",
+  "property" : "dbo:orderInOffice",
+  "object" : "Ontario MPP",
+  "distribution" : [ {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.1028888009,
+    "probabilities" : {
+      "probability(legislative|Ontario MPP)" : 0.977443609,
+      "probability(Ontario MPP|legislative)" : 0.1052631579
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.1005588111,
+    "probabilities" : {
+      "probability(conservative|Ontario MPP)" : 0.6466165414,
+      "probability(Ontario MPP|conservative)" : 0.1555153707
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.0862645412,
+    "probabilities" : {
+      "probability(assembly|Ontario MPP)" : 0.977443609,
+      "probability(Ontario MPP|assembly)" : 0.0882552614
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.0558169325,
+    "probabilities" : {
+      "probability(member|Ontario MPP)" : 0.962406015,
+      "probability(Ontario MPP|member)" : 0.0579972814
+    }
+  }, {
+    "Word" : "cabinet-NN",
+    "multiply" : 0.0365655781,
+    "probabilities" : {
+      "probability(cabinet|Ontario MPP)" : 0.3007518797,
+      "probability(Ontario MPP|cabinet)" : 0.1215805471
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.0226742973,
+    "probabilities" : {
+      "probability(former|Ontario MPP)" : 0.3759398496,
+      "probability(Ontario MPP|former)" : 0.0603136309
+    }
+  } ]
+}, {
+  "objectIndex" : "26",
   "property" : "dbo:orderInOffice",
   "object" : "Member of the Legislative Assembly of Alberta",
   "distribution" : [ {

@@ -42,7 +42,6 @@
 17 by-election
 17 officer
 17 15th
-17 mp
 16 position
 15 labour
 15 incumbent
@@ -125,7 +124,6 @@
 6 life
 6 re-election
 5 year
-5 %
 5 police
 5 educator
 5 margin
@@ -162,7 +160,6 @@
 4 important
 4 principal
 4 lecturer
-4 a.
 4 bar
 4 brother
 4 civil
@@ -274,11 +271,7 @@
 2 defence
 2 result
 2 parliamentarian
-2 b
-2 c
 2 committee
-2 k
-2 p
 2 swing
 2 specialising
 2 comptroller
@@ -355,7 +348,6 @@
 2 der
 2 colonial
 2 league
-2 ao
 2 storekeeper
 2 sixth
 2 farming
@@ -383,7 +375,6 @@
 2 literature
 2 dalit
 2 coalition
-2 m.
 2 5th
 2 pradesh
 2 use
@@ -481,7 +472,6 @@
 1 170th
 1 sale
 1 restaurateur
-1 r
 1 militarized
 1 information
 1 6nr
@@ -519,7 +509,6 @@
 1 53-year-old
 1 campaigner
 1 six-time
-1 ଆଚ
 1 runholder
 1 ˈlaɪən
 1 peak
@@ -650,7 +639,6 @@
 1 unable
 1 statehood
 1 scheduling
-1 ɑː
 1 budget
 1 lumberman
 1 eastern
@@ -681,7 +669,6 @@
 1 बाबा
 1 aspley
 1 engineer
-1 ಗಪ
 1 urban
 1 disobedience
 1 guidance
@@ -706,10 +693,8 @@
 1 pro-government
 1 28th
 1 judicial
-1 ଳ
 1 passenger
 1 tiny
-1 ଶ
 1 1437-crore
 1 consultation
 1 participation
@@ -731,7 +716,6 @@
 1 physician
 1 planner
 1 tire
-1 ୟ
 1 editor
 1 lpg
 1 initial
@@ -787,11 +771,9 @@
 1 trip
 1 dental
 1 addition
-1 ad
 1 milk
 1 english-born
 1 personal
-1 ap
 1 fold
 1 lesbian
 1 route
@@ -800,7 +782,6 @@
 1 command.he
 1 sdp
 1 dyanamic
-1 bc
 1 treatment
 1 strong
 1 influential
@@ -825,14 +806,11 @@
 1 nunmehr
 1 essential
 1 namatijra
-1 ds
 1 chinese
 1 nightcliff
-1 ಕ
 1 bird
 1 advocacy
 1 landmark
-1 ಠ
 1 chairperson
 1 consultancy
 1 seniormost
@@ -864,7 +842,6 @@
 1 beach
 1 overwhelming
 1 faction
-1 ନନ
 1 qualified
 1 dmk
 1 advanced
@@ -885,7 +862,6 @@
 1 traditional
 1 raiganj
 1 biological
-1 jd
 1 raut
 1 singh
 1 acting
@@ -915,18 +891,15 @@
 1 split
 1 firefighter
 1 opponent
-1 md
 1 tornérhielm
 1 kadapa
 1 different
 1 chronic
 1 compositor
-1 mm
 1 railwayman
 1 contest
 1 3rd
 1 author
-1 ms
 1 dry
 1 pressure
 1 heart
@@ -955,7 +928,6 @@
 1 nature
 1 self-government
 1 recycling
-1 pc
 1 suburb
 1 writer
 1 breast
@@ -992,7 +964,6 @@
 1 british-born
 1 relationship
 1 reverent
-1 st
 1 noblewoman
 1 honour
 1 star
@@ -1020,7 +991,6 @@
 1 raghuvansh
 1 thrice
 1 balonne
-1 vd
 1 ranch
 1 chancellor
 1 4-july-1992

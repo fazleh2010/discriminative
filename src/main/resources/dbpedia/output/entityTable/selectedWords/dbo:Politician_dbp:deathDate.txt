@@ -246,7 +246,6 @@
 1 communist
 1 german
 1 electronics
-1 င
 1 annexation
 1 numerous
 1 branch
@@ -260,7 +259,6 @@
 1 knowledge
 1 prime
 1 winp
-1 ad
 1 ancestor
 1 know-nothing
 1 loyal
@@ -273,7 +271,6 @@
 1 sawmill
 1 conception
 1 wing
-1 ba
 1 southern
 1 12th
 1 independent
@@ -294,7 +291,6 @@
 1 schooner
 1 close
 1 spare
-1 c
 1 medicine
 1 right
 1 natural-born
@@ -337,7 +333,6 @@
 1 trained
 1 purchasing
 1 train-master
-1 fl
 1 commonality
 1 additional
 1 deed
@@ -479,7 +474,6 @@
 1 burning
 1 clerk
 1 witness
-1 pc
 1 privy
 1 then-record
 1 writer
@@ -551,7 +545,6 @@
 1 burmese
 1 solicitor
 1 collection
-1 vd
 1 naval
 1 consul
 1 page
@@ -669,7 +662,6 @@
 1 profit
 1 deputy-governor
 1 player
-1 ??
 1 factory
 1 philosopher
 1 governorship
@@ -679,7 +671,6 @@
 1 trader
 1 increase
 1 feudal
-1 a.
 1 controversy
 1 latter
 1 speakership

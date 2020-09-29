@@ -14,7 +14,6 @@
 201 liberal
 166 american
 143 state
-131 mp
 126 labour
 122 city
 118 death
@@ -119,7 +118,6 @@
 23 branch
 23 colonial
 23 3rd
-22 %
 22 independent
 22 work
 22 indian
@@ -248,9 +246,7 @@
 10 science
 10 organiser
 10 administration
-10 ao
 10 battle
-10 dl
 10 cotton
 10 province
 10 military
@@ -273,7 +269,6 @@
 9 wealthy
 9 nomination
 9 whip
-9 ba
 9 proprietor
 9 7th
 9 century
@@ -302,7 +297,6 @@
 8 whig
 8 veteran
 8 job
-8 a.
 8 civic
 8 nation
 8 diploma
@@ -449,7 +443,6 @@
 5 settlement
 5 tenth
 5 control
-5 qc
 5 key
 5 conscientious
 5 previous
@@ -458,7 +451,6 @@
 5 presidential
 5 player
 4 surgeon
-4 b
 4 non-consecutive
 4 representation
 4 magazine
@@ -538,7 +530,6 @@
 4 married
 4 student
 4 social
-4 pc
 4 rancher
 4 apprenticeship
 4 great-grandfather
@@ -565,7 +556,6 @@
 3 strategist
 3 wing
 3 laude
-3 p
 3 blue
 3 authority
 3 regional
@@ -705,7 +695,6 @@
 3 front
 3 manufacturing
 3 addition
-3 ac
 3 chemical
 3 sdp
 3 charge
@@ -1010,7 +999,6 @@
 2 upstate
 2 abuse
 2 column
-2 cm
 2 magna
 2 advocacy
 2 prospective
@@ -1036,7 +1024,6 @@
 2 restaurant
 2 snp
 2 moderator
-2 md
 2 entry
 2 signatory
 2 mixed
@@ -1121,21 +1108,12 @@
 1 o'malley
 1 caretaker
 1 salt
-1 c
-1 d
-1 e
 1 bencher
-1 g
-1 h
-1 k
-1 m
 1 straight
 1 freshman
 1 170th
-1 r
 1 oatley.greene
 1 militarized
-1 w
 1 unprecedented
 1 toxicologist
 1 novel
@@ -1158,7 +1136,6 @@
 1 glass-blower
 1 campaigning
 1 mobile
-1 ಆರ
 1 peak
 1 portrait
 1 namesake
@@ -1196,7 +1173,6 @@
 1 coated
 1 yadav
 1 inselkommandant
-1 ō
 1 injured
 1 mason
 1 marquess
@@ -1351,7 +1327,6 @@
 1 equal
 1 counterintelligence
 1 havelock-allan
-1 ಗಪ
 1 disobedience
 1 fund
 1 infrastructure
@@ -1522,7 +1497,6 @@
 1 talk-o
 1 bureaucrat
 1 1906and
-1 ନନ
 1 dmk
 1 ˈboʊrɪŋ
 1 thirteenth
@@ -1637,11 +1611,9 @@
 1 lone
 1 landfill
 1 years.he
-1 1b
 1 mil
 1 partition
 1 relationship
-1 1n
 1 controller
 1 renewal
 1 84th
@@ -1658,7 +1630,6 @@
 1 gourmet
 1 ice
 1 qso
-1 3a
 1 barr
 1 stationary
 1 surprise
@@ -2039,9 +2010,7 @@
 1 bavarian-american
 1 sprawling
 1 scholefield
-1 ଳ
 1 moor
-1 ଶ
 1 style
 1 participation
 1 assault
@@ -2117,7 +2086,6 @@
 1 plane
 1 horseman
 1 gaol
-1 b.
 1 bacup
 1 offer
 1 neighbourhood
@@ -2129,7 +2097,6 @@
 1 peach
 1 textile
 1 out-going
-1 ap
 1 eventful
 1 folksy
 1 plant
@@ -2149,7 +2116,6 @@
 1 cardboard
 1 foot
 1 completion
-1 ch
 1 sex
 1 alternate
 1 biography
@@ -2172,17 +2138,12 @@
 1 humorous
 1 nightcliff
 1 wedlock
-1 ಕ
 1 startup
 1 amalgamation
-1 ಠ
 1 macadamizing
 1 consultancy
 1 pastoralist
-1 el
-1 ಬ
 1 alterman
-1 ಯ
 1 68th
 1 worsted
 1 reeve
@@ -2235,13 +2196,11 @@
 1 plate
 1 bankruptcy
 1 disposal
-1 kb
 1 belief
 1 programme
 1 52a
 1 present-day
 1 politicianwho
-1 kt
 1 fowl
 1 corporate
 1 slender
@@ -2252,14 +2211,11 @@
 1 attache
 1 138th
 1 sheriff-substitute
-1 ma
 1 tornérhielm
 1 imposition
 1 claim
-1 mm
 1 incoming
 1 three-decade
-1 mr
 1 spa
 1 lush
 1 headquarters
@@ -2277,10 +2233,8 @@
 1 oil
 1 aufgrund
 1 ratbag
-1 og
 1 reserve
 1 candidacy
-1 om
 1 fight
 1 brief
 1 deacon
@@ -2315,12 +2269,10 @@
 1 consolidated
 1 brickfield
 1 shooter
-1 né
 1 bridge
 1 device
 1 commentary
 1 motor
-1 rt
 1 primitive
 1 seed
 1 cabin
@@ -2332,14 +2284,12 @@
 1 civilian
 1 preferred
 1 mackinder
-1 st
 1 lithographic
 1 noblewoman
 1 verderer
 1 decision
 1 ogmore
 1 maker
-1 td
 1 chartist
 1 sect
 1 confidante
@@ -2347,7 +2297,6 @@
 1 mudgeeraba
 1 undergraduate
 1 story
-1 tv
 1 joint
 1 wragg
 1 excellence
@@ -2362,7 +2311,6 @@
 1 purchaser
 1 divisional
 1 यादव
-1 vd
 1 election.gary
 1 carpet
 1 60th
@@ -2386,7 +2334,6 @@
 1 card-carrying
 1 vererbliche
 1 gbe
-1 xi
 1 politiker
 1 litigation
 1 neo-gothic

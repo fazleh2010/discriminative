@@ -84,7 +84,6 @@
 6 barrister
 6 re-election
 6 trade
-5 %
 5 community
 5 newspaper
 5 official
@@ -174,7 +173,6 @@
 3 football
 3 7th
 3 several
-3 mp
 3 3rd
 3 author
 3 position
@@ -253,11 +251,9 @@
 2 administrator
 2 eighth
 2 prosecutor
-2 a.
 2 various
 2 front
 2 rank
-2 ba
 2 sixth
 2 nickname
 2 charge
@@ -343,8 +339,6 @@
 1 parliamentarian
 1 chemistry
 1 committee
-1 n
-1 r
 1 turbulent
 1 militarized
 1 third-ranking
@@ -591,15 +585,12 @@
 1 reconstructive
 1 active
 1 سندھو
-1 ao
-1 ap
 1 mill
 1 route
 1 strong
 1 influential
 1 118th
 1 director-general
-1 bl
 1 civic
 1 35th
 1 rican
@@ -609,8 +600,6 @@
 1 hearing
 1 wheat
 1 ꭴꭹꮝꮤ
-1 ch
-1 cm
 1 leftist
 1 partner
 1 ineligible
@@ -679,7 +668,6 @@
 1 maternity
 1 continuous
 1 opponent
-1 md
 1 host
 1 international
 1 level
@@ -707,7 +695,6 @@
 1 crash
 1 observer
 1 bank
-1 qc
 1 province
 1 scandal
 1 na-130
@@ -718,7 +705,6 @@
 1 then-incumbent
 1 spray
 1 nine-person
-1 د
 1 two-year
 1 funeral
 1 biologist
@@ -730,7 +716,6 @@
 1 activity
 1 thirty-second
 1 years.he
-1 1b
 1 christian
 1 great-grandfather
 1 free
@@ -742,7 +727,6 @@
 1 decision
 1 renewal
 1 entrepreneur
-1 td
 1 extensive
 1 face
 1 mudgeeraba
@@ -752,7 +736,6 @@
 1 high-rank
 1 project
 1 advocate
-1 3a
 1 hi-q
 1 military
 1 tobacco
@@ -762,7 +745,6 @@
 1 fifty-second
 1 gardener
 1 thrice
-1 vd
 1 cavalry
 1 chancellor
 1 naval

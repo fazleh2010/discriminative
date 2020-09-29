@@ -89,7 +89,6 @@
 33 county
 31 house
 31 northern
-31 mp
 31 activist
 30 session
 30 community
@@ -147,7 +146,6 @@
 21 director
 21 high
 21 secretary
-20 %
 20 4th
 20 many
 20 work
@@ -246,7 +244,6 @@
 12 trail
 12 responsible
 12 territory
-12 a.
 12 front
 12 bar
 12 20th
@@ -349,8 +346,6 @@
 8 mother
 8 engineering
 8 whip
-8 ao
-8 ba
 8 national
 8 33rd
 8 rancher
@@ -392,7 +387,6 @@
 7 care
 7 philanthropist
 7 addition
-7 cm
 7 battle
 7 7th
 7 burgess
@@ -645,8 +639,6 @@
 3 alleged
 3 miner
 3 commission
-3 b
-3 c
 3 printing
 3 good
 3 scholarship
@@ -791,14 +783,12 @@
 3 promotion
 3 settlement
 3 commentator
-3 m.
 3 present-day
 3 different
 3 contest
 3 eldest
 3 total
 3 brief
-3 pc
 3 friend
 3 recent
 3 american-born
@@ -827,7 +817,6 @@
 2 gold
 2 result
 2 canning
-2 l
 2 blue
 2 combined
 2 prominence
@@ -1109,14 +1098,12 @@
 2 essayist
 2 59th
 2 spokesperson
-2 ac
 2 ancestor
 2 storekeeper
 2 upstate
 2 sailor
 2 actor
 2 river
-2 dl
 2 shipbuilding
 2 japanese
 2 pastoralist
@@ -1145,7 +1132,6 @@
 2 moderator
 2 communal
 2 plaza
-2 md
 2 three-decade
 2 entry
 2 bow
@@ -1168,7 +1154,6 @@
 2 decision
 2 one
 2 maker
-2 tv
 2 fifteenth
 2 extreme
 2 at-large
@@ -1233,14 +1218,9 @@
 1 provocative
 1 salt
 1 licensed
-1 e
-1 g
-1 h
 1 blood
 1 69th
-1 p
 1 170th
-1 r
 1 suite
 1 militarized
 1 unprecedented
@@ -1278,7 +1258,6 @@
 1 fatal
 1 teɪˈtə
 1 nobleman
-1 ଆଚ
 1 postmaster
 1 singaporean
 1 runholder
@@ -1290,7 +1269,6 @@
 1 four-term
 1 peak
 1 lucrative
-1 ಆರ
 1 versatile
 1 judice
 1 gsa
@@ -1330,7 +1308,6 @@
 1 real-estate
 1 winemaker
 1 matter
-1 ō
 1 instant
 1 injured
 1 moonilal
@@ -1512,7 +1489,6 @@
 1 multi-family
 1 disposable
 1 optometrist
-1 ಗಪ
 1 fund
 1 wiriyachai
 1 29a
@@ -1662,7 +1638,6 @@
 1 schooner
 1 so-called
 1 chip
-1 ണന
 1 ꭴꭹꮝꮤ
 1 retailer
 1 50-year
@@ -1712,7 +1687,6 @@
 1 beach
 1 baby
 1 bureaucrat
-1 ନନ
 1 brothers
 1 attempt
 1 drapery
@@ -1848,7 +1822,6 @@
 1 examiner
 1 lone
 1 association
-1 1b
 1 mil
 1 nominal
 1 christian
@@ -1856,16 +1829,13 @@
 1 freighter
 1 operating
 1 relationship
-1 1n
 1 honour
 1 controller
 1 accordance
 1 auditor
 1 crate
 1 appeal
-1 2a
 1 dedicate
-1 2c
 1 extensive
 1 face
 1 household
@@ -1879,7 +1849,6 @@
 1 reputation
 1 arena
 1 parkland
-1 3a
 1 presentation
 1 barr
 1 probate
@@ -1901,7 +1870,6 @@
 1 coquina
 1 plumbing
 1 balonne
-1 4b
 1 elected
 1 vital
 1 eccentric
@@ -2326,9 +2294,7 @@
 1 liver
 1 suicide
 1 sprawling
-1 ଳ
 1 metro
-1 ଶ
 1 berfore
 1 excessive
 1 calgary-east
@@ -2345,7 +2311,6 @@
 1 physics
 1 financing
 1 architecture
-1 ୟ
 1 grip
 1 electricity
 1 glassware
@@ -2401,7 +2366,6 @@
 1 at-risk
 1 plane
 1 hokule'a
-1 b.
 1 mutiny
 1 rana
 1 dhule
@@ -2410,7 +2374,6 @@
 1 neglect
 1 mater
 1 delimitation
-1 ad
 1 supremacy
 1 league
 1 hierarchy
@@ -2434,7 +2397,6 @@
 1 foot
 1 humanity
 1 academical
-1 ch
 1 sex
 1 alternate
 1 magna
@@ -2453,24 +2415,18 @@
 1 exploratory
 1 wedlock
 1 shipping
-1 ಕ
 1 startup
 1 criticism
 1 geologist
 1 pheu
-1 ಠ
 1 image
 1 macadamizing
 1 consultancy
 1 three-time
-1 el
 1 vice-minister
 1 blight
-1 ಬ
-1 ಯ
 1 outgrowth
 1 burrinjuck
-1 fa
 1 debt
 1 princeton-based
 1 little
@@ -2478,7 +2434,6 @@
 1 salor
 1 trained
 1 murmu
-1 fl
 1 ex-deputy
 1 district.he
 1 packing
@@ -2522,7 +2477,6 @@
 1 seven-term
 1 conservation
 1 untiring
-1 jd
 1 raut
 1 doctrine
 1 freng
@@ -2535,7 +2489,6 @@
 1 world
 1 library
 1 dalit
-1 kb
 1 third-term
 1 customary
 1 c.eng
@@ -2563,7 +2516,6 @@
 1 fur
 1 constant
 1 half-brother
-1 lp
 1 bribe
 1 lakshmi
 1 dist
@@ -2580,11 +2532,9 @@
 1 antique
 1 tolerance
 1 parenting
-1 mm
 1 incoming
 1 waterside
 1 indecent
-1 ms
 1 wrench
 1 headquarters
 1 subcommittee
@@ -2623,15 +2573,11 @@
 1 penge
 1 selfless
 1 dormant
-1 pd
 1 hereditary
-1 pl
 1 byelection
-1 pr
 1 revitalization
 1 al-muslimin
 1 behalf
-1 qc
 1 anglo-french
 1 na-130
 1 geography
@@ -2650,8 +2596,6 @@
 1 mission
 1 bsc
 1 consolidated
-1 ri
-1 rj
 1 shooter
 1 mercantile
 1 bridge
@@ -2660,7 +2604,6 @@
 1 in2009
 1 royalist
 1 sub
-1 rs
 1 aaa-rated
 1 owaisi
 1 officeholder
@@ -2669,23 +2612,18 @@
 1 eighteenth
 1 extended
 1 thirty-second
-1 sc
 1 ntuci
 1 defunct
 1 doot-nee
 1 civilian
-1 sp
-1 st
 1 necessary
 1 beloved
 1 regidor
 1 bud
-1 td
 1 sect
 1 dealer
 1 rower
 1 story
-1 ts
 1 bus
 1 excellence
 1 brownback
@@ -2794,7 +2732,6 @@
 1 harbor
 1 mountain-touchwood
 1 199th
-1 ān
 1 sales
 1 maharaja
 1 hentley

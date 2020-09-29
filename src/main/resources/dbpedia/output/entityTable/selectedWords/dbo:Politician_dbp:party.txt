@@ -28,7 +28,6 @@
 21 region
 20 family
 20 political
-19 mp
 19 father
 19 council
 19 death
@@ -110,7 +109,6 @@
 6 re-election
 6 trade
 5 year
-5 %
 5 newspaper
 5 official
 5 warden
@@ -228,7 +226,6 @@
 3 regiment
 3 unseated
 3 court
-3 ba
 3 charge
 3 founder
 3 staff
@@ -263,7 +260,6 @@
 2 role
 2 weekly
 2 commission
-2 o
 2 consultant
 2 grocery
 2 good
@@ -414,12 +410,9 @@
 1 parliamentarian
 1 midterm
 1 address
-1 f
-1 n
 1 printing
 1 unimproved
 1 co-chair
-1 r
 1 fifth
 1 reader
 1 rural
@@ -709,7 +702,6 @@
 1 banner
 1 one-term
 1 prosecutor
-1 a.
 1 first-generation
 1 latter
 1 depression
@@ -738,7 +730,6 @@
 1 sea
 1 civic
 1 sailor
-1 bs
 1 servant
 1 involvement
 1 farming
@@ -749,7 +740,6 @@
 1 banff-cochrane
 1 column
 1 medicine
-1 cm
 1 9th
 1 march
 1 survivor
@@ -817,7 +807,6 @@
 1 sense
 1 vacant
 1 birthplace
-1 jd
 1 doctrine
 1 trading
 1 private-practice
@@ -834,7 +823,6 @@
 1 illness
 1 highness
 1 side
-1 kt
 1 88th
 1 precinct
 1 corporate
@@ -858,7 +846,6 @@
 1 professor
 1 five-year
 1 null
-1 ne
 1 magistrate
 1 survey
 1 bajhang-1
@@ -920,7 +907,6 @@
 1 progress
 1 rower
 1 cust
-1 tv
 1 alumnus
 1 aide
 1 bishop
@@ -935,7 +921,6 @@
 1 mla
 1 epidemic
 1 autobiographical
-1 vd
 1 ranch
 1 outspoken
 1 accountancy

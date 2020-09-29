@@ -1,5 +1,5 @@
 [ {
-  "objectIndex" : "16",
+  "objectIndex" : "31",
   "property" : "dbo:nationality",
   "object" : "http://dbpedia.org/resource/India",
   "distribution" : [ {
@@ -71,13 +71,6 @@
     "probabilities" : {
       "probability(former|http://dbpedia.org/resource/India)" : 0.3817504655,
       "probability(http://dbpedia.org/resource/India|former)" : 0.4446854664
-    }
-  }, {
-    "Word" : "a.-NN",
-    "multiply" : 0.1334340219,
-    "probabilities" : {
-      "probability(a.|http://dbpedia.org/resource/India)" : 0.2923649907,
-      "probability(http://dbpedia.org/resource/India|a.)" : 0.4563953488
     }
   }, {
     "Word" : "minister-NN",
@@ -178,6 +171,13 @@
       "probability(http://dbpedia.org/resource/India|social)" : 0.4571428571
     }
   }, {
+    "Word" : "15th-JJ",
+    "multiply" : 0.0264845851,
+    "probabilities" : {
+      "probability(15th|http://dbpedia.org/resource/India)" : 0.0297951583,
+      "probability(http://dbpedia.org/resource/India|15th)" : 0.8888888889
+    }
+  }, {
     "Word" : "chief-JJ",
     "multiply" : 0.0256700375,
     "probabilities" : {
@@ -192,13 +192,6 @@
       "probability(http://dbpedia.org/resource/India|cabinet)" : 0.4411764706
     }
   }, {
-    "Word" : "mp-NN",
-    "multiply" : 0.0237816836,
-    "probabilities" : {
-      "probability(mp|http://dbpedia.org/resource/India)" : 0.1154562384,
-      "probability(http://dbpedia.org/resource/India|mp)" : 0.2059800664
-    }
-  }, {
     "Word" : "son-NN",
     "multiply" : 0.0210079143,
     "probabilities" : {
@@ -207,7 +200,7 @@
     }
   } ]
 }, {
-  "objectIndex" : "17",
+  "objectIndex" : "32",
   "property" : "dbo:nationality",
   "object" : "http://dbpedia.org/resource/Australia",
   "distribution" : [ {
@@ -358,13 +351,6 @@
       "probability(http://dbpedia.org/resource/Australia|electorate)" : 0.9302325581
     }
   }, {
-    "Word" : "mp-NN",
-    "multiply" : 0.0673777467,
-    "probabilities" : {
-      "probability(mp|http://dbpedia.org/resource/Australia)" : 0.1988304094,
-      "probability(http://dbpedia.org/resource/Australia|mp)" : 0.3388704319
-    }
-  }, {
     "Word" : "position-NN",
     "multiply" : 0.0665450579,
     "probabilities" : {
@@ -419,13 +405,6 @@
     "probabilities" : {
       "probability(teacher|http://dbpedia.org/resource/Australia)" : 0.0604288499,
       "probability(http://dbpedia.org/resource/Australia|teacher)" : 0.6888888889
-    }
-  }, {
-    "Word" : "a.-NN",
-    "multiply" : 0.0409413391,
-    "probabilities" : {
-      "probability(a.|http://dbpedia.org/resource/Australia)" : 0.1656920078,
-      "probability(http://dbpedia.org/resource/Australia|a.)" : 0.2470930233
     }
   }, {
     "Word" : "union-NN",

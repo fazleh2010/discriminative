@@ -50,7 +50,6 @@
 55 public
 52 businessman
 52 federal
-52 mp
 52 degree
 50 chairman
 50 malaysian
@@ -114,7 +113,6 @@
 24 labor
 24 mla
 24 board
-23 %
 23 graduate
 23 secretary
 22 vote
@@ -192,7 +190,6 @@
 13 environment
 13 19th
 13 nomination
-13 ao
 13 civil
 13 author
 13 north
@@ -351,7 +348,6 @@
 7 job
 7 bar
 7 civic
-7 cm
 7 food
 7 football
 7 century
@@ -399,12 +395,10 @@
 6 non-profit
 6 organization
 6 turkish
-6 a.
 6 colonial
 6 rank
 6 maltese
 6 delegate
-6 pc
 6 upper
 6 secondary
 6 commercial
@@ -568,8 +562,6 @@
 4 front
 4 spokesperson
 4 neighbourhood
-4 ac
-4 ba
 4 abuse
 4 battle
 4 advocacy
@@ -728,7 +720,6 @@
 3 league
 3 subsequent
 3 magna
-3 dl
 3 amalgamation
 3 little
 3 collector
@@ -772,7 +763,6 @@
 2 hand
 2 licensed
 2 blood
-2 m
 2 component
 2 sale
 2 combined
@@ -1026,7 +1016,6 @@
 2 language
 2 pheu
 2 pastoralist
-2 el
 2 origin
 2 personality
 2 proprietor
@@ -1054,13 +1043,11 @@
 2 86th
 2 cousin
 2 scene
-2 qc
 2 recent
 2 recreation
 2 ole
 2 bsc
 2 two-year
-2 rj
 2 lifelong
 2 ph.d.
 2 magnate
@@ -1068,13 +1055,10 @@
 2 decision
 2 mudgeeraba
 2 bus
-2 tv
 2 aide
-2 uc
 2 failure
 2 60th
 2 wheelchair
-2 lǐ
 2 litigation
 2 compensation
 2 road
@@ -1104,7 +1088,6 @@
 2 dignity
 2 schooling
 1 ak47
-1 င
 1 hamlet
 1 surgeon
 1 hall
@@ -1146,16 +1129,10 @@
 1 directly-elected
 1 provocative
 1 caretaker
-1 c
-1 d
 1 криве́нко
-1 f
-1 g
 1 natural-born
 1 69th
-1 n
 1 printing
-1 o
 1 freshman
 1 suite
 1 unprecedented
@@ -1187,7 +1164,6 @@
 1 campaigning
 1 mobile
 1 four-term
-1 ಆರ
 1 versatile
 1 namesake
 1 puntland
@@ -1235,12 +1211,10 @@
 1 southeast
 1 real-estate
 1 circuit
-1 ఉమ
 1 e10
 1 five-inch
 1 guerrilla
 1 nigerian
-1 ō
 1 rapper
 1 moonilal
 1 fèngqiān
@@ -1314,7 +1288,6 @@
 1 supply
 1 bahubali
 1 unimportant
-1 −
 1 integrity
 1 crook
 1 palsy
@@ -1538,7 +1511,6 @@
 1 so-called
 1 chip
 1 عيديد
-1 周
 1 demotion
 1 50-year
 1 possible
@@ -1664,7 +1636,6 @@
 1 populous
 1 redrawn
 1 asbestos
-1 .3
 1 fralie
 1 plumber
 1 evangelist
@@ -1718,7 +1689,6 @@
 1 gunner
 1 male
 1 maternal
-1 ਲਰ
 1 non-governmental
 1 shipyard
 1 respectable
@@ -1732,7 +1702,6 @@
 1 middle
 1 84th
 1 crate
-1 2a
 1 household
 1 ranking
 1 respected
@@ -2245,11 +2214,9 @@
 1 preparatory
 1 mater
 1 gang
-1 ap
 1 panic
 1 plastic
 1 storekeeper
-1 au
 1 chemical
 1 trucker
 1 sawmill
@@ -2258,11 +2225,9 @@
 1 sdp
 1 takeover
 1 homeland
-1 bl
 1 dead
 1 reluctance
 1 sailor
-1 bs
 1 responsibility
 1 sudden
 1 cardboard
@@ -2271,7 +2236,6 @@
 1 innovation
 1 academical
 1 sex
-1 cn
 1 forgery
 1 lakeshore
 1 voter
@@ -2289,17 +2253,12 @@
 1 image
 1 macadamizing
 1 consultancy
-1 ಬ
-1 ಯ
 1 68th
-1 g7
 1 piece
 1 burrinjuck
-1 fa
 1 mediator
 1 debt
 1 salor
-1 h.
 1 regulatory
 1 ex-deputy
 1 parade
@@ -2314,7 +2273,6 @@
 1 councilwoman
 1 کھوسہ
 1 living
-1 i.
 1 arch-critic
 1 skating
 1 punjabi
@@ -2325,7 +2283,6 @@
 1 pathologist
 1 realm
 1 attaché
-1 hd
 1 hellenic
 1 burgess
 1 merger
@@ -2364,14 +2321,12 @@
 1 ability
 1 programme
 1 fatherless
-1 km
 1 calgary-egmont
 1 52a
 1 report
 1 trinity
 1 transaction
 1 constant
-1 lp
 1 moderator
 1 federal-provincial
 1 communal
@@ -2383,7 +2338,6 @@
 1 limit
 1 petroleum
 1 tolerance
-1 mm
 1 toxic
 1 incoming
 1 هاشي
@@ -2395,7 +2349,6 @@
 1 five-year
 1 eldest
 1 intercity
-1 ne
 1 tennessee-based
 1 magistrate
 1 code
@@ -2420,9 +2373,7 @@
 1 dormant
 1 maple
 1 luxury
-1 pl
 1 byelection
-1 r2
 1 strategic
 1 sikh
 1 revitalization
@@ -2442,7 +2393,6 @@
 1 horse
 1 mission
 1 consolidated
-1 ri
 1 shooter
 1 singular
 1 aaa-rated
@@ -2471,7 +2421,6 @@
 1 cricket
 1 undergraduate
 1 sinlapa-a-cha
-1 ts
 1 joint
 1 excellence
 1 brownback
@@ -2506,7 +2455,6 @@
 1 corrupt
 1 reading
 1 stone
-1 xi
 1 statistician
 1 ˈkuːtʃ
 1 politiker
@@ -2530,7 +2478,6 @@
 1 عثمان
 1 o'farrell-stoner
 1 ascension
-1 zp
 1 unemployment
 1 nationwide
 1 coveted
@@ -2554,11 +2501,9 @@
 1 chheng
 1 حسين
 1 199th
-1 ān
 1 argentine
 1 finland.turunen
 1 criminal
-1 yù
 1 kauhava
 1 individual
 1 stranded

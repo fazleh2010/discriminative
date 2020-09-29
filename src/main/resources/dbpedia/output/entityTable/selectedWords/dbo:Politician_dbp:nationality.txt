@@ -16,7 +16,6 @@
 18 district
 18 political
 16 indian
-15 mp
 14 parliament
 14 party
 13 liberal
@@ -96,7 +95,6 @@
 5 mla
 5 father
 5 barrister
-4 %
 4 police
 4 post
 4 female
@@ -109,7 +107,6 @@
 4 co-operative
 4 lok
 4 daughter
-4 ac
 4 active
 4 business
 4 company
@@ -165,7 +162,6 @@
 3 major
 3 part
 3 court
-3 ao
 3 brother
 3 fighter
 3 incumbent
@@ -337,14 +333,11 @@
 1 weekly
 1 swimming
 1 elevated
-1 d
 1 eight-year
 1 swing
-1 r
 1 sale
 1 specialising
 1 turbulent
-1 y
 1 information
 1 6nr
 1 acceptable
@@ -606,7 +599,6 @@
 1 designer
 1 increase
 1 landslide
-1 a.
 1 entertainer
 1 front
 1 scottish-born
@@ -624,7 +616,6 @@
 1 rank
 1 diverse
 1 pamphlet
-1 ad
 1 bill
 1 personal
 1 subsidiary
@@ -636,7 +627,6 @@
 1 folk
 1 consideration
 1 vice-chancellor
-1 ba
 1 strong
 1 sustainable
 1 dead
@@ -731,7 +721,6 @@
 1 fiscal
 1 specialist
 1 true
-1 nf
 1 pro-pakistani
 1 coal
 1 birthday
@@ -761,7 +750,6 @@
 1 oratory
 1 crash
 1 firm
-1 qc
 1 character
 1 outfit
 1 adjunct
@@ -790,7 +778,6 @@
 1 operation
 1 bus
 1 agent
-1 tv
 1 alumnus
 1 gourmet
 1 project

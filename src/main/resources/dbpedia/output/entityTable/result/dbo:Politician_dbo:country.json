@@ -1,5 +1,5 @@
 [ {
-  "objectIndex" : "9",
+  "objectIndex" : "10",
   "property" : "dbo:country",
   "object" : "http://dbpedia.org/resource/United_States",
   "distribution" : [ {
@@ -120,6 +120,13 @@
     "probabilities" : {
       "probability(war|http://dbpedia.org/resource/United_States)" : 0.2378947368,
       "probability(http://dbpedia.org/resource/United_States|war)" : 0.3210227273
+    }
+  }, {
+    "Word" : "attorney-NN",
+    "multiply" : 0.0752967525,
+    "probabilities" : {
+      "probability(attorney|http://dbpedia.org/resource/United_States)" : 0.0863157895,
+      "probability(http://dbpedia.org/resource/United_States|attorney)" : 0.8723404255
     }
   }, {
     "Word" : "former-JJ",
@@ -282,26 +289,12 @@
       "probability(year|http://dbpedia.org/resource/United_States)" : 0.0989473684,
       "probability(http://dbpedia.org/resource/United_States|year)" : 0.2155963303
     }
-  }, {
-    "Word" : "mp-NN",
-    "multiply" : 0.0209887338,
-    "probabilities" : {
-      "probability(mp|http://dbpedia.org/resource/United_States)" : 0.1663157895,
-      "probability(http://dbpedia.org/resource/United_States|mp)" : 0.1261980831
-    }
   } ]
 }, {
-  "objectIndex" : "10",
+  "objectIndex" : "11",
   "property" : "dbo:country",
   "object" : "http://dbpedia.org/resource/United_Kingdom",
   "distribution" : [ {
-    "Word" : "mp-NN",
-    "multiply" : 0.5990849548,
-    "probabilities" : {
-      "probability(mp|http://dbpedia.org/resource/United_Kingdom)" : 0.7324749642,
-      "probability(http://dbpedia.org/resource/United_Kingdom|mp)" : 0.8178913738
-    }
-  }, {
     "Word" : "member-NN",
     "multiply" : 0.5854147743,
     "probabilities" : {
@@ -708,13 +701,6 @@
       "probability(http://dbpedia.org/resource/United_Kingdom|co-operative)" : 1.0
     }
   }, {
-    "Word" : "%-NN",
-    "multiply" : 0.0329883026,
-    "probabilities" : {
-      "probability(%|http://dbpedia.org/resource/United_Kingdom)" : 0.0400572246,
-      "probability(http://dbpedia.org/resource/United_Kingdom|%)" : 0.8235294118
-    }
-  }, {
     "Word" : "firm-NN",
     "multiply" : 0.0316617725,
     "probabilities" : {
@@ -741,6 +727,13 @@
     "probabilities" : {
       "probability(retirement|http://dbpedia.org/resource/United_Kingdom)" : 0.0486409156,
       "probability(http://dbpedia.org/resource/United_Kingdom|retirement)" : 0.5964912281
+    }
+  }, {
+    "Word" : "company-NN",
+    "multiply" : 0.0264057613,
+    "probabilities" : {
+      "probability(company|http://dbpedia.org/resource/United_Kingdom)" : 0.0472103004,
+      "probability(http://dbpedia.org/resource/United_Kingdom|company)" : 0.5593220339
     }
   }, {
     "Word" : "2nd-JJ",

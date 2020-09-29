@@ -76,7 +76,6 @@
 13 merchant
 13 name
 13 national
-13 mp
 12 house
 12 active
 12 company
@@ -226,7 +225,6 @@
 5 body
 5 war
 5 organization
-5 a.
 5 strong
 5 servant
 5 delegate
@@ -241,7 +239,6 @@
 5 tenure
 4 numerous
 4 youth
-4 %
 4 patronymic
 4 wing
 4 12th
@@ -648,7 +645,6 @@
 2 headquarters
 2 survey
 2 economist
-2 pc
 2 upper
 2 scandal
 2 defunct
@@ -694,13 +690,8 @@
 1 kelalan
 1 commission
 1 parliamentarian
-1 c
 1 licensed
-1 d
-1 l
-1 m
 1 69th
-1 n
 1 component
 1 sale
 1 blue
@@ -939,7 +930,6 @@
 1 tabreed
 1 farming
 1 chip
-1 周
 1 473-vote
 1 leftist
 1 9th
@@ -1040,7 +1030,6 @@
 1 underdog
 1 taxi
 1 surveyor
-1 د
 1 miller
 1 pbds
 1 re-mediation
@@ -1082,7 +1071,6 @@
 1 gardener
 1 finding
 1 balonne
-1 4b
 1 eccentric
 1 conflict
 1 lord
@@ -1397,13 +1385,11 @@
 1 cinema
 1 விக்டோரியா
 1 grandchild
-1 ac
 1 write-in
 1 tuberculosis
 1 league
 1 textile
 1 peach
-1 ao
 1 second-most
 1 storekeeper
 1 chemical
@@ -1414,7 +1400,6 @@
 1 wheat
 1 foot
 1 completion
-1 ch
 1 alternate
 1 46th
 1 petition
@@ -1467,7 +1452,6 @@
 1 vain
 1 decree
 1 co-director
-1 jd
 1 doctrine
 1 170-year
 1 majority.he
@@ -1475,14 +1459,12 @@
 1 suffragist
 1 dalit
 1 inquiry
-1 kb
 1 customary
 1 smt
 1 everything
 1 columnist
 1 highness
 1 immigration
-1 km
 1 52a
 1 composer
 1 contender
@@ -1496,7 +1478,6 @@
 1 sufficient
 1 limit
 1 imposition
-1 mn
 1 contest
 1 spa
 1 longstanding
@@ -1508,7 +1489,6 @@
 1 andreassi
 1 centrist
 1 magistrate
-1 nf
 1 coal
 1 signatory
 1 crore
@@ -1530,7 +1510,6 @@
 1 spiritual
 1 reconstruction
 1 three-term
-1 pr
 1 oratory
 1 friend
 1 adjunct
@@ -1539,10 +1518,8 @@
 1 allowance
 1 horse
 1 singular
-1 né
 1 bridge
 1 motor
-1 rs
 1 conference
 1 access
 1 lifelong
@@ -1552,14 +1529,11 @@
 1 ph.d.
 1 magnate
 1 pump
-1 sp
-1 st
 1 intern
 1 orator
 1 maker
 1 pneumococcal
 1 monster
-1 td
 1 dealer
 1 mudgeeraba
 1 undergraduate
@@ -1571,7 +1545,6 @@
 1 conscientious
 1 clergyman
 1 الشامسي
-1 vd
 1 chancellor
 1 outspoken
 1 accountancy
@@ -1579,7 +1552,6 @@
 1 kit
 1 gjerset
 1 enumerator
-1 lǐ
 1 consumption
 1 technology
 1 29th
@@ -1631,7 +1603,6 @@
 1 bearer
 1 criminal
 1 long-time
-1 yù
 1 kauhava
 1 individual
 1 matai

@@ -1,5 +1,150 @@
 [ {
-  "objectIndex" : "19",
+  "objectIndex" : "34",
+  "property" : "dbp:party",
+  "object" : "Independent politician",
+  "distribution" : [ {
+    "Word" : "new-JJ",
+    "multiply" : 0.3440860215,
+    "probabilities" : {
+      "probability(new|Independent politician)" : 1.0,
+      "probability(Independent politician|new)" : 0.3440860215
+    }
+  }, {
+    "Word" : "19th-century-JJ",
+    "multiply" : 0.3228635204,
+    "probabilities" : {
+      "probability(19th-century|Independent politician)" : 0.703125,
+      "probability(Independent politician|19th-century)" : 0.4591836735
+    }
+  }, {
+    "Word" : "parliament-NN",
+    "multiply" : 0.3146451271,
+    "probabilities" : {
+      "probability(parliament|Independent politician)" : 0.8515625,
+      "probability(Independent politician|parliament)" : 0.3694915254
+    }
+  }, {
+    "Word" : "electorate-NN",
+    "multiply" : 0.2850506757,
+    "probabilities" : {
+      "probability(electorate|Independent politician)" : 0.703125,
+      "probability(Independent politician|electorate)" : 0.4054054054
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.2256115752,
+    "probabilities" : {
+      "probability(member|Independent politician)" : 0.859375,
+      "probability(Independent politician|member)" : 0.2625298329
+    }
+  }, {
+    "Word" : "son-NN",
+    "multiply" : 0.0879360465,
+    "probabilities" : {
+      "probability(son|Independent politician)" : 0.34375,
+      "probability(Independent politician|son)" : 0.2558139535
+    }
+  }, {
+    "Word" : "region-NN",
+    "multiply" : 0.0619877049,
+    "probabilities" : {
+      "probability(region|Independent politician)" : 0.171875,
+      "probability(Independent politician|region)" : 0.3606557377
+    }
+  }, {
+    "Word" : "council-NN",
+    "multiply" : 0.0552942961,
+    "probabilities" : {
+      "probability(council|Independent politician)" : 0.2109375,
+      "probability(Independent politician|council)" : 0.2621359223
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.0526315789,
+    "probabilities" : {
+      "probability(conservative|Independent politician)" : 0.125,
+      "probability(Independent politician|conservative)" : 0.4210526316
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.0521763393,
+    "probabilities" : {
+      "probability(election|Independent politician)" : 0.2578125,
+      "probability(Independent politician|election)" : 0.2023809524
+    }
+  }, {
+    "Word" : "second-JJ",
+    "multiply" : 0.0375,
+    "probabilities" : {
+      "probability(second|Independent politician)" : 0.09375,
+      "probability(Independent politician|second)" : 0.4
+    }
+  }, {
+    "Word" : "independent-JJ",
+    "multiply" : 0.037400266,
+    "probabilities" : {
+      "probability(independent|Independent politician)" : 0.1171875,
+      "probability(Independent politician|independent)" : 0.3191489362
+    }
+  }, {
+    "Word" : "by-election-NN",
+    "multiply" : 0.0307049419,
+    "probabilities" : {
+      "probability(by-election|Independent politician)" : 0.1015625,
+      "probability(Independent politician|by-election)" : 0.3023255814
+    }
+  }, {
+    "Word" : "wife-NN",
+    "multiply" : 0.0253125,
+    "probabilities" : {
+      "probability(wife|Independent politician)" : 0.0703125,
+      "probability(Independent politician|wife)" : 0.36
+    }
+  }, {
+    "Word" : "father-NN",
+    "multiply" : 0.0236742424,
+    "probabilities" : {
+      "probability(father|Independent politician)" : 0.078125,
+      "probability(Independent politician|father)" : 0.303030303
+    }
+  }, {
+    "Word" : "provincial-JJ",
+    "multiply" : 0.0236328125,
+    "probabilities" : {
+      "probability(provincial|Independent politician)" : 0.0859375,
+      "probability(Independent politician|provincial)" : 0.275
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.0225360577,
+    "probabilities" : {
+      "probability(legislative|Independent politician)" : 0.1171875,
+      "probability(Independent politician|legislative)" : 0.1923076923
+    }
+  }, {
+    "Word" : "general-JJ",
+    "multiply" : 0.0223214286,
+    "probabilities" : {
+      "probability(general|Independent politician)" : 0.1171875,
+      "probability(Independent politician|general)" : 0.1904761905
+    }
+  }, {
+    "Word" : "minister-NN",
+    "multiply" : 0.0210069444,
+    "probabilities" : {
+      "probability(minister|Independent politician)" : 0.0859375,
+      "probability(Independent politician|minister)" : 0.2444444444
+    }
+  }, {
+    "Word" : "time-NN",
+    "multiply" : 0.0200320513,
+    "probabilities" : {
+      "probability(time|Independent politician)" : 0.078125,
+      "probability(Independent politician|time)" : 0.2564102564
+    }
+  } ]
+}, {
+  "objectIndex" : "35",
   "property" : "dbp:party",
   "object" : "Independent",
   "distribution" : [ {
@@ -106,13 +251,6 @@
     "probabilities" : {
       "probability(father|Independent)" : 0.0731707317,
       "probability(Independent|father)" : 0.3636363636
-    }
-  }, {
-    "Word" : "mp-NN",
-    "multiply" : 0.025901144,
-    "probabilities" : {
-      "probability(mp|Independent)" : 0.1219512195,
-      "probability(Independent|mp)" : 0.2123893805
     }
   }, {
     "Word" : "town-NN",

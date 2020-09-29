@@ -16,7 +16,6 @@
 37 electoral
 35 british
 34 malaysian
-34 mp
 32 family
 32 provincial
 29 constituency
@@ -52,7 +51,6 @@
 12 responsible
 12 career
 12 new
-12 ao
 12 president
 12 mla
 11 time
@@ -224,7 +222,6 @@
 3 major
 3 lecturer
 3 bar
-3 ac
 3 league
 3 food
 3 reshuffle
@@ -238,10 +235,7 @@
 3 author
 3 background
 3 present
-3 pc
-3 qc
 3 secretary
-3 st
 3 seit
 3 life
 3 healthy
@@ -257,7 +251,6 @@
 2 branch
 2 graduation
 2 empire
-2 %
 2 planning
 2 alleged
 2 ceo
@@ -321,7 +314,6 @@
 2 part
 2 der
 2 court
-2 ba
 2 influential
 2 labourer
 2 charge
@@ -401,9 +393,7 @@
 1 kelalan
 1 pacifist
 1 assyrian
-1 f
 1 eight-year
-1 m
 1 baling
 1 component
 1 sale
@@ -543,7 +533,6 @@
 1 bahubali
 1 backbench
 1 pita
-1 −
 1 februar
 1 adviser
 1 poverty
@@ -732,7 +721,6 @@
 1 innovation
 1 sex
 1 staff
-1 cm
 1 medicine
 1 473-vote
 1 party-candidate
@@ -755,7 +743,6 @@
 1 horseback
 1 immediate
 1 final
-1 fa
 1 kcmg
 1 salor
 1 hst
@@ -764,7 +751,6 @@
 1 ferry
 1 human
 1 historic
-1 i.
 1 priest
 1 counter
 1 football
@@ -810,11 +796,9 @@
 1 commentator
 1 suffragist
 1 world
-1 kb
 1 nurse
 1 crime
 1 politikerin
-1 m.
 1 calgary-egmont
 1 break
 1 composer
@@ -844,7 +828,6 @@
 1 adolescent
 1 birthday
 1 tenth
-1 .3
 1 dangerous
 1 ironworker
 1 head
@@ -869,10 +852,8 @@
 1 caravan
 1 online
 1 luxury
-1 pl
 1 breast
 1 mercy
-1 r2
 1 convener
 1 sikh
 1 upper
@@ -893,7 +874,6 @@
 1 alderman
 1 lone
 1 cabin
-1 gǔ
 1 lumla
 1 auctioneer
 1 1st
@@ -907,17 +887,14 @@
 1 expression
 1 childhood
 1 transportation
-1 td
 1 re-offer
 1 mudgeeraba
 1 rower
 1 operation
 1 undergraduate
 1 sinlapa-a-cha
-1 ts
 1 bus
 1 rector
-1 tv
 1 wool
 1 gourmet
 1 high-rank
@@ -931,7 +908,6 @@
 1 passion
 1 conscientious
 1 sector
-1 vd
 1 psychiatrist
 1 naval
 1 failure

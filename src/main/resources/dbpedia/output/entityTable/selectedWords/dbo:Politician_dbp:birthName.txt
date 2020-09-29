@@ -89,12 +89,10 @@
 6 appointment
 6 daughter
 6 third
-6 mp
 6 county
 6 alderman
 6 father
 6 presidential
-5 %
 5 independent
 5 resignation
 5 education
@@ -313,7 +311,6 @@
 2 undergraduate
 2 country
 2 agent
-2 tv
 2 military
 2 sector
 2 broadcast
@@ -618,7 +615,6 @@
 1 wit
 1 human-rights
 1 dunford
-1 a.
 1 cardiologist
 1 dds
 1 biographer
@@ -635,12 +631,10 @@
 1 reezal
 1 draft
 1 pension
-1 ac
 1 league
 1 active
 1 enthusiast
 1 court
-1 ao
 1 lesbian
 1 trucker
 1 renomination
@@ -663,7 +657,6 @@
 1 waitress
 1 founder
 1 sex
-1 cm
 1 right
 1 party-candidate
 1 inaugural
@@ -686,7 +679,6 @@
 1 count
 1 scholar
 1 nude
-1 fa
 1 mediator
 1 additional
 1 mayor-elect
@@ -749,7 +741,6 @@
 1 communication
 1 louez
 1 ninety-ninth
-1 ms
 1 ex-wife
 1 election-2013
 1 film
@@ -816,7 +807,6 @@
 1 footballer
 1 fish
 1 dealer
-1 ts
 1 ukrainian
 1 symbol
 1 aide

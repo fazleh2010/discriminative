@@ -143,7 +143,6 @@
 6 physician
 6 chair
 6 appointment
-6 mp
 6 3rd
 6 firm
 6 fourth
@@ -236,7 +235,6 @@
 4 presidential
 3 branch
 3 nationalist
-3 %
 3 coup
 3 patronymic
 3 committee
@@ -405,7 +403,6 @@
 2 court
 2 chapel
 2 mill
-2 ba
 2 abuse
 2 civic
 2 panel
@@ -440,7 +437,6 @@
 2 malay
 2 tenth
 2 total
-2 pc
 2 bank
 2 rancher
 2 conference
@@ -527,7 +523,6 @@
 1 close
 1 hard-line
 1 bencher
-1 f
 1 eight-year
 1 union
 1 millinery
@@ -892,7 +887,6 @@
 1 day-to-day
 1 lesbian
 1 ah-lee
-1 au
 1 sawmill
 1 plant
 1 vice-chancellor
@@ -911,7 +905,6 @@
 1 wedding
 1 spare
 1 completion
-1 cm
 1 possible
 1 9th
 1 transition
@@ -922,7 +915,6 @@
 1 anti-smacking
 1 11th
 1 accountant
-1 dl
 1 emergency
 1 57th
 1 plurality
@@ -990,7 +982,6 @@
 1 printer
 1 sense
 1 wilkes
-1 jd
 1 baseball
 1 ˈlæfiː
 1 non-statutory
@@ -1038,7 +1029,6 @@
 1 tolerance
 1 intensive
 1 arthrithis
-1 ms
 1 dentist
 1 task
 1 martial
@@ -1048,7 +1038,6 @@
 1 re-match
 1 magistrate
 1 true
-1 ng
 1 present
 1 strife
 1 legacy
@@ -1074,7 +1063,6 @@
 1 extraordinary
 1 oblate
 1 soapstone
-1 pl
 1 breast
 1 caernarfonshire
 1 lineage
@@ -1091,7 +1079,6 @@
 1 resident
 1 brokerage
 1 surveyor
-1 د
 1 labor
 1 quality
 1 miller
@@ -1100,9 +1087,7 @@
 1 animal
 1 bridge
 1 gunner
-1 ਲਰ
 1 association
-1 gǔ
 1 long
 1 years.he
 1 aiadmk
@@ -1135,7 +1120,6 @@
 1 raygal
 1 seller
 1 rector
-1 tv
 1 militia
 1 project
 1 ice
@@ -1149,7 +1133,6 @@
 1 outreach
 1 stipendiary
 1 chairmanship
-1 vd
 1 hunger
 1 cavalry
 1 chancellor
@@ -1262,7 +1245,6 @@
 1 marriage
 1 village
 1 player
-1 ??
 1 factory
 1 high-rise
 1 grave

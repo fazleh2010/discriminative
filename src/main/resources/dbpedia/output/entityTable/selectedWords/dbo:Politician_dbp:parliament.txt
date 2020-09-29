@@ -10,7 +10,6 @@
 40 canadian
 39 state
 37 government
-34 mp
 32 first
 27 constituency
 27 electorate
@@ -114,7 +113,6 @@
 4 trade
 4 various
 3 bar
-3 ao
 3 senior
 3 municipal
 3 southern
@@ -159,7 +157,6 @@
 2 assemblyman
 2 empire
 2 rank
-2 %
 2 community
 2 role
 2 masters
@@ -198,7 +195,6 @@
 2 economist
 2 social
 2 bachelor
-2 pc
 2 territory
 2 lieutenant
 2 county
@@ -418,7 +414,6 @@
 1 academic
 1 grain
 1 representative
-1 mm
 1 level
 1 estate
 1 splinter
@@ -465,8 +460,6 @@
 1 battalion
 1 firm
 1 pita
-1 qc
-1 −
 1 bank
 1 integrity
 1 province
@@ -490,7 +483,6 @@
 1 alderman
 1 association
 1 enemy
-1 gǔ
 1 accident
 1 turban-wearing
 1 british-born
@@ -508,7 +500,6 @@
 1 mudgeeraba
 1 springs-based
 1 insurance
-1 tv
 1 agent
 1 gourmet
 1 organisation

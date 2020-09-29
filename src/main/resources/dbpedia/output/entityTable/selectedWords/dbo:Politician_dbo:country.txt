@@ -11,7 +11,6 @@
 119 labour
 119 wife
 117 district
-114 mp
 112 state
 99 by-election
 97 first
@@ -96,7 +95,6 @@
 20 session
 20 2nd
 20 clerk
-19 %
 19 educator
 18 committee
 18 company
@@ -203,7 +201,6 @@
 9 speaker
 9 uncle
 9 defeat
-9 ba
 9 sixth
 9 canadian
 9 delegate
@@ -257,7 +254,6 @@
 7 superintendent
 7 board
 7 unseated
-7 dl
 7 management
 7 province
 6 newspaper
@@ -327,7 +323,6 @@
 5 various
 5 front
 5 western
-5 fn
 5 social
 5 old
 5 commercial
@@ -414,7 +409,6 @@
 3 sister
 3 coup
 3 much
-3 b
 3 scholarship
 3 authority
 3 representation
@@ -547,8 +541,6 @@
 2 result
 2 commission
 2 parliamentarian
-2 l
-2 r
 2 police
 2 blue
 2 information
@@ -716,8 +708,6 @@
 2 schoolteacher
 2 spokesperson
 2 addition
-2 c.
-2 ao
 2 labourer
 2 sailor
 2 charge
@@ -806,11 +796,7 @@
 1 antiquarian
 1 o'malley
 1 sutler
-1 d
-1 e
-1 j
 1 blood
-1 p
 1 straight
 1 freshman
 1 octavius
@@ -1550,7 +1536,6 @@
 1 breach
 1 butter
 1 handful
-1 a.
 1 sarsden
 1 administrative
 1 thirty-ninth
@@ -1573,14 +1558,11 @@
 1 fundraiser
 1 abuse
 1 isabella
-1 d.
 1 sea
-1 bt
 1 patalione
 1 nickname
 1 outstanding
 1 first-time
-1 ch
 1 column
 1 party-candidate
 1 46th
@@ -1602,7 +1584,6 @@
 1 aunt
 1 brigade
 1 irish-born
-1 gp
 1 spensley
 1 parry
 1 form
@@ -1613,7 +1594,6 @@
 1 improved
 1 socialite
 1 corner
-1 dù
 1 modem
 1 model
 1 crown
@@ -1637,7 +1617,6 @@
 1 restaurant
 1 politicianwho
 1 raster
-1 kt
 1 thornton-born
 1 snp
 1 corporate
@@ -1650,12 +1629,9 @@
 1 auto
 1 d/o
 1 ruling
-1 ma
-1 md
 1 publication
 1 claim
 1 incoming
-1 mr
 1 64th
 1 lush
 1 centrist
@@ -1681,13 +1657,11 @@
 1 cross
 1 rabbi
 1 old-age
-1 pc
 1 ex-bartender
 1 preamble
 1 fighting
 1 scots-irish
 1 scene
-1 qc
 1 prussian
 1 haute-vienne
 1 publishing
@@ -1700,17 +1674,14 @@
 1 rancher
 1 device
 1 wood-cutting
-1 rt
 1 primitive
 1 cabin
 1 eighteenth
 1 thirty-second
-1 sc
 1 variety
 1 mackinder
 1 teenager
 1 silk
-1 st
 1 lithographic
 1 verderer
 1 patriarch
@@ -1751,10 +1722,8 @@
 1 gap
 1 gas
 1 settler
-1 lǐ
 1 socialism
 1 gbe
-1 xi
 1 politiker
 1 neo-gothic
 1 location

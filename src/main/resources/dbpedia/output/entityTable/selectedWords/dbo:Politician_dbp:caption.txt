@@ -75,7 +75,6 @@
 12 by-election
 12 history
 12 nominee
-11 %
 11 malaysian
 11 late
 11 third
@@ -92,7 +91,6 @@
 10 civil
 10 founder
 10 company
-10 mp
 10 federal
 9 graduate
 9 independent
@@ -331,7 +329,6 @@
 3 important
 3 captain
 3 administrator
-3 a.
 3 front
 3 spokesperson
 3 past
@@ -361,7 +358,6 @@
 3 citizen
 3 eldest
 3 clerk
-3 pc
 3 bank
 3 resident
 3 religious
@@ -400,7 +396,6 @@
 2 utility
 2 58th
 2 close
-2 o
 2 illegitimate
 2 two-time
 2 historical
@@ -525,9 +520,7 @@
 2 addition
 2 personal
 2 court
-2 ao
 2 census
-2 ba
 2 dean
 2 118th
 2 civic
@@ -678,17 +671,12 @@
 1 pacifist
 1 parliamentarian
 1 hand
-1 b
 1 криве́нко
 1 judgeship
-1 f
 1 union
-1 l
-1 m
 1 printing
 1 co-chair
 1 photograph
-1 r
 1 invasion
 1 unrelated
 1 grocery
@@ -763,7 +751,6 @@
 1 aid
 1 southeast
 1 singer
-1 ఉమ
 1 winemaker
 1 uncle
 1 nigerian
@@ -1114,7 +1101,6 @@
 1 barnyard
 1 honourable
 1 transparent
-1 bs
 1 academician
 1 airman
 1 farming
@@ -1124,10 +1110,8 @@
 1 panel
 1 foot
 1 chip
-1 ch
 1 sex
 1 column
-1 cm
 1 possible
 1 right
 1 maltese
@@ -1219,7 +1203,6 @@
 1 کربلاءی
 1 vacant
 1 field
-1 jd
 1 dog
 1 non-statutory
 1 acting
@@ -1269,9 +1252,7 @@
 1 communication
 1 tolerance
 1 parenting
-1 mm
 1 waste
-1 mn
 1 three-decade
 1 contest
 1 turmoil
@@ -1285,7 +1266,6 @@
 1 five-year
 1 dismissal
 1 specialist
-1 ne
 1 magistrate
 1 signatory
 1 designation
@@ -1324,7 +1304,6 @@
 1 scene
 1 presidency
 1 character
-1 qc
 1 massacre
 1 friend
 1 fire
@@ -1337,7 +1316,6 @@
 1 telangana
 1 state-issued
 1 substantial
-1 د
 1 horse
 1 symptom
 1 bsc
@@ -1384,7 +1362,6 @@
 1 progress
 1 operation
 1 undergraduate
-1 tv
 1 anglo-indian
 1 reputation
 1 ice
@@ -1399,7 +1376,6 @@
 1 gardener
 1 thrice
 1 autobiographical
-1 vd
 1 at-large
 1 cavalry
 1 chancellor
@@ -1454,7 +1430,6 @@
 1 pediatrician
 1 inequality
 1 filing
-1 zp
 1 revolutionary
 1 mate
 1 unemployment

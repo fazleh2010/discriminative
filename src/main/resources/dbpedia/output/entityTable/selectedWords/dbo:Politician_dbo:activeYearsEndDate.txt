@@ -54,7 +54,6 @@
 41 conservative
 41 degree
 40 resignation
-39 mp
 37 business
 37 farmer
 34 teacher
@@ -151,7 +150,6 @@
 13 western
 13 majority
 13 author
-12 %
 12 police
 12 period
 12 ward
@@ -176,7 +174,6 @@
 11 coalition
 11 work
 11 administration
-11 ao
 11 servant
 11 country
 10 journalist
@@ -269,11 +266,9 @@
 7 movement
 7 body
 7 section
-7 a.
 7 bar
 7 personal
 7 civic
-7 cm
 7 management
 7 practice
 7 century
@@ -328,7 +323,6 @@
 6 football
 6 traditional
 6 longest-serving
-6 pc
 6 commercial
 6 previous
 6 unsuccessful
@@ -479,7 +473,6 @@
 4 veteran
 4 original
 4 colonial
-4 ba
 4 strong
 4 subsequent
 4 11th
@@ -632,14 +625,12 @@
 3 captain
 3 front
 3 spokesperson
-3 ac
 3 league
 3 peace
 3 abuse
 3 magna
 3 food
 3 battle
-3 dl
 3 metropolitan
 3 collector
 3 historic
@@ -657,7 +648,6 @@
 3 settler
 3 gas
 3 socialist
-3 lǐ
 3 29th
 3 high-profile
 3 following
@@ -894,7 +884,6 @@
 2 advocacy
 2 pheu
 2 pastoralist
-2 el
 2 little
 2 origin
 2 proprietor
@@ -918,7 +907,6 @@
 2 control
 2 cousin
 2 scene
-2 qc
 2 recent
 2 recreation
 2 northwestern
@@ -927,7 +915,6 @@
 2 key
 2 footballer
 2 mudgeeraba
-2 tv
 2 aide
 2 failure
 2 60th
@@ -985,16 +972,9 @@
 1 directly-elected
 1 provocative
 1 caretaker
-1 c
-1 d
-1 g
-1 k
-1 m
-1 n
 1 printing
 1 freshman
 1 sale
-1 v
 1 unprecedented
 1 toxicologist
 1 illegitimate
@@ -1027,7 +1007,6 @@
 1 campaigning
 1 four-term
 1 lucrative
-1 ಆರ
 1 namesake
 1 complaint
 1 coffee
@@ -1062,7 +1041,6 @@
 1 five-inch
 1 guerrilla
 1 nigerian
-1 ō
 1 rapper
 1 fèngqiān
 1 surname
@@ -1312,7 +1290,6 @@
 1 hotel
 1 so-called
 1 chip
-1 周
 1 demotion
 1 50-year
 1 possible
@@ -1465,7 +1442,6 @@
 1 gunner
 1 male
 1 maternal
-1 ਲਰ
 1 religious
 1 non-governmental
 1 vice-president
@@ -1912,7 +1888,6 @@
 1 loyalist
 1 scheme
 1 homeland
-1 bl
 1 dead
 1 reluctance
 1 sailor
@@ -1927,7 +1902,6 @@
 1 completion
 1 academical
 1 sex
-1 cn
 1 46th
 1 actor
 1 forgery
@@ -1943,15 +1917,11 @@
 1 image
 1 macadamizing
 1 consultancy
-1 ಬ
-1 ಯ
 1 68th
-1 g7
 1 burrinjuck
 1 mediator
 1 debt
 1 salor
-1 h.
 1 regulatory
 1 ex-deputy
 1 fox
@@ -1965,7 +1935,6 @@
 1 ballot
 1 کھوسہ
 1 living
-1 i.
 1 arch-critic
 1 skating
 1 punjabi
@@ -1975,7 +1944,6 @@
 1 obe
 1 pathologist
 1 attaché
-1 hd
 1 hellenic
 1 burgess
 1 forestry
@@ -2008,14 +1976,12 @@
 1 ability
 1 programme
 1 fatherless
-1 km
 1 calgary-egmont
 1 52a
 1 change
 1 trinity
 1 married
 1 transaction
-1 lp
 1 moderator
 1 federal-provincial
 1 communal
@@ -2026,7 +1992,6 @@
 1 publication
 1 limit
 1 tolerance
-1 mm
 1 contest
 1 هاشي
 1 indecent
@@ -2059,9 +2024,7 @@
 1 subcouncil
 1 dormant
 1 maple
-1 pl
 1 pointe-de-l'île
-1 pr
 1 strategic
 1 revitalization
 1 downfall
@@ -2077,8 +2040,6 @@
 1 mission
 1 bsc
 1 consolidated
-1 ri
-1 rj
 1 shooter
 1 singular
 1 motor
@@ -2135,7 +2096,6 @@
 1 kit
 1 corrupt
 1 reading
-1 xi
 1 ˈkuːtʃ
 1 politiker
 1 litigation
@@ -2171,10 +2131,8 @@
 1 chheng
 1 حسين
 1 199th
-1 ān
 1 circa
 1 finland.turunen
-1 yù
 1 kauhava
 1 individual
 1 stranded

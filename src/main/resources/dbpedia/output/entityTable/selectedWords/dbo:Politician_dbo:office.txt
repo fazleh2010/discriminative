@@ -64,7 +64,6 @@
 60 federal
 60 province
 59 business
-59 mp
 57 mla
 55 chief
 54 opposition
@@ -179,7 +178,6 @@
 19 board
 19 bar
 19 national
-18 %
 18 late
 18 engineer
 18 firm
@@ -249,7 +247,6 @@
 13 2nd
 13 nomination
 13 administrator
-13 a.
 13 front
 13 addition
 13 management
@@ -304,9 +301,7 @@
 10 professional
 10 english
 10 race
-10 ba
 10 charge
-10 cm
 10 11th
 10 old
 10 store
@@ -468,12 +463,10 @@
 6 captain
 6 latter
 6 spokesperson
-6 ao
 6 expert
 6 congress
 6 20th
 6 eldest
-6 pc
 6 diploma
 6 sector
 6 settler
@@ -577,7 +570,6 @@
 4 journalism
 4 alleged
 4 commission
-4 b
 4 sale
 4 homestead
 4 non-consecutive
@@ -672,7 +664,6 @@
 4 responsibility
 4 battle
 4 liberal-conservative
-4 dl
 4 decade
 4 corner
 4 conservation
@@ -708,10 +699,7 @@
 3 chapter
 3 notable
 3 gold
-3 c
 3 licensed
-3 p
-3 r
 3 blue
 3 good
 3 success
@@ -783,7 +771,6 @@
 3 militia
 3 project
 3 ice
-3 3a
 3 amateur
 3 missionary
 3 steel
@@ -886,9 +873,6 @@
 2 laude
 2 defence
 2 masters
-2 k
-2 l
-2 m
 2 printing
 2 component
 2 prominence
@@ -1169,12 +1153,9 @@
 2 neighbourhood
 2 pamphlet
 2 grandchild
-2 ac
-2 ap
 2 redistricted
 2 storekeeper
 2 chemical
-2 bc
 2 takeover
 2 dead
 2 nickname
@@ -1182,8 +1163,6 @@
 2 wheat
 2 panel
 2 completion
-2 ch
-2 cn
 2 46th
 2 actor
 2 lakeshore
@@ -1202,7 +1181,6 @@
 2 bakery
 2 issue
 2 bjp
-2 jd
 2 cycle
 2 literature
 2 library
@@ -1210,12 +1188,10 @@
 2 smt
 2 programme
 2 affordable
-2 m.
 2 change
 2 transaction
 2 plaza
 2 limit
-2 mm
 2 waterside
 2 birthday
 2 preservation
@@ -1227,7 +1203,6 @@
 2 strategic
 2 chester-st
 2 scene
-2 qc
 2 recent
 2 recreation
 2 horse
@@ -1238,10 +1213,8 @@
 2 eighteenth
 2 extended
 2 british-born
-2 st
 2 dealer
 2 mudgeeraba
-2 tv
 2 outspoken
 2 seit
 2 normal
@@ -1324,14 +1297,12 @@
 1 thant
 1 provocative
 1 caretaker
-1 f
 1 montréal-nord
 1 natural-born
 1 soviet
 1 straight
 1 170th
 1 suite
-1 v
 1 militarized
 1 toxicologist
 1 hague
@@ -1370,7 +1341,6 @@
 1 196th
 1 society
 1 psychology
-1 ଆଚ
 1 runholder
 1 ˈlaɪən
 1 approval
@@ -1413,12 +1383,10 @@
 1 mujahedin
 1 champion
 1 circuit
-1 ఉమ
 1 e10
 1 five-inch
 1 yadav
 1 nepalese
-1 ō
 1 rapper
 1 instant
 1 moonilal
@@ -1604,7 +1572,6 @@
 1 consultative
 1 equal
 1 optometrist
-1 ಗಪ
 1 disobedience
 1 fund
 1 hiv/aids
@@ -1755,11 +1722,9 @@
 1 wedding
 1 so-called
 1 then-senator
-1 ണന
 1 apartheid
 1 علي
 1 banff-cochrane
-1 周
 1 demotion
 1 50-year
 1 473-vote
@@ -1825,7 +1790,6 @@
 1 showing
 1 upcoming
 1 multi-racialism
-1 ନନ
 1 qualified
 1 dual-member
 1 عيد
@@ -1966,7 +1930,6 @@
 1 toponymy
 1 re-mediation
 1 grower
-1 ਲਰ
 1 north-end
 1 non-governmental
 1 six-year
@@ -1976,14 +1939,12 @@
 1 mín
 1 ˈbræˌzəl
 1 landfill
-1 1b
 1 côte-des-neiges-notre-dame-de-grace
 1 mil
 1 nominal
 1 christian
 1 operating
 1 relationship
-1 1n
 1 honour
 1 middle
 1 renewal
@@ -2127,7 +2088,6 @@
 1 maharashtra
 1 pakshaswp
 1 forerunner
-1 ??
 1 fairness
 1 inn
 1 rush
@@ -2287,7 +2247,6 @@
 1 pasago
 1 balcatta
 1 trial
-1 黃濤
 1 indigenous
 1 obituary
 1 mylapore
@@ -2378,7 +2337,6 @@
 1 jayalalithaa
 1 jew
 1 golfer
-1 ɑː
 1 cater
 1 egregious
 1 pangin
@@ -2447,9 +2405,7 @@
 1 nrl
 1 sprawling
 1 berhampore
-1 ଳ
 1 phone
-1 ଶ
 1 1437-crore
 1 berfore
 1 vərˈdoʊli.æk
@@ -2470,7 +2426,6 @@
 1 financing
 1 kappa
 1 seminary
-1 ୟ
 1 architecture
 1 bloess
 1 grip
@@ -2561,7 +2516,6 @@
 1 dhule
 1 24th
 1 delimitation
-1 ad
 1 hierarchy
 1 peach
 1 panic
@@ -2572,7 +2526,6 @@
 1 ah-lee
 1 indian-born
 1 sdf
-1 au
 1 patten
 1 plant
 1 sawmill
@@ -2593,7 +2546,6 @@
 1 sudden
 1 insurer
 1 foot
-1 cc
 1 innovation
 1 outstanding
 1 sex
@@ -2613,29 +2565,22 @@
 1 jun
 1 namatijra
 1 denomination
-1 ds
 1 exploratory
 1 nightcliff
 1 wedlock
 1 japanese
-1 ಕ
 1 startup
 1 pheu
-1 ಠ
 1 re-integration
 1 mache
 1 plaster
 1 metropolitan
 1 three-time
-1 el
 1 sowohl
 1 68th
-1 g7
 1 piece
 1 burrinjuck
-1 fa
 1 mediator
-1 fc
 1 debt
 1 theatrical
 1 salor
@@ -2657,12 +2602,10 @@
 1 bhai.he
 1 brilliant
 1 sawmiller
-1 i.
 1 punjabi
 1 counter
 1 pathologist
 1 developer
-1 hd
 1 big
 1 select
 1 advanced
@@ -2697,13 +2640,11 @@
 1 andmember
 1 fraes
 1 inquiry
-1 ka
 1 c.eng
 1 table
 1 proficient
 1 politikerin
 1 fatherless
-1 km
 1 bread
 1 burquitlam
 1 present-day
@@ -2718,7 +2659,6 @@
 1 complete
 1 trinity
 1 fur
-1 lp
 1 bribe
 1 lakshmi
 1 dist
@@ -2727,10 +2667,8 @@
 1 communal
 1 edge
 1 indo-canadian
-1 ma
 1 krian
 1 maternity
-1 md
 1 publication
 1 tornérhielm
 1 kadapa
@@ -2746,7 +2684,6 @@
 1 wrench
 1 طوريارآ
 1 fiscal
-1 ng
 1 survey
 1 bride
 1 legacy
@@ -2763,7 +2700,6 @@
 1 adun
 1 gurdaspur
 1 niece
-1 og
 1 ysrcp
 1 brick
 1 consumer
@@ -2784,7 +2720,6 @@
 1 selfless
 1 hereditary
 1 elbow
-1 pr
 1 চৌধুরী
 1 downfall
 1 behalf
@@ -2806,7 +2741,6 @@
 1 mission
 1 consolidated
 1 biologist
-1 ri
 1 shooter
 1 in2009
 1 aaa-rated
@@ -2815,8 +2749,6 @@
 1 access
 1 activity
 1 seed
-1 gǔ
-1 sc
 1 auctioneer
 1 ntuci
 1 aiadmk
@@ -2837,16 +2769,13 @@
 1 orator
 1 launch
 1 pneumococcal
-1 ta
 1 regidor
-1 td
 1 footballer
 1 sect
 1 vast
 1 pulp
 1 sinlapa-a-cha
 1 story
-1 ts
 1 dissent
 1 bus
 1 brownback
@@ -2869,7 +2798,6 @@
 1 aicd
 1 epidemic
 1 townsman
-1 vd
 1 at-large
 1 ranch
 1 cavalry
@@ -2893,13 +2821,11 @@
 1 r-massapequa
 1 socialist
 1 corrupt
-1 lǐ
 1 wide
 1 regime
 1 mishing
 1 reading
 1 editor-in-chief
-1 xi
 1 croatian
 1 premature
 1 veeru
@@ -2940,7 +2866,6 @@
 1 sub-inspector
 1 ascension
 1 proletarian
-1 zp
 1 unemployment
 1 high-ranking
 1 coveted
@@ -2976,7 +2901,6 @@
 1 transferable
 1 mountain-touchwood
 1 199th
-1 ān
 1 sales
 1 seven-time
 1 maharaja
@@ -2987,7 +2911,6 @@
 1 criminal
 1 plaid
 1 long-time
-1 yù
 1 kauhava
 1 respectively.on
 1 stranded

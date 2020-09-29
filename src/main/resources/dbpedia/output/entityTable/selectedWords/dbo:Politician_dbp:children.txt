@@ -95,7 +95,6 @@
 18 executive
 18 founding
 18 town
-18 mp
 18 conservative
 17 4th
 17 bachelor
@@ -138,7 +137,6 @@
 13 margin
 13 figure
 13 person
-12 %
 12 journalist
 12 independent
 12 ticket
@@ -179,7 +177,6 @@
 10 real
 10 war
 10 labour
-10 a.
 10 civil
 10 partner
 10 western
@@ -413,7 +410,6 @@
 4 original
 4 league
 4 peace
-4 ba
 4 civic
 4 sixth
 4 charge
@@ -445,7 +441,6 @@
 3 notable
 3 ceo
 3 hand
-3 c
 3 printing
 3 good
 3 warden
@@ -540,7 +535,6 @@
 3 investigation
 3 latter
 3 personal
-3 ao
 3 servant
 3 medicine
 3 actor
@@ -559,7 +553,6 @@
 3 cousin
 3 nation
 3 rancher
-3 tv
 3 separate
 3 sector
 3 outspoken
@@ -575,8 +568,6 @@
 2 reserved
 2 masters
 2 weekly
-2 b
-2 l
 2 spending
 2 outgoing
 2 regional
@@ -790,17 +781,14 @@
 2 northeastern
 2 manufacturing
 2 24th
-2 ap
 2 plant
 2 strong
 2 labourer
 2 nickname
 2 alternate
-2 cm
 2 food
 2 fighter
 2 river
-2 dl
 2 language
 2 japanese
 2 pastoralist
@@ -819,7 +807,6 @@
 2 commentator
 2 immigrant
 2 affordable
-2 m.
 2 corporate
 2 married
 2 unexpired
@@ -837,10 +824,8 @@
 2 two-year
 2 variety
 2 magnate
-2 st
 2 decision
 2 one
-2 td
 2 fifteenth
 2 townsman
 2 gay
@@ -896,15 +881,10 @@
 1 thant
 1 salt
 1 licensed
-1 f
-1 g
 1 blood
 1 69th
-1 n
-1 p
 1 170th
 1 component
-1 r
 1 suite
 1 unprecedented
 1 information
@@ -935,7 +915,6 @@
 1 53-year-old
 1 196th
 1 fatal
-1 ଆଚ
 1 postmaster
 1 singaporean
 1 four-term
@@ -972,7 +951,6 @@
 1 five-inch
 1 guerrilla
 1 protection
-1 ō
 1 instant
 1 top
 1 anti-apartheid
@@ -1231,8 +1209,6 @@
 1 farming
 1 schooner
 1 chip
-1 ണന
-1 周
 1 right
 1 march
 1 stage
@@ -1281,7 +1257,6 @@
 1 bureaucrat
 1 iron
 1 showing
-1 ନନ
 1 brothers
 1 hut
 1 attempt
@@ -1408,7 +1383,6 @@
 1 mic
 1 respectable
 1 lone
-1 1b
 1 mil
 1 christian
 1 operating
@@ -1416,7 +1390,6 @@
 1 auditor
 1 crate
 1 democracy
-1 2a
 1 dedicate
 1 face
 1 progress
@@ -1426,7 +1399,6 @@
 1 project
 1 arena
 1 mukne
-1 3a
 1 presentation
 1 runner-up
 1 molding
@@ -1439,7 +1411,6 @@
 1 raghuvansh
 1 thrice
 1 bapt
-1 4b
 1 elected
 1 vital
 1 eccentric
@@ -1768,8 +1739,6 @@
 1 connectivity
 1 liver
 1 sprawling
-1 ଳ
-1 ଶ
 1 berfore
 1 excessive
 1 calgary-east
@@ -1781,7 +1750,6 @@
 1 gail
 1 vehicle
 1 modern
-1 ୟ
 1 indonesian
 1 grip
 1 electricity
@@ -1824,14 +1792,11 @@
 1 essayist
 1 59th
 1 plane
-1 b.
 1 mutiny
 1 neighbourhood
 1 draft
 1 dhule
 1 promoter
-1 ac
-1 ah
 1 plastic
 1 storekeeper
 1 folksy
@@ -1842,7 +1807,6 @@
 1 sad-bjp
 1 command.he
 1 dean
-1 bc
 1 abuse
 1 responsibility
 1 subsequent
@@ -1851,7 +1815,6 @@
 1 foot
 1 completion
 1 academical
-1 ch
 1 magna
 1 survivor
 1 forgery
@@ -1862,7 +1825,6 @@
 1 kite
 1 sewage
 1 jun
-1 ds
 1 shipbuilding
 1 humorous
 1 shipping
@@ -1873,10 +1835,8 @@
 1 macadamizing
 1 consultancy
 1 three-time
-1 el
 1 vice-minister
 1 burrinjuck
-1 fa
 1 debt
 1 princeton-based
 1 salor
@@ -1892,7 +1852,6 @@
 1 councilwoman
 1 sawmiller
 1 historic
-1 i.
 1 ecologist
 1 false
 1 ukrainian-canadian
@@ -1913,7 +1872,6 @@
 1 issue
 1 pundit
 1 untiring
-1 jd
 1 raut
 1 freng
 1 proportion
@@ -1976,9 +1934,6 @@
 1 control
 1 selfless
 1 dormant
-1 pd
-1 pl
-1 pr
 1 strategic
 1 al-muslimin
 1 రెడ్డి
@@ -1997,20 +1952,17 @@
 1 in2009
 1 royalist
 1 sub
-1 rs
 1 owaisi
 1 conference
 1 seed
 1 lifelong
 1 post-apartheid
 1 extended
-1 sc
 1 defunct
 1 apprenticeship
 1 na-154
 1 doot-nee
 1 civilian
-1 sp
 1 12a
 1 offensive
 1 starter
@@ -2020,7 +1972,6 @@
 1 vast
 1 rower
 1 story
-1 ts
 1 bus
 1 excellence
 1 aide
@@ -2049,7 +2000,6 @@
 1 kit
 1 gas
 1 socialist
-1 lǐ
 1 regime
 1 mishing
 1 politiker
@@ -2098,12 +2048,10 @@
 1 chheng
 1 38th
 1 undivided
-1 ān
 1 sales
 1 maharaja
 1 twelfth
 1 long-time
-1 yù
 1 individual
 1 respectively.on
 1 rajasthan.he

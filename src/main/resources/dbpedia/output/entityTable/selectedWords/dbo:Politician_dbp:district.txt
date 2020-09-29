@@ -90,7 +90,6 @@
 6 several
 6 political
 6 campaign
-5 %
 5 committee
 5 fifth
 5 10th
@@ -262,13 +261,11 @@
 2 instructor
 2 captain
 2 banking
-2 a.
 2 administrative
 2 population
 2 census
 2 plant
 2 brother
-2 ba
 2 civic
 2 hearing
 2 9th
@@ -302,7 +299,6 @@
 2 two-year
 2 rancher
 2 vice-chairman
-2 1b
 2 1st
 2 middle
 2 manager
@@ -674,10 +670,8 @@
 1 international
 1 toxic
 1 incoming
-1 mn
 1 level
 1 ninety-ninth
-1 ms
 1 author
 1 64th
 1 film
@@ -707,7 +701,6 @@
 1 twenty-third
 1 clerk
 1 orange
-1 pd
 1 online
 1 juris
 1 duo
@@ -729,7 +722,6 @@
 1 intention
 1 labor
 1 northwestern
-1 ri
 1 processing
 1 conference
 1 prominent
@@ -748,7 +740,6 @@
 1 crate
 1 transportation
 1 single
-1 2c
 1 eighty-seventh
 1 undergraduate
 1 open
@@ -758,7 +749,6 @@
 1 separate
 1 95th
 1 independence
-1 3a
 1 probate
 1 funded
 1 eightieth
@@ -781,7 +771,6 @@
 1 93rd
 1 lawing
 1 forty-fifth
-1 lǐ
 1 horse-shoe
 1 statistician
 1 litigation

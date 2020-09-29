@@ -65,7 +65,6 @@
 26 officer
 26 county
 25 chair
-25 mp
 24 name
 23 representative
 23 father
@@ -91,7 +90,6 @@
 19 councillor
 19 board
 19 conservative
-18 %
 18 area
 18 legislature
 18 death
@@ -215,7 +213,6 @@
 9 race
 9 war
 9 physician
-9 a.
 9 partner
 9 somali
 9 farmer
@@ -269,7 +266,6 @@
 7 administrator
 7 prosecutor
 7 addition
-7 ao
 7 practice
 7 longest-serving
 7 three-term
@@ -301,7 +297,6 @@
 6 economic
 6 crisis
 6 front
-6 ba
 6 11th
 6 33rd
 6 7th
@@ -577,7 +572,6 @@
 3 spokesperson
 3 bar
 3 diplomatic
-3 ac
 3 dean
 3 magna
 3 battle
@@ -594,7 +588,6 @@
 3 student
 3 total
 3 consumer
-3 pc
 3 73rd
 3 diploma
 3 adjunct
@@ -622,7 +615,6 @@
 2 much
 2 commission
 2 blood
-2 m
 2 prominence
 2 non-consecutive
 2 spending
@@ -818,14 +810,12 @@
 2 plant
 2 sdp
 2 labourer
-2 bs
 2 responsibility
 2 nickname
 2 alternate
 2 maltese
 2 fighter
 2 interview
-2 dl
 2 pheu
 2 68th
 2 forty-eighth
@@ -843,7 +833,6 @@
 2 snp
 2 corporate
 2 limit
-2 ms
 2 subcommittee
 2 fiscal
 2 bow
@@ -885,7 +874,6 @@
 2 challenge
 2 delegation
 1 german
-1 င
 1 فرح
 1 abrupt
 1 shooting
@@ -917,16 +905,10 @@
 1 hand
 1 adoptee
 1 committed
-1 c
 1 криве́нко
-1 f
-1 g
-1 l
 1 soviet
-1 n
 1 170th
 1 component
-1 r
 1 toxicologist
 1 combined
 1 surgery
@@ -1352,7 +1334,6 @@
 1 redrawn
 1 great-grandson
 1 strife
-1 .3
 1 dangerous
 1 75th
 1 plumber
@@ -1400,7 +1381,6 @@
 1 grower
 1 foreigner
 1 maternal
-1 ਲਰ
 1 fact
 1 non-governmental
 1 six-year
@@ -1408,11 +1388,9 @@
 1 lone
 1 scam
 1 landfill
-1 1b
 1 nominal
 1 christian
 1 relationship
-1 1n
 1 middle
 1 reaction
 1 84th
@@ -1428,7 +1406,6 @@
 1 project
 1 ice
 1 qso
-1 3a
 1 runner-up
 1 probate
 1 funded
@@ -1733,7 +1710,6 @@
 1 white
 1 affiliation
 1 golfer
-1 ɑː
 1 palace
 1 cater
 1 significant
@@ -1855,7 +1831,6 @@
 1 bcomm
 1 disproportionate
 1 equivalent
-1 b.
 1 rana
 1 complex
 1 draft
@@ -1874,18 +1849,14 @@
 1 abuse
 1 scheme
 1 homeland
-1 bl
 1 refinery
 1 pontian
 1 wheat
 1 cardboard
 1 completion
 1 incorrect
-1 ch
 1 sex
 1 column
-1 cm
-1 cn
 1 actor
 1 forgery
 1 lakeshore
@@ -1903,11 +1874,9 @@
 1 sowohl
 1 reeve
 1 intraparty
-1 fa
 1 mediator
 1 little
 1 chittenden-6-5
-1 h.
 1 collector
 1 content
 1 proprietor
@@ -1941,7 +1910,6 @@
 1 decree
 1 wilkes
 1 51-year
-1 jd
 1 raut
 1 freng
 1 judgement
@@ -1960,7 +1928,6 @@
 1 tradition
 1 everything
 1 politikerin
-1 m.
 1 cleric
 1 immigration
 1 calgary-egmont
@@ -1971,7 +1938,6 @@
 1 oral
 1 married
 1 138th
-1 lp
 1 moderator
 1 sign
 1 federal-provincial
@@ -2023,7 +1989,6 @@
 1 hereditary
 1 stance
 1 lineage
-1 r2
 1 elbow
 1 philippine
 1 revitalization
@@ -2031,7 +1996,6 @@
 1 گیلانی
 1 behalf
 1 scene
-1 qc
 1 geography
 1 friend
 1 injury
@@ -2042,8 +2006,6 @@
 1 horse
 1 bsc
 1 two-year
-1 ri
-1 rj
 1 commentary
 1 officeholder
 1 eighty-fifth
@@ -2061,14 +2023,11 @@
 1 maker
 1 mudgeeraba
 1 sinlapa-a-cha
-1 ts
 1 bus
-1 tv
 1 separate
 1 excellence
 1 95th
 1 ruler
-1 uc
 1 awareness
 1 eightieth
 1 infighting

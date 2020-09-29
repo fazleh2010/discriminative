@@ -97,7 +97,6 @@
 29 congressional
 29 board
 29 farmer
-29 mp
 29 county
 28 education
 28 local
@@ -127,7 +126,6 @@
 23 conservative
 23 life
 23 16th
-22 %
 22 active
 22 owner
 22 founding
@@ -288,7 +286,6 @@
 9 professional
 9 organization
 9 section
-9 a.
 9 personal
 9 national
 9 longest-serving
@@ -480,9 +477,7 @@
 5 elementary
 5 front
 5 24th
-5 ba
 5 charge
-5 cm
 5 battle
 5 collector
 5 ballot
@@ -609,7 +604,6 @@
 3 chapter
 3 alleged
 3 hand
-3 p
 3 prominence
 3 outgoing
 3 psychology
@@ -754,7 +748,6 @@
 3 immigrant
 3 immigration
 3 corporate
-3 md
 3 eldest
 3 tenth
 3 preservation
@@ -768,7 +761,6 @@
 3 ole
 3 key
 3 undergraduate
-3 tv
 3 wide
 3 compensation
 3 high-profile
@@ -797,10 +789,6 @@
 2 balanced
 2 weekly
 2 parliamentarian
-2 c
-2 l
-2 n
-2 o
 2 combined
 2 illegitimate
 2 invitation
@@ -959,7 +947,6 @@
 2 ranking
 2 abortion
 2 independence
-2 3a
 2 probate
 2 38b
 2 sergeant
@@ -1070,13 +1057,11 @@
 2 59th
 2 neighbourhood
 2 manufacturing
-2 ao
 2 chemical
 2 dean
 2 labourer
 2 dead
 2 completion
-2 ch
 2 column
 2 alternate
 2 flu
@@ -1098,7 +1083,6 @@
 2 likely
 2 147th
 2 advisory
-2 jd
 2 judgement
 2 settlement
 2 commentator
@@ -1121,7 +1105,6 @@
 2 mysore
 2 51st
 2 cousin
-2 pc
 2 strategic
 2 nation
 2 73rd
@@ -1130,10 +1113,8 @@
 2 recreation
 2 mission
 2 ph.d.
-2 st
 2 maker
 2 95th
-2 uc
 2 awareness
 2 fifteenth
 2 athlete
@@ -1143,7 +1124,6 @@
 2 infantry
 2 gas
 2 normal
-2 lǐ
 2 litigation
 2 review
 2 timber
@@ -1200,20 +1180,14 @@
 1 thant
 1 adoptee
 1 caretaker
-1 d
-1 f
 1 montréal-nord
-1 k
-1 m
 1 neighbor
 1 69th
 1 printing
 1 170th
 1 sale
 1 photograph
-1 r
 1 blue
-1 v
 1 information
 1 novel
 1 surgery
@@ -1292,7 +1266,6 @@
 1 cma
 1 francophone
 1 real-estate
-1 ఉమ
 1 winemaker
 1 five-inch
 1 matter
@@ -1379,7 +1352,6 @@
 1 incidental
 1 bahubali
 1 شیخ
-1 −
 1 integrity
 1 repya
 1 styling
@@ -1767,14 +1739,12 @@
 1 mha
 1 seventy-ninth
 1 flood
-1 د
 1 intention
 1 symptom
 1 miller
 1 highest
 1 toponymy
 1 maternal
-1 ਲਰ
 1 prolific
 1 ironic
 1 mic
@@ -1782,7 +1752,6 @@
 1 examiner
 1 ˈbræˌzəl
 1 landfill
-1 1b
 1 côte-des-neiges-notre-dame-de-grace
 1 counselor
 1 operating
@@ -1794,8 +1763,6 @@
 1 accordance
 1 auditor
 1 democracy
-1 2a
-1 2c
 1 extensive
 1 face
 1 akel
@@ -2105,7 +2072,6 @@
 1 degree.upon
 1 dmitrich
 1 rasipuram
-1 黃濤
 1 indigenous
 1 bureau
 1 entrance
@@ -2201,7 +2167,6 @@
 1 statehood
 1 jayalalithaa
 1 jew
-1 ɑː
 1 pangin
 1 amreli
 1 pan-malaysian
@@ -2343,7 +2308,6 @@
 1 parent
 1 equivalent
 1 mentor
-1 b.
 1 nazi
 1 diplomatic
 1 scg
@@ -2353,14 +2317,11 @@
 1 pension
 1 cinema
 1 grandchild
-1 ac
 1 write-in
-1 ah
 1 ancestor
 1 peach
 1 reconstructive
 1 out-going
-1 ap
 1 redistricted
 1 fold
 1 plastic
@@ -2376,7 +2337,6 @@
 1 deal
 1 sea
 1 sailor
-1 bs
 1 sudden
 1 popularity
 1 ndsah
@@ -2416,8 +2376,6 @@
 1 princeton-based
 1 chittenden-6-5
 1 murmu
-1 h.
-1 fl
 1 vocal
 1 ex-deputy
 1 parade
@@ -2484,7 +2442,6 @@
 1 belief
 1 table
 1 proficient
-1 m.
 1 cleric
 1 calgary-egmont
 1 52a
@@ -2524,7 +2481,6 @@
 1 incoming
 1 three-decade
 1 indecent
-1 ms
 1 feeling
 1 64th
 1 entry
@@ -2533,7 +2489,6 @@
 1 fiscal
 1 andreassi
 1 centrist
-1 ne
 1 tennessee-based
 1 magistrate
 1 crore
@@ -2559,16 +2514,13 @@
 1 budgeting
 1 authoriser
 1 103rd
-1 pd
 1 maple
 1 spiritual
 1 stance
 1 lineage
-1 pr
 1 চৌধুরী
 1 sikh
 1 chester-st
-1 qc
 1 na-130
 1 geography
 1 injury
@@ -2586,8 +2538,6 @@
 1 northwestern
 1 self-financed
 1 biologist
-1 ri
-1 rj
 1 bridge
 1 faridabadconstituency
 1 viaţă
@@ -2595,7 +2545,6 @@
 1 in2009
 1 royalist
 1 sub
-1 rs
 1 aaa-rated
 1 mahila
 1 eighty-fifth
@@ -2603,13 +2552,11 @@
 1 lifelong
 1 walkout
 1 thirty-second
-1 sc
 1 aiadmk
 1 apprenticeship
 1 copper
 1 great-grandfather
 1 reformist
-1 sp
 1 unemployed
 1 12a
 1 offensive
@@ -2696,7 +2643,6 @@
 1 m.p
 1 proletarian
 1 instrumental
-1 zp
 1 revolutionary
 1 coveted
 1 nationwide
@@ -2724,7 +2670,6 @@
 1 undivided
 1 harbor
 1 199th
-1 ān
 1 dozen
 1 great-great-grandfather
 1 maharaja

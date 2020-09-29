@@ -70,7 +70,6 @@
 4 veteran
 4 nominee
 4 48th
-3 %
 3 chapel
 3 southern
 3 committee
@@ -111,7 +110,6 @@
 2 13th
 2 year
 2 farm
-2 ba
 2 118th
 2 58th
 2 hearing
@@ -228,7 +226,6 @@
 1 weekly
 1 35th
 1 dollar
-1 bs
 1 aspect
 1 nickname
 1 national
@@ -303,7 +300,6 @@
 1 66th
 1 birthplace
 1 seventh
-1 jd
 1 silver
 1 partial
 1 southeast
@@ -344,7 +340,6 @@
 1 incoming
 1 level
 1 ninety-ninth
-1 ms
 1 author
 1 solitaire
 1 film
@@ -371,7 +366,6 @@
 1 twenty-third
 1 clerk
 1 doctor
-1 pd
 1 pro-business
 1 due
 1 online
@@ -395,7 +389,6 @@
 1 northwestern
 1 two-year
 1 power-sharing
-1 ri
 1 rancher
 1 reality
 1 cum
@@ -546,7 +539,6 @@
 1 cost
 1 councilor
 1 clean
-1 a.
 1 controversy
 1 house.he
 1 favor

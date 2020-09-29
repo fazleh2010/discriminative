@@ -122,7 +122,6 @@
 4 unsuccessful
 4 development
 4 nominee
-3 %
 3 merchant
 3 laude
 3 newspaper
@@ -246,7 +245,6 @@
 2 senior
 2 census
 2 brother
-2 ba
 2 118th
 2 involvement
 2 nickname
@@ -339,7 +337,6 @@
 1 28-year
 1 adoptee
 1 website
-1 c
 1 eight-year
 1 neck
 1 natural-born
@@ -545,7 +542,6 @@
 1 saw
 1 eighth
 1 unseated
-1 a.
 1 various
 1 investigation
 1 affiliate
@@ -653,7 +649,6 @@
 1 iraqi
 1 plaza
 1 arrangement
-1 md
 1 residence
 1 credit
 1 parenting
@@ -682,7 +677,6 @@
 1 control
 1 rabbi
 1 clerk
-1 pd
 1 online
 1 strategic
 1 nation
@@ -713,7 +707,6 @@
 1 ranking
 1 country
 1 bus
-1 uc
 1 co-president
 1 fifty-second
 1 collection

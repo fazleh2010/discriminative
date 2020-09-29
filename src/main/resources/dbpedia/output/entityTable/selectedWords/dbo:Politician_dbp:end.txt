@@ -17,7 +17,6 @@
 10 former
 9 minister
 9 medal
-9 mp
 8 cabinet
 8 council
 7 term
@@ -369,7 +368,6 @@
 1 oneone
 1 banner
 1 opening
-1 a.
 1 consecutive
 1 clerk
 1 due

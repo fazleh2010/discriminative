@@ -22,7 +22,6 @@
 30 term
 30 british
 29 constituency
-28 mp
 28 labor
 27 electoral
 27 coalition
@@ -96,7 +95,6 @@
 9 deputy
 9 primary
 9 daughter
-9 ao
 9 senior
 9 executive
 9 director
@@ -141,11 +139,9 @@
 6 major
 6 third
 6 assemblyman
-6 ac
 6 active
 6 involvement
 6 national
-6 pc
 6 attorney
 6 ministry
 6 manager
@@ -211,7 +207,6 @@
 4 social
 4 county
 4 firm
-4 qc
 4 secretary
 4 seit
 4 life
@@ -225,7 +220,6 @@
 4 abolition
 3 branch
 3 nationalist
-3 %
 3 merchant
 3 science
 3 wing
@@ -378,12 +372,10 @@
 2 court
 2 peace
 2 adult
-2 ba
 2 influential
 2 servant
 2 charge
 2 founder
-2 cm
 2 9th
 2 fighter
 2 emergency
@@ -424,14 +416,12 @@
 2 controller
 2 agent
 2 independence
-2 vd
 2 naval
 2 campaign
 2 anglican
 2 support
 2 infantry
 2 kit
-2 lǐ
 2 29th
 2 force
 2 contractor
@@ -489,9 +479,7 @@
 1 hard-line
 1 provocative
 1 eight-year
-1 l
 1 blood
-1 m
 1 soviet
 1 baling
 1 sunroof
@@ -862,7 +850,6 @@
 1 promoter
 1 prime
 1 24th
-1 ad
 1 past
 1 bill
 1 venture
@@ -880,12 +867,10 @@
 1 academician
 1 responsibility
 1 pontian
-1 cc
 1 innovation
 1 completion
 1 sex
 1 column
-1 周
 1 demotion
 1 staff
 1 473-vote
@@ -899,7 +884,6 @@
 1 quarter
 1 essential
 1 11th
-1 dl
 1 kincardine
 1 language
 1 bem
@@ -918,7 +902,6 @@
 1 month
 1 forty-eighth
 1 final
-1 fa
 1 mediator
 1 kcmg
 1 influenza
@@ -935,7 +918,6 @@
 1 sole
 1 hometown
 1 grandson
-1 i.
 1 length
 1 priest
 1 layman
@@ -984,7 +966,6 @@
 1 sabha
 1 commentator
 1 inquiry
-1 kb
 1 immigrant
 1 charitable/non-profit
 1 man
@@ -1021,7 +1002,6 @@
 1 compositor
 1 kcsg
 1 intensive
-1 mm
 1 citizen
 1 contest
 1 مدنے
@@ -1038,7 +1018,6 @@
 1 tenth
 1 constitution
 1 student
-1 .3
 1 muazaffargarh-iii
 1 75th
 1 ironworker
@@ -1069,12 +1048,9 @@
 1 suburb
 1 luxury
 1 writer
-1 pl
 1 caernarfonshire
 1 mercy
-1 r2
 1 convener
-1 pr
 1 downfall
 1 chester-st
 1 character
@@ -1089,14 +1065,12 @@
 1 miller
 1 two-year
 1 pbds
-1 né
 1 vice-chairman
 1 royalist
 1 religious
 1 eighty-fifth
 1 six-year
 1 lone
-1 gǔ
 1 mín
 1 british-born
 1 auctioneer
@@ -1123,7 +1097,6 @@
 1 household
 1 ranking
 1 undergraduate
-1 ts
 1 bus
 1 anglo-indian
 1 separate
@@ -1229,7 +1202,6 @@
 1 chheng
 1 butcher
 1 meggott
-1 ān
 1 circa
 1 c1740
 1 reference
@@ -1240,7 +1212,6 @@
 1 criminal
 1 long-time
 1 tenure
-1 yù
 1 swedish
 1 kauhava
 1 ill

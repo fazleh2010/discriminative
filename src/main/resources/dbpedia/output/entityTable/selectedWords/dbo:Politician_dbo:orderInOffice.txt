@@ -117,7 +117,6 @@
 36 speaker
 36 county
 35 due
-35 mp
 35 country
 35 committee
 35 co-operative
@@ -129,7 +128,6 @@
 34 graduate
 34 civil
 34 fourth
-33 %
 33 pakistani
 33 many
 33 indian
@@ -261,7 +259,6 @@
 16 2nd
 16 territory
 16 professional
-16 a.
 16 charge
 16 ruling
 16 child
@@ -315,7 +312,6 @@
 13 medical
 13 convention
 13 financial
-13 cm
 13 previous
 13 capacity
 13 located
@@ -374,7 +370,6 @@
 11 mpp
 11 autonomous
 11 organization
-11 ao
 11 peace
 11 longest-serving
 11 power
@@ -402,7 +397,6 @@
 10 honor
 10 finnish
 10 maltese
-10 pc
 10 nation
 10 single
 10 disambiguation
@@ -480,7 +474,6 @@
 8 wealthy
 8 way
 8 elementary
-8 ba
 8 proprietor
 8 management
 8 traditional
@@ -610,7 +603,6 @@
 6 no.
 6 research
 6 news
-6 ac
 6 food
 6 student
 6 undergraduate
@@ -649,7 +641,6 @@
 6 two-year
 6 socialist
 6 29th
-5 n
 5 information
 5 society
 5 top
@@ -693,7 +684,6 @@
 5 great
 5 distinction
 5 turkish
-5 dl
 5 present-day
 5 contest
 5 brick
@@ -822,11 +812,9 @@
 4 class
 4 french
 4 settlement
-4 md
 4 candidacy
 4 brief
 4 cousin
-4 qc
 4 diploma
 4 recent
 4 ole
@@ -894,7 +882,6 @@
 3 naturalized
 3 47th
 3 hand
-3 c
 3 violent
 3 representation
 3 scion
@@ -999,7 +986,6 @@
 3 defunct
 3 magnate
 3 dealer
-3 tv
 3 outreach
 3 epidemic
 3 anglican
@@ -1153,13 +1139,7 @@
 2 roll
 2 balanced
 2 gold
-2 b
-2 f
-2 g
-2 k
 2 blood
-2 m
-2 o
 2 sale
 2 illegitimate
 2 tip
@@ -1259,7 +1239,6 @@
 2 extensive
 2 residential
 2 abortion
-2 3a
 2 surprise
 2 proper
 2 organic
@@ -1338,18 +1317,15 @@
 2 redistricted
 2 storekeeper
 2 upstate
-2 au
 2 panel
 2 foot
 2 humanity
-2 ch
 2 magna
 2 flu
 2 voter
 2 sub-clan
 2 japanese
 2 criticism
-2 el
 2 reeve
 2 piece
 2 skill
@@ -1377,10 +1353,8 @@
 2 legacy
 2 fight
 2 86th
-2 pr
 2 suspension
 2 recreation
-2 rj
 2 seed
 2 eighteenth
 2 british-born
@@ -1672,16 +1646,11 @@
 1 thant
 1 provocative
 1 salt
-1 d
-1 e
 1 bencher
-1 h
 1 natural-born
 1 congolese
 1 neighbor
-1 p
 1 unimproved
-1 v
 1 surgery
 1 longshoreman
 1 اسلم
@@ -1718,7 +1687,6 @@
 1 francophone
 1 indecision
 1 one-time
-1 ō
 1 puchmayr
 1 moonilal
 1 anti-apartheid
@@ -2015,7 +1983,6 @@
 1 null
 1 millionaire
 1 bajhang-1
-1 .3
 1 mec
 1 ضاهر
 1 repeat
@@ -2041,7 +2008,6 @@
 1 elektroninen
 1 beaten
 1 outer
-1 د
 1 unique
 1 timişoara
 1 coordinating-academician
@@ -2053,19 +2019,16 @@
 1 examiner
 1 landfill
 1 years.he
-1 1b
 1 côte-des-neiges-notre-dame-de-grace
 1 mil
 1 freighter
 1 relationship
-1 1n
 1 reverent
 1 star
 1 aaden
 1 drilling
 1 84th
 1 crate
-1 2a
 1 dedicate
 1 progress
 1 respected
@@ -2271,7 +2234,6 @@
 1 mexican
 1 pasago
 1 degree.upon
-1 黃濤
 1 obituary
 1 mongolian
 1 intense
@@ -2417,21 +2379,17 @@
 1 bcomm
 1 hokule'a
 1 gaol
-1 b.
 1 rana
 1 promoter
 1 preparatory
 1 grandchild
 1 neglect
-1 ab
 1 gang
-1 ah
 1 tuberculosis
 1 supremacy
 1 hierarchy
 1 textile
 1 peach
-1 c.
 1 panic
 1 eventful
 1 second-most
@@ -2442,15 +2400,12 @@
 1 competitive
 1 takeover
 1 r.n.
-1 bl
 1 reluctance
-1 bs
 1 rape
 1 laundering
 1 popularity
 1 ndsah
 1 cardboard
-1 cn
 1 party-candidate
 1 survivor
 1 paramedic
@@ -2459,10 +2414,8 @@
 1 unitary
 1 nightcliff
 1 accomplished
-1 ಕ
 1 startup
 1 amalgamation
-1 ಠ
 1 re-integration
 1 image
 1 macadamizing
@@ -2470,12 +2423,8 @@
 1 vice-minister
 1 blight
 1 confrontation
-1 ಬ
 1 68th
-1 ಯ
 1 outgrowth
-1 h.
-1 fl
 1 vocal
 1 fox
 1 burden
@@ -2487,7 +2436,6 @@
 1 су́слова
 1 digital
 1 councilwoman
-1 i.
 1 syrup
 1 ukrainian-canadian
 1 anti-revenge
@@ -2498,7 +2446,6 @@
 1 correspondent
 1 attaché
 1 fort
-1 hd
 1 hellenic
 1 forestry
 1 wong4
@@ -2521,11 +2468,9 @@
 1 literature
 1 suffragist
 1 22-member
-1 kb
 1 third-term
 1 customary
 1 ability
-1 m.
 1 suggestion
 1 conglomerate
 1 oral
@@ -2534,7 +2479,6 @@
 1 accomplishment
 1 138th
 1 fur
-1 lp
 1 federal-provincial
 1 edge
 1 claim
@@ -2542,7 +2486,6 @@
 1 widespread
 1 antique
 1 tolerance
-1 mm
 1 indecent
 1 feeling
 1 wrench
@@ -2550,7 +2493,6 @@
 1 dismissal
 1 centrist
 1 andreassi
-1 ne
 1 bride
 1 code
 1 threshing
@@ -2559,9 +2501,7 @@
 1 victimization
 1 investigator
 1 proposition
-1 og
 1 reserve
-1 om
 1 rescue
 1 unofficial
 1 deacon
@@ -2570,8 +2510,6 @@
 1 subcouncil
 1 maple
 1 luxury
-1 pl
-1 r2
 1 strategic
 1 revitalization
 1 speaking
@@ -2601,14 +2539,12 @@
 1 necessary
 1 starter
 1 one
-1 td
 1 sect
 1 sinlapa-a-cha
 1 joint
 1 excellence
 1 اعوان
 1 ruler
-1 uc
 1 awareness
 1 conscientious
 1 kyzylorda
@@ -2629,7 +2565,6 @@
 1 screw
 1 examination
 1 old-school
-1 lǐ
 1 regime
 1 tumultuous
 1 statistician
@@ -2712,7 +2647,6 @@
 1 wild
 1 underwriter
 1 ві́ктор
-1 င
 1 fundamentalist
 1 holder-winfield
 1 sovereignty
@@ -2772,7 +2706,6 @@
 1 airline
 1 reierson
 1 lucrative
-1 ಆರ
 1 gsa
 1 pastoral
 1 china
@@ -2902,7 +2835,6 @@
 1 contentious
 1 disposable
 1 nis700
-1 ಗಪ
 1 disobedience
 1 republican-controlled
 1 viaduct
@@ -3656,7 +3588,6 @@
 1 riotous
 1 حسين
 1 undivided
-1 ān
 1 dozen
 1 great-great-grandfather
 1 kauhava

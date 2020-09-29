@@ -171,7 +171,6 @@
 1 farm
 1 tem
 1 addition
-1 %
 1 past
 1 profile
 1 36-year-incumbent
@@ -188,7 +187,6 @@
 1 debt-free
 1 adult
 1 laude
-1 ba
 1 dean
 1 independent
 1 influential
@@ -302,7 +300,6 @@
 1 dmitrich
 1 revenue
 1 academic
-1 md
 1 west
 1 residence
 1 trafficking
@@ -310,7 +307,6 @@
 1 cravaack
 1 new
 1 law
-1 ms
 1 author
 1 estate
 1 real
@@ -381,7 +377,6 @@
 1 symbol
 1 redistricting
 1 operator
-1 uc
 1 research
 1 realtor
 1 domestic
@@ -405,7 +400,6 @@
 1 convention
 1 twenty-eighth
 1 previous
-1 lǐ
 1 suspicion
 1 war
 1 29th

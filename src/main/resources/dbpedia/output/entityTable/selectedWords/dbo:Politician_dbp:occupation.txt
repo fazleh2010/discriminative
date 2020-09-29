@@ -103,7 +103,6 @@
 19 firm
 19 various
 19 northern
-19 mp
 19 attorney
 18 chief
 18 bachelor
@@ -188,7 +187,6 @@
 10 senate
 10 partner
 10 majority
-9 %
 9 vacancy
 9 late
 9 engineer
@@ -294,7 +292,6 @@
 6 book
 6 african
 6 addition
-6 cm
 6 practice
 6 20th
 6 longest-serving
@@ -550,7 +547,6 @@
 3 food
 3 46th
 3 33rd
-3 dl
 3 metropolitan
 3 collector
 3 football
@@ -565,7 +561,6 @@
 3 preservation
 3 candidacy
 3 economist
-3 pc
 3 byelection
 3 undergraduate
 3 normal
@@ -725,7 +720,6 @@
 2 alumnus
 2 project
 2 independence
-2 3a
 2 funded
 2 romanian
 2 lobster
@@ -819,7 +813,6 @@
 2 turkish
 2 elementary
 2 prosecutor
-2 a.
 2 plane
 2 equivalent
 2 draft
@@ -855,11 +848,9 @@
 2 cousin
 2 stance
 2 upper
-2 qc
 2 scandal
 2 ole
 2 conference
-2 tv
 2 commercial
 2 fifteenth
 2 extreme
@@ -887,7 +878,6 @@
 2 player
 2 schooling
 1 ak47
-1 င
 1 hamlet
 1 abrupt
 1 shooting
@@ -926,21 +916,15 @@
 1 o'malley
 1 editorial
 1 thant
-1 c
-1 d
-1 e
 1 bencher
-1 h
 1 natural-born
 1 neighbor
 1 millinery
 1 printing
 1 soviet
-1 o
 1 straight
 1 unimproved
 1 sale
-1 y
 1 novel
 1 surgery
 1 violent
@@ -1051,7 +1035,6 @@
 1 advertising
 1 incidental
 1 bahubali
-1 −
 1 repya
 1 oversight
 1 coaching
@@ -1364,7 +1347,6 @@
 1 non-governmental
 1 lone
 1 scam
-1 1b
 1 lumla
 1 1st
 1 counselor
@@ -1379,8 +1361,6 @@
 1 star
 1 drilling
 1 appeal
-1 2a
-1 2c
 1 secretary-treasurer
 1 residential
 1 ranking
@@ -1504,7 +1484,6 @@
 1 denouncer
 1 forerunner
 1 value
-1 ??
 1 high-rise
 1 trader
 1 four-candidate
@@ -1804,31 +1783,26 @@
 1 promoter
 1 grandchild
 1 24th
-1 ac
 1 gang
 1 ancestor
 1 hierarchy
 1 out-going
 1 personal
-1 ao
 1 plastic
 1 haunted
 1 indian-born
 1 patten
 1 sawmill
 1 competitive
-1 ba
 1 dean
 1 strong
 1 dead
 1 refinery
-1 bs
 1 popularity
 1 subsequent
 1 pontian
 1 innovation
 1 outstanding
-1 ch
 1 alternate
 1 flu
 1 maltese
@@ -1848,7 +1822,6 @@
 1 macadamizing
 1 piece
 1 forty-eighth
-1 fa
 1 debt
 1 salor
 1 vocal
@@ -1883,7 +1856,6 @@
 1 ccfers
 1 wilkes
 1 51-year
-1 jd
 1 judgement
 1 proportion
 1 stafferton
@@ -1915,7 +1887,6 @@
 1 widespread
 1 antique
 1 tolerance
-1 mm
 1 toxic
 1 three-decade
 1 election-2013
@@ -1937,7 +1908,6 @@
 1 adun
 1 oil
 1 auxiliary
-1 og
 1 consumer
 1 brief
 1 initiative
@@ -1946,7 +1916,6 @@
 1 control
 1 grove-st
 1 selfless
-1 pd
 1 lineage
 1 elbow
 1 downfall
@@ -1984,7 +1953,6 @@
 1 regidor
 1 single
 1 eighty-seventh
-1 ts
 1 symbol
 1 separate
 1 aide
@@ -2012,7 +1980,6 @@
 1 third-biggest
 1 gay
 1 corrupt
-1 lǐ
 1 horse-shoe
 1 regime
 1 mishing
@@ -2053,7 +2020,6 @@
 1 date
 1 passage
 1 blog
-1 ān
 1 circa
 1 drug
 1 caribou

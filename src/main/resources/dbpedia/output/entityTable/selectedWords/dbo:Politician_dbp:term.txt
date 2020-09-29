@@ -65,7 +65,6 @@
 11 cabinet
 11 part
 11 several
-11 mp
 11 county
 11 country
 11 wife
@@ -159,7 +158,6 @@
 4 history
 4 administrator
 4 regiment
-4 a.
 4 active
 4 senior
 4 medicine
@@ -263,7 +261,6 @@
 2 opposition
 2 canning
 2 parliamentarian
-2 b
 2 grocery
 2 fifth
 2 official
@@ -337,7 +334,6 @@
 2 railway
 2 addition
 2 court
-2 ba
 2 civil
 2 national
 2 biography
@@ -431,13 +427,8 @@
 1 hand
 1 policy
 1 website
-1 c
 1 salt
-1 g
-1 l
-1 m
 1 twenty-second
-1 r
 1 restaurateur
 1 mahishadal
 1 mandal
@@ -466,7 +457,6 @@
 1 53-year-old
 1 sixty-seventh
 1 six-time
-1 ଆଚ
 1 postmaster
 1 responsible
 1 disambiguation
@@ -655,7 +645,6 @@
 1 wholesale
 1 delegate-at-large
 1 whare
-1 ୟ
 1 editor
 1 grip
 1 centre
@@ -740,12 +729,10 @@
 1 panel
 1 mine
 1 retailer
-1 ch
 1 waitress
 1 column
 1 alternate
 1 staff
-1 cm
 1 9th
 1 march
 1 battle
@@ -894,14 +881,12 @@
 1 exporter
 1 state-sponsored
 1 freighter
-1 sk
 1 great-grandfather
 1 key
 1 reverent
 1 editorship
 1 honour
 1 entrepreneur
-1 td
 1 cricket
 1 dealer
 1 rower
@@ -913,7 +898,6 @@
 1 separate
 1 bishop
 1 advocate
-1 3a
 1 tobacco
 1 pahiatua
 1 sector

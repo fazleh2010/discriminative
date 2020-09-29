@@ -1,5 +1,5 @@
 [ {
-  "objectIndex" : "18",
+  "objectIndex" : "33",
   "property" : "dbp:honorificPrefix",
   "object" : "http://dbpedia.org/resource/The_Honourable",
   "distribution" : [ {
@@ -113,13 +113,6 @@
     "probabilities" : {
       "probability(first|http://dbpedia.org/resource/The_Honourable)" : 0.2508833922,
       "probability(http://dbpedia.org/resource/The_Honourable|first)" : 0.5071428571
-    }
-  }, {
-    "Word" : "mp-NN",
-    "multiply" : 0.1250844774,
-    "probabilities" : {
-      "probability(mp|http://dbpedia.org/resource/The_Honourable)" : 0.2791519435,
-      "probability(http://dbpedia.org/resource/The_Honourable|mp)" : 0.4480874317
     }
   }, {
     "Word" : "electoral-JJ",

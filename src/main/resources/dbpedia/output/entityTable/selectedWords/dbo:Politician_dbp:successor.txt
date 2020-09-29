@@ -84,8 +84,6 @@
 14 area
 14 labor
 14 14th
-14 mp
-13 %
 13 committee
 13 native
 13 due
@@ -196,11 +194,9 @@
 6 central
 6 war
 6 physician
-6 a.
 6 brother
 6 civic
 6 founder
-6 cm
 6 northern
 6 ruling
 6 secondary
@@ -305,9 +301,7 @@
 4 expert
 4 head
 4 clerk
-4 pc
 4 scandal
-4 tv
 4 commercial
 4 sector
 4 settler
@@ -412,7 +406,6 @@
 3 job
 3 original
 3 peace
-3 ba
 3 food
 3 battle
 3 advocacy
@@ -580,7 +573,6 @@
 2 spokesperson
 2 bar
 2 league
-2 ao
 2 strong
 2 partner
 2 11th
@@ -592,7 +584,6 @@
 2 congress
 2 delegate
 2 century
-2 mm
 2 contest
 2 eldest
 2 student
@@ -603,7 +594,6 @@
 2 three-term
 2 upper
 2 chester-st
-2 st
 2 decision
 2 store
 2 footballer
@@ -628,7 +618,6 @@
 2 cost
 2 councilor
 1 ak47
-1 င
 1 numerous
 1 fundamentalist
 1 pharmacist
@@ -660,12 +649,7 @@
 1 directly-elected
 1 hand
 1 thant
-1 f
-1 k
-1 l
 1 blood
-1 n
-1 o
 1 sale
 1 toxicologist
 1 prominence
@@ -932,7 +916,6 @@
 1 interior
 1 schooner
 1 wedding
-1 周
 1 redistributed
 1 staff
 1 9th
@@ -1082,7 +1065,6 @@
 1 star
 1 appeal
 1 entrepreneur
-1 2a
 1 face
 1 fish
 1 respected
@@ -1090,7 +1072,6 @@
 1 alumnus
 1 abortion
 1 anglo-indian
-1 3a
 1 runner-up
 1 hi-q
 1 tobacco
@@ -1448,7 +1429,6 @@
 1 mater
 1 ancestor
 1 redistricted
-1 au
 1 chemical
 1 plant
 1 6-thrizino-buragaon
@@ -1457,7 +1437,6 @@
 1 r.n.
 1 dead
 1 sixth
-1 bs
 1 popularity
 1 nickname
 1 subsequent
@@ -1479,8 +1458,6 @@
 1 reeve
 1 piece
 1 burrinjuck
-1 fc
-1 fl
 1 regulatory
 1 parade
 1 inner-city
@@ -1526,7 +1503,6 @@
 1 programme
 1 politikerin
 1 affordable
-1 m.
 1 fatherless
 1 side
 1 immigration
@@ -1537,12 +1513,10 @@
 1 corporate
 1 transaction
 1 fur
-1 lp
 1 dist
 1 plaza
 1 edge
 1 unexpired
-1 ma
 1 krian
 1 sufficient
 1 kadapa
@@ -1552,8 +1526,6 @@
 1 five-year
 1 fiscal
 1 andreassi
-1 ne
-1 ng
 1 bride
 1 burma
 1 bow
@@ -1573,7 +1545,6 @@
 1 চৌধুরী
 1 behalf
 1 scene
-1 qc
 1 speaking
 1 friend
 1 diploma
@@ -1675,7 +1646,6 @@
 1 bearer
 1 criminal
 1 long-time
-1 yù
 1 resource
 1 core
 1 safe

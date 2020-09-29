@@ -129,7 +129,6 @@
 4 company
 4 owner
 4 majority
-4 mp
 4 3rd
 4 clerk
 4 county
@@ -140,7 +139,6 @@
 4 council
 4 person
 4 village
-3 %
 3 science
 3 role
 3 descent
@@ -170,7 +168,6 @@
 3 past
 3 active
 3 mill
-3 ba
 3 46th
 3 director
 3 contest
@@ -366,15 +363,10 @@
 1 policy
 1 hand
 1 o'malley
-1 b
 1 fourteenth
-1 d
 1 eight-year
-1 n
 1 co-chair
-1 r
 1 grocery
-1 y
 1 combined
 1 pashtun
 1 couple
@@ -563,8 +555,6 @@
 1 liver
 1 sprawling
 1 coast
-1 ଳ
-1 ଶ
 1 southeastern
 1 یوسف
 1 ll.b
@@ -612,7 +602,6 @@
 1 clean
 1 unseated
 1 landslide
-1 a.
 1 first-generation
 1 biographer
 1 domicile
@@ -631,8 +620,6 @@
 1 24th
 1 gang
 1 chapel
-1 ao
-1 ap
 1 ਗਾਬੜੀਆ
 1 senior
 1 plant
@@ -683,7 +670,6 @@
 1 football
 1 management
 1 big
-1 ନନ
 1 practice
 1 councilmember
 1 province-wide
@@ -699,7 +685,6 @@
 1 conservation
 1 ccfers
 1 underground
-1 jd
 1 ˈlæfiː
 1 status
 1 private-practice
@@ -756,9 +741,7 @@
 1 cousin
 1 structure
 1 witness
-1 pd
 1 suburb
-1 pl
 1 duo
 1 lineage
 1 three-term
@@ -794,7 +777,6 @@
 1 global
 1 years.he
 1 state-sponsored
-1 sk
 1 great-grandfather
 1 doot-nee
 1 key
@@ -803,13 +785,11 @@
 1 maker
 1 store
 1 beloved
-1 2c
 1 eighty-seventh
 1 operation
 1 undergraduate
 1 story
 1 wool
-1 tv
 1 commercial
 1 abortion
 1 separate
@@ -817,7 +797,6 @@
 1 reputation
 1 ruler
 1 advocate
-1 3a
 1 infighting
 1 co-president
 1 fifteenth

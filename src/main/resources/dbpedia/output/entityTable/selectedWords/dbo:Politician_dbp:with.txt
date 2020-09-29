@@ -9,7 +9,6 @@
 68 election
 68 general
 44 seat
-40 mp
 36 baronet
 30 father
 26 death
@@ -56,13 +55,11 @@
 9 soldier
 9 trade
 8 peace
-8 dl
 8 borough
 8 6th
 8 4th
 8 land
 8 justice
-7 ba
 7 businessman
 7 8th
 7 5th
@@ -221,7 +218,6 @@
 2 two-seat
 2 head
 2 distinguished
-2 pc
 2 writer
 2 county
 2 surveyor
@@ -280,14 +276,12 @@
 1 sister
 1 addition
 1 rat
-1 %
 1 mile
 1 textile
 1 raw
 1 bill
 1 personal
 1 baker
-1 c.
 1 camperdown
 1 journalism
 1 senior
@@ -310,7 +304,6 @@
 1 miner
 1 gold
 1 sailor
-1 bt
 1 servant
 1 ermine
 1 dove
@@ -318,17 +311,13 @@
 1 commission
 1 policy
 1 hard-line
-1 d
-1 ch
 1 to1756
 1 lieutenant-general
 1 staff
-1 l
 1 battle
 1 descent
 1 forgery
 1 170th
-1 r
 1 inflexible
 1 series
 1 river
@@ -444,7 +433,6 @@
 1 creek
 1 known
 1 surname
-1 kb
 1 marquess
 1 bridport.he
 1 coalition
@@ -469,14 +457,11 @@
 1 main
 1 descendant
 1 body
-1 ma
-1 md
 1 opponent
 1 west
 1 argyleshire
 1 employer
 1 coalminer
-1 mm
 1 author
 1 difficult
 1 establishment
@@ -524,7 +509,6 @@
 1 battalion
 1 professional
 1 disestablishment
-1 qc
 1 bank
 1 integrity
 1 speaking
@@ -549,7 +533,6 @@
 1 device
 1 maternal
 1 continent
-1 rt
 1 industry
 1 predecessor
 1 accident
@@ -560,7 +543,6 @@
 1 unemployed
 1 cemetery
 1 grist
-1 st
 1 verderer
 1 middle
 1 manager
@@ -592,7 +574,6 @@
 1 19th
 1 advocate
 1 hat
-1 ɑː
 1 actual
 1 hay
 1 last
@@ -739,7 +720,6 @@
 1 soundness
 1 trader
 1 one-term
-1 a.
 1 sarsden
 1 biographer
 1 posterity

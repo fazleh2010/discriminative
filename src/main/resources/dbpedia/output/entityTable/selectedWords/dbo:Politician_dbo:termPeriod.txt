@@ -46,7 +46,6 @@
 21 bachelor
 21 cabinet
 21 officer
-21 mp
 20 president
 19 chief
 19 death
@@ -162,7 +161,6 @@
 6 justice
 6 re-election
 6 trade
-5 %
 5 opposition
 5 medal
 5 age
@@ -176,7 +174,6 @@
 5 water
 5 important
 5 principal
-5 a.
 5 third
 5 rank
 5 railway
@@ -199,7 +196,6 @@
 4 newspaper
 4 miner
 4 policy
-4 b
 4 homestead
 4 female
 4 10th
@@ -228,7 +224,6 @@
 4 history
 4 lecturer
 4 bar
-4 ba
 4 charge
 4 fighter
 4 owner
@@ -264,7 +259,6 @@
 3 farm
 3 certified
 3 hand
-3 r
 3 fifth
 3 mandal
 3 jail
@@ -363,9 +357,6 @@
 2 southern
 2 defence
 2 result
-2 k
-2 m
-2 p
 2 co-chair
 2 specialising
 2 comptroller
@@ -452,7 +443,6 @@
 2 milk
 2 english-born
 2 personal
-2 ao
 2 storekeeper
 2 farming
 2 founder
@@ -481,7 +471,6 @@
 2 literature
 2 smt
 2 illness
-2 m.
 2 side
 2 pradesh
 2 use
@@ -489,7 +478,6 @@
 2 radio
 2 ruling
 2 revenue
-2 md
 2 waterside
 2 level
 2 author
@@ -507,7 +495,6 @@
 2 vice-chairman
 2 conference
 2 vice-president
-2 st
 2 star
 2 decision
 2 store
@@ -593,16 +580,13 @@
 1 close
 1 editorial
 1 106th
-1 c
 1 licensed
 1 caretaker
-1 l
 1 straight
 1 descent
 1 170th
 1 swing
 1 sale
-1 v
 1 militarized
 1 hague
 1 information
@@ -646,7 +630,6 @@
 1 53-year-old
 1 sixty-seventh
 1 campaigner
-1 ଆଚ
 1 end
 1 correctional
 1 ˈlaɪən
@@ -818,7 +801,6 @@
 1 white
 1 statehood
 1 scheduling
-1 ɑː
 1 budget
 1 lumberman
 1 pangin
@@ -854,7 +836,6 @@
 1 बाबा
 1 aspley
 1 bond
-1 ಗಪ
 1 urban
 1 disobedience
 1 guidance
@@ -884,10 +865,8 @@
 1 28th
 1 coast
 1 berhampore
-1 ଳ
 1 passenger
 1 tiny
-1 ଶ
 1 1437-crore
 1 consultation
 1 participation
@@ -907,7 +886,6 @@
 1 theme
 1 planner
 1 tire
-1 ୟ
 1 democratic-npl
 1 grip
 1 lpg
@@ -981,13 +959,11 @@
 1 preacher
 1 prime
 1 delimitation
-1 ad
 1 festival
 1 preference
 1 opportunity
 1 bill
 1 chapel
-1 ap
 1 ਗਾਬੜੀਆ
 1 fold
 1 lesbian
@@ -1000,7 +976,6 @@
 1 relative
 1 mega
 1 dyanamic
-1 bc
 1 treatment
 1 deal
 1 strong
@@ -1014,9 +989,6 @@
 1 wheat
 1 panel
 1 then-senator
-1 cc
-1 ണന
-1 ch
 1 staff
 1 possible
 1 march
@@ -1034,17 +1006,14 @@
 1 namatijra
 1 emergency
 1 language
-1 ds
 1 chinese
 1 nightcliff
-1 ಕ
 1 bird
 1 advocacy
 1 legal
 1 midst
 1 ysr
 1 landmark
-1 ಠ
 1 mache
 1 consultancy
 1 seniormost
@@ -1083,7 +1052,6 @@
 1 diplomat
 1 bid
 1 big
-1 ନନ
 1 qualified
 1 advanced
 1 chemotherapy
@@ -1117,7 +1085,6 @@
 1 cycle
 1 summer
 1 inquiry
-1 ka
 1 longest-serving
 1 leisure
 1 programme
@@ -1148,9 +1115,7 @@
 1 different
 1 chronic
 1 compositor
-1 mm
 1 louez
-1 mn
 1 contest
 1 dry
 1 pressure
@@ -1185,7 +1150,6 @@
 1 recycling
 1 four-x
 1 selfless
-1 pc
 1 breast
 1 non-party
 1 চৌধুরী
@@ -1219,7 +1183,6 @@
 1 extended
 1 long
 1 landfill
-1 sc
 1 british-born
 1 auctioneer
 1 aiadmk
@@ -1232,8 +1195,6 @@
 1 renewal
 1 orator
 1 auditor
-1 ta
-1 td
 1 face
 1 collaboration
 1 sect
@@ -1260,7 +1221,6 @@
 1 aicd
 1 thrice
 1 balonne
-1 vd
 1 ranch
 1 psychiatrist
 1 vital

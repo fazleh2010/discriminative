@@ -50,7 +50,6 @@
 48 by-election
 46 native
 46 malaysian
-46 mp
 45 second
 44 electorate
 43 current
@@ -150,7 +149,6 @@
 14 manager
 14 16th
 14 development
-13 %
 13 session
 13 company
 13 man
@@ -280,7 +278,6 @@
 7 section
 7 administrator
 7 peace
-7 cm
 7 football
 7 author
 6 newspaper
@@ -310,7 +307,6 @@
 6 bid
 6 immigrant
 6 clerk
-6 pc
 6 rancher
 6 variety
 6 single
@@ -326,7 +322,6 @@
 5 wing
 5 masters
 5 miner
-5 b
 5 young
 5 disambiguation
 5 pilot
@@ -363,10 +358,8 @@
 5 freedom
 5 whip
 5 captain
-5 a.
 5 latter
 5 rank
-5 ao
 5 medicine
 5 20th
 5 contest
@@ -446,7 +439,6 @@
 4 large
 4 head
 4 diploma
-4 st
 4 separate
 4 anglican
 4 road
@@ -558,7 +550,6 @@
 3 spokesperson
 3 northeastern
 3 addition
-3 ba
 3 subsequent
 3 food
 3 partner
@@ -594,8 +585,6 @@
 2 reserved
 2 commission
 2 licensed
-2 n
-2 r
 2 fifth
 2 prominence
 2 34th
@@ -721,7 +710,6 @@
 2 akel
 2 operation
 2 militia
-2 3a
 2 romanian
 2 conflict
 2 assistance
@@ -817,11 +805,9 @@
 2 24th
 2 sea
 2 sixth
-2 ch
 2 dissatisfaction
 2 river
 2 33rd
-2 dl
 2 amalgamation
 2 metropolitan
 2 reeve
@@ -852,7 +838,6 @@
 2 access
 2 apprenticeship
 2 orator
-2 td
 2 cricket
 2 dealer
 2 mudgeeraba
@@ -883,7 +868,6 @@
 1 ak47
 1 tdp
 1 half
-1 င
 1 surgeon
 1 hall
 1 remote
@@ -918,19 +902,12 @@
 1 kelalan
 1 bouvier
 1 thant
-1 e
 1 bencher
-1 f
-1 h
-1 m
 1 blood
-1 o
-1 p
 1 unimproved
 1 170th
 1 photograph
 1 sale
-1 v
 1 unprecedented
 1 novel
 1 surgery
@@ -957,7 +934,6 @@
 1 53-year-old
 1 196th
 1 fatal
-1 ଆଚ
 1 postmaster
 1 singaporean
 1 reierson
@@ -1068,7 +1044,6 @@
 1 شیخ
 1 unimportant
 1 pita
-1 −
 1 integrity
 1 crook
 1 meeting
@@ -1263,8 +1238,6 @@
 1 airman
 1 ombudsman
 1 hearing
-1 ണന
-1 周
 1 redistributed
 1 demotion
 1 possible
@@ -1305,7 +1278,6 @@
 1 grand
 1 الدین
 1 overwhelming
-1 ନନ
 1 qualified
 1 brothers
 1 unionism
@@ -1406,7 +1378,6 @@
 1 yogic
 1 animal
 1 re-mediation
-1 ਲਰ
 1 prolific
 1 religious
 1 fact
@@ -1416,7 +1387,6 @@
 1 ˈbræˌzəl
 1 landfill
 1 lumla
-1 1b
 1 state-sponsored
 1 free
 1 equality
@@ -1546,7 +1516,6 @@
 1 empowerment
 1 maharashtra
 1 value
-1 ??
 1 fairness
 1 soundness
 1 four-candidate
@@ -1779,8 +1748,6 @@
 1 plan
 1 generation
 1 berhampore
-1 ଳ
-1 ଶ
 1 berfore
 1 vərˈdoʊli.æk
 1 participation
@@ -1798,7 +1765,6 @@
 1 mustapa
 1 whare
 1 seminary
-1 ୟ
 1 insider
 1 lobbyist
 1 bloess
@@ -1863,9 +1829,7 @@
 1 offer
 1 dhule
 1 delimitation
-1 ab
 1 personal
-1 ap
 1 fold
 1 storekeeper
 1 indian-born
@@ -1879,11 +1843,9 @@
 1 6-thrizino-buragaon
 1 abuse
 1 takeover
-1 bl
 1 dead
 1 proven
 1 refinery
-1 bs
 1 sailor
 1 insurer
 1 nickname
@@ -1914,7 +1876,6 @@
 1 three-time
 1 68th
 1 burrinjuck
-1 fa
 1 salor
 1 trained
 1 murmu
@@ -1938,7 +1899,6 @@
 1 sawmiller
 1 کھوسہ
 1 living
-1 i.
 1 obe
 1 merger
 1 promotion
@@ -1965,7 +1925,6 @@
 1 conservation
 1 ccfers
 1 raiganj
-1 jd
 1 re-opening
 1 bankruptcy
 1 majority.he
@@ -1977,7 +1936,6 @@
 1 world
 1 dalit
 1 inquiry
-1 ka
 1 third-term
 1 customary
 1 smt
@@ -1985,7 +1943,6 @@
 1 longest-serving
 1 programme
 1 columnist
-1 m.
 1 fatherless
 1 side
 1 calgary-egmont
@@ -2009,15 +1966,12 @@
 1 dist
 1 wriedt
 1 maternity
-1 md
 1 limit
 1 kadapa
 1 claim
 1 communication
 1 petroleum
-1 mm
 1 three-decade
-1 ms
 1 headquarters
 1 magistrate
 1 coal
@@ -2054,7 +2008,6 @@
 1 al-muslimin
 1 downfall
 1 behalf
-1 qc
 1 speaking
 1 na-130
 1 injury
@@ -2071,7 +2024,6 @@
 1 two-year
 1 self-financed
 1 singular
-1 né
 1 bridge
 1 viaţă
 1 bsp
@@ -2080,8 +2032,6 @@
 1 owaisi
 1 conference
 1 activity
-1 gǔ
-1 sc
 1 british-born
 1 auctioneer
 1 aiadmk
@@ -2101,18 +2051,14 @@
 1 bud
 1 undergraduate
 1 story
-1 ts
-1 tv
 1 95th
 1 اعوان
-1 uc
 1 awareness
 1 na-177
 1 na-178
 1 farmhouse
 1 bramley-moore
 1 epidemic
-1 vd
 1 ranch
 1 cavalry
 1 4-july-1992
@@ -2128,7 +2074,6 @@
 1 normal
 1 socialist
 1 corrupt
-1 lǐ
 1 mishing
 1 socialism
 1 stone
@@ -2200,7 +2145,6 @@
 1 massage
 1 long-time
 1 regent
-1 yù
 1 individual
 1 resource
 1 rajasthan.he

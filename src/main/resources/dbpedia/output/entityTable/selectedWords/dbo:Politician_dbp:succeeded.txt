@@ -178,7 +178,6 @@
 2 numerous
 2 36th
 2 23rd
-2 %
 2 community
 2 journalism
 2 planning
@@ -248,7 +247,6 @@
 2 administrative
 2 addition
 2 brother
-2 ba
 2 118th
 2 staff
 2 magna
@@ -341,7 +339,6 @@
 1 steelworker
 1 parliamentarian
 1 website
-1 c
 1 eight-year
 1 neck
 1 natural-born
@@ -557,7 +554,6 @@
 1 snarlin
 1 unseated
 1 clean
-1 a.
 1 various
 1 investigation
 1 affiliate
@@ -664,12 +660,10 @@
 1 subject
 1 iraqi
 1 plaza
-1 md
 1 limit
 1 residence
 1 credit
 1 citizen
-1 mn
 1 three-decade
 1 level
 1 establishment
@@ -731,7 +725,6 @@
 1 brownback
 1 ice
 1 95th
-1 uc
 1 funded
 1 eightieth
 1 co-president

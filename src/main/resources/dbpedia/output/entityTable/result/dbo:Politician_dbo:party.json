@@ -176,13 +176,6 @@
       "probability(http://dbpedia.org/resource/Liberal_Party_(UK)|wife)" : 0.4071661238
     }
   }, {
-    "Word" : "mp-NN",
-    "multiply" : 0.1119381556,
-    "probabilities" : {
-      "probability(mp|http://dbpedia.org/resource/Liberal_Party_(UK))" : 0.7268041237,
-      "probability(http://dbpedia.org/resource/Liberal_Party_(UK)|mp)" : 0.1540141999
-    }
-  }, {
     "Word" : "seat-NN",
     "multiply" : 0.1090787453,
     "probabilities" : {
@@ -363,13 +356,6 @@
       "probability(http://dbpedia.org/resource/Republican_Party_(United_States)|city)" : 0.1239048811
     }
   }, {
-    "Word" : "mp-NN",
-    "multiply" : 0.0218627389,
-    "probabilities" : {
-      "probability(mp|http://dbpedia.org/resource/Republican_Party_(United_States))" : 0.2760736196,
-      "probability(http://dbpedia.org/resource/Republican_Party_(United_States)|mp)" : 0.0791916985
-    }
-  }, {
     "Word" : "attorney-NN",
     "multiply" : 0.021806763,
     "probabilities" : {
@@ -502,6 +488,39 @@
 }, {
   "objectIndex" : "6",
   "property" : "dbo:party",
+  "object" : "http://dbpedia.org/resource/Ontario_Liberal_Party",
+  "distribution" : [ {
+    "Word" : "liberal-JJ",
+    "multiply" : 0.0867426255,
+    "probabilities" : {
+      "probability(liberal|http://dbpedia.org/resource/Ontario_Liberal_Party)" : 0.9743589744,
+      "probability(http://dbpedia.org/resource/Ontario_Liberal_Party|liberal)" : 0.0890253262
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.048026048,
+    "probabilities" : {
+      "probability(legislative|http://dbpedia.org/resource/Ontario_Liberal_Party)" : 0.9829059829,
+      "probability(http://dbpedia.org/resource/Ontario_Liberal_Party|legislative)" : 0.0488612836
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.039842977,
+    "probabilities" : {
+      "probability(assembly|http://dbpedia.org/resource/Ontario_Liberal_Party)" : 0.9829059829,
+      "probability(http://dbpedia.org/resource/Ontario_Liberal_Party|assembly)" : 0.0405358983
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.0224614218,
+    "probabilities" : {
+      "probability(member|http://dbpedia.org/resource/Ontario_Liberal_Party)" : 0.9401709402,
+      "probability(http://dbpedia.org/resource/Ontario_Liberal_Party|member)" : 0.023890785
+    }
+  } ]
+}, {
+  "objectIndex" : "7",
+  "property" : "dbo:party",
   "object" : "http://dbpedia.org/resource/Labor_Party_(UK)",
   "distribution" : [ {
     "Word" : "labour-NN",
@@ -537,13 +556,6 @@
     "probabilities" : {
       "probability(seat|http://dbpedia.org/resource/Labor_Party_(UK))" : 0.6019736842,
       "probability(http://dbpedia.org/resource/Labor_Party_(UK)|seat)" : 0.1582978723
-    }
-  }, {
-    "Word" : "mp-NN",
-    "multiply" : 0.0873444192,
-    "probabilities" : {
-      "probability(mp|http://dbpedia.org/resource/Labor_Party_(UK))" : 0.7203947368,
-      "probability(http://dbpedia.org/resource/Labor_Party_(UK)|mp)" : 0.1212452212
     }
   }, {
     "Word" : "party-NN",
@@ -645,7 +657,7 @@
     }
   } ]
 }, {
-  "objectIndex" : "7",
+  "objectIndex" : "8",
   "property" : "dbo:party",
   "object" : "http://dbpedia.org/resource/Democratic_Party_(United_States)",
   "distribution" : [ {
@@ -796,13 +808,6 @@
       "probability(http://dbpedia.org/resource/Democratic_Party_(United_States)|council)" : 0.1196094386
     }
   }, {
-    "Word" : "mp-NN",
-    "multiply" : 0.0225135819,
-    "probabilities" : {
-      "probability(mp|http://dbpedia.org/resource/Democratic_Party_(United_States))" : 0.2328947368,
-      "probability(http://dbpedia.org/resource/Democratic_Party_(United_States)|mp)" : 0.0966684872
-    }
-  }, {
     "Word" : "attorney-NN",
     "multiply" : 0.0224494887,
     "probabilities" : {
@@ -818,7 +823,7 @@
     }
   } ]
 }, {
-  "objectIndex" : "8",
+  "objectIndex" : "9",
   "property" : "dbo:party",
   "object" : "http://dbpedia.org/resource/Indian_National_Congress",
   "distribution" : [ {

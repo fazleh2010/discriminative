@@ -72,7 +72,6 @@
 19 part
 19 father
 19 several
-18 %
 18 primary
 17 third
 17 senior
@@ -81,7 +80,6 @@
 17 new
 17 black
 17 15th
-17 mp
 16 4th
 16 senator
 16 local
@@ -233,7 +231,6 @@
 6 majority
 6 high
 6 3rd
-6 pc
 6 tax
 5 notable
 5 disambiguation
@@ -336,10 +333,8 @@
 4 original
 4 front
 4 rank
-4 ba
 4 civic
 4 46th
-4 dl
 4 metropolitan
 4 football
 4 different
@@ -452,14 +447,11 @@
 3 philanthropist
 3 party.he
 3 unseated
-3 a.
 3 administrative
 3 24th
-3 ao
 3 sixth
 3 column
 3 medicine
-3 cm
 3 battle
 3 33rd
 3 skill
@@ -473,7 +465,6 @@
 3 nation
 3 rancher
 3 conference
-3 tv
 3 sector
 3 region
 3 previous
@@ -582,7 +573,6 @@
 2 middle
 2 auditor
 2 reputation
-2 3a
 2 assistance
 2 slavery
 2 val
@@ -725,12 +715,7 @@
 1 result
 1 golf
 1 provocative
-1 c
-1 k
 1 blood
-1 n
-1 o
-1 v
 1 militarized
 1 unprecedented
 1 toxicologist
@@ -794,7 +779,6 @@
 1 protection
 1 nigerian
 1 matter
-1 ō
 1 injured
 1 fèngqiān
 1 fraternity
@@ -1011,7 +995,6 @@
 1 hearing
 1 unilingual
 1 ꭴꭹꮝꮤ
-1 周
 1 demotion
 1 staff
 1 yacula
@@ -1132,13 +1115,11 @@
 1 elektroninen
 1 intention
 1 undertaker
-1 د
 1 symptom
 1 highest
 1 animal
 1 ministry
 1 maternal
-1 ਲਰ
 1 religious
 1 fact
 1 six-year
@@ -1146,7 +1127,6 @@
 1 vice-president
 1 lone
 1 global
-1 1b
 1 mil
 1 counselor
 1 equality
@@ -1156,7 +1136,6 @@
 1 accordance
 1 drilling
 1 dedicate
-1 2c
 1 extensive
 1 ranking
 1 respected
@@ -1175,7 +1154,6 @@
 1 38b
 1 romanian
 1 autobiographical
-1 4b
 1 psychiatrist
 1 sergeant
 1 vital
@@ -1506,7 +1484,6 @@
 1 cinema
 1 preparatory
 1 grandchild
-1 ac
 1 write-in
 1 gang
 1 ancestor
@@ -1523,8 +1500,6 @@
 1 deal
 1 scheme
 1 takeover
-1 bl
-1 d.
 1 dead
 1 proven
 1 responsibility
@@ -1533,7 +1508,6 @@
 1 wheat
 1 panel
 1 completion
-1 ch
 1 survivor
 1 actor
 1 fighter
@@ -1549,7 +1523,6 @@
 1 mutasarrif
 1 criticism
 1 mache
-1 el
 1 polygamy
 1 68th
 1 outgrowth
@@ -1576,7 +1549,6 @@
 1 anti-revenge
 1 obe
 1 pathologist
-1 hd
 1 peasant
 1 big
 1 corridor
@@ -1599,12 +1571,10 @@
 1 77th
 1 settlement
 1 astronomer
-1 kb
 1 customary
 1 ability
 1 programme
 1 table
-1 m.
 1 cleric
 1 calgary-egmont
 1 52a
@@ -1614,14 +1584,12 @@
 1 corporate
 1 bailiwick
 1 transaction
-1 lp
 1 bribe
 1 dist
 1 resident-general
 1 unexpired
 1 indo-canadian
 1 publication
-1 md
 1 kadapa
 1 antique
 1 communication
@@ -1633,7 +1601,6 @@
 1 eldest
 1 andreassi
 1 re-match
-1 ng
 1 coal
 1 legacy
 1 tenth
@@ -1669,7 +1636,6 @@
 1 community-practice
 1 ole
 1 شاه
-1 rj
 1 singular
 1 faridabadconstituency
 1 viaţă
@@ -1677,7 +1643,6 @@
 1 lifelong
 1 wrongdoing
 1 thirty-second
-1 sc
 1 british-born
 1 copper
 1 great-grandfather
@@ -1686,7 +1651,6 @@
 1 decision
 1 starter
 1 monster
-1 td
 1 orig
 1 cricket
 1 commercial
@@ -1715,7 +1679,6 @@
 1 enumerator
 1 virtue
 1 gay
-1 lǐ
 1 horse-shoe
 1 regime
 1 statistician
@@ -1763,7 +1726,6 @@
 1 hentley
 1 plaid
 1 regent
-1 yù
 1 stranded
 1 core
 1 maladministration
