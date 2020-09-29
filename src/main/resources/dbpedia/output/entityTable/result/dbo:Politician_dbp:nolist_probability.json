@@ -1,0 +1,83 @@
+[ {
+  "objectIndex" : "18",
+  "property" : "dbp:nolist",
+  "object" : "true",
+  "detail" : [ {
+    "Word" : "parliament-NN",
+    "multiply" : 0.8958333333,
+    "probabilities" : {
+      "P(word | object)=(parliament|true)" : 0.8958333333,
+      "P(object | word)=(true|parliament)" : 1.0
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.8833333333,
+    "probabilities" : {
+      "P(word | object)=(member|true)" : 0.8833333333,
+      "P(object | word)=(true|member)" : 1.0
+    }
+  }, {
+    "Word" : "electorate-NN",
+    "multiply" : 0.7541666667,
+    "probabilities" : {
+      "P(word | object)=(electorate|true)" : 0.7541666667,
+      "P(object | word)=(true|electorate)" : 1.0
+    }
+  }, {
+    "Word" : "son-NN",
+    "multiply" : 0.3291666667,
+    "probabilities" : {
+      "P(word | object)=(son|true)" : 0.3291666667,
+      "P(object | word)=(true|son)" : 1.0
+    }
+  }, {
+    "Word" : "region-NN",
+    "multiply" : 0.2125,
+    "probabilities" : {
+      "P(word | object)=(region|true)" : 0.2125,
+      "P(object | word)=(true|region)" : 1.0
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.1875,
+    "probabilities" : {
+      "P(word | object)=(election|true)" : 0.1875,
+      "P(object | word)=(true|election)" : 1.0
+    }
+  }, {
+    "Word" : "politician-NN",
+    "multiply" : 0.1791666667,
+    "probabilities" : {
+      "P(word | object)=(politician|true)" : 0.1791666667,
+      "P(object | word)=(true|politician)" : 1.0
+    }
+  }, {
+    "Word" : "first-JJ",
+    "multiply" : 0.1041666667,
+    "probabilities" : {
+      "P(word | object)=(first|true)" : 0.1041666667,
+      "P(object | word)=(true|first)" : 1.0
+    }
+  }, {
+    "Word" : "by-election-NN",
+    "multiply" : 0.1,
+    "probabilities" : {
+      "P(word | object)=(by-election|true)" : 0.1,
+      "P(object | word)=(true|by-election)" : 1.0
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.0666666667,
+    "probabilities" : {
+      "P(word | object)=(conservative|true)" : 0.0666666667,
+      "P(object | word)=(true|conservative)" : 1.0
+    }
+  }, {
+    "Word" : "independent-JJ",
+    "multiply" : 0.0625,
+    "probabilities" : {
+      "P(word | object)=(independent|true)" : 0.0625,
+      "P(object | word)=(true|independent)" : 1.0
+    }
+  } ]
+} ]

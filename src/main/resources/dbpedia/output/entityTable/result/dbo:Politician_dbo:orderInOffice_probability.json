@@ -1,0 +1,137 @@
+[ {
+  "objectIndex" : "25",
+  "property" : "dbo:orderInOffice",
+  "object" : "Ontario MPP",
+  "detail" : [ {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.1028888009,
+    "probabilities" : {
+      "P(word | object)=(legislative|Ontario MPP)" : 0.977443609,
+      "P(object | word)=(Ontario MPP|legislative)" : 0.1052631579
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.1005588111,
+    "probabilities" : {
+      "P(word | object)=(conservative|Ontario MPP)" : 0.6466165414,
+      "P(object | word)=(Ontario MPP|conservative)" : 0.1555153707
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.0862645412,
+    "probabilities" : {
+      "P(word | object)=(assembly|Ontario MPP)" : 0.977443609,
+      "P(object | word)=(Ontario MPP|assembly)" : 0.0882552614
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.0558169325,
+    "probabilities" : {
+      "P(word | object)=(member|Ontario MPP)" : 0.962406015,
+      "P(object | word)=(Ontario MPP|member)" : 0.0579972814
+    }
+  }, {
+    "Word" : "cabinet-NN",
+    "multiply" : 0.0365655781,
+    "probabilities" : {
+      "P(word | object)=(cabinet|Ontario MPP)" : 0.3007518797,
+      "P(object | word)=(Ontario MPP|cabinet)" : 0.1215805471
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.0226742973,
+    "probabilities" : {
+      "P(word | object)=(former|Ontario MPP)" : 0.3759398496,
+      "P(object | word)=(Ontario MPP|former)" : 0.0603136309
+    }
+  } ]
+}, {
+  "objectIndex" : "26",
+  "property" : "dbo:orderInOffice",
+  "object" : "Member of the Legislative Assembly of Alberta",
+  "detail" : [ {
+    "Word" : "caucus-NN",
+    "multiply" : 0.5434303097,
+    "probabilities" : {
+      "P(word | object)=(caucus|Member of the Legislative Assembly of Alberta)" : 0.7889273356,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|caucus)" : 0.6888217523
+    }
+  }, {
+    "Word" : "provincial-JJ",
+    "multiply" : 0.3249472406,
+    "probabilities" : {
+      "P(word | object)=(provincial|Member of the Legislative Assembly of Alberta)" : 0.8788927336,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|provincial)" : 0.3697234352
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.2307804379,
+    "probabilities" : {
+      "P(word | object)=(legislative|Member of the Legislative Assembly of Alberta)" : 0.9930795848,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|legislative)" : 0.232388664
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.1934920847,
+    "probabilities" : {
+      "P(word | object)=(assembly|Member of the Legislative Assembly of Alberta)" : 0.9930795848,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|assembly)" : 0.1948404616
+    }
+  }, {
+    "Word" : "level-NN",
+    "multiply" : 0.1577190591,
+    "probabilities" : {
+      "P(word | object)=(level|Member of the Legislative Assembly of Alberta)" : 0.3287197232,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|level)" : 0.4797979798
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.124680358,
+    "probabilities" : {
+      "P(word | object)=(member|Member of the Legislative Assembly of Alberta)" : 0.9757785467,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|member)" : 0.1277752605
+    }
+  }, {
+    "Word" : "government-NN",
+    "multiply" : 0.103741716,
+    "probabilities" : {
+      "P(word | object)=(government|Member of the Legislative Assembly of Alberta)" : 0.4602076125,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|government)" : 0.2254237288
+    }
+  }, {
+    "Word" : "opposition-NN",
+    "multiply" : 0.0816724981,
+    "probabilities" : {
+      "P(word | object)=(opposition|Member of the Legislative Assembly of Alberta)" : 0.2249134948,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|opposition)" : 0.3631284916
+    }
+  }, {
+    "Word" : "farmer-NN",
+    "multiply" : 0.0568865654,
+    "probabilities" : {
+      "P(word | object)=(farmer|Member of the Legislative Assembly of Alberta)" : 0.1903114187,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|farmer)" : 0.2989130435
+    }
+  }, {
+    "Word" : "time-NN",
+    "multiply" : 0.0327611775,
+    "probabilities" : {
+      "P(word | object)=(time|Member of the Legislative Assembly of Alberta)" : 0.214532872,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|time)" : 0.1527093596
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.0315423265,
+    "probabilities" : {
+      "P(word | object)=(conservative|Member of the Legislative Assembly of Alberta)" : 0.2456747405,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|conservative)" : 0.1283905967
+    }
+  }, {
+    "Word" : "position-NN",
+    "multiply" : 0.0294152458,
+    "probabilities" : {
+      "P(word | object)=(position|Member of the Legislative Assembly of Alberta)" : 0.2249134948,
+      "P(object | word)=(Member of the Legislative Assembly of Alberta|position)" : 0.1307847082
+    }
+  } ]
+} ]

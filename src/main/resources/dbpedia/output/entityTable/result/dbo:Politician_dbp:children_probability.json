@@ -1,0 +1,422 @@
+[ {
+  "objectIndex" : "15",
+  "property" : "dbp:children",
+  "object" : "1",
+  "detail" : [ {
+    "Word" : "lok-NN",
+    "multiply" : 0.1493354599,
+    "probabilities" : {
+      "P(word | object)=(lok|1)" : 0.4818181818,
+      "P(object | word)=(1|lok)" : 0.3099415205
+    }
+  }, {
+    "Word" : "sabha-NN",
+    "multiply" : 0.138034398,
+    "probabilities" : {
+      "P(word | object)=(sabha|1)" : 0.4818181818,
+      "P(object | word)=(1|sabha)" : 0.2864864865
+    }
+  }, {
+    "Word" : "constituency-NN",
+    "multiply" : 0.1348692403,
+    "probabilities" : {
+      "P(word | object)=(constituency|1)" : 0.5181818182,
+      "P(object | word)=(1|constituency)" : 0.2602739726
+    }
+  }, {
+    "Word" : "indian-JJ",
+    "multiply" : 0.1072956455,
+    "probabilities" : {
+      "P(word | object)=(indian|1)" : 0.4818181818,
+      "P(object | word)=(1|indian)" : 0.2226890756
+    }
+  }, {
+    "Word" : "14th-JJ",
+    "multiply" : 0.079811098,
+    "probabilities" : {
+      "P(word | object)=(14th|1)" : 0.2363636364,
+      "P(object | word)=(1|14th)" : 0.3376623377
+    }
+  }, {
+    "Word" : "4th-JJ",
+    "multiply" : 0.073513986,
+    "probabilities" : {
+      "P(word | object)=(4th|1)" : 0.2636363636,
+      "P(object | word)=(1|4th)" : 0.2788461538
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.0658194474,
+    "probabilities" : {
+      "P(word | object)=(member|1)" : 0.7181818182,
+      "P(object | word)=(1|member)" : 0.0916473318
+    }
+  }, {
+    "Word" : "party-NN",
+    "multiply" : 0.0528541226,
+    "probabilities" : {
+      "P(word | object)=(party|1)" : 0.4545454545,
+      "P(object | word)=(1|party)" : 0.1162790698
+    }
+  }, {
+    "Word" : "part-NN",
+    "multiply" : 0.0446942149,
+    "probabilities" : {
+      "P(word | object)=(part|1)" : 0.4727272727,
+      "P(object | word)=(1|part)" : 0.0945454545
+    }
+  }, {
+    "Word" : "political-JJ",
+    "multiply" : 0.0416799575,
+    "probabilities" : {
+      "P(word | object)=(political|1)" : 0.2545454545,
+      "P(object | word)=(1|political)" : 0.1637426901
+    }
+  }, {
+    "Word" : "parliament-NN",
+    "multiply" : 0.0315656566,
+    "probabilities" : {
+      "P(word | object)=(parliament|1)" : 0.2272727273,
+      "P(object | word)=(1|parliament)" : 0.1388888889
+    }
+  }, {
+    "Word" : "minister-NN",
+    "multiply" : 0.0285658307,
+    "probabilities" : {
+      "P(word | object)=(minister|1)" : 0.2454545455,
+      "P(object | word)=(1|minister)" : 0.1163793103
+    }
+  }, {
+    "Word" : "15th-JJ",
+    "multiply" : 0.0267379679,
+    "probabilities" : {
+      "P(word | object)=(15th|1)" : 0.0909090909,
+      "P(object | word)=(1|15th)" : 0.2941176471
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.0256198347,
+    "probabilities" : {
+      "P(word | object)=(election|1)" : 0.2818181818,
+      "P(object | word)=(1|election)" : 0.0909090909
+    }
+  }, {
+    "Word" : "16th-JJ",
+    "multiply" : 0.0212121212,
+    "probabilities" : {
+      "P(word | object)=(16th|1)" : 0.0636363636,
+      "P(object | word)=(1|16th)" : 0.3333333333
+    }
+  } ]
+}, {
+  "objectIndex" : "16",
+  "property" : "dbp:children",
+  "object" : "2",
+  "detail" : [ {
+    "Word" : "member-NN",
+    "multiply" : 0.13238485,
+    "probabilities" : {
+      "P(word | object)=(member|2)" : 0.7268518519,
+      "P(object | word)=(2|member)" : 0.1821345708
+    }
+  }, {
+    "Word" : "sabha-NN",
+    "multiply" : 0.0900900901,
+    "probabilities" : {
+      "P(word | object)=(sabha|2)" : 0.2777777778,
+      "P(object | word)=(2|sabha)" : 0.3243243243
+    }
+  }, {
+    "Word" : "lok-NN",
+    "multiply" : 0.0849036171,
+    "probabilities" : {
+      "P(word | object)=(lok|2)" : 0.2592592593,
+      "P(object | word)=(2|lok)" : 0.3274853801
+    }
+  }, {
+    "Word" : "party-NN",
+    "multiply" : 0.0796296296,
+    "probabilities" : {
+      "P(word | object)=(party|2)" : 0.3981481481,
+      "P(object | word)=(2|party)" : 0.2
+    }
+  }, {
+    "Word" : "part-NN",
+    "multiply" : 0.0792003367,
+    "probabilities" : {
+      "P(word | object)=(part|2)" : 0.4490740741,
+      "P(object | word)=(2|part)" : 0.1763636364
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.07092784,
+    "probabilities" : {
+      "P(word | object)=(assembly|2)" : 0.3564814815,
+      "P(object | word)=(2|assembly)" : 0.1989664083
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.06916215,
+    "probabilities" : {
+      "P(word | object)=(legislative|2)" : 0.3240740741,
+      "P(object | word)=(2|legislative)" : 0.2134146341
+    }
+  }, {
+    "Word" : "constituency-NN",
+    "multiply" : 0.0639480805,
+    "probabilities" : {
+      "P(word | object)=(constituency|2)" : 0.2546296296,
+      "P(object | word)=(2|constituency)" : 0.2511415525
+    }
+  }, {
+    "Word" : "indian-JJ",
+    "multiply" : 0.0588429816,
+    "probabilities" : {
+      "P(word | object)=(indian|2)" : 0.2546296296,
+      "P(object | word)=(2|indian)" : 0.231092437
+    }
+  }, {
+    "Word" : "cabinet-NN",
+    "multiply" : 0.0529886322,
+    "probabilities" : {
+      "P(word | object)=(cabinet|2)" : 0.1574074074,
+      "P(object | word)=(2|cabinet)" : 0.3366336634
+    }
+  }, {
+    "Word" : "minister-NN",
+    "multiply" : 0.0519037356,
+    "probabilities" : {
+      "P(word | object)=(minister|2)" : 0.2361111111,
+      "P(object | word)=(2|minister)" : 0.2198275862
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.0488758553,
+    "probabilities" : {
+      "P(word | object)=(election|2)" : 0.2777777778,
+      "P(object | word)=(2|election)" : 0.1759530792
+    }
+  }, {
+    "Word" : "4th-JJ",
+    "multiply" : 0.0455840456,
+    "probabilities" : {
+      "P(word | object)=(4th|2)" : 0.1481481481,
+      "P(object | word)=(2|4th)" : 0.3076923077
+    }
+  }, {
+    "Word" : "political-JJ",
+    "multiply" : 0.0455111544,
+    "probabilities" : {
+      "P(word | object)=(political|2)" : 0.1898148148,
+      "P(object | word)=(2|political)" : 0.2397660819
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.0422228235,
+    "probabilities" : {
+      "P(word | object)=(former|2)" : 0.2453703704,
+      "P(object | word)=(2|former)" : 0.1720779221
+    }
+  }, {
+    "Word" : "14th-JJ",
+    "multiply" : 0.0406445406,
+    "probabilities" : {
+      "P(word | object)=(14th|2)" : 0.1203703704,
+      "P(object | word)=(2|14th)" : 0.3376623377
+    }
+  }, {
+    "Word" : "state-NN",
+    "multiply" : 0.032996633,
+    "probabilities" : {
+      "P(word | object)=(state|2)" : 0.2592592593,
+      "P(object | word)=(2|state)" : 0.1272727273
+    }
+  }, {
+    "Word" : "district-NN",
+    "multiply" : 0.0323298158,
+    "probabilities" : {
+      "P(word | object)=(district|2)" : 0.2314814815,
+      "P(object | word)=(2|district)" : 0.1396648045
+    }
+  }, {
+    "Word" : "government-NN",
+    "multiply" : 0.0294834308,
+    "probabilities" : {
+      "P(word | object)=(government|2)" : 0.1527777778,
+      "P(object | word)=(2|government)" : 0.1929824561
+    }
+  }, {
+    "Word" : "candidate-NN",
+    "multiply" : 0.0294640667,
+    "probabilities" : {
+      "P(word | object)=(candidate|2)" : 0.1435185185,
+      "P(object | word)=(2|candidate)" : 0.2052980132
+    }
+  }, {
+    "Word" : "parliament-NN",
+    "multiply" : 0.0280092593,
+    "probabilities" : {
+      "P(word | object)=(parliament|2)" : 0.1527777778,
+      "P(object | word)=(2|parliament)" : 0.1833333333
+    }
+  }, {
+    "Word" : "council-NN",
+    "multiply" : 0.0274370691,
+    "probabilities" : {
+      "P(word | object)=(council|2)" : 0.1712962963,
+      "P(object | word)=(2|council)" : 0.1601731602
+    }
+  }, {
+    "Word" : "son-NN",
+    "multiply" : 0.0267335004,
+    "probabilities" : {
+      "P(word | object)=(son|2)" : 0.2222222222,
+      "P(object | word)=(2|son)" : 0.1203007519
+    }
+  }, {
+    "Word" : "executive-JJ",
+    "multiply" : 0.0261752137,
+    "probabilities" : {
+      "P(word | object)=(executive|2)" : 0.0972222222,
+      "P(object | word)=(2|executive)" : 0.2692307692
+    }
+  }, {
+    "Word" : "first-JJ",
+    "multiply" : 0.0245778867,
+    "probabilities" : {
+      "P(word | object)=(first|2)" : 0.1759259259,
+      "P(object | word)=(2|first)" : 0.1397058824
+    }
+  }, {
+    "Word" : "liberal-JJ",
+    "multiply" : 0.0240939865,
+    "probabilities" : {
+      "P(word | object)=(liberal|2)" : 0.1018518519,
+      "P(object | word)=(2|liberal)" : 0.2365591398
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.0216732219,
+    "probabilities" : {
+      "P(word | object)=(conservative|2)" : 0.1064814815,
+      "P(object | word)=(2|conservative)" : 0.203539823
+    }
+  }, {
+    "Word" : "american-JJ",
+    "multiply" : 0.0204003464,
+    "probabilities" : {
+      "P(word | object)=(american|2)" : 0.162037037,
+      "P(object | word)=(2|american)" : 0.1258992806
+    }
+  } ]
+}, {
+  "objectIndex" : "17",
+  "property" : "dbp:children",
+  "object" : "3",
+  "detail" : [ {
+    "Word" : "member-NN",
+    "multiply" : 0.069614357,
+    "probabilities" : {
+      "P(word | object)=(member|3)" : 0.6742424242,
+      "P(object | word)=(3|member)" : 0.1032482599
+    }
+  }, {
+    "Word" : "council-NN",
+    "multiply" : 0.033582579,
+    "probabilities" : {
+      "P(word | object)=(council|3)" : 0.2424242424,
+      "P(object | word)=(3|council)" : 0.1385281385
+    }
+  }, {
+    "Word" : "parliament-NN",
+    "multiply" : 0.032996633,
+    "probabilities" : {
+      "P(word | object)=(parliament|3)" : 0.2121212121,
+      "P(object | word)=(3|parliament)" : 0.1555555556
+    }
+  }, {
+    "Word" : "part-NN",
+    "multiply" : 0.0317355372,
+    "probabilities" : {
+      "P(word | object)=(part|3)" : 0.3636363636,
+      "P(object | word)=(3|part)" : 0.0872727273
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.030130854,
+    "probabilities" : {
+      "P(word | object)=(former|3)" : 0.2651515152,
+      "P(object | word)=(3|former)" : 0.1136363636
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.0299334812,
+    "probabilities" : {
+      "P(word | object)=(legislative|3)" : 0.2727272727,
+      "P(object | word)=(3|legislative)" : 0.1097560976
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.0297744891,
+    "probabilities" : {
+      "P(word | object)=(assembly|3)" : 0.2954545455,
+      "P(object | word)=(3|assembly)" : 0.1007751938
+    }
+  }, {
+    "Word" : "party-NN",
+    "multiply" : 0.0296159267,
+    "probabilities" : {
+      "P(word | object)=(party|3)" : 0.3106060606,
+      "P(object | word)=(3|party)" : 0.0953488372
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.0256820403,
+    "probabilities" : {
+      "P(word | object)=(election|3)" : 0.2575757576,
+      "P(object | word)=(3|election)" : 0.0997067449
+    }
+  }, {
+    "Word" : "sabha-NN",
+    "multiply" : 0.0255937756,
+    "probabilities" : {
+      "P(word | object)=(sabha|3)" : 0.1893939394,
+      "P(object | word)=(3|sabha)" : 0.1351351351
+    }
+  }, {
+    "Word" : "councillor-NN",
+    "multiply" : 0.0247933884,
+    "probabilities" : {
+      "P(word | object)=(councillor|3)" : 0.0909090909,
+      "P(object | word)=(3|councillor)" : 0.2727272727
+    }
+  }, {
+    "Word" : "state-NN",
+    "multiply" : 0.0235709366,
+    "probabilities" : {
+      "P(word | object)=(state|3)" : 0.2803030303,
+      "P(object | word)=(3|state)" : 0.0840909091
+    }
+  }, {
+    "Word" : "lok-NN",
+    "multiply" : 0.0234361155,
+    "probabilities" : {
+      "P(word | object)=(lok|3)" : 0.1742424242,
+      "P(object | word)=(3|lok)" : 0.134502924
+    }
+  }, {
+    "Word" : "constituency-NN",
+    "multiply" : 0.0216203127,
+    "probabilities" : {
+      "P(word | object)=(constituency|3)" : 0.1893939394,
+      "P(object | word)=(3|constituency)" : 0.1141552511
+    }
+  }, {
+    "Word" : "indian-JJ",
+    "multiply" : 0.021517698,
+    "probabilities" : {
+      "P(word | object)=(indian|3)" : 0.196969697,
+      "P(object | word)=(3|indian)" : 0.1092436975
+    }
+  } ]
+} ]

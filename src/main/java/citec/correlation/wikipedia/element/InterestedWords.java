@@ -35,7 +35,7 @@ public class InterestedWords {
     private Tables tables = null;
     public static String ALL_WORDS = "all";
     public static String PROPRTY_WISE = "PROPRTY_WISE";
-    private static String FILE_NOTATION = ".txt";
+    private static String FILE_NOTATION = "_words.txt";
     private Set<String> properties = new HashSet<String>();
 
     public InterestedWords(String className, Tables tables, String outputDir) {

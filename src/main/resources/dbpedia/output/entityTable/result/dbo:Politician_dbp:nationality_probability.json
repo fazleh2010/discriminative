@@ -1,0 +1,160 @@
+[ {
+  "objectIndex" : "27",
+  "property" : "dbp:nationality",
+  "object" : "Australian",
+  "detail" : [ {
+    "Word" : "australian-JJ",
+    "multiply" : 0.9269719251,
+    "probabilities" : {
+      "P(word | object)=(australian|Australian)" : 0.9772727273,
+      "P(object | word)=(Australian|australian)" : 0.9485294118
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.5316512583,
+    "probabilities" : {
+      "P(word | object)=(legislative|Australian)" : 0.6893939394,
+      "P(object | word)=(Australian|legislative)" : 0.7711864407
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.4267676768,
+    "probabilities" : {
+      "P(word | object)=(member|Australian)" : 0.7878787879,
+      "P(object | word)=(Australian|member)" : 0.5416666667
+    }
+  }, {
+    "Word" : "labor-NN",
+    "multiply" : 0.3875598086,
+    "probabilities" : {
+      "P(word | object)=(labor|Australian)" : 0.4090909091,
+      "P(object | word)=(Australian|labor)" : 0.9473684211
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.3844877345,
+    "probabilities" : {
+      "P(word | object)=(assembly|Australian)" : 0.553030303,
+      "P(object | word)=(Australian|assembly)" : 0.6952380952
+    }
+  }, {
+    "Word" : "party-NN",
+    "multiply" : 0.3809444813,
+    "probabilities" : {
+      "P(word | object)=(party|Australian)" : 0.6287878788,
+      "P(object | word)=(Australian|party)" : 0.6058394161
+    }
+  }, {
+    "Word" : "liberal-JJ",
+    "multiply" : 0.3178152493,
+    "probabilities" : {
+      "P(word | object)=(liberal|Australian)" : 0.3863636364,
+      "P(object | word)=(Australian|liberal)" : 0.8225806452
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.289600551,
+    "probabilities" : {
+      "P(word | object)=(election|Australian)" : 0.4393939394,
+      "P(object | word)=(Australian|election)" : 0.6590909091
+    }
+  }, {
+    "Word" : "seat-NN",
+    "multiply" : 0.1852487136,
+    "probabilities" : {
+      "P(word | object)=(seat|Australian)" : 0.2727272727,
+      "P(object | word)=(Australian|seat)" : 0.679245283
+    }
+  }, {
+    "Word" : "parliament-NN",
+    "multiply" : 0.1478296478,
+    "probabilities" : {
+      "P(word | object)=(parliament|Australian)" : 0.2878787879,
+      "P(object | word)=(Australian|parliament)" : 0.5135135135
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.1399433899,
+    "probabilities" : {
+      "P(word | object)=(former|Australian)" : 0.3106060606,
+      "P(object | word)=(Australian|former)" : 0.4505494505
+    }
+  }, {
+    "Word" : "government-NN",
+    "multiply" : 0.1373642081,
+    "probabilities" : {
+      "P(word | object)=(government|Australian)" : 0.2348484848,
+      "P(object | word)=(Australian|government)" : 0.5849056604
+    }
+  }, {
+    "Word" : "victorian-JJ",
+    "multiply" : 0.1136363636,
+    "probabilities" : {
+      "P(word | object)=(victorian|Australian)" : 0.1136363636,
+      "P(object | word)=(Australian|victorian)" : 1.0
+    }
+  }, {
+    "Word" : "electorate-NN",
+    "multiply" : 0.1060606061,
+    "probabilities" : {
+      "P(word | object)=(electorate|Australian)" : 0.1060606061,
+      "P(object | word)=(Australian|electorate)" : 1.0
+    }
+  }, {
+    "Word" : "state-NN",
+    "multiply" : 0.0962566845,
+    "probabilities" : {
+      "P(word | object)=(state|Australian)" : 0.2727272727,
+      "P(object | word)=(Australian|state)" : 0.3529411765
+    }
+  }, {
+    "Word" : "first-JJ",
+    "multiply" : 0.0910547786,
+    "probabilities" : {
+      "P(word | object)=(first|Australian)" : 0.1893939394,
+      "P(object | word)=(Australian|first)" : 0.4807692308
+    }
+  }, {
+    "Word" : "position-NN",
+    "multiply" : 0.0879186603,
+    "probabilities" : {
+      "P(word | object)=(position|Australian)" : 0.1590909091,
+      "P(object | word)=(Australian|position)" : 0.5526315789
+    }
+  }, {
+    "Word" : "federal-JJ",
+    "multiply" : 0.075311943,
+    "probabilities" : {
+      "P(word | object)=(federal|Australian)" : 0.0984848485,
+      "P(object | word)=(Australian|federal)" : 0.7647058824
+    }
+  }, {
+    "Word" : "leader-NN",
+    "multiply" : 0.0681818182,
+    "probabilities" : {
+      "P(word | object)=(leader|Australian)" : 0.1363636364,
+      "P(object | word)=(Australian|leader)" : 0.5
+    }
+  }, {
+    "Word" : "by-election-NN",
+    "multiply" : 0.0509259259,
+    "probabilities" : {
+      "P(word | object)=(by-election|Australian)" : 0.0833333333,
+      "P(object | word)=(Australian|by-election)" : 0.6111111111
+    }
+  }, {
+    "Word" : "second-JJ",
+    "multiply" : 0.0378787879,
+    "probabilities" : {
+      "P(word | object)=(second|Australian)" : 0.0757575758,
+      "P(object | word)=(Australian|second)" : 0.5
+    }
+  }, {
+    "Word" : "political-JJ",
+    "multiply" : 0.0245454545,
+    "probabilities" : {
+      "P(word | object)=(political|Australian)" : 0.0681818182,
+      "P(object | word)=(Australian|political)" : 0.36
+    }
+  } ]
+} ]

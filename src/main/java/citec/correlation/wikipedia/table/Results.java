@@ -28,7 +28,9 @@ public class Results {
     private String property;
     @JsonProperty("object")
     private String KB;
-    @JsonProperty("distribution")
+    //@JsonProperty("ListOfWords")
+    //private List<String> words;
+    @JsonProperty("detail")
     private List<Result> distributions = new ArrayList<Result>();
 
     public Results(String property, String object, List<Result> distributions) {
@@ -39,6 +41,10 @@ public class Results {
         Collections.reverse(this.distributions);
         index = index + 1;
         this.objectIndex = index.toString();
+        /*for(Result result:this.distributions){
+            System.out.println(result.toString());
+            words.add(result.word);
+        }*/
 
     }
 

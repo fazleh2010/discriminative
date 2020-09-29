@@ -1,0 +1,286 @@
+[ {
+  "objectIndex" : "30",
+  "property" : "dbp:successor",
+  "object" : "riding dissolved",
+  "detail" : [ {
+    "Word" : "canadian-JJ",
+    "multiply" : 0.2697674419,
+    "probabilities" : {
+      "P(word | object)=(canadian|riding dissolved)" : 0.7909090909,
+      "P(object | word)=(riding dissolved|canadian)" : 0.3410852713
+    }
+  }, {
+    "Word" : "electoral-JJ",
+    "multiply" : 0.178729038,
+    "probabilities" : {
+      "P(word | object)=(electoral|riding dissolved)" : 0.4090909091,
+      "P(object | word)=(riding dissolved|electoral)" : 0.4368932039
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.1784215784,
+    "probabilities" : {
+      "P(word | object)=(assembly|riding dissolved)" : 0.8545454545,
+      "P(object | word)=(riding dissolved|assembly)" : 0.2087912088
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.1407137275,
+    "probabilities" : {
+      "P(word | object)=(election|riding dissolved)" : 0.6636363636,
+      "P(object | word)=(riding dissolved|election)" : 0.212034384
+    }
+  }, {
+    "Word" : "mla-NN",
+    "multiply" : 0.1397260274,
+    "probabilities" : {
+      "P(word | object)=(mla|riding dissolved)" : 0.3,
+      "P(object | word)=(riding dissolved|mla)" : 0.4657534247
+    }
+  }, {
+    "Word" : "liberal-JJ",
+    "multiply" : 0.1366424986,
+    "probabilities" : {
+      "P(word | object)=(liberal|riding dissolved)" : 0.4454545455,
+      "P(object | word)=(riding dissolved|liberal)" : 0.3067484663
+    }
+  }, {
+    "Word" : "provincial-JJ",
+    "multiply" : 0.1335968379,
+    "probabilities" : {
+      "P(word | object)=(provincial|riding dissolved)" : 0.4727272727,
+      "P(object | word)=(riding dissolved|provincial)" : 0.2826086957
+    }
+  }, {
+    "Word" : "party-NN",
+    "multiply" : 0.1280148423,
+    "probabilities" : {
+      "P(word | object)=(party|riding dissolved)" : 0.6272727273,
+      "P(object | word)=(riding dissolved|party)" : 0.2040816327
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.1266804856,
+    "probabilities" : {
+      "P(word | object)=(member|riding dissolved)" : 0.8363636364,
+      "P(object | word)=(riding dissolved|member)" : 0.151465798
+    }
+  }, {
+    "Word" : "new-JJ",
+    "multiply" : 0.1257519432,
+    "probabilities" : {
+      "P(word | object)=(new|riding dissolved)" : 0.5545454545,
+      "P(object | word)=(riding dissolved|new)" : 0.2267657993
+    }
+  }, {
+    "Word" : "part-NN",
+    "multiply" : 0.1174000447,
+    "probabilities" : {
+      "P(word | object)=(part|riding dissolved)" : 0.6545454545,
+      "P(object | word)=(riding dissolved|part)" : 0.1793611794
+    }
+  }, {
+    "Word" : "district-NN",
+    "multiply" : 0.1067756214,
+    "probabilities" : {
+      "P(word | object)=(district|riding dissolved)" : 0.5090909091,
+      "P(object | word)=(riding dissolved|district)" : 0.2097378277
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.0982695589,
+    "probabilities" : {
+      "P(word | object)=(legislative|riding dissolved)" : 0.5727272727,
+      "P(object | word)=(riding dissolved|legislative)" : 0.1715817694
+    }
+  }, {
+    "Word" : "re-election-NN",
+    "multiply" : 0.0851851852,
+    "probabilities" : {
+      "P(word | object)=(re-election|riding dissolved)" : 0.2,
+      "P(object | word)=(riding dissolved|re-election)" : 0.4259259259
+    }
+  }, {
+    "Word" : "minister-NN",
+    "multiply" : 0.0774774775,
+    "probabilities" : {
+      "P(word | object)=(minister|riding dissolved)" : 0.3909090909,
+      "P(object | word)=(riding dissolved|minister)" : 0.1981981982
+    }
+  }, {
+    "Word" : "democratic-JJ",
+    "multiply" : 0.0761528327,
+    "probabilities" : {
+      "P(word | object)=(democratic|riding dissolved)" : 0.3090909091,
+      "P(object | word)=(riding dissolved|democratic)" : 0.2463768116
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.0742746615,
+    "probabilities" : {
+      "P(word | object)=(former|riding dissolved)" : 0.4363636364,
+      "P(object | word)=(riding dissolved|former)" : 0.170212766
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.0727272727,
+    "probabilities" : {
+      "P(word | object)=(conservative|riding dissolved)" : 0.3272727273,
+      "P(object | word)=(riding dissolved|conservative)" : 0.2222222222
+    }
+  }, {
+    "Word" : "british-JJ",
+    "multiply" : 0.0717058223,
+    "probabilities" : {
+      "P(word | object)=(british|riding dissolved)" : 0.2363636364,
+      "P(object | word)=(riding dissolved|british)" : 0.3033707865
+    }
+  }, {
+    "Word" : "ndp-NN",
+    "multiply" : 0.0574780059,
+    "probabilities" : {
+      "P(word | object)=(ndp|riding dissolved)" : 0.1272727273,
+      "P(object | word)=(riding dissolved|ndp)" : 0.4516129032
+    }
+  }, {
+    "Word" : "province-NN",
+    "multiply" : 0.0555746141,
+    "probabilities" : {
+      "P(word | object)=(province|riding dissolved)" : 0.1636363636,
+      "P(object | word)=(riding dissolved|province)" : 0.3396226415
+    }
+  }, {
+    "Word" : "cabinet-NN",
+    "multiply" : 0.0532769556,
+    "probabilities" : {
+      "P(word | object)=(cabinet|riding dissolved)" : 0.2454545455,
+      "P(object | word)=(riding dissolved|cabinet)" : 0.2170542636
+    }
+  }, {
+    "Word" : "first-JJ",
+    "multiply" : 0.0470355731,
+    "probabilities" : {
+      "P(word | object)=(first|riding dissolved)" : 0.3090909091,
+      "P(object | word)=(riding dissolved|first)" : 0.152173913
+    }
+  }, {
+    "Word" : "caucus-NN",
+    "multiply" : 0.0415420023,
+    "probabilities" : {
+      "P(word | object)=(caucus|riding dissolved)" : 0.1727272727,
+      "P(object | word)=(riding dissolved|caucus)" : 0.2405063291
+    }
+  }, {
+    "Word" : "incumbent-JJ",
+    "multiply" : 0.0371212121,
+    "probabilities" : {
+      "P(word | object)=(incumbent|riding dissolved)" : 0.1272727273,
+      "P(object | word)=(riding dissolved|incumbent)" : 0.2916666667
+    }
+  }, {
+    "Word" : "by-election-NN",
+    "multiply" : 0.0357293869,
+    "probabilities" : {
+      "P(word | object)=(by-election|riding dissolved)" : 0.1181818182,
+      "P(object | word)=(riding dissolved|by-election)" : 0.3023255814
+    }
+  }, {
+    "Word" : "business-NN",
+    "multiply" : 0.0327272727,
+    "probabilities" : {
+      "P(word | object)=(business|riding dissolved)" : 0.1545454545,
+      "P(object | word)=(riding dissolved|business)" : 0.2117647059
+    }
+  }, {
+    "Word" : "legislature-NN",
+    "multiply" : 0.0323966942,
+    "probabilities" : {
+      "P(word | object)=(legislature|riding dissolved)" : 0.1272727273,
+      "P(object | word)=(riding dissolved|legislature)" : 0.2545454545
+    }
+  }, {
+    "Word" : "position-NN",
+    "multiply" : 0.0316546763,
+    "probabilities" : {
+      "P(word | object)=(position|riding dissolved)" : 0.2,
+      "P(object | word)=(riding dissolved|position)" : 0.1582733813
+    }
+  }, {
+    "Word" : "vote-NN",
+    "multiply" : 0.0298368298,
+    "probabilities" : {
+      "P(word | object)=(vote|riding dissolved)" : 0.1454545455,
+      "P(object | word)=(riding dissolved|vote)" : 0.2051282051
+    }
+  }, {
+    "Word" : "responsible-JJ",
+    "multiply" : 0.0292207792,
+    "probabilities" : {
+      "P(word | object)=(responsible|riding dissolved)" : 0.0818181818,
+      "P(object | word)=(riding dissolved|responsible)" : 0.3571428571
+    }
+  }, {
+    "Word" : "government-NN",
+    "multiply" : 0.0288518993,
+    "probabilities" : {
+      "P(word | object)=(government|riding dissolved)" : 0.2363636364,
+      "P(object | word)=(riding dissolved|government)" : 0.1220657277
+    }
+  }, {
+    "Word" : "political-JJ",
+    "multiply" : 0.027787307,
+    "probabilities" : {
+      "P(word | object)=(political|riding dissolved)" : 0.1636363636,
+      "P(object | word)=(riding dissolved|political)" : 0.1698113208
+    }
+  }, {
+    "Word" : "leader-NN",
+    "multiply" : 0.026900149,
+    "probabilities" : {
+      "P(word | object)=(leader|riding dissolved)" : 0.1727272727,
+      "P(object | word)=(riding dissolved|leader)" : 0.1557377049
+    }
+  }, {
+    "Word" : "leadership-NN",
+    "multiply" : 0.0268292683,
+    "probabilities" : {
+      "P(word | object)=(leadership|riding dissolved)" : 0.1,
+      "P(object | word)=(riding dissolved|leadership)" : 0.2682926829
+    }
+  }, {
+    "Word" : "son-NN",
+    "multiply" : 0.0266036993,
+    "probabilities" : {
+      "P(word | object)=(son|riding dissolved)" : 0.2363636364,
+      "P(object | word)=(riding dissolved|son)" : 0.1125541126
+    }
+  }, {
+    "Word" : "term-NN",
+    "multiply" : 0.0262987013,
+    "probabilities" : {
+      "P(word | object)=(term|riding dissolved)" : 0.1636363636,
+      "P(object | word)=(riding dissolved|term)" : 0.1607142857
+    }
+  }, {
+    "Word" : "general-JJ",
+    "multiply" : 0.0247272727,
+    "probabilities" : {
+      "P(word | object)=(general|riding dissolved)" : 0.1454545455,
+      "P(object | word)=(riding dissolved|general)" : 0.17
+    }
+  }, {
+    "Word" : "career-NN",
+    "multiply" : 0.0244444444,
+    "probabilities" : {
+      "P(word | object)=(career|riding dissolved)" : 0.1,
+      "P(object | word)=(riding dissolved|career)" : 0.2444444444
+    }
+  }, {
+    "Word" : "candidate-NN",
+    "multiply" : 0.0240641711,
+    "probabilities" : {
+      "P(word | object)=(candidate|riding dissolved)" : 0.1363636364,
+      "P(object | word)=(riding dissolved|candidate)" : 0.1764705882
+    }
+  } ]
+} ]

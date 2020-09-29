@@ -1,0 +1,158 @@
+[ {
+  "objectIndex" : "21",
+  "property" : "dbo:office",
+  "object" : "Queensland Legislative",
+  "detail" : [ {
+    "Word" : "labor-NN",
+    "multiply" : 0.3265010115,
+    "probabilities" : {
+      "P(word | object)=(labor|Queensland Legislative)" : 0.7398373984,
+      "P(object | word)=(Queensland Legislative|labor)" : 0.441314554
+    }
+  }, {
+    "Word" : "australian-JJ",
+    "multiply" : 0.3209912822,
+    "probabilities" : {
+      "P(word | object)=(australian|Queensland Legislative)" : 0.918699187,
+      "P(object | word)=(Queensland Legislative|australian)" : 0.3493975904
+    }
+  }, {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.1192760481,
+    "probabilities" : {
+      "P(word | object)=(legislative|Queensland Legislative)" : 0.9430894309,
+      "P(object | word)=(Queensland Legislative|legislative)" : 0.1264737406
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.0925058627,
+    "probabilities" : {
+      "P(word | object)=(assembly|Queensland Legislative)" : 0.9430894309,
+      "P(object | word)=(Queensland Legislative|assembly)" : 0.0980881131
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.0621900808,
+    "probabilities" : {
+      "P(word | object)=(member|Queensland Legislative)" : 0.9349593496,
+      "P(object | word)=(Queensland Legislative|member)" : 0.0665163472
+    }
+  }, {
+    "Word" : "seat-NN",
+    "multiply" : 0.0488562339,
+    "probabilities" : {
+      "P(word | object)=(seat|Queensland Legislative)" : 0.3495934959,
+      "P(object | word)=(Queensland Legislative|seat)" : 0.1397515528
+    }
+  }, {
+    "Word" : "party-NN",
+    "multiply" : 0.0333080941,
+    "probabilities" : {
+      "P(word | object)=(party|Queensland Legislative)" : 0.5284552846,
+      "P(object | word)=(Queensland Legislative|party)" : 0.0630291627
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.0252711556,
+    "probabilities" : {
+      "P(word | object)=(election|Queensland Legislative)" : 0.4146341463,
+      "P(object | word)=(Queensland Legislative|election)" : 0.0609480813
+    }
+  }, {
+    "Word" : "state-NN",
+    "multiply" : 0.024828796,
+    "probabilities" : {
+      "P(word | object)=(state|Queensland Legislative)" : 0.3739837398,
+      "P(object | word)=(Queensland Legislative|state)" : 0.0663900415
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.0222957908,
+    "probabilities" : {
+      "P(word | object)=(former|Queensland Legislative)" : 0.3577235772,
+      "P(object | word)=(Queensland Legislative|former)" : 0.0623268698
+    }
+  }, {
+    "Word" : "parliament-NN",
+    "multiply" : 0.0215648965,
+    "probabilities" : {
+      "P(word | object)=(parliament|Queensland Legislative)" : 0.2682926829,
+      "P(object | word)=(Queensland Legislative|parliament)" : 0.0803782506
+    }
+  }, {
+    "Word" : "independent-JJ",
+    "multiply" : 0.0209059233,
+    "probabilities" : {
+      "P(word | object)=(independent|Queensland Legislative)" : 0.1382113821,
+      "P(object | word)=(Queensland Legislative|independent)" : 0.1512605042
+    }
+  } ]
+}, {
+  "objectIndex" : "22",
+  "property" : "dbo:office",
+  "object" : "Ontario MPP",
+  "detail" : [ {
+    "Word" : "legislative-JJ",
+    "multiply" : 0.1125795255,
+    "probabilities" : {
+      "P(word | object)=(legislative|Ontario MPP)" : 0.9816513761,
+      "P(object | word)=(Ontario MPP|legislative)" : 0.1146838156
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.0993410001,
+    "probabilities" : {
+      "P(word | object)=(conservative|Ontario MPP)" : 0.5688073394,
+      "P(object | word)=(Ontario MPP|conservative)" : 0.1746478873
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.0873123003,
+    "probabilities" : {
+      "P(word | object)=(assembly|Ontario MPP)" : 0.9816513761,
+      "P(object | word)=(Ontario MPP|assembly)" : 0.0889443059
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.0506862634,
+    "probabilities" : {
+      "P(word | object)=(member|Ontario MPP)" : 0.9082568807,
+      "P(object | word)=(Ontario MPP|member)" : 0.0558060879
+    }
+  }, {
+    "Word" : "figure-NN",
+    "multiply" : 0.0348782031,
+    "probabilities" : {
+      "P(word | object)=(figure|Ontario MPP)" : 0.1926605505,
+      "P(object | word)=(Ontario MPP|figure)" : 0.1810344828
+    }
+  }, {
+    "Word" : "cabinet-NN",
+    "multiply" : 0.0311240676,
+    "probabilities" : {
+      "P(word | object)=(cabinet|Ontario MPP)" : 0.3027522936,
+      "P(object | word)=(Ontario MPP|cabinet)" : 0.1028037383
+    }
+  }, {
+    "Word" : "liberal-JJ",
+    "multiply" : 0.0235155312,
+    "probabilities" : {
+      "P(word | object)=(liberal|Ontario MPP)" : 0.3119266055,
+      "P(object | word)=(Ontario MPP|liberal)" : 0.0753880266
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.0224148009,
+    "probabilities" : {
+      "P(word | object)=(former|Ontario MPP)" : 0.3853211009,
+      "P(object | word)=(Ontario MPP|former)" : 0.0581717452
+    }
+  }, {
+    "Word" : "government-NN",
+    "multiply" : 0.0200216948,
+    "probabilities" : {
+      "P(word | object)=(government|Ontario MPP)" : 0.3027522936,
+      "P(object | word)=(Ontario MPP|government)" : 0.0661322645
+    }
+  } ]
+} ]

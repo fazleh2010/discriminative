@@ -1,0 +1,774 @@
+[ {
+  "objectIndex" : "10",
+  "property" : "dbo:country",
+  "object" : "http://dbpedia.org/resource/United_States",
+  "detail" : [ {
+    "Word" : "state-NN",
+    "multiply" : 0.5652227756,
+    "probabilities" : {
+      "P(word | object)=(state|http://dbpedia.org/resource/United_States)" : 0.6821052632,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|state)" : 0.8286445013
+    }
+  }, {
+    "Word" : "assembly-NN",
+    "multiply" : 0.3522905856,
+    "probabilities" : {
+      "P(word | object)=(assembly|http://dbpedia.org/resource/United_States)" : 0.4589473684,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|assembly)" : 0.7676056338
+    }
+  }, {
+    "Word" : "american-JJ",
+    "multiply" : 0.3261871345,
+    "probabilities" : {
+      "P(word | object)=(american|http://dbpedia.org/resource/United_States)" : 0.3515789474,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|american)" : 0.9277777778
+    }
+  }, {
+    "Word" : "public-JJ",
+    "multiply" : 0.2977745734,
+    "probabilities" : {
+      "P(word | object)=(public|http://dbpedia.org/resource/United_States)" : 0.3705263158,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|public)" : 0.803652968
+    }
+  }, {
+    "Word" : "republican-JJ",
+    "multiply" : 0.2826243691,
+    "probabilities" : {
+      "P(word | object)=(republican|http://dbpedia.org/resource/United_States)" : 0.2947368421,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|republican)" : 0.9589041096
+    }
+  }, {
+    "Word" : "county-NN",
+    "multiply" : 0.2322386953,
+    "probabilities" : {
+      "P(word | object)=(county|http://dbpedia.org/resource/United_States)" : 0.3726315789,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|county)" : 0.6232394366
+    }
+  }, {
+    "Word" : "district-NN",
+    "multiply" : 0.2219869899,
+    "probabilities" : {
+      "P(word | object)=(district|http://dbpedia.org/resource/United_States)" : 0.2884210526,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|district)" : 0.7696629213
+    }
+  }, {
+    "Word" : "term-NN",
+    "multiply" : 0.2161016334,
+    "probabilities" : {
+      "P(word | object)=(term|http://dbpedia.org/resource/United_States)" : 0.2568421053,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|term)" : 0.8413793103
+    }
+  }, {
+    "Word" : "democratic-JJ",
+    "multiply" : 0.1597229917,
+    "probabilities" : {
+      "P(word | object)=(democratic|http://dbpedia.org/resource/United_States)" : 0.1957894737,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|democratic)" : 0.8157894737
+    }
+  }, {
+    "Word" : "law-NN",
+    "multiply" : 0.1207830552,
+    "probabilities" : {
+      "P(word | object)=(law|http://dbpedia.org/resource/United_States)" : 0.2042105263,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|law)" : 0.5914634146
+    }
+  }, {
+    "Word" : "degree-NN",
+    "multiply" : 0.1057030636,
+    "probabilities" : {
+      "P(word | object)=(degree|http://dbpedia.org/resource/United_States)" : 0.1221052632,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|degree)" : 0.8656716418
+    }
+  }, {
+    "Word" : "governor-NN",
+    "multiply" : 0.0947599769,
+    "probabilities" : {
+      "P(word | object)=(governor|http://dbpedia.org/resource/United_States)" : 0.1347368421,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|governor)" : 0.7032967033
+    }
+  }, {
+    "Word" : "school-NN",
+    "multiply" : 0.090498615,
+    "probabilities" : {
+      "P(word | object)=(school|http://dbpedia.org/resource/United_States)" : 0.2084210526,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|school)" : 0.4342105263
+    }
+  }, {
+    "Word" : "member-NN",
+    "multiply" : 0.0869075264,
+    "probabilities" : {
+      "P(word | object)=(member|http://dbpedia.org/resource/United_States)" : 0.4042105263,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|member)" : 0.2150055991
+    }
+  }, {
+    "Word" : "son-NN",
+    "multiply" : 0.0854177109,
+    "probabilities" : {
+      "P(word | object)=(son|http://dbpedia.org/resource/United_States)" : 0.3010526316,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|son)" : 0.2837301587
+    }
+  }, {
+    "Word" : "legislator-NN",
+    "multiply" : 0.0800526316,
+    "probabilities" : {
+      "P(word | object)=(legislator|http://dbpedia.org/resource/United_States)" : 0.0821052632,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|legislator)" : 0.975
+    }
+  }, {
+    "Word" : "war-NN",
+    "multiply" : 0.0763696172,
+    "probabilities" : {
+      "P(word | object)=(war|http://dbpedia.org/resource/United_States)" : 0.2378947368,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|war)" : 0.3210227273
+    }
+  }, {
+    "Word" : "attorney-NN",
+    "multiply" : 0.0752967525,
+    "probabilities" : {
+      "P(word | object)=(attorney|http://dbpedia.org/resource/United_States)" : 0.0863157895,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|attorney)" : 0.8723404255
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.0750390829,
+    "probabilities" : {
+      "P(word | object)=(former|http://dbpedia.org/resource/United_States)" : 0.1263157895,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|former)" : 0.5940594059
+    }
+  }, {
+    "Word" : "business-NN",
+    "multiply" : 0.0652807018,
+    "probabilities" : {
+      "P(word | object)=(business|http://dbpedia.org/resource/United_States)" : 0.1284210526,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|business)" : 0.5083333333
+    }
+  }, {
+    "Word" : "primary-JJ",
+    "multiply" : 0.0636842105,
+    "probabilities" : {
+      "P(word | object)=(primary|http://dbpedia.org/resource/United_States)" : 0.0694736842,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|primary)" : 0.9166666667
+    }
+  }, {
+    "Word" : "bachelor-NN",
+    "multiply" : 0.0608421053,
+    "probabilities" : {
+      "P(word | object)=(bachelor|http://dbpedia.org/resource/United_States)" : 0.0715789474,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|bachelor)" : 0.85
+    }
+  }, {
+    "Word" : "lawyer-NN",
+    "multiply" : 0.0542729706,
+    "probabilities" : {
+      "P(word | object)=(lawyer|http://dbpedia.org/resource/United_States)" : 0.0821052632,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|lawyer)" : 0.6610169492
+    }
+  }, {
+    "Word" : "first-JJ",
+    "multiply" : 0.047867036,
+    "probabilities" : {
+      "P(word | object)=(first|http://dbpedia.org/resource/United_States)" : 0.1515789474,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|first)" : 0.3157894737
+    }
+  }, {
+    "Word" : "judge-NN",
+    "multiply" : 0.0468016194,
+    "probabilities" : {
+      "P(word | object)=(judge|http://dbpedia.org/resource/United_States)" : 0.0715789474,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|judge)" : 0.6538461538
+    }
+  }, {
+    "Word" : "jurist-NN",
+    "multiply" : 0.0464035088,
+    "probabilities" : {
+      "P(word | object)=(jurist|http://dbpedia.org/resource/United_States)" : 0.0484210526,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|jurist)" : 0.9583333333
+    }
+  }, {
+    "Word" : "educator-NN",
+    "multiply" : 0.0421052632,
+    "probabilities" : {
+      "P(word | object)=(educator|http://dbpedia.org/resource/United_States)" : 0.0421052632,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|educator)" : 1.0
+    }
+  }, {
+    "Word" : "city-NN",
+    "multiply" : 0.0417710944,
+    "probabilities" : {
+      "P(word | object)=(city|http://dbpedia.org/resource/United_States)" : 0.1052631579,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|city)" : 0.3968253968
+    }
+  }, {
+    "Word" : "general-JJ",
+    "multiply" : 0.0389735906,
+    "probabilities" : {
+      "P(word | object)=(general|http://dbpedia.org/resource/United_States)" : 0.2147368421,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|general)" : 0.1814946619
+    }
+  }, {
+    "Word" : "new-JJ",
+    "multiply" : 0.0364881636,
+    "probabilities" : {
+      "P(word | object)=(new|http://dbpedia.org/resource/United_States)" : 0.1326315789,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|new)" : 0.2751091703
+    }
+  }, {
+    "Word" : "businessman-NN",
+    "multiply" : 0.0354939982,
+    "probabilities" : {
+      "P(word | object)=(businessman|http://dbpedia.org/resource/United_States)" : 0.0652631579,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|businessman)" : 0.5438596491
+    }
+  }, {
+    "Word" : "high-JJ",
+    "multiply" : 0.0348358075,
+    "probabilities" : {
+      "P(word | object)=(high|http://dbpedia.org/resource/United_States)" : 0.0926315789,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|high)" : 0.3760683761
+    }
+  }, {
+    "Word" : "president-NN",
+    "multiply" : 0.0313181183,
+    "probabilities" : {
+      "P(word | object)=(president|http://dbpedia.org/resource/United_States)" : 0.0863157895,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|president)" : 0.3628318584
+    }
+  }, {
+    "Word" : "office-NN",
+    "multiply" : 0.0299415205,
+    "probabilities" : {
+      "P(word | object)=(office|http://dbpedia.org/resource/United_States)" : 0.1010526316,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|office)" : 0.2962962963
+    }
+  }, {
+    "Word" : "incumbent-JJ",
+    "multiply" : 0.02957638,
+    "probabilities" : {
+      "P(word | object)=(incumbent|http://dbpedia.org/resource/United_States)" : 0.0505263158,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|incumbent)" : 0.5853658537
+    }
+  }, {
+    "Word" : "session-NN",
+    "multiply" : 0.0290131579,
+    "probabilities" : {
+      "P(word | object)=(session|http://dbpedia.org/resource/United_States)" : 0.0442105263,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|session)" : 0.65625
+    }
+  }, {
+    "Word" : "town-NN",
+    "multiply" : 0.0274599542,
+    "probabilities" : {
+      "P(word | object)=(town|http://dbpedia.org/resource/United_States)" : 0.0631578947,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|town)" : 0.4347826087
+    }
+  }, {
+    "Word" : "time-NN",
+    "multiply" : 0.0259698197,
+    "probabilities" : {
+      "P(word | object)=(time|http://dbpedia.org/resource/United_States)" : 0.0884210526,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|time)" : 0.2937062937
+    }
+  }, {
+    "Word" : "teacher-NN",
+    "multiply" : 0.0227368421,
+    "probabilities" : {
+      "P(word | object)=(teacher|http://dbpedia.org/resource/United_States)" : 0.0378947368,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|teacher)" : 0.6
+    }
+  }, {
+    "Word" : "clerk-NN",
+    "multiply" : 0.0217293233,
+    "probabilities" : {
+      "P(word | object)=(clerk|http://dbpedia.org/resource/United_States)" : 0.0357894737,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|clerk)" : 0.6071428571
+    }
+  }, {
+    "Word" : "year-NN",
+    "multiply" : 0.0213326895,
+    "probabilities" : {
+      "P(word | object)=(year|http://dbpedia.org/resource/United_States)" : 0.0989473684,
+      "P(object | word)=(http://dbpedia.org/resource/United_States|year)" : 0.2155963303
+    }
+  } ]
+}, {
+  "objectIndex" : "11",
+  "property" : "dbo:country",
+  "object" : "http://dbpedia.org/resource/United_Kingdom",
+  "detail" : [ {
+    "Word" : "member-NN",
+    "multiply" : 0.5854147743,
+    "probabilities" : {
+      "P(word | object)=(member|http://dbpedia.org/resource/United_Kingdom)" : 0.8640915594,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|member)" : 0.6774916013
+    }
+  }, {
+    "Word" : "british-JJ",
+    "multiply" : 0.5467846924,
+    "probabilities" : {
+      "P(word | object)=(british|http://dbpedia.org/resource/United_Kingdom)" : 0.5593705293,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|british)" : 0.9775
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.5463186497,
+    "probabilities" : {
+      "P(word | object)=(election|http://dbpedia.org/resource/United_Kingdom)" : 0.6709585122,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|election)" : 0.8142361111
+    }
+  }, {
+    "Word" : "seat-NN",
+    "multiply" : 0.5277754402,
+    "probabilities" : {
+      "P(word | object)=(seat|http://dbpedia.org/resource/United_Kingdom)" : 0.5879828326,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|seat)" : 0.8976034858
+    }
+  }, {
+    "Word" : "party-NN",
+    "multiply" : 0.524602167,
+    "probabilities" : {
+      "P(word | object)=(party|http://dbpedia.org/resource/United_Kingdom)" : 0.6423462089,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|party)" : 0.8166969147
+    }
+  }, {
+    "Word" : "liberal-JJ",
+    "multiply" : 0.5067016681,
+    "probabilities" : {
+      "P(word | object)=(liberal|http://dbpedia.org/resource/United_Kingdom)" : 0.5464949928,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|liberal)" : 0.927184466
+    }
+  }, {
+    "Word" : "general-JJ",
+    "multiply" : 0.4772679832,
+    "probabilities" : {
+      "P(word | object)=(general|http://dbpedia.org/resource/United_Kingdom)" : 0.6194563662,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|general)" : 0.7704626335
+    }
+  }, {
+    "Word" : "labour-NN",
+    "multiply" : 0.4692590103,
+    "probabilities" : {
+      "P(word | object)=(labour|http://dbpedia.org/resource/United_Kingdom)" : 0.4721030043,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|labour)" : 0.9939759036
+    }
+  }, {
+    "Word" : "age-NN",
+    "multiply" : 0.3444474996,
+    "probabilities" : {
+      "P(word | object)=(age|http://dbpedia.org/resource/United_Kingdom)" : 0.4206008584,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|age)" : 0.8189415042
+    }
+  }, {
+    "Word" : "son-NN",
+    "multiply" : 0.2961401776,
+    "probabilities" : {
+      "P(word | object)=(son|http://dbpedia.org/resource/United_Kingdom)" : 0.4620886981,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|son)" : 0.6408730159
+    }
+  }, {
+    "Word" : "by-election-NN",
+    "multiply" : 0.2405442767,
+    "probabilities" : {
+      "P(word | object)=(by-election|http://dbpedia.org/resource/United_Kingdom)" : 0.2474964235,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|by-election)" : 0.9719101124
+    }
+  }, {
+    "Word" : "conservative-JJ",
+    "multiply" : 0.2253520066,
+    "probabilities" : {
+      "P(word | object)=(conservative|http://dbpedia.org/resource/United_Kingdom)" : 0.2474964235,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|conservative)" : 0.9105263158
+    }
+  }, {
+    "Word" : "daughter-NN",
+    "multiply" : 0.2214720869,
+    "probabilities" : {
+      "P(word | object)=(daughter|http://dbpedia.org/resource/United_Kingdom)" : 0.2374821173,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|daughter)" : 0.9325842697
+    }
+  }, {
+    "Word" : "constituency-NN",
+    "multiply" : 0.2191962544,
+    "probabilities" : {
+      "P(word | object)=(constituency|http://dbpedia.org/resource/United_Kingdom)" : 0.2274678112,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|constituency)" : 0.9636363636
+    }
+  }, {
+    "Word" : "aged-JJ",
+    "multiply" : 0.2049102404,
+    "probabilities" : {
+      "P(word | object)=(aged|http://dbpedia.org/resource/United_Kingdom)" : 0.2131616595,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|aged)" : 0.9612903226
+    }
+  }, {
+    "Word" : "english-JJ",
+    "multiply" : 0.2032343502,
+    "probabilities" : {
+      "P(word | object)=(english|http://dbpedia.org/resource/United_Kingdom)" : 0.2074391989,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|english)" : 0.9797297297
+    }
+  }, {
+    "Word" : "bar-NN",
+    "multiply" : 0.1978336399,
+    "probabilities" : {
+      "P(word | object)=(bar|http://dbpedia.org/resource/United_Kingdom)" : 0.251788269,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|bar)" : 0.7857142857
+    }
+  }, {
+    "Word" : "war-NN",
+    "multiply" : 0.1913813565,
+    "probabilities" : {
+      "P(word | object)=(war|http://dbpedia.org/resource/United_Kingdom)" : 0.3104434907,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|war)" : 0.6164772727
+    }
+  }, {
+    "Word" : "wife-NN",
+    "multiply" : 0.1816309013,
+    "probabilities" : {
+      "P(word | object)=(wife|http://dbpedia.org/resource/United_Kingdom)" : 0.1974248927,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|wife)" : 0.92
+    }
+  }, {
+    "Word" : "death-NN",
+    "multiply" : 0.1649717753,
+    "probabilities" : {
+      "P(word | object)=(death|http://dbpedia.org/resource/United_Kingdom)" : 0.2188841202,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|death)" : 0.7536945813
+    }
+  }, {
+    "Word" : "candidate-NN",
+    "multiply" : 0.1425412928,
+    "probabilities" : {
+      "P(word | object)=(candidate|http://dbpedia.org/resource/United_Kingdom)" : 0.1945636624,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|candidate)" : 0.7326203209
+    }
+  }, {
+    "Word" : "union-NN",
+    "multiply" : 0.1391168055,
+    "probabilities" : {
+      "P(word | object)=(union|http://dbpedia.org/resource/United_Kingdom)" : 0.1645207439,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|union)" : 0.8455882353
+    }
+  }, {
+    "Word" : "year-NN",
+    "multiply" : 0.1379756139,
+    "probabilities" : {
+      "P(word | object)=(year|http://dbpedia.org/resource/United_Kingdom)" : 0.2074391989,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|year)" : 0.6651376147
+    }
+  }, {
+    "Word" : "first-JJ",
+    "multiply" : 0.1076788896,
+    "probabilities" : {
+      "P(word | object)=(first|http://dbpedia.org/resource/United_Kingdom)" : 0.1874105866,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|first)" : 0.5745614035
+    }
+  }, {
+    "Word" : "new-JJ",
+    "multiply" : 0.1031542253,
+    "probabilities" : {
+      "P(word | object)=(new|http://dbpedia.org/resource/United_Kingdom)" : 0.1831187411,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|new)" : 0.5633187773
+    }
+  }, {
+    "Word" : "school-NN",
+    "multiply" : 0.0972567327,
+    "probabilities" : {
+      "P(word | object)=(school|http://dbpedia.org/resource/United_Kingdom)" : 0.1773962804,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|school)" : 0.548245614
+    }
+  }, {
+    "Word" : "trade-NN",
+    "multiply" : 0.0910391468,
+    "probabilities" : {
+      "P(word | object)=(trade|http://dbpedia.org/resource/United_Kingdom)" : 0.1001430615,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|trade)" : 0.9090909091
+    }
+  }, {
+    "Word" : "secretary-NN",
+    "multiply" : 0.0890746179,
+    "probabilities" : {
+      "P(word | object)=(secretary|http://dbpedia.org/resource/United_Kingdom)" : 0.13018598,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|secretary)" : 0.6842105263
+    }
+  }, {
+    "Word" : "baronet-NN",
+    "multiply" : 0.0801144492,
+    "probabilities" : {
+      "P(word | object)=(baronet|http://dbpedia.org/resource/United_Kingdom)" : 0.0801144492,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|baronet)" : 1.0
+    }
+  }, {
+    "Word" : "father-NN",
+    "multiply" : 0.0791318045,
+    "probabilities" : {
+      "P(word | object)=(father|http://dbpedia.org/resource/United_Kingdom)" : 0.1058655222,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|father)" : 0.7474747475
+    }
+  }, {
+    "Word" : "second-JJ",
+    "multiply" : 0.0788942186,
+    "probabilities" : {
+      "P(word | object)=(second|http://dbpedia.org/resource/United_Kingdom)" : 0.1072961373,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|second)" : 0.7352941176
+    }
+  }, {
+    "Word" : "time-NN",
+    "multiply" : 0.0757225607,
+    "probabilities" : {
+      "P(word | object)=(time|http://dbpedia.org/resource/United_Kingdom)" : 0.1244635193,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|time)" : 0.6083916084
+    }
+  }, {
+    "Word" : "chairman-NN",
+    "multiply" : 0.0718542017,
+    "probabilities" : {
+      "P(word | object)=(chairman|http://dbpedia.org/resource/United_Kingdom)" : 0.1087267525,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|chairman)" : 0.6608695652
+    }
+  }, {
+    "Word" : "unionist-JJ",
+    "multiply" : 0.0716367297,
+    "probabilities" : {
+      "P(word | object)=(unionist|http://dbpedia.org/resource/United_Kingdom)" : 0.0743919886,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|unionist)" : 0.962962963
+    }
+  }, {
+    "Word" : "councillor-NN",
+    "multiply" : 0.0701001431,
+    "probabilities" : {
+      "P(word | object)=(councillor|http://dbpedia.org/resource/United_Kingdom)" : 0.0801144492,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|councillor)" : 0.875
+    }
+  }, {
+    "Word" : "division-NN",
+    "multiply" : 0.069527897,
+    "probabilities" : {
+      "P(word | object)=(division|http://dbpedia.org/resource/United_Kingdom)" : 0.0772532189,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|division)" : 0.9
+    }
+  }, {
+    "Word" : "office-NN",
+    "multiply" : 0.0638036701,
+    "probabilities" : {
+      "P(word | object)=(office|http://dbpedia.org/resource/United_Kingdom)" : 0.121602289,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|office)" : 0.524691358
+    }
+  }, {
+    "Word" : "government-NN",
+    "multiply" : 0.063153282,
+    "probabilities" : {
+      "P(word | object)=(government|http://dbpedia.org/resource/United_Kingdom)" : 0.1001430615,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|government)" : 0.6306306306
+    }
+  }, {
+    "Word" : "sheriff-NN",
+    "multiply" : 0.0578269709,
+    "probabilities" : {
+      "P(word | object)=(sheriff|http://dbpedia.org/resource/United_Kingdom)" : 0.0686695279,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|sheriff)" : 0.8421052632
+    }
+  }, {
+    "Word" : "high-JJ",
+    "multiply" : 0.0500837582,
+    "probabilities" : {
+      "P(word | object)=(high|http://dbpedia.org/resource/United_Kingdom)" : 0.0915593705,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|high)" : 0.547008547
+    }
+  }, {
+    "Word" : "eldest-JJ",
+    "multiply" : 0.0486806549,
+    "probabilities" : {
+      "P(word | object)=(eldest|http://dbpedia.org/resource/United_Kingdom)" : 0.0500715308,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|eldest)" : 0.9722222222
+    }
+  }, {
+    "Word" : "city-NN",
+    "multiply" : 0.0479710244,
+    "probabilities" : {
+      "P(word | object)=(city|http://dbpedia.org/resource/United_Kingdom)" : 0.0929899857,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|city)" : 0.5158730159
+    }
+  }, {
+    "Word" : "brother-NN",
+    "multiply" : 0.0477701064,
+    "probabilities" : {
+      "P(word | object)=(brother|http://dbpedia.org/resource/United_Kingdom)" : 0.0686695279,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|brother)" : 0.6956521739
+    }
+  }, {
+    "Word" : "county-NN",
+    "multiply" : 0.0473966834,
+    "probabilities" : {
+      "P(word | object)=(county|http://dbpedia.org/resource/United_Kingdom)" : 0.138769671,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|county)" : 0.3415492958
+    }
+  }, {
+    "Word" : "merchant-NN",
+    "multiply" : 0.0473036014,
+    "probabilities" : {
+      "P(word | object)=(merchant|http://dbpedia.org/resource/United_Kingdom)" : 0.0557939914,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|merchant)" : 0.847826087
+    }
+  }, {
+    "Word" : "mayor-NN",
+    "multiply" : 0.0459386425,
+    "probabilities" : {
+      "P(word | object)=(mayor|http://dbpedia.org/resource/United_Kingdom)" : 0.0729613734,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|mayor)" : 0.6296296296
+    }
+  }, {
+    "Word" : "barrister-NN",
+    "multiply" : 0.044512569,
+    "probabilities" : {
+      "P(word | object)=(barrister|http://dbpedia.org/resource/United_Kingdom)" : 0.0472103004,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|barrister)" : 0.9428571429
+    }
+  }, {
+    "Word" : "family-NN",
+    "multiply" : 0.043680413,
+    "probabilities" : {
+      "P(word | object)=(family|http://dbpedia.org/resource/United_Kingdom)" : 0.0758226037,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|family)" : 0.5760869565
+    }
+  }, {
+    "Word" : "local-JJ",
+    "multiply" : 0.0421905981,
+    "probabilities" : {
+      "P(word | object)=(local|http://dbpedia.org/resource/United_Kingdom)" : 0.0586552217,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|local)" : 0.7192982456
+    }
+  }, {
+    "Word" : "third-JJ",
+    "multiply" : 0.042159353,
+    "probabilities" : {
+      "P(word | object)=(third|http://dbpedia.org/resource/United_Kingdom)" : 0.0543633763,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|third)" : 0.7755102041
+    }
+  }, {
+    "Word" : "name-NN",
+    "multiply" : 0.0414288453,
+    "probabilities" : {
+      "P(word | object)=(name|http://dbpedia.org/resource/United_Kingdom)" : 0.0758226037,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|name)" : 0.5463917526
+    }
+  }, {
+    "Word" : "majority-NN",
+    "multiply" : 0.0400810682,
+    "probabilities" : {
+      "P(word | object)=(majority|http://dbpedia.org/resource/United_Kingdom)" : 0.0586552217,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|majority)" : 0.6833333333
+    }
+  }, {
+    "Word" : "director-NN",
+    "multiply" : 0.0400789006,
+    "probabilities" : {
+      "P(word | object)=(director|http://dbpedia.org/resource/United_Kingdom)" : 0.0615164521,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|director)" : 0.6515151515
+    }
+  }, {
+    "Word" : "active-JJ",
+    "multiply" : 0.0399696359,
+    "probabilities" : {
+      "P(word | object)=(active|http://dbpedia.org/resource/United_Kingdom)" : 0.0529327611,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|active)" : 0.7551020408
+    }
+  }, {
+    "Word" : "owner-NN",
+    "multiply" : 0.0398296267,
+    "probabilities" : {
+      "P(word | object)=(owner|http://dbpedia.org/resource/United_Kingdom)" : 0.0500715308,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|owner)" : 0.7954545455
+    }
+  }, {
+    "Word" : "committee-NN",
+    "multiply" : 0.0376233209,
+    "probabilities" : {
+      "P(word | object)=(committee|http://dbpedia.org/resource/United_Kingdom)" : 0.0643776824,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|committee)" : 0.5844155844
+    }
+  }, {
+    "Word" : "manufacturer-NN",
+    "multiply" : 0.0359627053,
+    "probabilities" : {
+      "P(word | object)=(manufacturer|http://dbpedia.org/resource/United_Kingdom)" : 0.0386266094,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|manufacturer)" : 0.9310344828
+    }
+  }, {
+    "Word" : "co-operative-JJ",
+    "multiply" : 0.0357653791,
+    "probabilities" : {
+      "P(word | object)=(co-operative|http://dbpedia.org/resource/United_Kingdom)" : 0.0357653791,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|co-operative)" : 1.0
+    }
+  }, {
+    "Word" : "firm-NN",
+    "multiply" : 0.0316617725,
+    "probabilities" : {
+      "P(word | object)=(firm|http://dbpedia.org/resource/United_Kingdom)" : 0.0414878398,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|firm)" : 0.7631578947
+    }
+  }, {
+    "Word" : "president-NN",
+    "multiply" : 0.0303974072,
+    "probabilities" : {
+      "P(word | object)=(president|http://dbpedia.org/resource/United_Kingdom)" : 0.0701001431,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|president)" : 0.4336283186
+    }
+  }, {
+    "Word" : "business-NN",
+    "multiply" : 0.0298044826,
+    "probabilities" : {
+      "P(word | object)=(business|http://dbpedia.org/resource/United_Kingdom)" : 0.0715307582,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|business)" : 0.4166666667
+    }
+  }, {
+    "Word" : "retirement-NN",
+    "multiply" : 0.0290138795,
+    "probabilities" : {
+      "P(word | object)=(retirement|http://dbpedia.org/resource/United_Kingdom)" : 0.0486409156,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|retirement)" : 0.5964912281
+    }
+  }, {
+    "Word" : "company-NN",
+    "multiply" : 0.0264057613,
+    "probabilities" : {
+      "P(word | object)=(company|http://dbpedia.org/resource/United_Kingdom)" : 0.0472103004,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|company)" : 0.5593220339
+    }
+  }, {
+    "Word" : "2nd-JJ",
+    "multiply" : 0.024236304,
+    "probabilities" : {
+      "P(word | object)=(2nd|http://dbpedia.org/resource/United_Kingdom)" : 0.0343347639,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|2nd)" : 0.7058823529
+    }
+  }, {
+    "Word" : "several-JJ",
+    "multiply" : 0.0235877037,
+    "probabilities" : {
+      "P(word | object)=(several|http://dbpedia.org/resource/United_Kingdom)" : 0.0371959943,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|several)" : 0.6341463415
+    }
+  }, {
+    "Word" : "town-NN",
+    "multiply" : 0.0225788393,
+    "probabilities" : {
+      "P(word | object)=(town|http://dbpedia.org/resource/United_Kingdom)" : 0.0472103004,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|town)" : 0.4782608696
+    }
+  }, {
+    "Word" : "political-JJ",
+    "multiply" : 0.0218225583,
+    "probabilities" : {
+      "P(word | object)=(political|http://dbpedia.org/resource/United_Kingdom)" : 0.0443490701,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|political)" : 0.4920634921
+    }
+  }, {
+    "Word" : "law-NN",
+    "multiply" : 0.0213719948,
+    "probabilities" : {
+      "P(word | object)=(law|http://dbpedia.org/resource/United_Kingdom)" : 0.0701001431,
+      "P(object | word)=(http://dbpedia.org/resource/United_Kingdom|law)" : 0.3048780488
+    }
+  } ]
+} ]

@@ -34,7 +34,6 @@ public class Result  implements Comparator<Result>{
     @JsonProperty("probabilities")
     private LinkedHashMap<String, Double> probabilities = new LinkedHashMap<String, Double>();
     @JsonIgnore
-    public static String conditional_probability = "probability";
     public static String RESULT_DIR = "result";
     
      public Result()  {
@@ -53,10 +52,7 @@ public class Result  implements Comparator<Result>{
         return probabilities;
     }
 
-    public static String getConditional_probability() {
-        return conditional_probability;
-    }
-    
+  
     @Override
     public int compare(Result result1, Result result2) {
        return  Double.compare(result1.getMultiple(), result2.getMultiple());
@@ -73,6 +69,10 @@ public class Result  implements Comparator<Result>{
 
     public  Double getMultiple() {
         return multiple;
+    }
+
+    public String getWord() {
+        return word;
     }
 
    

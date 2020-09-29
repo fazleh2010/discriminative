@@ -1,0 +1,216 @@
+[ {
+  "objectIndex" : "28",
+  "property" : "dbo:occupation",
+  "object" : "http://dbpedia.org/resource/Politician",
+  "detail" : [ {
+    "Word" : "member-NN",
+    "multiply" : 0.0844854071,
+    "probabilities" : {
+      "P(word | object)=(member|http://dbpedia.org/resource/Politician)" : 0.5555555556,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|member)" : 0.1520737327
+    }
+  }, {
+    "Word" : "party-NN",
+    "multiply" : 0.0716226065,
+    "probabilities" : {
+      "P(word | object)=(party|http://dbpedia.org/resource/Politician)" : 0.3931623932,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|party)" : 0.1821705426
+    }
+  }, {
+    "Word" : "part-NN",
+    "multiply" : 0.0678967969,
+    "probabilities" : {
+      "P(word | object)=(part|http://dbpedia.org/resource/Politician)" : 0.4273504274,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|part)" : 0.1588785047
+    }
+  }, {
+    "Word" : "constituency-NN",
+    "multiply" : 0.0661268556,
+    "probabilities" : {
+      "P(word | object)=(constituency|http://dbpedia.org/resource/Politician)" : 0.1794871795,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|constituency)" : 0.3684210526
+    }
+  }, {
+    "Word" : "national-JJ",
+    "multiply" : 0.0587412587,
+    "probabilities" : {
+      "P(word | object)=(national|http://dbpedia.org/resource/Politician)" : 0.2307692308,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|national)" : 0.2545454545
+    }
+  }, {
+    "Word" : "leader-NN",
+    "multiply" : 0.055315471,
+    "probabilities" : {
+      "P(word | object)=(leader|http://dbpedia.org/resource/Politician)" : 0.2051282051,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|leader)" : 0.2696629213
+    }
+  }, {
+    "Word" : "son-NN",
+    "multiply" : 0.0542124542,
+    "probabilities" : {
+      "P(word | object)=(son|http://dbpedia.org/resource/Politician)" : 0.3076923077,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|son)" : 0.1761904762
+    }
+  }, {
+    "Word" : "nation-NN",
+    "multiply" : 0.0512820513,
+    "probabilities" : {
+      "P(word | object)=(nation|http://dbpedia.org/resource/Politician)" : 0.2564102564,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|nation)" : 0.2
+    }
+  }, {
+    "Word" : "indian-JJ",
+    "multiply" : 0.043644299,
+    "probabilities" : {
+      "P(word | object)=(indian|http://dbpedia.org/resource/Politician)" : 0.1282051282,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|indian)" : 0.3404255319
+    }
+  }, {
+    "Word" : "current-JJ",
+    "multiply" : 0.0402212167,
+    "probabilities" : {
+      "P(word | object)=(current|http://dbpedia.org/resource/Politician)" : 0.1709401709,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|current)" : 0.2352941176
+    }
+  }, {
+    "Word" : "state-NN",
+    "multiply" : 0.0394393742,
+    "probabilities" : {
+      "P(word | object)=(state|http://dbpedia.org/resource/Politician)" : 0.2820512821,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|state)" : 0.1398305085
+    }
+  }, {
+    "Word" : "political-JJ",
+    "multiply" : 0.0392628205,
+    "probabilities" : {
+      "P(word | object)=(political|http://dbpedia.org/resource/Politician)" : 0.1794871795,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|political)" : 0.21875
+    }
+  }, {
+    "Word" : "malaysian-JJ",
+    "multiply" : 0.0384615385,
+    "probabilities" : {
+      "P(word | object)=(malaysian|http://dbpedia.org/resource/Politician)" : 0.0769230769,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|malaysian)" : 0.5
+    }
+  }, {
+    "Word" : "parliament-NN",
+    "multiply" : 0.0349002849,
+    "probabilities" : {
+      "P(word | object)=(parliament|http://dbpedia.org/resource/Politician)" : 0.1794871795,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|parliament)" : 0.1944444444
+    }
+  }, {
+    "Word" : "american-JJ",
+    "multiply" : 0.0330026826,
+    "probabilities" : {
+      "P(word | object)=(american|http://dbpedia.org/resource/Politician)" : 0.1965811966,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|american)" : 0.1678832117
+    }
+  }, {
+    "Word" : "former-JJ",
+    "multiply" : 0.0322837784,
+    "probabilities" : {
+      "P(word | object)=(former|http://dbpedia.org/resource/Politician)" : 0.2307692308,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|former)" : 0.1398963731
+    }
+  }, {
+    "Word" : "year-NN",
+    "multiply" : 0.0322156476,
+    "probabilities" : {
+      "P(word | object)=(year|http://dbpedia.org/resource/Politician)" : 0.1794871795,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|year)" : 0.1794871795
+    }
+  }, {
+    "Word" : "chief-JJ",
+    "multiply" : 0.0304584305,
+    "probabilities" : {
+      "P(word | object)=(chief|http://dbpedia.org/resource/Politician)" : 0.1196581197,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|chief)" : 0.2545454545
+    }
+  }, {
+    "Word" : "minister-NN",
+    "multiply" : 0.0297287254,
+    "probabilities" : {
+      "P(word | object)=(minister|http://dbpedia.org/resource/Politician)" : 0.1709401709,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|minister)" : 0.1739130435
+    }
+  }, {
+    "Word" : "office-NN",
+    "multiply" : 0.0276923077,
+    "probabilities" : {
+      "P(word | object)=(office|http://dbpedia.org/resource/Politician)" : 0.1538461538,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|office)" : 0.18
+    }
+  }, {
+    "Word" : "second-JJ",
+    "multiply" : 0.0272154746,
+    "probabilities" : {
+      "P(word | object)=(second|http://dbpedia.org/resource/Politician)" : 0.094017094,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|second)" : 0.2894736842
+    }
+  }, {
+    "Word" : "president-NN",
+    "multiply" : 0.0266272189,
+    "probabilities" : {
+      "P(word | object)=(president|http://dbpedia.org/resource/Politician)" : 0.1538461538,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|president)" : 0.1730769231
+    }
+  }, {
+    "Word" : "election-NN",
+    "multiply" : 0.026185688,
+    "probabilities" : {
+      "P(word | object)=(election|http://dbpedia.org/resource/Politician)" : 0.2136752137,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|election)" : 0.1225490196
+    }
+  }, {
+    "Word" : "first-JJ",
+    "multiply" : 0.0244200244,
+    "probabilities" : {
+      "P(word | object)=(first|http://dbpedia.org/resource/Politician)" : 0.1709401709,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|first)" : 0.1428571429
+    }
+  }, {
+    "Word" : "chairman-NN",
+    "multiply" : 0.023297491,
+    "probabilities" : {
+      "P(word | object)=(chairman|http://dbpedia.org/resource/Politician)" : 0.1111111111,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|chairman)" : 0.2096774194
+    }
+  }, {
+    "Word" : "law-NN",
+    "multiply" : 0.0227920228,
+    "probabilities" : {
+      "P(word | object)=(law|http://dbpedia.org/resource/Politician)" : 0.1367521368,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|law)" : 0.1666666667
+    }
+  }, {
+    "Word" : "family-NN",
+    "multiply" : 0.021978022,
+    "probabilities" : {
+      "P(word | object)=(family|http://dbpedia.org/resource/Politician)" : 0.1025641026,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|family)" : 0.2142857143
+    }
+  }, {
+    "Word" : "democratic-JJ",
+    "multiply" : 0.0216076059,
+    "probabilities" : {
+      "P(word | object)=(democratic|http://dbpedia.org/resource/Politician)" : 0.1282051282,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|democratic)" : 0.1685393258
+    }
+  }, {
+    "Word" : "third-JJ",
+    "multiply" : 0.0209401709,
+    "probabilities" : {
+      "P(word | object)=(third|http://dbpedia.org/resource/Politician)" : 0.0598290598,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|third)" : 0.35
+    }
+  }, {
+    "Word" : "council-NN",
+    "multiply" : 0.0201664711,
+    "probabilities" : {
+      "P(word | object)=(council|http://dbpedia.org/resource/Politician)" : 0.1623931624,
+      "P(object | word)=(http://dbpedia.org/resource/Politician|council)" : 0.1241830065
+    }
+  } ]
+} ]

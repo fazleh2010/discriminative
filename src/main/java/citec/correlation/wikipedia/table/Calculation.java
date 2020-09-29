@@ -120,7 +120,7 @@ public class Calculation implements TextAnalyzer {
             }
 
             tableResults.put(tableName, kbResults);
-            FileFolderUtils.writeToJsonFile(kbResults, tables.getEntityTableDir() +"result/" + tableName);
+            FileFolderUtils.writeToJsonFile(kbResults, tables.getEntityTableDir() +"result/" + tableName.replaceAll(".json", "_probability.json"));
         }
     }
 
@@ -190,8 +190,8 @@ public class Calculation implements TextAnalyzer {
 
         }
 
-        String probability_object_word_str = Result.conditional_probability + "(" + A + "|" + B + ")";
-        String probability_word_object_str = Result.conditional_probability + "(" + B + "|" + A + ")";
+        String probability_object_word_str = "P(object | word)=" + "(" + A + "|" + B + ")";
+        String probability_word_object_str = "P(word | object)="  + "(" + B + "|" + A + ")";
 
         //if (WORD_FOUND > 10) {
         if (flag == Result.PROBABILITY_OBJECT_GIVEN_WORD) {
