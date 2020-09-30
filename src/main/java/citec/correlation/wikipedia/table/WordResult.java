@@ -19,7 +19,7 @@ import org.javatuples.Pair;
  *
  * @author elahi
  */
-public class Result  implements Comparator<Result>{
+public class WordResult  implements Comparator<WordResult>{
 
     @JsonIgnore
     public static Integer PROBABILITY_WORD_GIVEN_OBJECT = 1;
@@ -36,11 +36,11 @@ public class Result  implements Comparator<Result>{
     @JsonIgnore
     public static String RESULT_DIR = "result";
     
-     public Result()  {
+     public WordResult()  {
          
      }
 
-    public Result(Pair<String, Double> object, Pair<String, Double> word,String wordString,String partOfSfSpeech) throws IOException {
+    public WordResult(Pair<String, Double> object, Pair<String, Double> word,String wordString,String partOfSfSpeech) throws IOException {
         this.word=wordString+"-"+partOfSfSpeech;
         this.probabilities.put(object.getValue0(), this.format(object.getValue1()));
         this.probabilities.put(word.getValue0(), this.format(word.getValue1()));
@@ -54,7 +54,7 @@ public class Result  implements Comparator<Result>{
 
   
     @Override
-    public int compare(Result result1, Result result2) {
+    public int compare(WordResult result1, WordResult result2) {
        return  Double.compare(result1.getMultiple(), result2.getMultiple());
     }
 

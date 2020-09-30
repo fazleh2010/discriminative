@@ -5,8 +5,8 @@
  */
 package citec.correlation.wikipedia.utils;
 
-import citec.correlation.wikipedia.table.Result;
-import citec.correlation.wikipedia.table.Results;
+import citec.correlation.wikipedia.table.WordResult;
+import citec.correlation.wikipedia.table.EntityResults;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.BufferedReader;
@@ -41,8 +41,8 @@ import java.util.zip.ZipInputStream;
  * @author elahi
  */
 public class FileFolderUtils {
-    
-    private static String folder="src/main/resources/dbpedia/democratic/input.zip";
+
+    private static String folder = "src/main/resources/dbpedia/democratic/input.zip";
 
     public static void main(String a[]) {
 
@@ -106,10 +106,10 @@ public class FileFolderUtils {
         }
         return lists;
     }
-    
-     public static List<String> getList(String fileName) throws FileNotFoundException, IOException {
-        List<String> entities=new ArrayList<String>();
-        
+
+    public static List<String> getList(String fileName) throws FileNotFoundException, IOException {
+        List<String> entities = new ArrayList<String>();
+
         BufferedReader reader;
         String line = "";
         try {
@@ -118,7 +118,7 @@ public class FileFolderUtils {
             while (line != null) {
                 line = reader.readLine();
                 if (line != null) {
-                    String url=line.trim();
+                    String url = line.trim();
                     entities.add(url);
                 }
             }
@@ -128,10 +128,10 @@ public class FileFolderUtils {
         }
         return entities;
     }
-     
-    public static List<String> getSortedList(String fileName,Integer thresold,Integer listSize) throws FileNotFoundException, IOException {
-        List<String> words=new ArrayList<String>();
-        List<String> finalWords=new ArrayList<String>();
+
+    public static List<String> getSortedList(String fileName, Integer thresold, Integer listSize) throws FileNotFoundException, IOException {
+        List<String> words = new ArrayList<String>();
+        List<String> finalWords = new ArrayList<String>();
         BufferedReader reader;
         String line = "";
         try {
@@ -140,35 +140,35 @@ public class FileFolderUtils {
             while (line != null) {
                 line = reader.readLine();
                 if (line != null) {
-                    if(line.contains(" ")){
+                    if (line.contains(" ")) {
                         //System.out.println(line);
-                        String []info=line.split(" ");
-                        Integer count=Integer.parseInt(info[0].trim());  
-                        String word=info[1].trim();
-                        
-                        if(count>thresold){
-                           //System.out.println(line);
-                           words.add(word);    
+                        String[] info = line.split(" ");
+                        Integer count = Integer.parseInt(info[0].trim());
+                        String word = info[1].trim();
+
+                        if (count > thresold) {
+                            //System.out.println(line);
+                            words.add(word);
                         }
                     }
-                  
+
                 }
             }
-            
+
             reader.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
-        
+
         Integer size = 0;
         for (String word : words) {
-          
+
             if (size == listSize) {
                 break;
             } else {
                 finalWords.add(word);
             }
-              size = size + 1;
+            size = size + 1;
         }
         return finalWords;
     }
@@ -229,16 +229,45 @@ public class FileFolderUtils {
             e.printStackTrace();
         }
     }
-    
-       public static void writeToJsonFile(List<Results> kbResults, String filename) throws IOException {
-        if (kbResults.isEmpty()) {
+
+    public static void writeToJsonFile(List<EntityResults> entityResults, String entityDir,String tableName) throws IOException {
+        String filename=entityDir +"result/" + tableName.replaceAll(".json", "_probability.json");
+        if (entityResults.isEmpty()) {
             return;
         }
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
-        mapper.writeValue(Paths.get(filename).toFile(), kbResults);
+        mapper.writeValue(Paths.get(filename).toFile(), entityResults);
     }
-     
-     public static String urlUnicodeToString(String url) throws Exception {
+    public static void writeToTextFile(List<EntityResults> entityResults, String entityDir,String tableName) throws IOException {
+          String filename=entityDir +"result/" + tableName.replaceAll(".json", "_probability.txt");
+        if (entityResults.isEmpty()) {
+            return;
+        }
+
+        String str = "";
+        for (EntityResults entities : entityResults) {
+            String entityLine = "id="+entities.getObjectIndex() + " " + "property="+entities.getProperty() + " " + "object="+entities.getKB() + "\n";
+            String wordSum = "";
+            for (WordResult wordResults : entities.getDistributions()) {
+                String multiply="multiply="+wordResults.getMultiple();
+                String probabilty ="";
+                for (String rule : wordResults.getProbabilities().keySet()) {
+                    Double value = wordResults.getProbabilities().get(rule);
+                    String line = rule+ "=" +String.valueOf(value) + " ";
+                    probabilty += line;
+                }
+                String wordline = wordResults.getWord() + " " + multiply+ " "+probabilty + "\n";
+                wordSum += wordline;
+            }
+            entityLine = entityLine + wordSum + "\n";
+            str += entityLine;
+        }
+        System.out.println(str);
+        stringToFiles(str, filename);
+
+    }
+
+    public static String urlUnicodeToString(String url) throws Exception {
         URI uri = new URI(url);
         String urlStr = uri.getQuery();
         return urlStr;
@@ -248,6 +277,5 @@ public class FileFolderUtils {
         String encodedString = URLEncoder.encode(string, "UTF-8");
         return encodedString;
     }
-
 
 }

@@ -15,7 +15,7 @@ import java.util.List;
  *
  * @author elahi
  */
-public class Results {
+public class EntityResults {
 
     @JsonIgnore
     private static String PREFIX = "OBJECT";
@@ -31,13 +31,13 @@ public class Results {
     //@JsonProperty("ListOfWords")
     //private List<String> words;
     @JsonProperty("detail")
-    private List<Result> distributions = new ArrayList<Result>();
+    private List<WordResult> distributions = new ArrayList<WordResult>();
 
-    public Results(String property, String object, List<Result> distributions) {
+    public EntityResults(String property, String object, List<WordResult> distributions) {
         this.property = property;
         this.KB = object;
         this.distributions = distributions;
-        Collections.sort(this.distributions, new Result()); 
+        Collections.sort(this.distributions, new WordResult()); 
         Collections.reverse(this.distributions);
         index = index + 1;
         this.objectIndex = index.toString();
@@ -48,8 +48,28 @@ public class Results {
 
     }
 
+    public static String getPREFIX() {
+        return PREFIX;
+    }
+
+    public static Integer getIndex() {
+        return index;
+    }
+
+    public String getObjectIndex() {
+        return objectIndex;
+    }
+
+    public String getProperty() {
+        return property;
+    }
+
+    public String getKB() {
+        return KB;
+    }
+
    
-    public List<Result> getDistributions() {
+    public List<WordResult> getDistributions() {
         return distributions;
     }
 

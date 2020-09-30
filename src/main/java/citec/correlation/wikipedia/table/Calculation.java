@@ -29,10 +29,10 @@ import org.javatuples.Pair;
 public class Calculation implements TextAnalyzer {
 
     private InterestedWords interestedWords =null;
-    private  Map<String, List<Results>> tableResults = new HashMap<String, List<Results> >();
+    private  Map<String, List<EntityResults>> tableResults = new HashMap<String, List<EntityResults> >();
     private Integer numberOfEntities = 200;
     private Integer numberOfEntitiesSelected=50;
-    private Integer objectMinimumENtities=150;
+    private Integer objectMinimumENtities=50;
    
     /*public Calculation(String property, String inputJsonFile, String outputDir) throws Exception {
         Tables tables = new Tables(new File(inputJsonFile).getName(), outputDir);
@@ -62,22 +62,25 @@ public class Calculation implements TextAnalyzer {
             String classNameAndProperty = Tables.getClassAndProperty(tableName);
             List<String> selectedWords=new ArrayList<String>();
             
-            if(this.interestedWords.getPropertyInterestedWords().containsKey(classNameAndProperty)) {
-                selectedWords=this.interestedWords.getPropertyInterestedWords().get(classNameAndProperty);
-            }
+            
             /*if (!tableName.contains("dbo:party")) {
                 continue;
             }*/
+            
+            if(this.interestedWords.getPropertyInterestedWords().containsKey(classNameAndProperty)) {
+                selectedWords=this.interestedWords.getPropertyInterestedWords().get(classNameAndProperty);
+                System.out.println("selectedWord:"+selectedWords.toString());
+            }
             entityCategories = this.getObjectsOfproperties(property, dbpediaEntities);
             /*for(String key:entityCategories.keySet()){
                 System.out.println(key+" :"+entityCategories.get(key));
             }*/
 
             //all KBs..........................
-            List<Results> kbResults = new ArrayList<Results>();
-            for (String A : entityCategories.keySet()) {
-                List<Result> results = new ArrayList<Result>();
-                List<DBpediaEntity> dbpediaEntitiesGroup = entityCategories.get(A);
+            List<EntityResults> kbResults = new ArrayList<EntityResults>();
+            for (String objectOfProperty : entityCategories.keySet()) {
+                List<WordResult> results = new ArrayList<WordResult>();
+                List<DBpediaEntity> dbpediaEntitiesGroup = entityCategories.get(objectOfProperty);
                 if(dbpediaEntitiesGroup.size()<objectMinimumENtities)
                      continue;
                 
@@ -87,7 +90,6 @@ public class Calculation implements TextAnalyzer {
                 //System.out.println("KB:"+A);
                 //all words
                 for (String word : selectedWords) {
-                    String B = word;
                     String partsOfSpeech=null;
                     if(this.interestedWords.getAdjectives().contains(word))
                        partsOfSpeech= TextAnalyzer.ADJECTIVE;
@@ -96,15 +98,15 @@ public class Calculation implements TextAnalyzer {
                     }
                    
                     //System.out.println("word:"+word);
-                    Result result = null;
-                    Pair pairWord = this.countConditionalProbabilities(tableName, dbpediaEntitiesGroup, property, A, B, Result.PROBABILITY_WORD_GIVEN_OBJECT);
-                    Pair pairObject = this.countConditionalProbabilities(tableName, dbpediaEntities, property, A, B, Result.PROBABILITY_OBJECT_GIVEN_WORD);
+                    WordResult result = null;
+                    Pair pairWord = this.countConditionalProbabilities(tableName, dbpediaEntitiesGroup, property, objectOfProperty, word, WordResult.PROBABILITY_WORD_GIVEN_OBJECT);
+                    Pair pairObject = this.countConditionalProbabilities(tableName, dbpediaEntities, property, objectOfProperty, word, WordResult.PROBABILITY_OBJECT_GIVEN_WORD);
                     if (pairWord != null && pairObject != null) {
                            Double wordCount=(Double)pairWord.getValue1();
                            Double objectCount=(Double)pairObject.getValue1();
                           
                            if ((wordCount*objectCount)>0.02&&!(wordCount==0&&objectCount==0)) {
-                                result = new Result(pairWord, pairObject,word,partsOfSpeech);
+                                result = new WordResult(pairWord, pairObject,word,partsOfSpeech);
                                 results.add(result);   
                            }
                     }
@@ -112,7 +114,7 @@ public class Calculation implements TextAnalyzer {
                 }//all words end
                 
                 if (!results.isEmpty()) {
-                    Results kbResult = new Results(property, A, results);
+                    EntityResults kbResult = new EntityResults(property, objectOfProperty, results);
                     kbResults.add(kbResult);
                 }
                
@@ -120,7 +122,7 @@ public class Calculation implements TextAnalyzer {
             }
 
             tableResults.put(tableName, kbResults);
-            FileFolderUtils.writeToJsonFile(kbResults, tables.getEntityTableDir() +"result/" + tableName.replaceAll(".json", "_probability.json"));
+            FileFolderUtils.writeToTextFile(kbResults, tables.getEntityTableDir(),tableName);
         }
     }
 
@@ -161,7 +163,7 @@ public class Calculation implements TextAnalyzer {
     }
     
 
-    private Pair<String, Double> countConditionalProbabilities(String tableName, List<DBpediaEntity> dbpediaEntities, String propertyName, String A, String B, Integer flag) throws IOException {
+    private Pair<String, Double> countConditionalProbabilities(String tableName, List<DBpediaEntity> dbpediaEntities, String propertyName, String objectOfProperty, String word, Integer flag) throws IOException {
         Double KB_WORD_FOUND = 0.0, KB_FOUND = 0.0, WORD_FOUND = 0.0;
         Pair<String, Double> pair = null;
               
@@ -173,13 +175,13 @@ public class Calculation implements TextAnalyzer {
             if (dbpediaEntity.getProperties().containsKey(propertyName)) {
 
                 List<String> objects = dbpediaEntity.getProperties().get(propertyName);
-                if (objects.contains(A)) {
+                if (objects.contains(objectOfProperty)) {
                     KB_FOUND++;
                     objectFlag = true;
                 }
             }
                       
-            if (isWordContains(dbpediaEntity.getText(),B)){
+            if (isWordContains(dbpediaEntity.getText(),word)){
                 WORD_FOUND++;
                 wordFlag = true;                 
             }
@@ -190,15 +192,18 @@ public class Calculation implements TextAnalyzer {
 
         }
 
-        String probability_object_word_str = "P(object | word)=" + "(" + A + "|" + B + ")";
-        String probability_word_object_str = "P(word | object)="  + "(" + B + "|" + A + ")";
+        objectOfProperty=objectOfProperty.replaceAll("http://dbpedia.org/resource/", "");
+        //objectOfProperty="object[res:"+objectOfProperty+"]";
+        objectOfProperty="object";
+        String probability_object_word_str =  "P(" + objectOfProperty + "|" + word + ")";
+        String probability_word_object_str = "P(" + word + "|" + objectOfProperty + ")";
 
         //if (WORD_FOUND > 10) {
-        if (flag == Result.PROBABILITY_OBJECT_GIVEN_WORD) {
+        if (flag == WordResult.PROBABILITY_OBJECT_GIVEN_WORD) {
             Double probability_object_word = (KB_WORD_FOUND) / (WORD_FOUND);
             pair = new Pair<String, Double>(probability_object_word_str, probability_object_word);
         }
-        else if (flag == Result.PROBABILITY_WORD_GIVEN_OBJECT) {
+        else if (flag == WordResult.PROBABILITY_WORD_GIVEN_OBJECT) {
             Double probability_word_object = (KB_WORD_FOUND) / (KB_FOUND);
             pair = new Pair<String, Double>(probability_word_object_str, probability_word_object);
         } 
