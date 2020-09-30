@@ -1,0 +1,22 @@
+id=25  property=dbo:orderInOffice  object=Ontario MPP
+legislative-JJ  multiply=0.1028888009  P(legislative|object)=0.977443609  P(object|legislative)=0.1052631579  
+conservative-JJ  multiply=0.1005588111  P(conservative|object)=0.6466165414  P(object|conservative)=0.1555153707  
+assembly-NN  multiply=0.0862645412  P(assembly|object)=0.977443609  P(object|assembly)=0.0882552614  
+member-NN  multiply=0.0558169325  P(member|object)=0.962406015  P(object|member)=0.0579972814  
+cabinet-NN  multiply=0.0365655781  P(cabinet|object)=0.3007518797  P(object|cabinet)=0.1215805471  
+former-JJ  multiply=0.0226742973  P(former|object)=0.3759398496  P(object|former)=0.0603136309  
+
+id=26  property=dbo:orderInOffice  object=Member of the Legislative Assembly of Alberta
+caucus-NN  multiply=0.5434303097  P(caucus|object)=0.7889273356  P(object|caucus)=0.6888217523  
+provincial-JJ  multiply=0.3249472406  P(provincial|object)=0.8788927336  P(object|provincial)=0.3697234352  
+legislative-JJ  multiply=0.2307804379  P(legislative|object)=0.9930795848  P(object|legislative)=0.232388664  
+assembly-NN  multiply=0.1934920847  P(assembly|object)=0.9930795848  P(object|assembly)=0.1948404616  
+level-NN  multiply=0.1577190591  P(level|object)=0.3287197232  P(object|level)=0.4797979798  
+member-NN  multiply=0.124680358  P(member|object)=0.9757785467  P(object|member)=0.1277752605  
+government-NN  multiply=0.103741716  P(government|object)=0.4602076125  P(object|government)=0.2254237288  
+opposition-NN  multiply=0.0816724981  P(opposition|object)=0.2249134948  P(object|opposition)=0.3631284916  
+farmer-NN  multiply=0.0568865654  P(farmer|object)=0.1903114187  P(object|farmer)=0.2989130435  
+time-NN  multiply=0.0327611775  P(time|object)=0.214532872  P(object|time)=0.1527093596  
+conservative-JJ  multiply=0.0315423265  P(conservative|object)=0.2456747405  P(object|conservative)=0.1283905967  
+position-NN  multiply=0.0294152458  P(position|object)=0.2249134948  P(object|position)=0.1307847082  
+

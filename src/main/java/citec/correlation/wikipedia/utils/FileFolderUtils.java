@@ -246,17 +246,17 @@ public class FileFolderUtils {
 
         String str = "";
         for (EntityResults entities : entityResults) {
-            String entityLine = "id="+entities.getObjectIndex() + " " + "property="+entities.getProperty() + " " + "object="+entities.getKB() + "\n";
+            String entityLine = "id="+entities.getObjectIndex() + "  " + "property="+entities.getProperty() + "  " + "object="+entities.getKB() + "\n";
             String wordSum = "";
             for (WordResult wordResults : entities.getDistributions()) {
                 String multiply="multiply="+wordResults.getMultiple();
                 String probabilty ="";
                 for (String rule : wordResults.getProbabilities().keySet()) {
                     Double value = wordResults.getProbabilities().get(rule);
-                    String line = rule+ "=" +String.valueOf(value) + " ";
+                    String line = rule+ "=" +String.valueOf(value) + "  ";
                     probabilty += line;
                 }
-                String wordline = wordResults.getWord() + " " + multiply+ " "+probabilty + "\n";
+                String wordline = wordResults.getWord() + "  " + multiply+ "  "+probabilty + "\n";
                 wordSum += wordline;
             }
             entityLine = entityLine + wordSum + "\n";

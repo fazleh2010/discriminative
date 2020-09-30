@@ -1,0 +1,24 @@
+id=27  property=dbp:nationality  object=Australian
+australian-JJ  multiply=0.9269719251  P(australian|object)=0.9772727273  P(object|australian)=0.9485294118  
+legislative-JJ  multiply=0.5316512583  P(legislative|object)=0.6893939394  P(object|legislative)=0.7711864407  
+member-NN  multiply=0.4267676768  P(member|object)=0.7878787879  P(object|member)=0.5416666667  
+labor-NN  multiply=0.3875598086  P(labor|object)=0.4090909091  P(object|labor)=0.9473684211  
+assembly-NN  multiply=0.3844877345  P(assembly|object)=0.553030303  P(object|assembly)=0.6952380952  
+party-NN  multiply=0.3809444813  P(party|object)=0.6287878788  P(object|party)=0.6058394161  
+liberal-JJ  multiply=0.3178152493  P(liberal|object)=0.3863636364  P(object|liberal)=0.8225806452  
+election-NN  multiply=0.289600551  P(election|object)=0.4393939394  P(object|election)=0.6590909091  
+seat-NN  multiply=0.1852487136  P(seat|object)=0.2727272727  P(object|seat)=0.679245283  
+parliament-NN  multiply=0.1478296478  P(parliament|object)=0.2878787879  P(object|parliament)=0.5135135135  
+former-JJ  multiply=0.1399433899  P(former|object)=0.3106060606  P(object|former)=0.4505494505  
+government-NN  multiply=0.1373642081  P(government|object)=0.2348484848  P(object|government)=0.5849056604  
+victorian-JJ  multiply=0.1136363636  P(victorian|object)=0.1136363636  P(object|victorian)=1.0  
+electorate-NN  multiply=0.1060606061  P(electorate|object)=0.1060606061  P(object|electorate)=1.0  
+state-NN  multiply=0.0962566845  P(state|object)=0.2727272727  P(object|state)=0.3529411765  
+first-JJ  multiply=0.0910547786  P(first|object)=0.1893939394  P(object|first)=0.4807692308  
+position-NN  multiply=0.0879186603  P(position|object)=0.1590909091  P(object|position)=0.5526315789  
+federal-JJ  multiply=0.075311943  P(federal|object)=0.0984848485  P(object|federal)=0.7647058824  
+leader-NN  multiply=0.0681818182  P(leader|object)=0.1363636364  P(object|leader)=0.5  
+by-election-NN  multiply=0.0509259259  P(by-election|object)=0.0833333333  P(object|by-election)=0.6111111111  
+second-JJ  multiply=0.0378787879  P(second|object)=0.0757575758  P(object|second)=0.5  
+political-JJ  multiply=0.0245454545  P(political|object)=0.0681818182  P(object|political)=0.36  
+

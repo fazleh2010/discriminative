@@ -1,0 +1,25 @@
+id=21  property=dbo:office  object=Queensland Legislative
+labor-NN  multiply=0.3265010115  P(labor|object)=0.7398373984  P(object|labor)=0.441314554  
+australian-JJ  multiply=0.3209912822  P(australian|object)=0.918699187  P(object|australian)=0.3493975904  
+legislative-JJ  multiply=0.1192760481  P(legislative|object)=0.9430894309  P(object|legislative)=0.1264737406  
+assembly-NN  multiply=0.0925058627  P(assembly|object)=0.9430894309  P(object|assembly)=0.0980881131  
+member-NN  multiply=0.0621900808  P(member|object)=0.9349593496  P(object|member)=0.0665163472  
+seat-NN  multiply=0.0488562339  P(seat|object)=0.3495934959  P(object|seat)=0.1397515528  
+party-NN  multiply=0.0333080941  P(party|object)=0.5284552846  P(object|party)=0.0630291627  
+election-NN  multiply=0.0252711556  P(election|object)=0.4146341463  P(object|election)=0.0609480813  
+state-NN  multiply=0.024828796  P(state|object)=0.3739837398  P(object|state)=0.0663900415  
+former-JJ  multiply=0.0222957908  P(former|object)=0.3577235772  P(object|former)=0.0623268698  
+parliament-NN  multiply=0.0215648965  P(parliament|object)=0.2682926829  P(object|parliament)=0.0803782506  
+independent-JJ  multiply=0.0209059233  P(independent|object)=0.1382113821  P(object|independent)=0.1512605042  
+
+id=22  property=dbo:office  object=Ontario MPP
+legislative-JJ  multiply=0.1125795255  P(legislative|object)=0.9816513761  P(object|legislative)=0.1146838156  
+conservative-JJ  multiply=0.0993410001  P(conservative|object)=0.5688073394  P(object|conservative)=0.1746478873  
+assembly-NN  multiply=0.0873123003  P(assembly|object)=0.9816513761  P(object|assembly)=0.0889443059  
+member-NN  multiply=0.0506862634  P(member|object)=0.9082568807  P(object|member)=0.0558060879  
+figure-NN  multiply=0.0348782031  P(figure|object)=0.1926605505  P(object|figure)=0.1810344828  
+cabinet-NN  multiply=0.0311240676  P(cabinet|object)=0.3027522936  P(object|cabinet)=0.1028037383  
+liberal-JJ  multiply=0.0235155312  P(liberal|object)=0.3119266055  P(object|liberal)=0.0753880266  
+former-JJ  multiply=0.0224148009  P(former|object)=0.3853211009  P(object|former)=0.0581717452  
+government-NN  multiply=0.0200216948  P(government|object)=0.3027522936  P(object|government)=0.0661322645  
+

@@ -1,0 +1,30 @@
+id=19  property=dbp:occupation  object=Politician
+malaysian-JJ  multiply=0.1892551893  P(malaysian|object)=0.2564102564  P(object|malaysian)=0.7380952381  
+constituency-NN  multiply=0.0636812327  P(constituency|object)=0.1965811966  P(object|constituency)=0.323943662  
+party-NN  multiply=0.0597808624  P(party|object)=0.5213675214  P(object|party)=0.1146616541  
+family-NN  multiply=0.055315471  P(family|object)=0.2051282051  P(object|family)=0.2696629213  
+member-NN  multiply=0.0543104624  P(member|object)=0.735042735  P(object|member)=0.0738874895  
+deputy-JJ  multiply=0.0539979232  P(deputy|object)=0.2222222222  P(object|deputy)=0.2429906542  
+minister-NN  multiply=0.0480869079  P(minister|object)=0.358974359  P(object|minister)=0.1339563863  
+state-NN  multiply=0.0457079153  P(state|object)=0.3504273504  P(object|state)=0.1304347826  
+indian-JJ  multiply=0.0433348328  P(indian|object)=0.1452991453  P(object|indian)=0.298245614  
+seat-NN  multiply=0.040349831  P(seat|object)=0.2393162393  P(object|seat)=0.1686046512  
+election-NN  multiply=0.037301061  P(election|object)=0.3846153846  P(object|election)=0.0969827586  
+president-NN  multiply=0.0343915344  P(president|object)=0.2222222222  P(object|president)=0.1547619048  
+name-NN  multiply=0.0315782606  P(name|object)=0.188034188  P(object|name)=0.1679389313  
+person-NN  multiply=0.0310173697  P(person|object)=0.1282051282  P(object|person)=0.2419354839  
+assembly-NN  multiply=0.0303506018  P(assembly|object)=0.4871794872  P(object|assembly)=0.0622986037  
+australian-JJ  multiply=0.0271333605  P(australian|object)=0.1709401709  P(object|australian)=0.1587301587  
+
+id=20  property=dbp:occupation  object=politician
+caucus-NN  multiply=0.421739274  P(caucus|object)=0.8248175182  P(object|caucus)=0.5113122172  
+provincial-JJ  multiply=0.2969194606  P(provincial|object)=0.8759124088  P(object|provincial)=0.3389830508  
+legislative-JJ  multiply=0.1563876001  P(legislative|object)=0.9197080292  P(object|legislative)=0.1700404858  
+government-NN  multiply=0.1392166016  P(government|object)=0.5912408759  P(object|government)=0.2354651163  
+assembly-NN  multiply=0.1304695524  P(assembly|object)=0.9416058394  P(object|assembly)=0.1385606874  
+member-NN  multiply=0.1067862987  P(member|object)=0.9635036496  P(object|member)=0.1108312343  
+opposition-NN  multiply=0.0561482313  P(opposition|object)=0.2189781022  P(object|opposition)=0.2564102564  
+farmer-NN  multiply=0.0554416468  P(farmer|object)=0.1897810219  P(object|farmer)=0.2921348315  
+position-NN  multiply=0.0379167489  P(position|object)=0.2262773723  P(object|position)=0.1675675676  
+level-NN  multiply=0.0213530886  P(level|object)=0.102189781  P(object|level)=0.2089552239  
+

@@ -1,0 +1,16 @@
+id=29  property=dbo:residence  object=http://dbpedia.org/resource/Ontario
+canadian-JJ  multiply=0.0837225394  P(canadian|object)=0.5365853659  P(object|canadian)=0.1560283688  
+councillor-NN  multiply=0.068535159  P(councillor|object)=0.2520325203  P(object|councillor)=0.2719298246  
+municipal-JJ  multiply=0.0590439947  P(municipal|object)=0.2601626016  P(object|municipal)=0.2269503546  
+legislative-JJ  multiply=0.0544444975  P(legislative|object)=0.4715447154  P(object|legislative)=0.1154598826  
+liberal-JJ  multiply=0.0508054523  P(liberal|object)=0.3333333333  P(object|liberal)=0.1524163569  
+council-NN  multiply=0.0467246052  P(council|object)=0.406504065  P(object|council)=0.1149425287  
+city-NN  multiply=0.04588082  P(city|object)=0.406504065  P(object|city)=0.1128668172  
+assembly-NN  multiply=0.0382684157  P(assembly|object)=0.4715447154  P(object|assembly)=0.0811554333  
+election-NN  multiply=0.0373840689  P(election|object)=0.4552845528  P(object|election)=0.082111437  
+former-JJ  multiply=0.0373610273  P(former|object)=0.4146341463  P(object|former)=0.0901060071  
+member-NN  multiply=0.0350011053  P(member|object)=0.6097560976  P(object|member)=0.0574018127  
+mayor-NN  multiply=0.0263746002  P(mayor|object)=0.3008130081  P(object|mayor)=0.0876777251  
+federal-JJ  multiply=0.0236511456  P(federal|object)=0.1300813008  P(object|federal)=0.1818181818  
+electoral-JJ  multiply=0.0217401069  P(electoral|object)=0.1788617886  P(object|electoral)=0.1215469613  
+

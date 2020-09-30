@@ -1,0 +1,64 @@
+id=15  property=dbp:children  object=1
+lok-NN  multiply=0.1493354599  P(lok|object)=0.4818181818  P(object|lok)=0.3099415205  
+sabha-NN  multiply=0.138034398  P(sabha|object)=0.4818181818  P(object|sabha)=0.2864864865  
+constituency-NN  multiply=0.1348692403  P(constituency|object)=0.5181818182  P(object|constituency)=0.2602739726  
+indian-JJ  multiply=0.1072956455  P(indian|object)=0.4818181818  P(object|indian)=0.2226890756  
+14th-JJ  multiply=0.079811098  P(14th|object)=0.2363636364  P(object|14th)=0.3376623377  
+4th-JJ  multiply=0.073513986  P(4th|object)=0.2636363636  P(object|4th)=0.2788461538  
+member-NN  multiply=0.0658194474  P(member|object)=0.7181818182  P(object|member)=0.0916473318  
+party-NN  multiply=0.0528541226  P(party|object)=0.4545454545  P(object|party)=0.1162790698  
+part-NN  multiply=0.0446942149  P(part|object)=0.4727272727  P(object|part)=0.0945454545  
+political-JJ  multiply=0.0416799575  P(political|object)=0.2545454545  P(object|political)=0.1637426901  
+parliament-NN  multiply=0.0315656566  P(parliament|object)=0.2272727273  P(object|parliament)=0.1388888889  
+minister-NN  multiply=0.0285658307  P(minister|object)=0.2454545455  P(object|minister)=0.1163793103  
+15th-JJ  multiply=0.0267379679  P(15th|object)=0.0909090909  P(object|15th)=0.2941176471  
+election-NN  multiply=0.0256198347  P(election|object)=0.2818181818  P(object|election)=0.0909090909  
+16th-JJ  multiply=0.0212121212  P(16th|object)=0.0636363636  P(object|16th)=0.3333333333  
+
+id=16  property=dbp:children  object=2
+member-NN  multiply=0.13238485  P(member|object)=0.7268518519  P(object|member)=0.1821345708  
+sabha-NN  multiply=0.0900900901  P(sabha|object)=0.2777777778  P(object|sabha)=0.3243243243  
+lok-NN  multiply=0.0849036171  P(lok|object)=0.2592592593  P(object|lok)=0.3274853801  
+party-NN  multiply=0.0796296296  P(party|object)=0.3981481481  P(object|party)=0.2  
+part-NN  multiply=0.0792003367  P(part|object)=0.4490740741  P(object|part)=0.1763636364  
+assembly-NN  multiply=0.07092784  P(assembly|object)=0.3564814815  P(object|assembly)=0.1989664083  
+legislative-JJ  multiply=0.06916215  P(legislative|object)=0.3240740741  P(object|legislative)=0.2134146341  
+constituency-NN  multiply=0.0639480805  P(constituency|object)=0.2546296296  P(object|constituency)=0.2511415525  
+indian-JJ  multiply=0.0588429816  P(indian|object)=0.2546296296  P(object|indian)=0.231092437  
+cabinet-NN  multiply=0.0529886322  P(cabinet|object)=0.1574074074  P(object|cabinet)=0.3366336634  
+minister-NN  multiply=0.0519037356  P(minister|object)=0.2361111111  P(object|minister)=0.2198275862  
+election-NN  multiply=0.0488758553  P(election|object)=0.2777777778  P(object|election)=0.1759530792  
+4th-JJ  multiply=0.0455840456  P(4th|object)=0.1481481481  P(object|4th)=0.3076923077  
+political-JJ  multiply=0.0455111544  P(political|object)=0.1898148148  P(object|political)=0.2397660819  
+former-JJ  multiply=0.0422228235  P(former|object)=0.2453703704  P(object|former)=0.1720779221  
+14th-JJ  multiply=0.0406445406  P(14th|object)=0.1203703704  P(object|14th)=0.3376623377  
+state-NN  multiply=0.032996633  P(state|object)=0.2592592593  P(object|state)=0.1272727273  
+district-NN  multiply=0.0323298158  P(district|object)=0.2314814815  P(object|district)=0.1396648045  
+government-NN  multiply=0.0294834308  P(government|object)=0.1527777778  P(object|government)=0.1929824561  
+candidate-NN  multiply=0.0294640667  P(candidate|object)=0.1435185185  P(object|candidate)=0.2052980132  
+parliament-NN  multiply=0.0280092593  P(parliament|object)=0.1527777778  P(object|parliament)=0.1833333333  
+council-NN  multiply=0.0274370691  P(council|object)=0.1712962963  P(object|council)=0.1601731602  
+son-NN  multiply=0.0267335004  P(son|object)=0.2222222222  P(object|son)=0.1203007519  
+executive-JJ  multiply=0.0261752137  P(executive|object)=0.0972222222  P(object|executive)=0.2692307692  
+first-JJ  multiply=0.0245778867  P(first|object)=0.1759259259  P(object|first)=0.1397058824  
+liberal-JJ  multiply=0.0240939865  P(liberal|object)=0.1018518519  P(object|liberal)=0.2365591398  
+conservative-JJ  multiply=0.0216732219  P(conservative|object)=0.1064814815  P(object|conservative)=0.203539823  
+american-JJ  multiply=0.0204003464  P(american|object)=0.162037037  P(object|american)=0.1258992806  
+
+id=17  property=dbp:children  object=3
+member-NN  multiply=0.069614357  P(member|object)=0.6742424242  P(object|member)=0.1032482599  
+council-NN  multiply=0.033582579  P(council|object)=0.2424242424  P(object|council)=0.1385281385  
+parliament-NN  multiply=0.032996633  P(parliament|object)=0.2121212121  P(object|parliament)=0.1555555556  
+part-NN  multiply=0.0317355372  P(part|object)=0.3636363636  P(object|part)=0.0872727273  
+former-JJ  multiply=0.030130854  P(former|object)=0.2651515152  P(object|former)=0.1136363636  
+legislative-JJ  multiply=0.0299334812  P(legislative|object)=0.2727272727  P(object|legislative)=0.1097560976  
+assembly-NN  multiply=0.0297744891  P(assembly|object)=0.2954545455  P(object|assembly)=0.1007751938  
+party-NN  multiply=0.0296159267  P(party|object)=0.3106060606  P(object|party)=0.0953488372  
+election-NN  multiply=0.0256820403  P(election|object)=0.2575757576  P(object|election)=0.0997067449  
+sabha-NN  multiply=0.0255937756  P(sabha|object)=0.1893939394  P(object|sabha)=0.1351351351  
+councillor-NN  multiply=0.0247933884  P(councillor|object)=0.0909090909  P(object|councillor)=0.2727272727  
+state-NN  multiply=0.0235709366  P(state|object)=0.2803030303  P(object|state)=0.0840909091  
+lok-NN  multiply=0.0234361155  P(lok|object)=0.1742424242  P(object|lok)=0.134502924  
+constituency-NN  multiply=0.0216203127  P(constituency|object)=0.1893939394  P(object|constituency)=0.1141552511  
+indian-JJ  multiply=0.021517698  P(indian|object)=0.196969697  P(object|indian)=0.1092436975  
+
