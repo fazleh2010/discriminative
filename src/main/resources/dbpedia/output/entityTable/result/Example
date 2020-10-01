@@ -1,0 +1,56 @@
+Probability calculation::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+This is the probability distribution of dbo:Politician_dbo:party_probability.json
+
+1. predict whether a certain word appears in abstract given the object of the property.
+property=dbo:party  object=http://dbpedia.org/resource/Labor_Party_UK  word=british
+P(british | http://dbpedia.org/resource/Labor_Party_UK)= P(british & http://dbpedia.org/resource/Labor_Party_UK) / P(http://dbpedia.org/resource/Labor_Party_UK)
+where P(british & http://dbpedia.org/resource/Labor_Party_UK)=the number of entities where the object is (http://dbpedia.org/resource/Labor_Party_UK) and the abstract contains the word british
+P(http://dbpedia.org/resource/Labor_Party_UK): the number of entities where the object is http://dbpedia.org/resource/Labor_Party_UK
+
+2. predict the object of the property given certain word in abstract 
+P(http://dbpedia.org/resource/Labor_Party_UK | british)=P(british and http://dbpedia.org/resource/Labor_Party_UK)/P(british)
+P(british): all entities in which the abstract contains the word british
+
+
+
+Table:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+The table dbo:Politician_dbo:party.json contains all the entities of class Politician  and property party. The table contains abstract of the entity, words, nouns, and adjectives.
+Link:
+https://github.com/fazleh2010/discriminative/tree/master/src/main/resources/dbpedia/output/entityTable
+
+Strategy to find interesting word::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+All the words that are found more than a thresold for a property of a class (i.e. Table dbo:Politician_dbo:party.json). 
+Here the thresold is MinimumNumberOfEntitiesWordFound=10. For example, the word “american” is found in more than 10 entities of dbo:Politician_dbo:party.json. It is listed as interesting words.
+
+LInk
+https://github.com/fazleh2010/discriminative/tree/master/src/main/resources/dbpedia/output/entityTable/selectedWords
+
+dbo:Politician_dbp:party_probability is the probability distribution of the table dbo:Politician_dbo:party.json (see below in detail of 3)
+https://github.com/fazleh2010/discriminative/tree/master/src/main/resources/dbpedia/output/entityTable/result
+
+
+
+Result:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+dbo:Politician_dbp:party_probability.txt represents the probabilty distribution of dbo:Politician_dbp:party.json
+https://github.com/fazleh2010/discriminative/tree/master/src/main/resources/dbpedia/output/entityTable/result
+
+
+
+Threshold::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+ 
+NumberOfMinimumEntitie=200, If a table contains less 200 entities that is exculded (for example dbo:Politician_dbo:militaryBranch is excluded)  
+TopInterestingWords=100, we take the top 100 interesting words for a property for calculating probability. 
+NumberOfEntitiesForObjectOfProperty=100, For example, the object http://dbpedia.org/resource/Australian_Greens is found in less than 100 entities. 
+Probability_Threshold: If multiply value of 2 probabilities is less than 0.01,then it is excluded.
+
+Findings:
+1. The strategy of considering interesting words of a property. For example, the words of abstract of dbo:Politician_dbo:religion.json does not contain religious related words such islam, catholic or hindu. 
+The word “catholic” is found only in the abstract of only two entites. And other religion related word does not exists. 
+The abstract contains more political words instead of property oriented words. 
+2. Previously, I tried with another strategy by taking all the words of abstract class politicians (irrespective of property) but that did not work either for similar reasons. The words are all related to political words.
+
+
+

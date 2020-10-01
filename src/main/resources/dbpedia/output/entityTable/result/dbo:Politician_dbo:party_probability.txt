@@ -1,4 +1,4 @@
-id=1  property=dbo:party  object=http://dbpedia.org/resource/Australian_Labor_Party
+id=1  property=dbo:party  object=http://dbpedia.org/resource/Australian_Labor_Party  NumberOfEntitiesFoundForObject=625
 labor-NN  multiply=0.6973514563  P(labor|object)=0.8256  P(object|labor)=0.8446601942  
 australian-JJ  multiply=0.6128469388  P(australian|object)=0.872  P(object|australian)=0.7028061224  
 legislative-JJ  multiply=0.1036322981  P(legislative|object)=0.632  P(object|legislative)=0.1639751553  
@@ -18,8 +18,20 @@ western-JJ  multiply=0.0263392405  P(western|object)=0.0816  P(object|western)=0
 federal-JJ  multiply=0.0258375758  P(federal|object)=0.1168  P(object|federal)=0.2212121212  
 school-NN  multiply=0.0221388235  P(school|object)=0.1552  P(object|school)=0.1426470588  
 secretary-NN  multiply=0.0200068376  P(secretary|object)=0.1216  P(object|secretary)=0.1645299145  
+officer-NN  multiply=0.0188679245  P(officer|object)=0.08  P(object|officer)=0.2358490566  
+bachelor-NN  multiply=0.0184090909  P(bachelor|object)=0.072  P(object|bachelor)=0.2556818182  
+son-NN  multiply=0.0177775805  P(son|object)=0.2256  P(object|son)=0.0788013319  
+position-NN  multiply=0.0162531343  P(position|object)=0.1312  P(object|position)=0.123880597  
+teacher-NN  multiply=0.0137634409  P(teacher|object)=0.064  P(object|teacher)=0.2150537634  
+independent-JJ  multiply=0.013225  P(independent|object)=0.0736  P(object|independent)=0.1796875  
+trade-NN  multiply=0.0130563107  P(trade|object)=0.0656  P(object|trade)=0.1990291262  
+president-NN  multiply=0.0128710183  P(president|object)=0.1248  P(object|president)=0.1031331593  
+parliament-NN  multiply=0.0127670455  P(parliament|object)=0.168  P(object|parliament)=0.0759943182  
+government-NN  multiply=0.0126413361  P(government|object)=0.1392  P(object|government)=0.0908141962  
+opposition-NN  multiply=0.012358042  P(opposition|object)=0.0752  P(object|opposition)=0.1643356643  
+year-NN  multiply=0.0120859649  P(year|object)=0.1328  P(object|year)=0.0910087719  
 
-id=2  property=dbo:party  object=http://dbpedia.org/resource/Liberal_Party_(UK)
+id=2  property=dbo:party  object=http://dbpedia.org/resource/Liberal_Party_(UK)  NumberOfEntitiesFoundForObject=388
 liberal-JJ  multiply=0.2549251925  P(liberal|object)=0.925257732  P(object|liberal)=0.2755180353  
 english-JJ  multiply=0.2302531837  P(english|object)=0.3479381443  P(object|english)=0.6617647059  
 parliament-NN  multiply=0.1759093838  P(parliament|object)=0.7989690722  P(object|parliament)=0.2201704545  
@@ -38,8 +50,16 @@ part-NN  multiply=0.0436759042  P(part|object)=0.5824742268  P(object|part)=0.07
 by-election-NN  multiply=0.0391363785  P(by-election|object)=0.2036082474  P(object|by-election)=0.1922141119  
 party-NN  multiply=0.0378289918  P(party|object)=0.5103092784  P(object|party)=0.0741295395  
 merchant-NN  multiply=0.0259879725  P(merchant|object)=0.0850515464  P(object|merchant)=0.3055555556  
+year-NN  multiply=0.0185414406  P(year|object)=0.2087628866  P(object|year)=0.0888157895  
+school-NN  multiply=0.016013493  P(school|object)=0.1675257732  P(object|school)=0.0955882353  
+second-JJ  multiply=0.0149199606  P(second|object)=0.1237113402  P(object|second)=0.1206030151  
+chairman-NN  multiply=0.0138436927  P(chairman|object)=0.1159793814  P(object|chairman)=0.1193633952  
+family-NN  multiply=0.013371834  P(family|object)=0.1056701031  P(object|family)=0.1265432099  
+business-NN  multiply=0.0115080316  P(business|object)=0.1237113402  P(object|business)=0.0930232558  
+conservative-JJ  multiply=0.0109056829  P(conservative|object)=0.1649484536  P(object|conservative)=0.0661157025  
+name-NN  multiply=0.010182086  P(name|object)=0.1005154639  P(object|name)=0.1012987013  
 
-id=3  property=dbo:party  object=http://dbpedia.org/resource/Republican_Party_(United_States)
+id=3  property=dbo:party  object=http://dbpedia.org/resource/Republican_Party_(United_States)  NumberOfEntitiesFoundForObject=489
 republican-JJ  multiply=0.4590855451  P(republican|object)=0.7096114519  P(object|republican)=0.646953405  
 public-JJ  multiply=0.277983543  P(public|object)=0.7280163599  P(object|public)=0.3818369453  
 state-NN  multiply=0.1091930363  P(state|object)=0.5664621677  P(object|state)=0.1927631579  
@@ -55,8 +75,21 @@ city-NN  multiply=0.023564732  P(city|object)=0.1901840491  P(object|city)=0.123
 attorney-NN  multiply=0.021806763  P(attorney|object)=0.0920245399  P(object|attorney)=0.2369668246  
 son-NN  multiply=0.0205225278  P(son|object)=0.2699386503  P(object|son)=0.0760266371  
 law-NN  multiply=0.0202306799  P(law|object)=0.1554192229  P(object|law)=0.1301684533  
+businessman-NN  multiply=0.0193251534  P(businessman|object)=0.0858895706  P(object|businessman)=0.225  
+member-NN  multiply=0.0181379426  P(member|object)=0.4049079755  P(object|member)=0.0447952218  
+part-NN  multiply=0.0174495843  P(part|object)=0.3149284254  P(object|part)=0.0554080956  
+new-JJ  multiply=0.0157156064  P(new|object)=0.2085889571  P(object|new)=0.0753424658  
+president-NN  multiply=0.0153534415  P(president|object)=0.145194274  P(object|president)=0.1057441253  
+primary-JJ  multiply=0.0150683457  P(primary|object)=0.0715746421  P(object|primary)=0.2105263158  
+first-JJ  multiply=0.01443281  P(first|object)=0.1799591002  P(object|first)=0.0802005013  
+chairman-NN  multiply=0.0138213102  P(chairman|object)=0.100204499  P(object|chairman)=0.1379310345  
+year-NN  multiply=0.0125928318  P(year|object)=0.1472392638  P(object|year)=0.0855263158  
+school-NN  multiply=0.0110008421  P(school|object)=0.1206543967  P(object|school)=0.0911764706  
+former-JJ  multiply=0.0105176605  P(former|object)=0.1738241309  P(object|former)=0.0605074821  
+general-JJ  multiply=0.0104183701  P(general|object)=0.1533742331  P(object|general)=0.067927773  
+election-NN  multiply=0.0102962086  P(election|object)=0.2229038855  P(object|election)=0.046191248  
 
-id=4  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta
+id=4  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta  NumberOfEntitiesFoundForObject=156
 level-NN  multiply=0.1968153612  P(level|object)=0.5256410256  P(object|level)=0.3744292237  
 provincial-JJ  multiply=0.0965232247  P(provincial|object)=0.7115384615  P(object|provincial)=0.1356542617  
 conservative-JJ  multiply=0.0852934944  P(conservative|object)=0.7179487179  P(object|conservative)=0.1188016529  
@@ -64,8 +97,13 @@ caucus-NN  multiply=0.0851716862  P(caucus|object)=0.4615384615  P(object|caucus
 legislative-JJ  multiply=0.0609173435  P(legislative|object)=0.9615384615  P(object|legislative)=0.0633540373  
 assembly-NN  multiply=0.0505377481  P(assembly|object)=0.9615384615  P(object|assembly)=0.052559258  
 member-NN  multiply=0.0317969502  P(member|object)=0.9679487179  P(object|member)=0.0328498294  
+time-NN  multiply=0.0161423841  P(time|object)=0.25  P(object|time)=0.0645695364  
+canadian-JJ  multiply=0.014974257  P(canadian|object)=0.3012820513  P(object|canadian)=0.0497017893  
+former-JJ  multiply=0.0140299952  P(former|object)=0.3717948718  P(object|former)=0.0377358491  
+cabinet-NN  multiply=0.0134577152  P(cabinet|object)=0.2051282051  P(object|cabinet)=0.0656063618  
+office-NN  multiply=0.0102246928  P(office|object)=0.2243589744  P(object|office)=0.0455729167  
 
-id=5  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario
+id=5  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario  NumberOfEntitiesFoundForObject=187
 conservative-JJ  multiply=0.181983913  P(conservative|object)=0.9679144385  P(object|conservative)=0.1880165289  
 legislative-JJ  multiply=0.0737502906  P(legislative|object)=0.9732620321  P(object|legislative)=0.0757763975  
 figure-NN  multiply=0.071657754  P(figure|object)=0.3582887701  P(object|figure)=0.2  
@@ -73,14 +111,20 @@ assembly-NN  multiply=0.0611841126  P(assembly|object)=0.9732620321  P(object|as
 member-NN  multiply=0.0371639503  P(member|object)=0.9625668449  P(object|member)=0.038609215  
 political-JJ  multiply=0.0332803132  P(political|object)=0.3636363636  P(object|political)=0.0915208614  
 cabinet-NN  multiply=0.0215285825  P(cabinet|object)=0.2406417112  P(object|cabinet)=0.0894632207  
+son-NN  multiply=0.0175918617  P(son|object)=0.4064171123  P(object|son)=0.0432852386  
+canadian-JJ  multiply=0.0140972348  P(canadian|object)=0.2727272727  P(object|canadian)=0.0516898608  
+merchant-NN  multiply=0.01114082  P(merchant|object)=0.0802139037  P(object|merchant)=0.1388888889  
+farmer-NN  multiply=0.0102534294  P(farmer|object)=0.1122994652  P(object|farmer)=0.0913043478  
 
-id=6  property=dbo:party  object=http://dbpedia.org/resource/Ontario_Liberal_Party
+id=6  property=dbo:party  object=http://dbpedia.org/resource/Ontario_Liberal_Party  NumberOfEntitiesFoundForObject=117
 liberal-JJ  multiply=0.0867426255  P(liberal|object)=0.9743589744  P(object|liberal)=0.0890253262  
 legislative-JJ  multiply=0.048026048  P(legislative|object)=0.9829059829  P(object|legislative)=0.0488612836  
 assembly-NN  multiply=0.039842977  P(assembly|object)=0.9829059829  P(object|assembly)=0.0405358983  
 member-NN  multiply=0.0224614218  P(member|object)=0.9401709402  P(object|member)=0.023890785  
+figure-NN  multiply=0.0172470978  P(figure|object)=0.2222222222  P(object|figure)=0.0776119403  
+cabinet-NN  multiply=0.0133217787  P(cabinet|object)=0.2393162393  P(object|cabinet)=0.055666004  
 
-id=7  property=dbo:party  object=http://dbpedia.org/resource/Labor_Party_(UK)
+id=7  property=dbo:party  object=http://dbpedia.org/resource/Labor_Party_(UK)  NumberOfEntitiesFoundForObject=304
 labour-NN  multiply=0.5452660183  P(labour|object)=0.9868421053  P(object|labour)=0.5525362319  
 british-JJ  multiply=0.2126582278  P(british|object)=0.7368421053  P(object|british)=0.2886075949  
 parliament-NN  multiply=0.1985038502  P(parliament|object)=0.9506578947  P(object|parliament)=0.2088068182  
@@ -100,8 +144,13 @@ secretary-NN  multiply=0.0349330859  P(secretary|object)=0.2302631579  P(object|
 council-NN  multiply=0.0317973534  P(council|object)=0.3552631579  P(object|council)=0.0895036615  
 councillor-NN  multiply=0.0273532389  P(councillor|object)=0.1513157895  P(object|councillor)=0.1807692308  
 candidate-NN  multiply=0.0207226355  P(candidate|object)=0.25  P(object|candidate)=0.082890542  
+school-NN  multiply=0.0165441176  P(school|object)=0.1875  P(object|school)=0.0882352941  
+year-NN  multiply=0.0145429363  P(year|object)=0.2072368421  P(object|year)=0.0701754386  
+office-NN  multiply=0.0129565858  P(office|object)=0.1809210526  P(object|office)=0.0716145833  
+son-NN  multiply=0.0128804253  P(son|object)=0.2763157895  P(object|son)=0.0466148724  
+first-JJ  multiply=0.0107285758  P(first|object)=0.2006578947  P(object|first)=0.0534670008  
 
-id=8  property=dbo:party  object=http://dbpedia.org/resource/Democratic_Party_(United_States)
+id=8  property=dbo:party  object=http://dbpedia.org/resource/Democratic_Party_(United_States)  NumberOfEntitiesFoundForObject=760
 american-JJ  multiply=0.3091566741  P(american|object)=0.5460526316  P(object|american)=0.5661664393  
 democratic-JJ  multiply=0.25354968  P(democratic|object)=0.5302631579  P(object|democratic)=0.4781582054  
 district-NN  multiply=0.13192045  P(district|object)=0.5210526316  P(object|district)=0.2531806616  
@@ -125,8 +174,20 @@ office-NN  multiply=0.0240577029  P(office|object)=0.1552631579  P(object|office
 council-NN  multiply=0.0228202218  P(council|object)=0.1907894737  P(object|council)=0.1196094386  
 attorney-NN  multiply=0.0224494887  P(attorney|object)=0.0789473684  P(object|attorney)=0.2843601896  
 public-JJ  multiply=0.0224213785  P(public|object)=0.1684210526  P(object|public)=0.133126935  
+general-JJ  multiply=0.0194144001  P(general|object)=0.1710526316  P(object|general)=0.1134995701  
+incumbent-JJ  multiply=0.0186872238  P(incumbent|object)=0.0802631579  P(object|incumbent)=0.2328244275  
+election-NN  multiply=0.0186428389  P(election|object)=0.2447368421  P(object|election)=0.0761750405  
+party-NN  multiply=0.0177836016  P(party|object)=0.25  P(object|party)=0.0711344066  
+age-NN  multiply=0.0156857661  P(age|object)=0.1447368421  P(object|age)=0.1083743842  
+school-NN  multiply=0.0143111455  P(school|object)=0.1131578947  P(object|school)=0.1264705882  
+second-JJ  multiply=0.0137529754  P(second|object)=0.0842105263  P(object|second)=0.1633165829  
+republican-JJ  multiply=0.0122241087  P(republican|object)=0.0947368421  P(object|republican)=0.1290322581  
+degree-NN  multiply=0.0120528594  P(degree|object)=0.0605263158  P(object|degree)=0.1991341991  
+lawyer-NN  multiply=0.0120122073  P(lawyer|object)=0.0644736842  P(object|lawyer)=0.1863117871  
+position-NN  multiply=0.01104674  P(position|object)=0.0986842105  P(object|position)=0.1119402985  
+business-NN  multiply=0.0104447164  P(business|object)=0.0842105263  P(object|business)=0.1240310078  
 
-id=9  property=dbo:party  object=http://dbpedia.org/resource/Indian_National_Congress
+id=9  property=dbo:party  object=http://dbpedia.org/resource/Indian_National_Congress  NumberOfEntitiesFoundForObject=693
 indian-JJ  multiply=0.6747822459  P(indian|object)=0.8975468975  P(object|indian)=0.7518072289  
 sabha-NN  multiply=0.3030866703  P(sabha|object)=0.4083694084  P(object|sabha)=0.7421875  
 constituency-NN  multiply=0.296816268  P(constituency|object)=0.6204906205  P(object|constituency)=0.4783573807  
@@ -145,4 +206,7 @@ party-NN  multiply=0.0242803496  P(party|object)=0.3044733045  P(object|party)=0
 mla-NN  multiply=0.022986273  P(mla|object)=0.101010101  P(object|mla)=0.2275641026  
 political-JJ  multiply=0.0204040016  P(political|object)=0.1471861472  P(object|political)=0.1386271871  
 state-NN  multiply=0.0200975925  P(state|object)=0.2092352092  P(object|state)=0.0960526316  
+leader-NN  multiply=0.0193477279  P(leader|object)=0.1341991342  P(object|leader)=0.1441717791  
+government-NN  multiply=0.0147628989  P(government|object)=0.1428571429  P(object|government)=0.1033402923  
+president-NN  multiply=0.0142567036  P(president|object)=0.1240981241  P(object|president)=0.1148825065  
 

@@ -1,4 +1,4 @@
-id=10  property=dbo:country  object=http://dbpedia.org/resource/United_States
+id=10  property=dbo:country  object=http://dbpedia.org/resource/United_States  NumberOfEntitiesFoundForObject=475
 state-NN  multiply=0.5652227756  P(state|object)=0.6821052632  P(object|state)=0.8286445013  
 assembly-NN  multiply=0.3522905856  P(assembly|object)=0.4589473684  P(object|assembly)=0.7676056338  
 american-JJ  multiply=0.3261871345  P(american|object)=0.3515789474  P(object|american)=0.9277777778  
@@ -40,8 +40,25 @@ time-NN  multiply=0.0259698197  P(time|object)=0.0884210526  P(object|time)=0.29
 teacher-NN  multiply=0.0227368421  P(teacher|object)=0.0378947368  P(object|teacher)=0.6  
 clerk-NN  multiply=0.0217293233  P(clerk|object)=0.0357894737  P(object|clerk)=0.6071428571  
 year-NN  multiply=0.0213326895  P(year|object)=0.0989473684  P(object|year)=0.2155963303  
+committee-NN  multiply=0.0199316473  P(committee|object)=0.0568421053  P(object|committee)=0.3506493506  
+farmer-NN  multiply=0.0192481203  P(farmer|object)=0.0336842105  P(object|farmer)=0.5714285714  
+chairman-NN  multiply=0.0187459954  P(chairman|object)=0.0673684211  P(object|chairman)=0.2782608696  
+secretary-NN  multiply=0.0182983775  P(secretary|object)=0.0715789474  P(object|secretary)=0.2556390977  
+family-NN  multiply=0.0179405034  P(family|object)=0.0589473684  P(object|family)=0.3043478261  
+election-NN  multiply=0.0179093567  P(election|object)=0.1473684211  P(object|election)=0.1215277778  
+political-JJ  multiply=0.0176775272  P(political|object)=0.0484210526  P(object|political)=0.3650793651  
+education-NN  multiply=0.0175173784  P(education|object)=0.0442105263  P(object|education)=0.3962264151  
+age-NN  multiply=0.0158569125  P(age|object)=0.1094736842  P(object|age)=0.1448467967  
+name-NN  multiply=0.0158220293  P(name|object)=0.0568421053  P(object|name)=0.2783505155  
+company-NN  multiply=0.01573595  P(company|object)=0.0442105263  P(object|company)=0.3559322034  
+candidate-NN  multiply=0.0145904869  P(candidate|object)=0.0757894737  P(object|candidate)=0.192513369  
+death-NN  multiply=0.0119885922  P(death|object)=0.0715789474  P(object|death)=0.1674876847  
+bar-NN  multiply=0.0108646617  P(bar|object)=0.0715789474  P(object|bar)=0.1517857143  
+leader-NN  multiply=0.0108270677  P(leader|object)=0.0378947368  P(object|leader)=0.2857142857  
+party-NN  multiply=0.0107326392  P(party|object)=0.1115789474  P(object|party)=0.0961887477  
+majority-NN  multiply=0.0101403509  P(majority|object)=0.0357894737  P(object|majority)=0.2833333333  
 
-id=11  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom
+id=11  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=699
 member-NN  multiply=0.5854147743  P(member|object)=0.8640915594  P(object|member)=0.6774916013  
 british-JJ  multiply=0.5467846924  P(british|object)=0.5593705293  P(object|british)=0.9775  
 election-NN  multiply=0.5463186497  P(election|object)=0.6709585122  P(object|election)=0.8142361111  
@@ -110,4 +127,8 @@ several-JJ  multiply=0.0235877037  P(several|object)=0.0371959943  P(object|seve
 town-NN  multiply=0.0225788393  P(town|object)=0.0472103004  P(object|town)=0.4782608696  
 political-JJ  multiply=0.0218225583  P(political|object)=0.0443490701  P(object|political)=0.4920634921  
 law-NN  multiply=0.0213719948  P(law|object)=0.0701001431  P(object|law)=0.3048780488  
+education-NN  multiply=0.0189489027  P(education|object)=0.0371959943  P(object|education)=0.5094339623  
+leader-NN  multiply=0.0178032109  P(leader|object)=0.0400572246  P(object|leader)=0.4444444444  
+officer-NN  multiply=0.0140200286  P(officer|object)=0.0300429185  P(object|officer)=0.4666666667  
+businessman-NN  multiply=0.0132771127  P(businessman|object)=0.0329041488  P(object|businessman)=0.4035087719  
 

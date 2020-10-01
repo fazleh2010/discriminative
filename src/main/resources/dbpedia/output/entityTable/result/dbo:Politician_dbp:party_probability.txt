@@ -1,4 +1,4 @@
-id=34  property=dbp:party  object=Independent politician
+id=34  property=dbp:party  object=Independent politician  NumberOfEntitiesFoundForObject=128
 new-JJ  multiply=0.3440860215  P(new|object)=1.0  P(object|new)=0.3440860215  
 19th-century-JJ  multiply=0.3228635204  P(19th-century|object)=0.703125  P(object|19th-century)=0.4591836735  
 parliament-NN  multiply=0.3146451271  P(parliament|object)=0.8515625  P(object|parliament)=0.3694915254  
@@ -19,8 +19,14 @@ legislative-JJ  multiply=0.0225360577  P(legislative|object)=0.1171875  P(object
 general-JJ  multiply=0.0223214286  P(general|object)=0.1171875  P(object|general)=0.1904761905  
 minister-NN  multiply=0.0210069444  P(minister|object)=0.0859375  P(object|minister)=0.2444444444  
 time-NN  multiply=0.0200320513  P(time|object)=0.078125  P(object|time)=0.2564102564  
+candidate-NN  multiply=0.0196940104  P(candidate|object)=0.0859375  P(object|candidate)=0.2291666667  
+brother-NN  multiply=0.019140625  P(brother|object)=0.0546875  P(object|brother)=0.35  
+family-NN  multiply=0.0178571429  P(family|object)=0.0625  P(object|family)=0.2857142857  
+first-JJ  multiply=0.0170138889  P(first|object)=0.109375  P(object|first)=0.1555555556  
+death-NN  multiply=0.0151515152  P(death|object)=0.0625  P(object|death)=0.2424242424  
+government-NN  multiply=0.0106382979  P(government|object)=0.0625  P(object|government)=0.170212766  
 
-id=35  property=dbp:party  object=Independent
+id=35  property=dbp:party  object=Independent  NumberOfEntitiesFoundForObject=164
 19th-century-JJ  multiply=0.3495520159  P(19th-century|object)=0.6463414634  P(object|19th-century)=0.5408163265  
 parliament-NN  multiply=0.3281314593  P(parliament|object)=0.762195122  P(object|parliament)=0.4305084746  
 electorate-NN  multiply=0.3203691496  P(electorate|object)=0.6585365854  P(object|electorate)=0.4864864865  
@@ -40,4 +46,16 @@ town-NN  multiply=0.0245934959  P(town|object)=0.0670731707  P(object|town)=0.36
 death-NN  multiply=0.0223577236  P(death|object)=0.0670731707  P(object|death)=0.3333333333  
 mayor-NN  multiply=0.0216802168  P(mayor|object)=0.0975609756  P(object|mayor)=0.2222222222  
 assembly-NN  multiply=0.0210118655  P(assembly|object)=0.0914634146  P(object|assembly)=0.2297297297  
+city-NN  multiply=0.0174216028  P(city|object)=0.0914634146  P(object|city)=0.1904761905  
+brother-NN  multiply=0.0149390244  P(brother|object)=0.0426829268  P(object|brother)=0.35  
+business-NN  multiply=0.0149051491  P(business|object)=0.0670731707  P(object|business)=0.2222222222  
+minister-NN  multiply=0.0134146341  P(minister|object)=0.0548780488  P(object|minister)=0.2444444444  
+british-JJ  multiply=0.0131707317  P(british|object)=0.0365853659  P(object|british)=0.36  
+office-NN  multiply=0.0131230117  P(office|object)=0.0548780488  P(object|office)=0.2391304348  
+general-JJ  multiply=0.012195122  P(general|object)=0.0731707317  P(object|general)=0.1666666667  
+family-NN  multiply=0.012195122  P(family|object)=0.0426829268  P(object|family)=0.2857142857  
+electoral-JJ  multiply=0.0117260788  P(electoral|object)=0.0304878049  P(object|electoral)=0.3846153846  
+seat-NN  multiply=0.0114167099  P(seat|object)=0.0487804878  P(object|seat)=0.2340425532  
+third-JJ  multiply=0.0112323492  P(third|object)=0.0304878049  P(object|third)=0.3684210526  
+conservative-JJ  multiply=0.0101091142  P(conservative|object)=0.0426829268  P(object|conservative)=0.2368421053  
 

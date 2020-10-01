@@ -1,12 +1,15 @@
-id=25  property=dbo:orderInOffice  object=Ontario MPP
+id=25  property=dbo:orderInOffice  object=Ontario MPP  NumberOfEntitiesFoundForObject=133
 legislative-JJ  multiply=0.1028888009  P(legislative|object)=0.977443609  P(object|legislative)=0.1052631579  
 conservative-JJ  multiply=0.1005588111  P(conservative|object)=0.6466165414  P(object|conservative)=0.1555153707  
 assembly-NN  multiply=0.0862645412  P(assembly|object)=0.977443609  P(object|assembly)=0.0882552614  
 member-NN  multiply=0.0558169325  P(member|object)=0.962406015  P(object|member)=0.0579972814  
 cabinet-NN  multiply=0.0365655781  P(cabinet|object)=0.3007518797  P(object|cabinet)=0.1215805471  
 former-JJ  multiply=0.0226742973  P(former|object)=0.3759398496  P(object|former)=0.0603136309  
+government-NN  multiply=0.0156110616  P(government|object)=0.2631578947  P(object|government)=0.0593220339  
+liberal-JJ  multiply=0.0146932216  P(liberal|object)=0.2406015038  P(object|liberal)=0.0610687023  
+minister-NN  multiply=0.014393443  P(minister|object)=0.2706766917  P(object|minister)=0.0531757755  
 
-id=26  property=dbo:orderInOffice  object=Member of the Legislative Assembly of Alberta
+id=26  property=dbo:orderInOffice  object=Member of the Legislative Assembly of Alberta  NumberOfEntitiesFoundForObject=289
 caucus-NN  multiply=0.5434303097  P(caucus|object)=0.7889273356  P(object|caucus)=0.6888217523  
 provincial-JJ  multiply=0.3249472406  P(provincial|object)=0.8788927336  P(object|provincial)=0.3697234352  
 legislative-JJ  multiply=0.2307804379  P(legislative|object)=0.9930795848  P(object|legislative)=0.232388664  
@@ -19,4 +22,7 @@ farmer-NN  multiply=0.0568865654  P(farmer|object)=0.1903114187  P(object|farmer
 time-NN  multiply=0.0327611775  P(time|object)=0.214532872  P(object|time)=0.1527093596  
 conservative-JJ  multiply=0.0315423265  P(conservative|object)=0.2456747405  P(object|conservative)=0.1283905967  
 position-NN  multiply=0.0294152458  P(position|object)=0.2249134948  P(object|position)=0.1307847082  
+cabinet-NN  multiply=0.0185526025  P(cabinet|object)=0.1453287197  P(object|cabinet)=0.1276595745  
+office-NN  multiply=0.0167005553  P(office|object)=0.1833910035  P(object|office)=0.0910652921  
+liberal-JJ  multiply=0.0127842785  P(liberal|object)=0.1522491349  P(object|liberal)=0.0839694656  
 

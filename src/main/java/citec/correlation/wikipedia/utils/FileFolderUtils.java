@@ -44,6 +44,22 @@ public class FileFolderUtils {
 
     private static String folder = "src/main/resources/dbpedia/democratic/input.zip";
 
+    private static String calculationProcess = 
+            "This is the probability distribution of dbo:Politician_dbo:party_probability.json\n"
+            + "\n"
+            + "1. predict whether a certain word appears in abstract given the object of the property.\n"
+            + "property=dbo:party  object=http://dbpedia.org/resource/Labor_Party_UK  word=british\n"
+            + "P(british | http://dbpedia.org/resource/Labor_Party_UK)= P(british & http://dbpedia.org/resource/Labor_Party_UK) / P(http://dbpedia.org/resource/Labor_Party_UK)\n"
+            + "where "
+            + "P(british & http://dbpedia.org/resource/Labor_Party_UK)=the number of entities where the object is (http://dbpedia.org/resource/Labor_Party_UK) and the abstract contains the word british\n"
+            + "P(http://dbpedia.org/resource/Labor_Party_UK): the number of entities where the object is http://dbpedia.org/resource/Labor_Party_UK\n"
+            + "\n"
+            + "2. predict the object of the property given certain word in abstract \n"
+            + "P(http://dbpedia.org/resource/Labor_Party_UK | british)=P(british and http://dbpedia.org/resource/Labor_Party_UK)/P(british)\n"
+            + "P(british): all entities in which the abstract contains the word british"
+            +"\n"
+            +"\n";
+
     public static void main(String a[]) {
 
         FileFolderUtils mfe = new FileFolderUtils();
@@ -230,39 +246,40 @@ public class FileFolderUtils {
         }
     }
 
-    public static void writeToJsonFile(List<EntityResults> entityResults, String entityDir,String tableName) throws IOException {
-        String filename=entityDir +"result/" + tableName.replaceAll(".json", "_probability.json");
+    public static void writeToJsonFile(List<EntityResults> entityResults, String entityDir, String tableName) throws IOException {
+        String filename = entityDir + "result/" + tableName.replaceAll(".json", "_probability.json");
         if (entityResults.isEmpty()) {
             return;
         }
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(filename).toFile(), entityResults);
     }
-    public static void writeToTextFile(List<EntityResults> entityResults, String entityDir,String tableName) throws IOException {
-          String filename=entityDir +"result/" + tableName.replaceAll(".json", "_probability.txt");
+
+    public static void writeToTextFile(List<EntityResults> entityResults, String entityDir, String tableName) throws IOException {
+        String filename = entityDir + "result/" + tableName.replaceAll(".json", "_probability.txt");
         if (entityResults.isEmpty()) {
             return;
         }
 
         String str = "";
+            
         for (EntityResults entities : entityResults) {
-            String entityLine = "id="+entities.getObjectIndex() + "  " + "property="+entities.getProperty() + "  " + "object="+entities.getKB() + "\n";
+            String entityLine = "id=" + entities.getObjectIndex() + "  " + "property=" + entities.getProperty() + "  " + "object=" + entities.getKB() + "  " + "NumberOfEntitiesFoundForObject=" + entities.getNumberOfEntitiesFoundInObject() + "\n";
             String wordSum = "";
             for (WordResult wordResults : entities.getDistributions()) {
-                String multiply="multiply="+wordResults.getMultiple();
-                String probabilty ="";
+                String multiply = "multiply=" + wordResults.getMultiple();
+                String probabilty = "";
                 for (String rule : wordResults.getProbabilities().keySet()) {
                     Double value = wordResults.getProbabilities().get(rule);
-                    String line = rule+ "=" +String.valueOf(value) + "  ";
+                    String line = rule + "=" + String.valueOf(value) + "  ";
                     probabilty += line;
                 }
-                String wordline = wordResults.getWord() + "  " + multiply+ "  "+probabilty + "\n";
+                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "\n";
                 wordSum += wordline;
             }
             entityLine = entityLine + wordSum + "\n";
             str += entityLine;
         }
-        System.out.println(str);
         stringToFiles(str, filename);
 
     }

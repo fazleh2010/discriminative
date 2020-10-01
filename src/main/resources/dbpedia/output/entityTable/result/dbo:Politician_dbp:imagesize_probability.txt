@@ -1,4 +1,4 @@
-id=12  property=dbp:imagesize  object=150
+id=12  property=dbp:imagesize  object=150  NumberOfEntitiesFoundForObject=232
 assembly-NN  multiply=0.3279765777  P(assembly|object)=0.6120689655  P(object|assembly)=0.5358490566  
 member-NN  multiply=0.3227604948  P(member|object)=0.7155172414  P(object|member)=0.4510869565  
 legislative-JJ  multiply=0.2398119122  P(legislative|object)=0.4396551724  P(object|legislative)=0.5454545455  
@@ -55,8 +55,17 @@ business-NN  multiply=0.022229064  P(business|object)=0.0818965517  P(object|bus
 death-NN  multiply=0.020862069  P(death|object)=0.0474137931  P(object|death)=0.44  
 deputy-JJ  multiply=0.0206346295  P(deputy|object)=0.0646551724  P(object|deputy)=0.3191489362  
 native-JJ  multiply=0.0206055509  P(native|object)=0.0603448276  P(object|native)=0.3414634146  
+current-JJ  multiply=0.01994916  P(current|object)=0.0818965517  P(object|current)=0.2435897436  
+merchant-NN  multiply=0.0197044335  P(merchant|object)=0.0344827586  P(object|merchant)=0.5714285714  
+farmer-NN  multiply=0.0196877912  P(farmer|object)=0.0560344828  P(object|farmer)=0.3513513514  
+city-NN  multiply=0.0167315536  P(city|object)=0.0818965517  P(object|city)=0.2043010753  
+lawyer-NN  multiply=0.0162984914  P(lawyer|object)=0.0474137931  P(object|lawyer)=0.34375  
+list-NN  multiply=0.0148662913  P(list|object)=0.0560344828  P(object|list)=0.2653061224  
+father-NN  multiply=0.0145190563  P(father|object)=0.0344827586  P(object|father)=0.4210526316  
+chairman-NN  multiply=0.0137250454  P(chairman|object)=0.0474137931  P(object|chairman)=0.2894736842  
+governor-NN  multiply=0.0112625139  P(governor|object)=0.0387931034  P(object|governor)=0.2903225806  
 
-id=13  property=dbp:imagesize  object=180
+id=13  property=dbp:imagesize  object=180  NumberOfEntitiesFoundForObject=106
 member-NN  multiply=0.1480721903  P(member|object)=0.7169811321  P(object|member)=0.2065217391  
 assembly-NN  multiply=0.1458170167  P(assembly|object)=0.6037735849  P(object|assembly)=0.241509434  
 legislative-JJ  multiply=0.0976692564  P(legislative|object)=0.4150943396  P(object|legislative)=0.2352941176  
@@ -84,4 +93,19 @@ councillor-NN  multiply=0.0223619846  P(councillor|object)=0.0754716981  P(objec
 current-JJ  multiply=0.0204402516  P(current|object)=0.1226415094  P(object|current)=0.1666666667  
 company-NN  multiply=0.0201257862  P(company|object)=0.0754716981  P(object|company)=0.2666666667  
 chairman-NN  multiply=0.0201092354  P(chairman|object)=0.0849056604  P(object|chairman)=0.2368421053  
+council-NN  multiply=0.019296741  P(council|object)=0.141509434  P(object|council)=0.1363636364  
+conservative-JJ  multiply=0.0192610063  P(conservative|object)=0.1320754717  P(object|conservative)=0.1458333333  
+figure-NN  multiply=0.0182961692  P(figure|object)=0.0754716981  P(object|figure)=0.2424242424  
+political-JJ  multiply=0.0178748759  P(political|object)=0.1132075472  P(object|political)=0.1578947368  
+mayor-NN  multiply=0.0171960831  P(mayor|object)=0.1132075472  P(object|mayor)=0.1518987342  
+office-NN  multiply=0.0165669581  P(office|object)=0.1132075472  P(object|office)=0.1463414634  
+several-JJ  multiply=0.0147662018  P(several|object)=0.0566037736  P(object|several)=0.2608695652  
+first-JJ  multiply=0.0146750524  P(first|object)=0.1320754717  P(object|first)=0.1111111111  
+british-JJ  multiply=0.0130624093  P(british|object)=0.0566037736  P(object|british)=0.2307692308  
+second-JJ  multiply=0.0128406709  P(second|object)=0.0660377358  P(object|second)=0.1944444444  
+american-JJ  multiply=0.012274295  P(american|object)=0.1037735849  P(object|american)=0.1182795699  
+time-NN  multiply=0.0121293801  P(time|object)=0.0849056604  P(object|time)=0.1428571429  
+independent-JJ  multiply=0.0121293801  P(independent|object)=0.0566037736  P(object|independent)=0.2142857143  
+minister-NN  multiply=0.0112309075  P(minister|object)=0.0943396226  P(object|minister)=0.119047619  
+governor-NN  multiply=0.0109555691  P(governor|object)=0.0566037736  P(object|governor)=0.1935483871  
 

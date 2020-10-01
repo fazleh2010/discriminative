@@ -1,4 +1,4 @@
-id=33  property=dbp:honorificPrefix  object=http://dbpedia.org/resource/The_Honourable
+id=33  property=dbp:honorificPrefix  object=http://dbpedia.org/resource/The_Honourable  NumberOfEntitiesFoundForObject=283
 legislative-JJ  multiply=0.4838271269  P(legislative|object)=0.628975265  P(object|legislative)=0.7692307692  
 member-NN  multiply=0.4285947268  P(member|object)=0.7632508834  P(object|member)=0.5615384615  
 australian-JJ  multiply=0.4115615198  P(australian|object)=0.5017667845  P(object|australian)=0.8202247191  
@@ -57,4 +57,12 @@ businessman-NN  multiply=0.0222110045  P(businessman|object)=0.038869258  P(obje
 several-JJ  multiply=0.022123214  P(several|object)=0.0424028269  P(object|several)=0.5217391304  
 family-NN  multiply=0.0213780919  P(family|object)=0.0777385159  P(object|family)=0.275  
 candidate-NN  multiply=0.0212014134  P(candidate|object)=0.0530035336  P(object|candidate)=0.4  
+term-NN  multiply=0.019739247  P(term|object)=0.0636042403  P(object|term)=0.3103448276  
+chief-JJ  multiply=0.0189696857  P(chief|object)=0.0600706714  P(object|chief)=0.3157894737  
+lawyer-NN  multiply=0.0152700656  P(lawyer|object)=0.038869258  P(object|lawyer)=0.3928571429  
+prominent-JJ  multiply=0.0150641622  P(prominent|object)=0.0318021201  P(object|prominent)=0.4736842105  
+democratic-JJ  multiply=0.0145381121  P(democratic|object)=0.0424028269  P(object|democratic)=0.3428571429  
+company-NN  multiply=0.0113986094  P(company|object)=0.035335689  P(object|company)=0.3225806452  
+death-NN  multiply=0.0102587484  P(death|object)=0.0318021201  P(object|death)=0.3225806452  
+history-NN  multiply=0.0101849927  P(history|object)=0.0247349823  P(object|history)=0.4117647059  
 

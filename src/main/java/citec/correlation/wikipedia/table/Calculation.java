@@ -81,6 +81,7 @@ public class Calculation implements TextAnalyzer {
             for (String objectOfProperty : entityCategories.keySet()) {
                 List<WordResult> results = new ArrayList<WordResult>();
                 List<DBpediaEntity> dbpediaEntitiesGroup = entityCategories.get(objectOfProperty);
+                Integer numberOfEntitiesFoundInObject=dbpediaEntitiesGroup.size();
                 if(dbpediaEntitiesGroup.size()<objectMinimumENtities)
                      continue;
                 
@@ -105,7 +106,7 @@ public class Calculation implements TextAnalyzer {
                            Double wordCount=(Double)pairWord.getValue1();
                            Double objectCount=(Double)pairObject.getValue1();
                           
-                           if ((wordCount*objectCount)>0.02&&!(wordCount==0&&objectCount==0)) {
+                           if ((wordCount*objectCount)>0.01&&!(wordCount==0&&objectCount==0)) {
                                 result = new WordResult(pairWord, pairObject,word,partsOfSpeech);
                                 results.add(result);   
                            }
@@ -114,7 +115,7 @@ public class Calculation implements TextAnalyzer {
                 }//all words end
                 
                 if (!results.isEmpty()) {
-                    EntityResults kbResult = new EntityResults(property, objectOfProperty, results);
+                    EntityResults kbResult = new EntityResults(property, objectOfProperty,numberOfEntitiesFoundInObject,results);
                     kbResults.add(kbResult);
                 }
                

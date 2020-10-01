@@ -1,4 +1,4 @@
-id=29  property=dbo:residence  object=http://dbpedia.org/resource/Ontario
+id=29  property=dbo:residence  object=http://dbpedia.org/resource/Ontario  NumberOfEntitiesFoundForObject=123
 canadian-JJ  multiply=0.0837225394  P(canadian|object)=0.5365853659  P(object|canadian)=0.1560283688  
 councillor-NN  multiply=0.068535159  P(councillor|object)=0.2520325203  P(object|councillor)=0.2719298246  
 municipal-JJ  multiply=0.0590439947  P(municipal|object)=0.2601626016  P(object|municipal)=0.2269503546  
@@ -13,4 +13,13 @@ member-NN  multiply=0.0350011053  P(member|object)=0.6097560976  P(object|member
 mayor-NN  multiply=0.0263746002  P(mayor|object)=0.3008130081  P(object|mayor)=0.0876777251  
 federal-JJ  multiply=0.0236511456  P(federal|object)=0.1300813008  P(object|federal)=0.1818181818  
 electoral-JJ  multiply=0.0217401069  P(electoral|object)=0.1788617886  P(object|electoral)=0.1215469613  
+cabinet-NN  multiply=0.0198056116  P(cabinet|object)=0.1463414634  P(object|cabinet)=0.1353383459  
+party-NN  multiply=0.0186703097  P(party|object)=0.3333333333  P(object|party)=0.056010929  
+part-NN  multiply=0.0171271354  P(part|object)=0.3577235772  P(object|part)=0.0478781284  
+first-JJ  multiply=0.0164831395  P(first|object)=0.2520325203  P(object|first)=0.0654008439  
+minister-NN  multiply=0.0146286157  P(minister|object)=0.1869918699  P(object|minister)=0.0782312925  
+government-NN  multiply=0.0127530687  P(government|object)=0.162601626  P(object|government)=0.0784313725  
+provincial-JJ  multiply=0.0126385809  P(provincial|object)=0.1463414634  P(object|provincial)=0.0863636364  
+son-NN  multiply=0.0124228747  P(son|object)=0.243902439  P(object|son)=0.0509337861  
+candidate-NN  multiply=0.0113053491  P(candidate|object)=0.1463414634  P(object|candidate)=0.0772532189  
 

@@ -1,4 +1,4 @@
-id=23  property=dbo:religion  object=http://dbpedia.org/resource/Islam
+id=23  property=dbo:religion  object=http://dbpedia.org/resource/Islam  NumberOfEntitiesFoundForObject=143
 somali-JJ  multiply=0.4344919786  P(somali|object)=0.4545454545  P(object|somali)=0.9558823529  
 minister-NN  multiply=0.1548648202  P(minister|object)=0.5244755245  P(object|minister)=0.2952755906  
 pakistani-JJ  multiply=0.1388955872  P(pakistani|object)=0.1678321678  P(object|pakistani)=0.8275862069  
@@ -13,8 +13,28 @@ education-NN  multiply=0.0217560218  P(education|object)=0.0979020979  P(object|
 government-NN  multiply=0.0212683868  P(government|object)=0.1468531469  P(object|government)=0.1448275862  
 party-NN  multiply=0.0209995283  P(party|object)=0.2237762238  P(object|party)=0.0938416422  
 family-NN  multiply=0.0208163929  P(family|object)=0.1118881119  P(object|family)=0.1860465116  
+assembly-NN  multiply=0.0196678322  P(assembly|object)=0.2097902098  P(object|assembly)=0.09375  
+person-NN  multiply=0.0195804196  P(person|object)=0.0979020979  P(object|person)=0.2  
+leader-NN  multiply=0.018981019  P(leader|object)=0.1328671329  P(object|leader)=0.1428571429  
+profession-NN  multiply=0.017701049  P(profession|object)=0.0629370629  P(object|profession)=0.28125  
+former-JJ  multiply=0.0160476973  P(former|object)=0.1678321678  P(object|former)=0.0956175299  
+activist-JJ  multiply=0.015984016  P(activist|object)=0.0559440559  P(object|activist)=0.2857142857  
+chairman-NN  multiply=0.0154257507  P(chairman|object)=0.1048951049  P(object|chairman)=0.1470588235  
+current-JJ  multiply=0.0129549937  P(current|object)=0.1188811189  P(object|current)=0.108974359  
+chief-JJ  multiply=0.0124401914  P(chief|object)=0.0909090909  P(object|chief)=0.1368421053  
+malay-JJ  multiply=0.0120569086  P(malay|object)=0.0699300699  P(object|malay)=0.1724137931  
+law-NN  multiply=0.011855694  P(law|object)=0.1118881119  P(object|law)=0.1059602649  
+general-JJ  multiply=0.011614822  P(general|object)=0.1188811189  P(object|general)=0.0977011494  
+deputy-JJ  multiply=0.0115864528  P(deputy|object)=0.0909090909  P(object|deputy)=0.1274509804  
+political-JJ  multiply=0.0115178939  P(political|object)=0.0979020979  P(object|political)=0.1176470588  
+state-NN  multiply=0.0115018801  P(state|object)=0.1818181818  P(object|state)=0.0632603406  
+central-JJ  multiply=0.0109159134  P(central|object)=0.0559440559  P(object|central)=0.1951219512  
+constituency-NN  multiply=0.0108512177  P(constituency|object)=0.1048951049  P(object|constituency)=0.1034482759  
+son-NN  multiply=0.0103835558  P(son|object)=0.1468531469  P(object|son)=0.0707070707  
+cabinet-NN  multiply=0.0101347927  P(cabinet|object)=0.0699300699  P(object|cabinet)=0.1449275362  
+first-JJ  multiply=0.010054622  P(first|object)=0.1188811189  P(object|first)=0.0845771144  
 
-id=24  property=dbo:religion  object=http://dbpedia.org/resource/Roman_Catholic
+id=24  property=dbo:religion  object=http://dbpedia.org/resource/Roman_Catholic  NumberOfEntitiesFoundForObject=111
 member-NN  multiply=0.0639902575  P(member|object)=0.6126126126  P(object|member)=0.1044546851  
 part-NN  multiply=0.0473898556  P(part|object)=0.4324324324  P(object|part)=0.1095890411  
 district-NN  multiply=0.0433929632  P(district|object)=0.3693693694  P(object|district)=0.11747851  
@@ -38,4 +58,22 @@ legislative-JJ  multiply=0.0217120887  P(legislative|object)=0.2162162162  P(obj
 republic-NN  multiply=0.0215922444  P(republic|object)=0.1891891892  P(object|republic)=0.1141304348  
 democratic-JJ  multiply=0.0214755296  P(democratic|object)=0.1891891892  P(object|democratic)=0.1135135135  
 electoral-JJ  multiply=0.0214626391  P(electoral|object)=0.0810810811  P(object|electoral)=0.2647058824  
+attorney-NN  multiply=0.0190779014  P(attorney|object)=0.1081081081  P(object|attorney)=0.1764705882  
+office-NN  multiply=0.0187309612  P(office|object)=0.1531531532  P(object|office)=0.1223021583  
+federal-JJ  multiply=0.0183857327  P(federal|object)=0.0900900901  P(object|federal)=0.2040816327  
+term-NN  multiply=0.017626322  P(term|object)=0.1351351351  P(object|term)=0.1304347826  
+leader-NN  multiply=0.0173406489  P(leader|object)=0.1441441441  P(object|leader)=0.1203007519  
+director-NN  multiply=0.0173030173  P(director|object)=0.0990990991  P(object|director)=0.1746031746  
+business-NN  multiply=0.0169169169  P(business|object)=0.1171171171  P(object|business)=0.1444444444  
+american-JJ  multiply=0.0144999014  P(american|object)=0.1891891892  P(object|american)=0.0766423358  
+current-JJ  multiply=0.012993763  P(current|object)=0.1351351351  P(object|current)=0.0961538462  
+time-NN  multiply=0.0128445277  P(time|object)=0.1081081081  P(object|time)=0.1188118812  
+second-JJ  multiply=0.0123683005  P(second|object)=0.0810810811  P(object|second)=0.1525423729  
+position-NN  multiply=0.0111133031  P(position|object)=0.1171171171  P(object|position)=0.0948905109  
+chairman-NN  multiply=0.0106871577  P(chairman|object)=0.0990990991  P(object|chairman)=0.1078431373  
+parliament-NN  multiply=0.0106127069  P(parliament|object)=0.1351351351  P(object|parliament)=0.0785340314  
+school-NN  multiply=0.0103551828  P(school|object)=0.0900900901  P(object|school)=0.1149425287  
+minister-NN  multiply=0.0102504079  P(minister|object)=0.1531531532  P(object|minister)=0.0669291339  
+general-JJ  multiply=0.0101480791  P(general|object)=0.1261261261  P(object|general)=0.0804597701  
+law-NN  multiply=0.0100829306  P(law|object)=0.1171171171  P(object|law)=0.0860927152  
 

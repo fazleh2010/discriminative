@@ -32,12 +32,15 @@ public class EntityResults {
     //private List<String> words;
     @JsonProperty("detail")
     private List<WordResult> distributions = new ArrayList<WordResult>();
+    @JsonProperty("numberOfEntitiesFoundInObject")
+    private Integer numberOfEntitiesFoundInObject;
 
-    public EntityResults(String property, String object, List<WordResult> distributions) {
+    public EntityResults(String property, String object, Integer numberOfEntitiesFoundInObject, List<WordResult> distributions) {
         this.property = property;
         this.KB = object;
+        this.numberOfEntitiesFoundInObject = numberOfEntitiesFoundInObject;
         this.distributions = distributions;
-        Collections.sort(this.distributions, new WordResult()); 
+        Collections.sort(this.distributions, new WordResult());
         Collections.reverse(this.distributions);
         index = index + 1;
         this.objectIndex = index.toString();
@@ -68,9 +71,12 @@ public class EntityResults {
         return KB;
     }
 
-   
     public List<WordResult> getDistributions() {
         return distributions;
+    }
+
+    public Integer getNumberOfEntitiesFoundInObject() {
+        return numberOfEntitiesFoundInObject;
     }
 
     @Override

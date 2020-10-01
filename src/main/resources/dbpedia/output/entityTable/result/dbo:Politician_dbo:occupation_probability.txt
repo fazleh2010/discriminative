@@ -1,4 +1,4 @@
-id=28  property=dbo:occupation  object=http://dbpedia.org/resource/Politician
+id=28  property=dbo:occupation  object=http://dbpedia.org/resource/Politician  NumberOfEntitiesFoundForObject=117
 member-NN  multiply=0.0844854071  P(member|object)=0.5555555556  P(object|member)=0.1520737327  
 party-NN  multiply=0.0716226065  P(party|object)=0.3931623932  P(object|party)=0.1821705426  
 part-NN  multiply=0.0678967969  P(part|object)=0.4273504274  P(object|part)=0.1588785047  
@@ -29,4 +29,23 @@ family-NN  multiply=0.021978022  P(family|object)=0.1025641026  P(object|family)
 democratic-JJ  multiply=0.0216076059  P(democratic|object)=0.1282051282  P(object|democratic)=0.1685393258  
 third-JJ  multiply=0.0209401709  P(third|object)=0.0598290598  P(object|third)=0.35  
 council-NN  multiply=0.0201664711  P(council|object)=0.1623931624  P(object|council)=0.1241830065  
+name-NN  multiply=0.0178308282  P(name|object)=0.094017094  P(object|name)=0.1896551724  
+house-NN  multiply=0.0172001911  P(house|object)=0.1538461538  P(object|house)=0.1118012422  
+government-NN  multiply=0.0162297129  P(government|object)=0.1111111111  P(object|government)=0.1460674157  
+several-JJ  multiply=0.0160884867  P(several|object)=0.0683760684  P(object|several)=0.2352941176  
+city-NN  multiply=0.0153846154  P(city|object)=0.1282051282  P(object|city)=0.12  
+movement-NN  multiply=0.0143589744  P(movement|object)=0.0512820513  P(object|movement)=0.28  
+british-JJ  multiply=0.0141287284  P(british|object)=0.0769230769  P(object|british)=0.1836734694  
+activist-JJ  multiply=0.0135097877  P(activist|object)=0.0598290598  P(object|activist)=0.2258064516  
+assembly-NN  multiply=0.0134136326  P(assembly|object)=0.1794871795  P(object|assembly)=0.0747330961  
+public-JJ  multiply=0.0132625995  P(public|object)=0.1282051282  P(object|public)=0.1034482759  
+position-NN  multiply=0.012066365  P(position|object)=0.1025641026  P(object|position)=0.1176470588  
+post-NN  multiply=0.011965812  P(post|object)=0.0598290598  P(object|post)=0.2  
+secretary-NN  multiply=0.0118872188  P(secretary|object)=0.094017094  P(object|secretary)=0.1264367816  
+district-NN  multiply=0.0111806798  P(district|object)=0.1282051282  P(object|district)=0.0872093023  
+time-NN  multiply=0.010989011  P(time|object)=0.0769230769  P(object|time)=0.1428571429  
+lawyer-NN  multiply=0.0109401709  P(lawyer|object)=0.0683760684  P(object|lawyer)=0.16  
+board-NN  multiply=0.0108173077  P(board|object)=0.0769230769  P(object|board)=0.140625  
+candidate-NN  multiply=0.0104231812  P(candidate|object)=0.0854700855  P(object|candidate)=0.1219512195  
+cabinet-NN  multiply=0.0102147175  P(cabinet|object)=0.0598290598  P(object|cabinet)=0.1707317073  
 

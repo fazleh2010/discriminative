@@ -1,4 +1,4 @@
-id=30  property=dbp:successor  object=riding dissolved
+id=30  property=dbp:successor  object=riding dissolved  NumberOfEntitiesFoundForObject=110
 canadian-JJ  multiply=0.2697674419  P(canadian|object)=0.7909090909  P(object|canadian)=0.3410852713  
 electoral-JJ  multiply=0.178729038  P(electoral|object)=0.4090909091  P(object|electoral)=0.4368932039  
 assembly-NN  multiply=0.1784215784  P(assembly|object)=0.8545454545  P(object|assembly)=0.2087912088  
@@ -39,4 +39,19 @@ term-NN  multiply=0.0262987013  P(term|object)=0.1636363636  P(object|term)=0.16
 general-JJ  multiply=0.0247272727  P(general|object)=0.1454545455  P(object|general)=0.17  
 career-NN  multiply=0.0244444444  P(career|object)=0.1  P(object|career)=0.2444444444  
 candidate-NN  multiply=0.0240641711  P(candidate|object)=0.1363636364  P(object|candidate)=0.1764705882  
+executive-JJ  multiply=0.0172248804  P(executive|object)=0.1090909091  P(object|executive)=0.1578947368  
+figure-NN  multiply=0.0171122995  P(figure|object)=0.0727272727  P(object|figure)=0.2352941176  
+education-NN  multiply=0.015942029  P(education|object)=0.1  P(object|education)=0.1594202899  
+council-NN  multiply=0.0158462091  P(council|object)=0.1909090909  P(object|council)=0.0830039526  
+service-NN  multiply=0.0153636364  P(service|object)=0.1181818182  P(object|service)=0.13  
+federal-JJ  multiply=0.0152777778  P(federal|object)=0.1  P(object|federal)=0.1527777778  
+opposition-NN  multiply=0.0138936535  P(opposition|object)=0.0818181818  P(object|opposition)=0.1698113208  
+chair-NN  multiply=0.013812544  P(chair|object)=0.1272727273  P(object|chair)=0.1085271318  
+resignation-NN  multiply=0.0136363636  P(resignation|object)=0.0545454545  P(object|resignation)=0.25  
+director-NN  multiply=0.0136363636  P(director|object)=0.0818181818  P(object|director)=0.1666666667  
+seat-NN  multiply=0.0133580705  P(seat|object)=0.1090909091  P(object|seat)=0.1224489796  
+public-JJ  multiply=0.0131964809  P(public|object)=0.1363636364  P(object|public)=0.0967741935  
+ward-NN  multiply=0.0128188358  P(ward|object)=0.1272727273  P(object|ward)=0.1007194245  
+name-NN  multiply=0.010990502  P(name|object)=0.0818181818  P(object|name)=0.1343283582  
+retirement-NN  multiply=0.0105571848  P(retirement|object)=0.0545454545  P(object|retirement)=0.1935483871  
 
