@@ -1,0 +1,23 @@
+id=23  property=dbp:predecessor  object=first member  NumberOfEntitiesFoundForObject=56
+canadian-JJ  multiply=0.0548420981  P(canadian|object)=0.6964285714  P(object|canadian)=0.0787476281  
+electoral-JJ  multiply=0.049775882  P(electoral|object)=0.4821428571  P(object|electoral)=0.1032388664  
+legislative-JJ  multiply=0.0474911254  P(legislative|object)=0.8035714286  P(object|legislative)=0.0591000672  
+assembly-NN  multiply=0.0424273543  P(assembly|object)=0.8214285714  P(object|assembly)=0.0516506922  
+election-NN  multiply=0.0355192779  P(election|object)=0.6071428571  P(object|election)=0.0585023401  
+district-NN  multiply=0.0318299525  P(district|object)=0.5357142857  P(object|district)=0.0594159114  
+mla-NN  multiply=0.0263723545  P(mla|object)=0.1964285714  P(object|mla)=0.1342592593  
+provincial-JJ  multiply=0.0227816642  P(provincial|object)=0.3928571429  P(object|provincial)=0.0579896907  
+member-NN  multiply=0.0223820611  P(member|object)=0.6785714286  P(object|member)=0.03298409  
+party-NN  multiply=0.0202143405  P(party|object)=0.4464285714  P(object|party)=0.0452801228  
+part-NN  multiply=0.0180276439  P(part|object)=0.4642857143  P(object|part)=0.0388287715  
+ndp-NN  multiply=0.0169731259  P(ndp|object)=0.1071428571  P(object|ndp)=0.1584158416  
+former-JJ  multiply=0.0162820331  P(former|object)=0.3571428571  P(object|former)=0.0455896928  
+minister-NN  multiply=0.0158730159  P(minister|object)=0.2857142857  P(object|minister)=0.0555555556  
+new-JJ  multiply=0.0150850954  P(new|object)=0.3214285714  P(object|new)=0.0469314079  
+legislature-NN  multiply=0.0150261324  P(legislature|object)=0.1607142857  P(object|legislature)=0.093495935  
+cabinet-NN  multiply=0.0149381868  P(cabinet|object)=0.2142857143  P(object|cabinet)=0.0697115385  
+british-JJ  multiply=0.0128205128  P(british|object)=0.1428571429  P(object|british)=0.0897435897  
+first-JJ  multiply=0.0125330328  P(first|object)=0.2678571429  P(object|first)=0.0467899891  
+democratic-JJ  multiply=0.0118608329  P(democratic|object)=0.2142857143  P(object|democratic)=0.0553505535  
+conservative-JJ  multiply=0.0104768786  P(conservative|object)=0.25  P(object|conservative)=0.0419075145  
+

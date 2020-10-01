@@ -1,0 +1,10 @@
+id=64  property=dbp:term  object=4  NumberOfEntitiesFoundForObject=57
+19th-century-JJ  multiply=0.2372001432  P(19th-century|object)=0.8771929825  P(object|19th-century)=0.2704081633  
+parliament-NN  multiply=0.1660401003  P(parliament|object)=0.9298245614  P(object|parliament)=0.1785714286  
+electorate-NN  multiply=0.1543062201  P(electorate|object)=0.7543859649  P(object|electorate)=0.2045454545  
+region-NN  multiply=0.0456140351  P(region|object)=0.2105263158  P(object|region)=0.2166666667  
+son-NN  multiply=0.0256114739  P(son|object)=0.350877193  P(object|son)=0.0729927007  
+council-NN  multiply=0.0188275567  P(council|object)=0.1929824561  P(object|council)=0.0975609756  
+by-election-NN  multiply=0.0150815636  P(by-election|object)=0.1228070175  P(object|by-election)=0.1228070175  
+wife-NN  multiply=0.014619883  P(wife|object)=0.0877192982  P(object|wife)=0.1666666667  
+

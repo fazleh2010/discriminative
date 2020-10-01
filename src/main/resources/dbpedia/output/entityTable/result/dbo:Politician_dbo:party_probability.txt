@@ -1,4 +1,22 @@
-id=1  property=dbo:party  object=http://dbpedia.org/resource/Australian_Labor_Party  NumberOfEntitiesFoundForObject=625
+id=1  property=dbo:party  object=http://dbpedia.org/resource/Liberal_Party_of_Australia  NumberOfEntitiesFoundForObject=90
+australian-JJ  multiply=0.0952806122  P(australian|object)=0.9  P(object|australian)=0.1058673469  
+liberal-JJ  multiply=0.0645348341  P(liberal|object)=0.9555555556  P(object|liberal)=0.0675364543  
+new-JJ  multiply=0.0321537291  P(new|object)=0.7222222222  P(object|new)=0.0445205479  
+party-NN  multiply=0.0209659304  P(party|object)=0.7777777778  P(object|party)=0.0269561962  
+part-NN  multiply=0.0201835877  P(part|object)=0.8111111111  P(object|part)=0.0248838752  
+legislative-JJ  multiply=0.0174005061  P(legislative|object)=0.6777777778  P(object|legislative)=0.0256728778  
+member-NN  multiply=0.0144174251  P(member|object)=0.8555555556  P(object|member)=0.0168515358  
+minister-NN  multiply=0.0144049188  P(minister|object)=0.4444444444  P(object|minister)=0.0324110672  
+
+id=2  property=dbo:party  object=http://dbpedia.org/resource/United_States_Democratic_Party  NumberOfEntitiesFoundForObject=51
+american-JJ  multiply=0.0154080732  P(american|object)=0.4705882353  P(object|american)=0.0327421555  
+state-NN  multiply=0.0149122807  P(state|object)=0.6666666667  P(object|state)=0.0223684211  
+democratic-JJ  multiply=0.0144685974  P(democratic|object)=0.4901960784  P(object|democratic)=0.0295159386  
+term-NN  multiply=0.0111725602  P(term|object)=0.3921568627  P(object|term)=0.0284900285  
+mayor-NN  multiply=0.0110311354  P(mayor|object)=0.3921568627  P(object|mayor)=0.0281293952  
+city-NN  multiply=0.0108223515  P(city|object)=0.4117647059  P(object|city)=0.0262828536  
+
+id=3  property=dbo:party  object=http://dbpedia.org/resource/Australian_Labor_Party  NumberOfEntitiesFoundForObject=625
 labor-NN  multiply=0.6973514563  P(labor|object)=0.8256  P(object|labor)=0.8446601942  
 australian-JJ  multiply=0.6128469388  P(australian|object)=0.872  P(object|australian)=0.7028061224  
 legislative-JJ  multiply=0.1036322981  P(legislative|object)=0.632  P(object|legislative)=0.1639751553  
@@ -31,7 +49,18 @@ government-NN  multiply=0.0126413361  P(government|object)=0.1392  P(object|gove
 opposition-NN  multiply=0.012358042  P(opposition|object)=0.0752  P(object|opposition)=0.1643356643  
 year-NN  multiply=0.0120859649  P(year|object)=0.1328  P(object|year)=0.0910087719  
 
-id=2  property=dbo:party  object=http://dbpedia.org/resource/Liberal_Party_(UK)  NumberOfEntitiesFoundForObject=388
+id=4  property=dbo:party  object=http://dbpedia.org/resource/Consensus_government  NumberOfEntitiesFoundForObject=52
+electoral-JJ  multiply=0.0577283879  P(electoral|object)=0.7692307692  P(object|electoral)=0.0750469043  
+mla-NN  multiply=0.0326060158  P(mla|object)=0.4423076923  P(object|mla)=0.0737179487  
+level-NN  multiply=0.0317000351  P(level|object)=0.3653846154  P(object|level)=0.0867579909  
+district-NN  multiply=0.0226193971  P(district|object)=0.8269230769  P(object|district)=0.0273536896  
+legislature-NN  multiply=0.0179020979  P(legislature|object)=0.3076923077  P(object|legislature)=0.0581818182  
+canadian-JJ  multiply=0.0172044655  P(canadian|object)=0.5769230769  P(object|canadian)=0.0298210736  
+legislative-JJ  multiply=0.0147236821  P(legislative|object)=0.8269230769  P(object|legislative)=0.017805383  
+election-NN  multiply=0.0144074928  P(election|object)=0.8269230769  P(object|election)=0.0174230146  
+assembly-NN  multiply=0.0122149407  P(assembly|object)=0.8269230769  P(object|assembly)=0.0147715562  
+
+id=5  property=dbo:party  object=http://dbpedia.org/resource/Liberal_Party_(UK)  NumberOfEntitiesFoundForObject=388
 liberal-JJ  multiply=0.2549251925  P(liberal|object)=0.925257732  P(object|liberal)=0.2755180353  
 english-JJ  multiply=0.2302531837  P(english|object)=0.3479381443  P(object|english)=0.6617647059  
 parliament-NN  multiply=0.1759093838  P(parliament|object)=0.7989690722  P(object|parliament)=0.2201704545  
@@ -59,7 +88,26 @@ business-NN  multiply=0.0115080316  P(business|object)=0.1237113402  P(object|bu
 conservative-JJ  multiply=0.0109056829  P(conservative|object)=0.1649484536  P(object|conservative)=0.0661157025  
 name-NN  multiply=0.010182086  P(name|object)=0.1005154639  P(object|name)=0.1012987013  
 
-id=3  property=dbo:party  object=http://dbpedia.org/resource/Republican_Party_(United_States)  NumberOfEntitiesFoundForObject=489
+id=6  property=dbo:party  object=http://dbpedia.org/resource/Ontario_Progressive_Conservative_Party  NumberOfEntitiesFoundForObject=50
+conservative-JJ  multiply=0.0495867769  P(conservative|object)=0.96  P(object|conservative)=0.0516528926  
+legislative-JJ  multiply=0.017126294  P(legislative|object)=0.88  P(object|legislative)=0.0194616977  
+assembly-NN  multiply=0.0142081759  P(assembly|object)=0.88  P(object|assembly)=0.0161456544  
+
+id=7  property=dbo:party  object=http://dbpedia.org/resource/Social_Credit_Party_of_Alberta  NumberOfEntitiesFoundForObject=99
+caucus-NN  multiply=0.1995264364  P(caucus|object)=0.898989899  P(object|caucus)=0.2219451372  
+provincial-JJ  multiply=0.0993124523  P(provincial|object)=0.9090909091  P(object|provincial)=0.1092436975  
+government-NN  multiply=0.0425128108  P(government|object)=0.6363636364  P(object|government)=0.0668058455  
+legislative-JJ  multiply=0.0414078675  P(legislative|object)=1.0  P(object|legislative)=0.0414078675  
+assembly-NN  multiply=0.0343524562  P(assembly|object)=1.0  P(object|assembly)=0.0343524562  
+level-NN  multiply=0.0288270836  P(level|object)=0.2525252525  P(object|level)=0.1141552511  
+member-NN  multiply=0.0209044369  P(member|object)=0.9898989899  P(object|member)=0.0211177474  
+
+id=8  property=dbo:party  object=http://dbpedia.org/resource/Independent_politician  NumberOfEntitiesFoundForObject=62
+position-NN  multiply=0.0246509389  P(position|object)=0.5161290323  P(object|position)=0.047761194  
+minister-NN  multiply=0.0219558842  P(minister|object)=0.6612903226  P(object|minister)=0.033201581  
+independent-JJ  multiply=0.0203503024  P(independent|object)=0.2741935484  P(object|independent)=0.07421875  
+
+id=9  property=dbo:party  object=http://dbpedia.org/resource/Republican_Party_(United_States)  NumberOfEntitiesFoundForObject=489
 republican-JJ  multiply=0.4590855451  P(republican|object)=0.7096114519  P(object|republican)=0.646953405  
 public-JJ  multiply=0.277983543  P(public|object)=0.7280163599  P(object|public)=0.3818369453  
 state-NN  multiply=0.1091930363  P(state|object)=0.5664621677  P(object|state)=0.1927631579  
@@ -89,7 +137,19 @@ former-JJ  multiply=0.0105176605  P(former|object)=0.1738241309  P(object|former
 general-JJ  multiply=0.0104183701  P(general|object)=0.1533742331  P(object|general)=0.067927773  
 election-NN  multiply=0.0102962086  P(election|object)=0.2229038855  P(object|election)=0.046191248  
 
-id=4  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta  NumberOfEntitiesFoundForObject=156
+id=10  property=dbo:party  object=http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party  NumberOfEntitiesFoundForObject=56
+provincial-JJ  multiply=0.0342994341  P(provincial|object)=0.7142857143  P(object|provincial)=0.0480192077  
+canadian-JJ  multiply=0.0328209316  P(canadian|object)=0.7678571429  P(object|canadian)=0.0427435388  
+democratic-JJ  multiply=0.032066959  P(democratic|object)=0.6964285714  P(object|democratic)=0.0460448642  
+new-JJ  multiply=0.018603229  P(new|object)=0.6964285714  P(object|new)=0.0267123288  
+legislative-JJ  multiply=0.0184856551  P(legislative|object)=0.8928571429  P(object|legislative)=0.0207039337  
+figure-NN  multiply=0.0154051173  P(figure|object)=0.3035714286  P(object|figure)=0.0507462687  
+assembly-NN  multiply=0.0153359179  P(assembly|object)=0.8928571429  P(object|assembly)=0.0171762281  
+part-NN  multiply=0.0104512276  P(part|object)=0.75  P(object|part)=0.0139349701  
+director-NN  multiply=0.0104424123  P(director|object)=0.2321428571  P(object|director)=0.044982699  
+party-NN  multiply=0.0101687436  P(party|object)=0.6964285714  P(object|party)=0.0146012729  
+
+id=11  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta  NumberOfEntitiesFoundForObject=156
 level-NN  multiply=0.1968153612  P(level|object)=0.5256410256  P(object|level)=0.3744292237  
 provincial-JJ  multiply=0.0965232247  P(provincial|object)=0.7115384615  P(object|provincial)=0.1356542617  
 conservative-JJ  multiply=0.0852934944  P(conservative|object)=0.7179487179  P(object|conservative)=0.1188016529  
@@ -103,7 +163,12 @@ former-JJ  multiply=0.0140299952  P(former|object)=0.3717948718  P(object|former
 cabinet-NN  multiply=0.0134577152  P(cabinet|object)=0.2051282051  P(object|cabinet)=0.0656063618  
 office-NN  multiply=0.0102246928  P(office|object)=0.2243589744  P(object|office)=0.0455729167  
 
-id=5  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario  NumberOfEntitiesFoundForObject=187
+id=12  property=dbo:party  object=http://dbpedia.org/resource/Liberal_Party_of_Canada  NumberOfEntitiesFoundForObject=59
+canadian-JJ  multiply=0.0455571655  P(canadian|object)=0.8813559322  P(object|canadian)=0.0516898608  
+liberal-JJ  multiply=0.0325194792  P(liberal|object)=0.8474576271  P(object|liberal)=0.0383729854  
+federal-JJ  multiply=0.0248587571  P(federal|object)=0.3728813559  P(object|federal)=0.0666666667  
+
+id=13  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario  NumberOfEntitiesFoundForObject=187
 conservative-JJ  multiply=0.181983913  P(conservative|object)=0.9679144385  P(object|conservative)=0.1880165289  
 legislative-JJ  multiply=0.0737502906  P(legislative|object)=0.9732620321  P(object|legislative)=0.0757763975  
 figure-NN  multiply=0.071657754  P(figure|object)=0.3582887701  P(object|figure)=0.2  
@@ -116,7 +181,37 @@ canadian-JJ  multiply=0.0140972348  P(canadian|object)=0.2727272727  P(object|ca
 merchant-NN  multiply=0.01114082  P(merchant|object)=0.0802139037  P(object|merchant)=0.1388888889  
 farmer-NN  multiply=0.0102534294  P(farmer|object)=0.1122994652  P(object|farmer)=0.0913043478  
 
-id=6  property=dbo:party  object=http://dbpedia.org/resource/Ontario_Liberal_Party  NumberOfEntitiesFoundForObject=117
+id=14  property=dbo:party  object=http://dbpedia.org/resource/British_Columbia_Liberal_Party  NumberOfEntitiesFoundForObject=81
+british-JJ  multiply=0.1050164088  P(british|object)=0.987654321  P(object|british)=0.1063291139  
+canadian-JJ  multiply=0.0550401296  P(canadian|object)=0.8024691358  P(object|canadian)=0.0685884692  
+liberal-JJ  multiply=0.0504533697  P(liberal|object)=0.8765432099  P(object|liberal)=0.0575594781  
+legislative-JJ  multiply=0.0326968791  P(legislative|object)=0.962962963  P(object|legislative)=0.0339544513  
+provincial-JJ  multiply=0.0313014095  P(provincial|object)=0.5432098765  P(object|provincial)=0.0576230492  
+assembly-NN  multiply=0.0264513913  P(assembly|object)=0.950617284  P(object|assembly)=0.0278254895  
+election-NN  multiply=0.0156672069  P(election|object)=0.6666666667  P(object|election)=0.0235008104  
+minister-NN  multiply=0.0148343337  P(minister|object)=0.4691358025  P(object|minister)=0.0316205534  
+province-NN  multiply=0.0140901771  P(province|object)=0.1728395062  P(object|province)=0.0815217391  
+member-NN  multiply=0.012527388  P(member|object)=0.8271604938  P(object|member)=0.0151450512  
+former-JJ  multiply=0.0115906407  P(former|object)=0.4567901235  P(object|former)=0.0253741054  
+electoral-JJ  multiply=0.0107011327  P(electoral|object)=0.2592592593  P(object|electoral)=0.0412757974  
+
+id=15  property=dbo:party  object=http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia  NumberOfEntitiesFoundForObject=82
+electoral-JJ  multiply=0.085114172  P(electoral|object)=0.7317073171  P(object|electoral)=0.1163227017  
+conservative-JJ  multiply=0.0727549889  P(conservative|object)=0.9146341463  P(object|conservative)=0.0795454545  
+canadian-JJ  multiply=0.056041798  P(canadian|object)=0.8170731707  P(object|canadian)=0.0685884692  
+provincial-JJ  multiply=0.0303048048  P(provincial|object)=0.5487804878  P(object|provincial)=0.0552220888  
+district-NN  multiply=0.029812884  P(district|object)=0.743902439  P(object|district)=0.0400763359  
+assembly-NN  multiply=0.02850416  P(assembly|object)=0.987804878  P(object|assembly)=0.0288560632  
+re-election-NN  multiply=0.0248819827  P(re-election|object)=0.2682926829  P(object|re-election)=0.0927419355  
+council-NN  multiply=0.0170870627  P(council|object)=0.5  P(object|council)=0.0341741253  
+municipal-JJ  multiply=0.0148542087  P(municipal|object)=0.2195121951  P(object|municipal)=0.0676691729  
+member-NN  multiply=0.0131107966  P(member|object)=0.8536585366  P(object|member)=0.0153583618  
+mla-NN  multiply=0.0126250782  P(mla|object)=0.2073170732  P(object|mla)=0.0608974359  
+incumbent-JJ  multiply=0.0119158443  P(incumbent|object)=0.1951219512  P(object|incumbent)=0.0610687023  
+minister-NN  multiply=0.0108165429  P(minister|object)=0.4024390244  P(object|minister)=0.0268774704  
+election-NN  multiply=0.010450844  P(election|object)=0.5487804878  P(object|election)=0.0190437601  
+
+id=16  property=dbo:party  object=http://dbpedia.org/resource/Ontario_Liberal_Party  NumberOfEntitiesFoundForObject=117
 liberal-JJ  multiply=0.0867426255  P(liberal|object)=0.9743589744  P(object|liberal)=0.0890253262  
 legislative-JJ  multiply=0.048026048  P(legislative|object)=0.9829059829  P(object|legislative)=0.0488612836  
 assembly-NN  multiply=0.039842977  P(assembly|object)=0.9829059829  P(object|assembly)=0.0405358983  
@@ -124,7 +219,49 @@ member-NN  multiply=0.0224614218  P(member|object)=0.9401709402  P(object|member
 figure-NN  multiply=0.0172470978  P(figure|object)=0.2222222222  P(object|figure)=0.0776119403  
 cabinet-NN  multiply=0.0133217787  P(cabinet|object)=0.2393162393  P(object|cabinet)=0.055666004  
 
-id=7  property=dbo:party  object=http://dbpedia.org/resource/Labor_Party_(UK)  NumberOfEntitiesFoundForObject=304
+id=17  property=dbo:party  object=http://dbpedia.org/resource/Nova_Scotia_Liberal_Party  NumberOfEntitiesFoundForObject=79
+electoral-JJ  multiply=0.064217351  P(electoral|object)=0.6582278481  P(object|electoral)=0.0975609756  
+liberal-JJ  multiply=0.0561119908  P(liberal|object)=0.9620253165  P(object|liberal)=0.0583269378  
+canadian-JJ  multiply=0.0408812945  P(canadian|object)=0.7215189873  P(object|canadian)=0.0566600398  
+assembly-NN  multiply=0.0264557397  P(assembly|object)=0.9873417722  P(object|assembly)=0.0267949158  
+district-NN  multiply=0.0217734403  P(district|object)=0.6582278481  P(object|district)=0.0330788804  
+provincial-JJ  multiply=0.0175665203  P(provincial|object)=0.4303797468  P(object|provincial)=0.0408163265  
+re-election-NN  multiply=0.0165373622  P(re-election|object)=0.2278481013  P(object|re-election)=0.0725806452  
+member-NN  multiply=0.0128553376  P(member|object)=0.8734177215  P(object|member)=0.01471843  
+council-NN  multiply=0.0119063559  P(council|object)=0.4303797468  P(object|council)=0.0276647681  
+figure-NN  multiply=0.0109200831  P(figure|object)=0.2151898734  P(object|figure)=0.0507462687  
+party-NN  multiply=0.0109189655  P(party|object)=0.6075949367  P(object|party)=0.0179707975  
+part-NN  multiply=0.0104995254  P(part|object)=0.6329113924  P(object|part)=0.0165892502  
+
+id=18  property=dbo:party  object=http://dbpedia.org/resource/Alberta_Liberal_Party  NumberOfEntitiesFoundForObject=58
+caucus-NN  multiply=0.0601943417  P(caucus|object)=0.6034482759  P(object|caucus)=0.0997506234  
+opposition-NN  multiply=0.0485893417  P(opposition|object)=0.4482758621  P(object|opposition)=0.1083916084  
+provincial-JJ  multiply=0.04539057  P(provincial|object)=0.7413793103  P(object|provincial)=0.0612244898  
+liberal-JJ  multiply=0.0390345886  P(liberal|object)=0.8620689655  P(object|liberal)=0.0452801228  
+legislative-JJ  multiply=0.0250588991  P(legislative|object)=0.9310344828  P(object|legislative)=0.0269151139  
+position-NN  multiply=0.0222336593  P(position|object)=0.4655172414  P(object|position)=0.047761194  
+assembly-NN  multiply=0.0207891588  P(assembly|object)=0.9310344828  P(object|assembly)=0.0223290965  
+level-NN  multiply=0.0141709967  P(level|object)=0.2068965517  P(object|level)=0.0684931507  
+member-NN  multiply=0.0122800694  P(member|object)=0.9137931034  P(object|member)=0.0134385666  
+
+id=19  property=dbo:party  object=http://dbpedia.org/resource/British_Columbia_New_Democratic_Party  NumberOfEntitiesFoundForObject=85
+british-JJ  multiply=0.1050781832  P(british|object)=0.9882352941  P(object|british)=0.1063291139  
+democratic-JJ  multiply=0.0605042017  P(democratic|object)=0.7764705882  P(object|democratic)=0.0779220779  
+mla-NN  multiply=0.0573529412  P(mla|object)=0.4588235294  P(object|mla)=0.125  
+canadian-JJ  multiply=0.0573032394  P(canadian|object)=0.8235294118  P(object|canadian)=0.069582505  
+new-JJ  multiply=0.0383642224  P(new|object)=0.8117647059  P(object|new)=0.047260274  
+provincial-JJ  multiply=0.0273427018  P(provincial|object)=0.5176470588  P(object|provincial)=0.0528211285  
+province-NN  multiply=0.0255754476  P(province|object)=0.2352941176  P(object|province)=0.1086956522  
+legislative-JJ  multiply=0.0245573012  P(legislative|object)=0.8352941176  P(object|legislative)=0.0293995859  
+assembly-NN  multiply=0.0209509568  P(assembly|object)=0.8470588235  P(object|assembly)=0.0247337685  
+party-NN  multiply=0.0174818861  P(party|object)=0.7411764706  P(object|party)=0.0235866717  
+election-NN  multiply=0.0171608352  P(election|object)=0.7058823529  P(object|election)=0.0243111831  
+part-NN  multiply=0.0170030056  P(part|object)=0.7764705882  P(object|part)=0.0218978102  
+official-JJ  multiply=0.0133287997  P(official|object)=0.1647058824  P(object|official)=0.0809248555  
+opposition-NN  multiply=0.0133278486  P(opposition|object)=0.2117647059  P(object|opposition)=0.0629370629  
+member-NN  multiply=0.0122967276  P(member|object)=0.8235294118  P(object|member)=0.0149317406  
+
+id=20  property=dbo:party  object=http://dbpedia.org/resource/Labor_Party_(UK)  NumberOfEntitiesFoundForObject=304
 labour-NN  multiply=0.5452660183  P(labour|object)=0.9868421053  P(object|labour)=0.5525362319  
 british-JJ  multiply=0.2126582278  P(british|object)=0.7368421053  P(object|british)=0.2886075949  
 parliament-NN  multiply=0.1985038502  P(parliament|object)=0.9506578947  P(object|parliament)=0.2088068182  
@@ -150,7 +287,7 @@ office-NN  multiply=0.0129565858  P(office|object)=0.1809210526  P(object|office
 son-NN  multiply=0.0128804253  P(son|object)=0.2763157895  P(object|son)=0.0466148724  
 first-JJ  multiply=0.0107285758  P(first|object)=0.2006578947  P(object|first)=0.0534670008  
 
-id=8  property=dbo:party  object=http://dbpedia.org/resource/Democratic_Party_(United_States)  NumberOfEntitiesFoundForObject=760
+id=21  property=dbo:party  object=http://dbpedia.org/resource/Democratic_Party_(United_States)  NumberOfEntitiesFoundForObject=760
 american-JJ  multiply=0.3091566741  P(american|object)=0.5460526316  P(object|american)=0.5661664393  
 democratic-JJ  multiply=0.25354968  P(democratic|object)=0.5302631579  P(object|democratic)=0.4781582054  
 district-NN  multiply=0.13192045  P(district|object)=0.5210526316  P(object|district)=0.2531806616  
@@ -187,7 +324,7 @@ lawyer-NN  multiply=0.0120122073  P(lawyer|object)=0.0644736842  P(object|lawyer
 position-NN  multiply=0.01104674  P(position|object)=0.0986842105  P(object|position)=0.1119402985  
 business-NN  multiply=0.0104447164  P(business|object)=0.0842105263  P(object|business)=0.1240310078  
 
-id=9  property=dbo:party  object=http://dbpedia.org/resource/Indian_National_Congress  NumberOfEntitiesFoundForObject=693
+id=22  property=dbo:party  object=http://dbpedia.org/resource/Indian_National_Congress  NumberOfEntitiesFoundForObject=693
 indian-JJ  multiply=0.6747822459  P(indian|object)=0.8975468975  P(object|indian)=0.7518072289  
 sabha-NN  multiply=0.3030866703  P(sabha|object)=0.4083694084  P(object|sabha)=0.7421875  
 constituency-NN  multiply=0.296816268  P(constituency|object)=0.6204906205  P(object|constituency)=0.4783573807  

@@ -95,16 +95,17 @@ public class TableMain implements PropertyNotation {
         }
 
         if (type.contains(read)) {
+            Integer numberOfEntitiesrmSelected=100;
+            Integer wordFoundInNumberOfEntities=10;
+            Integer TopNwords=100;
+            Integer ObjectMinimumEntities=50;
+
             tables = new Tables(new File(inputFile).getName(), outputDir);
             InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
             String checkType=InterestedWords.PROPRTY_WISE;
-            Integer numberOfEntitiesrmSelected=200;
             interestedWords.prepareWords(dbo_Politician,checkType,numberOfEntitiesrmSelected);
-            Integer wordFoundInNumberOfEntities=10;
-            Integer TopNwords=100;
             interestedWords.getWords(wordFoundInNumberOfEntities,TopNwords,checkType);
             
-            Integer ObjectMinimumEntities=100;
             Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords,numberOfEntitiesrmSelected,ObjectMinimumEntities,dbpediaDir+output);
             System.out.println("System execution ended!!!");
             

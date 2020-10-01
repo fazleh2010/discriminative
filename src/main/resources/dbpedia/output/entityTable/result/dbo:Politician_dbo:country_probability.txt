@@ -1,4 +1,4 @@
-id=10  property=dbo:country  object=http://dbpedia.org/resource/United_States  NumberOfEntitiesFoundForObject=475
+id=24  property=dbo:country  object=http://dbpedia.org/resource/United_States  NumberOfEntitiesFoundForObject=475
 state-NN  multiply=0.5652227756  P(state|object)=0.6821052632  P(object|state)=0.8286445013  
 assembly-NN  multiply=0.3522905856  P(assembly|object)=0.4589473684  P(object|assembly)=0.7676056338  
 american-JJ  multiply=0.3261871345  P(american|object)=0.3515789474  P(object|american)=0.9277777778  
@@ -58,7 +58,7 @@ leader-NN  multiply=0.0108270677  P(leader|object)=0.0378947368  P(object|leader
 party-NN  multiply=0.0107326392  P(party|object)=0.1115789474  P(object|party)=0.0961887477  
 majority-NN  multiply=0.0101403509  P(majority|object)=0.0357894737  P(object|majority)=0.2833333333  
 
-id=11  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=699
+id=25  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=699
 member-NN  multiply=0.5854147743  P(member|object)=0.8640915594  P(object|member)=0.6774916013  
 british-JJ  multiply=0.5467846924  P(british|object)=0.5593705293  P(object|british)=0.9775  
 election-NN  multiply=0.5463186497  P(election|object)=0.6709585122  P(object|election)=0.8142361111  

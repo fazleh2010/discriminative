@@ -12,7 +12,11 @@ P(http://dbpedia.org/resource/Labor_Party_UK): the number of entities where the 
 P(http://dbpedia.org/resource/Labor_Party_UK | british)=P(british and http://dbpedia.org/resource/Labor_Party_UK)/P(british)
 P(british): all entities in which the abstract contains the word british
 
-
+Thresold:
+NumberOfMinimumEntitie=100, If a table contains less 200 entities that is exculded (for example dbo:Politician_dbo:militaryBranch is excluded)  
+TopInterestingWords=100, we take the top 100 interesting words for a property for calculating probability. 
+NumberOfEntitiesForObjectOfProperty=50, For example, the object http://dbpedia.org/resource/Australian_Greens is found in less than 50 entities. 
+Probability_Threshold: If multiply value of 2 probabilities is less than 0.01,then it is excluded.
 
 Table:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -24,7 +28,7 @@ Strategy to find interesting word:::::::::::::::::::::::::::::::::::::::::::::::
 All the words that are found more than a thresold for a property of a class (i.e. Table dbo:Politician_dbo:party.json). 
 Here the thresold is MinimumNumberOfEntitiesWordFound=10. For example, the word “american” is found in more than 10 entities of dbo:Politician_dbo:party.json. It is listed as interesting words.
 
-LInk
+Link
 https://github.com/fazleh2010/discriminative/tree/master/src/main/resources/dbpedia/output/entityTable/selectedWords
 
 dbo:Politician_dbp:party_probability is the probability distribution of the table dbo:Politician_dbo:party.json (see below in detail of 3)
@@ -38,15 +42,7 @@ dbo:Politician_dbp:party_probability.txt represents the probabilty distribution 
 https://github.com/fazleh2010/discriminative/tree/master/src/main/resources/dbpedia/output/entityTable/result
 
 
-
-Threshold::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
- 
-NumberOfMinimumEntitie=200, If a table contains less 200 entities that is exculded (for example dbo:Politician_dbo:militaryBranch is excluded)  
-TopInterestingWords=100, we take the top 100 interesting words for a property for calculating probability. 
-NumberOfEntitiesForObjectOfProperty=100, For example, the object http://dbpedia.org/resource/Australian_Greens is found in less than 100 entities. 
-Probability_Threshold: If multiply value of 2 probabilities is less than 0.01,then it is excluded.
-
-Findings:
+Findings::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 1. The strategy of considering interesting words of a property. For example, the words of abstract of dbo:Politician_dbo:religion.json does not contain religious related words such islam, catholic or hindu. 
 The word “catholic” is found only in the abstract of only two entites. And other religion related word does not exists. 
 The abstract contains more political words instead of property oriented words. 

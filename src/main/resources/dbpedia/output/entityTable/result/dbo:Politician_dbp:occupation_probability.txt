@@ -1,4 +1,4 @@
-id=19  property=dbp:occupation  object=Politician  NumberOfEntitiesFoundForObject=117
+id=36  property=dbp:occupation  object=Politician  NumberOfEntitiesFoundForObject=117
 malaysian-JJ  multiply=0.1892551893  P(malaysian|object)=0.2564102564  P(object|malaysian)=0.7380952381  
 constituency-NN  multiply=0.0636812327  P(constituency|object)=0.1965811966  P(object|constituency)=0.323943662  
 party-NN  multiply=0.0597808624  P(party|object)=0.5213675214  P(object|party)=0.1146616541  
@@ -30,7 +30,35 @@ general-JJ  multiply=0.0129099167  P(general|object)=0.1623931624  P(object|gene
 first-JJ  multiply=0.0117318254  P(first|object)=0.1623931624  P(object|first)=0.072243346  
 executive-JJ  multiply=0.0107962213  P(executive|object)=0.1025641026  P(object|executive)=0.1052631579  
 
-id=20  property=dbp:occupation  object=politician  NumberOfEntitiesFoundForObject=137
+id=37  property=dbp:occupation  object=Businessman  NumberOfEntitiesFoundForObject=50
+businessman-NN  multiply=0.0543283582  P(businessman|object)=0.26  P(object|businessman)=0.2089552239  
+business-NN  multiply=0.03825  P(business|object)=0.34  P(object|business)=0.1125  
+conservative-JJ  multiply=0.0323547401  P(conservative|object)=0.46  P(object|conservative)=0.0703363914  
+assembly-NN  multiply=0.0294092374  P(assembly|object)=0.74  P(object|assembly)=0.0397422127  
+member-NN  multiply=0.0261964736  P(member|object)=0.78  P(object|member)=0.0335852225  
+legislative-JJ  multiply=0.0211605938  P(legislative|object)=0.56  P(object|legislative)=0.0377867746  
+former-JJ  multiply=0.0147826087  P(former|object)=0.34  P(object|former)=0.0434782609  
+councillor-NN  multiply=0.0131764706  P(councillor|object)=0.14  P(object|councillor)=0.0941176471  
+canadian-JJ  multiply=0.0106060606  P(canadian|object)=0.28  P(object|canadian)=0.0378787879  
+
+id=38  property=dbp:occupation  object=Lawyer  NumberOfEntitiesFoundForObject=52
+lawyer-NN  multiply=0.0741758242  P(lawyer|object)=0.3461538462  P(object|lawyer)=0.2142857143  
+law-NN  multiply=0.0534924845  P(law|object)=0.4230769231  P(object|law)=0.1264367816  
+conservative-JJ  multiply=0.0367560574  P(conservative|object)=0.4807692308  P(object|conservative)=0.0764525994  
+assembly-NN  multiply=0.0282781129  P(assembly|object)=0.7115384615  P(object|assembly)=0.0397422127  
+member-NN  multiply=0.0209261771  P(member|object)=0.6923076923  P(object|member)=0.0302267003  
+minister-NN  multiply=0.0153366882  P(minister|object)=0.3076923077  P(object|minister)=0.0498442368  
+legislative-JJ  multiply=0.0149486141  P(legislative|object)=0.4615384615  P(object|legislative)=0.032388664  
+former-JJ  multiply=0.0142140468  P(former|object)=0.3269230769  P(object|former)=0.0434782609  
+liberal-JJ  multiply=0.0141467728  P(liberal|object)=0.3076923077  P(object|liberal)=0.0459770115  
+leader-NN  multiply=0.0135427952  P(leader|object)=0.1923076923  P(object|leader)=0.0704225352  
+cabinet-NN  multiply=0.0127154266  P(cabinet|object)=0.2115384615  P(object|cabinet)=0.0601092896  
+election-NN  multiply=0.0119777851  P(election|object)=0.3269230769  P(object|election)=0.036637931  
+party-NN  multiply=0.0117119722  P(party|object)=0.3461538462  P(object|party)=0.0338345865  
+general-JJ  multiply=0.0115867396  P(general|object)=0.2307692308  P(object|general)=0.050209205  
+canadian-JJ  multiply=0.0109265734  P(canadian|object)=0.2884615385  P(object|canadian)=0.0378787879  
+
+id=39  property=dbp:occupation  object=politician  NumberOfEntitiesFoundForObject=137
 caucus-NN  multiply=0.421739274  P(caucus|object)=0.8248175182  P(object|caucus)=0.5113122172  
 provincial-JJ  multiply=0.2969194606  P(provincial|object)=0.8759124088  P(object|provincial)=0.3389830508  
 legislative-JJ  multiply=0.1563876001  P(legislative|object)=0.9197080292  P(object|legislative)=0.1700404858  

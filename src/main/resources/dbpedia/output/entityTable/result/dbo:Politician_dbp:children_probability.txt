@@ -1,4 +1,4 @@
-id=15  property=dbp:children  object=1  NumberOfEntitiesFoundForObject=110
+id=31  property=dbp:children  object=1  NumberOfEntitiesFoundForObject=110
 lok-NN  multiply=0.1493354599  P(lok|object)=0.4818181818  P(object|lok)=0.3099415205  
 sabha-NN  multiply=0.138034398  P(sabha|object)=0.4818181818  P(object|sabha)=0.2864864865  
 constituency-NN  multiply=0.1348692403  P(constituency|object)=0.5181818182  P(object|constituency)=0.2602739726  
@@ -22,7 +22,7 @@ leader-NN  multiply=0.0117279667  P(leader|object)=0.1181818182  P(object|leader
 son-NN  multiply=0.0110275689  P(son|object)=0.2  P(object|son)=0.0551378446  
 council-NN  multiply=0.0100747737  P(council|object)=0.1454545455  P(object|council)=0.0692640693  
 
-id=16  property=dbp:children  object=2  NumberOfEntitiesFoundForObject=216
+id=32  property=dbp:children  object=2  NumberOfEntitiesFoundForObject=216
 member-NN  multiply=0.13238485  P(member|object)=0.7268518519  P(object|member)=0.1821345708  
 sabha-NN  multiply=0.0900900901  P(sabha|object)=0.2777777778  P(object|sabha)=0.3243243243  
 lok-NN  multiply=0.0849036171  P(lok|object)=0.2592592593  P(object|lok)=0.3274853801  
@@ -73,7 +73,7 @@ public-JJ  multiply=0.0110198226  P(public|object)=0.1203703704  P(object|public
 councillor-NN  multiply=0.0105218855  P(councillor|object)=0.0462962963  P(object|councillor)=0.2272727273  
 wife-NN  multiply=0.0104320988  P(wife|object)=0.0601851852  P(object|wife)=0.1733333333  
 
-id=17  property=dbp:children  object=3  NumberOfEntitiesFoundForObject=132
+id=33  property=dbp:children  object=3  NumberOfEntitiesFoundForObject=132
 member-NN  multiply=0.069614357  P(member|object)=0.6742424242  P(object|member)=0.1032482599  
 council-NN  multiply=0.033582579  P(council|object)=0.2424242424  P(object|council)=0.1385281385  
 parliament-NN  multiply=0.032996633  P(parliament|object)=0.2121212121  P(object|parliament)=0.1555555556  
@@ -104,4 +104,32 @@ canadian-JJ  multiply=0.0125519905  P(canadian|object)=0.0984848485  P(object|ca
 leader-NN  multiply=0.0113347213  P(leader|object)=0.1060606061  P(object|leader)=0.106870229  
 public-JJ  multiply=0.0106700811  P(public|object)=0.1515151515  P(object|public)=0.0704225352  
 chair-NN  multiply=0.0103935698  P(chair|object)=0.1136363636  P(object|chair)=0.0914634146  
+
+id=34  property=dbp:children  object=4  NumberOfEntitiesFoundForObject=73
+member-NN  multiply=0.0413342656  P(member|object)=0.698630137  P(object|member)=0.0591647332  
+conservative-JJ  multiply=0.0272760335  P(conservative|object)=0.2054794521  P(object|conservative)=0.1327433628  
+assembly-NN  multiply=0.0239283565  P(assembly|object)=0.3561643836  P(object|assembly)=0.0671834625  
+legislative-JJ  multiply=0.0202138323  P(legislative|object)=0.301369863  P(object|legislative)=0.0670731707  
+part-NN  multiply=0.0195267746  P(part|object)=0.3835616438  P(object|part)=0.0509090909  
+state-NN  multiply=0.0194582814  P(state|object)=0.3424657534  P(object|state)=0.0568181818  
+party-NN  multiply=0.0183497929  P(party|object)=0.3287671233  P(object|party)=0.0558139535  
+government-NN  multiply=0.0180245133  P(government|object)=0.2054794521  P(object|government)=0.0877192982  
+parliament-NN  multiply=0.0171232877  P(parliament|object)=0.2054794521  P(object|parliament)=0.0833333333  
+district-NN  multiply=0.0168745695  P(district|object)=0.2876712329  P(object|district)=0.0586592179  
+indian-JJ  multiply=0.0166340509  P(indian|object)=0.2328767123  P(object|indian)=0.0714285714  
+former-JJ  multiply=0.0160558619  P(former|object)=0.2602739726  P(object|former)=0.0616883117  
+minister-NN  multiply=0.0151157298  P(minister|object)=0.2191780822  P(object|minister)=0.0689655172  
+malaysian-JJ  multiply=0.0148898154  P(malaysian|object)=0.0684931507  P(object|malaysian)=0.2173913043  
+sabha-NN  multiply=0.0145131433  P(sabha|object)=0.1917808219  P(object|sabha)=0.0756756757  
+lok-NN  multiply=0.0135384122  P(lok|object)=0.1780821918  P(object|lok)=0.0760233918  
+committee-NN  multiply=0.0133283969  P(committee|object)=0.1643835616  P(object|committee)=0.0810810811  
+president-NN  multiply=0.013161429  P(president|object)=0.1917808219  P(object|president)=0.068627451  
+family-NN  multiply=0.0126089664  P(family|object)=0.1232876712  P(object|family)=0.1022727273  
+constituency-NN  multiply=0.0122599612  P(constituency|object)=0.1917808219  P(object|constituency)=0.0639269406  
+cabinet-NN  multiply=0.0109860301  P(cabinet|object)=0.1232876712  P(object|cabinet)=0.0891089109  
+deputy-JJ  multiply=0.0109589041  P(deputy|object)=0.1095890411  P(object|deputy)=0.1  
+public-JJ  multiply=0.010852788  P(public|object)=0.2054794521  P(object|public)=0.0528169014  
+name-NN  multiply=0.0107727091  P(name|object)=0.1232876712  P(object|name)=0.0873786408  
+attorney-NN  multiply=0.0104880137  P(attorney|object)=0.095890411  P(object|attorney)=0.109375  
+leader-NN  multiply=0.0104569696  P(leader|object)=0.1369863014  P(object|leader)=0.0763358779  
 
