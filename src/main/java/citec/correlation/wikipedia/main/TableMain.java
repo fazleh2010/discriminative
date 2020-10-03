@@ -32,6 +32,9 @@ import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import citec.correlation.wikipedia.element.PropertyNotation;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedHashSet;
@@ -51,18 +54,25 @@ public class TableMain implements PropertyNotation {
     //private static String inputJsonFile = dataDir + input + "results-100000000-1000-concretePO.json";
     private static String inputJsonFile = dataDir + input + "results-100000000-100-concretePO.json";
 
-    private static String inputWordFile = dbpediaDir + input + "politicians_with_democratic.yml";
-    private static String allPoliticianFile = dataDir + input + "politicians.txt";
-    private static String outputArff = dbpediaDir + output + "democratic.arff";
+    //rivate static String inputWordFile = dbpediaDir + input + "politicians_with_democratic.yml";
+    private static String allPoliticianFile = dbpediaDir + input + "politicians.txt";
+    //private static String outputArff = dbpediaDir + output + "democratic.arff";
     private static Set<String> freqClasses = new HashSet<String>();
-    private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
+    //private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
     private static String write = "write";
-    private static String read = "read";
+    private static String proprtyGeneration = "proprtyGeneration";
+     private static String interestingWord = "interestingWord";
+       private static String calculation = "calculation";
 
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
-        String type=read;
+        String type=calculation;
         Tables tables =null;
+        Integer numberOfEntitiesrmSelected=100;
+            Integer wordFoundInNumberOfEntities=10;
+            Integer TopNwords=100;
+            Integer ObjectMinimumEntities=50;
+             InterestedWords interestedWords=null;
         
         Set<String> checkProperties = new HashSet<String>();
         //checkProperties.add(PropertyNotation.DBP_SHORT_DESCRIPTION);
@@ -77,41 +87,36 @@ public class TableMain implements PropertyNotation {
         String inputFile=allPoliticianFile;
         String fileType=DbpediaClass.ALL_POLITICIANS;
         DbpediaClass dbpediaClass = new DbpediaClass(dbo_Politician, inputFile, TextAnalyzer.POS_TAGGER,fileType);
-        String outputDir=dbpediaDir+output+entityTable;
+        String classDir=getClassDir(dbo_Politician)+"/";
+        String rawFiles=dbpediaDir+classDir+"rawFiles/";
+        makeClassDir(dbpediaDir+classDir);
       
         if (type.contains(write)) {
-            if (fileType.contains(DbpediaClass.FREQUENT_TRIPLE)) {
-                trainingTable.write(inputFile, outputDir, dbpediaClass, checkProperties);
-            } else if (fileType.contains(DbpediaClass.ALL_POLITICIANS)) {
-                //generate alphabetic files
-                trainingTable.write(inputFile, outputDir, dbpediaClass, dbpediaClass.getPropertyEntities());
+            /*if (fileType.contains(DbpediaClass.FREQUENT_TRIPLE)) {
+                trainingTable.write(inputFile, rawFiles, dbpediaClass, checkProperties);
+            } else*/ 
+            if (fileType.contains(DbpediaClass.ALL_POLITICIANS)) {
+                trainingTable.write(inputFile, rawFiles, dbpediaClass, dbpediaClass.getPropertyEntities());
             }
-            
-            //property generation
-            tables = new Tables(new File(inputFile).getName(), outputDir);
-            String dir=dbpediaDir + output;
-            tables.readSplitTables(dbpediaDir + output,dbo_Politician);
-            tables.writeTable(dir + entityTable);
         }
-
-        if (type.contains(read)) {
-            Integer numberOfEntitiesrmSelected=100;
-            Integer wordFoundInNumberOfEntities=10;
-            Integer TopNwords=100;
-            Integer ObjectMinimumEntities=50;
-
-            tables = new Tables(new File(inputFile).getName(), outputDir);
-            InterestedWords interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir+output);
+        if (type.contains(proprtyGeneration)) {
+            //property generation
+            tables = new Tables(new File(inputFile).getName(), rawFiles);
+            tables.readSplitTables(rawFiles,dbo_Politician);
+            tables.writeTable(dbpediaDir +classDir+ "tables/");
+        }
+        if (type.contains(calculation)) {
             String checkType=InterestedWords.PROPRTY_WISE;
+            tables = new Tables(new File(inputFile).getName(), dbpediaDir +classDir+ "tables/");
+            interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir +classDir+"tables/");
             interestedWords.prepareWords(dbo_Politician,checkType,numberOfEntitiesrmSelected);
-            interestedWords.getWords(wordFoundInNumberOfEntities,TopNwords,checkType);
-            
+            interestedWords.getWords(wordFoundInNumberOfEntities,TopNwords,checkType);  tables = new Tables(new File(inputFile).getName(), dbpediaDir +classDir+ "tables/");
             Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords,numberOfEntitiesrmSelected,ObjectMinimumEntities,dbpediaDir+output);
             System.out.println("System execution ended!!!");
             
-            /*String property=PropertyNotation.dbo_party;
-            Calculation calculation = new Calculation(property,inputJsonFile,outputDir);*/
+            
         }
+
         
         //trainingTable.moveDirectory(dbpediaDir+output+entityTable,dataDir+entityTable);
 
@@ -124,6 +129,10 @@ public class TableMain implements PropertyNotation {
         System.out.println(calculation);*/
         
         //MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
+    }
+
+    private static String getClassDir(String dbo_Politician) {
+        return dbo_Politician.split(":")[1];
     }
 
     private MakeArffTable createArffTrainingTable(String entitiesPropertyFile, String wordPresenseFile, String democraticArff) throws FileNotFoundException, IOException, Exception {
@@ -225,6 +234,24 @@ public class TableMain implements PropertyNotation {
     private void moveDirectory(String source, String destination) throws IOException {
         FileUtils.deleteDirectory(new File(destination));
         FileUtils.moveDirectory(new File(source), new File(destination));
+    }
+    
+    public static Boolean makeClassDir(String director) {
+        try {
+            Path path = Paths.get(director);
+            Files.createDirectories(path);
+            path = Paths.get(director+"rawFiles/");
+            Files.createDirectories(path);
+            path = Paths.get(director+"tables/"+"result/");
+            Files.createDirectories(path);
+            path = Paths.get(director+"tables/"+"selectedWords/");
+            Files.createDirectories(path);
+            return true;
+        } catch (IOException e) {
+            System.err.println("Failed to create directory!" + e.getMessage());
+            return false;
+
+        }
     }
 
 }

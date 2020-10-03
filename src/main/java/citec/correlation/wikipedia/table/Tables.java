@@ -56,6 +56,7 @@ public class Tables implements PropertyNotation{
     }
     
     public  List<DBpediaEntity> readSplitTables(String inputDir,String fileType) throws IOException, Exception {
+        System.out.println("!!!"+inputDir);
         List<File> list = FileFolderUtils.getFiles(inputDir, fileType, ".json");
         if(list.isEmpty()){
             throw new Exception("There is no files in "+inputDir+" to generate properties!!");
@@ -208,19 +209,6 @@ public class Tables implements PropertyNotation{
 
     public void writingTable(DbpediaClass dbpediaClass, Map<String, LinkedHashSet<String>> propertyEntities) throws Exception {
         for (String predicate : propertyEntities.keySet()) {
-            if (predicate.startsWith("A") || predicate.startsWith("a")
-                    || predicate.startsWith("B") || predicate.startsWith("b")
-                    || predicate.startsWith("C") || predicate.startsWith("c")
-                    || predicate.startsWith("D") || predicate.startsWith("d")
-                    || predicate.startsWith("E") || predicate.startsWith("e")
-                    || predicate.startsWith("F") || predicate.startsWith("f")
-                    || predicate.startsWith("G") || predicate.startsWith("g")
-                    || predicate.startsWith("H") || predicate.startsWith("h")
-                    || predicate.startsWith("I") || predicate.startsWith("i")
-                    || predicate.startsWith("J") || predicate.startsWith("j")) {
-                continue;
-            }
-
             LinkedHashSet<String> entities = propertyEntities.get(predicate);
             EntityTable entityTable = new EntityTable(inputFileName, entityTableDir, dbpediaClass.getClassName(), predicate, entities, TextAnalyzer.POS_TAGGER);
             //entityTables.put(entityTable.getTableName(), entityTable);

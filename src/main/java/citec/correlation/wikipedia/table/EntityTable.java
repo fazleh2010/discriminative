@@ -62,13 +62,14 @@ public class EntityTable {
 
             index++;
 
-            /*if (index >10) {
+            if (index >10) {
                 break;
-            }*/
+            }
         }
     }
 
     private void convertToJson(List<DBpediaEntity> dbpediaEntities, String filename) throws IOException {
+        System.out.println("filename:"+filename);
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(filename+".json").toFile(), dbpediaEntities);
 
