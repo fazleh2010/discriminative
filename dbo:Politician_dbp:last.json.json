@@ -1,0 +1,111 @@
+[ {
+  "entityIndex" : "1_entity5990",
+  "entityUrl" : "http://dbpedia.org/resource/John_Barilaro",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:last" : [ "http://dbpedia.org/resource/Verity_Firth" ]
+  },
+  "words" : [ "``", "New", "Barilaro", "Monaro", "Wales", "electoral", "John", "2011", "Regional", "second", "Tourism", "October", "Baird", "government", "previously", "Skills", "Development", "member", "Nationals", "Minister", "Assembly", "Business", "''", "Small", "Domenic", "politician", "South", "representing", "Giovanni", ",", "April", ".", "2015", "Australian", "2014", "district", "served", "Legislative", "first", "since" ],
+  "adjectives" : [ "Australian", "electoral", "Legislative", "first", "second" ],
+  "nouns" : [ "government", "politician", "district", "member", "Assembly" ],
+  "text" : "Giovanni Domenic \"John\" Barilaro, an Australian politician, is the New South Wales Minister for Regional Development and Minister for Skills since April 2015, and the Minister for Small Business since October 2014 in the second Baird government. Barilaro is a member of the New South Wales Legislative Assembly representing the electoral district of Monaro for the Nationals since 2011. He has previously served as the Minister for Regional Tourism in the first Baird government."
+}, {
+  "entityIndex" : "2_entity11531",
+  "entityUrl" : "http://dbpedia.org/resource/William_Macmahon_Ball",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:last" : [ "http://dbpedia.org/resource/John_Latham_(judge)" ]
+  },
+  "words" : [ "Ball", "allowed", "several", "United", "political", "Carnegie", "Caulfield", "Conference", "Melbourne", "research", "years", "Arts", "December", "Francisco", "travelled", "Commonwealth", "academic", "representative", "Minister", "--", "Economics", "Munich", "AC", "crisis", "Victoria", "Europe", "Japan", "degree", "Allied", "received", "William", ",", "Nations", ".", "August", "camp", "Sachsenhausen", "1986", "Travelling", "University", "science", "-RRB-", "London", "1901", "1945", "foreigner", "San", "-LRB-", "conference", "26", "29", "respectively", "notable", "advisor", "School", "psychology", "Casterton", "working", "British", "studied", "concentration", "Grammar", "Bachelor", "Macmahon", "educated", "Fellow", "Australian", "Born", "fellow", "diplomat", "visit", "delegation", "first" ],
+  "adjectives" : [ "British", "Australian", "academic", "several", "political", "notable", "first" ],
+  "nouns" : [ "AC", "conference", "crisis", "degree", "concentration", "Bachelor", "research", "camp", "advisor", "psychology", "science", "fellow", "diplomat", "delegation", "representative", "foreigner" ],
+  "text" : "William Macmahon Ball, AC (29 August 1901 – 26 December 1986) was an Australian academic and diplomat. Born in Casterton, Victoria, he was educated at Caulfield Grammar School and the University of Melbourne, where he received a Bachelor of Arts degree, Ball studied both psychology and political science as a research fellow at Melbourne and the London School of Economics respectively. He then travelled Europe as a Carnegie Travelling Fellow, and during the Munich crisis was the first foreigner allowed to visit Sachsenhausen concentration camp in several years. He was a notable diplomat, working as an advisor to the Australian delegation at the San Francisco conference of the United Nations in 1945, Australian Minister to Japan, and British Commonwealth representative to the Allied Conference. He later became a professor of political science at Melbourne University, and was a regular broadcaster on both the ABC and BBC. He was made a Companion of the Order of Australia in 1978 \"for service to education and learning particularly in field of political science\"."
+}, {
+  "entityIndex" : "3_entity11634",
+  "entityUrl" : "http://dbpedia.org/resource/William_Hamilton_(Lord_Chancellor)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:last" : [ "Hamilton" ]
+  },
+  "words" : [ "Chancellor", "deputy", "death", "York", "England", "1286", "also", "William", ",", "April", ".", "Dean", "1305", "Lord", "chancellor", "1289", "Hamilton", "20", "1307" ],
+  "adjectives" : [ "deputy" ],
+  "nouns" : [ "chancellor", "death" ],
+  "text" : "William Hamilton was deputy chancellor of England from 1286 to 1289, then Lord Chancellor from 1305 to his death on April 20, 1307. He was also Dean of York."
+}, {
+  "entityIndex" : "4_entity11331",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Marra_Newland",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:last" : [ "Newland" ]
+  },
+  "words" : [ "became", "-LRB-", "Boer", "officer", "Marra", "Adelaide", "War", "World", "legislative", "Victor", "1876", "1953", "Newland", "King", "major", "MC", "member", "rank", "retired", "North", "January", "representative", "Assembly", "November", "1933", "--", "12", "British", "politician", "Africa", "South", "House", ",", "'s", ".", "Rifles", "DCM", "African", "army", "2", "Major", "Second", "Australian", "council", "served", "-RRB-", "formerly", "East" ],
+  "adjectives" : [ "Major", "Second", "major", "Australian", "African", "legislative" ],
+  "nouns" : [ "army", "officer", "council", "politician", "member", "rank", "representative" ],
+  "text" : "Major Victor Marra Newland, MC, DCM (2 November 1876 – 12 January 1953) was an Australian army officer and politician. He served in the Second Boer War and with the King's African Rifles in World War I. He retired with the rank of major. He was formerly a member of the legislative council of British East Africa, and in 1933 became the representative for North Adelaide in the South Australian House of Assembly."
+}, {
+  "entityIndex" : "5_entity11356",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Dominello",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:last" : [ "http://dbpedia.org/resource/John_Hatzistergos", "http://dbpedia.org/resource/Frank_Terenzini" ]
+  },
+  "words" : [ "New", "career", "triggered", "Communities", "Veterans", "Wales", "John", "governments", "by-election", "Ryde", "second", "Assistant", "Education", "Michael", "Aboriginal", "July", "Minister", "Assembly", "MP", "Citizenship", "solicitor", ",", "April", ".", "elected", "Watkins", "served", "following", "-RRB-", "Parliament", "since", "-LRB-", "2011", "resignation", "predecessor", "local", "Victor", "O'Farrell", "2008", "Innovation", "Baird", "government", "Party", "previously", "member", "electorate", "30", "councillor", "Affairs", "Liberal", "born", "politician", "South", "representing", "Dominello", "Better", "2015", "Australian", "2014", "Legislative", "Regulation", "Australia", "1967", "first" ],
+  "adjectives" : [ "Australian", "Legislative", "first", "local", "second" ],
+  "nouns" : [ "career", "MP", "government", "politician", "member", "solicitor", "electorate", "by-election", "resignation", "predecessor", "councillor", "Assembly" ],
+  "text" : "Victor Michael Dominello MP (born 30 July 1967 in Ryde, New South Wales), an Australian politician, is the New South Wales Minister for Innovation and Better Regulation since April 2015 in the second Baird government. Dominello is a member of the New South Wales Legislative Assembly, representing the electorate of Ryde for the Liberal Party of Australia since 2008. He has previously served as the Minister for Citizenship, Communities and the Minister for Aboriginal Affairs between 2011 and 2015, and the Minister for Veterans Affairs and Assistant Minister for Education between 2014 and 2015, in the O'Farrell and first Baird governments. After a career as a solicitor and local councillor, Dominello was elected to the Parliament of New South Wales following a Ryde by-election triggered by the resignation of his predecessor John Watkins. The by-election saw Dominello receive a two-party swing of 23.1 points. Dominello increased his margin at the 2011 election; however the margin was reduced to 11.5 points at the 2015 state election."
+}, {
+  "entityIndex" : "6_entity972",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Debus",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:last" : [ "http://dbpedia.org/resource/Terry_Griffiths_(politician)" ]
+  },
+  "words" : [ "``", "New", "Attorney-General", "held", "Wales", "John", "governments", "retirement", "Arts", "Bob", "Robert", "represented", "state", "Assembly", "Minister", "minister", "16", "House", ",", "former", ".", "1943", "NSW", "1981", "served", "-RRB-", "Environment", ";", "Parliament", "1988", "-LRB-", "September", "2010", "Representatives", "Labor", "Mountains", "Debus", "2007", "Party", "1995", "member", "electorate", "''", "election", "Blue", "born", "politician", "South", "representing", "portfolios", "Australian", "Legislative" ],
+  "adjectives" : [ "New", "Blue", "Australian", "Legislative", "former" ],
+  "nouns" : [ "election", "minister", "politician", "member", "Environment", "state", "electorate", "retirement", "Assembly" ],
+  "text" : "Robert John \"Bob\" Debus AM (born 16 September 1943), a former Australian politician, has been a member of the Australian House of Representatives and the New South Wales Legislative Assembly, representing the Australian Labor Party. Debus has been a minister in both the Australian and New South Wales governments. He served in the NSW Parliament from 1981 to 1988 and again from 1995 to 2007; and in the Australian Parliament from 2007 to 2010. Before his retirement from the NSW Parliament, at the 2007 state election, he held the portfolios of Attorney-General, Minister for the Environment, and Minister for the Arts; and represented the Blue Mountains electorate. Prior to his retirement from the Australian Parliament, at the 2010 federal election, he was Minister for Home Affairs in the Rudd Ministry; and served as Member for Macquarie. Debus is a prominent member of Labor's Socialist Left faction. On 6 June 2009, Bob Debus announced his resignation from the ministry and his retirement. He did not contest the 2010 federal election."
+}, {
+  "entityIndex" : "7_entity9394",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Bollard",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:last" : [ "http://dbpedia.org/resource/James_Farmer_(politician)" ]
+  },
+  "words" : [ "New", "Internal", "office", "A.", "Francis", "post", "Winter", "represented", "Minister", "events", "--", "farewelling", "making", "minister", ",", ".", "August", "Zealand", "1863", "buildings", "-RRB-", "Show", "Reform", ";", "23", "-LRB-", "25", "May", "died", "publican", "local", "Party", "Association", "Raglan", "Richard", "reported", "Matangi", "electorate", "1915", "1914", "1912", "P.", "1911", "Affairs", "Government", "politician", "speeches", "Whatawhata", "opening", "Bollard", "farmer", "1927", "cabinet", "1923" ],
+  "adjectives" : [ "local" ],
+  "nouns" : [ "minister", "post", "politician", "farmer", "electorate", "office", "publican", "cabinet", "opening", "A." ],
+  "text" : "Richard Francis Bollard (23 May 1863 – 25 August 1927) was a farmer and New Zealand politician of the Reform Party. He represented the Raglan electorate from 1911 to 1927, when he died. As Minister of Internal Affairs, he was a cabinet minister from 1923 to 1927 in the Reform Government. He was reported making speeches and opening events and buildings; in 1912 farewelling the local publican, in 1914 opening Matangi post office, in 1915 opening the Winter Show of the Raglan A. and P. Association and opening Whatawhata post office. As Minister for Internal Affairs he opened Te Uku post office and Te Hutewai School in 1924, Raglan footbridge in 1926 and in 1924 was reported as making three calls one day and two the next, in between catching the train from Auckland to Wellington. Bollard was the eldest son of John Bollard, also a Member of Parliament."
+}, {
+  "entityIndex" : "8_entity4288",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Bedford_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:last" : [ "Gill" ]
+  },
+  "words" : [ "--", "New", "-LRB-", "Harry", "17", "university", "City", "Dunedin", ".", "August", "1877", "Zealand", "Dodgshun", "academic", "1918", "-RRB-", "Bedford", "February", "Member", "Parliament" ],
+  "adjectives" : [ "academic" ],
+  "nouns" : [ "university", "City" ],
+  "text" : "Harry Dodgshun Bedford (August 1877 – 17 February 1918) was a New Zealand university academic and Member of Parliament for the City of Dunedin."
+}, {
+  "entityIndex" : "9_entity4347",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Scott_Bennett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:last" : [ "Olssen" ]
+  },
+  "words" : [ "June", "New", "24", "-LRB-", "MLA", "May", "07", "Gilbert", "John", "United", "died", "Labor", "A.", "1877", "States", "Party", "Bennett", "1959", "1913", "prison", "Henry", "heard", "--", "socialist", "Harry", "15", "Victoria", "West", "born", "spent", "1915-17", "originally", ",", "Lee", ".", "1", "organiser", "Zealand", "Australian", "Ballarat", "speaker", "-RRB-", "Chilwell", "1904", "Sydney", "Scott" ],
+  "adjectives" : [ "socialist", "Australian" ],
+  "nouns" : [ "organiser", "speaker", "prison" ],
+  "text" : "Harry Scott Bennett (1 June 1877 – 24 May 1959), originally Henry Gilbert Scott Bennett, was an Australian socialist speaker and organiser. He was born in Chilwell, Victoria and died in Sydney. He was MLA for Ballarat West, Victoria for the Australian Labor Party 1904–07. He spent 1913–15 in New Zealand (where John A. Lee heard him while they were in prison) and 1915-17 in the United States."
+}, {
+  "entityIndex" : "10_entity3202",
+  "entityUrl" : "http://dbpedia.org/resource/Fiona_Nash",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:last" : [ "http://dbpedia.org/resource/Christopher_Pyne", "http://dbpedia.org/resource/Warren_Snowdon" ]
+  },
+  "words" : [ "New", "leader", "Wales", "née", "Regional", "Fiona", "National", "Assistant", "Development", "represented", "Nationals", "state", "July", "Minister", "11", "deputy", "Deputy", "18", "19", "Communications", "Local", ",", "'s", ".", "Abbott", "1", "Senate", "Joy", "6", "served", "-RRB-", "Parliament", "party", "since", "21", "-LRB-", "May", "Leader", "September", "Nash", "Turnbull", "2008", "Party", "2005", "previously", "Morton", "February", "Rural", "Government", "Health", "born", "politician", "South", "Territories", "1965", "2016", "2015", "Australian", "2013", "Australia" ],
+  "adjectives" : [ "Australian", "Local" ],
+  "nouns" : [ "leader", "deputy", "Government", "politician", "state", "party" ],
+  "text" : "Fiona Joy Nash (née Morton) (born 6 May 1965) is an Australian politician. She has represented the National Party of Australia in the Australian Senate for the state of New South Wales since 1 July 2005 and has served as the Deputy Leader of the Nationals in the Parliament of Australia since 11 February 2016, having previously served as the party's deputy Senate leader since 2008. In the Turnbull Government, Nash has served as the Minister for Local Government and Territories since 19 July 2016, and the Minister for Regional Development, and the Minister for Regional Communications since 18 February 2016. Nash had previously served as the Minister for Rural Health between 21 September 2015 and 19 July 2016, and as the Assistant Minister for Health in the Abbott Government between 18 September 2013 and 21 September 2015."
+} ]

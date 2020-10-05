@@ -1,0 +1,430 @@
+[ {
+  "entityIndex" : "1_entity4911",
+  "entityUrl" : "http://dbpedia.org/resource/John_W._North",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Evergreen_Cemetery_(Riverside,_California)" ]
+  },
+  "words" : [ "Water", "Wesley", "named", "-LRB-", "American", "John", "United", "reputation", "appointment", "predecessor", "pioneer", "Presidential", "Court", "States", "School", "Plant", "national", "Northfield", "North", "1815", "19th-century", "Nevada", "--", "High", "statesman", "cities", "founder", "1890", "Minnesota", "also", "received", "California", ",", "'s", "court", ".", "Treatment", "highest", "W.", "-RRB-", "located", "District", "Riverside" ],
+  "adjectives" : [ "American", "national", "located", "19th-century", "Presidential" ],
+  "nouns" : [ "statesman", "Plant", "Treatment", "founder", "reputation", "appointment", "predecessor", "pioneer", "court" ],
+  "text" : "John Wesley North (1815–1890) was a 19th-century pioneer American statesman of national reputation. He was the founder of the cities of Northfield, Minnesota and Riverside, California, where John W. North High School and the John W. North Water Treatment Plant are located and named after him. He also received a Presidential appointment to Nevada's highest court, the predecessor of the United States District Court for the District of Nevada."
+}, {
+  "entityIndex" : "2_entity5289",
+  "entityUrl" : "http://dbpedia.org/resource/John_Hill_(Texas_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Glenwood_Cemetery_(Houston,_Texas)", "http://dbpedia.org/resource/Houston,_Texas" ]
+  },
+  "words" : [ "Justice", "Hill", "-LRB-", "Chief", "Secretary", "Jr.", "John", "Court", "October", "2007", "Supreme", "July", "judge", "lawyer", "--", "Democratic", "Luke", "politician", ",", ".", "Texas", "person", "State", "served", "-RRB-", "9", "General", "Attorney", "1923" ],
+  "adjectives" : [ "Democratic" ],
+  "nouns" : [ "person", "politician", "judge", "lawyer" ],
+  "text" : "John Luke Hill, Jr. (October 9, 1923 – July 9, 2007) was a Texas lawyer, Democratic politician, and judge. He is the only person to have served as Secretary of State of Texas, Texas Attorney General, and Chief Justice of the Texas Supreme Court."
+}, {
+  "entityIndex" : "3_entity5296",
+  "entityUrl" : "http://dbpedia.org/resource/John_Smith_Griffin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Hillsboro_Pioneer_Cemetery" ]
+  },
+  "words" : [ "Oregon", "Vancouver", "-LRB-", "American", "Meetings", "participated", "church", "John", "Fort", "1899", "later", "--", "Champoeg", "Government", "Tualatin", "created", "Smith", "Provisional", "Plains", ".", "tutor", "1843", "Valley", "served", "-RRB-", "organized", "Griffin", "1807", "Country", "missionary" ],
+  "adjectives" : [ "American", "missionary" ],
+  "nouns" : [ "church", "tutor" ],
+  "text" : "John Smith Griffin (1807–1899) was an American missionary in Oregon Country who participated at the Champoeg Meetings that created the Provisional Government of Oregon in 1843. In Oregon he served as a tutor at Fort Vancouver and later organized a church on the Tualatin Plains in the Tualatin Valley."
+}, {
+  "entityIndex" : "4_entity5633",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Michaud_(Ontario_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Sturgeon Falls Roman Catholic Cemetery" ]
+  },
+  "words" : [ "election", "Canadian", "West", "Liberal", "politician", "electoral", "Nipissing", ",", ".", "elected", "Party", "Joseph", "district", "member", "Legislative", "represented", "1904", "Ontario", "1902", "Assembly", "Michaud" ],
+  "adjectives" : [ "Canadian", "electoral", "Legislative" ],
+  "nouns" : [ "election", "politician", "district", "member", "Assembly" ],
+  "text" : "Joseph Michaud was a Canadian politician, who represented the electoral district of Nipissing West in the Legislative Assembly of Ontario from 1902 to 1904. A member of the Liberal Party, he was elected in the 1902 election."
+}, {
+  "entityIndex" : "5_entity5865",
+  "entityUrl" : "http://dbpedia.org/resource/Jeremiah_Gridley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Granary_Burying_Ground" ]
+  },
+  "words" : [ "``", "-LRB-", "18th", "around", "founding", "general", "Association", "legislator", "colonial", "Massachusetts", "America", "North", "lawyer", "Boston", "1760s", "--", "''", "editor", "Gridley", "Jeremiah", "Masons", ",", ".", "1767", "Master", "Jeremy", "Grand", "century", "Bar", "attorney", "served", "associated", "-RRB-", "1702" ],
+  "adjectives" : [ "18th" ],
+  "nouns" : [ "editor", "general", "century", "legislator", "colonial", "attorney", "lawyer", "founding" ],
+  "text" : "Jeremiah Gridley or Jeremy Gridley (1702–1767) was a lawyer, editor, colonial legislator, and attorney general in Boston, Massachusetts, in the 18th century. He served as \"Grand Master of the Masons in North America\" around the 1760s, and was associated with the founding of the Boston Bar Association."
+}, {
+  "entityIndex" : "6_entity2929",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Schulmerich",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Hillsboro_Pioneer_Cemetery" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "city", "moved", "pursuits", "Republican", "German", "industry", "C.", "Edward", "settling", "boy", "banking", "professional", "worked", "U.S.", "native", "prior", "houses", "1937", "state", "near", "businessman", "Assembly", "--", "politician", "Schulmerich", "California", ",", ".", "1863", "Hillsboro", "council", "served", "-RRB-", "Legislative", "family" ],
+  "adjectives" : [ "Legislative", "German", "professional" ],
+  "nouns" : [ "native", "city", "council", "politician", "industry", "state", "family", "businessman", "boy", "Assembly", "banking" ],
+  "text" : "Edward C. Schulmerich (1863 – 1937) was a businessman and politician in the U.S. state of Oregon. A native of California, his German family moved to Oregon when he was a boy, settling near Hillsboro. There he worked in the banking industry and other professional pursuits. A Republican, he served in both houses of the Oregon Legislative Assembly and prior to that on the city council of Hillsboro. His former home, the Edward Schulmerich House, is listed on the National Register of Historic Places."
+}, {
+  "entityIndex" : "7_entity3028",
+  "entityUrl" : "http://dbpedia.org/resource/Eldad_Cicero_Camp",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Old_Gray_Cemetery", "Knoxville, Tennessee" ]
+  },
+  "words" : [ "Company", "officer", "19th", "philanthropist", "late", "National", "Coal", "Third", "tycoon", "North", "Eldad", "height", "--", "centuries", "Virginia-Tennessee", "20th", "director", "active", ",", "'s", ".", "August", "1", "Knoxville", "1865", "Civil", "attorney", "-RRB-", "coal", "Creek", "East", "Camp", "21", "-LRB-", "Bank", "prominent", "American", "Tennessee", "Jr.", "War", "primarily", "Union", "Places", "arrived", "men", "wealthiest", "1839", "Greystone", "early", "mansion", "November", "one", "Historic", "Cicero", "1920", "listed", "Register", "vicinity", "president" ],
+  "adjectives" : [ "prominent", "American", "late", "20th", "active", "19th", "early" ],
+  "nouns" : [ "philanthropist", "attorney", "director", "officer", "coal", "tycoon", "vicinity", "mansion", "president", "height" ],
+  "text" : "Eldad Cicero Camp, Jr. (August 1, 1839 – November 21, 1920) was an American coal tycoon, attorney and philanthropist, active primarily in Knoxville, Tennessee, and the vicinity, in the late 19th and early 20th centuries. He was president of the Coal Creek Coal Company, president of the Virginia-Tennessee Coal Company, a director of Knoxville's Third National Bank, and at his height, was one of the wealthiest men in East Tennessee. His prominent North Knoxville mansion, Greystone, is listed on the National Register of Historic Places. A Union officer during the Civil War, Camp arrived in Knoxville in 1865. In 1868, he killed Confederate colonel Henry Ashby in a notorious shootout in downtown Knoxville. Camp first rose to prominence as U.S. District Attorney for East Tennessee, serving from 1869 until 1871. During the late 1860s, he organized the Coal Creek Coal Company, which in subsequent decades grew to become one of the major coal producing companies in the region. In the 1890s, Camp helped establish Knoxville's Florence Crittenton Home and Camp's Home for Friendless Women."
+}, {
+  "entityIndex" : "8_entity3041",
+  "entityUrl" : "http://dbpedia.org/resource/Edgerton_W._Day",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Edmonton Cemetery" ]
+  },
+  "words" : [ "education", "Alberta", "pioneer", "later", "province", "would", "agricultural", "incorporated", "find", "Winnett", "--", "11", "area", "took", "stagecoach", "equipment", "completed", ",", ".", "Canada", "1863", "driver", "-RRB-", "job", "Ontario", "became", "-LRB-", "26", "Canadian", "1919", "settle", "eventually", "life", "manufacturer", "Edgerton", "settler", "land", "company", "February", "November", "politician", "Massey-Harris", "employment", "surveyed", "Born", "time", "Soon", "Day", "first" ],
+  "adjectives" : [ "agricultural", "Canadian", "first" ],
+  "nouns" : [ "area", "education", "politician", "stagecoach", "equipment", "employment", "pioneer", "life", "manufacturer", "province", "driver", "settler", "land", "company", "time", "job", "Day" ],
+  "text" : "Edgerton Winnett Day (November 26, 1863 – February 11, 1919) was a Canadian politician and pioneer settler in the area that became province of Alberta, Canada. Born in 1863 in an area later incorporated into the Canadian province of Ontario, Day completed his education, and took up a job as a stagecoach driver. Soon after, he would find employment at the Massey-Harris company, an agricultural equipment manufacturer. During this time, Day first surveyed the land that he would eventually settle later on in his life. After briefly working as a loan company, Day moved to the west, after having aspirations of doing so since his youth. As the Canadian Pacific Railway gained entitlement to a portion of land in the prairies, Day became interested in purchasing a large portion, and did so in 1904. He then completed plans for what would later become the town that bears his name, Daysland, in present-day Flagstaff County, Alberta. Daysland was formed in 1905, when the railway line to the area was completed. Soon after, a large colonial-style house was built as a home for Day and his wife. Fitted with the latest appliances and technology at the time, it soon became the centre of the town, serving as an ice rink and tennis court, and hosting events, including auctions. After the opening of a post office in 1907, Daysland was officially incorporated as a town, with Day elected its first mayor. He would continue to serve in the capacity until his resignation in 1910. Two years later, Day moved to Edmonton, where he served as a major in the Army Reserve until his death from a long illness in 1919."
+}, {
+  "entityIndex" : "9_entity11483",
+  "entityUrl" : "http://dbpedia.org/resource/William_Templeton_(mayor)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Mountain_View_Cemetery_(Vancouver)" ]
+  },
+  "words" : [ "next", "Mayor", "Vancouver", "-LRB-", "defeated", "27", "March", "butcher", "operated", "run", "died", "building", "Council", "serving", "sixth", "1898", "grocer", "1853", "1897", "Templeton", "school", "member", "term", "brick", "January", "--", "British", "election", "16", "mayor", "one", "also", "store", "City", "William", ",", "'s", ".", "unsuccessfully", "seat", "elected", "Columbia", "-RRB-", "grocery", "first", "board", "shortly" ],
+  "adjectives" : [ "sixth", "next", "first" ],
+  "nouns" : [ "election", "mayor", "butcher", "store", "building", "seat", "grocer", "school", "grocery", "member", "term", "brick", "board" ],
+  "text" : "William Templeton (March 27, 1853 – January 16, 1898) was the sixth Mayor of Vancouver, British Columbia, serving only one term in 1897. A butcher and grocer, he operated a grocery store in the first brick building in Vancouver. Templeton also was a member of the Vancouver City Council and school board, and had once run unsuccessfully for the mayor's seat before being elected in 1897. He was defeated in the next election in January 1898, and died shortly after. He is commemorated with a street and school named in his honour."
+}, {
+  "entityIndex" : "10_entity11689",
+  "entityUrl" : "http://dbpedia.org/resource/William_N._Barrett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Hillsboro_Pioneer_Cemetery" ]
+  },
+  "words" : [ "Oregon", "24", "-LRB-", "American", "chambers", "Republican", "County", "three", "Washington", "1855", "December", "times", "Nathan", "native", "1916", "different", "lawyer", "Assembly", "November", "--", "including", "16", "mayor", "politician", "House", "also", "William", ",", ".", "Hillsboro", "served", "-RRB-", "Legislative", "Barrett", "time" ],
+  "adjectives" : [ "American", "Legislative", "different" ],
+  "nouns" : [ "native", "mayor", "politician", "time", "lawyer", "Assembly" ],
+  "text" : "William Nathan Barrett (November 24, 1855 – December 16, 1916) was an American politician and lawyer in Oregon. A native of Washington County, he served in both chambers of the Oregon Legislative Assembly, including three different times in the Oregon House. A Republican, he was also a three time mayor of Hillsboro, Oregon."
+}, {
+  "entityIndex" : "11_entity11705",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_C._Lawson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Fredericton Rural Cemetery" ]
+  },
+  "words" : [ "New", "-LRB-", "political", "County", "Sunbury", "public", "1970", "Cyril", "member", "represented", "February", "1935", "lawyer", "Assembly", "Walter", "--", "Brunswick", "figure", "Liberal", "BCL", ",", "Province", ".", "Lawson", "1", "Canada", "notary", "-RRB-", "Legislative", "1889", "1944" ],
+  "adjectives" : [ "notary", "Liberal", "political", "Legislative" ],
+  "nouns" : [ "figure", "public", "member", "lawyer", "Assembly" ],
+  "text" : "Walter Cyril Lawson BCL (February 1, 1889 – 1970) was a lawyer, notary public and political figure in the Province of New Brunswick, Canada. He represented Sunbury County in the Legislative Assembly of New Brunswick from 1935 to 1944 as a Liberal member."
+}, {
+  "entityIndex" : "12_entity11791",
+  "entityUrl" : "http://dbpedia.org/resource/William_H._Wehrung",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Hillsboro_Pioneer_Cemetery" ]
+  },
+  "words" : [ "22", "Oregon", "-LRB-", "September", "American", "city", "March", "Party", "native", "member", "state", "30", "businessman", "Henry", "1934", "Oregonian", "--", "longtime", "Democratic", "politician", "merchant", "William", ",", "cabinetmaker", "banker", ".", "Wehrung", "Senate", "1861", "Hillsboro", "State", "council", "served", "-RRB-" ],
+  "adjectives" : [ "longtime", "American", "native" ],
+  "nouns" : [ "city", "council", "politician", "member", "merchant", "state", "cabinetmaker", "banker", "businessman" ],
+  "text" : "William Henry Wehrung (March 22, 1861 – September 30, 1934) was an American businessman and politician in the state of Oregon. A native Oregonian, he was a cabinetmaker, banker, and merchant in Hillsboro, Oregon. A member of the Democratic Party, he served in the Oregon State Senate and was a longtime member of the Hillsboro city council."
+}, {
+  "entityIndex" : "13_entity1478",
+  "entityUrl" : "http://dbpedia.org/resource/Carl_Gunter,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Holloway Cemetery in Rapides Parish" ]
+  },
+  "words" : [ "``", "abortion", "Buck", "John", "Sr.", "1976", "1899", "1975", "Rights", "Amendment", "December", "1972", "1895", "Equal", "1894", "nephew", "1938", "July", "Alexandria", "January", "10", "--", "N.", "Charles", "13", "14", "16", "Democratic", "Carl", "18", "House", "Rapides", ",", "-", ".", "April", "former", "labor", "seat", "Newton", "Euddie", "3", "Sullivan", "6", "-RRB-", "support", "21", "maternal", "O.", "22", "largest", "June", "23", "-LRB-", "26", "May", "September", "city", "Gladys", "grandparents", "Jr.", "Representatives", "Gunter", "Parish", "2009", "opposition", "October", "1996", "central", "known", "1992", "Slay", "member", "Hooper", "1916", "31", "1999", "November", "Mary", "''", "born", "Louella", "1920", "1886", "1963", "Richardson", "Louisiana", "organized", "Assessor", "1967", "paternal" ],
+  "adjectives" : [ "central", "Democratic", "former", "paternal", "maternal" ],
+  "nouns" : [ "seat", "opposition", "abortion", "city", "member", "nephew", "support", "labor" ],
+  "text" : "Carl Newton Gunter, Jr. (October 16, 1938 – July 6, 1999), was a Democratic member of the Louisiana House of Representatives from 1972 to 1992, known for his support of organized labor and his opposition to abortion and the Equal Rights Amendment. Gunter was born in Alexandria, the seat of Rapides Parish and the largest city in central Louisiana, to Carl N. \"Euddie\" Gunter, Sr. (June 23, 1916 - November 10, 1975), and Gladys Slay Gunter Richardson (April 18, 1920 - January 14, 2009) His paternal grandparents were John Gunter (January 31, 1886 - July 26, 1963) and Mary Hooper Gunter (May 21, 1895 - January 6, 1976). His maternal grandparents were Charles O. \"Buck\" Slay, Sr. (November 3, 1894 - September 10, 1967), and the former Louella Sullivan (September 22, 1899 - December 13, 1996). Gunter was a maternal nephew of former Rapides Parish Assessor Charles O. Slay, Jr."
+}, {
+  "entityIndex" : "14_entity1479",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_A._Cook",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Riverside Cemetery, Denver, Colorado" ]
+  },
+  "words" : [ "half", "John", "A.", "second", "Moore", "George", "Town", "incorporated", "1859-61", "1859", "drawn", "faltering", "Charles", "Nelson", "Territory", "mayor", "18", "Kansas", ",", "Hot", ".", "Later", "1863", "etc.", "1861", "6", "improve", "served", "-RRB-", "succeeded", "22", "-LRB-", "visiting", "part", "Cook", "March", "died", "C.", "Arkansas", "serving", "Colorado", "share", "Denver", "Springs", "1878", "Highland", "sold", "Dec", "original", "one", "Jefferson", "health", "No.", "territory" ],
+  "adjectives" : [ "original", "second" ],
+  "nouns" : [ "half", "Town", "mayor", "part", "health", "share", "No.", "territory" ],
+  "text" : "Charles A. Cook (died 18 March 1878) In Dec 6, 1859 he sold one half of original share in Town of Highland (share No. 22), drawn by George C. Nelson, etc. Later, he was the second mayor of Denver, Colorado, serving from 1861, when Denver was incorporated into Kansas Territory until 1863. He succeeded John C. Moore, who served as mayor 1859-61 when Denver was part of the Jefferson territory. He died on 18 March 1878 while visiting Hot Springs, Arkansas to improve his faltering health. His remains were returned to Colorado where he was buried in Denver's Riverside Cemetery on 23 March 1878."
+}, {
+  "entityIndex" : "15_entity1482",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_H._Price_II",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Forest Hill Cemetery, Kansas City, Missouri" ]
+  },
+  "words" : [ "II", "--", "Charles", "12", "-LRB-", "prominent", "Harry", "American", "2012", "United", "Ambassador", ",", "April", "former", ".", "States", "1", "1931", "Price", "-RRB-", "January", "businessman" ],
+  "adjectives" : [ "prominent", "American", "former" ],
+  "nouns" : [ "businessman" ],
+  "text" : "Charles Harry Price II (April 1, 1931 – January 12, 2012) was a prominent American businessman and former Ambassador of the United States."
+}, {
+  "entityIndex" : "16_entity1553",
+  "entityUrl" : "http://dbpedia.org/resource/Cornelius_P._Lott",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Salt_Lake_City_Cemetery" ]
+  },
+  "words" : [ "22", "leader", "-LRB-", "plural", "September", "Lott", "father", "Council", "1798", "1850", "member", "July", "Danite", "early", "--", "Fifty", "one", "Smith", ",", "'s", "wives", ".", "Cornelius", "6", "Joseph", "-RRB-", "Peter", "Day", "movement", "Saint", "Latter" ],
+  "adjectives" : [ "Danite", "early" ],
+  "nouns" : [ "leader", "plural", "father", "member", "movement" ],
+  "text" : "Cornelius Peter Lott (September 22, 1798 – July 6, 1850) was an early member of the Latter Day Saint movement, father of one of Joseph Smith's plural wives, a member of the Council of Fifty and a Danite leader."
+}, {
+  "entityIndex" : "17_entity1784",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Hiller_Innes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Forest Hills Cemetery, Jamaica Plain, Massachusetts" ]
+  },
+  "words" : [ "--", "1920s", "Charles", "1910s", "-LRB-", "May", "27", "politician", "Republican", "led", ",", ".", "Innes", "August", "Party", "6", "Massachusetts", "1870", "-RRB-", "Hiller", "1939", "lawyer", "Boston" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "lawyer" ],
+  "text" : "Charles Hiller Innes (August 6, 1870 in Boston, Massachusetts – May 27, 1939) was a lawyer and politician who led the Massachusetts Republican Party during the 1910s and 1920s."
+}, {
+  "entityIndex" : "18_entity1859",
+  "entityUrl" : "http://dbpedia.org/resource/Cahit_Aral",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Zincirlikuyu_Cemetery" ]
+  },
+  "words" : [ "named", "-LRB-", "Fatma", "honor", "Cahit", "2011", "Turkish", "Elazığ", "Hüseyin", "1875", "government", "teacher", "school", "Istanbul", "1957", "November", "--", "Aral", "minister", "politician", "born", "Yalçın", ",", "engineer", "former", ".", "journalist", "1", "University", "Technical", "graduated", "-RRB-", "1927", "writer", "Hakkı", "primary", "parents" ],
+  "adjectives" : [ "former", "Turkish", "primary" ],
+  "nouns" : [ "journalist", "government", "teacher", "minister", "school", "politician", "honor", "writer", "engineer" ],
+  "text" : "Hüseyin Cahit Aral (1927 – November 1, 2011) was a Turkish engineer, politician and former government minister. Cahit Aral was born 1927 in Elazığ to primary school teacher parents Fatma and Hakkı Aral. His was named in honor of the writer and journalist Hüseyin Cahit Yalçın (1875–1957). He graduated from the Istanbul Technical University. Cahit Aral entered politic after working some years in the industry. He was among the founders of the Motherland Party (ANAP), which was established after the 1980 Turkish coup d'état. He served as Minister of Industry of Commerce in the cabinet of Turgut Özal. He is remembered for his message \"Don't worry!\" while drinking a glass of tea in front of the cameras following the Chernobyl disaster that occurred on April 26, 1986, and downplaying the disaster's possible risk effects on human health caused by radioactivity released into the environment in the Black Sea Region, where Turkey's tea plantations are located. For this reason, he was nicknamed \"Bekerel Cahit\" (Cahit the Becquerel). Cahit Aral died of heart failure on November 1, 2011 in Istanbul. He was laid to rest at the Zincirlikuyu Cemetery on November 3, 2011 following a state funeral and the religious funeral service at Levent Mosque."
+}, {
+  "entityIndex" : "19_entity1019",
+  "entityUrl" : "http://dbpedia.org/resource/Brenda_Reneau",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Fort_Gibson,_Oklahoma", "Citizens Cemetery" ]
+  },
+  "words" : [ "Brenda", "-LRB-", "woman", "American", "Oklahoma", "another", "Republican", "serve", "Labor", "three", "Reneau", "1954", "1998", "December", "2007", "Party", "U.S.", "2006", "1994", "terms", "lost", "2002", "Reelected", "term", "state", "First", "January", "--", "politician", "Commissioner", ",", ".", "consecutive", "elected", "4", "5", "2013", "served", "-RRB-", "ended", "bid" ],
+  "adjectives" : [ "American", "First", "consecutive" ],
+  "nouns" : [ "woman", "politician", "term", "state", "bid" ],
+  "text" : "Brenda Reneau (January 4, 1954 – December 5, 2013) was an American Republican Party politician from the U.S. state of Oklahoma. Reneau served as the Oklahoma Commissioner of Labor for three consecutive terms. First elected in 1994, she is the only woman to serve as Labor Commissioner. Reelected in 1998 and 2002, she lost her bid for another term in 2006 and her term ended in January 2007."
+}, {
+  "entityIndex" : "20_entity11309",
+  "entityUrl" : "http://dbpedia.org/resource/U_Lwin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Yayway Cemetery, Yangon" ]
+  },
+  "words" : [ "career", "1940s", "င", "officer", "World", "independence", "December", "National", "campaigns", "won", "လ", "Minister", "--", "II", "prime", "Army", "League", "law", "including", "deputy", "minister", "ဦ", "1990", ",", "'s", ".", "army", "seat", "1942", "Burmese", "Lwin", "martial", "6", "served", "Revolutionary", "1980", "-RRB-", "Democracy", "anti-rebel", ":", ";", "parents", "22", "-LRB-", "contesting", "Rangoon", "roles", "2011", "War", "resignation", "Tha", "Socialist", "Thongwa", "Council", "Programme", "general", "October", "Party", "U", "member", "ranked", "parliamentary", "1950s", "Ba", "declared", "Pazundaung", "election", "Township", "Thein", "joined", "Finance", "politician", "born", "Independence", "Burma", "1962", "constituency", "various", "Colonel", "anti-Kuomintang", "1924", "first" ],
+  "adjectives" : [ "prime", "general", "Burmese", "deputy", "martial", "various", "parliamentary", "anti-rebel", "anti-Kuomintang" ],
+  "nouns" : [ "career", "election", "law", "င", "minister", "officer", "politician", "Independence", "Burma", "resignation", "independence", "army", "seat", "constituency", "member" ],
+  "text" : "U Lwin (Burmese: ဦးလွင်; 22 October 1924 – 6 December 2011) was a career army officer (ranked Colonel) in the Burmese Army and a National League for Democracy politician, who won a parliamentary seat in the Burmese general election, 1990, after contesting the Thongwa constituency. U Lwin was born in Rangoon's Pazundaung Township to parents Ba Tha and Thein. He first joined the Burma Independence Army in 1942 and served during World War II and in anti-rebel and anti-Kuomintang campaigns in the 1940s to 1950s, after Burma declared its independence. After martial law was declared in 1962, he served various roles including Minister of Finance, deputy prime minister and member of the Revolutionary Council under the Burma Socialist Programme Party, until his resignation in 1980. U Lwin is Secretary of the NLD and is a former party Treasurer. He was among the NLD representatives who boycotted the National Convention in December 1995 and is a former BSPP Deputy Prime Minister and member of the BSPP State Council.He completed high school in Rangoon before World War II and served in the Burma Independence Army (BIA), Burma Defence Army (BDA) and with the Patriotic Burmese Force (PBF) from 1942-1945. He completed BDA officer training at the Japanese Royal Military Academy and from 1952-1954 studied at the British Royal Military Academy. He was also the Military Attaché to the USA. U Lwin was put under de facto house arrest on 22 September 2000 and released on 1 December 2000.[ Member of CRPP, Chairperson of Committee for Health and Social Affairs ] U Lwin received 18,189 valid votes or 68 % in the 1990 elections.{ The only original member of the executive committee, who was left after 1990 to help U Aung Shwe in his struggle to keep the NLD intact through the years that threatened its viability as a political party, was U Lwin, the treasurer. U Lwin had joined the Burmese Independence Army as an 18-year-old boy at the outbreak of the war. In August 1943 he was among a batch of Burmese cadets chosen to go to Japan for training at the Rikugun Shikan Gakko (army academy). By the time the young Burmese officers had completed their training in April 1945, the anti-fascist resistance movement had started and U Lwin and his fellow graduates of the military academy remained in Hakone until October 1945, making charcoal which they sold to buy food. U Lwin continued with his career in the army after independence and was sent on training courses to England and West Germany. In 1959 he was sent to Washington as military attache. On his return from the United States he spent some years as deputy commander of Central Command, then commander of South Eastern Command before he was asked to come back to Rangoon to become a deputy minister. As the military government that assumed power in 1962 took on a civilian garb under the Burmese Socialist Programme Party, U Lwin served successively as minister of finance, deputy prime minister and a member of the state council. It was as a member of the state council that he resigned in 1980. U Lwin joined the NLD in 1988 and was appointed treasurer because of his experience in finances and his unquestioned integrity. In 1992, when the NLD was forced to reorganize its executive committee, U Lwin took on the post of secretary, while U Aung Shwe became chairman. He died of natural causes at his home in Yangon's Bahan Township on 7 December 2011. He was subsequently cremated at the Yayway Cemetery."
+}, {
+  "entityIndex" : "21_entity9537",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Crouch_Kinney",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Salem_Pioneer_Cemetery" ]
+  },
+  "words" : [ "Oregon", "became", "-LRB-", "prominent", "Kinney", "American", "March", "Legislature", "settling", "1875", "found", "Robert", "Crouch", "native", "member", "helped", "July", "state", "businessman", "Muscatine", "1813", "milling", "--", "Territorial", "business", "politician", ",", "crossing", ".", "2", "Iowa", "Convention", "Trail", "Constitutional", "4", "Illinois", "served", "-RRB-" ],
+  "adjectives" : [ "prominent", "American" ],
+  "nouns" : [ "Trail", "business", "native", "politician", "member", "state", "settling", "businessman", "milling" ],
+  "text" : "Robert Crouch Kinney (July 4, 1813 – March 2, 1875) was an American businessman and politician in what became the state of Oregon. A native of Illinois, he helped found Muscatine, Iowa, before crossing the Oregon Trail and settling in what became Oregon. In Oregon he was a prominent businessman in the milling business and served in the Oregon Territorial Legislature before being a member of the Oregon Constitutional Convention."
+}, {
+  "entityIndex" : "22_entity9654",
+  "entityUrl" : "http://dbpedia.org/resource/Roberto_Sebastian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Davao_City" ]
+  },
+  "words" : [ "``", "''", "--", "23", "-LRB-", "May", "Secretary", "2012", "official", "Bobot", ",", "former", ".", "Roberto", "2", "Filipino", "Department", "government", "-RRB-", "Agriculture", "July", "Sebastian", "Sison", "1944" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "government", "official" ],
+  "text" : "Roberto \"Bobot\" Sison Sebastian (May 2, 1944 – July 23, 2012) was a Filipino government official and former Secretary of the Department of Agriculture."
+}, {
+  "entityIndex" : "23_entity9921",
+  "entityUrl" : "http://dbpedia.org/resource/R._Colin_Stewart",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Pine Grove Cemetery, Stewiacke East, Nova Scotia" ]
+  },
+  "words" : [ "June", "-LRB-", "25", "Canadian", "electoral", "Pictou", "County", "Stewart", "Party", "1994", "known", "Robert", "1993", "member", "represented", "Assembly", "1978", "--", "Colin", "13", "commonly", "Scotia", "politician", "Colchester", "born", "South", "Nova", "House", ",", ".", "August", "Progressive", "Greenvale", "district", "Conservative", "David", "-RRB-", "1926" ],
+  "adjectives" : [ "Canadian", "electoral" ],
+  "nouns" : [ "politician", "district", "member" ],
+  "text" : "Robert Colin David Stewart (June 25, 1926 – August 13, 1994), commonly known as Colin Stewart, was a Canadian politician. He represented the electoral district of Colchester South in the Nova Scotia House of Assembly from 1978 to 1993. He was a member of the Nova Scotia Progressive Conservative Party. Stewart was born at Greenvale in Pictou County, Nova Scotia in 1926. He attended Acadia University and Dalhousie University and earned Bachelor of Science and Doctor of Medicine (M.D.) degrees, later practicing as a physician. Stewart is also a former mayor of Stewiacke, Nova Scotia. He was married to Pearl Campbell. He died on August 13, 1994 at the Halifax Infirmary, aged 68."
+}, {
+  "entityIndex" : "24_entity2202",
+  "entityUrl" : "http://dbpedia.org/resource/David_Hill_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Hillsboro_Pioneer_Cemetery" ]
+  },
+  "words" : [ "Oregon", "became", "Hill", "-LRB-", "May", "American", "honor", "United", "county", "Legislature", "led", "pioneer", "legislative", "States", "executive", "later", "1850", "legislator", "Hillsborough", "settler", "--", "Territorial", "renaming", "Government", "made", "1809", "Provisional", ",", "branches", "court", ".", "Hillsboro", "served", "David", "-RRB-", "9", "Columbus", "first", "transaction" ],
+  "adjectives" : [ "American", "first", "legislative" ],
+  "nouns" : [ "executive", "renaming", "legislator", "honor", "settler", "county", "pioneer", "court", "transaction" ],
+  "text" : "David Hill (1809 – May 9, 1850), was an American pioneer and settler of what became Hillsboro, Oregon, United States. He served in the Provisional Government of Oregon in both the executive and legislative branches, and later as a legislator in the first Oregon Territorial Legislature. Hill made a transaction with the county court in 1850 that led to the renaming of Columbus to Hillsborough in honor of Hill."
+}, {
+  "entityIndex" : "25_entity2296",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_H._Lownsdale",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Salem_Pioneer_Cemetery" ]
+  },
+  "words" : [ "Oregon", "sometime", "named", "-LRB-", "Portland", "Coming", "tannery", "mid-19th", "United", "Legislature", "founders", "States", "current", "west", "member", "near", "Tanner", "Lownsdale", "--", "established", "Providence", "one", "Kentucky", "downtown", "Provisional", "Daniel", ",", ".", "Park", "site", "century", "1862", "served", "-RRB-", "Creek", "flowed", "location", "1803", "first", "1846", "1845" ],
+  "adjectives" : [ "current", "mid-19th", "first" ],
+  "nouns" : [ "site", "century", "tannery", "west", "member", "location", "downtown" ],
+  "text" : "Daniel Lownsdale (1803–1862) was one of the founders of Portland, Oregon, United States. Coming from Kentucky sometime before 1845, Lownsdale established the first tannery near the current location of Providence Park just west of downtown. Tanner Creek, which flowed by the site in the mid-19th century, was named after the tannery. Lownsdale served as a member of the Provisional Legislature of Oregon in 1846. Lownsdale purchased the land that would become downtown Portland on September 22, 1848. He resurveyed Portland, keeping the small blocks (200 feet per side, 64 feet streets), and adding the contiguous park blocks. He became involved in a land dispute involving the authority of the laws from the Provisional Government with Josiah Lamberson Parrish. Lownsdale would defend the matter in court in a case that would make its way through the Oregon Supreme Court and to the United States Supreme Court in Lownsdale v. Parrish, 62 U.S. 290 (1858). Lownsdale is buried in the Salem Pioneer Cemetery."
+}, {
+  "entityIndex" : "26_entity4332",
+  "entityUrl" : "http://dbpedia.org/resource/Hans_Broten",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Saskatoon, Saskatchewan", "Hillcrest Memorial Gardens" ]
+  },
+  "words" : [ "-LRB-", "Adolf", "Canadian", "electoral", "October", "Commonwealth", "1992", "Federation", "member", "1916", "represented", "Assembly", "--", "12", "Broten", "grandson", "Cooperative", "politician", "19", "Saskatchewan", ",", ".", "Cam", "August", "1960", "district", "-RRB-", "Watrous", "Legislative", "Hans", "1967" ],
+  "adjectives" : [ "Canadian", "electoral", "Legislative" ],
+  "nouns" : [ "grandson", "politician", "district", "member", "Assembly" ],
+  "text" : "Hans Adolf Broten (August 12, 1916 – October 19, 1992) was a Canadian politician, who represented the electoral district of Watrous in the Legislative Assembly of Saskatchewan from 1960 to 1967. He was a member of the Cooperative Commonwealth Federation. His grandson is Cam Broten."
+}, {
+  "entityIndex" : "27_entity4414",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_V._Gates",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Hillsboro_Pioneer_Cemetery" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "projects", "American", "Republican", "Central", "Representatives", "settling", "October", "worked", "later", "Party", "native", "Ranch", "Massachusetts", "member", "River", "term", "July", "state", "lived", "30", "1935", "Rice", "--", "Crooked", "13", "historic", "Harry", "politician", "House", ",", "engineer", "water", ".", "former", "home", "single", "ranch", "Iowa", "Hillsboro", "served", "-RRB-", "Verner", "1847", "shifted", "Gates", "railroads" ],
+  "adjectives" : [ "single", "historic", "American", "former" ],
+  "nouns" : [ "ranch", "native", "politician", "member", "term", "state", "engineer", "water", "home" ],
+  "text" : "Harry Verner Gates (July 30, 1847 – October 13, 1935) was an American engineer and politician in the state of Oregon. A native of Massachusetts, he later lived in Iowa worked on the railroads before settling in Hillsboro, Oregon, where he shifted to water projects. A member of the Republican Party, he served a single term in the Oregon House of Representatives. His former home in Hillsboro is the historic Rice–Gates House, and his former ranch in Central Oregon is now the Crooked River Ranch."
+}, {
+  "entityIndex" : "28_entity4622",
+  "entityUrl" : "http://dbpedia.org/resource/Hugh_B._Lindsay",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Old_Gray_Cemetery", "Knoxville, Tennessee" ]
+  },
+  "words" : [ "1920s", "United", "Republican", "losing", "States", "1899", "National", "1894", "Tyson", "1893", "create", "helped", "July", "judge", "Albert", "1856", "--", "Chancery", "jurist", "Smoky", "Senator", "preserve", "Barton", ",", "'s", "Roberts", ".", "Park", "appointed", "Governor", "3", "attorney", "-RRB-", "Eastern", "Lindsay", "region", "Attorney", "District", "21", "1944", "become", "1910s", "-LRB-", "American", "Tennessee", "industry", "serving", "Mountains", "1918", "nominee", "November", "established", "H.", "politician", "Lawrence", "also", "launch", "Hugh", "Great", "Second", "well", "1924", "ALCOA", "movement", "1889" ],
+  "adjectives" : [ "Great", "American", "Second", "Republican" ],
+  "nouns" : [ "Governor", "jurist", "attorney", "politician", "nominee", "industry", "judge", "region", "movement" ],
+  "text" : "Hugh Barton Lindsay (November 3, 1856 – July 21, 1944) was an American attorney, jurist and politician in Tennessee, who was appointed as United States Attorney for the Eastern District, serving from 1889 to 1893, and judge of Tennessee's Second Chancery District from 1894 to 1899. He was the Republican nominee for Governor of Tennessee in 1918, losing to Albert H. Roberts, as well as the Republican nominee for United States Senator in 1924, losing to Lawrence Tyson. As an attorney, Lindsay helped ALCOA become established as an industry in the region in the 1910s. He also helped launch the movement in the 1920s to create and preserve Great Smoky Mountains National Park."
+}, {
+  "entityIndex" : "29_entity10708",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_R._Rodgers",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Old_Gray_Cemetery", "Knoxville, Tennessee" ]
+  },
+  "words" : [ "passage", "several", "Samuel", "Amendment", "1853", "1850", "July", "judge", "state", "Rodgers", "January", "Constitution", "--", "14", "months", "including", "loyal", "remained", ",", "'s", "chaired", ".", "1866", "important", "1865", "Senate", "Civil", "Thirteenth", "University", "attorney", "senate", "Prior", "served", "following", "-RRB-", "College", "Eastern", "Attorney", "District", "East", "-LRB-", "American", "Tennessee", "War", "Union", "pieces", "1798", "U.S.", "government", "forerunner", "Ramsey", "Speaker", "legislation", "convention", "oversaw", "reorganized", "ratification", "politician", "war", "taught" ],
+  "adjectives" : [ "important", "Civil", "American", "loyal", "several" ],
+  "nouns" : [ "convention", "passage", "ratification", "politician", "War", "war", "government", "attorney", "senate", "judge", "state", "forerunner", "legislation" ],
+  "text" : "Samuel Ramsey Rodgers (1798 – July 14, 1866) was an American attorney, judge and politician, who served as Speaker of the Tennessee Senate during the months following the Civil War. He oversaw the passage of several important pieces of legislation in the senate, including the state's ratification of the Thirteenth Amendment to the U.S. Constitution. Rodgers remained loyal to the Union during the war, and chaired the convention that reorganized the state government in January 1865. Prior to the war, Rodgers served as U.S. Attorney for Tennessee's Eastern District (1850–1853), and taught at East Tennessee College (the forerunner of the University of Tennessee)."
+}, {
+  "entityIndex" : "30_entity7432",
+  "entityUrl" : "http://dbpedia.org/resource/Mike_Woodin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Wolvercote Cemetery, Oxford" ]
+  },
+  "words" : [ "Balliol", "Psychology", "Wales", "England", "years", "Michael", "July", "--", "Victoria", "Wolfson", ",", "Caroline", ".", "Lambert", "University", "6", "-RRB-", "College", "9", "MEP", "-LRB-", "city", "Wright", "Edward", "eight", "1998", "Margaret", "School", "Party", "1994", "2004", "firstly", "councillor", "Oxford", "November", "Speaker", "six", "alongside", "election", "Lucas", "Jean", "Grammar", "Lecturer", "1965", "educated", "Gravesend", "Woodin", "Manchester", "lastly", "Principal", "Green" ],
+  "adjectives" : [ ],
+  "nouns" : [ "election", "city", "MEP", "councillor", "Principal" ],
+  "text" : "Michael Edward Woodin (6 November 1965 – 9 July 2004) was the Principal Speaker of the Green Party of England and Wales and a city councillor for Oxford from 1994 to 2004. He was Principal Speaker for six of the eight years between 1998 and 2004, firstly alongside Jean Lambert before her election as an MEP, then alongside Margaret Wright, and lastly with Caroline Lucas MEP. He was educated at Gravesend Grammar School, Victoria University of Manchester, and Wolfson College, Oxford. He was Lecturer in Psychology at Balliol College. Woodin was one of the first Green Party city councillors elected in England and was Leader of the Green Party Group on Oxford City Council. He stood for the Green party in Oxford West and Abingdon in the 1992, 1997, and 2001 general elections. He was listed as Green Party's second candidate in South East England for the European Parliament elections in 1999 and 2004 after Caroline Lucas. Woodin and Lucas co-authored the book Green Alternatives to Globalisation: A Manifesto, and a booklet against the single currency Euro: The Euro or a Sustainable Future for Britain?. Woodin died in 2004 of secondary cancer of the lungs, despite being a lifelong non-smoker and keen observant of healthy living. At his funeral, his coffin was towed by bicycle through the streets of Oxford, in accordance with his wishes for the event to be car-free. His early death was considered a tragedy for the resurgent Green movement in the United Kingdom."
+}, {
+  "entityIndex" : "31_entity7696",
+  "entityUrl" : "http://dbpedia.org/resource/Mather_Byles_DesBrisay",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Bridgewater,_Nova_Scotia" ]
+  },
+  "words" : [ "de", "Dublin", "John", "Cour", "descendant", "Théophile", "great-great-grandson", "Prince", "1851", "collections", "Byles", "judge", "Trained", "--", "admitted", "law", "Dartmouth", "settled", "Mather", "19", "1671", ",", "Captain", "'s", "whose", "Island", "April", "Province", ".", "Chester", "Canada", "8", "-RRB-", "Museum", "1828", "1900", "religious", "-LRB-", "Canadian", "March", "fled", "DesBrisay", "emigrating", "St.", "Edward", "Ireland", "Huguenot", "France", "lawyer", "Thomas", "persecution", "Scotia", "politician", "born", "historian", "Nova", "Bridgewater", "Halifax", "Lieutenant-Governor", "educated", "Bar", "form", "la", "1761", "family" ],
+  "adjectives" : [ "religious", "Canadian" ],
+  "nouns" : [ "great-great-grandson", "persecution", "Bar", "law", "politician", "historian", "judge", "descendant", "family", "Island", "lawyer" ],
+  "text" : "Mather Byles DesBrisay (March 19, 1828 – April 8, 1900) was a Canadian lawyer, judge, politician, and historian in the Province of Nova Scotia whose collections form the DesBrisay Museum in Bridgewater, Nova Scotia. A descendant of Captain Théophile de la Cour DesBrisay (1671–1761) whose Huguenot family fled religious persecution in France and settled in Dublin, Ireland before emigrating to Canada, Mather Byles DesBrisay was the great-great-grandson of Thomas DesBrisay, a Lieutenant-Governor of St. John's Island (now Prince Edward Island). He was born in Chester, Nova Scotia and was educated in Halifax and Dartmouth. Trained in law, in 1851 Mather DesBrisay was admitted to the Bar of Nova Scotia. He eventually set up a law practice in his native Chester but in 1865 made Bridgewater his home. In 1867, DesBrisay entered provincial politics as part of the anti Confederation movement and in the Nova Scotia general election was voted to the Nova Scotia House of Assembly. Reelected in 1874, the following year he was named Speaker of the House of Assembly of Nova Scotia. After 1875 DesBrisay was out of politics and in 1876 he married Ada Adams Harley. Mather DesBrisay served as a County Court judge for Lunenburg, Shelburne and Queens counties until 1897. An avid historian, in 1870 he published his book titled \"History of the County of Lunenburg.\" It marked what became a major pursuit of documentation that saw a revised edition of his book published in 1895. Following his death in 1900, the town of Bridgewater acquired his vast collection of papers and artifacts and established the DesBrisay Museum as a public community history museum. Mather and Ada DesBrisay are buried together in the Brookside Cemetery in Bridgewater."
+}, {
+  "entityIndex" : "32_entity7965",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_Costello_(Oklahoma_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Edmond,_Oklahoma", "Lockridge Cemetery" ]
+  },
+  "words" : [ "23", "-LRB-", "Costello", "Oklahoma", "fought", "regulatory", "several", "Mark", "2011", "Republican", "non-profit", "2010", "office", "Labor", "employee", "incumbent", "companies", "public", "attacks", "advocacy", "federal", "businessman", "November", "10", "1955", "group", "--", "established", "unions", "election", "Democratic", "founded", "Commissioner", "positions", "technology", ",", ".", "August", "elected", "Fields", "2015", "farms", "-RRB-", "oppose", "defeating", "Lloyd", "family", "taking" ],
+  "adjectives" : [ "public", "Democratic", "regulatory", "several", "federal", "non-profit", "incumbent" ],
+  "nouns" : [ "election", "advocacy", "technology", "office", "employee", "family", "businessman", "group" ],
+  "text" : "Mark Costello (November 10, 1955 – August 23, 2015) was the Commissioner of Labor of Oklahoma from 2011 to 2015. A Republican, he was elected in 2010, defeating the Democratic incumbent, Lloyd Fields. Before his election he was a businessman who founded several technology companies. After taking office, he established a non-profit advocacy group to oppose the positions of public employee unions, and fought federal regulatory attacks on family farms."
+}, {
+  "entityIndex" : "33_entity8084",
+  "entityUrl" : "http://dbpedia.org/resource/Montford_McGehee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Oakwood Cemetery" ]
+  },
+  "words" : [ "--", "-LRB-", "politician", "March", "Carolina", "Commissioner", ",", ".", "second", "1822", "December", "McGehee", "4", "1895", "Montford", "served", "-RRB-", "farmer", "General", "North", "Agriculture", "31", "Assembly" ],
+  "adjectives" : [ "second" ],
+  "nouns" : [ "politician", "farmer" ],
+  "text" : "Montford McGehee (December 4, 1822 – March 31, 1895) was a North Carolina politician and farmer who served in the North Carolina General Assembly, and as the second North Carolina Commissioner of Agriculture."
+}, {
+  "entityIndex" : "34_entity8098",
+  "entityUrl" : "http://dbpedia.org/resource/Morton_M._McCarver",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Tacoma Cemetery" ]
+  },
+  "words" : [ "``", "Oregon", "McCarver", "Wars", "-LRB-", "American", "fought", "Legislature", "pioneer", "body", "Rogue", "Washington", "1875", "found", "government", "Morton", "native", "River", "helped", "January", "early", "''", "--", "14", "including", "cities", "17", "West", "politician", "Kentucky", "also", "Provisional", "California", ",", "April", ".", "Iowa", "involved", "served", "speaker", "Matthew", "-RRB-", "General", "1807", "first" ],
+  "adjectives" : [ "American", "early", "first" ],
+  "nouns" : [ "government", "native", "politician", "speaker", "pioneer", "body" ],
+  "text" : "\"General\" Morton Matthew McCarver (January 14, 1807 – April 17, 1875) was an American politician and pioneer in the West. A native of Kentucky, he helped found cities in Iowa, Oregon, and Washington while also involved in the early government of California. He served in the Provisional Legislature of Oregon, including as the first speaker of that body, and also fought in the Rogue River Wars."
+}, {
+  "entityIndex" : "35_entity3177",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Cope",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Mountain_View_Cemetery_(Vancouver)" ]
+  },
+  "words" : [ "Mayor", "defeated", "England", "John", "goods", "contested", "tailoring", "1897", "later", "1893", "1892", "majority", "July", "moving", "--", "11", "Cope", "Frederick", "19", "dry", "history", ",", "'s", ".", "Canada", "Columbia", "1860", "-RRB-", "9", "Building", "Vancouver", "-LRB-", "September", "city", "operated", "serving", "Association", "mayoral", "Oxford", "vote", "Thomas", "British", "election", "business", "winning", "born", "one", "millinery", "Carroll", "third", "hotly", "grocery", "president", "closest" ],
+  "adjectives" : [ "British", "third", "mayoral", "dry" ],
+  "nouns" : [ "election", "business", "city", "grocery", "majority", "history", "millinery", "vote", "president" ],
+  "text" : "Frederick Cope (July 9, 1860 – September 19, 1897) was the third Mayor of Vancouver, British Columbia, Canada, serving from 1892 to 1893. Cope was born in Oxford, England in 1860. After moving to Canada, and later British Columbia, he was president of the British Columbia Building Association and operated a dry goods, millinery, tailoring and grocery business. Cope defeated John Thomas Carroll in the 1892 mayoral election, one of the most hotly contested and closest in the city's history, winning with an 11 vote majority. He is the youngest elected mayor in the history of Vancouver, having been aged 32 at the time of his election. During the election, he garnered support of the city's business class, and the Vancouver World newspaper. His council however would consist of \"reformers\" of the working class, in opposition to Cope's representation of the business class. During his mayoralty, the city experienced an economic downturn; Cope responded by attempting to limit civic expenses, including the laying off of city employees, and initiating cutbacks. He also advocated for the Canada-Australia Steam Line, with the inaugural ship arriving in June 1893. Cope was a Freemason. He drowned during the Klondike Gold Rush in 1897 at Summit Lake, Yukon, when his horse fell while crossing the body of water. He tried unsuccessfully to rescue the horse and was pulled away by the undercurrents. His body was later transported back to Vancouver in the same vessel along with notorious American con artist Soapy Smith which resulted in a mixup of the bodies at their respective funerals. They were later switched upon the realization of the error. He was later buried at Mountain View Cemetery in Vancouver."
+}, {
+  "entityIndex" : "36_entity3178",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Buscombe",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/Mountain_View_Cemetery_(Vancouver)" ]
+  },
+  "words" : [ "Mayor", "Vancouver", "Cornwall", "-LRB-", "11th", "September", "Edwin", "England", "Buscombe", "President", "Trade", "Board", "1938", "July", "--", "Frederick", "British", "Oliver", "born", "merchant", ",", ".", "Bodmin", "Canada", "Grilles", "2", "Columbia", "1862", "glassware", "china", "served", "-RRB-", "1906", "1905", "Isabella", "21", "1900" ],
+  "adjectives" : [ "11th" ],
+  "nouns" : [ "President", "glassware", "china", "merchant", "Buscombe" ],
+  "text" : "Frederick Buscombe (September 2, 1862 – July 21, 1938), was the 11th Mayor of Vancouver, British Columbia, Canada. He served from 1905 to 1906. A glassware and china merchant, he was a President of the Vancouver Board of Trade in 1900. Buscombe was born in 1862 at Bodmin, Cornwall, England, to Edwin and Isabella Oliver Grilles Buscombe. He immigrated to Canada with his family in 1870, settling near Hamilton, Ontario, where his father became a builder. He first worked in Hamilton from 1878 to James A. Skinner & Company, a glassware and china company, as a travelling salesman from 1878 to 1891. In 1891, his job with the company brought him west to Vancouver, where he established an office with his brother, George. Prior to 1891, he visited the Vancouver area twice, in 1884 and 1886. He served as a partner of the company in Vancouver until 1899, when he bought out the company, and established Frederick Buscombe & Co. Ltd. china, glassware and earthenware with his brother, which grew to be one of the largest businesses of the kind in the Canadian West. He was also president of the Pacific Coast Lumber & Sawmills Company, and director of the Pacific Marine Insurance Company. In 1899, he commissioned the Buscombe Building, located at 342 Water Street & 403 West Cordova Street, in Gastown, Vancouver, which is now the site of a restaurant and various businesses. Buscombe was elected Mayor of Vancouver in 1905. During the election, he advocated for improved financial management within the municipal affairs, earning support from three newspapers, and many businessmen. He served two terms, until 1906. During his mayoralty, he helped develop the Greater Vancouver Water Board. The city council also passed a motion to request suspension of immigration of East Indians to Vancouver due to public discontent of immigrants working in the growing amount construction jobs. Buscombe served as president of Vancouver's Board of Trade from 1900 to 1901, and as president of the Vancouver Tourist Association in 1901. A Mason, he was also a member of the Vancouver Club, Royal Vancouver Yacht Club, Terminal City Club, Jericho Country Club, and the Sons of England Society. He died at Vancouver 1938 and was buried at Mountain View Cemetery. At the time of his death, he was married to Cora Elsie Bird. He married Lydia Rebecca Mattice on May 6, 1886, with her he had five children: Robert Frederick Edwin, Harold Edwin, Erie Stewart, Margery Gordon, and Barnett. He lived in Dundurn, Vancouver. A member of the Church of England, he enjoyed yachting, fishing and golf."
+}, {
+  "entityIndex" : "37_entity3534",
+  "entityUrl" : "http://dbpedia.org/resource/Gabriel_Johnston",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "http://dbpedia.org/resource/St._Paul's_Episcopal_Church_and_Churchyard" ]
+  },
+  "words" : [ "--", "-LRB-", "longest", "17", "18", "Carolina", "office", ",", "Johnston", "1734-1752", ".", "years", "serving", "Governor", "holding", "1699", "1752", "-RRB-", "North", "July", "governor", "Gabriel" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Governor", "governor", "office" ],
+  "text" : "Gabriel Johnston (1699 – July 17, 1752) was the Governor of North Carolina. He was the longest serving governor, holding the office for 18 years (1734-1752)."
+}, {
+  "entityIndex" : "38_entity736",
+  "entityUrl" : "http://dbpedia.org/resource/Allmand_A._McKoy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Clinton Cemetery" ]
+  },
+  "words" : [ "11", "11,1885", "Alexander", "-LRB-", "officer", "Democratic", "politician", "Carolina", ",", "Allmand", ".", "Superior", "Court", "1825-November", "October", "Senate", "McKoy", "served", "-RRB-", "North", "military", "lawyer", "party", "Judge" ],
+  "adjectives" : [ "Democratic", "military" ],
+  "nouns" : [ "officer", "politician", "lawyer", "party" ],
+  "text" : "Allmand Alexander McKoy (October 11, 1825-November 11,1885) was a North Carolina lawyer, military officer and Democratic party politician who served in the North Carolina Senate and as a Judge of the Superior Court of North Carolina."
+}, {
+  "entityIndex" : "39_entity821",
+  "entityUrl" : "http://dbpedia.org/resource/As'ad_Madani",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingPlace" : [ "Mazar-e-Qasmi , Deoband, Uttar Pradesh, India" ]
+  },
+  "words" : [ "-LRB-", "prominent", "Majlis-e-Shura", "27", "Madani", "Deobandi", "body", "سید", "President", "executive", "2006", "AD-February", "Uloom", "member", "Sayyed", "Ulema-e-Hind", "`", "Darul", "ad", "AD", "Urdu", "اسعد", "مدنے", "politician", "Deoband", "Islamic", ",", "scholar", "April", ".", "6", "Jamiat", "-RRB-", "1928", "Indian", ":" ],
+  "adjectives" : [ "prominent", "AD-February", "Indian" ],
+  "nouns" : [ "executive", "ad", "AD", "Majlis-e-Shura", "مدنے", "politician", "member", "scholar", "body" ],
+  "text" : "Sayyed As'ad Madani (April 27, 1928 AD-February 6, 2006 AD) (Urdu: سید اسعد مدنے ) was an Indian Deobandi Islamic scholar and politician. He was the President of Jamiat Ulema-e-Hind and a prominent member of executive body (Majlis-e-Shura) of Darul Uloom Deoband."
+} ]

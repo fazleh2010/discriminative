@@ -1,0 +1,34 @@
+[ {
+  "entityIndex" : "1_entity4415",
+  "entityUrl" : "http://dbpedia.org/resource/Heera_Saraniya",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:imageCaption" : [ "Naba Kumar Saraniya" ]
+  },
+  "words" : [ "709", "Kumar", "-LRB-", "Assam", "independent", "নৱ", "polls", "parliament", "battalion", "কুমাৰ", "Sabha", "candidate", "commander", "শৰণীয়া", "won", "alias", "Member", "Candidate", "margin", "হীৰা", "politician", "representing", "Lok", "Assamese", "history", ",", "recorded", "elections", "Earlier", ".", "Saraniya", "Heera", "ever", "Independent", "currently", "constituency", "highest", "ULFA", "Naba", "2014", "-RRB-", "Indian", ":", "Kokrajhar" ],
+  "adjectives" : [ "Independent", "independent", "Indian" ],
+  "nouns" : [ "Candidate", "margin", "candidate", "commander", "constituency", "শৰণীয়া", "politician", "history", "parliament", "battalion" ],
+  "text" : "Naba Kumar Saraniya (Assamese: নৱ কুমাৰ শৰণীয়া) alias Heera Saraniya (Assamese: হীৰা শৰণীয়া) is an Indian politician who is currently a Member of parliament, Lok Sabha. He is representing the Kokrajhar constituency in Assam from 2014 and won as an Independent Candidate in Lok Sabha elections 2014. He won by the highest margin ever recorded in polls in Assam and as an independent candidate in the history of Lok Sabha elections. Earlier Saraniya was the commander of the 709 battalion of ULFA. He was said to be one of the most dreaded militants in Assam. He hails from Dighalipaar village under Tamulpur police station in Baksa district of Assam. He joined the outfit in 1990."
+}, {
+  "entityIndex" : "2_entity10181",
+  "entityUrl" : "http://dbpedia.org/resource/Solomon_G._Seisay",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:imageCaption" : [ "rank" ]
+  },
+  "words" : [ "became", "-LRB-", "nation", "Sierra", "Prisons", "1996", "servant", "George", "National", "indigenous", "civil", "Solomon", "Leonean", "February", "--", "made", "born", "Director", "history", "'s", ".", "Seisay", "-RRB-", "1926", "first" ],
+  "adjectives" : [ "indigenous", "civil", "first" ],
+  "nouns" : [ "servant", "nation", "history" ],
+  "text" : "Solomon George Seisay (born February 1926 – 1996) was a Sierra Leonean civil servant who made history when he became the nation's first indigenous National Director of Prisons."
+}, {
+  "entityIndex" : "3_entity3649",
+  "entityUrl" : "http://dbpedia.org/resource/Gary_Dunion",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:imageCaption" : [ "Gary Dunion speaking at a Scottish Parliament event, May 2013." ]
+  },
+  "words" : [ "Wales", "England", "World", "blog", "Bright", "worked", "son", "Development", "July", "based", "development", "read", "Urquhart", "15", "going", "Dunion", "Portobello", "Dundee", ",", "Co-founder", ".", "Kevin", "University", "1980", "served", "-RRB-", "campaign", "Press", "-LRB-", "Fund", "Chief", "sustainable", "Scotland", "Information", "St.", "Scottish", "School", "Party", "previously", "Edinburgh", "Wide", "Gary", "High", "Nature", "Movement", "Andrews", "born", "politician", "assistant", "Commissioner", "MSP", "Jean", "educated", "Independent", "progressive", "Editor", "Green", "Officer" ],
+  "adjectives" : [ "Scottish", "sustainable", "progressive" ],
+  "nouns" : [ "development", "son", "Fund", "politician", "assistant", "campaign", "Wide", "blog", "Co-founder" ],
+  "text" : "Gary Dunion (born 15 July 1980 in Dundee, Scotland) is a Scottish Green Party and Green Party of England and Wales politician based in Edinburgh. He is the son of Kevin Dunion, the Scottish Information Commissioner and was educated at Portobello High School, going on to read sustainable development at the University of St. Andrews. Dunion has previously worked as a campaign assistant for the World Development Movement Scotland, World Wide Fund for Nature in Scotland, as Chief Press Officer for the Green Party of England and Wales, and for Independent MSP Jean Urquhart. He served as Co-founder and Editor of the progressive blog Bright Green. He was second on the Scottish Green Party list for the Central Scotland region in the 2007 Scottish Parliament elections and forth on the list in for the 2016 Scottish Parliament elections."
+} ]

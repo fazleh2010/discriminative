@@ -210,7 +210,7 @@ public class Calculation implements TextAnalyzer {
         else if (flag == WordResult.PROBABILITY_WORD_GIVEN_OBJECT) {
             Double probability_word_object = (KB_WORD_FOUND) / (KB_FOUND);
             //pair = new Pair<Triple, Double>(probability_word_object_str, probability_word_object);
-            triple=new Triple(probability_object_word_str,probability_word_object,KB_WORD_FOUND,KB_FOUND) ;
+            triple=new Triple(probability_word_object_str,probability_word_object,KB_WORD_FOUND,KB_FOUND) ;
         } 
         
         return triple;

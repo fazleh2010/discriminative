@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity10695",
+  "entityUrl" : "http://dbpedia.org/resource/Sardar_Majid_Rashid",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:2blankname" : [ "Vice-Chairman" ]
+  },
+  "words" : [ "Kashmiri", "prominent", "Pti", "Rashid", "Khan", "cell", "industrialist", "2009", "evaluation", "Bsc", "central", "Microsoft", "Member", "Mary", "profession", "Queen", "politician", "degree", "Certified", "received", "also", ",", "Imran", ".", "entrepreneur", "Chairman", "University", "Professional", "served", "London", "Majid", "Sardar" ],
+  "adjectives" : [ "prominent", "central", "Certified" ],
+  "nouns" : [ "profession", "evaluation", "Bsc", "politician", "degree", "cell", "industrialist", "entrepreneur" ],
+  "text" : "Sardar Majid Rashid is a prominent Kashmiri politician, industrialist. An entrepreneur by profession, Sardar Majid Rashid received his Bsc degree from Queen Mary University of London in 2009. He is also a Microsoft Certified Professional. He also served as the Member central evaluation cell Imran Khan Chairman Pti. He has served as a lecturer, as a banker and as an entrepreneur during his career and has chaired as CEO Aziz Media Group, which is currently worth 100 million dollars. Sardar Majid Rashid was first ticket holder of Pti and candidate for legislative assembly Azad Kashmir from LA22 Bloach. He is strong supporter of independent Kashmir."
+} ]

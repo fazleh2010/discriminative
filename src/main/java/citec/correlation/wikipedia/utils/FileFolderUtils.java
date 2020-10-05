@@ -244,7 +244,10 @@ public class FileFolderUtils {
                     String line = rule + "=" + String.valueOf(value) + "  ";
                     probabilty += line;
                 }
-                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+"Lift="+wordResults.getLift()+"\n";
+                String lift="Lift="+wordResults.getLift();
+                //temporarily lift value made null, since we are not sure about the Lift calculation
+                lift="";
+                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+lift+"\n";
                 wordSum += wordline;
             }
             entityLine = entityLine + wordSum + "\n";

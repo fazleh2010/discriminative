@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity1699",
+  "entityUrl" : "http://dbpedia.org/resource/Christopher_Oluwole_Rotimi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:lieutenant" : [ "Null" ]
+  },
+  "words" : [ "became", "-LRB-", "officer", "United", "War", "rule", "Ambassador", "eventually", "Nigerian", "Western", "States", "Rotimi", "1975", "2007", "1971", "rank", "retired", "military", "Nigeria", "February", "1935", "Christopher", "Army", "born", "Brigadier", "politician", "Oluwole", ",", "distinguished", "-", ".", "Governor", "Civil", "State", "served", "-RRB-", "General", "diplomat", "rose", "20" ],
+  "adjectives" : [ "retired", "military", "Nigerian", "distinguished" ],
+  "nouns" : [ "Governor", "officer", "politician", "rank", "rule", "diplomat" ],
+  "text" : "Christopher Oluwole Rotimi (born February 20, 1935) is a retired Nigerian Army Brigadier General, diplomat and politician. A distinguished officer, he eventually rose to the rank of Brigadier General. He served during the Nigerian Civil War, and was the Governor of Western State while Nigeria was under military rule from 1971 - 1975. Oluwole Rotimi became the Nigerian Ambassador to the United States in 2007."
+} ]

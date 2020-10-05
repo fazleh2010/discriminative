@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity6521",
+  "entityUrl" : "http://dbpedia.org/resource/John_Block_(South_African_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:subjectName" : [ "John Block" ]
+  },
+  "words" : [ "Congress", "-LRB-", "John", "Council", "Court", "Tourism", "found", "National", "laundering", "Fikile", "Northern", "Development", "February", "Member", "10", "High", "Executive", "Government", "Finance", "born", "Provincial", "Africa", "South", "MEC", "Cape", ",", "Province", ".", "Chairman", "African", "Economic", "guilty", "money", "2015", "fraud", "-RRB-", "Block", "1968", "corruption" ],
+  "adjectives" : [ "guilty", "Northern" ],
+  "nouns" : [ "money", "laundering", "fraud", "corruption" ],
+  "text" : "John Fikile Block (born 10 February 1968) was the Provincial Chairman of the African National Congress in the Northern Cape Province, South Africa, and was a Member of the Executive Council (MEC) for Finance, Economic Development and Tourism in the Northern Cape Provincial Government. Block was found guilty of fraud, corruption and money laundering by the Northern Cape High Court in 2015."
+}, {
+  "entityIndex" : "2_entity8262",
+  "entityUrl" : "http://dbpedia.org/resource/Marius_Fransman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:subjectName" : [ "Marius Llewellyn Fransman" ]
+  },
+  "words" : [ "voters", "DA-led", "several", "Western", "National", "distributing", "fire", "controversial", "potential", "cash", "Llewellyn", "promising", "canvassing", "large", "16", "come", ",", "harassment", ".", "appointed", "ANC", "served", "Marius", "occasions", "sums", "sexual", "parcels", "Congress", "Fransman", "September", "Leader", "methods", "2011", "2010", "respectively", "general", "February", "included", "November", "election", "politician", "South", "accused", "Coloured", "Cape", "food", "African", "Chairman", "2016", "2014" ],
+  "adjectives" : [ "Western", "general", "large", "South", "several", "controversial", "Coloured", "potential", "sexual", "African", "promising" ],
+  "nouns" : [ "canvassing", "election", "politician", "fire", "cash", "harassment", "food" ],
+  "text" : "Marius Llewellyn Fransman is a South African politician who served as the Chairman of the African National Congress in the Western Cape, until 16 September 2016. He was appointed in February 2011 and November 2010, respectively. As Leader of the ANC in the DA-led Western Cape, Fransman has come under fire on several occasions for his controversial canvassing methods, which have included distributing food parcels to potential voters and promising large sums of cash to Coloured voters before the 2014 general election. In 2016 Fransman was accused of sexual harassment. Fransman is alleged to have sexually assaulted his personal assistant while en route to the ANC’s 104th birthday celebrations in Rustenburg in January 2016. On 1 February 2016 the African National Congress Secretary General Gwede Mantashe announced that Fransman will be replaced as provincial party leader while the party and the police investigate allegations of sexual harassment against him."
+} ]

@@ -1,0 +1,56 @@
+[ {
+  "entityIndex" : "1_entity5142",
+  "entityUrl" : "http://dbpedia.org/resource/John_Clement_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Also Provincial Secretary for Justice" ]
+  },
+  "words" : [ "June", "24", "-LRB-", "28", "John", "Twining", "Davis", "1975", "Clement", "1971", "Member", "Assembly", "--", "politician", "Provincial", "premier", ",", ".", "August", "Progressive", "Canada", "2014", "served", "Conservative", "-RRB-", "Bill", "1928", "Legislative", "Ontario", "cabinet", "Parliament" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "politician", "premier", "cabinet", "Assembly" ],
+  "text" : "John Twining Clement (August 28, 1928 – June 24, 2014) was a politician in Ontario, Canada. He served in the Legislative Assembly of Ontario as a Progressive Conservative Member of Provincial Parliament from 1971 to 1975 and was in the cabinet of premier Bill Davis."
+}, {
+  "entityIndex" : "2_entity1456",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_MacNaughton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Also Treasury Board chair" ]
+  },
+  "words" : [ "-LRB-", "May", "John", "riding", "governments", "MacNaughton", "Davis", "1973", "central", "member", "represented", "1958", "Assembly", "1911", "November", "--", "Charles", "15", "minister", "politician", "Huron", "Steel", ",", ".", "Robarts", "1987", "Progressive", "Canada", "Conservative", "served", "-RRB-", "Bill", "Legislative", "Ontario", "cabinet", "20" ],
+  "adjectives" : [ "central", "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Charles Steel MacNaughton (May 15, 1911 – November 20, 1987) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1958 to 1973 who represented the central Ontario riding of Huron. He served as a cabinet minister in the governments of John Robarts and Bill Davis."
+}, {
+  "entityIndex" : "3_entity1022",
+  "entityUrl" : "http://dbpedia.org/resource/Brad_Green_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Robichaud was Minister of Health & Wellness" ]
+  },
+  "words" : [ "New", "-LRB-", "Bradley", "Canadian", "29", "Fredericton", "by-election", "1998", "QC", "son", "2003", "1991", "V.", "honours", "judge", "January", "lawyer", "Assembly", "earning", "1999", "Brunswick", "admitted", "law", "studied", "born", "politician", "degree", ",", "former", "Province", ".", "Vernon", "1965", "elected", "Bar", "re-elected", "University", "science", "-RRB-", "Legislative", "Political", "Green", "first" ],
+  "adjectives" : [ "Canadian", "Legislative", "Political", "former", "first" ],
+  "nouns" : [ "son", "law", "politician", "science", "degree", "judge", "by-election", "lawyer", "Assembly" ],
+  "text" : "Bradley V. Green, QC (born January 29, 1965 in Fredericton, New Brunswick) is a Canadian lawyer, judge and a former politician in the Province of New Brunswick. The son of Vernon Green, Green studied at the University of New Brunswick, earning an honours degree in Political science and a law degree. He was admitted to Bar of New Brunswick in 1991. He was first elected to the Legislative Assembly of New Brunswick in a 1998 by-election and was re-elected in 1999 and 2003. He represented the electoral district of Fredericton South and was a member of the cabinet from 1999 to 2006. His career in the New Brunswick Legislative Assembly ended when he lost his seat in 2006 to Liberal MLA, Rick Miles. In May 2008, he was appointed a Judge of the Court of Queen's Bench for the judicial district of Saint John. Green was named to the Court of Appeal of New Brunswick in Fredericton on September 1, 2009. Green married Margaret Gregg."
+}, {
+  "entityIndex" : "4_entity4811",
+  "entityUrl" : "http://dbpedia.org/resource/Indira_Naidoo-Harris",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Responsible for early year education and child care" ]
+  },
+  "words" : [ "Liberal", "Halton", "politician", "riding", "Naidoo-Harris", ",", ".", "elected", "represents", "Canada", "2014", "Indira", "member", "Legislative", "Ontario", "Assembly" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Indira Naidoo-Harris is a politician in Ontario, Canada. She is a Liberal member of the Legislative Assembly of Ontario who was elected in 2014. She represents the riding of Halton."
+}, {
+  "entityIndex" : "5_entity9960",
+  "entityUrl" : "http://dbpedia.org/resource/Shelley_Wark-Martyn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post2note" : [ "Responsible for Health" ]
+  },
+  "words" : [ "New", "-LRB-", "Arthur", "Port", "riding", "Party", "1995", "government", "Bob", "member", "represented", "Shelley", "January", "Assembly", "11", "minister", "Democratic", "born", "politician", "1990", ",", "former", ".", "Canada", "1963", "served", "Rae", "Wark-Martyn", "-RRB-", "Legislative", "Ontario", "cabinet" ],
+  "adjectives" : [ "Legislative", "former" ],
+  "nouns" : [ "government", "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Shelley Wark-Martyn (born January 11, 1963) is a former politician from Ontario, Canada. She was a New Democratic Party member of the Legislative Assembly of Ontario from 1990 to 1995. She represented the riding of Port Arthur. She served as a cabinet minister in the government of Bob Rae. Almost two decades later, she served as president of the Alberta Liberal Party stepping down in order to run in Calgary-Currie as a Liberal candidate in the 2015 provincial election."
+} ]
