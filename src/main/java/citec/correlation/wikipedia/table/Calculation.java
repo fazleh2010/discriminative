@@ -1,4 +1,4 @@
-/*
+ /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -10,6 +10,7 @@ import citec.correlation.wikipedia.utils.FileFolderUtils;
 import citec.correlation.wikipedia.utils.SortUtils;
 import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.wikipedia.element.InterestedWords;
+import citec.correlation.wikipedia.element.Triple;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -69,7 +70,7 @@ public class Calculation implements TextAnalyzer {
             
             if(this.interestedWords.getPropertyInterestedWords().containsKey(classNameAndProperty)) {
                 selectedWords=this.interestedWords.getPropertyInterestedWords().get(classNameAndProperty);
-                System.out.println("selectedWord:"+selectedWords.toString());
+                //System.out.println("selectedWord:"+selectedWords.toString());
             }
             entityCategories = this.getObjectsOfproperties(property, dbpediaEntities);
             /*for(String key:entityCategories.keySet()){
@@ -100,11 +101,11 @@ public class Calculation implements TextAnalyzer {
                    
                     //System.out.println("word:"+word);
                     WordResult result = null;
-                    Pair pairWord = this.countConditionalProbabilities(tableName, dbpediaEntitiesGroup, property, objectOfProperty, word, WordResult.PROBABILITY_WORD_GIVEN_OBJECT);
-                    Pair pairObject = this.countConditionalProbabilities(tableName, dbpediaEntities, property, objectOfProperty, word, WordResult.PROBABILITY_OBJECT_GIVEN_WORD);
+                    Triple pairWord = this.countConditionalProbabilities(tableName, dbpediaEntitiesGroup, property, objectOfProperty, word, WordResult.PROBABILITY_WORD_GIVEN_OBJECT);
+                    Triple pairObject = this.countConditionalProbabilities(tableName, dbpediaEntities, property, objectOfProperty, word, WordResult.PROBABILITY_OBJECT_GIVEN_WORD);
                     if (pairWord != null && pairObject != null) {
-                           Double wordCount=(Double)pairWord.getValue1();
-                           Double objectCount=(Double)pairObject.getValue1();
+                           Double wordCount=(Double)pairWord.getProbability_value();
+                           Double objectCount=(Double)pairObject.getProbability_value();
                           
                            if ((wordCount*objectCount)>0.01&&!(wordCount==0&&objectCount==0)) {
                                 result = new WordResult(pairWord, pairObject,word,partsOfSpeech);
@@ -164,10 +165,10 @@ public class Calculation implements TextAnalyzer {
     }
     
 
-    private Pair<String, Double> countConditionalProbabilities(String tableName, List<DBpediaEntity> dbpediaEntities, String propertyName, String objectOfProperty, String word, Integer flag) throws IOException {
+    private Triple countConditionalProbabilities(String tableName, List<DBpediaEntity> dbpediaEntities, String propertyName, String objectOfProperty, String word, Integer flag) throws IOException {
         Double KB_WORD_FOUND = 0.0, KB_FOUND = 0.0, WORD_FOUND = 0.0;
         Pair<String, Double> pair = null;
-              
+        Triple triple=null;   
 
         for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
             String text = dbpediaEntity.getText();
@@ -202,14 +203,17 @@ public class Calculation implements TextAnalyzer {
         //if (WORD_FOUND > 10) {
         if (flag == WordResult.PROBABILITY_OBJECT_GIVEN_WORD) {
             Double probability_object_word = (KB_WORD_FOUND) / (WORD_FOUND);
-            pair = new Pair<String, Double>(probability_object_word_str, probability_object_word);
+            triple=new Triple(probability_object_word_str,probability_object_word,KB_WORD_FOUND,WORD_FOUND) ;
+            //pair = new Pair<Triple, Double>(probability_object_word_str, probability_object_word);
+            
         }
         else if (flag == WordResult.PROBABILITY_WORD_GIVEN_OBJECT) {
             Double probability_word_object = (KB_WORD_FOUND) / (KB_FOUND);
-            pair = new Pair<String, Double>(probability_word_object_str, probability_word_object);
+            //pair = new Pair<Triple, Double>(probability_word_object_str, probability_word_object);
+            triple=new Triple(probability_object_word_str,probability_word_object,KB_WORD_FOUND,KB_FOUND) ;
         } 
         
-        return pair;
+        return triple;
 
     }
   

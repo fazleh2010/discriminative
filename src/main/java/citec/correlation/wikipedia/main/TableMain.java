@@ -117,17 +117,6 @@ public class TableMain implements PropertyNotation {
             
         }
 
-        
-        //trainingTable.moveDirectory(dbpediaDir+output+entityTable,dataDir+entityTable);
-
-        //tables.display();
-        //tables.readTable();
-        //tables.display();
-        /*String A="http://dbpedia.org/resource/Democratic_Party_(United_States)";
-        String B="democratic";
-        Calculation calculation=new Calculation(outputDir,DBO_PARTY,A,B,tables);
-        System.out.println(calculation);*/
-        
         //MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
     }
 

@@ -1,7 +1,7 @@
 id=29  property=dbp:title  object=http://dbpedia.org/resource/List_of_mayors_of_Norwalk,_Connecticut  NumberOfEntitiesFoundForObject=63
-mayor-NN  multiply=0.0616487455  P(mayor|object)=0.6666666667  P(object|mayor)=0.0924731183  
-term-NN  multiply=0.0488084984  P(term|object)=0.5396825397  P(object|term)=0.0904392765  
-democratic-JJ  multiply=0.0201680672  P(democratic|object)=0.2857142857  P(object|democratic)=0.0705882353  
-republican-JJ  multiply=0.0132766861  P(republican|object)=0.2380952381  P(object|republican)=0.0557620818  
-son-NN  multiply=0.0112178205  P(son|object)=0.4603174603  P(object|son)=0.0243697479  
+mayor-NN  multiply=0.0616487455  P(object|mayor)=0.0924731183    Lift=0.0014336917562724014
+term-NN  multiply=0.0488084984  P(object|term)=0.0904392765    Lift=0.001394528526311472
+democratic-JJ  multiply=0.0201680672  P(object|democratic)=0.0705882353    Lift=0.0011204481792717086
+republican-JJ  multiply=0.0132766861  P(object|republican)=0.0557620818    Lift=8.851124092759781E-4
+son-NN  multiply=0.0112178205  P(object|son)=0.0243697479    Lift=3.8682139522475654E-4
 

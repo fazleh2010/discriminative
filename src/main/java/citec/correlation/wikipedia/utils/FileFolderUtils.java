@@ -225,6 +225,34 @@ public class FileFolderUtils {
 
     }
 
+    public static void writeToTextFile(List<EntityResults> entityResults, String entityDir, String tableName) {
+        String filename = entityDir + "result/" + tableName.replaceAll(".json", "_probability.txt");
+        if (entityResults.isEmpty()) {
+            return;
+        }
+
+        String str = "";
+            
+        for (EntityResults entities : entityResults) {
+            String entityLine = "id=" + entities.getObjectIndex() + "  " + "property=" + entities.getProperty() + "  " + "object=" + entities.getKB() + "  " + "NumberOfEntitiesFoundForObject=" + entities.getNumberOfEntitiesFoundInObject() + "\n";
+            String wordSum = "";
+            for (WordResult wordResults : entities.getDistributions()) {
+                String multiply = "multiply=" + wordResults.getMultiple();
+                String probabilty = "";
+                for (String rule : wordResults.getProbabilities().keySet()) {
+                    Double value = wordResults.getProbabilities().get(rule);
+                    String line = rule + "=" + String.valueOf(value) + "  ";
+                    probabilty += line;
+                }
+                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+"Lift="+wordResults.getLift()+"\n";
+                wordSum += wordline;
+            }
+            entityLine = entityLine + wordSum + "\n";
+            str += entityLine;
+        }
+        stringToFiles(str, filename);
+    }
+
     public void printFileList(String filePath) {
 
         FileInputStream fis = null;
@@ -255,7 +283,7 @@ public class FileFolderUtils {
         mapper.writeValue(Paths.get(filename).toFile(), entityResults);
     }
 
-    public static void writeToTextFile(List<EntityResults> entityResults, String entityDir, String tableName) throws IOException {
+    /*public static void writeToTextFile(List<EntityResults> entityResults, String entityDir, String tableName) throws IOException {
         String filename = entityDir + "result/" + tableName.replaceAll(".json", "_probability.txt");
         if (entityResults.isEmpty()) {
             return;
@@ -282,7 +310,7 @@ public class FileFolderUtils {
         }
         stringToFiles(str, filename);
 
-    }
+    }*/
 
     public static String urlUnicodeToString(String url) throws Exception {
         URI uri = new URI(url);
