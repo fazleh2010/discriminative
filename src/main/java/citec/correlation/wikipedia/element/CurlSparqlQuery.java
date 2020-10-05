@@ -12,6 +12,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
@@ -41,17 +42,18 @@ public class CurlSparqlQuery {
 
 
     public CurlSparqlQuery(String entityUrl, String property) {
+        //entityUrl="http://dbpedia.org/resource/Andy_Lau";
         String sparqlQuery = this.setSparqlQueryProperty(entityUrl);
         
-        if (selectedProperties.contains(property)) {
+        /*if (selectedProperties.contains(property)) {
             selectedProperties.add(property);
             selectedProperties.add(PropertyNotation.dbo_abstract);
-        }
+        }*/
         
         String resultSparql = executeSparqlQuery(sparqlQuery);
         parseResult(resultSparql);
-        /*if(properties.containsKey(PropertyNotation.dbo_abstract)){
-            System.out.println("entityUrl:"+entityUrl);
+        /*if(!properties.containsKey(PropertyNotation.dbo_abstract)){
+            System.out.println("entityUrl:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"+entityUrl);
             System.out.println("properties:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"+properties.get(PropertyNotation.dbo_abstract));
         }*/
     }
@@ -123,10 +125,11 @@ public class CurlSparqlQuery {
             NodeList childList = results.item(i).getChildNodes();
             for (int j = 0; j < childList.getLength(); j++) {
                 Node childNode = childList.item(j);
+                //System.out.println(childNode.toString());
                 if ("result".equals(childNode.getNodeName())) {
                     String string = childList.item(j).getTextContent().trim();
                     String[] infos = string.split("\n");
-                    //List<String> wordList = Arrays.asList(infos);
+                    List<String> wordList = Arrays.asList(infos);
                     /*for(String word:wordList){
                         System.out.println("word:"+word);
                     }*/

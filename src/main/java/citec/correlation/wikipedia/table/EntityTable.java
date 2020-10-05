@@ -8,6 +8,7 @@ package citec.correlation.wikipedia.table;
 import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.wikipedia.element.CurlSparqlQuery;
 import citec.correlation.wikipedia.element.DBpediaProperty;
+import citec.correlation.wikipedia.element.PropertyNotation;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.IOException;
@@ -53,8 +54,12 @@ public class EntityTable {
             //System.out.println("entityIndex:" + dbpediaEntity.getEntityIndex());
             //if (entityString.startsWith("A")||entityString.startsWith("a")) {
                 if (!dbpediaEntity.getProperties().isEmpty()) {
-                    String key = dbpediaEntity.getProperties().keySet().iterator().next();
-                    System.out.println("entity:" + dbpediaEntity.getEntityUrl()+" property:" + key+" count"+index+ " total:"+total);
+                    System.out.println("entity:" + dbpediaEntity.getEntityUrl()+" count"+index+ " total:"+total); 
+                    /*if(dbpediaEntity.getProperties().containsKey(PropertyNotation.dbo_abstract)){
+                       List<String> value=dbpediaEntity.getProperties().get(PropertyNotation.dbo_abstract);
+                      System.out.println("entity:" + dbpediaEntity.getEntityUrl()+" property:" +value+" count"+index+ " total:"+total); 
+                    }*/
+                           
                 }
 
             //}
