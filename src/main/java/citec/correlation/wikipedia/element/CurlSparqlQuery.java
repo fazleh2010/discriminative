@@ -6,6 +6,7 @@
 package citec.correlation.wikipedia.element;
 
 import citec.correlation.wikipedia.utils.FileFolderUtils;
+import citec.correlation.wikipedia.utils.LanguageDetector;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -49,6 +50,10 @@ public class CurlSparqlQuery {
         
         String resultSparql = executeSparqlQuery(sparqlQuery);
         parseResult(resultSparql);
+        /*if(properties.containsKey(PropertyNotation.dbo_abstract)){
+            System.out.println("entityUrl:"+entityUrl);
+            System.out.println("properties:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"+properties.get(PropertyNotation.dbo_abstract));
+        }*/
     }
 
     private String executeSparqlQuery(String query) {
@@ -120,7 +125,6 @@ public class CurlSparqlQuery {
                 Node childNode = childList.item(j);
                 if ("result".equals(childNode.getNodeName())) {
                     String string = childList.item(j).getTextContent().trim();
-                    //System.out.println("string:"+string);
                     String[] infos = string.split("\n");
                     //List<String> wordList = Arrays.asList(infos);
                     /*for(String word:wordList){
@@ -135,6 +139,13 @@ public class CurlSparqlQuery {
                         propertyAttibute = isSelectedProperties(propertyAttibute);
                         if (propertyAttibute != null) {
                             value = infos[1].trim();
+                            if(propertyAttibute.contains(PropertyNotation.dbo_abstract)){
+                               if(!LanguageDetector.isEnglish(value)){
+                                   //properties=new TreeMap<String, List<String>>();
+                                   return;
+                               }
+                               
+                            }
                             List<String> propertyValues = new ArrayList<String>();
                             if (properties.containsKey(propertyAttibute)) {
                                 propertyValues = properties.get(propertyAttibute);
@@ -151,6 +162,7 @@ public class CurlSparqlQuery {
                     //}
                 }
             }
+            
         }
     }
 
@@ -211,4 +223,5 @@ public class CurlSparqlQuery {
         return subject = subject.substring(index + 1);
     }
 
+   
 }

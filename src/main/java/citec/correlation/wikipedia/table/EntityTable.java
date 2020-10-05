@@ -54,7 +54,7 @@ public class EntityTable {
             //if (entityString.startsWith("A")||entityString.startsWith("a")) {
                 if (!dbpediaEntity.getProperties().isEmpty()) {
                     String key = dbpediaEntity.getProperties().keySet().iterator().next();
-                    System.out.println("entity:" + entityString+" property:" + key+" count"+index+ " total"+total);
+                    System.out.println("entity:" + dbpediaEntity.getEntityUrl()+" property:" + key+" count"+index+ " total:"+total);
                 }
 
             //}
@@ -62,9 +62,9 @@ public class EntityTable {
 
             index++;
 
-            if (index >10) {
+           /* if (index >10) {
                 break;
-            }
+            }*/
         }
     }
 

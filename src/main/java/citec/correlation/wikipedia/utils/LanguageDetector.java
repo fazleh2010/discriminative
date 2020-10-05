@@ -12,11 +12,18 @@ import org.apache.tika.language.LanguageIdentifier;
  * @author elahi
  */
 public class LanguageDetector {
+    private static String english="en";
 
-    public static void main(String[] args) {
-        LanguageIdentifier identifier = new LanguageIdentifier("Hello, this is javatpoint.");
+    public static Boolean isEnglish(String text) {
+        LanguageIdentifier identifier = new LanguageIdentifier(text);
         String language = identifier.getLanguage();
-        System.out.println("Language code is : " + language);
+        if(language.contains(english))
+            return true;
+        return false;
+    }
+    
+    public static void main (String []args){
+        System.out.println(isEnglish("Anthony Aston (died 1731) was an English actor and dramatist"));
     }
 
 }
