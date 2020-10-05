@@ -24,11 +24,11 @@ public class DbpediaClass {
     private Map<String, LinkedHashSet<String>> propertyEntities = new HashMap<String, LinkedHashSet<String>>();
     private Set<String> allEntities = new TreeSet<String>();
     public static final String FREQUENT_TRIPLE = "FREQUENT_TRIPLE";
-    public static final String ALL_POLITICIANS = "ALL_POLITICIANS";
+    public static final String ALL = "ALL";
 
     public DbpediaClass(String className, String entitiesPropertyFile, String POS_TAGGER, String type) throws IOException, Exception {
         this.className = className;
-        if (type.contains(ALL_POLITICIANS)) {
+        if (type.contains(ALL)) {
             findAllPropertyEntities(entitiesPropertyFile);
         } else if (type.contains(FREQUENT_TRIPLE)) {
             findPropertyEntities(entitiesPropertyFile);

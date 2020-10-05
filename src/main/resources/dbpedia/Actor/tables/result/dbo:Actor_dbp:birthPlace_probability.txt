@@ -1,0 +1,59 @@
+id=1  property=dbp:birthPlace  object=http://dbpedia.org/resource/China  NumberOfEntitiesFoundForObject=116
+chinese-JJ  multiply=0.0232705733  P(chinese|object)=0.1724137931  P(object|chinese)=0.1349693252    
+film-NN  multiply=0.0122055309  P(film|object)=0.0948275862  P(object|film)=0.1287128713    
+
+id=2  property=dbp:birthPlace  object=Singapore  NumberOfEntitiesFoundForObject=60
+singaporean-JJ  multiply=0.2585106383  P(singaporean|object)=0.45  P(object|singaporean)=0.5744680851    
+mediacorp-JJ  multiply=0.1880208333  P(mediacorp|object)=0.3166666667  P(object|mediacorp)=0.59375    
+artiste-NN  multiply=0.1083333333  P(artiste|object)=0.2166666667  P(object|artiste)=0.5    
+chinese-JJ  multiply=0.0801635992  P(chinese|object)=0.4666666667  P(object|chinese)=0.1717791411    
+television-NN  multiply=0.072972973  P(television|object)=0.3  P(object|television)=0.2432432432    
+chinese-language-JJ  multiply=0.0680555556  P(chinese-language|object)=0.1166666667  P(object|chinese-language)=0.5833333333    
+family-NN  multiply=0.0668981481  P(family|object)=0.2833333333  P(object|family)=0.2361111111    
+artist-NN  multiply=0.0646551724  P(artist|object)=0.25  P(object|artist)=0.2586206897    
+name-NN  multiply=0.0635294118  P(name|object)=0.3  P(object|name)=0.2117647059    
+actress-NN  multiply=0.0344036697  P(actress|object)=0.25  P(object|actress)=0.1376146789    
+drama-NN  multiply=0.0313953488  P(drama|object)=0.15  P(object|drama)=0.2093023256    
+host-NN  multiply=0.0291666667  P(host|object)=0.1166666667  P(object|host)=0.25    
+entertainment-NN  multiply=0.0291666667  P(entertainment|object)=0.1166666667  P(object|entertainment)=0.25    
+dramas-NN  multiply=0.0272727273  P(dramas|object)=0.1  P(object|dramas)=0.2727272727    
+many-JJ  multiply=0.0247474747  P(many|object)=0.1166666667  P(object|many)=0.2121212121    
+industry-NN  multiply=0.024  P(industry|object)=0.1  P(object|industry)=0.24    
+role-NN  multiply=0.0225225225  P(role|object)=0.1666666667  P(object|role)=0.1351351351    
+pinyin-NN  multiply=0.0177536232  P(pinyin|object)=0.1166666667  P(object|pinyin)=0.152173913    
+popular-JJ  multiply=0.0142857143  P(popular|object)=0.1  P(object|popular)=0.1428571429    
+several-JJ  multiply=0.0140350877  P(several|object)=0.0666666667  P(object|several)=0.2105263158    
+award-NN  multiply=0.0138418079  P(award|object)=0.1166666667  P(object|award)=0.1186440678    
+former-JJ  multiply=0.0133333333  P(former|object)=0.0666666667  P(object|former)=0.2    
+year-NN  multiply=0.0125  P(year|object)=0.1  P(object|year)=0.125    
+series-NN  multiply=0.0117647059  P(series|object)=0.1  P(object|series)=0.1176470588    
+stage-NN  multiply=0.0106666667  P(stage|object)=0.0666666667  P(object|stage)=0.16    
+
+id=3  property=dbp:birthPlace  object=http://dbpedia.org/resource/Taiwan  NumberOfEntitiesFoundForObject=73
+taiwanese-JJ  multiply=0.0516332982  P(taiwanese|object)=0.095890411  P(object|taiwanese)=0.5384615385    
+singer-NN  multiply=0.0125244618  P(singer|object)=0.1095890411  P(object|singer)=0.1142857143    
+
+id=4  property=dbp:birthPlace  object=http://dbpedia.org/resource/Hong_Kong  NumberOfEntitiesFoundForObject=181
+actress-NN  multiply=0.0223528815  P(actress|object)=0.1160220994  P(object|actress)=0.1926605505    
+pageant-NN  multiply=0.0152996175  P(pageant|object)=0.0331491713  P(object|pageant)=0.4615384615    
+television-NN  multiply=0.0146334179  P(television|object)=0.0773480663  P(object|television)=0.1891891892    
+singer-NN  multiply=0.0113654301  P(singer|object)=0.0662983425  P(object|singer)=0.1714285714    
+award-NN  multiply=0.0113306489  P(award|object)=0.0607734807  P(object|award)=0.186440678    
+film-NN  multiply=0.0107215141  P(film|object)=0.0773480663  P(object|film)=0.1386138614    
+
+id=5  property=dbp:birthPlace  object=Hong Kong  NumberOfEntitiesFoundForObject=62
+singer-NN  multiply=0.0451612903  P(singer|object)=0.2258064516  P(object|singer)=0.2    
+music-NN  multiply=0.0355951057  P(music|object)=0.1290322581  P(object|music)=0.275862069    
+lead-JJ  multiply=0.0329301075  P(lead|object)=0.1129032258  P(object|lead)=0.2916666667    
+pop-NN  multiply=0.0304939516  P(pop|object)=0.1774193548  P(object|pop)=0.171875    
+many-JJ  multiply=0.0239491691  P(many|object)=0.1129032258  P(object|many)=0.2121212121    
+name-NN  multiply=0.0229601518  P(name|object)=0.1774193548  P(object|name)=0.1294117647    
+singing-JJ  multiply=0.0212224109  P(singing|object)=0.0806451613  P(object|singing)=0.2631578947    
+song-NN  multiply=0.0156931125  P(song|object)=0.0967741935  P(object|song)=0.1621621622    
+family-NN  multiply=0.0143369176  P(family|object)=0.1290322581  P(object|family)=0.1111111111    
+artist-NN  multiply=0.0136262514  P(artist|object)=0.1129032258  P(object|artist)=0.1206896552    
+first-JJ  multiply=0.0129032258  P(first|object)=0.0967741935  P(object|first)=0.1333333333    
+career-NN  multiply=0.0129032258  P(career|object)=0.0967741935  P(object|career)=0.1333333333    
+year-NN  multiply=0.0120967742  P(year|object)=0.0967741935  P(object|year)=0.125    
+chinese-JJ  multiply=0.0119730853  P(chinese|object)=0.1774193548  P(object|chinese)=0.0674846626    
+

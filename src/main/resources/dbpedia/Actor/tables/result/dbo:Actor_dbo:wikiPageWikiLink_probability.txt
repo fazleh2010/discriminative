@@ -1,0 +1,42 @@
+id=6  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:20th-century_British_actresses  NumberOfEntitiesFoundForObject=108
+actress-NN  multiply=0.0135275187  P(actress|object)=0.287037037  P(object|actress)=0.0471281296    
+british-JJ  multiply=0.011155734  P(british|object)=0.2222222222  P(object|british)=0.0502008032    
+
+id=7  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Hong_Kong_male_television_actors  NumberOfEntitiesFoundForObject=126
+chinese-JJ  multiply=0.0243445693  P(chinese|object)=0.1666666667  P(object|chinese)=0.1460674157    
+name-NN  multiply=0.0149812734  P(name|object)=0.126984127  P(object|name)=0.1179775281    
+singer-NN  multiply=0.0148148148  P(singer|object)=0.1111111111  P(object|singer)=0.1333333333    
+family-NN  multiply=0.0123518891  P(family|object)=0.1031746032  P(object|family)=0.1197183099    
+
+id=8  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:20th-century_Swedish_actresses  NumberOfEntitiesFoundForObject=76
+swedish-JJ  multiply=0.0955263158  P(swedish|object)=0.4342105263  P(object|swedish)=0.22    
+actress-NN  multiply=0.0211030153  P(actress|object)=0.4342105263  P(object|actress)=0.0486008837    
+film-NN  multiply=0.0202307571  P(film|object)=0.4210526316  P(object|film)=0.048048048    
+show-NN  multiply=0.0100165955  P(show|object)=0.1710526316  P(object|show)=0.0585585586    
+
+id=9  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Model_(person)  NumberOfEntitiesFoundForObject=55
+model-NN  multiply=0.0296442688  P(model|object)=0.0909090909  P(object|model)=0.3260869565    
+
+id=10  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:British_television_actresses  NumberOfEntitiesFoundForObject=63
+british-JJ  multiply=0.1070312998  P(british|object)=0.7301587302  P(object|british)=0.1465863454    
+actress-NN  multiply=0.0984641279  P(actress|object)=0.8253968254  P(object|actress)=0.1192930781    
+series-NN  multiply=0.0467518757  P(series|object)=0.4920634921  P(object|series)=0.0950118765    
+television-NN  multiply=0.0461760462  P(television|object)=0.5079365079  P(object|television)=0.0909090909    
+role-NN  multiply=0.0438320844  P(role|object)=0.5396825397  P(object|role)=0.0812182741    
+play-NN  multiply=0.0401493931  P(play|object)=0.4920634921  P(object|play)=0.0815939279    
+episode-NN  multiply=0.0317460317  P(episode|object)=0.253968254  P(object|episode)=0.125    
+serial-JJ  multiply=0.0312650313  P(serial|object)=0.1587301587  P(object|serial)=0.196969697    
+drama-NN  multiply=0.0256451787  P(drama|object)=0.3015873016  P(object|drama)=0.0850340136    
+age-NN  multiply=0.0174833218  P(age|object)=0.3015873016  P(object|age)=0.0579710145    
+appearance-NN  multiply=0.0147275405  P(appearance|object)=0.1904761905  P(object|appearance)=0.0773195876    
+wife-NN  multiply=0.0140515222  P(wife|object)=0.0952380952  P(object|wife)=0.1475409836    
+daughter-NN  multiply=0.012987013  P(daughter|object)=0.1111111111  P(object|daughter)=0.1168831169    
+man-NN  multiply=0.0128008193  P(man|object)=0.2698412698  P(object|man)=0.0474383302    
+son-NN  multiply=0.0122011857  P(son|object)=0.1746031746  P(object|son)=0.0698795181    
+original-JJ  multiply=0.0116959064  P(original|object)=0.0952380952  P(object|original)=0.1228070175    
+sister-NN  multiply=0.0103896104  P(sister|object)=0.0952380952  P(object|sister)=0.1090909091    
+
+id=11  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Actresses_from_London  NumberOfEntitiesFoundForObject=59
+actress-NN  multiply=0.0172986196  P(actress|object)=0.3559322034  P(object|actress)=0.0486008837    
+british-JJ  multiply=0.0109590906  P(british|object)=0.2372881356  P(object|british)=0.046184739    
+

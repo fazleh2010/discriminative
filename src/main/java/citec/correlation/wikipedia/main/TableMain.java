@@ -66,7 +66,7 @@ public class TableMain implements PropertyNotation {
 
     public static void main(String[] args) throws IOException, Exception {
         TableMain trainingTable = new TableMain();
-        String type=write;
+        String type=calculation;
         Tables tables =null;
         Integer numberOfEntitiesrmSelected=100;
             Integer wordFoundInNumberOfEntities=10;
@@ -82,11 +82,11 @@ public class TableMain implements PropertyNotation {
         
         //checkProperties.add(DBO_COUNTRY);
         //checkProperties.add(DC_DESCRIPTION);
-
-        freqClasses.add(dbo_Politician);
+        String dbo_ClassName=dbo_Actor;
+        freqClasses.add(dbo_ClassName);
         String inputFile=allPoliticianFile;
-        String fileType=DbpediaClass.ALL_POLITICIANS;
-        DbpediaClass dbpediaClass = new DbpediaClass(dbo_Politician, inputFile, TextAnalyzer.POS_TAGGER,fileType);
+        String fileType=DbpediaClass.ALL;
+        DbpediaClass dbpediaClass = new DbpediaClass(dbo_ClassName, inputFile, TextAnalyzer.POS_TAGGER,fileType);
         String classDir=getClassDir(dbo_Actor)+"/";
         String rawFiles=dbpediaDir+classDir+"rawFiles/";
         makeClassDir(dbpediaDir+classDir);
@@ -95,23 +95,23 @@ public class TableMain implements PropertyNotation {
             /*if (fileType.contains(DbpediaClass.FREQUENT_TRIPLE)) {
                 trainingTable.write(inputFile, rawFiles, dbpediaClass, checkProperties);
             } else*/ 
-            if (fileType.contains(DbpediaClass.ALL_POLITICIANS)) {
+            if (fileType.contains(DbpediaClass.ALL)) {
                 trainingTable.write(inputFile, rawFiles, dbpediaClass, dbpediaClass.getPropertyEntities());
             }
         }
         if (type.contains(proprtyGeneration)) {
             //property generation
             tables = new Tables(new File(inputFile).getName(), rawFiles);
-            tables.readSplitTables(rawFiles,dbo_Politician);
+            tables.readSplitTables(rawFiles,dbo_ClassName);
             tables.writeTable(dbpediaDir +classDir+ "tables/");
         }
         if (type.contains(calculation)) {
             String checkType=InterestedWords.PROPRTY_WISE;
             tables = new Tables(new File(inputFile).getName(), dbpediaDir +classDir+ "tables/");
-            interestedWords=new InterestedWords(dbo_Politician, tables,dbpediaDir +classDir+"tables/");
-            interestedWords.prepareWords(dbo_Politician,checkType,numberOfEntitiesrmSelected);
+            interestedWords=new InterestedWords(dbo_ClassName, tables,dbpediaDir +classDir+"tables/");
+            interestedWords.prepareWords(dbo_ClassName,checkType,numberOfEntitiesrmSelected);
             interestedWords.getWords(wordFoundInNumberOfEntities,TopNwords,checkType);  tables = new Tables(new File(inputFile).getName(), dbpediaDir +classDir+ "tables/");
-            Calculation calculation = new Calculation(tables,dbo_Politician,interestedWords,numberOfEntitiesrmSelected,ObjectMinimumEntities,dbpediaDir+output);
+            Calculation calculation = new Calculation(tables,dbo_ClassName,interestedWords,numberOfEntitiesrmSelected,ObjectMinimumEntities,dbpediaDir+output);
             System.out.println("System execution ended!!!");
             
             
