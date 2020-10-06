@@ -68,11 +68,17 @@ public class TableMain implements PropertyNotation {
         TableMain trainingTable = new TableMain();
         String type=calculation;
         Tables tables =null;
-        Integer numberOfEntitiesrmSelected=100;
+            /*Integer numberOfEntitiesrmSelected=100;
             Integer wordFoundInNumberOfEntities=10;
             Integer TopNwords=100;
-            Integer ObjectMinimumEntities=50;
-             InterestedWords interestedWords=null;
+            Integer ObjectMinimumEntities=50;*/
+            
+            Integer numberOfEntitiesrmSelected=50;
+            Integer wordFoundInNumberOfEntities=10;
+            Integer TopNwords=100;
+            Integer ObjectMinimumEntities=10;
+            
+            InterestedWords interestedWords=null;
         
         Set<String> checkProperties = new HashSet<String>();
         //checkProperties.add(PropertyNotation.DBP_SHORT_DESCRIPTION);

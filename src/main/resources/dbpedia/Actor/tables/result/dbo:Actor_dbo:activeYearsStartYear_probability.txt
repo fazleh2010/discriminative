@@ -1,0 +1,27 @@
+id=1  property=dbo:activeYearsStartYear  object=2001  NumberOfEntitiesFoundForObject=10
+soap-NN  multiply=0.0333333333  P(soap|object)=0.3  P(object|soap)=0.1111111111    
+role-NN  multiply=0.028125  P(role|object)=0.6  P(object|role)=0.046875    
+drama-NN  multiply=0.0280701754  P(drama|object)=0.4  P(object|drama)=0.0701754386    
+british-JJ  multiply=0.0240384615  P(british|object)=0.5  P(object|british)=0.0480769231    
+chinese-JJ  multiply=0.0236842105  P(chinese|object)=0.3  P(object|chinese)=0.0789473684    
+series-NN  multiply=0.0179775281  P(series|object)=0.4  P(object|series)=0.0449438202    
+opera-NN  multiply=0.0166666667  P(opera|object)=0.2  P(object|opera)=0.0833333333    
+theatre-NN  multiply=0.0163636364  P(theatre|object)=0.3  P(object|theatre)=0.0545454545    
+actress-NN  multiply=0.0154320988  P(actress|object)=0.5  P(object|actress)=0.0308641975    
+family-NN  multiply=0.0153846154  P(family|object)=0.2  P(object|family)=0.0769230769    
+singaporean-JJ  multiply=0.0133333333  P(singaporean|object)=0.2  P(object|singaporean)=0.0666666667    
+name-NN  multiply=0.0133333333  P(name|object)=0.2  P(object|name)=0.0666666667    
+english-JJ  multiply=0.0105882353  P(english|object)=0.3  P(object|english)=0.0352941176    
+
+id=2  property=dbo:activeYearsStartYear  object=2006  NumberOfEntitiesFoundForObject=11
+english-JJ  multiply=0.0524064171  P(english|object)=0.6363636364  P(object|english)=0.0823529412    
+work-NN  multiply=0.034965035  P(work|object)=0.4545454545  P(object|work)=0.0769230769    
+debut-NN  multiply=0.0282131661  P(debut|object)=0.2727272727  P(object|debut)=0.1034482759    
+television-NN  multiply=0.0222634508  P(television|object)=0.5454545455  P(object|television)=0.0408163265    
+singer-NN  multiply=0.019138756  P(singer|object)=0.1818181818  P(object|singer)=0.1052631579    
+opera-NN  multiply=0.0151515152  P(opera|object)=0.1818181818  P(object|opera)=0.0833333333    
+drama-NN  multiply=0.014354067  P(drama|object)=0.2727272727  P(object|drama)=0.0526315789    
+actress-NN  multiply=0.0140291807  P(actress|object)=0.4545454545  P(object|actress)=0.0308641975    
+soap-NN  multiply=0.0134680135  P(soap|object)=0.1818181818  P(object|soap)=0.0740740741    
+man-NN  multiply=0.0133444537  P(man|object)=0.3636363636  P(object|man)=0.0366972477    
+

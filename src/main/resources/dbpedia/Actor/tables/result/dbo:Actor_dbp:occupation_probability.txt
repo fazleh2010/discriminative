@@ -1,0 +1,19 @@
+id=46  property=dbp:occupation  object=Actor  NumberOfEntitiesFoundForObject=13
+actor-NN  multiply=0.3692307692  P(actor|object)=0.9230769231  P(object|actor)=0.4    
+singaporean-JJ  multiply=0.1396011396  P(singaporean|object)=0.5384615385  P(object|singaporean)=0.2592592593    
+artiste-NN  multiply=0.1373626374  P(artiste|object)=0.3846153846  P(object|artiste)=0.3571428571    
+television-NN  multiply=0.0836120401  P(television|object)=0.3846153846  P(object|television)=0.2173913043    
+film-NN  multiply=0.0559440559  P(film|object)=0.3076923077  P(object|film)=0.1818181818    
+family-NN  multiply=0.0494505495  P(family|object)=0.2307692308  P(object|family)=0.2142857143    
+name-NN  multiply=0.0461538462  P(name|object)=0.2307692308  P(object|name)=0.2    
+
+id=47  property=dbp:occupation  object=Actress  NumberOfEntitiesFoundForObject=13
+actress-NN  multiply=0.4642857143  P(actress|object)=1.0  P(object|actress)=0.4642857143    
+television-NN  multiply=0.1638795987  P(television|object)=0.5384615385  P(object|television)=0.3043478261    
+singaporean-JJ  multiply=0.1396011396  P(singaporean|object)=0.5384615385  P(object|singaporean)=0.2592592593    
+film-NN  multiply=0.0874125874  P(film|object)=0.3846153846  P(object|film)=0.2272727273    
+name-NN  multiply=0.0820512821  P(name|object)=0.3076923077  P(object|name)=0.2666666667    
+artiste-NN  multiply=0.0494505495  P(artiste|object)=0.2307692308  P(object|artiste)=0.2142857143    
+pinyin-NN  multiply=0.0236686391  P(pinyin|object)=0.1538461538  P(object|pinyin)=0.1538461538    
+family-NN  multiply=0.021978022  P(family|object)=0.1538461538  P(object|family)=0.1428571429    
+

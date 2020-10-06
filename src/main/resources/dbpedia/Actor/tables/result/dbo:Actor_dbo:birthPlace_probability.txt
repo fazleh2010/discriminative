@@ -1,10 +1,32 @@
-id=16  property=dbo:birthPlace  object=http://dbpedia.org/resource/Stockholm  NumberOfEntitiesFoundForObject=118
+id=49  property=dbo:birthPlace  object=http://dbpedia.org/resource/Stockholm  NumberOfEntitiesFoundForObject=118
 swedish-JJ  multiply=0.1749564391  P(swedish|object)=0.3983050847  P(object|swedish)=0.4392523364    
 film-NN  multiply=0.0338216121  P(film|object)=0.3559322034  P(object|film)=0.0950226244    
 actress-NN  multiply=0.016651799  P(actress|object)=0.2372881356  P(object|actress)=0.0701754386    
 son-NN  multiply=0.0105113843  P(son|object)=0.1440677966  P(object|son)=0.0729613734    
 
-id=17  property=dbo:birthPlace  object=http://dbpedia.org/resource/London  NumberOfEntitiesFoundForObject=145
+id=50  property=dbo:birthPlace  object=http://dbpedia.org/resource/Scotland  NumberOfEntitiesFoundForObject=14
+mother-NN  multiply=0.0123626374  P(mother|object)=0.2142857143  P(object|mother)=0.0576923077    
+
+id=51  property=dbo:birthPlace  object=http://dbpedia.org/resource/West_Riding_of_Yorkshire  NumberOfEntitiesFoundForObject=14
+english-JJ  multiply=0.0123626374  P(english|object)=0.4285714286  P(object|english)=0.0288461538    
+
+id=52  property=dbo:birthPlace  object=http://dbpedia.org/resource/Beijing  NumberOfEntitiesFoundForObject=26
+pinyin-NN  multiply=0.0157342657  P(pinyin|object)=0.1153846154  P(object|pinyin)=0.1363636364    
+chinese-JJ  multiply=0.0101214575  P(chinese|object)=0.1923076923  P(object|chinese)=0.0526315789    
+
+id=53  property=dbo:birthPlace  object=http://dbpedia.org/resource/Cheshire  NumberOfEntitiesFoundForObject=14
+role-NN  multiply=0.0116959064  P(role|object)=0.5  P(object|role)=0.0233918129    
+english-JJ  multiply=0.0103021978  P(english|object)=0.3571428571  P(object|english)=0.0288461538    
+
+id=54  property=dbo:birthPlace  object=http://dbpedia.org/resource/Singapore  NumberOfEntitiesFoundForObject=16
+pinyin-NN  multiply=0.0255681818  P(pinyin|object)=0.1875  P(object|pinyin)=0.1363636364    
+model-NN  multiply=0.0208333333  P(model|object)=0.1875  P(object|model)=0.1111111111    
+dramas-NN  multiply=0.0181451613  P(dramas|object)=0.1875  P(object|dramas)=0.0967741935    
+chinese-JJ  multiply=0.0164473684  P(chinese|object)=0.3125  P(object|chinese)=0.0526315789    
+award-NN  multiply=0.0116604478  P(award|object)=0.3125  P(object|award)=0.0373134328    
+popular-JJ  multiply=0.0110294118  P(popular|object)=0.1875  P(object|popular)=0.0588235294    
+
+id=55  property=dbo:birthPlace  object=http://dbpedia.org/resource/London  NumberOfEntitiesFoundForObject=145
 british-JJ  multiply=0.0795166519  P(british|object)=0.2620689655  P(object|british)=0.3034188034    
 english-JJ  multiply=0.0364721485  P(english|object)=0.1379310345  P(object|english)=0.2644230769    
 television-NN  multiply=0.0301696771  P(television|object)=0.1793103448  P(object|television)=0.1682539683    
@@ -30,10 +52,10 @@ first-JJ  multiply=0.0113343328  P(first|object)=0.0620689655  P(object|first)=0
 soap-NN  multiply=0.0112068966  P(soap|object)=0.0413793103  P(object|soap)=0.2708333333    
 school-NN  multiply=0.0101466508  P(school|object)=0.0551724138  P(object|school)=0.183908046    
 
-id=18  property=dbo:birthPlace  object=http://dbpedia.org/resource/Japan  NumberOfEntitiesFoundForObject=298
+id=56  property=dbo:birthPlace  object=http://dbpedia.org/resource/Japan  NumberOfEntitiesFoundForObject=298
 japanese-JJ  multiply=0.033557047  P(japanese|object)=0.1006711409  P(object|japanese)=0.3333333333    
 
-id=19  property=dbo:birthPlace  object=http://dbpedia.org/resource/England  NumberOfEntitiesFoundForObject=263
+id=57  property=dbo:birthPlace  object=http://dbpedia.org/resource/England  NumberOfEntitiesFoundForObject=263
 english-JJ  multiply=0.1182363264  P(english|object)=0.2509505703  P(object|english)=0.4711538462    
 british-JJ  multiply=0.1162458159  P(british|object)=0.2775665399  P(object|british)=0.4188034188    
 television-NN  multiply=0.0812601847  P(television|object)=0.2585551331  P(object|television)=0.3142857143    
@@ -84,10 +106,37 @@ high-JJ  multiply=0.0106463878  P(high|object)=0.0380228137  P(object|high)=0.28
 several-JJ  multiply=0.010302956  P(several|object)=0.0456273764  P(object|several)=0.2258064516    
 member-NN  multiply=0.0100036212  P(member|object)=0.0494296578  P(object|member)=0.2023809524    
 
-id=20  property=dbo:birthPlace  object=http://dbpedia.org/resource/Tokyo  NumberOfEntitiesFoundForObject=183
+id=58  property=dbo:birthPlace  object=http://dbpedia.org/resource/Tokyo  NumberOfEntitiesFoundForObject=183
 japanese-JJ  multiply=0.0285010179  P(japanese|object)=0.1038251366  P(object|japanese)=0.2745098039    
 
-id=21  property=dbo:birthPlace  object=http://dbpedia.org/resource/Hong_Kong  NumberOfEntitiesFoundForObject=158
+id=59  property=dbo:birthPlace  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=23
+british-JJ  multiply=0.0297287254  P(british|object)=0.2173913043  P(object|british)=0.1367521368    
+role-NN  multiply=0.0249173659  P(role|object)=0.3043478261  P(object|role)=0.081871345    
+film-NN  multiply=0.0227228015  P(film|object)=0.3043478261  P(object|film)=0.0746606335    
+series-NN  multiply=0.0215500945  P(series|object)=0.2608695652  P(object|series)=0.0826086957    
+actress-NN  multiply=0.0163452109  P(actress|object)=0.2608695652  P(object|actress)=0.0626566416    
+child-NN  multiply=0.0156521739  P(child|object)=0.1304347826  P(object|child)=0.12    
+episode-NN  multiply=0.011994003  P(episode|object)=0.0869565217  P(object|episode)=0.1379310345    
+debut-NN  multiply=0.0112930548  P(debut|object)=0.0869565217  P(object|debut)=0.1298701299    
+first-JJ  multiply=0.0105860113  P(first|object)=0.0869565217  P(object|first)=0.1217391304    
+television-NN  multiply=0.0104899931  P(television|object)=0.1739130435  P(object|television)=0.0603174603    
+english-JJ  multiply=0.0100334448  P(english|object)=0.1304347826  P(object|english)=0.0769230769    
+
+id=60  property=dbo:birthPlace  object=http://dbpedia.org/resource/Malmö  NumberOfEntitiesFoundForObject=10
+swedish-JJ  multiply=0.0336448598  P(swedish|object)=0.6  P(object|swedish)=0.0560747664    
+numerous-JJ  multiply=0.01  P(numerous|object)=0.2  P(object|numerous)=0.05    
+
+id=61  property=dbo:birthPlace  object=http://dbpedia.org/resource/Hertfordshire  NumberOfEntitiesFoundForObject=10
+real-JJ  multiply=0.0133333333  P(real|object)=0.2  P(object|real)=0.0666666667    
+appearance-NN  multiply=0.0105263158  P(appearance|object)=0.3  P(object|appearance)=0.0350877193    
+
+id=62  property=dbo:birthPlace  object=http://dbpedia.org/resource/Guangzhou  NumberOfEntitiesFoundForObject=13
+popular-JJ  multiply=0.0135746606  P(popular|object)=0.2307692308  P(object|popular)=0.0588235294    
+
+id=63  property=dbo:birthPlace  object=http://dbpedia.org/resource/Taipei  NumberOfEntitiesFoundForObject=38
+taiwanese-JJ  multiply=0.0350877193  P(taiwanese|object)=0.1052631579  P(object|taiwanese)=0.3333333333    
+
+id=64  property=dbo:birthPlace  object=http://dbpedia.org/resource/Hong_Kong  NumberOfEntitiesFoundForObject=158
 chinese-JJ  multiply=0.0725516322  P(chinese|object)=0.2088607595  P(object|chinese)=0.3473684211    
 singer-NN  multiply=0.0491289635  P(singer|object)=0.1772151899  P(object|singer)=0.2772277228    
 family-NN  multiply=0.0418512658  P(family|object)=0.1455696203  P(object|family)=0.2875    
@@ -102,7 +151,7 @@ career-NN  multiply=0.0124050633  P(career|object)=0.0886075949  P(object|career
 music-NN  multiply=0.0110988809  P(music|object)=0.0696202532  P(object|music)=0.1594202899    
 group-NN  multiply=0.0103567319  P(group|object)=0.0379746835  P(object|group)=0.2727272727    
 
-id=22  property=dbo:birthPlace  object=http://dbpedia.org/resource/UK  NumberOfEntitiesFoundForObject=64
+id=65  property=dbo:birthPlace  object=http://dbpedia.org/resource/UK  NumberOfEntitiesFoundForObject=64
 english-JJ  multiply=0.0396634615  P(english|object)=0.34375  P(object|english)=0.1153846154    
 television-NN  multiply=0.0297619048  P(television|object)=0.375  P(object|television)=0.0793650794    
 british-JJ  multiply=0.0240384615  P(british|object)=0.28125  P(object|british)=0.0854700855    
@@ -117,4 +166,7 @@ school-NN  multiply=0.0114942529  P(school|object)=0.125  P(object|school)=0.091
 theatre-NN  multiply=0.0107758621  P(theatre|object)=0.15625  P(object|theatre)=0.0689655172    
 drama-NN  multiply=0.0106754658  P(drama|object)=0.15625  P(object|drama)=0.0683229814    
 serial-JJ  multiply=0.0100806452  P(serial|object)=0.0625  P(object|serial)=0.1612903226    
+
+id=66  property=dbo:birthPlace  object=http://dbpedia.org/resource/Gothenburg  NumberOfEntitiesFoundForObject=19
+swedish-JJ  multiply=0.0122970979  P(swedish|object)=0.2631578947  P(object|swedish)=0.046728972    
 

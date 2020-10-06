@@ -1,4 +1,4 @@
-id=23  property=dbo:deathPlace  object=http://dbpedia.org/resource/England  NumberOfEntitiesFoundForObject=102
+id=67  property=dbo:deathPlace  object=http://dbpedia.org/resource/England  NumberOfEntitiesFoundForObject=102
 british-JJ  multiply=0.1353183249  P(british|object)=0.2549019608  P(object|british)=0.5308641975    
 television-NN  multiply=0.1191749427  P(television|object)=0.2549019608  P(object|television)=0.4675324675    
 english-JJ  multiply=0.1014492754  P(english|object)=0.1666666667  P(object|english)=0.6086956522    
@@ -20,7 +20,7 @@ screen-NN  multiply=0.0294117647  P(screen|object)=0.0588235294  P(object|screen
 father-NN  multiply=0.0149190111  P(father|object)=0.0490196078  P(object|father)=0.3043478261    
 director-NN  multiply=0.0130718954  P(director|object)=0.0490196078  P(object|director)=0.2666666667    
 
-id=24  property=dbo:deathPlace  object=http://dbpedia.org/resource/Stockholm  NumberOfEntitiesFoundForObject=83
+id=68  property=dbo:deathPlace  object=http://dbpedia.org/resource/Stockholm  NumberOfEntitiesFoundForObject=83
 swedish-JJ  multiply=0.2270257501  P(swedish|object)=0.3734939759  P(object|swedish)=0.6078431373    
 film-NN  multiply=0.0609405363  P(film|object)=0.3373493976  P(object|film)=0.1806451613    
 actress-NN  multiply=0.0234039607  P(actress|object)=0.156626506  P(object|actress)=0.1494252874    
@@ -28,7 +28,7 @@ director-NN  multiply=0.0196787149  P(director|object)=0.0843373494  P(object|di
 television-NN  multiply=0.0126740729  P(television|object)=0.1084337349  P(object|television)=0.1168831169    
 son-NN  multiply=0.011862836  P(son|object)=0.0963855422  P(object|son)=0.1230769231    
 
-id=25  property=dbo:deathPlace  object=http://dbpedia.org/resource/London  NumberOfEntitiesFoundForObject=64
+id=69  property=dbo:deathPlace  object=http://dbpedia.org/resource/London  NumberOfEntitiesFoundForObject=64
 british-JJ  multiply=0.0679012346  P(british|object)=0.171875  P(object|british)=0.3950617284    
 film-NN  multiply=0.0352822581  P(film|object)=0.15625  P(object|film)=0.2258064516    
 role-NN  multiply=0.0292514535  P(role|object)=0.109375  P(object|role)=0.2674418605    
@@ -42,4 +42,26 @@ character-NN  multiply=0.015  P(character|object)=0.03125  P(object|character)=0
 first-JJ  multiply=0.0132211538  P(first|object)=0.03125  P(object|first)=0.4230769231    
 actress-NN  multiply=0.0125718391  P(actress|object)=0.078125  P(object|actress)=0.1609195402    
 english-JJ  multiply=0.0101902174  P(english|object)=0.03125  P(object|english)=0.3260869565    
+
+id=70  property=dbo:deathPlace  object=http://dbpedia.org/resource/United_States  NumberOfEntitiesFoundForObject=11
+many-JJ  multiply=0.012987013  P(many|object)=0.1818181818  P(object|many)=0.0714285714    
+career-NN  multiply=0.0103896104  P(career|object)=0.1818181818  P(object|career)=0.0571428571    
+
+id=71  property=dbo:deathPlace  object=http://dbpedia.org/resource/UK  NumberOfEntitiesFoundForObject=26
+british-JJ  multiply=0.0925925926  P(british|object)=0.5  P(object|british)=0.1851851852    
+stage-NN  multiply=0.0604395604  P(stage|object)=0.3461538462  P(object|stage)=0.1746031746    
+film-NN  multiply=0.0521091811  P(film|object)=0.5384615385  P(object|film)=0.0967741935    
+man-NN  multiply=0.048582996  P(man|object)=0.3846153846  P(object|man)=0.1263157895    
+english-JJ  multiply=0.0409698997  P(english|object)=0.2692307692  P(object|english)=0.152173913    
+role-NN  multiply=0.0402504472  P(role|object)=0.3461538462  P(object|role)=0.1162790698    
+screen-NN  multiply=0.0384615385  P(screen|object)=0.1538461538  P(object|screen)=0.25    
+character-NN  multiply=0.0384615385  P(character|object)=0.1923076923  P(object|character)=0.2    
+television-NN  multiply=0.035964036  P(television|object)=0.3076923077  P(object|television)=0.1168831169    
+son-NN  multiply=0.0284023669  P(son|object)=0.2307692308  P(object|son)=0.1230769231    
+work-NN  multiply=0.021978022  P(work|object)=0.1538461538  P(object|work)=0.1428571429    
+theatre-NN  multiply=0.0192307692  P(theatre|object)=0.1538461538  P(object|theatre)=0.125    
+mother-NN  multiply=0.0182186235  P(mother|object)=0.1153846154  P(object|mother)=0.1578947368    
+first-JJ  multiply=0.0177514793  P(first|object)=0.1153846154  P(object|first)=0.1538461538    
+series-NN  multiply=0.0164835165  P(series|object)=0.1153846154  P(object|series)=0.1428571429    
+many-JJ  multiply=0.0123626374  P(many|object)=0.1153846154  P(object|many)=0.1071428571    
 

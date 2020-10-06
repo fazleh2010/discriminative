@@ -1,0 +1,3 @@
+id=48  property=dbo:birthDate  object=1974-1-1  NumberOfEntitiesFoundForObject=11
+soap-NN  multiply=0.0120320856  P(soap|object)=0.2727272727  P(object|soap)=0.0441176471    
+

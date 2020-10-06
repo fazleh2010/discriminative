@@ -1,8 +1,8 @@
-id=1  property=dbp:birthPlace  object=http://dbpedia.org/resource/China  NumberOfEntitiesFoundForObject=116
+id=3  property=dbp:birthPlace  object=http://dbpedia.org/resource/China  NumberOfEntitiesFoundForObject=116
 chinese-JJ  multiply=0.0232705733  P(chinese|object)=0.1724137931  P(object|chinese)=0.1349693252    
 film-NN  multiply=0.0122055309  P(film|object)=0.0948275862  P(object|film)=0.1287128713    
 
-id=2  property=dbp:birthPlace  object=Singapore  NumberOfEntitiesFoundForObject=60
+id=4  property=dbp:birthPlace  object=Singapore  NumberOfEntitiesFoundForObject=60
 singaporean-JJ  multiply=0.2585106383  P(singaporean|object)=0.45  P(object|singaporean)=0.5744680851    
 mediacorp-JJ  multiply=0.1880208333  P(mediacorp|object)=0.3166666667  P(object|mediacorp)=0.59375    
 artiste-NN  multiply=0.1083333333  P(artiste|object)=0.2166666667  P(object|artiste)=0.5    
@@ -29,11 +29,11 @@ year-NN  multiply=0.0125  P(year|object)=0.1  P(object|year)=0.125
 series-NN  multiply=0.0117647059  P(series|object)=0.1  P(object|series)=0.1176470588    
 stage-NN  multiply=0.0106666667  P(stage|object)=0.0666666667  P(object|stage)=0.16    
 
-id=3  property=dbp:birthPlace  object=http://dbpedia.org/resource/Taiwan  NumberOfEntitiesFoundForObject=73
+id=5  property=dbp:birthPlace  object=http://dbpedia.org/resource/Taiwan  NumberOfEntitiesFoundForObject=73
 taiwanese-JJ  multiply=0.0516332982  P(taiwanese|object)=0.095890411  P(object|taiwanese)=0.5384615385    
 singer-NN  multiply=0.0125244618  P(singer|object)=0.1095890411  P(object|singer)=0.1142857143    
 
-id=4  property=dbp:birthPlace  object=http://dbpedia.org/resource/Hong_Kong  NumberOfEntitiesFoundForObject=181
+id=6  property=dbp:birthPlace  object=http://dbpedia.org/resource/Hong_Kong  NumberOfEntitiesFoundForObject=181
 actress-NN  multiply=0.0223528815  P(actress|object)=0.1160220994  P(object|actress)=0.1926605505    
 pageant-NN  multiply=0.0152996175  P(pageant|object)=0.0331491713  P(object|pageant)=0.4615384615    
 television-NN  multiply=0.0146334179  P(television|object)=0.0773480663  P(object|television)=0.1891891892    
@@ -41,7 +41,7 @@ singer-NN  multiply=0.0113654301  P(singer|object)=0.0662983425  P(object|singer
 award-NN  multiply=0.0113306489  P(award|object)=0.0607734807  P(object|award)=0.186440678    
 film-NN  multiply=0.0107215141  P(film|object)=0.0773480663  P(object|film)=0.1386138614    
 
-id=5  property=dbp:birthPlace  object=Hong Kong  NumberOfEntitiesFoundForObject=62
+id=7  property=dbp:birthPlace  object=Hong Kong  NumberOfEntitiesFoundForObject=62
 singer-NN  multiply=0.0451612903  P(singer|object)=0.2258064516  P(object|singer)=0.2    
 music-NN  multiply=0.0355951057  P(music|object)=0.1290322581  P(object|music)=0.275862069    
 lead-JJ  multiply=0.0329301075  P(lead|object)=0.1129032258  P(object|lead)=0.2916666667    
@@ -56,4 +56,42 @@ first-JJ  multiply=0.0129032258  P(first|object)=0.0967741935  P(object|first)=0
 career-NN  multiply=0.0129032258  P(career|object)=0.0967741935  P(object|career)=0.1333333333    
 year-NN  multiply=0.0120967742  P(year|object)=0.0967741935  P(object|year)=0.125    
 chinese-JJ  multiply=0.0119730853  P(chinese|object)=0.1774193548  P(object|chinese)=0.0674846626    
+
+id=8  property=dbp:birthPlace  object=Beijing, China  NumberOfEntitiesFoundForObject=11
+pinyin-NN  multiply=0.0177865613  P(pinyin|object)=0.2727272727  P(object|pinyin)=0.0652173913    
+director-NN  multiply=0.013986014  P(director|object)=0.1818181818  P(object|director)=0.0769230769    
+
+id=9  property=dbp:birthPlace  object=http://dbpedia.org/resource/British_Hong_Kong  NumberOfEntitiesFoundForObject=27
+producer-NN  multiply=0.0622222222  P(producer|object)=0.2222222222  P(object|producer)=0.28    
+industry-NN  multiply=0.0533333333  P(industry|object)=0.2222222222  P(object|industry)=0.24    
+singer-NN  multiply=0.0476190476  P(singer|object)=0.3333333333  P(object|singer)=0.1428571429    
+artist-NN  multiply=0.0459770115  P(artist|object)=0.2962962963  P(object|artist)=0.1551724138    
+song-NN  multiply=0.042042042  P(song|object)=0.2222222222  P(object|song)=0.1891891892    
+film-NN  multiply=0.0403373671  P(film|object)=0.3703703704  P(object|film)=0.1089108911    
+career-NN  multiply=0.0403292181  P(career|object)=0.2592592593  P(object|career)=0.1555555556    
+name-NN  multiply=0.0392156863  P(name|object)=0.3333333333  P(object|name)=0.1176470588    
+family-NN  multiply=0.037037037  P(family|object)=0.2962962963  P(object|family)=0.125    
+chinese-JJ  multiply=0.0354464894  P(chinese|object)=0.4444444444  P(object|chinese)=0.0797546012    
+pop-NN  multiply=0.0324074074  P(pop|object)=0.2592592593  P(object|pop)=0.125    
+music-NN  multiply=0.0319284802  P(music|object)=0.1851851852  P(object|music)=0.1724137931    
+award-NN  multiply=0.0225988701  P(award|object)=0.2222222222  P(object|award)=0.1016949153    
+entertainment-NN  multiply=0.0211640212  P(entertainment|object)=0.1481481481  P(object|entertainment)=0.1428571429    
+stage-NN  multiply=0.0133333333  P(stage|object)=0.1111111111  P(object|stage)=0.12    
+first-JJ  multiply=0.0131687243  P(first|object)=0.1481481481  P(object|first)=0.0888888889    
+year-NN  multiply=0.012345679  P(year|object)=0.1481481481  P(object|year)=0.0833333333    
+
+id=10  property=dbp:birthPlace  object=Shanghai, China  NumberOfEntitiesFoundForObject=11
+artiste-NN  multiply=0.013986014  P(artiste|object)=0.1818181818  P(object|artiste)=0.0769230769    
+mediacorp-JJ  multiply=0.0113636364  P(mediacorp|object)=0.1818181818  P(object|mediacorp)=0.0625    
+
+id=11  property=dbp:birthPlace  object=http://dbpedia.org/resource/Singapore  NumberOfEntitiesFoundForObject=33
+singaporean-JJ  multiply=0.0928433269  P(singaporean|object)=0.3636363636  P(object|singaporean)=0.2553191489    
+pinyin-NN  multiply=0.0322793149  P(pinyin|object)=0.2121212121  P(object|pinyin)=0.152173913    
+model-NN  multiply=0.0285204991  P(model|object)=0.1212121212  P(object|model)=0.2352941176    
+award-NN  multiply=0.0184899846  P(award|object)=0.1818181818  P(object|award)=0.1016949153    
+first-JJ  multiply=0.0168350168  P(first|object)=0.1515151515  P(object|first)=0.1111111111    
+mediacorp-JJ  multiply=0.0151515152  P(mediacorp|object)=0.1212121212  P(object|mediacorp)=0.125    
+former-JJ  multiply=0.0136363636  P(former|object)=0.0909090909  P(object|former)=0.15    
+actress-NN  multiply=0.0136224632  P(actress|object)=0.2121212121  P(object|actress)=0.0642201835    
+role-NN  multiply=0.0102375102  P(role|object)=0.1515151515  P(object|role)=0.0675675676    
 

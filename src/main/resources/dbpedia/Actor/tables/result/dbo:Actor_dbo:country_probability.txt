@@ -1,4 +1,4 @@
-id=12  property=dbo:country  object=http://dbpedia.org/resource/People's_Republic_of_China  NumberOfEntitiesFoundForObject=57
+id=38  property=dbo:country  object=http://dbpedia.org/resource/People's_Republic_of_China  NumberOfEntitiesFoundForObject=57
 chinese-JJ  multiply=0.7925696594  P(chinese|object)=0.8421052632  P(object|chinese)=0.9411764706    
 singaporean-JJ  multiply=0.6315789474  P(singaporean|object)=0.6315789474  P(object|singaporean)=1.0    
 pinyin-NN  multiply=0.298245614  P(pinyin|object)=0.298245614  P(object|pinyin)=1.0    
@@ -28,7 +28,7 @@ role-NN  multiply=0.0114085793  P(role|object)=0.2631578947  P(object|role)=0.04
 film-NN  multiply=0.0111883482  P(film|object)=0.2280701754  P(object|film)=0.0490566038    
 producer-NN  multiply=0.0107962213  P(producer|object)=0.0701754386  P(object|producer)=0.1538461538    
 
-id=13  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=342
+id=39  property=dbo:country  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=342
 british-JJ  multiply=0.4913558943  P(british|object)=0.7251461988  P(object|british)=0.6775956284    
 play-NN  multiply=0.3523152143  P(play|object)=0.6140350877  P(object|play)=0.5737704918    
 television-NN  multiply=0.3499238965  P(television|object)=0.6111111111  P(object|television)=0.5726027397    
@@ -121,7 +121,7 @@ producer-NN  multiply=0.0112460639  P(producer|object)=0.0292397661  P(object|pr
 debut-NN  multiply=0.0105263158  P(debut|object)=0.0350877193  P(object|debut)=0.3    
 host-NN  multiply=0.0101086048  P(host|object)=0.0321637427  P(object|host)=0.3142857143    
 
-id=14  property=dbo:country  object=http://dbpedia.org/resource/England  NumberOfEntitiesFoundForObject=291
+id=40  property=dbo:country  object=http://dbpedia.org/resource/England  NumberOfEntitiesFoundForObject=291
 english-JJ  multiply=0.4704467354  P(english|object)=0.6357388316  P(object|english)=0.74    
 age-NN  multiply=0.2672775869  P(age|object)=0.4810996564  P(object|age)=0.5555555556    
 film-NN  multiply=0.2225377683  P(film|object)=0.4501718213  P(object|film)=0.4943396226    
