@@ -55,7 +55,7 @@ public class TableMain implements PropertyNotation {
     private static String inputJsonFile = dataDir + input + "results-100000000-100-concretePO.json";
 
     //rivate static String inputWordFile = dbpediaDir + input + "politicians_with_democratic.yml";
-    private static String allPoliticianFile = dbpediaDir + input + "actors.txt";
+    private static String allPoliticianFile = dbpediaDir + input + "city.txt";
     //private static String outputArff = dbpediaDir + output + "democratic.arff";
     private static Set<String> freqClasses = new HashSet<String>();
     //private static String stanfordModelFile = dbpediaDir + "english-left3words-distsim.tagger";
@@ -73,6 +73,7 @@ public class TableMain implements PropertyNotation {
             Integer TopNwords=100;
             Integer ObjectMinimumEntities=50;*/
             
+            //parameter for actor
             Integer numberOfEntitiesrmSelected=50;
             Integer wordFoundInNumberOfEntities=10;
             Integer TopNwords=100;
@@ -88,12 +89,12 @@ public class TableMain implements PropertyNotation {
         
         //checkProperties.add(DBO_COUNTRY);
         //checkProperties.add(DC_DESCRIPTION);
-        String dbo_ClassName=dbo_Actor;
+        String dbo_ClassName=dbo_City;
         freqClasses.add(dbo_ClassName);
         String inputFile=allPoliticianFile;
         String fileType=DbpediaClass.ALL;
         DbpediaClass dbpediaClass = new DbpediaClass(dbo_ClassName, inputFile, TextAnalyzer.POS_TAGGER,fileType);
-        String classDir=getClassDir(dbo_Actor)+"/";
+        String classDir=getClassDir(dbo_ClassName)+"/";
         String rawFiles=dbpediaDir+classDir+"rawFiles/";
         makeClassDir(dbpediaDir+classDir);
       

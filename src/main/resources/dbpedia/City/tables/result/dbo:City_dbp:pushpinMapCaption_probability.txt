@@ -1,0 +1,246 @@
+id=175  property=dbp:pushpinMapCaption  object=Location in Assam, India  NumberOfEntitiesFoundForObject=11
+river-NN  multiply=0.04743083  P(river|object)=0.5454545455  P(object|river)=0.0869565217    
+major-JJ  multiply=0.038277512  P(major|object)=0.3636363636  P(object|major)=0.1052631579    
+part-NN  multiply=0.0223776224  P(part|object)=0.3636363636  P(object|part)=0.0615384615    
+north-JJ  multiply=0.017524644  P(north|object)=0.3636363636  P(object|north)=0.0481927711    
+city-NN  multiply=0.0149521531  P(city|object)=0.4545454545  P(object|city)=0.0328947368    
+town-NN  multiply=0.0125565043  P(town|object)=0.4545454545  P(object|town)=0.0276243094    
+
+id=176  property=dbp:pushpinMapCaption  object=Location in Uttar Pradesh, India  NumberOfEntitiesFoundForObject=28
+town-NN  multiply=0.0505130229  P(town|object)=0.5714285714  P(object|town)=0.0883977901    
+state-NN  multiply=0.0444889163  P(state|object)=0.6071428571  P(object|state)=0.0732758621    
+indian-JJ  multiply=0.0372670807  P(indian|object)=0.4285714286  P(object|indian)=0.0869565217    
+tehsil-JJ  multiply=0.0291666667  P(tehsil|object)=0.25  P(object|tehsil)=0.1166666667    
+area-NN  multiply=0.0272108844  P(area|object)=0.2857142857  P(object|area)=0.0952380952    
+panchayat-JJ  multiply=0.0234962406  P(panchayat|object)=0.1785714286  P(object|panchayat)=0.1315789474    
+region-NN  multiply=0.0212585034  P(region|object)=0.1785714286  P(object|region)=0.119047619    
+city-NN  multiply=0.0190319549  P(city|object)=0.3214285714  P(object|city)=0.0592105263    
+main-JJ  multiply=0.0189969605  P(main|object)=0.1785714286  P(object|main)=0.1063829787    
+population-NN  multiply=0.0183673469  P(population|object)=0.2142857143  P(object|population)=0.0857142857    
+census-NN  multiply=0.0178571429  P(census|object)=0.1428571429  P(object|census)=0.125    
+suburb-NN  multiply=0.0160714286  P(suburb|object)=0.1071428571  P(object|suburb)=0.15    
+border-NN  multiply=0.0160714286  P(border|object)=0.1071428571  P(object|border)=0.15    
+name-NN  multiply=0.0148809524  P(name|object)=0.1785714286  P(object|name)=0.0833333333    
+road-NN  multiply=0.0100250627  P(road|object)=0.1428571429  P(object|road)=0.0701754386    
+
+id=177  property=dbp:pushpinMapCaption  object=Location in Telangana, India  NumberOfEntitiesFoundForObject=17
+mandal-JJ  multiply=0.3095975232  P(mandal|object)=0.5882352941  P(object|mandal)=0.5263157895    
+name-NN  multiply=0.0352941176  P(name|object)=0.3529411765  P(object|name)=0.1    
+town-NN  multiply=0.0263243419  P(town|object)=0.5294117647  P(object|town)=0.0497237569    
+located-JJ  multiply=0.0261437908  P(located|object)=0.4705882353  P(object|located)=0.0555555556    
+railway-NN  multiply=0.0254372019  P(railway|object)=0.2352941176  P(object|railway)=0.1081081081    
+headquarters-NN  multiply=0.02413273  P(headquarters|object)=0.2352941176  P(object|headquarters)=0.1025641026    
+state-NN  multiply=0.0162271805  P(state|object)=0.4705882353  P(object|state)=0.0344827586    
+indian-JJ  multiply=0.0153452685  P(indian|object)=0.3529411765  P(object|indian)=0.0434782609    
+river-NN  multiply=0.0136402387  P(river|object)=0.2352941176  P(object|river)=0.0579710145    
+suburb-NN  multiply=0.0117647059  P(suburb|object)=0.1176470588  P(object|suburb)=0.1    
+
+id=178  property=dbp:pushpinMapCaption  object=Location in Karnataka, India  NumberOfEntitiesFoundForObject=11
+indian-JJ  multiply=0.0322793149  P(indian|object)=0.6363636364  P(object|indian)=0.0507246377    
+state-NN  multiply=0.0250783699  P(state|object)=0.7272727273  P(object|state)=0.0344827586    
+village-NN  multiply=0.0230473752  P(village|object)=0.5454545455  P(object|village)=0.0422535211    
+town-NN  multiply=0.0180813661  P(town|object)=0.5454545455  P(object|town)=0.0331491713    
+located-JJ  multiply=0.0157828283  P(located|object)=0.4545454545  P(object|located)=0.0347222222    
+small-JJ  multiply=0.0146103896  P(small|object)=0.2727272727  P(object|small)=0.0535714286    
+part-NN  multiply=0.0125874126  P(part|object)=0.2727272727  P(object|part)=0.0461538462    
+
+id=179  property=dbp:pushpinMapCaption  object=Location in Maharashtra, India  NumberOfEntitiesFoundForObject=40
+taluka-NN  multiply=0.1333333333  P(taluka|object)=0.3  P(object|taluka)=0.4444444444    
+subdivision-NN  multiply=0.0941176471  P(subdivision|object)=0.2  P(object|subdivision)=0.4705882353    
+council-NN  multiply=0.0941176471  P(council|object)=0.2  P(object|council)=0.4705882353    
+tehsil-JJ  multiply=0.09375  P(tehsil|object)=0.375  P(object|tehsil)=0.25    
+state-NN  multiply=0.0785560345  P(state|object)=0.675  P(object|state)=0.1163793103    
+town-NN  multiply=0.0668508287  P(town|object)=0.55  P(object|town)=0.1215469613    
+highway-NN  multiply=0.0630208333  P(highway|object)=0.275  P(object|highway)=0.2291666667    
+indian-JJ  multiply=0.0586956522  P(indian|object)=0.45  P(object|indian)=0.1304347826    
+city-NN  multiply=0.0532894737  P(city|object)=0.45  P(object|city)=0.1184210526    
+region-NN  multiply=0.0380952381  P(region|object)=0.2  P(object|region)=0.1904761905    
+famous-JJ  multiply=0.0314102564  P(famous|object)=0.175  P(object|famous)=0.1794871795    
+located-JJ  multiply=0.0293402778  P(located|object)=0.325  P(object|located)=0.0902777778    
+assembly-NN  multiply=0.0285714286  P(assembly|object)=0.1  P(object|assembly)=0.2857142857    
+road-NN  multiply=0.0280701754  P(road|object)=0.2  P(object|road)=0.1403508772    
+village-NN  multiply=0.0253521127  P(village|object)=0.3  P(object|village)=0.0845070423    
+temple-NN  multiply=0.025  P(temple|object)=0.15  P(object|temple)=0.1666666667    
+municipal-JJ  multiply=0.0240196078  P(municipal|object)=0.175  P(object|municipal)=0.137254902    
+river-NN  multiply=0.0177536232  P(river|object)=0.175  P(object|river)=0.1014492754    
+small-JJ  multiply=0.0160714286  P(small|object)=0.15  P(object|small)=0.1071428571    
+side-NN  multiply=0.015  P(side|object)=0.15  P(object|side)=0.1    
+place-NN  multiply=0.0125  P(place|object)=0.125  P(object|place)=0.1    
+suburb-NN  multiply=0.01125  P(suburb|object)=0.075  P(object|suburb)=0.15    
+old-JJ  multiply=0.0111111111  P(old|object)=0.1  P(object|old)=0.1111111111    
+area-NN  multiply=0.0107142857  P(area|object)=0.15  P(object|area)=0.0714285714    
+
+id=180  property=dbp:pushpinMapCaption  object=Location in Rajasthan, India  NumberOfEntitiesFoundForObject=28
+tehsil-JJ  multiply=0.1720238095  P(tehsil|object)=0.6071428571  P(object|tehsil)=0.2833333333    
+state-NN  multiply=0.039408867  P(state|object)=0.5714285714  P(object|state)=0.0689655172    
+village-NN  multiply=0.0362173038  P(village|object)=0.4285714286  P(object|village)=0.0845070423    
+town-NN  multiply=0.0333464878  P(town|object)=0.4642857143  P(object|town)=0.0718232044    
+headquarters-NN  multiply=0.032967033  P(headquarters|object)=0.2142857143  P(object|headquarters)=0.1538461538    
+name-NN  multiply=0.0291666667  P(name|object)=0.25  P(object|name)=0.1166666667    
+highway-NN  multiply=0.0267857143  P(highway|object)=0.2142857143  P(object|highway)=0.125    
+western-JJ  multiply=0.0228571429  P(western|object)=0.1428571429  P(object|western)=0.16    
+indian-JJ  multiply=0.0209627329  P(indian|object)=0.3214285714  P(object|indian)=0.0652173913    
+located-JJ  multiply=0.0200892857  P(located|object)=0.3214285714  P(object|located)=0.0625    
+city-NN  multiply=0.0190319549  P(city|object)=0.3214285714  P(object|city)=0.0592105263    
+west-JJ  multiply=0.0178571429  P(west|object)=0.2142857143  P(object|west)=0.0833333333    
+road-NN  multiply=0.0156641604  P(road|object)=0.1785714286  P(object|road)=0.0877192982    
+railway-NN  multiply=0.0154440154  P(railway|object)=0.1428571429  P(object|railway)=0.1081081081    
+municipality-NN  multiply=0.0146520147  P(municipality|object)=0.1428571429  P(object|municipality)=0.1025641026    
+region-NN  multiply=0.0136054422  P(region|object)=0.1428571429  P(object|region)=0.0952380952    
+capital-JJ  multiply=0.0128571429  P(capital|object)=0.1071428571  P(object|capital)=0.12    
+station-NN  multiply=0.0121580547  P(station|object)=0.1428571429  P(object|station)=0.085106383    
+municipal-JJ  multiply=0.0112044818  P(municipal|object)=0.1428571429  P(object|municipal)=0.0784313725    
+many-JJ  multiply=0.0103686636  P(many|object)=0.1071428571  P(object|many)=0.0967741935    
+
+id=181  property=dbp:pushpinMapCaption  object=Location in West Bengal, India  NumberOfEntitiesFoundForObject=13
+west-JJ  multiply=0.1805555556  P(west|object)=1.0  P(object|west)=0.1805555556    
+station-NN  multiply=0.0589198036  P(station|object)=0.4615384615  P(object|station)=0.1276595745    
+subdivision-NN  multiply=0.0407239819  P(subdivision|object)=0.2307692308  P(object|subdivision)=0.1764705882    
+eastern-JJ  multiply=0.0276923077  P(eastern|object)=0.2307692308  P(object|eastern)=0.12    
+north-JJ  multiply=0.0231696015  P(north|object)=0.3846153846  P(object|north)=0.0602409639    
+area-NN  multiply=0.0228937729  P(area|object)=0.3846153846  P(object|area)=0.0595238095    
+many-JJ  multiply=0.0223325062  P(many|object)=0.2307692308  P(object|many)=0.0967741935    
+state-NN  multiply=0.0212201592  P(state|object)=0.6153846154  P(object|state)=0.0344827586    
+indian-JJ  multiply=0.01393534  P(indian|object)=0.3846153846  P(object|indian)=0.0362318841    
+name-NN  multiply=0.0115384615  P(name|object)=0.2307692308  P(object|name)=0.05    
+part-NN  multiply=0.0106508876  P(part|object)=0.2307692308  P(object|part)=0.0461538462    
+
+id=182  property=dbp:pushpinMapCaption  object=Location in Andhra Pradesh, India  NumberOfEntitiesFoundForObject=10
+mandal-JJ  multiply=0.1894736842  P(mandal|object)=0.6  P(object|mandal)=0.3157894737    
+village-NN  multiply=0.0450704225  P(village|object)=0.8  P(object|village)=0.0563380282    
+headquarters-NN  multiply=0.0230769231  P(headquarters|object)=0.3  P(object|headquarters)=0.0769230769    
+famous-JJ  multiply=0.0230769231  P(famous|object)=0.3  P(object|famous)=0.0769230769    
+indian-JJ  multiply=0.018115942  P(indian|object)=0.5  P(object|indian)=0.0362318841    
+located-JJ  multiply=0.0173611111  P(located|object)=0.5  P(object|located)=0.0347222222    
+state-NN  multiply=0.0155172414  P(state|object)=0.6  P(object|state)=0.025862069    
+river-NN  multiply=0.0130434783  P(river|object)=0.3  P(object|river)=0.0434782609    
+temple-NN  multiply=0.0111111111  P(temple|object)=0.2  P(object|temple)=0.0555555556    
+
+id=183  property=dbp:pushpinMapCaption  object=Location in Pakistan  NumberOfEntitiesFoundForObject=11
+province-NN  multiply=0.5050505051  P(province|object)=0.9090909091  P(object|province)=0.5555555556    
+council-NN  multiply=0.0855614973  P(council|object)=0.3636363636  P(object|council)=0.2352941176    
+tehsil-JJ  multiply=0.0545454545  P(tehsil|object)=0.5454545455  P(object|tehsil)=0.1    
+road-NN  multiply=0.0398724083  P(road|object)=0.4545454545  P(object|road)=0.0877192982    
+capital-JJ  multiply=0.0327272727  P(capital|object)=0.2727272727  P(object|capital)=0.12    
+located-JJ  multiply=0.0227272727  P(located|object)=0.5454545455  P(object|located)=0.0416666667    
+major-JJ  multiply=0.0215311005  P(major|object)=0.2727272727  P(object|major)=0.0789473684    
+subdivision-NN  multiply=0.0213903743  P(subdivision|object)=0.1818181818  P(object|subdivision)=0.1176470588    
+famous-JJ  multiply=0.020979021  P(famous|object)=0.2727272727  P(object|famous)=0.0769230769    
+administrative-JJ  multiply=0.019138756  P(administrative|object)=0.1818181818  P(object|administrative)=0.1052631579    
+city-NN  multiply=0.0149521531  P(city|object)=0.4545454545  P(object|city)=0.0328947368    
+town-NN  multiply=0.0125565043  P(town|object)=0.4545454545  P(object|town)=0.0276243094    
+population-NN  multiply=0.0116883117  P(population|object)=0.2727272727  P(object|population)=0.0428571429    
+
+id=184  property=dbp:pushpinMapCaption  object=Location in Mexico  NumberOfEntitiesFoundForObject=13
+seat-NN  multiply=0.7384615385  P(seat|object)=0.9230769231  P(object|seat)=0.8    
+municipality-NN  multiply=0.2840236686  P(municipality|object)=0.9230769231  P(object|municipality)=0.3076923077    
+municipal-JJ  multiply=0.2171945701  P(municipal|object)=0.9230769231  P(object|municipal)=0.2352941176    
+western-JJ  multiply=0.1107692308  P(western|object)=0.4615384615  P(object|western)=0.24    
+state-NN  multiply=0.0560344828  P(state|object)=1.0  P(object|state)=0.0560344828    
+population-NN  multiply=0.0538461538  P(population|object)=0.5384615385  P(object|population)=0.1    
+city-NN  multiply=0.0506072874  P(city|object)=0.7692307692  P(object|city)=0.0657894737    
+north-JJ  multiply=0.0454124189  P(north|object)=0.5384615385  P(object|north)=0.0843373494    
+west-JJ  multiply=0.0384615385  P(west|object)=0.4615384615  P(object|west)=0.0833333333    
+eastern-JJ  multiply=0.0276923077  P(eastern|object)=0.2307692308  P(object|eastern)=0.12    
+town-NN  multiply=0.0106247344  P(town|object)=0.3846153846  P(object|town)=0.0276243094    
+
+id=185  property=dbp:pushpinMapCaption  object=Location in Tamil Nadu, India  NumberOfEntitiesFoundForObject=27
+village-NN  multiply=0.0845070423  P(village|object)=0.6666666667  P(object|village)=0.1267605634    
+panchayat-JJ  multiply=0.0623781676  P(panchayat|object)=0.2962962963  P(object|panchayat)=0.2105263158    
+temple-NN  multiply=0.037037037  P(temple|object)=0.2222222222  P(object|temple)=0.1666666667    
+state-NN  multiply=0.0359195402  P(state|object)=0.5555555556  P(object|state)=0.0646551724    
+indian-JJ  multiply=0.0324745035  P(indian|object)=0.4074074074  P(object|indian)=0.0797101449    
+small-JJ  multiply=0.0324074074  P(small|object)=0.2592592593  P(object|small)=0.125    
+part-NN  multiply=0.0279202279  P(part|object)=0.2592592593  P(object|part)=0.1076923077    
+south-JJ  multiply=0.0259259259  P(south|object)=0.2592592593  P(object|south)=0.1    
+town-NN  multiply=0.0247595662  P(town|object)=0.4074074074  P(object|town)=0.0607734807    
+located-JJ  multiply=0.0208333333  P(located|object)=0.3333333333  P(object|located)=0.0625    
+place-NN  multiply=0.0185185185  P(place|object)=0.1851851852  P(object|place)=0.1    
+area-NN  multiply=0.0158730159  P(area|object)=0.2222222222  P(object|area)=0.0714285714    
+main-JJ  multiply=0.012608353  P(main|object)=0.1481481481  P(object|main)=0.085106383    
+
+id=186  property=dbp:pushpinMapCaption  object=Location in Kerala, India  NumberOfEntitiesFoundForObject=23
+part-NN  multiply=0.054180602  P(part|object)=0.3913043478  P(object|part)=0.1384615385    
+village-NN  multiply=0.0370483772  P(village|object)=0.4782608696  P(object|village)=0.0774647887    
+town-NN  multiply=0.0345904396  P(town|object)=0.5217391304  P(object|town)=0.0662983425    
+state-NN  multiply=0.0316716642  P(state|object)=0.5652173913  P(object|state)=0.0560344828    
+place-NN  multiply=0.0313043478  P(place|object)=0.2608695652  P(object|place)=0.12    
+south-JJ  multiply=0.0304347826  P(south|object)=0.3043478261  P(object|south)=0.1    
+temple-NN  multiply=0.0301932367  P(temple|object)=0.2173913043  P(object|temple)=0.1388888889    
+southern-JJ  multiply=0.0244565217  P(southern|object)=0.1304347826  P(object|southern)=0.1875    
+city-NN  multiply=0.0231693364  P(city|object)=0.3913043478  P(object|city)=0.0592105263    
+highway-NN  multiply=0.0226449275  P(highway|object)=0.2173913043  P(object|highway)=0.1041666667    
+suburb-NN  multiply=0.0195652174  P(suburb|object)=0.1304347826  P(object|suburb)=0.15    
+located-JJ  multiply=0.0193236715  P(located|object)=0.347826087  P(object|located)=0.0555555556    
+road-NN  multiply=0.0190694127  P(road|object)=0.2173913043  P(object|road)=0.0877192982    
+east-JJ  multiply=0.0188580409  P(east|object)=0.2608695652  P(object|east)=0.0722891566    
+panchayat-JJ  multiply=0.0183066362  P(panchayat|object)=0.1739130435  P(object|panchayat)=0.1052631579    
+side-NN  multiply=0.018115942  P(side|object)=0.2173913043  P(object|side)=0.0833333333    
+river-NN  multiply=0.0157529931  P(river|object)=0.2173913043  P(object|river)=0.0724637681    
+west-JJ  multiply=0.0150966184  P(west|object)=0.2173913043  P(object|west)=0.0694444444    
+station-NN  multiply=0.0148011101  P(station|object)=0.1739130435  P(object|station)=0.085106383    
+area-NN  multiply=0.0129399586  P(area|object)=0.2173913043  P(object|area)=0.0595238095    
+indian-JJ  multiply=0.011342155  P(indian|object)=0.2608695652  P(object|indian)=0.0434782609    
+railway-NN  multiply=0.0105757932  P(railway|object)=0.1304347826  P(object|railway)=0.0810810811    
+famous-JJ  multiply=0.0100334448  P(famous|object)=0.1304347826  P(object|famous)=0.0769230769    
+
+id=187  property=dbp:pushpinMapCaption  object=Location in Madhya Pradesh, India  NumberOfEntitiesFoundForObject=13
+river-NN  multiply=0.0401337793  P(river|object)=0.4615384615  P(object|river)=0.0869565217    
+state-NN  multiply=0.0268567639  P(state|object)=0.6923076923  P(object|state)=0.0387931034    
+temple-NN  multiply=0.0192307692  P(temple|object)=0.2307692308  P(object|temple)=0.0833333333    
+city-NN  multiply=0.0182186235  P(city|object)=0.4615384615  P(object|city)=0.0394736842    
+indian-JJ  multiply=0.01393534  P(indian|object)=0.3846153846  P(object|indian)=0.0362318841    
+village-NN  multiply=0.0135427952  P(village|object)=0.3846153846  P(object|village)=0.0352112676    
+located-JJ  multiply=0.0133547009  P(located|object)=0.3846153846  P(object|located)=0.0347222222    
+small-JJ  multiply=0.0123626374  P(small|object)=0.2307692308  P(object|small)=0.0535714286    
+capital-JJ  multiply=0.0123076923  P(capital|object)=0.1538461538  P(object|capital)=0.08    
+road-NN  multiply=0.012145749  P(road|object)=0.2307692308  P(object|road)=0.0526315789    
+tehsil-JJ  multiply=0.0115384615  P(tehsil|object)=0.2307692308  P(object|tehsil)=0.05    
+town-NN  multiply=0.0106247344  P(town|object)=0.3846153846  P(object|town)=0.0276243094    
+
+id=188  property=dbp:pushpinMapCaption  object=Location in Bihar, India  NumberOfEntitiesFoundForObject=17
+block-NN  multiply=0.0756302521  P(block|object)=0.3529411765  P(object|block)=0.2142857143    
+state-NN  multiply=0.0570486815  P(state|object)=0.8823529412  P(object|state)=0.0646551724    
+indian-JJ  multiply=0.042625746  P(indian|object)=0.5882352941  P(object|indian)=0.0724637681    
+located-JJ  multiply=0.0408496732  P(located|object)=0.5882352941  P(object|located)=0.0694444444    
+assembly-NN  multiply=0.0378151261  P(assembly|object)=0.1764705882  P(object|assembly)=0.2142857143    
+town-NN  multiply=0.0324991875  P(town|object)=0.5882352941  P(object|town)=0.0552486188    
+west-JJ  multiply=0.0294117647  P(west|object)=0.3529411765  P(object|west)=0.0833333333    
+north-JJ  multiply=0.02551382  P(north|object)=0.3529411765  P(object|north)=0.0722891566    
+panchayat-JJ  multiply=0.0247678019  P(panchayat|object)=0.2352941176  P(object|panchayat)=0.1052631579    
+city-NN  multiply=0.0247678019  P(city|object)=0.4705882353  P(object|city)=0.0526315789    
+headquarters-NN  multiply=0.02413273  P(headquarters|object)=0.2352941176  P(object|headquarters)=0.1025641026    
+river-NN  multiply=0.021312873  P(river|object)=0.2941176471  P(object|river)=0.0724637681    
+south-JJ  multiply=0.0210084034  P(south|object)=0.2941176471  P(object|south)=0.0714285714    
+village-NN  multiply=0.0202982601  P(village|object)=0.4117647059  P(object|village)=0.0492957746    
+east-JJ  multiply=0.0177179305  P(east|object)=0.2941176471  P(object|east)=0.0602409639    
+small-JJ  multiply=0.0168067227  P(small|object)=0.2352941176  P(object|small)=0.0714285714    
+name-NN  multiply=0.0156862745  P(name|object)=0.2352941176  P(object|name)=0.0666666667    
+part-NN  multiply=0.014479638  P(part|object)=0.2352941176  P(object|part)=0.0615384615    
+railway-NN  multiply=0.0143084261  P(railway|object)=0.1764705882  P(object|railway)=0.0810810811    
+famous-JJ  multiply=0.0135746606  P(famous|object)=0.1764705882  P(object|famous)=0.0769230769    
+population-NN  multiply=0.0134453782  P(population|object)=0.2352941176  P(object|population)=0.0571428571    
+region-NN  multiply=0.012605042  P(region|object)=0.1764705882  P(object|region)=0.0714285714    
+border-NN  multiply=0.0117647059  P(border|object)=0.1176470588  P(object|border)=0.1    
+place-NN  multiply=0.0105882353  P(place|object)=0.1764705882  P(object|place)=0.06    
+
+id=189  property=dbp:pushpinMapCaption  object=Location in Gujarat, India  NumberOfEntitiesFoundForObject=35
+taluka-NN  multiply=0.128042328  P(taluka|object)=0.3142857143  P(object|taluka)=0.4074074074    
+state-NN  multiply=0.1035714286  P(state|object)=0.8285714286  P(object|state)=0.125    
+indian-JJ  multiply=0.0747412008  P(indian|object)=0.5428571429  P(object|indian)=0.1376811594    
+city-NN  multiply=0.0543233083  P(city|object)=0.4857142857  P(object|city)=0.1118421053    
+town-NN  multiply=0.0511444357  P(town|object)=0.5142857143  P(object|town)=0.0994475138    
+municipality-NN  multiply=0.0358974359  P(municipality|object)=0.2  P(object|municipality)=0.1794871795    
+located-JJ  multiply=0.033531746  P(located|object)=0.3714285714  P(object|located)=0.0902777778    
+highway-NN  multiply=0.0291666667  P(highway|object)=0.2  P(object|highway)=0.1458333333    
+village-NN  multiply=0.0289738431  P(village|object)=0.3428571429  P(object|village)=0.0845070423    
+municipal-JJ  multiply=0.0274509804  P(municipal|object)=0.2  P(object|municipal)=0.137254902    
+side-NN  multiply=0.0233333333  P(side|object)=0.2  P(object|side)=0.1166666667    
+many-JJ  multiply=0.0230414747  P(many|object)=0.1428571429  P(object|many)=0.1612903226    
+major-JJ  multiply=0.0187969925  P(major|object)=0.1428571429  P(object|major)=0.1315789474    
+area-NN  multiply=0.0166666667  P(area|object)=0.2  P(object|area)=0.0833333333    
+population-NN  multiply=0.0146938776  P(population|object)=0.1714285714  P(object|population)=0.0857142857    
+old-JJ  multiply=0.0126984127  P(old|object)=0.1142857143  P(object|old)=0.1111111111    
+river-NN  multiply=0.0103519669  P(river|object)=0.1428571429  P(object|river)=0.0724637681    
+western-JJ  multiply=0.0102857143  P(western|object)=0.0857142857  P(object|western)=0.12    
+

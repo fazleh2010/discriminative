@@ -30,6 +30,7 @@ public interface PropertyNotation {
     public static final String dbp_occupation = "dbp:occupation";
     public static final String dbo_Politician = "dbo:Politician";
     public static final String dbo_Actor = "dbo:Actor";
+    public static final String dbo_City = "dbo:City";
     public static final String dct_description = "dct:description";
     public static final String dbp_shortDescription = "dbp:shortDescription";
     public static final String dbo_activeYearsEndDate = "dbo:activeYearsEndDate";

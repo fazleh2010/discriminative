@@ -1,0 +1,27 @@
+id=85  property=dbp:populationBlank1Title  object=http://dbpedia.org/resource/Median_household_income  NumberOfEntitiesFoundForObject=34
+neighbourhood-NN  multiply=0.9411764706  P(neighbourhood|object)=0.9411764706  P(object|neighbourhood)=1.0    
+ownership-NN  multiply=0.8529411765  P(ownership|object)=0.8529411765  P(object|ownership)=1.0    
+income-NN  multiply=0.8529411765  P(income|object)=0.8529411765  P(object|income)=1.0    
+home-NN  multiply=0.8529411765  P(home|object)=0.8529411765  P(object|home)=1.0    
+dwelling-NN  multiply=0.8529411765  P(dwelling|object)=0.8529411765  P(object|dwelling)=1.0    
+average-JJ  multiply=0.8529411765  P(average|object)=0.8529411765  P(object|average)=1.0    
+area-NN  multiply=0.8313148789  P(area|object)=0.9117647059  P(object|area)=0.9117647059    
+rate-NN  multiply=0.8245098039  P(rate|object)=0.8529411765  P(object|rate)=0.9666666667    
+family-NN  multiply=0.8245098039  P(family|object)=0.8529411765  P(object|family)=0.9666666667    
+single-JJ  multiply=0.7647058824  P(single|object)=0.7647058824  P(object|single)=1.0    
+residential-JJ  multiply=0.7647058824  P(residential|object)=0.7647058824  P(object|residential)=1.0    
+value-NN  multiply=0.7352941176  P(value|object)=0.7352941176  P(object|value)=1.0    
+middle-income-JJ  multiply=0.5588235294  P(middle-income|object)=0.5588235294  P(object|middle-income)=1.0    
+low-density-JJ  multiply=0.5588235294  P(low-density|object)=0.5588235294  P(object|low-density)=1.0    
+suburban-JJ  multiply=0.5294117647  P(suburban|object)=0.5294117647  P(object|suburban)=1.0    
+subdivision-NN  multiply=0.5  P(subdivision|object)=0.5  P(object|subdivision)=1.0    
+city-NN  multiply=0.0408496732  P(city|object)=0.1470588235  P(object|city)=0.2777777778    
+population-NN  multiply=0.018907563  P(population|object)=0.0882352941  P(object|population)=0.2142857143    
+
+id=86  property=dbp:populationBlank1Title  object=Ethnicities  NumberOfEntitiesFoundForObject=25
+state-NN  multiply=0.5625  P(state|object)=0.6  P(object|state)=0.9375    
+seat-NN  multiply=0.48  P(seat|object)=0.48  P(object|seat)=1.0    
+city-NN  multiply=0.3755555556  P(city|object)=0.52  P(object|city)=0.7222222222    
+population-NN  multiply=0.3457142857  P(population|object)=0.44  P(object|population)=0.7857142857    
+area-NN  multiply=0.0105882353  P(area|object)=0.12  P(object|area)=0.0882352941    
+

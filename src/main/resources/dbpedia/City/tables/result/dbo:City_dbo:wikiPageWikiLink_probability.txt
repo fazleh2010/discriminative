@@ -1,0 +1,551 @@
+id=18  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_counties_in_Mississippi  NumberOfEntitiesFoundForObject=31
+county-NN  multiply=0.0103621602  P(county|object)=0.935483871  P(object|county)=0.011076792    
+census-NN  multiply=0.0100000332  P(census|object)=0.935483871  P(object|census)=0.0106896906    
+
+id=19  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Wisconsin  NumberOfEntitiesFoundForObject=136
+county-NN  multiply=0.0179449669  P(county|object)=0.9852941176  P(object|county)=0.0182128022    
+census-NN  multiply=0.0170880872  P(census|object)=0.9779411765  P(object|census)=0.0174735327    
+population-NN  multiply=0.0163965322  P(population|object)=1.0  P(object|population)=0.0163965322    
+state-NN  multiply=0.0154641222  P(state|object)=0.9485294118  P(object|state)=0.0163032607    
+located-JJ  multiply=0.010523735  P(located|object)=0.4558823529  P(object|located)=0.0230843219    
+town-NN  multiply=0.010290278  P(town|object)=0.4117647059  P(object|town)=0.0249906751    
+
+id=20  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Kentucky  NumberOfEntitiesFoundForObject=281
+rule-class-JJ  multiply=0.3580960854  P(rule-class|object)=0.409252669  P(object|rule-class)=0.875    
+6th-class-JJ  multiply=0.1318453512  P(6th-class|object)=0.1886120996  P(object|6th-class)=0.6990291262    
+home-NN  multiply=0.0456474562  P(home|object)=0.4590747331  P(object|home)=0.099433606    
+county-NN  multiply=0.0340786466  P(county|object)=0.9608540925  P(object|county)=0.0354670359    
+census-NN  multiply=0.033675598  P(census|object)=0.975088968  P(object|census)=0.0345359235    
+state-NN  multiply=0.0334999384  P(state|object)=0.9822064057  P(object|state)=0.0341068214    
+population-NN  multiply=0.0311491858  P(population|object)=0.975088968  P(object|population)=0.031944968    
+seat-NN  multiply=0.0129332483  P(seat|object)=0.3238434164  P(object|seat)=0.0399367339    
+
+id=21  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Pine  NumberOfEntitiesFoundForObject=14
+density-NN  multiply=0.0398300584  P(density|object)=0.7142857143  P(object|density)=0.0557620818    
+total-JJ  multiply=0.0265344412  P(total|object)=0.7857142857  P(object|total)=0.0337711069    
+square-JJ  multiply=0.018735363  P(square|object)=0.5714285714  P(object|square)=0.0327868852    
+estimate-NN  multiply=0.0139719068  P(estimate|object)=0.7857142857  P(object|estimate)=0.0177824268    
+
+id=22  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Canadian_Football_League  NumberOfEntitiesFoundForObject=67
+large-JJ  multiply=0.0101042021  P(large|object)=0.4328358209  P(object|large)=0.0233441911    
+
+id=23  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_counties_in_Missouri  NumberOfEntitiesFoundForObject=497
+census-NN  multiply=0.0673267687  P(census|object)=0.9939637827  P(object|census)=0.0677356357    
+county-NN  multiply=0.0641595874  P(county|object)=0.9456740443  P(object|county)=0.0678453509    
+population-NN  multiply=0.0620993204  P(population|object)=0.9939637827  P(object|population)=0.0624764418    
+state-NN  multiply=0.0593358108  P(state|object)=0.9416498994  P(object|state)=0.0630126025    
+
+id=24  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_counties_in_Arkansas  NumberOfEntitiesFoundForObject=193
+county-NN  multiply=0.0308960381  P(county|object)=0.9637305699  P(object|county)=0.0320587922    
+census-NN  multiply=0.0293210246  P(census|object)=0.9637305699  P(object|census)=0.0304245041    
+population-NN  multiply=0.0279232231  P(population|object)=0.9844559585  P(object|population)=0.0283641161    
+state-NN  multiply=0.0267333259  P(state|object)=0.9378238342  P(object|state)=0.0285057011    
+metropolitan-JJ  multiply=0.0156747735  P(metropolitan|object)=0.3419689119  P(object|metropolitan)=0.0458368377    
+area-NN  multiply=0.0145412001  P(area|object)=0.4352331606  P(object|area)=0.0334101382    
+
+id=25  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/CBS  NumberOfEntitiesFoundForObject=142
+seat-NN  multiply=0.0542662857  P(seat|object)=0.676056338  P(object|seat)=0.080268881    
+large-JJ  multiply=0.0378148369  P(large|object)=0.4436619718  P(object|large)=0.0852334419    
+principal-JJ  multiply=0.0288344239  P(principal|object)=0.1830985915  P(object|principal)=0.157480315    
+county-NN  multiply=0.0255288253  P(county|object)=0.9436619718  P(object|county)=0.0270529343    
+state-NN  multiply=0.0246281651  P(state|object)=0.9507042254  P(object|state)=0.025905181    
+population-NN  multiply=0.0240851441  P(population|object)=0.9718309859  P(object|population)=0.0247832642    
+center-JJ  multiply=0.0232781303  P(center|object)=0.2253521127  P(object|center)=0.1032967033    
+area-NN  multiply=0.0227818524  P(area|object)=0.5492957746  P(object|area)=0.0414746544    
+estimate-NN  multiply=0.0224306088  P(estimate|object)=0.2464788732  P(object|estimate)=0.0910041841    
+census-NN  multiply=0.0221133565  P(census|object)=0.9154929577  P(object|census)=0.0241545894    
+south-JJ  multiply=0.0217573675  P(south|object)=0.4295774648  P(object|south)=0.0506482982    
+home-NN  multiply=0.0205816396  P(home|object)=0.3028169014  P(object|home)=0.067967275    
+metropolitan-JJ  multiply=0.0201731838  P(metropolitan|object)=0.3661971831  P(object|metropolitan)=0.0550883095    
+river-NN  multiply=0.0189404273  P(river|object)=0.3169014085  P(object|river)=0.0597675706    
+port-JJ  multiply=0.0174717115  P(port|object)=0.2816901408  P(object|port)=0.0620245758    
+west-JJ  multiply=0.0169954257  P(west|object)=0.3309859155  P(object|west)=0.0513478819    
+populous-JJ  multiply=0.0169054674  P(populous|object)=0.1197183099  P(object|populous)=0.1412103746    
+region-NN  multiply=0.0153783594  P(region|object)=0.2253521127  P(object|region)=0.0682414698    
+north-JJ  multiply=0.0153187945  P(north|object)=0.3591549296  P(object|north)=0.0426523297    
+located-JJ  multiply=0.0152992337  P(located|object)=0.3943661972  P(object|located)=0.0387944854    
+name-NN  multiply=0.0146568911  P(name|object)=0.3028169014  P(object|name)=0.0484018265    
+side-NN  multiply=0.0130926403  P(side|object)=0.2323943662  P(object|side)=0.0563380282    
+east-JJ  multiply=0.0128570226  P(east|object)=0.2746478873  P(object|east)=0.046812749    
+land-NN  multiply=0.0125326906  P(land|object)=0.2605633803  P(object|land)=0.048098434    
+third-JJ  multiply=0.0118364913  P(third|object)=0.0845070423  P(object|third)=0.1400651466    
+town-NN  multiply=0.0117204533  P(town|object)=0.323943662  P(object|town)=0.0361805297    
+major-JJ  multiply=0.0101861167  P(major|object)=0.1267605634  P(object|major)=0.0803571429    
+
+id=26  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_counties_in_Michigan  NumberOfEntitiesFoundForObject=126
+county-NN  multiply=0.0286344878  P(county|object)=0.9920634921  P(object|county)=0.0288635637    
+town-NN  multiply=0.0284778838  P(town|object)=0.5158730159  P(object|town)=0.0552032824    
+census-NN  multiply=0.0274298571  P(census|object)=0.9920634921  P(object|census)=0.0276492959    
+state-NN  multiply=0.0257607077  P(state|object)=0.9682539683  P(object|state)=0.0266053211    
+population-NN  multiply=0.0253344522  P(population|object)=0.9920634921  P(object|population)=0.0255371278    
+independent-JJ  multiply=0.0207570208  P(independent|object)=0.1111111111  P(object|independent)=0.1868131868    
+located-JJ  multiply=0.0119798267  P(located|object)=0.3492063492  P(object|located)=0.0343058673    
+suburb-NN  multiply=0.0117577895  P(suburb|object)=0.1825396825  P(object|suburb)=0.0644122383    
+west-JJ  multiply=0.0105140901  P(west|object)=0.2857142857  P(object|west)=0.0367993154    
+
+id=27  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Jefferson_County,_Kentucky  NumberOfEntitiesFoundForObject=81
+6th-class-JJ  multiply=0.1823085221  P(6th-class|object)=0.4814814815  P(object|6th-class)=0.3786407767    
+rule-class-JJ  multiply=0.0278549383  P(rule-class|object)=0.2345679012  P(object|rule-class)=0.11875    
+
+id=28  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Song_dynasty  NumberOfEntitiesFoundForObject=12
+province-NN  multiply=0.0178571429  P(province|object)=0.5  P(object|province)=0.0357142857    
+
+id=29  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_West_Virginia  NumberOfEntitiesFoundForObject=36
+west-JJ  multiply=0.0222507488  P(west|object)=1.0  P(object|west)=0.0222507488    
+
+id=30  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Métis_people_(Canada)  NumberOfEntitiesFoundForObject=13
+centre-NN  multiply=0.0220680958  P(centre|object)=0.3846153846  P(object|centre)=0.0573770492    
+municipal-JJ  multiply=0.0164566485  P(municipal|object)=0.3846153846  P(object|municipal)=0.0427872861    
+region-NN  multiply=0.0161518272  P(region|object)=0.4615384615  P(object|region)=0.0349956255    
+municipality-NN  multiply=0.0161336791  P(municipality|object)=0.3076923077  P(object|municipality)=0.0524344569    
+
+id=31  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Sikh  NumberOfEntitiesFoundForObject=134
+headquarters-NN  multiply=0.0219065961  P(headquarters|object)=0.1567164179  P(object|headquarters)=0.1397849462    
+district-NN  multiply=0.0193513814  P(district|object)=0.2910447761  P(object|district)=0.0664893617    
+municipal-JJ  multiply=0.0151808196  P(municipal|object)=0.1940298507  P(object|municipal)=0.0782396088    
+indian-JJ  multiply=0.0122367614  P(indian|object)=0.1567164179  P(object|indian)=0.0780821918    
+administrative-JJ  multiply=0.010953298  P(administrative|object)=0.1044776119  P(object|administrative)=0.1048387097    
+
+id=32  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Maryland  NumberOfEntitiesFoundForObject=12
+land-NN  multiply=0.0123042506  P(land|object)=0.9166666667  P(object|land)=0.0134228188    
+
+id=33  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/John_McCain  NumberOfEntitiesFoundForObject=12
+increase-NN  multiply=0.0821596244  P(increase|object)=0.5833333333  P(object|increase)=0.1408450704    
+decline-NN  multiply=0.0408163265  P(decline|object)=0.3333333333  P(object|decline)=0.1224489796    
+portion-NN  multiply=0.0388471178  P(portion|object)=0.5  P(object|portion)=0.0776942356    
+line-NN  multiply=0.0206997863  P(line|object)=0.4166666667  P(object|line)=0.0496794872    
+port-JJ  multiply=0.0146771991  P(port|object)=0.5833333333  P(object|port)=0.0251609128    
+town-NN  multiply=0.0129304986  P(town|object)=0.6666666667  P(object|town)=0.0193957479    
+
+id=34  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Georgia_(U.S._state)  NumberOfEntitiesFoundForObject=235
+census-NN  multiply=0.0411911744  P(census|object)=0.9276595745  P(object|census)=0.0444033302    
+county-NN  multiply=0.0408259552  P(county|object)=0.8893617021  P(object|county)=0.0459047822    
+population-NN  multiply=0.0399712088  P(population|object)=0.9489361702  P(object|population)=0.0421221259    
+state-NN  multiply=0.0394393772  P(state|object)=0.9191489362  P(object|state)=0.0429085817    
+metropolitan-JJ  multiply=0.0154608736  P(metropolitan|object)=0.2553191489  P(object|metropolitan)=0.0605550883    
+part-NN  multiply=0.0153956646  P(part|object)=0.3021276596  P(object|part)=0.0509574813    
+area-NN  multiply=0.0153279733  P(area|object)=0.3446808511  P(object|area)=0.0444700461    
+
+id=35  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_neighbourhoods_in_Saskatoon  NumberOfEntitiesFoundForObject=15
+density-NN  multiply=0.0557620818  P(density|object)=0.6  P(object|density)=0.092936803    
+side-NN  multiply=0.0183839881  P(side|object)=0.8  P(object|side)=0.0229799852    
+suburban-JJ  multiply=0.0169014085  P(suburban|object)=0.1333333333  P(object|suburban)=0.1267605634    
+home-NN  multiply=0.0133836795  P(home|object)=0.7333333333  P(object|home)=0.018250472    
+
+id=36  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_South_Carolina  NumberOfEntitiesFoundForObject=51
+south-JJ  multiply=0.0275526742  P(south|object)=1.0  P(object|south)=0.0275526742    
+
+id=37  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Chinese_Civil_War  NumberOfEntitiesFoundForObject=22
+province-NN  multiply=0.0185064935  P(province|object)=0.5454545455  P(object|province)=0.0339285714    
+
+id=38  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_North_Carolina  NumberOfEntitiesFoundForObject=42
+north-JJ  multiply=0.0254480287  P(north|object)=1.0  P(object|north)=0.0254480287    
+
+id=39  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_North_Dakota  NumberOfEntitiesFoundForObject=330
+north-JJ  multiply=0.1250678831  P(north|object)=0.996969697  P(object|north)=0.1254480287    
+census-NN  multiply=0.0357634314  P(census|object)=0.996969697  P(object|census)=0.0358721349    
+county-NN  multiply=0.0357571885  P(county|object)=0.9787878788  P(object|county)=0.036532112    
+state-NN  multiply=0.0349009196  P(state|object)=0.996969697  P(object|state)=0.0350070014    
+population-NN  multiply=0.0328815863  P(population|object)=0.996969697  P(object|population)=0.0329815303    
+
+id=40  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Greater_Houston  NumberOfEntitiesFoundForObject=83
+land-NN  multiply=0.0140899167  P(land|object)=0.4939759036  P(object|land)=0.0285234899    
+county-NN  multiply=0.0102388465  P(county|object)=0.9518072289  P(object|county)=0.0107572691    
+
+id=41  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Monsoon  NumberOfEntitiesFoundForObject=131
+province-NN  multiply=0.0212649945  P(province|object)=0.1984732824  P(object|province)=0.1071428571    
+urban-JJ  multiply=0.0130021033  P(urban|object)=0.1297709924  P(object|urban)=0.1001926782    
+district-NN  multiply=0.0124299578  P(district|object)=0.2366412214  P(object|district)=0.0525265957    
+
+id=42  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:San_Antonio_metropolitan_area  NumberOfEntitiesFoundForObject=16
+metropolitan-JJ  multiply=0.0153753154  P(metropolitan|object)=0.9375  P(object|metropolitan)=0.0164003364    
+part-NN  multiply=0.0115628043  P(part|object)=0.9375  P(object|part)=0.0123336579    
+
+id=43  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Suburb  NumberOfEntitiesFoundForObject=32
+suburb-NN  multiply=0.1284219002  P(suburb|object)=0.6875  P(object|suburb)=0.1867954911    
+suburban-JJ  multiply=0.076584507  P(suburban|object)=0.375  P(object|suburban)=0.2042253521    
+urban-JJ  multiply=0.026734104  P(urban|object)=0.375  P(object|urban)=0.0712909441    
+side-NN  multiply=0.0142466642  P(side|object)=0.46875  P(object|side)=0.0303928836    
+density-NN  multiply=0.0140566914  P(density|object)=0.34375  P(object|density)=0.0408921933    
+central-JJ  multiply=0.0125083668  P(central|object)=0.40625  P(object|central)=0.030789826    
+area-NN  multiply=0.0108870968  P(area|object)=0.5625  P(object|area)=0.0193548387    
+
+id=44  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_counties_in_Iowa  NumberOfEntitiesFoundForObject=772
+census-NN  multiply=0.094643598  P(census|object)=0.9922279793  P(object|census)=0.0953849316    
+county-NN  multiply=0.0913297283  P(county|object)=0.9559585492  P(object|county)=0.0955373309    
+state-NN  multiply=0.09110164  P(state|object)=0.9857512953  P(object|state)=0.0924184837    
+population-NN  multiply=0.086955524  P(population|object)=0.9922279793  P(object|population)=0.0876366378    
+part-NN  multiply=0.0217915925  P(part|object)=0.2707253886  P(object|part)=0.0804933463    
+metropolitan-JJ  multiply=0.0167402398  P(metropolitan|object)=0.2020725389  P(object|metropolitan)=0.082842725    
+area-NN  multiply=0.0161251522  P(area|object)=0.268134715  P(object|area)=0.0601382488    
+
+id=45  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Tarrant_County,_Texas  NumberOfEntitiesFoundForObject=26
+suburb-NN  multiply=0.0138734052  P(suburb|object)=0.5384615385  P(object|suburb)=0.0257648953    
+
+id=46  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_counties_in_Alabama  NumberOfEntitiesFoundForObject=67
+census-NN  multiply=0.0158550448  P(census|object)=0.9701492537  P(object|census)=0.0163428924    
+population-NN  multiply=0.0156426687  P(population|object)=1.0  P(object|population)=0.0156426687    
+state-NN  multiply=0.0156225275  P(state|object)=0.9701492537  P(object|state)=0.0161032206    
+county-NN  multiply=0.014593133  P(county|object)=0.8955223881  P(object|county)=0.0162956651    
+
+id=47  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Indianapolis_metropolitan_area  NumberOfEntitiesFoundForObject=10
+indian-JJ  multiply=0.0205479452  P(indian|object)=1.0  P(object|indian)=0.0205479452    
+
+id=48  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_regions_of_India  NumberOfEntitiesFoundForObject=10
+headquarters-NN  multiply=0.0129032258  P(headquarters|object)=0.2  P(object|headquarters)=0.064516129    
+district-NN  multiply=0.0114361702  P(district|object)=0.4  P(object|district)=0.0285904255    
+
+id=49  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Minnesota  NumberOfEntitiesFoundForObject=802
+county-NN  multiply=0.0855892275  P(county|object)=0.9788029925  P(object|county)=0.0874427522    
+census-NN  multiply=0.08414671  P(census|object)=0.9875311721  P(object|census)=0.0852091685    
+state-NN  multiply=0.0785786833  P(state|object)=0.9663341646  P(object|state)=0.0813162633    
+population-NN  multiply=0.0776197463  P(population|object)=0.9900249377  P(object|population)=0.0784018093    
+main-JJ  multiply=0.0328916558  P(main|object)=0.180798005  P(object|main)=0.1819248826    
+community-NN  multiply=0.0136968963  P(community|object)=0.1097256858  P(object|community)=0.1248285322    
+
+id=50  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Amtrak  NumberOfEntitiesFoundForObject=382
+seat-NN  multiply=0.0552129331  P(seat|object)=0.5497382199  P(object|seat)=0.1004349545    
+large-JJ  multiply=0.0524270796  P(large|object)=0.445026178  P(object|large)=0.1178067318    
+area-NN  multiply=0.040367216  P(area|object)=0.612565445  P(object|area)=0.0658986175    
+metropolitan-JJ  multiply=0.0399077055  P(metropolitan|object)=0.4476439791  P(object|metropolitan)=0.0891505467    
+county-NN  multiply=0.0398957452  P(county|object)=0.9136125654  P(object|county)=0.0436681223    
+center-JJ  multiply=0.0394913987  P(center|object)=0.2722513089  P(object|center)=0.1450549451    
+population-NN  multiply=0.036899598  P(population|object)=0.9345549738  P(object|population)=0.0394836035    
+state-NN  multiply=0.0345273243  P(state|object)=0.8717277487  P(object|state)=0.0396079216    
+home-NN  multiply=0.0327974721  P(home|object)=0.3298429319  P(object|home)=0.099433606    
+census-NN  multiply=0.0324904385  P(census|object)=0.8429319372  P(object|census)=0.0385445575    
+north-JJ  multiply=0.0306217043  P(north|object)=0.4293193717  P(object|north)=0.0713261649    
+river-NN  multiply=0.0301329617  P(river|object)=0.3403141361  P(object|river)=0.088544549    
+south-JJ  multiply=0.0288297538  P(south|object)=0.3952879581  P(object|south)=0.0729335494    
+port-JJ  multiply=0.0284052093  P(port|object)=0.3193717277  P(object|port)=0.0889409011    
+located-JJ  multiply=0.0277256941  P(located|object)=0.4345549738  P(object|located)=0.0638025008    
+principal-JJ  multiply=0.026830743  P(principal|object)=0.1439790576  P(object|principal)=0.186351706    
+east-JJ  multiply=0.0264035481  P(east|object)=0.3376963351  P(object|east)=0.078187251    
+estimate-NN  multiply=0.026375167  P(estimate|object)=0.2251308901  P(object|estimate)=0.1171548117    
+populous-JJ  multiply=0.0262836278  P(populous|object)=0.1361256545  P(object|populous)=0.1930835735    
+side-NN  multiply=0.0261624861  P(side|object)=0.280104712  P(object|side)=0.0934025204    
+west-JJ  multiply=0.0252169179  P(west|object)=0.3507853403  P(object|west)=0.0718870347    
+name-NN  multiply=0.0247077387  P(name|object)=0.3403141361  P(object|name)=0.0726027397    
+second-JJ  multiply=0.0232894024  P(second|object)=0.1570680628  P(object|second)=0.1482758621    
+region-NN  multiply=0.0219180718  P(region|object)=0.2277486911  P(object|region)=0.0962379703    
+land-NN  multiply=0.0218633238  P(land|object)=0.2853403141  P(object|land)=0.0766219239    
+major-JJ  multiply=0.0183012341  P(major|object)=0.1518324607  P(object|major)=0.1205357143    
+world-NN  multiply=0.0182032523  P(world|object)=0.1465968586  P(object|world)=0.1241721854    
+town-NN  multiply=0.0171314134  P(town|object)=0.3167539267  P(object|town)=0.0540842969    
+part-NN  multiply=0.016014383  P(part|object)=0.3246073298  P(object|part)=0.0493346316    
+central-JJ  multiply=0.0154264528  P(central|object)=0.1623036649  P(object|central)=0.0950468541    
+third-JJ  multiply=0.0153486706  P(third|object)=0.0942408377  P(object|third)=0.1628664495    
+coast-NN  multiply=0.0146245869  P(coast|object)=0.1047120419  P(object|coast)=0.1396648045    
+century-NN  multiply=0.0145188966  P(century|object)=0.1151832461  P(object|century)=0.1260504202    
+western-JJ  multiply=0.0143128689  P(western|object)=0.1518324607  P(object|western)=0.0942675159    
+downtown-NN  multiply=0.0142931937  P(downtown|object)=0.1020942408  P(object|downtown)=0.14    
+historic-JJ  multiply=0.013221909  P(historic|object)=0.1282722513  P(object|historic)=0.1030769231    
+railroad-NN  multiply=0.0125840881  P(railroad|object)=0.0942408377  P(object|railroad)=0.1335311573    
+first-JJ  multiply=0.0124756293  P(first|object)=0.1335078534  P(object|first)=0.0934449093    
+southern-JJ  multiply=0.0124622757  P(southern|object)=0.1230366492  P(object|southern)=0.1012891344    
+eastern-JJ  multiply=0.011887599  P(eastern|object)=0.1230366492  P(object|eastern)=0.0966183575    
+hub-NN  multiply=0.0112191473  P(hub|object)=0.0785340314  P(object|hub)=0.1428571429    
+several-JJ  multiply=0.0106597439  P(several|object)=0.0916230366  P(object|several)=0.1163434903    
+place-NN  multiply=0.010079182  P(place|object)=0.1335078534  P(object|place)=0.0754950495    
+
+id=51  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/India  NumberOfEntitiesFoundForObject=71
+district-NN  multiply=0.1352637099  P(district|object)=0.323943662  P(object|district)=0.4175531915    
+indian-JJ  multiply=0.0925525757  P(indian|object)=0.1830985915  P(object|indian)=0.5054794521    
+village-NN  multiply=0.0374153317  P(village|object)=0.1690140845  P(object|village)=0.2213740458    
+town-NN  multiply=0.0198790655  P(town|object)=0.1549295775  P(object|town)=0.128310332    
+state-NN  multiply=0.0168625274  P(state|object)=0.2957746479  P(object|state)=0.0570114023    
+bank-NN  multiply=0.0135479544  P(bank|object)=0.0563380282  P(object|bank)=0.2404761905    
+municipal-JJ  multiply=0.011622301  P(municipal|object)=0.0422535211  P(object|municipal)=0.2750611247    
+famous-JJ  multiply=0.0112587752  P(famous|object)=0.0422535211  P(object|famous)=0.2664576803    
+place-NN  multiply=0.0104587924  P(place|object)=0.0845070423  P(object|place)=0.1237623762    
+
+id=52  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Virginia  NumberOfEntitiesFoundForObject=13
+independent-JJ  multiply=0.1813186813  P(independent|object)=1.0  P(object|independent)=0.1813186813    
+
+id=53  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/States_and_territories_of_India  NumberOfEntitiesFoundForObject=13
+district-NN  multiply=0.1726166121  P(district|object)=0.3846153846  P(object|district)=0.4488031915    
+village-NN  multiply=0.1152378156  P(village|object)=0.3846153846  P(object|village)=0.2996183206    
+headquarters-NN  multiply=0.0358974359  P(headquarters|object)=0.0769230769  P(object|headquarters)=0.4666666667    
+town-NN  multiply=0.0320201991  P(town|object)=0.2307692308  P(object|town)=0.1387541962    
+administrative-JJ  multiply=0.0233664185  P(administrative|object)=0.0769230769  P(object|administrative)=0.3037634409    
+famous-JJ  multiply=0.0219435737  P(famous|object)=0.0769230769  P(object|famous)=0.2852664577    
+region-NN  multiply=0.0218049667  P(region|object)=0.2307692308  P(object|region)=0.094488189    
+main-JJ  multiply=0.0146262189  P(main|object)=0.1538461538  P(object|main)=0.0950704225    
+state-NN  multiply=0.0134103744  P(state|object)=0.2307692308  P(object|state)=0.0581116223    
+south-JJ  multiply=0.0130906371  P(south|object)=0.2307692308  P(object|south)=0.056726094    
+place-NN  multiply=0.0103769992  P(place|object)=0.0769230769  P(object|place)=0.1349009901    
+west-JJ  multiply=0.010335407  P(west|object)=0.1538461538  P(object|west)=0.0671801455    
+
+id=54  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Tagalog_language  NumberOfEntitiesFoundForObject=14
+province-NN  multiply=0.0172193878  P(province|object)=0.3571428571  P(object|province)=0.0482142857    
+municipality-NN  multiply=0.0101658641  P(municipality|object)=0.2857142857  P(object|municipality)=0.0355805243    
+
+id=55  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Oklahoma  NumberOfEntitiesFoundForObject=129
+percent-NN  multiply=0.1649593946  P(percent|object)=0.4263565891  P(object|percent)=0.3869047619    
+increase-NN  multiply=0.0222731739  P(increase|object)=0.1860465116  P(object|increase)=0.1197183099    
+decline-NN  multiply=0.0158202816  P(decline|object)=0.1550387597  P(object|decline)=0.1020408163    
+census-NN  multiply=0.0152600592  P(census|object)=0.976744186  P(object|census)=0.015623394    
+population-NN  multiply=0.0143993782  P(population|object)=0.992248062  P(object|population)=0.0145118734    
+county-NN  multiply=0.0140499232  P(county|object)=0.9224806202  P(object|county)=0.015230589    
+state-NN  multiply=0.0140190829  P(state|object)=0.9534883721  P(object|state)=0.0147029406    
+
+id=56  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/UNESCO  NumberOfEntitiesFoundForObject=10
+province-NN  multiply=0.0198214286  P(province|object)=0.3  P(object|province)=0.0660714286    
+pronunciation-NN  multiply=0.0157068063  P(pronunciation|object)=0.1  P(object|pronunciation)=0.1570680628    
+historic-JJ  multiply=0.012  P(historic|object)=0.2  P(object|historic)=0.06    
+important-JJ  multiply=0.0101639344  P(important|object)=0.1  P(object|important)=0.1016393443    
+
+id=57  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Cherokee  NumberOfEntitiesFoundForObject=54
+seat-NN  multiply=0.0110715698  P(seat|object)=0.4444444444  P(object|seat)=0.024911032    
+county-NN  multiply=0.0101596431  P(county|object)=0.9444444444  P(object|county)=0.0107572691    
+
+id=58  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Algonquian_languages  NumberOfEntitiesFoundForObject=26
+independent-JJ  multiply=0.0103550296  P(independent|object)=0.2692307692  P(object|independent)=0.0384615385    
+
+id=59  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Hispanic  NumberOfEntitiesFoundForObject=21
+county-NN  multiply=0.0162297319  P(county|object)=0.9523809524  P(object|county)=0.0170412184    
+population-NN  multiply=0.0147182884  P(population|object)=0.9523809524  P(object|population)=0.0154542028    
+census-NN  multiply=0.0143214445  P(census|object)=0.9047619048  P(object|census)=0.015828965    
+state-NN  multiply=0.0123881919  P(state|object)=0.8095238095  P(object|state)=0.0153030606    
+located-JJ  multiply=0.0120612528  P(located|object)=0.4761904762  P(object|located)=0.025328631    
+
+id=60  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Census  NumberOfEntitiesFoundForObject=450
+state-NN  multiply=0.0323518037  P(state|object)=0.0377777778  P(object|state)=0.8563712743    
+district-NN  multiply=0.0176507092  P(district|object)=0.0488888889  P(object|district)=0.361037234    
+indian-JJ  multiply=0.0160730594  P(indian|object)=0.0266666667  P(object|indian)=0.602739726    
+town-NN  multiply=0.0144473455  P(town|object)=0.0222222222  P(object|town)=0.6501305483    
+
+id=61  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Tennessee  NumberOfEntitiesFoundForObject=71
+census-NN  multiply=0.0263709919  P(census|object)=0.9718309859  P(object|census)=0.0271353685    
+population-NN  multiply=0.0257348842  P(population|object)=0.985915493  P(object|population)=0.0261025254    
+county-NN  multiply=0.0240992231  P(county|object)=0.8873239437  P(object|county)=0.0271594419    
+state-NN  multiply=0.0125095442  P(state|object)=0.5633802817  P(object|state)=0.0222044409    
+
+id=62  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Telugu_language  NumberOfEntitiesFoundForObject=87
+district-NN  multiply=0.0197481047  P(district|object)=0.4367816092  P(object|district)=0.045212766    
+indian-JJ  multiply=0.0162021729  P(indian|object)=0.2413793103  P(object|indian)=0.0671232877    
+headquarters-NN  multiply=0.0151279199  P(headquarters|object)=0.1954022989  P(object|headquarters)=0.0774193548    
+
+id=63  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/2002_FIFA_World_Cup  NumberOfEntitiesFoundForObject=13
+pronunciation-NN  multiply=0.0100684656  P(pronunciation|object)=0.3846153846  P(object|pronunciation)=0.0261780105    
+
+id=64  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Barangay  NumberOfEntitiesFoundForObject=11
+province-NN  multiply=0.0350649351  P(province|object)=0.2727272727  P(object|province)=0.1285714286    
+
+id=65  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Utah  NumberOfEntitiesFoundForObject=122
+metropolitan-JJ  multiply=0.0180134843  P(metropolitan|object)=0.5491803279  P(object|metropolitan)=0.0328006728    
+county-NN  multiply=0.0145618608  P(county|object)=0.9836065574  P(object|county)=0.0148045585    
+census-NN  multiply=0.0138356005  P(census|object)=0.9754098361  P(object|census)=0.0141843972    
+state-NN  multiply=0.0136748661  P(state|object)=0.9836065574  P(object|state)=0.0139027806    
+population-NN  multiply=0.0129910154  P(population|object)=0.9918032787  P(object|population)=0.0130983792    
+area-NN  multiply=0.0127747979  P(area|object)=0.6229508197  P(object|area)=0.0205069124    
+part-NN  multiply=0.0124028285  P(part|object)=0.5163934426  P(object|part)=0.0240181759    
+
+id=66  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Florida  NumberOfEntitiesFoundForObject=155
+metropolitan-JJ  multiply=0.0292275971  P(metropolitan|object)=0.5225806452  P(object|metropolitan)=0.0559293524    
+county-NN  multiply=0.0238096056  P(county|object)=0.9677419355  P(object|county)=0.0246032591    
+area-NN  multiply=0.0235469006  P(area|object)=0.6387096774  P(object|area)=0.0368663594    
+state-NN  multiply=0.0219656835  P(state|object)=0.9548387097  P(object|state)=0.0230046009    
+census-NN  multiply=0.0207673102  P(census|object)=0.9225806452  P(object|census)=0.0225100216    
+population-NN  multiply=0.0201974636  P(population|object)=0.9483870968  P(object|population)=0.0212966453    
+estimate-NN  multiply=0.0171818059  P(estimate|object)=0.2451612903  P(object|estimate)=0.070083682    
+part-NN  multiply=0.0170367811  P(part|object)=0.464516129  P(object|part)=0.0366764038    
+land-NN  multiply=0.0139424118  P(land|object)=0.2967741935  P(object|land)=0.0469798658    
+principal-JJ  multiply=0.0116501566  P(principal|object)=0.1032258065  P(object|principal)=0.1128608924    
+
+id=67  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/County_seat  NumberOfEntitiesFoundForObject=782
+seat-NN  multiply=0.7573265213  P(seat|object)=0.9181585678  P(object|seat)=0.8248319494    
+county-NN  multiply=0.2294312956  P(county|object)=0.9782608696  P(object|county)=0.2345297689    
+census-NN  multiply=0.204397221  P(census|object)=0.942455243  P(object|census)=0.2168773769    
+population-NN  multiply=0.1989621362  P(population|object)=0.9667519182  P(object|population)=0.2058047493    
+state-NN  multiply=0.1885409051  P(state|object)=0.9040920716  P(object|state)=0.2085417083    
+area-NN  multiply=0.0511724044  P(area|object)=0.2647058824  P(object|area)=0.1933179724    
+home-NN  multiply=0.0491904864  P(home|object)=0.1508951407  P(object|home)=0.3259911894    
+name-NN  multiply=0.0454069299  P(name|object)=0.1879795396  P(object|name)=0.2415525114    
+located-JJ  multiply=0.0434364414  P(located|object)=0.2097186701  P(object|located)=0.2071176659    
+town-NN  multiply=0.041022312  P(town|object)=0.2135549872  P(object|town)=0.1920925028    
+south-JJ  multiply=0.0407383304  P(south|object)=0.1841432225  P(object|south)=0.2212317666    
+part-NN  multiply=0.0338150416  P(part|object)=0.1943734015  P(object|part)=0.1739694904    
+west-JJ  multiply=0.0311271911  P(west|object)=0.1457800512  P(object|west)=0.2135216089    
+north-JJ  multiply=0.03085554  P(north|object)=0.1534526854  P(object|north)=0.2010752688    
+river-NN  multiply=0.0303876513  P(river|object)=0.121483376  P(object|river)=0.2501383509    
+large-JJ  multiply=0.0298130299  P(large|object)=0.1125319693  P(object|large)=0.2649294245    
+east-JJ  multiply=0.0291621239  P(east|object)=0.1381074169  P(object|east)=0.2111553785    
+metropolitan-JJ  multiply=0.0283298093  P(metropolitan|object)=0.1355498721  P(object|metropolitan)=0.208999159    
+center-JJ  multiply=0.0278238386  P(center|object)=0.084398977  P(object|center)=0.3296703297    
+historic-JJ  multiply=0.0197658863  P(historic|object)=0.0652173913  P(object|historic)=0.3030769231    
+principal-JJ  multiply=0.0182384491  P(principal|object)=0.0332480818  P(object|principal)=0.5485564304    
+land-NN  multiply=0.0171647299  P(land|object)=0.0959079284  P(object|land)=0.1789709172    
+first-JJ  multiply=0.016864814  P(first|object)=0.0613810742  P(object|first)=0.2747559275    
+port-JJ  multiply=0.0154275769  P(port|object)=0.0780051151  P(object|port)=0.1977764775    
+place-NN  multiply=0.0145666101  P(place|object)=0.0664961637  P(object|place)=0.2190594059    
+railroad-NN  multiply=0.0141158257  P(railroad|object)=0.0396419437  P(object|railroad)=0.3560830861    
+side-NN  multiply=0.012816162  P(side|object)=0.0664961637  P(object|side)=0.1927353595    
+estimate-NN  multiply=0.0118941883  P(estimate|object)=0.0498721228  P(object|estimate)=0.2384937238    
+region-NN  multiply=0.0111363957  P(region|object)=0.0537084399  P(object|region)=0.2073490814    
+indian-JJ  multiply=0.0110324773  P(indian|object)=0.0601023018  P(object|indian)=0.1835616438    
+site-NN  multiply=0.0101748808  P(site|object)=0.0409207161  P(object|site)=0.2486486486    
+
+id=68  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Tsunami  NumberOfEntitiesFoundForObject=13
+density-NN  multiply=0.0128681727  P(density|object)=0.3846153846  P(object|density)=0.0334572491    
+total-JJ  multiply=0.0112570356  P(total|object)=0.4615384615  P(object|total)=0.0243902439    
+km2-NN  multiply=0.0101214575  P(km2|object)=0.3846153846  P(object|km2)=0.0263157895    
+
+id=69  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Beaches_of_Florida  NumberOfEntitiesFoundForObject=29
+coast-NN  multiply=0.0208052398  P(coast|object)=0.4137931034  P(object|coast)=0.0502793296    
+island-NN  multiply=0.0167916042  P(island|object)=0.4137931034  P(object|island)=0.0405797101    
+
+id=70  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_counties_in_Indiana  NumberOfEntitiesFoundForObject=23
+indian-JJ  multiply=0.1572364503  P(indian|object)=0.9565217391  P(object|indian)=0.1643835616    
+town-NN  multiply=0.0139143409  P(town|object)=0.5652173913  P(object|town)=0.02461768    
+state-NN  multiply=0.0110022004  P(state|object)=0.9565217391  P(object|state)=0.0115023005    
+county-NN  multiply=0.0108359922  P(county|object)=0.8695652174  P(object|county)=0.012461391    
+census-NN  multiply=0.0106986285  P(census|object)=0.9130434783  P(object|census)=0.0117175455    
+population-NN  multiply=0.0101525754  P(population|object)=0.9130434783  P(object|population)=0.0111194874    
+
+id=71  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_counties_in_Nebraska  NumberOfEntitiesFoundForObject=58
+county-NN  multiply=0.0154436042  P(county|object)=1.0  P(object|county)=0.0154436042    
+census-NN  multiply=0.0148011101  P(census|object)=1.0  P(object|census)=0.0148011101    
+state-NN  multiply=0.0144028806  P(state|object)=1.0  P(object|state)=0.0144028806    
+population-NN  multiply=0.0136637769  P(population|object)=1.0  P(object|population)=0.0136637769    
+
+id=72  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Shiva  NumberOfEntitiesFoundForObject=69
+district-NN  multiply=0.0146951126  P(district|object)=0.3623188406  P(object|district)=0.0405585106    
+headquarters-NN  multiply=0.0108461898  P(headquarters|object)=0.1739130435  P(object|headquarters)=0.0623655914    
+
+id=73  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/List_of_counties_in_South_Dakota  NumberOfEntitiesFoundForObject=81
+south-JJ  multiply=0.0608579947  P(south|object)=0.975308642  P(object|south)=0.0623987034    
+census-NN  multiply=0.0152376312  P(census|object)=0.975308642  P(object|census)=0.015623394    
+state-NN  multiply=0.0149252073  P(state|object)=0.975308642  P(object|state)=0.0153030606    
+county-NN  multiply=0.0146941062  P(county|object)=0.9259259259  P(object|county)=0.0158696347    
+population-NN  multiply=0.0141535555  P(population|object)=0.975308642  P(object|population)=0.0145118734    
+
+id=74  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Kansas  NumberOfEntitiesFoundForObject=576
+census-NN  multiply=0.0630883398  P(census|object)=0.9947916667  P(object|census)=0.0634186453    
+county-NN  multiply=0.0623285893  P(county|object)=0.9704861111  P(object|county)=0.064224092    
+state-NN  multiply=0.0609783415  P(state|object)=0.9913194444  P(object|state)=0.0615123025    
+population-NN  multiply=0.0578389049  P(population|object)=0.9947916667  P(object|population)=0.0581417263    
+
+id=75  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:All_articles_containing_potentially_dated_statements  NumberOfEntitiesFoundForObject=20
+headquarters-NN  multiply=0.0177419355  P(headquarters|object)=0.55  P(object|headquarters)=0.0322580645    
+district-NN  multiply=0.0118683511  P(district|object)=0.85  P(object|district)=0.013962766    
+indian-JJ  multiply=0.0113013699  P(indian|object)=0.55  P(object|indian)=0.0205479452    
+
+id=76  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Kanji  NumberOfEntitiesFoundForObject=11
+density-NN  multiply=0.0165596485  P(density|object)=0.6363636364  P(object|density)=0.0260223048    
+
+id=77  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/World_War_II  NumberOfEntitiesFoundForObject=39
+located-JJ  multiply=0.0368954547  P(located|object)=0.3076923077  P(object|located)=0.1199102276    
+south-JJ  multiply=0.0277604621  P(south|object)=0.2051282051  P(object|south)=0.1353322528    
+population-NN  multiply=0.0219200325  P(population|object)=0.3076923077  P(object|population)=0.0712401055    
+area-NN  multiply=0.0207964079  P(area|object)=0.2051282051  P(object|area)=0.1013824885    
+province-NN  multiply=0.0203754579  P(province|object)=0.1282051282  P(object|province)=0.1589285714    
+density-NN  multiply=0.0190639596  P(density|object)=0.1282051282  P(object|density)=0.1486988848    
+center-JJ  multiply=0.0183713722  P(center|object)=0.1025641026  P(object|center)=0.1791208791    
+square-JJ  multiply=0.0168137873  P(square|object)=0.1025641026  P(object|square)=0.1639344262    
+total-JJ  multiply=0.0165488045  P(total|object)=0.1025641026  P(object|total)=0.1613508443    
+estimate-NN  multiply=0.01577084  P(estimate|object)=0.1025641026  P(object|estimate)=0.1537656904    
+port-JJ  multiply=0.0156036669  P(port|object)=0.1025641026  P(object|port)=0.1521357519    
+north-JJ  multiply=0.0151180958  P(north|object)=0.1282051282  P(object|north)=0.117921147    
+east-JJ  multiply=0.0141996118  P(east|object)=0.1025641026  P(object|east)=0.1384462151    
+island-NN  multiply=0.0140468227  P(island|object)=0.0769230769  P(object|island)=0.1826086957    
+land-NN  multiply=0.0139964435  P(land|object)=0.1025641026  P(object|land)=0.1364653244    
+region-NN  multiply=0.0139309509  P(region|object)=0.0769230769  P(object|region)=0.1811023622    
+central-JJ  multiply=0.0120481928  P(central|object)=0.0769230769  P(object|central)=0.156626506    
+home-NN  multiply=0.010795372  P(home|object)=0.0769230769  P(object|home)=0.1403398364    
+side-NN  multiply=0.0107772139  P(side|object)=0.0769230769  P(object|side)=0.1401037806    
+urban-JJ  multiply=0.0100785534  P(urban|object)=0.0512820513  P(object|urban)=0.1965317919    
+local-JJ  multiply=0.0100717613  P(local|object)=0.0769230769  P(object|local)=0.1309328969    
+
+id=78  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Montana  NumberOfEntitiesFoundForObject=30
+seat-NN  multiply=0.0115197048  P(seat|object)=0.7666666667  P(object|seat)=0.0150257019    
+
+id=79  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/United_States_Census_Bureau  NumberOfEntitiesFoundForObject=706
+census-NN  multiply=0.8802158903  P(census|object)=0.9674220963  P(object|census)=0.9098571282    
+population-NN  multiply=0.8352535854  P(population|object)=0.9844192635  P(object|population)=0.8484734263    
+state-NN  multiply=0.8135156776  P(state|object)=0.940509915  P(object|state)=0.8649729946    
+county-NN  multiply=0.7964568567  P(county|object)=0.8626062323  P(object|county)=0.923314517    
+area-NN  multiply=0.2316027206  P(area|object)=0.3201133144  P(object|area)=0.7235023041    
+part-NN  multiply=0.1805749026  P(part|object)=0.2365439093  P(object|part)=0.7633885102    
+metropolitan-JJ  multiply=0.1498759879  P(metropolitan|object)=0.178470255  P(object|metropolitan)=0.8397813288    
+name-NN  multiply=0.1108308433  P(name|object)=0.1586402266  P(object|name)=0.698630137    
+located-JJ  multiply=0.1014920886  P(located|object)=0.171388102  P(object|located)=0.5921769798    
+north-JJ  multiply=0.0921426178  P(north|object)=0.1430594901  P(object|north)=0.6440860215    
+west-JJ  multiply=0.0873726152  P(west|object)=0.1388101983  P(object|west)=0.6294394523    
+town-NN  multiply=0.0810255359  P(town|object)=0.1303116147  P(object|town)=0.6217829168    
+land-NN  multiply=0.0761260148  P(land|object)=0.11898017  P(object|land)=0.6398210291    
+south-JJ  multiply=0.0755552087  P(south|object)=0.1246458924  P(object|south)=0.6061588331    
+east-JJ  multiply=0.0674441046  P(east|object)=0.1161473088  P(object|east)=0.5806772908    
+side-NN  multiply=0.0594753852  P(side|object)=0.0963172805  P(object|side)=0.6174944403    
+port-JJ  multiply=0.0570301868  P(port|object)=0.0991501416  P(object|port)=0.5751901697    
+home-NN  multiply=0.0516440044  P(home|object)=0.0679886686  P(object|home)=0.759597231    
+river-NN  multiply=0.0470784845  P(river|object)=0.0736543909  P(object|river)=0.6391809629    
+community-NN  multiply=0.0470006256  P(community|object)=0.0580736544  P(object|community)=0.8093278464    
+large-JJ  multiply=0.0401660346  P(large|object)=0.0694050992  P(object|large)=0.5787187839    
+suburb-NN  multiply=0.0363231195  P(suburb|object)=0.0495750708  P(object|suburb)=0.732689211    
+small-JJ  multiply=0.0354107649  P(small|object)=0.0566572238  P(object|small)=0.625    
+railroad-NN  multiply=0.0338178058  P(railroad|object)=0.0382436261  P(object|railroad)=0.884272997    
+place-NN  multiply=0.033068746  P(place|object)=0.0509915014  P(object|place)=0.6485148515    
+central-JJ  multiply=0.0322877914  P(central|object)=0.0623229462  P(object|central)=0.5180722892    
+estimate-NN  multiply=0.0272825868  P(estimate|object)=0.0467422096  P(object|estimate)=0.5836820084    
+seat-NN  multiply=0.0260726283  P(seat|object)=0.0311614731  P(object|seat)=0.8366943456    
+portion-NN  multiply=0.024452065  P(portion|object)=0.0297450425  P(object|portion)=0.8220551378    
+former-JJ  multiply=0.0213011373  P(former|object)=0.0382436261  P(object|former)=0.5569852941    
+western-JJ  multiply=0.0212897638  P(western|object)=0.0382436261  P(object|western)=0.5566878981    
+early-JJ  multiply=0.0199191521  P(early|object)=0.0297450425  P(object|early)=0.6696629213    
+nearby-JJ  multiply=0.0198176847  P(nearby|object)=0.0269121813  P(object|nearby)=0.7363834423    
+local-JJ  multiply=0.0192412012  P(local|object)=0.0354107649  P(object|local)=0.5433715221    
+southern-JJ  multiply=0.0189770397  P(southern|object)=0.0354107649  P(object|southern)=0.5359116022    
+line-NN  multiply=0.0189334096  P(line|object)=0.0269121813  P(object|line)=0.703525641    
+center-JJ  multiply=0.0177147215  P(center|object)=0.0269121813  P(object|center)=0.6582417582    
+southwest-JJ  multiply=0.0175999036  P(southwest|object)=0.0283286119  P(object|southwest)=0.6212765957    
+southeast-JJ  multiply=0.0167279812  P(southeast|object)=0.0254957507  P(object|southeast)=0.6561085973    
+site-NN  multiply=0.0163336141  P(site|object)=0.0283286119  P(object|site)=0.5765765766    
+time-NN  multiply=0.0156689392  P(time|object)=0.0283286119  P(object|time)=0.5531135531    
+downtown-NN  multiply=0.0153622015  P(downtown|object)=0.0184135977  P(object|downtown)=0.8342857143    
+northeast-JJ  multiply=0.0149789198  P(northeast|object)=0.0240793201  P(object|northeast)=0.6220657277    
+increase-NN  multiply=0.0149124207  P(increase|object)=0.0184135977  P(object|increase)=0.8098591549    
+border-NN  multiply=0.0137004193  P(border|object)=0.0254957507  P(object|border)=0.5373608903    
+many-JJ  multiply=0.0135783558  P(many|object)=0.0254957507  P(object|many)=0.5325732899    
+shore-NN  multiply=0.0132239371  P(shore|object)=0.0212464589  P(object|shore)=0.622406639    
+eastern-JJ  multiply=0.0129120992  P(eastern|object)=0.0240793201  P(object|eastern)=0.5362318841    
+first-JJ  multiply=0.0127123164  P(first|object)=0.0212464589  P(object|first)=0.5983263598    
+island-NN  multiply=0.0121197192  P(island|object)=0.0254957507  P(object|island)=0.4753623188    
+main-JJ  multiply=0.0111485723  P(main|object)=0.0198300283  P(object|main)=0.5622065728    
+northern-JJ  multiply=0.011085109  P(northern|object)=0.0212464589  P(object|northern)=0.5217391304    
+
+id=80  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Cities_in_Idaho  NumberOfEntitiesFoundForObject=160
+county-NN  multiply=0.0207450208  P(county|object)=0.99375  P(object|county)=0.0208754926    
+census-NN  multiply=0.0202487409  P(census|object)=1.0  P(object|census)=0.0202487409    
+population-NN  multiply=0.0185638899  P(population|object)=1.0  P(object|population)=0.0185638899    
+state-NN  multiply=0.0172534507  P(state|object)=0.9375  P(object|state)=0.0184036807    
+part-NN  multiply=0.0144535054  P(part|object)=0.46875  P(object|part)=0.0308341448    
+area-NN  multiply=0.0104075461  P(area|object)=0.45625  P(object|area)=0.0228110599    
+
+id=81  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:Former_capital_cities_in_India  NumberOfEntitiesFoundForObject=63
+indian-JJ  multiply=0.0143509459  P(indian|object)=0.3492063492  P(object|indian)=0.0410958904    
+district-NN  multiply=0.01015282  P(district|object)=0.4126984127  P(object|district)=0.0246010638    
+
+id=82  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/China_Standard_Time  NumberOfEntitiesFoundForObject=16
+province-NN  multiply=0.0358258929  P(province|object)=0.1875  P(object|province)=0.1910714286    
+border-NN  multiply=0.0103338633  P(border|object)=0.125  P(object|border)=0.0826709062    
+
+id=83  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Category:County_seats_in_Kentucky  NumberOfEntitiesFoundForObject=12
+rule-class-JJ  multiply=0.1479166667  P(rule-class|object)=0.3333333333  P(object|rule-class)=0.44375    
+seat-NN  multiply=0.0450771056  P(seat|object)=1.0  P(object|seat)=0.0450771056    
+home-NN  multiply=0.0201908957  P(home|object)=0.4166666667  P(object|home)=0.0484581498    
+county-NN  multiply=0.012461391  P(county|object)=1.0  P(object|county)=0.012461391    
+state-NN  multiply=0.0117023405  P(state|object)=1.0  P(object|state)=0.0117023405    
+census-NN  multiply=0.0115119745  P(census|object)=1.0  P(object|census)=0.0115119745    
+population-NN  multiply=0.0108367885  P(population|object)=1.0  P(object|population)=0.0108367885    
+junction-NN  multiply=0.0104761905  P(junction|object)=0.1666666667  P(object|junction)=0.0628571429    
+
+id=84  property=dbo:wikiPageWikiLink  object=http://dbpedia.org/resource/Köppen_climate_classification  NumberOfEntitiesFoundForObject=35
+district-NN  multiply=0.0188449848  P(district|object)=0.1142857143  P(object|district)=0.164893617    
+river-NN  multiply=0.011890268  P(river|object)=0.0571428571  P(object|river)=0.2080796901    
+state-NN  multiply=0.0110022004  P(state|object)=0.1428571429  P(object|state)=0.0770154031    
+second-JJ  multiply=0.010591133  P(second|object)=0.0285714286  P(object|second)=0.3706896552    
+located-JJ  multiply=0.0105161911  P(located|object)=0.0571428571  P(object|located)=0.184033344    
+country-NN  multiply=0.0104333868  P(country|object)=0.0285714286  P(object|country)=0.3651685393    
+province-NN  multiply=0.0101020408  P(province|object)=0.0285714286  P(object|province)=0.3535714286    
+

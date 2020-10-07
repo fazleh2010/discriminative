@@ -1,0 +1,12 @@
+id=117  property=dbp:subdivisionName  object=India  NumberOfEntitiesFoundForObject=10
+city-NN  multiply=0.0972972973  P(city|object)=0.6  P(object|city)=0.1621621622    
+town-NN  multiply=0.0675675676  P(town|object)=0.5  P(object|town)=0.1351351351    
+village-NN  multiply=0.0428571429  P(village|object)=0.3  P(object|village)=0.1428571429    
+district-NN  multiply=0.04  P(district|object)=0.4  P(object|district)=0.1    
+area-NN  multiply=0.031372549  P(area|object)=0.4  P(object|area)=0.0784313725    
+state-NN  multiply=0.0264705882  P(state|object)=0.3  P(object|state)=0.0882352941    
+indian-JJ  multiply=0.0181818182  P(indian|object)=0.2  P(object|indian)=0.0909090909    
+residential-JJ  multiply=0.0129032258  P(residential|object)=0.2  P(object|residential)=0.064516129    
+part-NN  multiply=0.0114285714  P(part|object)=0.2  P(object|part)=0.0571428571    
+rate-NN  multiply=0.0108108108  P(rate|object)=0.2  P(object|rate)=0.0540540541    
+

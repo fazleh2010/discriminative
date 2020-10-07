@@ -1,0 +1,8 @@
+id=167  property=dbp:blank2NameSec  object=Lok Sabha constituency  NumberOfEntitiesFoundForObject=17
+city-NN  multiply=0.1488970588  P(city|object)=0.5294117647  P(object|city)=0.28125    
+state-NN  multiply=0.1470588235  P(state|object)=0.5882352941  P(object|state)=0.25    
+population-NN  multiply=0.0865051903  P(population|object)=0.2941176471  P(object|population)=0.2941176471    
+located-JJ  multiply=0.0847058824  P(located|object)=0.3529411765  P(object|located)=0.24    
+village-NN  multiply=0.0756302521  P(village|object)=0.3529411765  P(object|village)=0.2142857143    
+town-NN  multiply=0.0588235294  P(town|object)=0.2941176471  P(object|town)=0.2    
+
