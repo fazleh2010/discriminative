@@ -1,0 +1,67 @@
+[ {
+  "entityIndex" : "1_entity6699",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Fimian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:colwidth" : [ "30" ]
+  },
+  "words" : [ "Shawn", "12", "Fimian", "congressional", "11th", "%", "politician", "Republican", "2010", "'s", ",", "elections", ".", "second", "2008", "Keith", "lost", "0.4", "district", "nominee", "businessman", "Virginia", "first" ],
+  "adjectives" : [ "congressional", "Fimian", "11th", "Republican", "first", "second" ],
+  "nouns" : [ "%", "politician", "district", "nominee", "businessman" ],
+  "text" : "Keith Shawn Fimian is a businessman and politician in Virginia. He was the 2008 and 2010 Republican nominee for Virginia's 11th congressional district. Fimian lost both elections, the first by 12%, and the second by 0.4%."
+}, {
+  "entityIndex" : "2_entity3044",
+  "entityUrl" : "http://dbpedia.org/resource/Emmanuel_Dangana_Ocheja",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:colwidth" : [ "30" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Kogi", "Legal", "Emmanuel", "Abuja", "Lagos", "Nigerian", "Co", "Global", "states", "principal", "firm", "Dangana", "National", "Kano", "member", "Ocheja", "represented", "Nigeria", "senatorial", "Assembly", "based", "law", "&", "Senator", ",", "former", ".", "Services", "Progressives", "Musa", "district", "-RRB-", "East", "formerly" ],
+  "adjectives" : [ "senatorial", "former" ],
+  "nouns" : [ "principal", "firm", "law", "district", "member" ],
+  "text" : "Emmanuel Dangana Ocheja is a former Nigerian Senator who represented Kogi East senatorial district in the National Assembly, and a member of the All Progressives Congress. He is the principal of Dangana Global Legal Services (formerly Dangana, Musa & Co), a law firm based in Abuja, Kano and Lagos states in Nigeria."
+}, {
+  "entityIndex" : "3_entity1785",
+  "entityUrl" : "http://dbpedia.org/resource/Corey_Mock",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:colwidth" : [ "30" ]
+  },
+  "words" : [ "-LRB-", "Ray", "Representatives", "northern", "Mock", "2008", "member", "North", "represented", "February", "Democratic-NPL", "Forks", "17", "born", "House", "includes", ",", ".", "Grand", "1985", "University", "-RRB-", "Dakota", "District", "Corey", "42", "since" ],
+  "adjectives" : [ "northern", "Democratic-NPL" ],
+  "nouns" : [ "member" ],
+  "text" : "Corey Ray Mock (born February 17, 1985) is a Democratic-NPL member of the North Dakota House of Representatives who has represented District 42 since 2008. District 42 is in northern Grand Forks and includes the University of North Dakota."
+}, {
+  "entityIndex" : "4_entity10757",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Shaw,_1st_Baron_Craigmyle",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:colwidth" : [ "35" ]
+  },
+  "words" : [ "Politiker", "Craigmyle", "Aberdeen", "Dunfermline", "dem", "der", "QC", "des", "1850", "Appellate", "Abgeordneter", "Commons", "wurde", "1937", "Lords", "†", "Ordinary", "Jahre", "im", "Peer", "einige", "als", "*", "House", ",", ".", "Jurist", "Jurisdiction", "1", "Lord", "Mai", "auch", "Titel", "-RRB-", "Life", "eines", "zuletzt", ";", "23", "Fife", "-LRB-", "Juni", "28", "verliehen", "schottisch-britischer", "Shaw", "County", "1876", "Party", "aufgrund", "Baron", "Thomas", "Liberal", "Appeal", "war", "vererbliche", "Mitglied", "PC", "Act", "1929", "sowie" ],
+  "adjectives" : [ "Ordinary" ],
+  "nouns" : [ "Appeal", "verliehen", "war", "vererbliche", "House", "schottisch-britischer", "Jurist", "der", "Lord", "aufgrund", "wurde", "zuletzt", "sowie" ],
+  "text" : "Thomas Shaw, 1. Baron Craigmyle, of Craigmyle in the County of Aberdeen, Baron Shaw, of Dunfermline in the County of Fife PC QC (* 23. Mai 1850; † 28. Juni 1937) war ein schottisch-britischer Politiker der Liberal Party und Jurist, der einige Jahre Abgeordneter im House of Commons sowie zuletzt als Lord of Appeal in Ordinary aufgrund des Appellate Jurisdiction Act 1876 als Life Peer auch Mitglied des House of Lords war und dem 1929 der vererbliche Titel eines Baron Craigmyle verliehen wurde."
+}, {
+  "entityIndex" : "5_entity9788",
+  "entityUrl" : "http://dbpedia.org/resource/R._Roshan_Baig",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:colwidth" : [ "60" ]
+  },
+  "words" : [ "Congress", "southern", "-LRB-", "1951", "National", "Karnataka", "member", "July", "state", "R.", "Assembly", "Al-Ameen", "Roshan", "Baig", "15", "minister", "born", "also", "Educational", ".", "India", "-RRB-", "Legislative", "Indian", "Society", "vice-chairman" ],
+  "adjectives" : [ "southern", "Legislative" ],
+  "nouns" : [ "minister", "member", "state", "Assembly", "vice-chairman" ],
+  "text" : "R. Roshan Baig (born 15 July 1951) is a minister of Karnataka state in India. He is a member of the Karnataka Legislative Assembly in Karnataka a state in southern India. He is a member of the Indian National Congress. He is also vice-chairman of the Al-Ameen Educational Society."
+}, {
+  "entityIndex" : "6_entity8101",
+  "entityUrl" : "http://dbpedia.org/resource/Mario_Ferri",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:colwidth" : [ "30" ]
+  },
+  "words" : [ "year", "helping", "Mr.", "Mario", "North", "near", "January", "closure", "group", "activist", "waste", "deputy", "14", "Italian-Canadian", "mayor", "Vaughan", "City", ",", "community", "'s", "CARES", "Pescosolido", "former", ".", "heart", "Province", "co-founded", "Canada", "Area", "Keele", "Valley", "6", "-RRB-", "Italy", "municipal", "force", "1948", "Ontario", "Toronto", "largest", "became", "-LRB-", "prominent", "city", "operated", "Felice", "landfill", "America", "close", "fight", "Ferri", "born", "centre", "battle", "site", "third", "Landfill", "organizer", "owned", "organization", "fifth", "Greater", "time", "facility", "credited", "citizens" ],
+  "adjectives" : [ "prominent", "third", "Italian-Canadian", "municipal", "fifth", "former" ],
+  "nouns" : [ "activist", "waste", "deputy", "mayor", "city", "year", "centre", "City", "community", "heart", "landfill", "battle", "site", "organizer", "organization", "time", "closure", "facility", "fight", "group" ],
+  "text" : "Mario Felice Ferri (born January 6, 1948, Pescosolido, Italy) is an Italian-Canadian community organizer, activist, and a former deputy mayor of Vaughan, Ontario, who co-founded an organization credited with helping to force the closure of Canada’s largest municipal waste facility, the Keele Valley Landfill. At the time of its closure the waste facility was the third largest in North America near the heart of Vaughan, the fifth largest city in the Greater Toronto Area. The waste landfill site became the centre of a 14 year battle between the citizens of Vaughan and both the Province of Ontario and the City of Toronto, which owned and operated the site. Mr. Ferri co-founded Vaughan CARES, an activist group that became prominent in the fight to close the waste facility. As a community organizer Ferri also contributed to numerous cultural organizations and helped organize large events, as well as administering community recreational facilities in Toronto, Vaughan and other surrounding communities. In his roles as a York Region Separate School Board trustee, municipal and regional councillor and deputy mayor he undertook several community campaigns and frequently acted as a spokesperson for the school board, the City of Vaughan and for York Region. In October 2014 Ferri was elected to his fifth term as a councillor for the City of Vaughan and his third term as a councillor for the Region of York, Ontario."
+} ]

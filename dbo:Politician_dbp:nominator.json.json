@@ -1,0 +1,100 @@
+[ {
+  "entityIndex" : "1_entity6728",
+  "entityUrl" : "http://dbpedia.org/resource/Karin_Immergut",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nominator" : [ "http://dbpedia.org/resource/George_W._Bush" ]
+  },
+  "words" : [ "New", "Starr", "United", "States", "President", "December", "worked", "Assistant", "judge", "state", "July", "Johanna", "deputy", "work", "California", ",", "court", "Clinton", ".", "Karin", "appointed", "Governor", "Ken", "attorney", "district", "-RRB-", "Bill", "Attorney", "District", "22", "Oregon", "-LRB-", "circuit", "Portland", "York", "resignation", "County", "serving", "2009", "U.S.", "native", "2003", "born", "Immergut", "Ted", "1960", "Multnomah", "investigation", "Kulongoski" ],
+  "adjectives" : [ ],
+  "nouns" : [ "circuit", "deputy", "native", "attorney", "work", "district", "investigation", "judge", "state", "resignation", "court" ],
+  "text" : "Karin Johanna Immergut (born December 22, 1960) is a judge in the state of Oregon. A native of New York, she was the United States Attorney for the District of Oregon from 2003 until her resignation in July 2009 when she was appointed as circuit court judge for Multnomah County, Oregon, by Governor Ted Kulongoski. Before serving as a U.S. Attorney, Immergut worked as an Assistant U.S. Attorney in both Oregon and California, was a deputy district attorney in Portland, and work for Ken Starr during his investigation of President Bill Clinton."
+}, {
+  "entityIndex" : "2_entity6757",
+  "entityUrl" : "http://dbpedia.org/resource/Karin_Brownlee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nominator" : [ "http://dbpedia.org/resource/Sam_Brownback" ]
+  },
+  "words" : [ "Secretary", "Brownlee", "Republican", "2011", "serve", "sworn", "Labor", "confirmed", "subsequently", "effective", "1996", "later", "member", "January", "resigned", "10", "fired", "23rd", "representing", "Kansas", ",", ".", "Karin", "nomination", "seat", "Governor", "Senate", "Brownback", "State", "report", "nominated", "District", "Sam", "since" ],
+  "adjectives" : [ "effective", "23rd", "Republican" ],
+  "nouns" : [ "seat", "Governor", "Brownback", "member", "report", "nomination" ],
+  "text" : "Karin Brownlee is a Republican member of the Kansas Senate, representing the 23rd District since 1996. She was nominated by Governor Sam Brownback to serve as his Secretary of Labor. Her nomination was confirmed by the State Senate and she subsequently resigned her Senate seat, effective January 10, 2011, when Governor Brownback was sworn in. She was later by her own report fired by Governor Brownback. She was a delegate to the Republican National Convention in 1996 and was the vice-chair of the Johnson County Republican Party from 1994 to 1996. She was also involved in the Kansas Republican Party State Committee from 1993 to 1996 and was chair of the Olathe Republican Party from 1992 to 1994."
+}, {
+  "entityIndex" : "3_entity4910",
+  "entityUrl" : "http://dbpedia.org/resource/John_Hicklin_Hall",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nominator" : [ "http://dbpedia.org/resource/William_McKinley" ]
+  },
+  "words" : [ "John", "United", "several", "appointment", "high-profile", "States", "1854", "scandal", "officials", "defraud", "July", "1937", "state", "--", "area", "17", "prosecute", "House", ",", ".", "involved", "attorney", "fraud", "served", "-RRB-", "failing", "Hicklin", "District", "Attorney", "Oregon", "became", "private", "-LRB-", "Portland", "27", "Representatives", "subsequently", "U.S.", "government", "public", "native", "acquiring", "federal", "land", "convicted", "pardoned", "early", "participants", "politician", "prosecutor", "conspired", "1890s", "Hall", "entity" ],
+  "adjectives" : [ "private", "federal", "several", "high-profile", "early" ],
+  "nouns" : [ "area", "politician", "appointment", "prosecutor", "government", "scandal", "public", "native", "attorney", "fraud", "land", "state", "Hall", "entity" ],
+  "text" : "John Hicklin Hall (July 17, 1854 – July 27, 1937) was a politician and attorney in the U.S. state of Oregon. A native of the Portland area, he served in the Oregon House of Representatives in the early 1890s before appointment as the United States District Attorney for Oregon. As the federal prosecutor, he became involved in the Oregon land fraud scandal, in which several high-profile public officials conspired to defraud the government in acquiring land for a private entity. Hall was convicted, but subsequently pardoned, for failing to prosecute some of the participants. Hall was also the father of Oregon governor John H. Hall."
+}, {
+  "entityIndex" : "4_entity5018",
+  "entityUrl" : "http://dbpedia.org/resource/Janine_P._Geske",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nominator" : [ "http://dbpedia.org/resource/Tommy_Thompson" ]
+  },
+  "words" : [ "Milwaukee", "-LRB-", "May", "American", "County", "Court", "1998", "Supreme", "1993", "Geske", "2002", "Janine", "justice", "P.", "Wisconsin", "12", "law", "Executive", "jurist", "born", ",", ".", "professor", "interim", "served", "-RRB-", "1949" ],
+  "adjectives" : [ "American", "interim" ],
+  "nouns" : [ "professor", "law", "jurist", "justice" ],
+  "text" : "Janine P. Geske (born May 12, 1949) is an American jurist and law professor who served as a justice of the Wisconsin Supreme Court from 1993 to 1998 and as interim Milwaukee County Executive in 2002."
+}, {
+  "entityIndex" : "5_entity1690",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_H._Turner_(attorney)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nominator" : [ "http://dbpedia.org/resource/Presidency_of_Ronald_Reagan" ]
+  },
+  "words" : [ "Bhagwan", "bioterror", "I.", "United", "appointment", "Reagan", "years", "States", "marriages", "President", "worked", "Rajneeshpuram", "1936", "investigated", "Charles", "14", "including", ",", "Sidney", "'s", "illegal", "former", ".", "Osho", "appointed", "followers", "1984", "Rajneesh", "Lezak", "Prior", "fraud", "-RRB-", "presidential", "Attorney", "District", "replacement", "Shree", "Oregon", "-LRB-", "predecessor", "U.S.", "known", "Rajneeshee", "attack", "Dalles", "immigration", "H.", "born", "sham", "Ronald", "activities", "Turner", "organized", "well" ],
+  "adjectives" : [ "presidential", "illegal", "former" ],
+  "nouns" : [ "immigration", "sham", "bioterror", "fraud", "attack", "appointment", "predecessor", "replacement", "Osho" ],
+  "text" : "Charles H. Turner (born 1936) is a former United States Attorney for the District of Oregon. Prior to his presidential appointment as U.S. Attorney, Turner worked under his predecessor, Sidney I. Lezak, for 14 years. He was appointed as Lezak's replacement by President Ronald Reagan. As U.S. Attorney, Turner investigated sham marriages and immigration fraud organized by followers of Bhagwan Shree Rajneesh (now known as Osho) in Rajneeshpuram, Oregon, as well as other illegal activities including the 1984 Rajneeshee bioterror attack in The Dalles, Oregon. In 1985, high-ranking followers of Rajneesh plotted to murder Turner, carrying out steps including assembling a team, purchasing weapons, and performing surveillance on his office, home and car. Seven followers of Rajneesh were later convicted of conspiracy to assassinate him. While U.S. Attorney, Turner hired prosecutors Michael Mosman and Mark Bailey; both would later go on to serve as U.S. Attorney for Oregon. He retired in 1993, and was succeeded by Kristine Olson, who he had previously supervised as U.S. Attorney."
+}, {
+  "entityIndex" : "6_entity11132",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Bathurst",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nominator" : [ "http://dbpedia.org/resource/Barry_O'Farrell" ]
+  },
+  "words" : [ "Justice", "New", "June", "-LRB-", "Chief", "Wales", "March", "2011", "Court", "Supreme", "Lieutenant", "judge", "Thomas", "Frederick", "AC", "17", "born", "South", ",", ".", "appointed", "Governor", "1", "Australian", "-RRB-", "1948", "Bathurst" ],
+  "adjectives" : [ "Australian" ],
+  "nouns" : [ "AC", "judge" ],
+  "text" : "Thomas Frederick Bathurst, AC (born 17 March 1948), is an Australian judge. He was appointed Chief Justice of the Supreme Court of New South Wales and Lieutenant Governor of New South Wales from 1 June 2011."
+}, {
+  "entityIndex" : "7_entity4700",
+  "entityUrl" : "http://dbpedia.org/resource/Ione_Christensen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nominator" : [ "http://dbpedia.org/resource/Jean_Chrétien" ]
+  },
+  "words" : [ "Dawson", "Mateo", "San", "-LRB-", "Whitehorse", "Canadian", "administration", "moved", "Irwin", "née", "Cameron", "associate", "1953", "October", "high", "school", "Mounted", "arts", "Martha", "Ione", "10", "1933", "Gordon", "business", "born", "Senator", "degree", "constable", "CM", "received", "Jean", "City", "California", ",", "Police", "former", ".", "Ballentine", "Christensen", "North-West", "graduated", "-RRB-", "College", "1949", "family", "daughter" ],
+  "adjectives" : [ "high", "Canadian", "constable", "former" ],
+  "nouns" : [ "business", "school", "administration", "degree", "CM", "née", "family", "daughter", "associate" ],
+  "text" : "Ione Jean Christensen, CM, née Cameron (born October 10, 1933) is a former Canadian Senator. The daughter of former North-West Mounted Police constable Gordon Irwin Cameron, and Dawson City born Martha Ballentine Cameron, her family moved to Whitehorse in 1949. Christensen graduated from high school in 1953. She received an associate in arts degree in business administration from the College of San Mateo in California. In 1968, she married Art Christensen, a geologist. In 1971, she was appointed the first woman justice of the peace and judge of the juvenile court in Yukon. In 1975, she was elected the first woman mayor of Whitehorse; on the same day, Yolanda Burkhard was elected as the first woman mayor of Dawson City. In 1979, she served as the Commissioner of the Yukon, being the first woman to be appointed as Commissioner of the Yukon. In 1980, she ran unsuccessfully as a Liberal candidate, in the federal election for the riding of Yukon. She lost by 101 votes to Erik Nielsen. In 1994, she was appointed a Member of the Order of Canada. Her father was also a member. In 1999, Christensen was appointed at the recommendation of Prime Minister Jean Chrétien to the Senate. On December 31, 2006, Christensen resigned from the Senate to assist her ailing husband."
+}, {
+  "entityIndex" : "8_entity3875",
+  "entityUrl" : "http://dbpedia.org/resource/Gilbert_V._Indeglia",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nominator" : [ "http://dbpedia.org/resource/Donald_Carcieri" ]
+  },
+  "words" : [ "practice", "Law", "official", "Republican", "Kingstown", "years", "probate", "worked", "National", "graduation", "graduate", "Guard", "judge", "Boston", "Providence", "town", "solicitor", "House", "Air", "'s", ",", "Island", "Rhode", ".", "University", "served", "RI", "College", "District", "20", "private", "Indeglia", "Gilbert", "1985-1989", "Representatives", "School", "public", "1967-72", "1959", "High", "48th", "grandson", "born", "South", "also", "Michigan", "1963", "attorneys", "Classical", "family", "first", "defender", "1966" ],
+  "adjectives" : [ "48th", "private", "public", "official", "Classical", "first" ],
+  "nouns" : [ "probate", "practice", "grandson", "town", "graduation", "graduate", "RI", "solicitor", "judge", "family", "defender" ],
+  "text" : "Gilbert Indeglia was born into a family of attorneys and is a grandson of Rhode Island's first official public defender. Indeglia is a 1959 graduate of Providence's Classical High School, a 1963 graduate of Boston College, and a 1966 graduate of the University of Michigan Law School. After graduation Indeglia worked in private practice for 20 years and served in the RI Air National Guard from 1967-72. He also served as a South Kingstown probate judge and town solicitor and in the Rhode Island House of Representatives in the 48th District from 1985-1989 as a Republican. Indeglia was a member of the House Judiciary Committee that presided over impeachment proceedings for the late Supreme Court Chief Justice Joseph A. Bevilacqua. Indeglia also served as a member of the South Kingstown Town Council from 1977-1984. Indeglia was appointed to the Rhode Island District Court in 1989 and the Rhode Island Superior Court in 2000. In 2010 Governor Donald Carcieri appointed him to the Rhode Island Supreme Court."
+}, {
+  "entityIndex" : "9_entity737",
+  "entityUrl" : "http://dbpedia.org/resource/Amanda_Marshall_(attorney)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:nominator" : [ "http://dbpedia.org/resource/Barack_Obama" ]
+  },
+  "words" : [ "Oregon", "24", "internal", "American", "United", "immediately", "issues", "Court", "States", "U.S.", "top", "review", "federal", "state", "lawyer", "resigned", "unspecified", "health", "Marshall", "amid", "prosecutor", ",", "Amanda", ".", "April", "Sally", "2015", "citing", "position", "Attorney", "District" ],
+  "adjectives" : [ "internal", "American", "top", "unspecified", "federal" ],
+  "nouns" : [ "review", "health", "state", "prosecutor", "position", "lawyer" ],
+  "text" : "Sally Amanda Marshall is an American lawyer in the U.S. state of Oregon. She was, most immediately, the United States Attorney for the United States District Court for the District of Oregon, the top federal prosecutor position in the state. She resigned her position on April 24, 2015, amid an internal review, citing unspecified health issues."
+} ]

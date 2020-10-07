@@ -1,0 +1,34 @@
+[ {
+  "entityIndex" : "1_entity6181",
+  "entityUrl" : "http://dbpedia.org/resource/John_S._Rice",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:ambassadorFrom" : [ "United States" ]
+  },
+  "words" : [ "career", "-LRB-", "28", "roles", "John", "political", "1899", "Stanley", "variety", "course", "January", "businessman", "Rice", "--", "three-decade", "Democratic", "politician", ",", ".", "August", "Pennsylvania", "appointed", "elected", "2", "1985", "served", "-RRB-", "farmer", "commonwealth" ],
+  "adjectives" : [ "three-decade", "Democratic", "political" ],
+  "nouns" : [ "career", "variety", "politician", "farmer", "course", "commonwealth", "businessman" ],
+  "text" : "John Stanley Rice (January 28, 1899 – August 2, 1985) was a Democratic politician, farmer and businessman from the commonwealth of Pennsylvania. Rice served in a variety of appointed and elected political roles over the course of a three-decade political career."
+}, {
+  "entityIndex" : "2_entity1482",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_H._Price_II",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:ambassadorFrom" : [ "United States" ]
+  },
+  "words" : [ "II", "--", "Charles", "12", "-LRB-", "prominent", "Harry", "American", "2012", "United", "Ambassador", ",", "April", "former", ".", "States", "1", "1931", "Price", "-RRB-", "January", "businessman" ],
+  "adjectives" : [ "prominent", "American", "former" ],
+  "nouns" : [ "businessman" ],
+  "text" : "Charles Harry Price II (April 1, 1931 – January 12, 2012) was a prominent American businessman and former Ambassador of the United States."
+}, {
+  "entityIndex" : "3_entity7487",
+  "entityUrl" : "http://dbpedia.org/resource/M._J._Mahlangu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:ambassadorFrom" : [ "South African" ]
+  },
+  "words" : [ "Congress", "politics", "23", "2004-2014", "homeland", "Pan-African", "United", "Ambassador", "Council", "serving", "States", "Mninwa", "bantustan", "National", "member", "Since", "Mahlangu", "parliamentarian", "Lebowa", "February", "Chairperson", "Johannes", "old", "politician", "Africa", "South", "active", "CN", ",", ".", "former", "Dr", "African", "Provinces", "currently", "2015", "served", "Phatudi", "Parliament" ],
+  "adjectives" : [ "old", "South", "active", "former", "African" ],
+  "nouns" : [ "bantustan", "homeland", "politician", "member", "CN", "parliamentarian" ],
+  "text" : "Mninwa Johannes Mahlangu is a South African politician. He was active in the old bantustan politics of South Africa, serving as a parliamentarian in the former Lebowa homeland under Dr CN Phatudi. He is currently a member of the African National Congress, and served as the Chairperson of the National Council of Provinces from 2004-2014, and a member of the Pan-African Parliament. Since February 23, 2015 he is the South African Ambassador to the United States."
+} ]

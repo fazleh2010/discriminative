@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity4346",
+  "entityUrl" : "http://dbpedia.org/resource/Hopere_Uru",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:module" : [ "--04-02" ]
+  },
+  "words" : [ "New", "Canterbury", "-LRB-", "26", "29", "sometimes", "John", "March", "Wharewiti", "sportsman", "known", "Maori", "Uru", "represented", "Southern", "Member", "November", "--", "Billy", "Māori", "Hopere", "rugby", "politician", "union", ",", ".", "1921", "Zealand", "Independent", "cricket", "-RRB-", "Reform", "1868", "Parliament" ],
+  "adjectives" : [ "rugby" ],
+  "nouns" : [ "cricket", "politician", "union", "Reform", "sportsman" ],
+  "text" : "John Hopere Wharewiti Uru (26 March 1868 – 29 November 1921), sometimes known as Billy Uru, was a New Zealand Māori sportsman and politician. He represented Canterbury at both cricket and rugby union, and was an Independent (and sometimes Reform) Member of Parliament for Southern Maori."
+} ]

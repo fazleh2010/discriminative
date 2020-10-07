@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity205",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Humpherson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:president" : [ "Brian Green" ]
+  },
+  "words" : [ "New", "career", "-LRB-", "Chief", "Wales", "Staff", "Hartcher", "Science", "2011", "2007", "pursued", "public", "Energy", "Technology", "1992", "Chris", "member", "Division", "Assembly", "Minister", "affairs", "--", "Davidson", "15", "Affairs", "Organisation", "Andrew", "Government", "born", "politician", "Humpherson", "South", "Public", ",", "former", ".", "August", "elected", "Nuclear", "1960", "Australian", "2014", "-RRB-", "Legislative", "Resources", "since", "overseeing" ],
+  "adjectives" : [ "public", "Australian", "Legislative", "former" ],
+  "nouns" : [ "career", "Government", "politician", "member", "Assembly" ],
+  "text" : "Andrew Humpherson (born 15 August 1960) is a former Australian politician, elected as a member of the New South Wales Legislative Assembly for Davidson from 1992–2007. He has since pursued a career in public affairs overseeing the Government and Public Affairs Division of Australian Nuclear Science and Technology Organisation and as Chief of Staff to the Energy and Resources Minister, Chris Hartcher from 2011 to 2014."
+} ]

@@ -89,7 +89,8 @@ public class TableMain implements PropertyNotation {
         
         //checkProperties.add(DBO_COUNTRY);
         //checkProperties.add(DC_DESCRIPTION);
-        String dbo_ClassName=dbo_City;
+        //String dbo_ClassName=dbo_City;
+        String dbo_ClassName=PropertyNotation.dbo_City;
         freqClasses.add(dbo_ClassName);
         String inputFile=allPoliticianFile;
         String fileType=DbpediaClass.ALL;

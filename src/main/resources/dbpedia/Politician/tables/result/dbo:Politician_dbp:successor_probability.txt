@@ -1,195 +1,250 @@
-id=104  property=dbp:successor  object=Incumbent  NumberOfEntitiesFoundForObject=93
-current-JJ  multiply=0.0698924731  P(current|object)=0.2795698925  P(object|current)=0.25    
-part-NN  multiply=0.0596021241  P(part|object)=0.5053763441  P(object|part)=0.1179361179    
-state-NN  multiply=0.0585424134  P(state|object)=0.376344086  P(object|state)=0.1555555556    
-member-NN  multiply=0.0539385661  P(member|object)=0.5913978495  P(object|member)=0.0912052117    
-district-NN  multiply=0.0521928235  P(district|object)=0.3870967742  P(object|district)=0.1348314607    
-city-NN  multiply=0.0515297907  P(city|object)=0.3333333333  P(object|city)=0.154589372    
-republican-JJ  multiply=0.0509430636  P(republican|object)=0.1827956989  P(object|republican)=0.2786885246    
-public-JJ  multiply=0.0505723205  P(public|object)=0.2903225806  P(object|public)=0.1741935484    
-council-NN  multiply=0.0448807854  P(council|object)=0.3440860215  P(object|council)=0.1304347826    
-election-NN  multiply=0.041038913  P(election|object)=0.3870967742  P(object|election)=0.106017192    
-first-JJ  multiply=0.0406732118  P(first|object)=0.311827957  P(object|first)=0.1304347826    
-party-NN  multiply=0.0384024578  P(party|object)=0.376344086  P(object|party)=0.1020408163    
-committee-NN  multiply=0.0373242349  P(committee|object)=0.2043010753  P(object|committee)=0.1826923077    
-chair-NN  multiply=0.0367591898  P(chair|object)=0.2258064516  P(object|chair)=0.1627906977    
-representative-JJ  multiply=0.0359418558  P(representative|object)=0.2043010753  P(object|representative)=0.1759259259    
-ward-NN  multiply=0.0324901369  P(ward|object)=0.2150537634  P(object|ward)=0.1510791367    
-leader-NN  multiply=0.0318173806  P(leader|object)=0.2043010753  P(object|leader)=0.1557377049    
-son-NN  multiply=0.0314667411  P(son|object)=0.2795698925  P(object|son)=0.1125541126    
-councillor-NN  multiply=0.0265884653  P(councillor|object)=0.1720430108  P(object|councillor)=0.1545454545    
-school-NN  multiply=0.0250896057  P(school|object)=0.1505376344  P(object|school)=0.1666666667    
-term-NN  multiply=0.024577573  P(term|object)=0.1720430108  P(object|term)=0.1428571429    
-service-NN  multiply=0.0241935484  P(service|object)=0.1612903226  P(object|service)=0.15    
-law-NN  multiply=0.0232790156  P(law|object)=0.1505376344  P(object|law)=0.1546391753    
-democratic-JJ  multiply=0.0225183107  P(democratic|object)=0.1827956989  P(object|democratic)=0.1231884058    
-education-NN  multiply=0.0224403927  P(education|object)=0.1290322581  P(object|education)=0.1739130435    
-indian-JJ  multiply=0.0215053763  P(indian|object)=0.1075268817  P(object|indian)=0.2    
-liberal-JJ  multiply=0.0213734415  P(liberal|object)=0.1935483871  P(object|liberal)=0.1104294479    
-municipal-JJ  multiply=0.0191284663  P(municipal|object)=0.1397849462  P(object|municipal)=0.1368421053    
-legislative-JJ  multiply=0.0180172389  P(legislative|object)=0.2688172043  P(object|legislative)=0.0670241287    
-39th-JJ  multiply=0.017921147  P(39th|object)=0.0537634409  P(object|39th)=0.3333333333    
-american-JJ  multiply=0.0177893738  P(american|object)=0.1612903226  P(object|american)=0.1102941176    
-president-NN  multiply=0.0165200391  P(president|object)=0.1397849462  P(object|president)=0.1181818182    
-new-JJ  multiply=0.0159891274  P(new|object)=0.2150537634  P(object|new)=0.0743494424    
-political-JJ  multiply=0.0158247109  P(political|object)=0.1290322581  P(object|political)=0.1226415094    
-minister-NN  multiply=0.0156931125  P(minister|object)=0.1935483871  P(object|minister)=0.0810810811    
-office-NN  multiply=0.0154093642  P(office|object)=0.1397849462  P(object|office)=0.1102362205    
-assembly-NN  multiply=0.0136121943  P(assembly|object)=0.2580645161  P(object|assembly)=0.0527472527    
-canadian-JJ  multiply=0.0135033758  P(canadian|object)=0.1935483871  P(object|canadian)=0.0697674419    
-time-NN  multiply=0.0134131471  P(time|object)=0.1182795699  P(object|time)=0.1134020619    
-re-election-NN  multiply=0.0127439267  P(re-election|object)=0.0860215054  P(object|re-election)=0.1481481481    
-chairman-NN  multiply=0.0127439267  P(chairman|object)=0.0860215054  P(object|chairman)=0.1481481481    
-british-JJ  multiply=0.0120816721  P(british|object)=0.1075268817  P(object|british)=0.1123595506    
-degree-NN  multiply=0.0117084827  P(degree|object)=0.0752688172  P(object|degree)=0.1555555556    
-attorney-NN  multiply=0.0113851992  P(attorney|object)=0.064516129  P(object|attorney)=0.1764705882    
-vote-NN  multiply=0.0111662531  P(vote|object)=0.0967741935  P(object|vote)=0.1153846154    
+id=603  property=dbp:successor  object=Incumbent  NumberOfEntitiesFoundForObject=93
+current-JJ  multiply=0.069892  P(current|object)=0.27957  P(object|current)=0.25    Lift=0.002688 {Confidence word=0.09641 object=0.106667 =0.026667 Lift=2.593085}
+part-NN  multiply=0.059602  P(part|object)=0.505376  P(object|part)=0.117936    Lift=0.001242 {Confidence word=0.09641 object=0.417436 =0.049231 Lift=1.223274}
+state-NN  multiply=0.058542  P(state|object)=0.376344  P(object|state)=0.155556    Lift=0.001673 {Confidence word=0.09641 object=0.230769 =0.035897 Lift=1.613475}
+member-NN  multiply=0.053939  P(member|object)=0.591398  P(object|member)=0.091205    Lift=9.63E-4 {Confidence word=0.09641 object=0.629744 =0.057436 Lift=0.946012}
+district-NN  multiply=0.052193  P(district|object)=0.387097  P(object|district)=0.134831    Lift=0.00145 {Confidence word=0.09641 object=0.273846 =0.036923 Lift=1.398518}
+city-NN  multiply=0.05153  P(city|object)=0.333333  P(object|city)=0.154589    Lift=0.00161 {Confidence word=0.09641 object=0.212308 =0.032821 Lift=1.603454}
+republican-JJ  multiply=0.050943  P(republican|object)=0.182796  P(object|republican)=0.278689    Lift=0.002997 {Confidence word=0.09641 object=0.062564 =0.017436 Lift=2.890652}
+public-JJ  multiply=0.050572  P(public|object)=0.290323  P(object|public)=0.174194    Lift=0.001873 {Confidence word=0.09641 object=0.158974 =0.027692 Lift=1.806795}
+council-NN  multiply=0.044881  P(council|object)=0.344086  P(object|council)=0.130435    Lift=0.00136 {Confidence word=0.09641 object=0.259487 =0.033846 Lift=1.352914}
+election-NN  multiply=0.041039  P(election|object)=0.387097  P(object|election)=0.106017    Lift=0.001109 {Confidence word=0.09641 object=0.357949 =0.037949 Lift=1.099646}
+first-JJ  multiply=0.040673  P(first|object)=0.311828  P(object|first)=0.130435    Lift=0.001356 {Confidence word=0.09641 object=0.235897 =0.030769 Lift=1.352914}
+party-NN  multiply=0.038402  P(party|object)=0.376344  P(object|party)=0.102041    Lift=0.001097 {Confidence word=0.09641 object=0.351795 =0.035897 Lift=1.058402}
+committee-NN  multiply=0.037324  P(committee|object)=0.204301  P(object|committee)=0.182692    Lift=0.001964 {Confidence word=0.09641 object=0.106667 =0.019487 Lift=1.894947}
+chair-NN  multiply=0.036759  P(chair|object)=0.225806  P(object|chair)=0.162791    Lift=0.00175 {Confidence word=0.09641 object=0.132308 =0.021538 Lift=1.688521}
+representative-JJ  multiply=0.035942  P(representative|object)=0.204301  P(object|representative)=0.175926    Lift=0.001892 {Confidence word=0.09641 object=0.110769 =0.019487 Lift=1.824764}
+ward-NN  multiply=0.03249  P(ward|object)=0.215054  P(object|ward)=0.151079    Lift=0.001547 {Confidence word=0.09641 object=0.142564 =0.021538 Lift=1.567044}
+leader-NN  multiply=0.031817  P(leader|object)=0.204301  P(object|leader)=0.155738    Lift=0.001675 {Confidence word=0.09641 object=0.125128 =0.019487 Lift=1.615364}
+son-NN  multiply=0.031467  P(son|object)=0.27957  P(object|son)=0.112554    Lift=0.00121 {Confidence word=0.09641 object=0.236923 =0.026667 Lift=1.16745}
+councillor-NN  multiply=0.026588  P(councillor|object)=0.172043  P(object|councillor)=0.154545    Lift=0.001564 {Confidence word=0.09641 object=0.112821 =0.017436 Lift=1.602998}
+school-NN  multiply=0.02509  P(school|object)=0.150538  P(object|school)=0.166667    Lift=0.001673 {Confidence word=0.09641 object=0.092308 =0.015385 Lift=1.728723}
+term-NN  multiply=0.024578  P(term|object)=0.172043  P(object|term)=0.142857    Lift=0.001536 {Confidence word=0.09641 object=0.114872 =0.01641 Lift=1.481763}
+service-NN  multiply=0.024194  P(service|object)=0.16129  P(object|service)=0.15    Lift=0.001613 {Confidence word=0.09641 object=0.102564 =0.015385 Lift=1.555851}
+law-NN  multiply=0.023279  P(law|object)=0.150538  P(object|law)=0.154639    Lift=0.001552 {Confidence word=0.09641 object=0.099487 =0.015385 Lift=1.60397}
+democratic-JJ  multiply=0.022518  P(democratic|object)=0.182796  P(object|democratic)=0.123188    Lift=0.001325 {Confidence word=0.09641 object=0.141538 =0.017436 Lift=1.277752}
+education-NN  multiply=0.02244  P(education|object)=0.129032  P(object|education)=0.173913    Lift=0.00187 {Confidence word=0.09641 object=0.070769 =0.012308 Lift=1.803885}
+indian-JJ  multiply=0.021505  P(indian|object)=0.107527  P(object|indian)=0.2    Lift=0.002151 {Confidence word=0.09641 object=0.051282 =0.010256 Lift=2.074468}
+liberal-JJ  multiply=0.021373  P(liberal|object)=0.193548  P(object|liberal)=0.110429    Lift=0.001187 {Confidence word=0.09641 object=0.167179 =0.018462 Lift=1.145412}
+municipal-JJ  multiply=0.019128  P(municipal|object)=0.139785  P(object|municipal)=0.136842    Lift=0.001471 {Confidence word=0.09641 object=0.097436 =0.013333 Lift=1.419373}
+legislative-JJ  multiply=0.018017  P(legislative|object)=0.268817  P(object|legislative)=0.067024    Lift=7.21E-4 {Confidence word=0.09641 object=0.382564 =0.025641 Lift=0.695197}
+39th-JJ  multiply=0.017921  P(39th|object)=0.053763  P(object|39th)=0.333333    Lift=0.003584 {Confidence word=0.09641 object=0.015385 =0.005128 Lift=3.457447}
+american-JJ  multiply=0.017789  P(american|object)=0.16129  P(object|american)=0.110294    Lift=0.001186 {Confidence word=0.09641 object=0.139487 =0.015385 Lift=1.144008}
+president-NN  multiply=0.01652  P(president|object)=0.139785  P(object|president)=0.118182    Lift=0.001271 {Confidence word=0.09641 object=0.112821 =0.013333 Lift=1.225822}
+new-JJ  multiply=0.015989  P(new|object)=0.215054  P(object|new)=0.074349    Lift=7.99E-4 {Confidence word=0.09641 object=0.275897 =0.020513 Lift=0.771178}
+political-JJ  multiply=0.015825  P(political|object)=0.129032  P(object|political)=0.122642    Lift=0.001217 {Confidence word=0.09641 object=0.108718 =0.013333 Lift=1.272079}
+minister-NN  multiply=0.015693  P(minister|object)=0.193548  P(object|minister)=0.081081    Lift=8.72E-4 {Confidence word=0.09641 object=0.227692 =0.018462 Lift=0.841001}
+office-NN  multiply=0.015409  P(office|object)=0.139785  P(object|office)=0.110236    Lift=0.001101 {Confidence word=0.09641 object=0.130256 =0.014359 Lift=1.143408}
+assembly-NN  multiply=0.013612  P(assembly|object)=0.258065  P(object|assembly)=0.052747    Lift=5.67E-4 {Confidence word=0.09641 object=0.466667 =0.024615 Lift=0.547112}
+canadian-JJ  multiply=0.013503  P(canadian|object)=0.193548  P(object|canadian)=0.069767    Lift=7.5E-4 {Confidence word=0.09641 object=0.264615 =0.018462 Lift=0.723652}
+time-NN  multiply=0.013413  P(time|object)=0.11828  P(object|time)=0.113402    Lift=0.001219 {Confidence word=0.09641 object=0.099487 =0.011282 Lift=1.176245}
+re-election-NN  multiply=0.012744  P(re-election|object)=0.086022  P(object|re-election)=0.148148    Lift=0.001593 {Confidence word=0.09641 object=0.055385 =0.008205 Lift=1.536643}
+chairman-NN  multiply=0.012744  P(chairman|object)=0.086022  P(object|chairman)=0.148148    Lift=0.001593 {Confidence word=0.09641 object=0.055385 =0.008205 Lift=1.536643}
+british-JJ  multiply=0.012082  P(british|object)=0.107527  P(object|british)=0.11236    Lift=0.001208 {Confidence word=0.09641 object=0.091282 =0.010256 Lift=1.165432}
+degree-NN  multiply=0.011708  P(degree|object)=0.075269  P(object|degree)=0.155556    Lift=0.001673 {Confidence word=0.09641 object=0.046154 =0.007179 Lift=1.613475}
+attorney-NN  multiply=0.011385  P(attorney|object)=0.064516  P(object|attorney)=0.176471    Lift=0.001898 {Confidence word=0.09641 object=0.034872 =0.006154 Lift=1.830413}
+vote-NN  multiply=0.011166  P(vote|object)=0.096774  P(object|vote)=0.115385    Lift=0.001241 {Confidence word=0.09641 object=0.08 =0.009231 Lift=1.196809}
 
-id=105  property=dbp:successor  object=riding dissolved  NumberOfEntitiesFoundForObject=110
-canadian-JJ  multiply=0.2697674419  P(canadian|object)=0.7909090909  P(object|canadian)=0.3410852713    
-electoral-JJ  multiply=0.178729038  P(electoral|object)=0.4090909091  P(object|electoral)=0.4368932039    
-assembly-NN  multiply=0.1784215784  P(assembly|object)=0.8545454545  P(object|assembly)=0.2087912088    
-election-NN  multiply=0.1407137275  P(election|object)=0.6636363636  P(object|election)=0.212034384    
-mla-NN  multiply=0.1397260274  P(mla|object)=0.3  P(object|mla)=0.4657534247    
-liberal-JJ  multiply=0.1366424986  P(liberal|object)=0.4454545455  P(object|liberal)=0.3067484663    
-provincial-JJ  multiply=0.1335968379  P(provincial|object)=0.4727272727  P(object|provincial)=0.2826086957    
-party-NN  multiply=0.1280148423  P(party|object)=0.6272727273  P(object|party)=0.2040816327    
-member-NN  multiply=0.1266804856  P(member|object)=0.8363636364  P(object|member)=0.151465798    
-new-JJ  multiply=0.1257519432  P(new|object)=0.5545454545  P(object|new)=0.2267657993    
-part-NN  multiply=0.1174000447  P(part|object)=0.6545454545  P(object|part)=0.1793611794    
-district-NN  multiply=0.1067756214  P(district|object)=0.5090909091  P(object|district)=0.2097378277    
-legislative-JJ  multiply=0.0982695589  P(legislative|object)=0.5727272727  P(object|legislative)=0.1715817694    
-re-election-NN  multiply=0.0851851852  P(re-election|object)=0.2  P(object|re-election)=0.4259259259    
-minister-NN  multiply=0.0774774775  P(minister|object)=0.3909090909  P(object|minister)=0.1981981982    
-democratic-JJ  multiply=0.0761528327  P(democratic|object)=0.3090909091  P(object|democratic)=0.2463768116    
-former-JJ  multiply=0.0742746615  P(former|object)=0.4363636364  P(object|former)=0.170212766    
-conservative-JJ  multiply=0.0727272727  P(conservative|object)=0.3272727273  P(object|conservative)=0.2222222222    
-british-JJ  multiply=0.0717058223  P(british|object)=0.2363636364  P(object|british)=0.3033707865    
-ndp-NN  multiply=0.0574780059  P(ndp|object)=0.1272727273  P(object|ndp)=0.4516129032    
-province-NN  multiply=0.0555746141  P(province|object)=0.1636363636  P(object|province)=0.3396226415    
-cabinet-NN  multiply=0.0532769556  P(cabinet|object)=0.2454545455  P(object|cabinet)=0.2170542636    
-first-JJ  multiply=0.0470355731  P(first|object)=0.3090909091  P(object|first)=0.152173913    
-caucus-NN  multiply=0.0415420023  P(caucus|object)=0.1727272727  P(object|caucus)=0.2405063291    
-incumbent-JJ  multiply=0.0371212121  P(incumbent|object)=0.1272727273  P(object|incumbent)=0.2916666667    
-by-election-NN  multiply=0.0357293869  P(by-election|object)=0.1181818182  P(object|by-election)=0.3023255814    
-business-NN  multiply=0.0327272727  P(business|object)=0.1545454545  P(object|business)=0.2117647059    
-legislature-NN  multiply=0.0323966942  P(legislature|object)=0.1272727273  P(object|legislature)=0.2545454545    
-position-NN  multiply=0.0316546763  P(position|object)=0.2  P(object|position)=0.1582733813    
-vote-NN  multiply=0.0298368298  P(vote|object)=0.1454545455  P(object|vote)=0.2051282051    
-responsible-JJ  multiply=0.0292207792  P(responsible|object)=0.0818181818  P(object|responsible)=0.3571428571    
-government-NN  multiply=0.0288518993  P(government|object)=0.2363636364  P(object|government)=0.1220657277    
-political-JJ  multiply=0.027787307  P(political|object)=0.1636363636  P(object|political)=0.1698113208    
-leader-NN  multiply=0.026900149  P(leader|object)=0.1727272727  P(object|leader)=0.1557377049    
-leadership-NN  multiply=0.0268292683  P(leadership|object)=0.1  P(object|leadership)=0.2682926829    
-son-NN  multiply=0.0266036993  P(son|object)=0.2363636364  P(object|son)=0.1125541126    
-term-NN  multiply=0.0262987013  P(term|object)=0.1636363636  P(object|term)=0.1607142857    
-general-JJ  multiply=0.0247272727  P(general|object)=0.1454545455  P(object|general)=0.17    
-career-NN  multiply=0.0244444444  P(career|object)=0.1  P(object|career)=0.2444444444    
-candidate-NN  multiply=0.0240641711  P(candidate|object)=0.1363636364  P(object|candidate)=0.1764705882    
-executive-JJ  multiply=0.0172248804  P(executive|object)=0.1090909091  P(object|executive)=0.1578947368    
-figure-NN  multiply=0.0171122995  P(figure|object)=0.0727272727  P(object|figure)=0.2352941176    
-education-NN  multiply=0.015942029  P(education|object)=0.1  P(object|education)=0.1594202899    
-council-NN  multiply=0.0158462091  P(council|object)=0.1909090909  P(object|council)=0.0830039526    
-service-NN  multiply=0.0153636364  P(service|object)=0.1181818182  P(object|service)=0.13    
-federal-JJ  multiply=0.0152777778  P(federal|object)=0.1  P(object|federal)=0.1527777778    
-opposition-NN  multiply=0.0138936535  P(opposition|object)=0.0818181818  P(object|opposition)=0.1698113208    
-chair-NN  multiply=0.013812544  P(chair|object)=0.1272727273  P(object|chair)=0.1085271318    
-resignation-NN  multiply=0.0136363636  P(resignation|object)=0.0545454545  P(object|resignation)=0.25    
-director-NN  multiply=0.0136363636  P(director|object)=0.0818181818  P(object|director)=0.1666666667    
-seat-NN  multiply=0.0133580705  P(seat|object)=0.1090909091  P(object|seat)=0.1224489796    
-public-JJ  multiply=0.0131964809  P(public|object)=0.1363636364  P(object|public)=0.0967741935    
-ward-NN  multiply=0.0128188358  P(ward|object)=0.1272727273  P(object|ward)=0.1007194245    
-name-NN  multiply=0.010990502  P(name|object)=0.0818181818  P(object|name)=0.1343283582    
-retirement-NN  multiply=0.0105571848  P(retirement|object)=0.0545454545  P(object|retirement)=0.1935483871    
+id=604  property=dbp:successor  object=Position abolished  NumberOfEntitiesFoundForObject=14
+municipal-JJ  multiply=0.027068  P(municipal|object)=0.428571  P(object|municipal)=0.063158    Lift=0.004511 {Confidence word=0.015385 object=0.097436 =0.006154 Lift=4.105263}
+council-NN  multiply=0.018069  P(council|object)=0.571429  P(object|council)=0.031621    Lift=0.002259 {Confidence word=0.015385 object=0.259487 =0.008205 Lift=2.055336}
+service-NN  multiply=0.017857  P(service|object)=0.357143  P(object|service)=0.05    Lift=0.003571 {Confidence word=0.015385 object=0.102564 =0.005128 Lift=3.25}
+city-NN  multiply=0.016908  P(city|object)=0.5  P(object|city)=0.033816    Lift=0.002415 {Confidence word=0.015385 object=0.212308 =0.007179 Lift=2.198068}
+councillor-NN  multiply=0.016234  P(councillor|object)=0.357143  P(object|councillor)=0.045455    Lift=0.003247 {Confidence word=0.015385 object=0.112821 =0.005128 Lift=2.954545}
+mayor-NN  multiply=0.014366  P(mayor|object)=0.428571  P(object|mayor)=0.03352    Lift=0.002394 {Confidence word=0.015385 object=0.18359 =0.006154 Lift=2.178771}
+first-JJ  multiply=0.01118  P(first|object)=0.428571  P(object|first)=0.026087    Lift=0.001863 {Confidence word=0.015385 object=0.235897 =0.006154 Lift=1.695652}
+second-JJ  multiply=0.011084  P(second|object)=0.214286  P(object|second)=0.051724    Lift=0.003695 {Confidence word=0.015385 object=0.059487 =0.003077 Lift=3.362069}
+current-JJ  multiply=0.010989  P(current|object)=0.285714  P(object|current)=0.038462    Lift=0.002747 {Confidence word=0.015385 object=0.106667 =0.004103 Lift=2.5}
+former-JJ  multiply=0.010638  P(former|object)=0.428571  P(object|former)=0.024823    Lift=0.00152 {Confidence word=0.015385 object=0.289231 =0.007179 Lift=1.613475}
+due-JJ  multiply=0.010582  P(due|object)=0.142857  P(object|due)=0.074074    Lift=0.005291 {Confidence word=0.015385 object=0.027692 =0.002051 Lift=4.814815}
+responsible-JJ  multiply=0.010204  P(responsible|object)=0.142857  P(object|responsible)=0.071429    Lift=0.005102 {Confidence word=0.015385 object=0.028718 =0.002051 Lift=4.642857}
 
-id=106  property=dbp:successor  object=incumbent  NumberOfEntitiesFoundForObject=83
-district-NN  multiply=0.1147962637  P(district|object)=0.578313253  P(object|district)=0.1985018727    
-canadian-JJ  multiply=0.1027365275  P(canadian|object)=0.5301204819  P(object|canadian)=0.1937984496    
-election-NN  multiply=0.0745676114  P(election|object)=0.5421686747  P(object|election)=0.1375358166    
-member-NN  multiply=0.0692280523  P(member|object)=0.6746987952  P(object|member)=0.1026058632    
-committee-NN  multiply=0.0583873957  P(committee|object)=0.2530120482  P(object|committee)=0.2307692308    
-electoral-JJ  multiply=0.0561469178  P(electoral|object)=0.2409638554  P(object|electoral)=0.2330097087    
-part-NN  multiply=0.0544684882  P(part|object)=0.4819277108  P(object|part)=0.113022113    
-39th-JJ  multiply=0.0506024096  P(39th|object)=0.0843373494  P(object|39th)=0.6    
-party-NN  multiply=0.0504057045  P(party|object)=0.421686747  P(object|party)=0.1195335277    
-assembly-NN  multiply=0.049940421  P(assembly|object)=0.4939759036  P(object|assembly)=0.1010989011    
-council-NN  multiply=0.0441925806  P(council|object)=0.3493975904  P(object|council)=0.1264822134    
-new-JJ  multiply=0.0402651498  P(new|object)=0.3493975904  P(object|new)=0.1152416357    
-british-JJ  multiply=0.0389874103  P(british|object)=0.1927710843  P(object|british)=0.202247191    
-chair-NN  multiply=0.0372653404  P(chair|object)=0.2289156627  P(object|chair)=0.1627906977    
-school-NN  multiply=0.0337349398  P(school|object)=0.1686746988  P(object|school)=0.2    
-democratic-JJ  multiply=0.033176183  P(democratic|object)=0.2289156627  P(object|democratic)=0.1449275362    
-current-JJ  multiply=0.031510658  P(current|object)=0.1927710843  P(object|current)=0.1634615385    
-legislative-JJ  multiply=0.0310087535  P(legislative|object)=0.3614457831  P(object|legislative)=0.0857908847    
-provincial-JJ  multiply=0.0301204819  P(provincial|object)=0.2409638554  P(object|provincial)=0.125    
-first-JJ  multiply=0.0301204819  P(first|object)=0.2771084337  P(object|first)=0.1086956522    
-official-JJ  multiply=0.0247848537  P(official|object)=0.0963855422  P(object|official)=0.2571428571    
-municipal-JJ  multiply=0.024730501  P(municipal|object)=0.156626506  P(object|municipal)=0.1578947368    
-mayor-NN  multiply=0.0230194521  P(mayor|object)=0.2168674699  P(object|mayor)=0.1061452514    
-city-NN  multiply=0.0220010477  P(city|object)=0.2168674699  P(object|city)=0.1014492754    
-councillor-NN  multiply=0.0213581599  P(councillor|object)=0.156626506  P(object|councillor)=0.1363636364    
-minister-NN  multiply=0.0206230327  P(minister|object)=0.2289156627  P(object|minister)=0.0900900901    
-american-JJ  multiply=0.0199326719  P(american|object)=0.1807228916  P(object|american)=0.1102941176    
-mla-NN  multiply=0.0198052484  P(mla|object)=0.1204819277  P(object|mla)=0.1643835616    
-service-NN  multiply=0.0187951807  P(service|object)=0.1445783133  P(object|service)=0.13    
-son-NN  multiply=0.0187764043  P(son|object)=0.2168674699  P(object|son)=0.0865800866    
-ndp-NN  multiply=0.0186552662  P(ndp|object)=0.0722891566  P(object|ndp)=0.2580645161    
-public-JJ  multiply=0.0174115818  P(public|object)=0.1686746988  P(object|public)=0.1032258065    
-degree-NN  multiply=0.0171352075  P(degree|object)=0.0963855422  P(object|degree)=0.1777777778    
-local-JJ  multiply=0.016762703  P(local|object)=0.0963855422  P(object|local)=0.1739130435    
-opposition-NN  multiply=0.0163673562  P(opposition|object)=0.0963855422  P(object|opposition)=0.1698113208    
-time-NN  multiply=0.0161470625  P(time|object)=0.1204819277  P(object|time)=0.1340206186    
-business-NN  multiply=0.0155917789  P(business|object)=0.1204819277  P(object|business)=0.1294117647    
-vote-NN  multiply=0.015291937  P(vote|object)=0.1084337349  P(object|vote)=0.141025641    
-several-JJ  multiply=0.0152187698  P(several|object)=0.0722891566  P(object|several)=0.2105263158    
-responsible-JJ  multiply=0.015060241  P(responsible|object)=0.0602409639  P(object|responsible)=0.25    
-position-NN  multiply=0.0145618445  P(position|object)=0.1445783133  P(object|position)=0.1007194245    
-general-JJ  multiply=0.0144578313  P(general|object)=0.1204819277  P(object|general)=0.12    
-teacher-NN  multiply=0.01275691  P(teacher|object)=0.0722891566  P(object|teacher)=0.1764705882    
-chairman-NN  multiply=0.0124944221  P(chairman|object)=0.0843373494  P(object|chairman)=0.1481481481    
-cabinet-NN  multiply=0.0123283833  P(cabinet|object)=0.1325301205  P(object|cabinet)=0.0930232558    
-seat-NN  multiply=0.0121711335  P(seat|object)=0.1084337349  P(object|seat)=0.112244898    
-government-NN  multiply=0.0118784999  P(government|object)=0.1686746988  P(object|government)=0.0704225352    
-former-JJ  multiply=0.0115355037  P(former|object)=0.1807228916  P(object|former)=0.0638297872    
-office-NN  multiply=0.0114789868  P(office|object)=0.1325301205  P(object|office)=0.0866141732    
-family-NN  multiply=0.0112449799  P(family|object)=0.0722891566  P(object|family)=0.1555555556    
-deputy-JJ  multiply=0.0112172829  P(deputy|object)=0.1084337349  P(object|deputy)=0.1034482759    
-education-NN  multiply=0.0111751353  P(education|object)=0.0963855422  P(object|education)=0.115942029    
-province-NN  multiply=0.0111388952  P(province|object)=0.0843373494  P(object|province)=0.1320754717    
-independent-JJ  multiply=0.0111214087  P(independent|object)=0.0722891566  P(object|independent)=0.1538461538    
-liberal-JJ  multiply=0.011087294  P(liberal|object)=0.1204819277  P(object|liberal)=0.0920245399    
-political-JJ  multiply=0.0102295976  P(political|object)=0.1084337349  P(object|political)=0.0943396226    
+id=605  property=dbp:successor  object=riding dissolved  NumberOfEntitiesFoundForObject=110
+canadian-JJ  multiply=0.269767  P(canadian|object)=0.790909  P(object|canadian)=0.341085    Lift=0.003066 {Confidence word=0.113846 object=0.264615 =0.090256 Lift=2.996019}
+electoral-JJ  multiply=0.178729  P(electoral|object)=0.409091  P(object|electoral)=0.436893    Lift=0.003972 {Confidence word=0.113846 object=0.105641 =0.046154 Lift=3.837575}
+assembly-NN  multiply=0.178422  P(assembly|object)=0.854545  P(object|assembly)=0.208791    Lift=0.001878 {Confidence word=0.113846 object=0.466667 =0.097436 Lift=1.833977}
+election-NN  multiply=0.140714  P(election|object)=0.663636  P(object|election)=0.212034    Lift=0.001902 {Confidence word=0.113846 object=0.357949 =0.075897 Lift=1.862464}
+mla-NN  multiply=0.139726  P(mla|object)=0.3  P(object|mla)=0.465753    Lift=0.00411 {Confidence word=0.113846 object=0.074872 =0.034872 Lift=4.091077}
+liberal-JJ  multiply=0.136642  P(liberal|object)=0.445455  P(object|liberal)=0.306748    Lift=0.002733 {Confidence word=0.113846 object=0.167179 =0.051282 Lift=2.694412}
+provincial-JJ  multiply=0.133597  P(provincial|object)=0.472727  P(object|provincial)=0.282609    Lift=0.002569 {Confidence word=0.113846 object=0.188718 =0.053333 Lift=2.482374}
+party-NN  multiply=0.128015  P(party|object)=0.627273  P(object|party)=0.204082    Lift=0.001829 {Confidence word=0.113846 object=0.351795 =0.071795 Lift=1.792609}
+member-NN  multiply=0.12668  P(member|object)=0.836364  P(object|member)=0.151466    Lift=0.001362 {Confidence word=0.113846 object=0.629744 =0.095385 Lift=1.330443}
+new-JJ  multiply=0.125752  P(new|object)=0.554545  P(object|new)=0.226766    Lift=0.002062 {Confidence word=0.113846 object=0.275897 =0.062564 Lift=1.991862}
+part-NN  multiply=0.1174  P(part|object)=0.654545  P(object|part)=0.179361    Lift=0.001608 {Confidence word=0.113846 object=0.417436 =0.074872 Lift=1.57547}
+district-NN  multiply=0.106776  P(district|object)=0.509091  P(object|district)=0.209738    Lift=0.001907 {Confidence word=0.113846 object=0.273846 =0.057436 Lift=1.842292}
+legislative-JJ  multiply=0.09827  P(legislative|object)=0.572727  P(object|legislative)=0.171582    Lift=0.001535 {Confidence word=0.113846 object=0.382564 =0.065641 Lift=1.507137}
+re-election-NN  multiply=0.085185  P(re-election|object)=0.2  P(object|re-election)=0.425926    Lift=0.003704 {Confidence word=0.113846 object=0.055385 =0.02359 Lift=3.741241}
+minister-NN  multiply=0.077477  P(minister|object)=0.390909  P(object|minister)=0.198198    Lift=0.001761 {Confidence word=0.113846 object=0.227692 =0.045128 Lift=1.74093}
+democratic-JJ  multiply=0.076153  P(democratic|object)=0.309091  P(object|democratic)=0.246377    Lift=0.00224 {Confidence word=0.113846 object=0.141538 =0.034872 Lift=2.164121}
+former-JJ  multiply=0.074275  P(former|object)=0.436364  P(object|former)=0.170213    Lift=0.001547 {Confidence word=0.113846 object=0.289231 =0.049231 Lift=1.495112}
+conservative-JJ  multiply=0.072727  P(conservative|object)=0.327273  P(object|conservative)=0.222222    Lift=0.00202 {Confidence word=0.113846 object=0.166154 =0.036923 Lift=1.951952}
+british-JJ  multiply=0.071706  P(british|object)=0.236364  P(object|british)=0.303371    Lift=0.002656 {Confidence word=0.113846 object=0.091282 =0.027692 Lift=2.664743}
+ndp-NN  multiply=0.057478  P(ndp|object)=0.127273  P(object|ndp)=0.451613    Lift=0.004106 {Confidence word=0.113846 object=0.031795 =0.014359 Lift=3.96687}
+province-NN  multiply=0.055575  P(province|object)=0.163636  P(object|province)=0.339623    Lift=0.003087 {Confidence word=0.113846 object=0.054359 =0.018462 Lift=2.983172}
+cabinet-NN  multiply=0.053277  P(cabinet|object)=0.245455  P(object|cabinet)=0.217054    Lift=0.001903 {Confidence word=0.113846 object=0.132308 =0.028718 Lift=1.906558}
+first-JJ  multiply=0.047036  P(first|object)=0.309091  P(object|first)=0.152174    Lift=0.001344 {Confidence word=0.113846 object=0.235897 =0.035897 Lift=1.336663}
+caucus-NN  multiply=0.041542  P(caucus|object)=0.172727  P(object|caucus)=0.240506    Lift=0.002186 {Confidence word=0.113846 object=0.081026 =0.019487 Lift=2.112556}
+incumbent-JJ  multiply=0.037121  P(incumbent|object)=0.127273  P(object|incumbent)=0.291667    Lift=0.002652 {Confidence word=0.113846 object=0.049231 =0.014359 Lift=2.561937}
+by-election-NN  multiply=0.035729  P(by-election|object)=0.118182  P(object|by-election)=0.302326    Lift=0.002748 {Confidence word=0.113846 object=0.044103 =0.013333 Lift=2.655563}
+business-NN  multiply=0.032727  P(business|object)=0.154545  P(object|business)=0.211765    Lift=0.001818 {Confidence word=0.113846 object=0.087179 =0.018462 Lift=1.860095}
+legislature-NN  multiply=0.032397  P(legislature|object)=0.127273  P(object|legislature)=0.254545    Lift=0.002314 {Confidence word=0.113846 object=0.05641 =0.014359 Lift=2.235872}
+position-NN  multiply=0.031655  P(position|object)=0.2  P(object|position)=0.158273    Lift=0.001439 {Confidence word=0.113846 object=0.142564 =0.022564 Lift=1.390239}
+vote-NN  multiply=0.029837  P(vote|object)=0.145455  P(object|vote)=0.205128    Lift=0.001865 {Confidence word=0.113846 object=0.08 =0.01641 Lift=1.801802}
+responsible-JJ  multiply=0.029221  P(responsible|object)=0.081818  P(object|responsible)=0.357143    Lift=0.002922 {Confidence word=0.113846 object=0.028718 =0.010256 Lift=3.137066}
+government-NN  multiply=0.028852  P(government|object)=0.236364  P(object|government)=0.122066    Lift=0.00111 {Confidence word=0.113846 object=0.218462 =0.026667 Lift=1.072199}
+political-JJ  multiply=0.027787  P(political|object)=0.163636  P(object|political)=0.169811    Lift=0.001544 {Confidence word=0.113846 object=0.108718 =0.018462 Lift=1.491586}
+leader-NN  multiply=0.0269  P(leader|object)=0.172727  P(object|leader)=0.155738    Lift=0.001416 {Confidence word=0.113846 object=0.125128 =0.019487 Lift=1.367966}
+leadership-NN  multiply=0.026829  P(leadership|object)=0.1  P(object|leadership)=0.268293    Lift=0.002439 {Confidence word=0.113846 object=0.042051 =0.011282 Lift=2.356625}
+son-NN  multiply=0.026604  P(son|object)=0.236364  P(object|son)=0.112554    Lift=0.001023 {Confidence word=0.113846 object=0.236923 =0.026667 Lift=0.988651}
+term-NN  multiply=0.026299  P(term|object)=0.163636  P(object|term)=0.160714    Lift=0.001461 {Confidence word=0.113846 object=0.114872 =0.018462 Lift=1.41168}
+general-JJ  multiply=0.024727  P(general|object)=0.145455  P(object|general)=0.17    Lift=0.001455 {Confidence word=0.113846 object=0.102564 =0.017436 Lift=1.493243}
+career-NN  multiply=0.024444  P(career|object)=0.1  P(object|career)=0.244444    Lift=0.002222 {Confidence word=0.113846 object=0.046154 =0.011282 Lift=2.147147}
+candidate-NN  multiply=0.024064  P(candidate|object)=0.136364  P(object|candidate)=0.176471    Lift=0.001604 {Confidence word=0.113846 object=0.087179 =0.015385 Lift=1.550079}
+executive-JJ  multiply=0.017225  P(executive|object)=0.109091  P(object|executive)=0.157895    Lift=0.001435 {Confidence word=0.113846 object=0.077949 =0.012308 Lift=1.386913}
+figure-NN  multiply=0.017112  P(figure|object)=0.072727  P(object|figure)=0.235294    Lift=0.002139 {Confidence word=0.113846 object=0.034872 =0.008205 Lift=2.066773}
+education-NN  multiply=0.015942  P(education|object)=0.1  P(object|education)=0.15942    Lift=0.001449 {Confidence word=0.113846 object=0.070769 =0.011282 Lift=1.400313}
+council-NN  multiply=0.015846  P(council|object)=0.190909  P(object|council)=0.083004    Lift=7.55E-4 {Confidence word=0.113846 object=0.259487 =0.021538 Lift=0.729089}
+service-NN  multiply=0.015364  P(service|object)=0.118182  P(object|service)=0.13    Lift=0.001182 {Confidence word=0.113846 object=0.102564 =0.013333 Lift=1.141892}
+federal-JJ  multiply=0.015278  P(federal|object)=0.1  P(object|federal)=0.152778    Lift=0.001389 {Confidence word=0.113846 object=0.073846 =0.011282 Lift=1.341967}
+opposition-NN  multiply=0.013894  P(opposition|object)=0.081818  P(object|opposition)=0.169811    Lift=0.001544 {Confidence word=0.113846 object=0.054359 =0.009231 Lift=1.491586}
+chair-NN  multiply=0.013813  P(chair|object)=0.127273  P(object|chair)=0.108527    Lift=9.87E-4 {Confidence word=0.113846 object=0.132308 =0.014359 Lift=0.953279}
+resignation-NN  multiply=0.013636  P(resignation|object)=0.054545  P(object|resignation)=0.25    Lift=0.002273 {Confidence word=0.113846 object=0.024615 =0.006154 Lift=2.195946}
+director-NN  multiply=0.013636  P(director|object)=0.081818  P(object|director)=0.166667    Lift=0.001515 {Confidence word=0.113846 object=0.055385 =0.009231 Lift=1.463964}
+seat-NN  multiply=0.013358  P(seat|object)=0.109091  P(object|seat)=0.122449    Lift=0.001113 {Confidence word=0.113846 object=0.100513 =0.012308 Lift=1.075565}
+public-JJ  multiply=0.013196  P(public|object)=0.136364  P(object|public)=0.096774    Lift=8.8E-4 {Confidence word=0.113846 object=0.158974 =0.015385 Lift=0.850044}
+ward-NN  multiply=0.012819  P(ward|object)=0.127273  P(object|ward)=0.100719    Lift=9.16E-4 {Confidence word=0.113846 object=0.142564 =0.014359 Lift=0.884698}
+name-NN  multiply=0.010991  P(name|object)=0.081818  P(object|name)=0.134328    Lift=0.001221 {Confidence word=0.113846 object=0.068718 =0.009231 Lift=1.179911}
+retirement-NN  multiply=0.010557  P(retirement|object)=0.054545  P(object|retirement)=0.193548    Lift=0.00176 {Confidence word=0.113846 object=0.031795 =0.006154 Lift=1.700087}
 
-id=107  property=dbp:successor  object=Riding abolished  NumberOfEntitiesFoundForObject=58
-conservative-JJ  multiply=0.1618773946  P(conservative|object)=0.6724137931  P(object|conservative)=0.2407407407    
-legislative-JJ  multiply=0.1249884441  P(legislative|object)=0.8965517241  P(object|legislative)=0.1394101877    
-assembly-NN  multiply=0.1024630542  P(assembly|object)=0.8965517241  P(object|assembly)=0.1142857143    
-member-NN  multiply=0.075929462  P(member|object)=0.8965517241  P(object|member)=0.0846905537    
-cabinet-NN  multiply=0.0707030206  P(cabinet|object)=0.3965517241  P(object|cabinet)=0.1782945736    
-former-JJ  multiply=0.0413303986  P(former|object)=0.4482758621  P(object|former)=0.0921985816    
-minister-NN  multiply=0.0375893135  P(minister|object)=0.3793103448  P(object|minister)=0.0990990991    
-government-NN  multiply=0.0292213048  P(government|object)=0.3275862069  P(object|government)=0.0892018779    
-liberal-JJ  multiply=0.0178760313  P(liberal|object)=0.224137931  P(object|liberal)=0.0797546012    
-councillor-NN  multiply=0.0126959248  P(councillor|object)=0.1551724138  P(object|councillor)=0.0818181818    
-leadership-NN  multiply=0.0105130362  P(leadership|object)=0.0862068966  P(object|leadership)=0.1219512195    
+id=606  property=dbp:successor  object=incumbent  NumberOfEntitiesFoundForObject=83
+district-NN  multiply=0.114796  P(district|object)=0.578313  P(object|district)=0.198502    Lift=0.002166 {Confidence word=0.092308 object=0.273846 =0.054359 Lift=2.150437}
+canadian-JJ  multiply=0.102737  P(canadian|object)=0.53012  P(object|canadian)=0.193798    Lift=0.002055 {Confidence word=0.092308 object=0.264615 =0.051282 Lift=2.099483}
+election-NN  multiply=0.074568  P(election|object)=0.542169  P(object|election)=0.137536    Lift=0.001553 {Confidence word=0.092308 object=0.357949 =0.049231 Lift=1.489971}
+member-NN  multiply=0.069228  P(member|object)=0.674699  P(object|member)=0.102606    Lift=0.001099 {Confidence word=0.092308 object=0.629744 =0.064615 Lift=1.111564}
+committee-NN  multiply=0.058387  P(committee|object)=0.253012  P(object|committee)=0.230769    Lift=0.002433 {Confidence word=0.092308 object=0.106667 =0.024615 Lift=2.5}
+electoral-JJ  multiply=0.056147  P(electoral|object)=0.240964  P(object|electoral)=0.23301    Lift=0.002339 {Confidence word=0.092308 object=0.105641 =0.024615 Lift=2.524272}
+part-NN  multiply=0.054468  P(part|object)=0.481928  P(object|part)=0.113022    Lift=0.001184 {Confidence word=0.092308 object=0.417436 =0.047179 Lift=1.224406}
+39th-JJ  multiply=0.050602  P(39th|object)=0.084337  P(object|39th)=0.6    Lift=0.005622 {Confidence word=0.092308 object=0.015385 =0.009231 Lift=6.5}
+party-NN  multiply=0.050406  P(party|object)=0.421687  P(object|party)=0.119534    Lift=0.001229 {Confidence word=0.092308 object=0.351795 =0.042051 Lift=1.294947}
+assembly-NN  multiply=0.04994  P(assembly|object)=0.493976  P(object|assembly)=0.101099    Lift=0.001086 {Confidence word=0.092308 object=0.466667 =0.047179 Lift=1.095238}
+council-NN  multiply=0.044193  P(council|object)=0.349398  P(object|council)=0.126482    Lift=0.001381 {Confidence word=0.092308 object=0.259487 =0.032821 Lift=1.370224}
+new-JJ  multiply=0.040265  P(new|object)=0.349398  P(object|new)=0.115242    Lift=0.001299 {Confidence word=0.092308 object=0.275897 =0.031795 Lift=1.248451}
+british-JJ  multiply=0.038987  P(british|object)=0.192771  P(object|british)=0.202247    Lift=0.002166 {Confidence word=0.092308 object=0.091282 =0.018462 Lift=2.191011}
+chair-NN  multiply=0.037265  P(chair|object)=0.228916  P(object|chair)=0.162791    Lift=0.001775 {Confidence word=0.092308 object=0.132308 =0.021538 Lift=1.763566}
+school-NN  multiply=0.033735  P(school|object)=0.168675  P(object|school)=0.2    Lift=0.001874 {Confidence word=0.092308 object=0.092308 =0.018462 Lift=2.166667}
+democratic-JJ  multiply=0.033176  P(democratic|object)=0.228916  P(object|democratic)=0.144928    Lift=0.001659 {Confidence word=0.092308 object=0.141538 =0.020513 Lift=1.570048}
+current-JJ  multiply=0.031511  P(current|object)=0.192771  P(object|current)=0.163462    Lift=0.001854 {Confidence word=0.092308 object=0.106667 =0.017436 Lift=1.770833}
+legislative-JJ  multiply=0.031009  P(legislative|object)=0.361446  P(object|legislative)=0.085791    Lift=9.69E-4 {Confidence word=0.092308 object=0.382564 =0.032821 Lift=0.929401}
+provincial-JJ  multiply=0.03012  P(provincial|object)=0.240964  P(object|provincial)=0.125    Lift=0.00131 {Confidence word=0.092308 object=0.188718 =0.02359 Lift=1.354167}
+first-JJ  multiply=0.03012  P(first|object)=0.277108  P(object|first)=0.108696    Lift=0.001205 {Confidence word=0.092308 object=0.235897 =0.025641 Lift=1.177536}
+official-JJ  multiply=0.024785  P(official|object)=0.096386  P(object|official)=0.257143    Lift=0.002754 {Confidence word=0.092308 object=0.035897 =0.009231 Lift=2.785714}
+municipal-JJ  multiply=0.024731  P(municipal|object)=0.156627  P(object|municipal)=0.157895    Lift=0.001649 {Confidence word=0.092308 object=0.097436 =0.015385 Lift=1.710526}
+mayor-NN  multiply=0.023019  P(mayor|object)=0.216867  P(object|mayor)=0.106145    Lift=0.001212 {Confidence word=0.092308 object=0.18359 =0.019487 Lift=1.149907}
+city-NN  multiply=0.022001  P(city|object)=0.216867  P(object|city)=0.101449    Lift=0.001048 {Confidence word=0.092308 object=0.212308 =0.021538 Lift=1.099034}
+councillor-NN  multiply=0.021358  P(councillor|object)=0.156627  P(object|councillor)=0.136364    Lift=0.001424 {Confidence word=0.092308 object=0.112821 =0.015385 Lift=1.477273}
+minister-NN  multiply=0.020623  P(minister|object)=0.228916  P(object|minister)=0.09009    Lift=0.001031 {Confidence word=0.092308 object=0.227692 =0.020513 Lift=0.975976}
+american-JJ  multiply=0.019933  P(american|object)=0.180723  P(object|american)=0.110294    Lift=0.001329 {Confidence word=0.092308 object=0.139487 =0.015385 Lift=1.194853}
+mla-NN  multiply=0.019805  P(mla|object)=0.120482  P(object|mla)=0.164384    Lift=0.00165 {Confidence word=0.092308 object=0.074872 =0.012308 Lift=1.780822}
+service-NN  multiply=0.018795  P(service|object)=0.144578  P(object|service)=0.13    Lift=0.001446 {Confidence word=0.092308 object=0.102564 =0.013333 Lift=1.408333}
+son-NN  multiply=0.018776  P(son|object)=0.216867  P(object|son)=0.08658    Lift=9.39E-4 {Confidence word=0.092308 object=0.236923 =0.020513 Lift=0.937951}
+ndp-NN  multiply=0.018655  P(ndp|object)=0.072289  P(object|ndp)=0.258065    Lift=0.002332 {Confidence word=0.092308 object=0.031795 =0.008205 Lift=2.795699}
+public-JJ  multiply=0.017412  P(public|object)=0.168675  P(object|public)=0.103226    Lift=0.001088 {Confidence word=0.092308 object=0.158974 =0.01641 Lift=1.11828}
+degree-NN  multiply=0.017135  P(degree|object)=0.096386  P(object|degree)=0.177778    Lift=0.002142 {Confidence word=0.092308 object=0.046154 =0.008205 Lift=1.925926}
+local-JJ  multiply=0.016763  P(local|object)=0.096386  P(object|local)=0.173913    Lift=0.002095 {Confidence word=0.092308 object=0.047179 =0.008205 Lift=1.884058}
+opposition-NN  multiply=0.016367  P(opposition|object)=0.096386  P(object|opposition)=0.169811    Lift=0.001819 {Confidence word=0.092308 object=0.054359 =0.009231 Lift=1.839623}
+time-NN  multiply=0.016147  P(time|object)=0.120482  P(object|time)=0.134021    Lift=0.001242 {Confidence word=0.092308 object=0.099487 =0.013333 Lift=1.45189}
+business-NN  multiply=0.015592  P(business|object)=0.120482  P(object|business)=0.129412    Lift=0.001417 {Confidence word=0.092308 object=0.087179 =0.011282 Lift=1.401961}
+vote-NN  multiply=0.015292  P(vote|object)=0.108434  P(object|vote)=0.141026    Lift=0.00139 {Confidence word=0.092308 object=0.08 =0.011282 Lift=1.527778}
+several-JJ  multiply=0.015219  P(several|object)=0.072289  P(object|several)=0.210526    Lift=0.001902 {Confidence word=0.092308 object=0.038974 =0.008205 Lift=2.280702}
+responsible-JJ  multiply=0.01506  P(responsible|object)=0.060241  P(object|responsible)=0.25    Lift=0.002151 {Confidence word=0.092308 object=0.028718 =0.007179 Lift=2.708333}
+position-NN  multiply=0.014562  P(position|object)=0.144578  P(object|position)=0.100719    Lift=0.00104 {Confidence word=0.092308 object=0.142564 =0.014359 Lift=1.091127}
+general-JJ  multiply=0.014458  P(general|object)=0.120482  P(object|general)=0.12    Lift=0.001205 {Confidence word=0.092308 object=0.102564 =0.012308 Lift=1.3}
+teacher-NN  multiply=0.012757  P(teacher|object)=0.072289  P(object|teacher)=0.176471    Lift=0.002126 {Confidence word=0.092308 object=0.034872 =0.006154 Lift=1.911765}
+chairman-NN  multiply=0.012494  P(chairman|object)=0.084337  P(object|chairman)=0.148148    Lift=0.001562 {Confidence word=0.092308 object=0.055385 =0.008205 Lift=1.604938}
+cabinet-NN  multiply=0.012328  P(cabinet|object)=0.13253  P(object|cabinet)=0.093023    Lift=0.001027 {Confidence word=0.092308 object=0.132308 =0.012308 Lift=1.007752}
+seat-NN  multiply=0.012171  P(seat|object)=0.108434  P(object|seat)=0.112245    Lift=0.001106 {Confidence word=0.092308 object=0.100513 =0.011282 Lift=1.215986}
+government-NN  multiply=0.011878  P(government|object)=0.168675  P(object|government)=0.070423    Lift=7.92E-4 {Confidence word=0.092308 object=0.218462 =0.015385 Lift=0.762911}
+former-JJ  multiply=0.011536  P(former|object)=0.180723  P(object|former)=0.06383    Lift=6.41E-4 {Confidence word=0.092308 object=0.289231 =0.018462 Lift=0.691489}
+office-NN  multiply=0.011479  P(office|object)=0.13253  P(object|office)=0.086614    Lift=0.001044 {Confidence word=0.092308 object=0.130256 =0.011282 Lift=0.93832}
+family-NN  multiply=0.011245  P(family|object)=0.072289  P(object|family)=0.155556    Lift=0.001606 {Confidence word=0.092308 object=0.046154 =0.007179 Lift=1.685185}
+deputy-JJ  multiply=0.011217  P(deputy|object)=0.108434  P(object|deputy)=0.103448    Lift=0.001246 {Confidence word=0.092308 object=0.089231 =0.009231 Lift=1.12069}
+education-NN  multiply=0.011175  P(education|object)=0.096386  P(object|education)=0.115942    Lift=0.001397 {Confidence word=0.092308 object=0.070769 =0.008205 Lift=1.256039}
+province-NN  multiply=0.011139  P(province|object)=0.084337  P(object|province)=0.132075    Lift=0.001591 {Confidence word=0.092308 object=0.054359 =0.007179 Lift=1.430818}
+independent-JJ  multiply=0.011121  P(independent|object)=0.072289  P(object|independent)=0.153846    Lift=0.001854 {Confidence word=0.092308 object=0.04 =0.006154 Lift=1.666667}
+liberal-JJ  multiply=0.011087  P(liberal|object)=0.120482  P(object|liberal)=0.092025    Lift=7.39E-4 {Confidence word=0.092308 object=0.167179 =0.015385 Lift=0.996933}
+political-JJ  multiply=0.01023  P(political|object)=0.108434  P(object|political)=0.09434    Lift=0.001023 {Confidence word=0.092308 object=0.108718 =0.010256 Lift=1.022013}
 
-id=108  property=dbp:successor  object=District Abolished  NumberOfEntitiesFoundForObject=56
-provincial-JJ  multiply=0.1877911491  P(provincial|object)=0.7678571429  P(object|provincial)=0.2445652174    
-assembly-NN  multiply=0.1208006279  P(assembly|object)=0.9642857143  P(object|assembly)=0.1252747253    
-level-NN  multiply=0.1200166113  P(level|object)=0.3035714286  P(object|level)=0.3953488372    
-caucus-NN  multiply=0.1195750452  P(caucus|object)=0.4107142857  P(object|caucus)=0.2911392405    
-member-NN  multiply=0.0786121452  P(member|object)=0.9107142857  P(object|member)=0.0863192182    
-legislative-JJ  multiply=0.067311375  P(legislative|object)=0.6607142857  P(object|legislative)=0.1018766756    
-government-NN  multiply=0.0387323944  P(government|object)=0.375  P(object|government)=0.103286385    
-conservative-JJ  multiply=0.0317460317  P(conservative|object)=0.2857142857  P(object|conservative)=0.1111111111    
-district-NN  multiply=0.0279561263  P(district|object)=0.3392857143  P(object|district)=0.0823970037    
-canadian-JJ  multiply=0.0276162791  P(canadian|object)=0.3392857143  P(object|canadian)=0.0813953488    
-electoral-JJ  multiply=0.0249653259  P(electoral|object)=0.2142857143  P(object|electoral)=0.1165048544    
-new-JJ  multiply=0.0238980351  P(new|object)=0.3214285714  P(object|new)=0.0743494424    
-party-NN  multiply=0.0197834236  P(party|object)=0.3392857143  P(object|party)=0.0583090379    
-time-NN  multiply=0.0184094256  P(time|object)=0.1785714286  P(object|time)=0.1030927835    
-part-NN  multiply=0.0166725167  P(part|object)=0.3392857143  P(object|part)=0.0491400491    
-by-election-NN  multiply=0.0124584718  P(by-election|object)=0.0892857143  P(object|by-election)=0.1395348837    
-election-NN  multiply=0.0114613181  P(election|object)=0.25  P(object|election)=0.0458452722    
-liberal-JJ  multiply=0.0109553024  P(liberal|object)=0.1785714286  P(object|liberal)=0.0613496933    
+id=607  property=dbp:successor  object=Seat abolished  NumberOfEntitiesFoundForObject=28
+australian-JJ  multiply=0.335317  P(australian|object)=0.928571  P(object|australian)=0.361111    Lift=0.012897 {Confidence word=0.028718 object=0.073846 =0.026667 Lift=12.574405}
+labor-NN  multiply=0.238757  P(labor|object)=0.678571  P(object|labor)=0.351852    Lift=0.012566 {Confidence word=0.028718 object=0.055385 =0.019487 Lift=12.251984}
+legislative-JJ  multiply=0.075067  P(legislative|object)=1.0  P(object|legislative)=0.075067    Lift=0.002681 {Confidence word=0.028718 object=0.382564 =0.028718 Lift=2.613941}
+assembly-NN  multiply=0.057221  P(assembly|object)=0.964286  P(object|assembly)=0.059341    Lift=0.002119 {Confidence word=0.028718 object=0.466667 =0.027692 Lift=2.066327}
+seat-NN  multiply=0.044096  P(seat|object)=0.392857  P(object|seat)=0.112245    Lift=0.004009 {Confidence word=0.028718 object=0.100513 =0.011282 Lift=3.908528}
+member-NN  multiply=0.036354  P(member|object)=0.892857  P(object|member)=0.040717    Lift=0.001454 {Confidence word=0.028718 object=0.629744 =0.025641 Lift=1.417811}
+state-NN  multiply=0.031111  P(state|object)=0.5  P(object|state)=0.062222    Lift=0.002222 {Confidence word=0.028718 object=0.230769 =0.014359 Lift=2.166667}
+independent-JJ  multiply=0.022894  P(independent|object)=0.178571  P(object|independent)=0.128205    Lift=0.004579 {Confidence word=0.028718 object=0.04 =0.005128 Lift=4.464286}
+party-NN  multiply=0.020408  P(party|object)=0.5  P(object|party)=0.040816    Lift=0.001458 {Confidence word=0.028718 object=0.351795 =0.014359 Lift=1.421283}
+election-NN  multiply=0.020057  P(election|object)=0.5  P(object|election)=0.040115    Lift=0.001433 {Confidence word=0.028718 object=0.357949 =0.014359 Lift=1.396848}
+retirement-NN  multiply=0.018433  P(retirement|object)=0.142857  P(object|retirement)=0.129032    Lift=0.004608 {Confidence word=0.028718 object=0.031795 =0.004103 Lift=4.493088}
+part-NN  multiply=0.017199  P(part|object)=0.5  P(object|part)=0.034398    Lift=0.001229 {Confidence word=0.028718 object=0.417436 =0.014359 Lift=1.197789}
+opposition-NN  multiply=0.016846  P(opposition|object)=0.178571  P(object|opposition)=0.09434    Lift=0.003369 {Confidence word=0.028718 object=0.054359 =0.005128 Lift=3.28504}
+position-NN  multiply=0.016444  P(position|object)=0.285714  P(object|position)=0.057554    Lift=0.002055 {Confidence word=0.028718 object=0.142564 =0.008205 Lift=2.004111}
+minister-NN  multiply=0.016088  P(minister|object)=0.357143  P(object|minister)=0.045045    Lift=0.001609 {Confidence word=0.028718 object=0.227692 =0.010256 Lift=1.568533}
+son-NN  multiply=0.015461  P(son|object)=0.357143  P(object|son)=0.04329    Lift=0.001546 {Confidence word=0.028718 object=0.236923 =0.010256 Lift=1.507421}
+former-JJ  multiply=0.015324  P(former|object)=0.392857  P(object|former)=0.039007    Lift=0.001393 {Confidence word=0.028718 object=0.289231 =0.011282 Lift=1.358283}
+school-NN  multiply=0.014286  P(school|object)=0.214286  P(object|school)=0.066667    Lift=0.002381 {Confidence word=0.028718 object=0.092308 =0.006154 Lift=2.321429}
+government-NN  multiply=0.013581  P(government|object)=0.321429  P(object|government)=0.042254    Lift=0.001509 {Confidence word=0.028718 object=0.218462 =0.009231 Lift=1.471328}
+local-JJ  multiply=0.012422  P(local|object)=0.142857  P(object|local)=0.086957    Lift=0.003106 {Confidence word=0.028718 object=0.047179 =0.004103 Lift=3.02795}
+council-NN  multiply=0.011434  P(council|object)=0.321429  P(object|council)=0.035573    Lift=0.00127 {Confidence word=0.028718 object=0.259487 =0.009231 Lift=1.238707}
+new-JJ  multiply=0.010754  P(new|object)=0.321429  P(object|new)=0.033457    Lift=0.001195 {Confidence word=0.028718 object=0.275897 =0.009231 Lift=1.165029}
+
+id=608  property=dbp:successor  object=Riding abolished  NumberOfEntitiesFoundForObject=58
+conservative-JJ  multiply=0.161877  P(conservative|object)=0.672414  P(object|conservative)=0.240741    Lift=0.004151 {Confidence word=0.059487 object=0.166154 =0.04 Lift=4.046935}
+legislative-JJ  multiply=0.124988  P(legislative|object)=0.896552  P(object|legislative)=0.13941    Lift=0.002404 {Confidence word=0.059487 object=0.382564 =0.053333 Lift=2.343533}
+assembly-NN  multiply=0.102463  P(assembly|object)=0.896552  P(object|assembly)=0.114286    Lift=0.00197 {Confidence word=0.059487 object=0.466667 =0.053333 Lift=1.921182}
+member-NN  multiply=0.075929  P(member|object)=0.896552  P(object|member)=0.084691    Lift=0.00146 {Confidence word=0.059487 object=0.629744 =0.053333 Lift=1.423677}
+cabinet-NN  multiply=0.070703  P(cabinet|object)=0.396552  P(object|cabinet)=0.178295    Lift=0.003074 {Confidence word=0.059487 object=0.132308 =0.02359 Lift=2.997193}
+former-JJ  multiply=0.04133  P(former|object)=0.448276  P(object|former)=0.092199    Lift=0.00159 {Confidence word=0.059487 object=0.289231 =0.026667 Lift=1.54989}
+minister-NN  multiply=0.037589  P(minister|object)=0.37931  P(object|minister)=0.099099    Lift=0.001709 {Confidence word=0.059487 object=0.227692 =0.022564 Lift=1.66589}
+government-NN  multiply=0.029221  P(government|object)=0.327586  P(object|government)=0.089202    Lift=0.001538 {Confidence word=0.059487 object=0.218462 =0.019487 Lift=1.499514}
+liberal-JJ  multiply=0.017876  P(liberal|object)=0.224138  P(object|liberal)=0.079755    Lift=0.001375 {Confidence word=0.059487 object=0.167179 =0.013333 Lift=1.340702}
+councillor-NN  multiply=0.012696  P(councillor|object)=0.155172  P(object|councillor)=0.081818    Lift=0.001411 {Confidence word=0.059487 object=0.112821 =0.009231 Lift=1.375392}
+leadership-NN  multiply=0.010513  P(leadership|object)=0.086207  P(object|leadership)=0.121951    Lift=0.002103 {Confidence word=0.059487 object=0.042051 =0.005128 Lift=2.050042}
+
+id=609  property=dbp:successor  object=position abolished  NumberOfEntitiesFoundForObject=10
+city-NN  multiply=0.03913  P(city|object)=0.9  P(object|city)=0.043478    Lift=0.004348 {Confidence word=0.010256 object=0.212308 =0.009231 Lift=4.23913}
+council-NN  multiply=0.019368  P(council|object)=0.7  P(object|council)=0.027668    Lift=0.002767 {Confidence word=0.010256 object=0.259487 =0.007179 Lift=2.697628}
+municipal-JJ  multiply=0.016842  P(municipal|object)=0.4  P(object|municipal)=0.042105    Lift=0.004211 {Confidence word=0.010256 object=0.097436 =0.004103 Lift=4.105263}
+independent-JJ  multiply=0.010256  P(independent|object)=0.2  P(object|independent)=0.051282    Lift=0.005128 {Confidence word=0.010256 object=0.04 =0.002051 Lift=5.0}
+
+id=610  property=dbp:successor  object=District abolished  NumberOfEntitiesFoundForObject=28
+caucus-NN  multiply=0.130651  P(caucus|object)=0.607143  P(object|caucus)=0.21519    Lift=0.007685 {Confidence word=0.028718 object=0.081026 =0.017436 Lift=7.493219}
+legislative-JJ  multiply=0.059843  P(legislative|object)=0.892857  P(object|legislative)=0.067024    Lift=0.002394 {Confidence word=0.028718 object=0.382564 =0.025641 Lift=2.333876}
+provincial-JJ  multiply=0.049689  P(provincial|object)=0.571429  P(object|provincial)=0.086957    Lift=0.003106 {Confidence word=0.028718 object=0.188718 =0.01641 Lift=3.02795}
+assembly-NN  multiply=0.049058  P(assembly|object)=0.892857  P(object|assembly)=0.054945    Lift=0.001962 {Confidence word=0.028718 object=0.466667 =0.025641 Lift=1.913265}
+government-NN  multiply=0.042924  P(government|object)=0.571429  P(object|government)=0.075117    Lift=0.002683 {Confidence word=0.028718 object=0.218462 =0.01641 Lift=2.615694}
+member-NN  multiply=0.033504  P(member|object)=0.857143  P(object|member)=0.039088    Lift=0.001396 {Confidence word=0.028718 object=0.629744 =0.024615 Lift=1.361098}
+level-NN  multiply=0.0299  P(level|object)=0.214286  P(object|level)=0.139535    Lift=0.004983 {Confidence word=0.028718 object=0.044103 =0.006154 Lift=4.858804}
+cabinet-NN  multiply=0.013566  P(cabinet|object)=0.25  P(object|cabinet)=0.054264    Lift=0.001938 {Confidence word=0.028718 object=0.132308 =0.007179 Lift=1.889535}
+farmer-NN  multiply=0.012857  P(farmer|object)=0.107143  P(object|farmer)=0.12    Lift=0.004286 {Confidence word=0.028718 object=0.025641 =0.003077 Lift=4.178571}
+
+id=611  property=dbp:successor  object=District Abolished  NumberOfEntitiesFoundForObject=56
+provincial-JJ  multiply=0.187791  P(provincial|object)=0.767857  P(object|provincial)=0.244565    Lift=0.004173 {Confidence word=0.060513 object=0.188718 =0.046154 Lift=4.041544}
+assembly-NN  multiply=0.120801  P(assembly|object)=0.964286  P(object|assembly)=0.125275    Lift=0.002119 {Confidence word=0.060513 object=0.466667 =0.058462 Lift=2.070218}
+level-NN  multiply=0.120017  P(level|object)=0.303571  P(object|level)=0.395349    Lift=0.00706 {Confidence word=0.060513 object=0.044103 =0.017436 Lift=6.533307}
+caucus-NN  multiply=0.119575  P(caucus|object)=0.410714  P(object|caucus)=0.291139    Lift=0.005199 {Confidence word=0.060513 object=0.081026 =0.02359 Lift=4.811199}
+member-NN  multiply=0.078612  P(member|object)=0.910714  P(object|member)=0.086319    Lift=0.001483 {Confidence word=0.060513 object=0.629744 =0.054359 Lift=1.426462}
+legislative-JJ  multiply=0.067311  P(legislative|object)=0.660714  P(object|legislative)=0.101877    Lift=0.001771 {Confidence word=0.060513 object=0.382564 =0.038974 Lift=1.683555}
+government-NN  multiply=0.038732  P(government|object)=0.375  P(object|government)=0.103286    Lift=0.001761 {Confidence word=0.060513 object=0.218462 =0.022564 Lift=1.706851}
+conservative-JJ  multiply=0.031746  P(conservative|object)=0.285714  P(object|conservative)=0.111111    Lift=0.001764 {Confidence word=0.060513 object=0.166154 =0.018462 Lift=1.836158}
+district-NN  multiply=0.027956  P(district|object)=0.339286  P(object|district)=0.082397    Lift=0.001271 {Confidence word=0.060513 object=0.273846 =0.022564 Lift=1.361645}
+canadian-JJ  multiply=0.027616  P(canadian|object)=0.339286  P(object|canadian)=0.081395    Lift=0.001315 {Confidence word=0.060513 object=0.264615 =0.021538 Lift=1.345093}
+electoral-JJ  multiply=0.024965  P(electoral|object)=0.214286  P(object|electoral)=0.116505    Lift=0.00208 {Confidence word=0.060513 object=0.105641 =0.012308 Lift=1.925292}
+new-JJ  multiply=0.023898  P(new|object)=0.321429  P(object|new)=0.074349    Lift=0.001195 {Confidence word=0.060513 object=0.275897 =0.020513 Lift=1.228656}
+party-NN  multiply=0.019783  P(party|object)=0.339286  P(object|party)=0.058309    Lift=9.89E-4 {Confidence word=0.060513 object=0.351795 =0.020513 Lift=0.963582}
+time-NN  multiply=0.018409  P(time|object)=0.178571  P(object|time)=0.103093    Lift=0.001841 {Confidence word=0.060513 object=0.099487 =0.010256 Lift=1.703652}
+part-NN  multiply=0.016673  P(part|object)=0.339286  P(object|part)=0.04914    Lift=8.34E-4 {Confidence word=0.060513 object=0.417436 =0.020513 Lift=0.81206}
+by-election-NN  multiply=0.012458  P(by-election|object)=0.089286  P(object|by-election)=0.139535    Lift=0.002076 {Confidence word=0.060513 object=0.044103 =0.006154 Lift=2.305873}
+election-NN  multiply=0.011461  P(election|object)=0.25  P(object|election)=0.045845    Lift=7.16E-4 {Confidence word=0.060513 object=0.357949 =0.01641 Lift=0.757613}
+liberal-JJ  multiply=0.010955  P(liberal|object)=0.178571  P(object|liberal)=0.06135    Lift=0.001096 {Confidence word=0.060513 object=0.167179 =0.010256 Lift=1.01383}
 

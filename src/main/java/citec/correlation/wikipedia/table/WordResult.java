@@ -20,46 +20,60 @@ import org.javatuples.Pair;
  *
  * @author elahi
  */
-public class WordResult  implements Comparator<WordResult>{
+public class WordResult implements Comparator<WordResult> {
 
     @JsonIgnore
     public static Integer PROBABILITY_WORD_GIVEN_OBJECT = 1;
     @JsonIgnore
     public static Integer PROBABILITY_OBJECT_GIVEN_WORD = 2;
     @JsonIgnore
-    public  Double multiple= null;
+    public Double multiple = null;
     @JsonProperty("Word")
-    public String word= null;
+    public String word = null;
     @JsonProperty("multiply")
-    public  Double multipleValue= null;
+    public Double multipleValue = null;
     @JsonProperty("probabilities")
     private LinkedHashMap<String, Double> probabilities = new LinkedHashMap<String, Double>();
+
+    @JsonProperty("confidenceWord")
+    public Double confidenceWord = null;
+    @JsonProperty("confidenceObject")
+    public Double confidenceObject = null;
+    @JsonProperty("confidenceObjectAndKB")
+    public Double confidenceObjectAndKB = null;
+    @JsonProperty("Otherlift")
+    public Double otherLift = null;
     @JsonProperty("Lift")
-    public  Double lift= null;
+    public Double lift = null;
     @JsonIgnore
     public static String RESULT_DIR = "result";
-    
-     public WordResult()  {
-         
-     }
 
-    public WordResult(Triple object, Triple  word,String wordString,String partOfSfSpeech) throws IOException {
-        this.word=wordString+"-"+partOfSfSpeech;
-        this.probabilities.put(object.getProbability_Str(), this.format(object.getProbability_value()));
+    public WordResult() {
+
+    }
+
+    public WordResult(Triple word, Triple object, String wordString, String partOfSfSpeech) throws IOException {
+        this.word = wordString + "-" + partOfSfSpeech;
         this.probabilities.put(word.getProbability_Str(), this.format(word.getProbability_value()));
-        this.multiple=this.format(object.getProbability_value()*word.getProbability_value());
-        this.lift= object.getKB_WORD_FOUND()/(object.getKB_OR_WORD()*word.getKB_OR_WORD());
-        this.multipleValue=Double.parseDouble(String.format("%.12f", multiple)); 
+        this.probabilities.put(object.getProbability_Str(), this.format(object.getProbability_value()));
+        this.multiple = this.format(object.getProbability_value() * word.getProbability_value());
+        this.confidenceWord = this.format(object.getSupportWord());
+        this.confidenceObject = this.format(object.getSupportKB());
+        this.confidenceObjectAndKB = this.format(object.getKBAndWORD());
+        this.otherLift = this.format(object.getLift());
+        Double lift=word.getKBAndWORD()/(word.getKB_FOUND() * object.getWORD_FOUND());
+        lift=this.format(lift);
+        this.lift= Double.parseDouble(String.format("%.12f", lift));
+        this.multipleValue = Double.parseDouble(String.format("%.12f", multiple));
     }
 
     public Map<String, Double> getProbabilities() {
         return probabilities;
     }
 
-  
     @Override
     public int compare(WordResult result1, WordResult result2) {
-       return  Double.compare(result1.getMultiple(), result2.getMultiple());
+        return Double.compare(result1.getMultiple(), result2.getMultiple());
     }
 
     @Override
@@ -68,15 +82,35 @@ public class WordResult  implements Comparator<WordResult>{
     }
 
     private Double format(double value) {
-        return Double.parseDouble(new DecimalFormat("##.##########").format(value));
+        return Double.parseDouble(new DecimalFormat("##.######").format(value));
     }
 
-    public  Double getMultiple() {
+    public Double getMultiple() {
         return multiple;
     }
 
     public String getWord() {
         return word;
+    }
+
+    public Double getOtherLift() {
+        return otherLift;
+    }
+
+    public Double getMultipleValue() {
+        return multipleValue;
+    }
+
+    public Double getConfidenceWord() {
+        return confidenceWord;
+    }
+
+    public Double getConfidenceObject() {
+        return confidenceObject;
+    }
+
+    public Double getConfidenceObjectAndKB() {
+        return confidenceObjectAndKB;
     }
 
     public Double getLift() {

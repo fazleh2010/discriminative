@@ -166,7 +166,9 @@ public class Calculation implements TextAnalyzer {
     
 
     private Triple countConditionalProbabilities(String tableName, List<DBpediaEntity> dbpediaEntities, String propertyName, String objectOfProperty, String word, Integer flag) throws IOException {
-        Double KB_WORD_FOUND = 0.0, KB_FOUND = 0.0, WORD_FOUND = 0.0;
+        Double OBJECT_AND_WORD_FOUND = 0.0, OBJECT_FOUND = 0.0, WORD_FOUND = 0.0;
+        Integer transactionNumber=dbpediaEntities.size();
+        
         Pair<String, Double> pair = null;
         Triple triple=null;   
 
@@ -178,7 +180,7 @@ public class Calculation implements TextAnalyzer {
 
                 List<String> objects = dbpediaEntity.getProperties().get(propertyName);
                 if (objects.contains(objectOfProperty)) {
-                    KB_FOUND++;
+                    OBJECT_FOUND++;
                     objectFlag = true;
                 }
             }
@@ -189,7 +191,7 @@ public class Calculation implements TextAnalyzer {
             }
 
             if (objectFlag && wordFlag) {
-                KB_WORD_FOUND++;
+                OBJECT_AND_WORD_FOUND++;
             }
 
         }
@@ -202,15 +204,20 @@ public class Calculation implements TextAnalyzer {
 
         //if (WORD_FOUND > 10) {
         if (flag == WordResult.PROBABILITY_OBJECT_GIVEN_WORD) {
-            Double probability_object_word = (KB_WORD_FOUND) / (WORD_FOUND);
-            triple=new Triple(probability_object_word_str,probability_object_word,KB_WORD_FOUND,WORD_FOUND) ;
+            Double probability_object_word = (OBJECT_AND_WORD_FOUND) / (WORD_FOUND);
+            Double confidenceWord=(WORD_FOUND/transactionNumber);
+            Double confidenceKB=(OBJECT_FOUND/transactionNumber);
+            Double confidenceKB_WORD=(OBJECT_AND_WORD_FOUND/transactionNumber);
+            Double lift=(confidenceKB_WORD/(confidenceWord*confidenceKB));
+            
+            triple=new Triple(probability_object_word_str,probability_object_word,confidenceWord,confidenceKB,confidenceKB_WORD,lift,OBJECT_AND_WORD_FOUND,WORD_FOUND,null) ;
             //pair = new Pair<Triple, Double>(probability_object_word_str, probability_object_word);
             
         }
         else if (flag == WordResult.PROBABILITY_WORD_GIVEN_OBJECT) {
-            Double probability_word_object = (KB_WORD_FOUND) / (KB_FOUND);
+            Double probability_word_object = (OBJECT_AND_WORD_FOUND) / (OBJECT_FOUND);
             //pair = new Pair<Triple, Double>(probability_word_object_str, probability_word_object);
-            triple=new Triple(probability_word_object_str,probability_word_object,KB_WORD_FOUND,KB_FOUND) ;
+            triple=new Triple(probability_word_object_str,probability_word_object,WORD_FOUND,null,OBJECT_AND_WORD_FOUND,null,OBJECT_AND_WORD_FOUND,null,OBJECT_FOUND) ;
         } 
         
         return triple;

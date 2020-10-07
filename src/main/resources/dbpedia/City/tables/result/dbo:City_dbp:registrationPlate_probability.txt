@@ -1,8 +1,0 @@
-id=137  property=dbp:registrationPlate  object=GJ  NumberOfEntitiesFoundForObject=10
-taluka-NN  multiply=0.0473684211  P(taluka|object)=0.3  P(object|taluka)=0.1578947368    
-state-NN  multiply=0.0362962963  P(state|object)=0.7  P(object|state)=0.0518518519    
-town-NN  multiply=0.0219298246  P(town|object)=0.5  P(object|town)=0.0438596491    
-village-NN  multiply=0.0213333333  P(village|object)=0.4  P(object|village)=0.0533333333    
-indian-JJ  multiply=0.0186046512  P(indian|object)=0.4  P(object|indian)=0.0465116279    
-population-NN  multiply=0.0117647059  P(population|object)=0.2  P(object|population)=0.0588235294    
-

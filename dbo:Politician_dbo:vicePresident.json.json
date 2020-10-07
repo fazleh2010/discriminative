@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "1_entity2919",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Alexander_(press_secretary)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Joe_Biden" ]
+  },
+  "words" : [ "country", "Previously", "United", "office", "campaigns", "Biden", "Foundation", "press", "Joe", "began", "Communications", "Director", "Carolina", "Relations", ",", "Nations", "'s", ".", "Senate", "Elizabeth", "served", "creating", "campaign", "Gephardt", "Press", "primary", "Alexander", "Secretary", "Terry", "media", "Committee", "around", "highlight", "general", "2006", "world", "secretary", "2004", "McAuliffe", "causes", "working", "Foreign", "election", "South", "Dick", "Chairman", "Evans", "Rep.", "DNC", "traveled", "first" ],
+  "adjectives" : [ "general", "primary" ],
+  "nouns" : [ "country", "world", "election", "secretary", "campaign", "office", "press" ],
+  "text" : "Elizabeth Evans Alexander began working for Joe Biden in 2006, first as Press Secretary and then as Communications Director in his Senate office and for the Senate Foreign Relations Committee. Previously, Alexander served as Press Secretary for the United Nations Foundation, creating media campaigns to highlight UN causes around the world. During the 2004 general election campaign, she traveled the country as DNC Chairman Terry McAuliffe's press secretary. During the 2004 primary campaign, she served as Rep. Dick Gephardt's South Carolina press secretary. Prior, Alexander was Rep. Adam Schiff's (D-CA) Communications Director and Deputy Press Secretary for U.S. Senator Chuck Schumer (D-NY). In May 2011, Vice President Biden announced that Elizabeth Alexander would soon leave his office to practice law. Alexander is from Cleburne, Texas, and graduated with a bachelor's degree in Political Science from Texas A&M University."
+}, {
+  "entityIndex" : "2_entity1459",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Burson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Al_Gore" ]
+  },
+  "words" : [ "became", "decade", "Chief", "almost", "year", "Tennessee", "Staff", "United", "Al", "Josie", "serving", "States", "President", "1997", "son", "Wainman", "Burson", "legal", "Gore", "Kumiki", "Vice", "February", "1999", "resigned", "Charles", "counsel", "replacing", "Gibson", "'s", ",", ".", "August", "Ron", "Klain", "Leo", "General", "position", "assumed", "Attorney" ],
+  "adjectives" : [ "legal" ],
+  "nouns" : [ "counsel", "decade", "son", "year", "position" ],
+  "text" : "Charles Wainman Burson was a legal counsel and Chief of Staff to the Vice President of the United States under Al Gore. He assumed the position of legal counsel from Kumiki Gibson in February 1997 after serving almost a decade as Tennessee Attorney General. In 1999 Charles Burson became Gore's Chief of Staff, replacing Ron Klain who resigned in August of that year. Burson is the son of Josie Burson and Leo Burson. He grew up in Shelby County, Tennessee, where he graduated from Central High School in Memphis in 1962. Burson received his Bachelor of Arts in political science from the University of Michigan, his Master of Arts from the University of Cambridge, and his J.D. from Harvard Law School. Burson was a friend of Gore for over three decades at the time of his appointment as Chief of Staff to the Vice President of the United States. Charles Burson first became friends with the future Vice President in 1968 during the time Gore was studying Tennessee history at Memphis State University. In 1984 he was the chairman of Gore's senatorial campaign. This continued a family tradition of involvement with the Gores. Burson's parents were active in Tennessee Democratic politics, and his mother had held a position in Albert Gore Sr.'s senatorial campaign in 1958. Before joining the White House, Charles Burson held a variety of public and private roles. From 1970 until 1988, he worked in private practice as a lawyer. He briefly flirted with active politics in the 1978 when he lost a race to Republican Ed Williams for the East Memphis seat in the Tennessee House of Representatives. In 1988 he was appointed the Tennessee Attorney General. In this capacity, Burson served on a number of public legal bodies. He was a member of the Tennessee Board of Law Examiners, of the Tennessee Code Commission and of the Commission on the Future of the Judicial System. Burson also represented the state several times before the Supreme Court of the United States. One notable case he argued was Burson v. Freeman, which established a state's ability to regulate election advertising on voting day. After his time in the White House, Burson served as Executive Vice President and General Counsel to the global agribusiness corporation, Monsanto. Burson is married to Bunny Burson and has two daughters, Clare and Kate. He presently resides in St. Louis, Missouri, teaches at the Washington University School of Law and is of counsel to the St. Louis law firm Bryan Cave."
+}, {
+  "entityIndex" : "3_entity11235",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Brindle_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/John_Archer_(politician)", "http://dbpedia.org/resource/Jim_Thorn" ]
+  },
+  "words" : [ "``", "New", "-LRB-", "stood", "March", "Labour", "conscription", "Representatives", "Council", "jailed", "times", "Party", "speaking", "1950", "member", "1936", "five", "early", "1878", "November", "Wellington", "Thomas", "''", "--", "activist", "election", "19", "WWI", "House", "City", ".", "Zealand", "Tom", "Brindle", "-RRB-", "Legislative", "British-born" ],
+  "adjectives" : [ "Legislative", "British-born", "early" ],
+  "nouns" : [ "activist", "election", "member", "conscription" ],
+  "text" : "Thomas \"Tom\" Brindle (1878 – 19 November 1950) was a British-born early activist for the New Zealand Labour Party who was jailed during WWI for speaking out against conscription. He was a member of Wellington City Council and stood for election to the House of Representatives five times. He was a member of the Legislative Council from 1936 until March 1950."
+}, {
+  "entityIndex" : "4_entity2689",
+  "entityUrl" : "http://dbpedia.org/resource/Deeq_Sulaiman_Yusuf",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Abdihakim_Abdullahi_Haji_Omar" ]
+  },
+  "words" : [ "Dr.", "-LRB-", "Sulaiman", "Somalia", "northeastern", "autonomous", "Presidential", "Arabic", "Yusuf", "يوسف", "Palace", "politician", "الديك", "Director", ",", "Deeq", "Yuusuf", ".", "سليمان", "Puntland", "-RRB-", ":", "Somali", "region", "Sulaymaan" ],
+  "adjectives" : [ "northeastern", "autonomous", "Somali" ],
+  "nouns" : [ "Palace", "politician", "يوسف", "Director", "region" ],
+  "text" : "Dr. Deeq Sulaiman Yusuf (Somali: Deeq Sulaymaan Yuusuf, Arabic: الديك سليمان يوسف‎‎) is a Somali politician. He is the Director of the Presidential Palace of the autonomous Puntland region in northeastern Somalia."
+}, {
+  "entityIndex" : "5_entity10448",
+  "entityUrl" : "http://dbpedia.org/resource/Sudafi_Henry",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Joe_Biden" ]
+  },
+  "words" : [ "Policy", "passage", "United", "Steny", "focus", "leaders", "experience", "years", "States", "President", "Biden", "group", "10", "Joe", "closely", "including", "crisis", "work", "Director", "House", "particular", ",", "former", ".", "Senior", "crafting", "served", "-RRB-", "S.", "Members", "Congress", "Sudafi", "-LRB-", "Hill", "Leader", "critical", "financial", "pending", "telecommunications", "current", "previously", "Cleaver", "D-MO", "leadership", "working", "Capitol", "Counsel", "liaison", "Vice", "Henry", "Majority", "D-MD", "legislation", "policy", "Emanuel", "committee", "Affairs", "winning", "business", "Advisor", "staff", "also", "Reps.", "D-NY", "Owens", "trade", "Major", "matters", "constituency", "Hoyer", "Rep.", "Legislative", "responses", "experts", "economic" ],
+  "adjectives" : [ "current", "critical", "financial", "Legislative", "particular", "former", "economic" ],
+  "nouns" : [ "committee", "passage", "crisis", "business", "work", "Director", "focus", "staff", "experience", "trade", "constituency", "leadership", "liaison", "legislation", "policy", "group" ],
+  "text" : "Sudafi S. Henry is the former Director of Legislative Affairs for Joe Biden, the Vice President of the United States. Henry was previously Counsel and Senior Policy Advisor for House Majority Leader Steny Hoyer (D-MD), working closely with Congress, leadership staff and committee staff on crafting and winning passage of critical legislation, with a particular focus on trade, telecommunications, economic matters and responses to the current financial crisis. Henry has also served as a liaison for Rep. Hoyer to policy experts, business leaders, and constituency group leaders on pending legislation. Henry has more than 10 years of experience on Capitol Hill, including his work for Reps. Major Owens (D-NY) and Emanuel Cleaver (D-MO) as the Legislative Director for both Members. A native of Los Angeles, California, Henry received a B.A. from the University of Maryland at College Park and a J.D. from George Washington University Law School, and is a member of the Maryland bar."
+}, {
+  "entityIndex" : "6_entity10634",
+  "entityUrl" : "http://dbpedia.org/resource/Shire_Haji_Farah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Abdihakim_Abdullahi_Haji_Omar" ]
+  },
+  "words" : [ "-LRB-", "Shire", "شيري", "فرح", "Relations", ",", "entrepreneur", ".", "Xaaji", "Arabic", "Faarax", "Farah", "Puntland", "-RRB-", "Haji", ":", "Planning", "Somali", "حاجي", "Minister", "International" ],
+  "adjectives" : [ "Somali" ],
+  "nouns" : [ "فرح", "entrepreneur" ],
+  "text" : "Shire Haji Farah (Somali: Shire Xaaji Faarax, Arabic: شيري حاجي فرح‎‎) is a Somali entrepreneur. He is the Minister of Planning and International Relations of Puntland."
+}, {
+  "entityIndex" : "7_entity829",
+  "entityUrl" : "http://dbpedia.org/resource/Ali_Haji_Warsame",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Abdihakim_Abdullahi_Haji_Omar" ]
+  },
+  "words" : [ "-LRB-", "accountant", "Chief", "حاج", "Port", "Somalia", "Golis", "Arabic", "later", "Education", "Minister", "ورسمه", "Executive", "Cali", "Bosaso", "علي", "politician", "Director", "Management", ",", "Warsame", "entrepreneur", ".", "appointed", "Telecom", "Xaaji", "professor", "2014", "served", "Puntland", "-RRB-", "Haji", ":", "Somali", "first", "Ali", "Officer" ],
+  "adjectives" : [ "Cali", "Somali", "first" ],
+  "nouns" : [ "ورسمه", "professor", "accountant", "politician", "Director", "Management", "entrepreneur" ],
+  "text" : "Ali Haji Warsame (Somali: Cali Xaaji Warsame, Arabic: علي حاج ورسمه‎‎) is a Somali entrepreneur, accountant, professor and politician. He served as the first Director of Management at the Port of Bosaso, and later as the Chief Executive Officer of Golis Telecom Somalia. In 2014, he was appointed the Minister of Education of Puntland."
+}, {
+  "entityIndex" : "8_entity857",
+  "entityUrl" : "http://dbpedia.org/resource/Anisa_Hajimumin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:vicePresident" : [ "http://dbpedia.org/resource/Abdihakim_Abdullahi_Haji_Omar" ]
+  },
+  "words" : [ "المؤمن", "-LRB-", "American", "Anisa", "أنيسة", "Cabdulqaadir", "Arabic", "Hajimumin", "حاجي", "1978", "Minister", "November", "activist", "Women", "Affairs", "social", "&", "born", "politician", ",", "Xaajimuumin", ".", "Puntland", "-RRB-", "Family", ":", "writer", "Somali", "Abdulkadir", "20" ],
+  "adjectives" : [ "American", "social", "Somali" ],
+  "nouns" : [ "المؤمن", "activist", "politician", "writer" ],
+  "text" : "Anisa Abdulkadir Hajimumin (Somali: Anisa Cabdulqaadir Xaajimuumin, Arabic: أنيسة حاجي المؤمن‎‎) (born November 20, 1978) is a Somali American politician, social activist and writer. She is the Minister of Women & Family Affairs of Puntland."
+} ]

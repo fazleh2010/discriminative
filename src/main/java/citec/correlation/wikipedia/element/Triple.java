@@ -13,14 +13,25 @@ public class Triple {
 
     private final String probability_Str;
     private final Double probability_value;
-    private final Double KB_WORD_FOUND;
-    private final Double KB_OR_WORD;
+    private final Double SupportWord;
+    private final Double SupportKB;
+    private final Double Support_WORD_KB;
+    private final Double otherLift;
 
-    public Triple(String probability_Str, Double probability_value,Double KB_WORD_FOUND, Double KB_OR_WORD ) {
-     this.probability_Str=probability_Str;
-     this.probability_value=probability_value;
-     this.KB_WORD_FOUND=KB_WORD_FOUND;
-     this.KB_OR_WORD=KB_OR_WORD;
+    private final Double KB_WORD_FOUND;
+    private final Double WORD_FOUND;
+    private final Double KB_FOUND;
+
+    public Triple(String probability_Str, Double probability_value, Double SupportWord, Double SupportKB, Double Support_WORD_KB, Double lift, Double KB_WORD_FOUND, Double WORD_FOUND, Double KB_FOUND) {
+        this.probability_Str = probability_Str;
+        this.probability_value = probability_value;
+        this.SupportKB = SupportWord;
+        this.SupportWord = SupportKB;
+        this.Support_WORD_KB = Support_WORD_KB;
+        this.otherLift = lift;
+        this.KB_WORD_FOUND = KB_WORD_FOUND;
+        this.WORD_FOUND = WORD_FOUND;
+        this.KB_FOUND = KB_FOUND;
     }
 
     public String getProbability_Str() {
@@ -31,13 +42,40 @@ public class Triple {
         return probability_value;
     }
 
+    public Double getKBAndWORD() {
+        return Support_WORD_KB;
+    }
+
+    public Double getSupportWord() {
+        return SupportWord;
+    }
+
+    public Double getSupportKB() {
+        return SupportKB;
+    }
+
+    public Double getSupport_WORD_KB() {
+        return Support_WORD_KB;
+    }
+
+    public Double getLift() {
+        return otherLift;
+    }
+
+    public Double getOtherLift() {
+        return otherLift;
+    }
+
     public Double getKB_WORD_FOUND() {
         return KB_WORD_FOUND;
     }
 
-    public Double getKB_OR_WORD() {
-        return KB_OR_WORD;
+    public Double getWORD_FOUND() {
+        return WORD_FOUND;
     }
-  
-   
+
+    public Double getKB_FOUND() {
+        return KB_FOUND;
+    }
+
 }

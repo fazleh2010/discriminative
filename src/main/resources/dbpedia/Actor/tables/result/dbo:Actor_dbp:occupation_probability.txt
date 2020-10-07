@@ -1,19 +1,19 @@
 id=46  property=dbp:occupation  object=Actor  NumberOfEntitiesFoundForObject=13
-actor-NN  multiply=0.3692307692  P(actor|object)=0.9230769231  P(object|actor)=0.4    
-singaporean-JJ  multiply=0.1396011396  P(singaporean|object)=0.5384615385  P(object|singaporean)=0.2592592593    
-artiste-NN  multiply=0.1373626374  P(artiste|object)=0.3846153846  P(object|artiste)=0.3571428571    
-television-NN  multiply=0.0836120401  P(television|object)=0.3846153846  P(object|television)=0.2173913043    
-film-NN  multiply=0.0559440559  P(film|object)=0.3076923077  P(object|film)=0.1818181818    
-family-NN  multiply=0.0494505495  P(family|object)=0.2307692308  P(object|family)=0.2142857143    
-name-NN  multiply=0.0461538462  P(name|object)=0.2307692308  P(object|name)=0.2    
+actor-NN  multiply=0.369231  P(actor|object)=0.923077  P(object|actor)=0.4    Lift=0.030769 {Confidence word=0.220339 object=0.508475 =0.20339 Lift=1.815385}
+singaporean-JJ  multiply=0.139601  P(singaporean|object)=0.538462  P(object|singaporean)=0.259259    Lift=0.019943 {Confidence word=0.220339 object=0.457627 =0.118644 Lift=1.176638}
+artiste-NN  multiply=0.137363  P(artiste|object)=0.384615  P(object|artiste)=0.357143    Lift=0.027473 {Confidence word=0.220339 object=0.237288 =0.084746 Lift=1.620879}
+television-NN  multiply=0.083612  P(television|object)=0.384615  P(object|television)=0.217391    Lift=0.016722 {Confidence word=0.220339 object=0.389831 =0.084746 Lift=0.986622}
+film-NN  multiply=0.055944  P(film|object)=0.307692  P(object|film)=0.181818    Lift=0.013986 {Confidence word=0.220339 object=0.372881 =0.067797 Lift=0.825175}
+family-NN  multiply=0.049451  P(family|object)=0.230769  P(object|family)=0.214286    Lift=0.016484 {Confidence word=0.220339 object=0.237288 =0.050847 Lift=0.972527}
+name-NN  multiply=0.046154  P(name|object)=0.230769  P(object|name)=0.2    Lift=0.015385 {Confidence word=0.220339 object=0.254237 =0.050847 Lift=0.907692}
 
 id=47  property=dbp:occupation  object=Actress  NumberOfEntitiesFoundForObject=13
-actress-NN  multiply=0.4642857143  P(actress|object)=1.0  P(object|actress)=0.4642857143    
-television-NN  multiply=0.1638795987  P(television|object)=0.5384615385  P(object|television)=0.3043478261    
-singaporean-JJ  multiply=0.1396011396  P(singaporean|object)=0.5384615385  P(object|singaporean)=0.2592592593    
-film-NN  multiply=0.0874125874  P(film|object)=0.3846153846  P(object|film)=0.2272727273    
-name-NN  multiply=0.0820512821  P(name|object)=0.3076923077  P(object|name)=0.2666666667    
-artiste-NN  multiply=0.0494505495  P(artiste|object)=0.2307692308  P(object|artiste)=0.2142857143    
-pinyin-NN  multiply=0.0236686391  P(pinyin|object)=0.1538461538  P(object|pinyin)=0.1538461538    
-family-NN  multiply=0.021978022  P(family|object)=0.1538461538  P(object|family)=0.1428571429    
+actress-NN  multiply=0.464286  P(actress|object)=1.0  P(object|actress)=0.464286    Lift=0.035714 {Confidence word=0.220339 object=0.474576 =0.220339 Lift=2.107143}
+television-NN  multiply=0.16388  P(television|object)=0.538462  P(object|television)=0.304348    Lift=0.023411 {Confidence word=0.220339 object=0.389831 =0.118644 Lift=1.381271}
+singaporean-JJ  multiply=0.139601  P(singaporean|object)=0.538462  P(object|singaporean)=0.259259    Lift=0.019943 {Confidence word=0.220339 object=0.457627 =0.118644 Lift=1.176638}
+film-NN  multiply=0.087413  P(film|object)=0.384615  P(object|film)=0.227273    Lift=0.017483 {Confidence word=0.220339 object=0.372881 =0.084746 Lift=1.031469}
+name-NN  multiply=0.082051  P(name|object)=0.307692  P(object|name)=0.266667    Lift=0.020513 {Confidence word=0.220339 object=0.254237 =0.067797 Lift=1.210256}
+artiste-NN  multiply=0.049451  P(artiste|object)=0.230769  P(object|artiste)=0.214286    Lift=0.016484 {Confidence word=0.220339 object=0.237288 =0.050847 Lift=0.972527}
+pinyin-NN  multiply=0.023669  P(pinyin|object)=0.153846  P(object|pinyin)=0.153846    Lift=0.011834 {Confidence word=0.220339 object=0.220339 =0.033898 Lift=0.698225}
+family-NN  multiply=0.021978  P(family|object)=0.153846  P(object|family)=0.142857    Lift=0.010989 {Confidence word=0.220339 object=0.237288 =0.033898 Lift=0.648352}
 

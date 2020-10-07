@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "1_entity6181",
+  "entityUrl" : "http://dbpedia.org/resource/John_S._Rice",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:country" : [ "the Netherlands" ]
+  },
+  "words" : [ "career", "-LRB-", "28", "roles", "John", "political", "1899", "Stanley", "variety", "course", "January", "businessman", "Rice", "--", "three-decade", "Democratic", "politician", ",", ".", "August", "Pennsylvania", "appointed", "elected", "2", "1985", "served", "-RRB-", "farmer", "commonwealth" ],
+  "adjectives" : [ "three-decade", "Democratic", "political" ],
+  "nouns" : [ "career", "variety", "politician", "farmer", "course", "commonwealth", "businessman" ],
+  "text" : "John Stanley Rice (January 28, 1899 – August 2, 1985) was a Democratic politician, farmer and businessman from the commonwealth of Pennsylvania. Rice served in a variety of appointed and elected political roles over the course of a three-decade political career."
+}, {
+  "entityIndex" : "2_entity1482",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_H._Price_II",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:country" : [ "the United Kingdom" ]
+  },
+  "words" : [ "II", "--", "Charles", "12", "-LRB-", "prominent", "Harry", "American", "2012", "United", "Ambassador", ",", "April", "former", ".", "States", "1", "1931", "Price", "-RRB-", "January", "businessman" ],
+  "adjectives" : [ "prominent", "American", "former" ],
+  "nouns" : [ "businessman" ],
+  "text" : "Charles Harry Price II (April 1, 1931 – January 12, 2012) was a prominent American businessman and former Ambassador of the United States."
+}, {
+  "entityIndex" : "3_entity949",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Pitt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:country" : [ "United Kingdom" ]
+  },
+  "words" : [ "British", "-LRB-", "17", "Liberal", "born", "politician", "banner", "William", ",", ".", "elected", "candidate", "1983", "SDP-Liberal", "1981", "-RRB-", "Alliance", "July", "1937", "Pitt", "Member", "Henry", "Parliament", "first" ],
+  "adjectives" : [ "British", "SDP-Liberal", "Liberal", "first" ],
+  "nouns" : [ "candidate", "politician", "banner" ],
+  "text" : "William Henry Pitt (born 17 July 1937) is a British politician. He was a Liberal Member of Parliament between 1981 and 1983, and was the first candidate elected to Parliament under the banner of the SDP-Liberal Alliance."
+}, {
+  "entityIndex" : "4_entity2089",
+  "entityUrl" : "http://dbpedia.org/resource/David_Congdon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:country" : [ "United Kingdom" ]
+  },
+  "words" : [ "outgoing", "-LRB-", "Weatherill", "Leader", "years", "Council", "1997", "general", "October", "retiring", "Party", "1992", "Commons", "Leonard", "succeeding", "North", "Member", "councillor", "British", "MP", "16", "Deputy", "born", "politician", "South", "also", "House", ",", "many", "former", ".", "elected", "Croydon", "selection", "Congdon", "Conservative", "served", "speaker", "David", "-RRB-", "London", "1949", "Bernard", "East", "Parliament", "first" ],
+  "adjectives" : [ "general", "outgoing", "British", "many", "former", "first" ],
+  "nouns" : [ "selection", "politician", "speaker", "councillor" ],
+  "text" : "David Leonard Congdon (born 16 October 1949) is a British former Conservative Party politician. He was the Member of Parliament (MP) for Croydon North East, South London from 1992 to 1997. Congdon had been also a councillor for many years and served as Deputy Leader of Croydon Council. He was first elected to the House of Commons at the 1992 general selection, succeeding the outgoing speaker Bernard Weatherill who was retiring from the Commons. The Croydon seats were reorganised ahead of the 1997 General Election, with the loss of one seat. Congdon competed against Sir Paul Beresford, then MP for Croydon Central, for the Conservative nomination for the new merged seat and won. He then lost in the ensuing election in 1997 to Labour's Geraint Davies. Sir Paul Beresford, meanwhile, successfully contested Mole Valley and continued as an MP. Congdon stood once again against Geraint Davies at the 2001 election and lost. He then worked for MENCAP, and did not stand again at the 2005 election, when the Conservative candidate Andrew Pelling recaptured the seat from Davies. Congdon is now retired and lives, with his wife, Theresa, in Old Coulsdon."
+}, {
+  "entityIndex" : "5_entity4183",
+  "entityUrl" : "http://dbpedia.org/resource/H._T._Muggeridge",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:country" : [ "United Kingdom" ]
+  },
+  "words" : [ "June", "Penge", "-LRB-", "25", "Malcolm", "26", "father", "March", "office", "boy", "son", "school", "abandoned", "Henry", "Thomas", "--", "British", "began", "author", "work", "Muggeridge", "politician", "born", "City", ",", ".", "undertaker", "journalist", "1942", "1864", "left", "-RRB-", "London", "family" ],
+  "adjectives" : [ "Penge", "British" ],
+  "nouns" : [ "journalist", "son", "school", "author", "work", "politician", "father", "office", "City", "family", "boy", "undertaker" ],
+  "text" : "Henry Thomas Muggeridge (26 June 1864 – 25 March 1942) was a British politician. He was the father of the author and journalist Malcolm Muggeridge. Muggeridge was born the son of a Penge undertaker on 26 June 1864. When the family was abandoned by his father, Muggeridge left school and began work as an office boy in the City of London. The little money he kept for himself was spent on books, and it was his avid lunchtime reading that led to a keen interest in politics. His second job was again as an office boy for a firm of shirtmakers, where he stayed until he retired. He eventually became Company Secretary, but had turned down a directorship, as he felt it would be at odds with his political principles. In 1893, Muggeridge married Annie Booler, the daughter of a Sheffield factory foreman, and they had five sons, Malcolm being the middle child. Malcolm would later describe his father as a small bearded man with a large frame, a twinkling eye, and a rather bulbous nose. One of Malcolm's quoted memories of his father is of his visits to the Surrey Street Market, where he would set up his platform and expound his views on the need for socialism: \"Now ladies and gentlemen. It's His Majesty's Government, His Majesty's Navy, His Majesty's Stationery Office, His Majesty's this and His Majesty's that. But it's the National Debt. Why isn't that His Majesty's? We'll gladly let His Majesty have that, won't we?\" Muggeridge's early interest in politics at first led to his joining the Penge Liberals, and with them he campaigned for local improvements. By his late twenties he was a socialist, and he joined first the Fabians, then the Independent Labour Party. An excellent public speaker, he founded and became secretary of the Croydon Socialist Society in 1895, and stood for the Croydon Borough Council in Norwood in 1896 and 1897. He was not to be successful until November 1911, although Croydon had already had several Labour councillors. Muggeridge was the first President of Ruskin House, the Labour and Trade Union centre in Croydon, having been instrumental in its relocation and refounding. Muggeridge remained a Croydon councillor until 1930, at which time he also became a Justice of the Peace. He was instrumental in getting Croydon's first council houses built and campaigned for Trade Union rates of pay for all municipal employees. Although he stood for Parliament in Croydon South four times, in 1918, 1922, 1923, and 1924, Muggeridge finally became a member of parliament for Romford in 1929. He lost his seat in 1931 and returned to Croydon Council in 1933, retiring in 1940, at the age of 75. He died in Hastings, East Sussex, in 1942 and was buried in Whatlington, near Battle, East Sussex."
+}, {
+  "entityIndex" : "6_entity10499",
+  "entityUrl" : "http://dbpedia.org/resource/S._Vedachalam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:country" : [ "India" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "7_entity7487",
+  "entityUrl" : "http://dbpedia.org/resource/M._J._Mahlangu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:country" : [ "the United States" ]
+  },
+  "words" : [ "Congress", "politics", "23", "2004-2014", "homeland", "Pan-African", "United", "Ambassador", "Council", "serving", "States", "Mninwa", "bantustan", "National", "member", "Since", "Mahlangu", "parliamentarian", "Lebowa", "February", "Chairperson", "Johannes", "old", "politician", "Africa", "South", "active", "CN", ",", ".", "former", "Dr", "African", "Provinces", "currently", "2015", "served", "Phatudi", "Parliament" ],
+  "adjectives" : [ "old", "South", "active", "former", "African" ],
+  "nouns" : [ "bantustan", "homeland", "politician", "member", "CN", "parliamentarian" ],
+  "text" : "Mninwa Johannes Mahlangu is a South African politician. He was active in the old bantustan politics of South Africa, serving as a parliamentarian in the former Lebowa homeland under Dr CN Phatudi. He is currently a member of the African National Congress, and served as the Chairperson of the National Council of Provinces from 2004-2014, and a member of the Pan-African Parliament. Since February 23, 2015 he is the South African Ambassador to the United States."
+}, {
+  "entityIndex" : "8_entity741",
+  "entityUrl" : "http://dbpedia.org/resource/Anna_Zakletska-Burak",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:country" : [ "Ukraine" ]
+  },
+  "words" : [ "``", "June", "-LRB-", "25", "singer", "choreographer", "ensemble", "Zakletska-Burak", "Zernyatko", "Ukrainian", "public", "children", "working", "model", "event", "scriptwriter", "Anna", "activist", "''", "Vroda", "presenter", "manager", "director", "born", "politician", "spent", "Анна", ",", "'s", ".", "1984", "stage", "-RRB-", ":", "time", "Заклецька-Бурак", "duo" ],
+  "adjectives" : [ "Ukrainian", "public" ],
+  "nouns" : [ "activist", "singer", "presenter", "manager", "choreographer", "director", "politician", "Анна", "ensemble", "stage", "model", "time", "Заклецька-Бурак", "event", "scriptwriter", "duo" ],
+  "text" : "Anna Zakletska-Burak (Ukrainian: Анна Заклецька-Бурак, born 25 June 1984) is a Ukrainian politician, public activist, and singer in the duo \"Vroda\". She spent time working as a scriptwriter, stage director, presenter, model, event manager, and choreographer in the children's ensemble, \"Zernyatko\"."
+} ]

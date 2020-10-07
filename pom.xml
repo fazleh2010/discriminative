@@ -6,7 +6,7 @@
 
     <groupId>my.org</groupId>
     <artifactId>ontology-lexicalization</artifactId>
-    <version>1.4</version>
+    <version>1.5</version>
 
     <name>ontology-lexicalization</name>
     <description>A ontology-lexicalization system</description>

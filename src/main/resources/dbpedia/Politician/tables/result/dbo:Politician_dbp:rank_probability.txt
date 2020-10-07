@@ -1,0 +1,11 @@
+id=547  property=dbp:rank  object=Captain  NumberOfEntitiesFoundForObject=27
+son-NN  multiply=0.238095  P(son|object)=0.555556  P(object|son)=0.428571    Lift=0.015873 {Confidence word=0.329268 object=0.426829 =0.182927 Lift=1.301587}
+assembly-NN  multiply=0.049383  P(assembly|object)=0.222222  P(object|assembly)=0.222222    Lift=0.00823 {Confidence word=0.329268 object=0.329268 =0.073171 Lift=0.674897}
+legislative-JJ  multiply=0.040258  P(legislative|object)=0.185185  P(object|legislative)=0.217391    Lift=0.008052 {Confidence word=0.329268 object=0.280488 =0.060976 Lift=0.660225}
+politician-NN  multiply=0.021948  P(politician|object)=0.148148  P(object|politician)=0.148148    Lift=0.005487 {Confidence word=0.329268 object=0.329268 =0.04878 Lift=0.449931}
+
+id=548  property=dbp:rank  object=Major  NumberOfEntitiesFoundForObject=10
+politician-NN  multiply=0.181481  P(politician|object)=0.7  P(object|politician)=0.259259    Lift=0.025926 {Confidence word=0.121951 object=0.329268 =0.085366 Lift=2.125926}
+legislative-JJ  multiply=0.156522  P(legislative|object)=0.6  P(object|legislative)=0.26087    Lift=0.026087 {Confidence word=0.121951 object=0.280488 =0.073171 Lift=2.13913}
+assembly-NN  multiply=0.033333  P(assembly|object)=0.3  P(object|assembly)=0.111111    Lift=0.011111 {Confidence word=0.121951 object=0.329268 =0.036585 Lift=0.911111}
+

@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity8031",
+  "entityUrl" : "http://dbpedia.org/resource/Mandour_Elmahdi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:notableworks" : [ "A Short History of the Sudan, Founder of the Department of Special Education, University of Khartoum" ]
+  },
+  "words" : [ "country", "became", "syllabus", "-LRB-", "El", "1919", "Sudan", "March", "used", "Ustaz", "independence", "History", "October", "Mahdi", "later", "known", "biggest", "Education", "Arabia", "written", "key", "1956", "Short", "pioneers", "Mandour", "development", "author", "one", "'", "Africa", "Director", "also", "received", "Britain", "history", ",", "'s", "-", ".", "1965", "Saudi", "books", "1981", "-RRB-", "first", "1989" ],
+  "adjectives" : [ "key", "Short", "first" ],
+  "nouns" : [ "country", "syllabus", "development", "Education", "author", "Director", "history", "independence", "History" ],
+  "text" : "Mandour El Mahdi (March 1919 - October 1981) also known as Ustaz Mandour El Mahdi, was one of the key pioneers in the development of Education in Sudan after the country received independence from Britain in 1956 and he later became Director of Education in Saudi Arabia. He is also the author of 'A Short History of the Sudan' (1965) which was one of the first history books to be written about Africa's biggest country and it was used for the history syllabus in Sudan up until 1989."
+} ]

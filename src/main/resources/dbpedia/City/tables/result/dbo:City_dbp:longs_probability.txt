@@ -1,30 +1,30 @@
 id=8  property=dbp:longs  object=0  NumberOfEntitiesFoundForObject=18
-district-NN  multiply=0.096792669  P(district|object)=0.7222222222  P(object|district)=0.1340206186    
-state-NN  multiply=0.0868055556  P(state|object)=0.5555555556  P(object|state)=0.15625    
-town-NN  multiply=0.0789473684  P(town|object)=0.5  P(object|town)=0.1578947368    
-village-NN  multiply=0.0633074935  P(village|object)=0.3888888889  P(object|village)=0.1627906977    
-city-NN  multiply=0.0444444444  P(city|object)=0.4444444444  P(object|city)=0.1    
-indian-JJ  multiply=0.0296296296  P(indian|object)=0.2222222222  P(object|indian)=0.1333333333    
-census-NN  multiply=0.0277777778  P(census|object)=0.2222222222  P(object|census)=0.125    
-population-NN  multiply=0.0252525253  P(population|object)=0.2777777778  P(object|population)=0.0909090909    
-capital-JJ  multiply=0.0138888889  P(capital|object)=0.1111111111  P(object|capital)=0.125    
-west-JJ  multiply=0.0135135135  P(west|object)=0.1666666667  P(object|west)=0.0810810811    
-north-JJ  multiply=0.012195122  P(north|object)=0.1666666667  P(object|north)=0.0731707317    
+district-NN  multiply=0.096793  P(district|object)=0.722222  P(object|district)=0.134021    Lift=0.007446 {Confidence word=0.101695 object=0.548023 =0.073446 Lift=1.317869}
+state-NN  multiply=0.086806  P(state|object)=0.555556  P(object|state)=0.15625    Lift=0.008681 {Confidence word=0.101695 object=0.361582 =0.056497 Lift=1.536458}
+town-NN  multiply=0.078947  P(town|object)=0.5  P(object|town)=0.157895    Lift=0.008772 {Confidence word=0.101695 object=0.322034 =0.050847 Lift=1.552632}
+village-NN  multiply=0.063307  P(village|object)=0.388889  P(object|village)=0.162791    Lift=0.009044 {Confidence word=0.101695 object=0.242938 =0.039548 Lift=1.600775}
+city-NN  multiply=0.044444  P(city|object)=0.444444  P(object|city)=0.1    Lift=0.005556 {Confidence word=0.101695 object=0.451977 =0.045198 Lift=0.983333}
+indian-JJ  multiply=0.02963  P(indian|object)=0.222222  P(object|indian)=0.133333    Lift=0.007407 {Confidence word=0.101695 object=0.169492 =0.022599 Lift=1.311111}
+census-NN  multiply=0.027778  P(census|object)=0.222222  P(object|census)=0.125    Lift=0.006944 {Confidence word=0.101695 object=0.180791 =0.022599 Lift=1.229167}
+population-NN  multiply=0.025253  P(population|object)=0.277778  P(object|population)=0.090909    Lift=0.005051 {Confidence word=0.101695 object=0.310734 =0.028249 Lift=0.893939}
+capital-JJ  multiply=0.013889  P(capital|object)=0.111111  P(object|capital)=0.125    Lift=0.006944 {Confidence word=0.101695 object=0.090395 =0.011299 Lift=1.229167}
+west-JJ  multiply=0.013514  P(west|object)=0.166667  P(object|west)=0.081081    Lift=0.004505 {Confidence word=0.101695 object=0.20904 =0.016949 Lift=0.797297}
+north-JJ  multiply=0.012195  P(north|object)=0.166667  P(object|north)=0.073171    Lift=0.004065 {Confidence word=0.101695 object=0.231638 =0.016949 Lift=0.719512}
 
 id=9  property=dbp:longs  object=30  NumberOfEntitiesFoundForObject=11
-district-NN  multiply=0.0759137769  P(district|object)=0.8181818182  P(object|district)=0.0927835052    
-west-JJ  multiply=0.0393120393  P(west|object)=0.3636363636  P(object|west)=0.1081081081    
-part-NN  multiply=0.0330578512  P(part|object)=0.3636363636  P(object|part)=0.0909090909    
-area-NN  multiply=0.0285204991  P(area|object)=0.3636363636  P(object|area)=0.0784313725    
-town-NN  multiply=0.0255183413  P(town|object)=0.3636363636  P(object|town)=0.0701754386    
-state-NN  multiply=0.0227272727  P(state|object)=0.3636363636  P(object|state)=0.0625    
-capital-JJ  multiply=0.0227272727  P(capital|object)=0.1818181818  P(object|capital)=0.125    
-north-JJ  multiply=0.0199556541  P(north|object)=0.2727272727  P(object|north)=0.0731707317    
-village-NN  multiply=0.0190274841  P(village|object)=0.2727272727  P(object|village)=0.0697674419    
-city-NN  multiply=0.0181818182  P(city|object)=0.3636363636  P(object|city)=0.05    
-rate-NN  multiply=0.0177865613  P(rate|object)=0.2727272727  P(object|rate)=0.0652173913    
-population-NN  multiply=0.0148760331  P(population|object)=0.2727272727  P(object|population)=0.0545454545    
-census-NN  multiply=0.0113636364  P(census|object)=0.1818181818  P(object|census)=0.0625    
-average-JJ  multiply=0.0113636364  P(average|object)=0.1818181818  P(object|average)=0.0625    
-family-NN  multiply=0.0106951872  P(family|object)=0.1818181818  P(object|family)=0.0588235294    
+district-NN  multiply=0.075914  P(district|object)=0.818182  P(object|district)=0.092784    Lift=0.008435 {Confidence word=0.062147 object=0.548023 =0.050847 Lift=1.492971}
+west-JJ  multiply=0.039312  P(west|object)=0.363636  P(object|west)=0.108108    Lift=0.009828 {Confidence word=0.062147 object=0.20904 =0.022599 Lift=1.739558}
+part-NN  multiply=0.033058  P(part|object)=0.363636  P(object|part)=0.090909    Lift=0.008264 {Confidence word=0.062147 object=0.248588 =0.022599 Lift=1.46281}
+area-NN  multiply=0.02852  P(area|object)=0.363636  P(object|area)=0.078431    Lift=0.00713 {Confidence word=0.062147 object=0.288136 =0.022599 Lift=1.262032}
+town-NN  multiply=0.025518  P(town|object)=0.363636  P(object|town)=0.070175    Lift=0.00638 {Confidence word=0.062147 object=0.322034 =0.022599 Lift=1.129187}
+state-NN  multiply=0.022727  P(state|object)=0.363636  P(object|state)=0.0625    Lift=0.005682 {Confidence word=0.062147 object=0.361582 =0.022599 Lift=1.005682}
+capital-JJ  multiply=0.022727  P(capital|object)=0.181818  P(object|capital)=0.125    Lift=0.011364 {Confidence word=0.062147 object=0.090395 =0.011299 Lift=2.011364}
+north-JJ  multiply=0.019956  P(north|object)=0.272727  P(object|north)=0.073171    Lift=0.006652 {Confidence word=0.062147 object=0.231638 =0.016949 Lift=1.177384}
+village-NN  multiply=0.019027  P(village|object)=0.272727  P(object|village)=0.069767    Lift=0.006342 {Confidence word=0.062147 object=0.242938 =0.016949 Lift=1.122622}
+city-NN  multiply=0.018182  P(city|object)=0.363636  P(object|city)=0.05    Lift=0.004545 {Confidence word=0.062147 object=0.451977 =0.022599 Lift=0.804545}
+rate-NN  multiply=0.017787  P(rate|object)=0.272727  P(object|rate)=0.065217    Lift=0.005929 {Confidence word=0.062147 object=0.259887 =0.016949 Lift=1.049407}
+population-NN  multiply=0.014876  P(population|object)=0.272727  P(object|population)=0.054545    Lift=0.004959 {Confidence word=0.062147 object=0.310734 =0.016949 Lift=0.877686}
+census-NN  multiply=0.011364  P(census|object)=0.181818  P(object|census)=0.0625    Lift=0.005682 {Confidence word=0.062147 object=0.180791 =0.011299 Lift=1.005682}
+average-JJ  multiply=0.011364  P(average|object)=0.181818  P(object|average)=0.0625    Lift=0.005682 {Confidence word=0.062147 object=0.180791 =0.011299 Lift=1.005682}
+family-NN  multiply=0.010695  P(family|object)=0.181818  P(object|family)=0.058824    Lift=0.005348 {Confidence word=0.062147 object=0.19209 =0.011299 Lift=0.946524}
 

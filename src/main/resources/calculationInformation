@@ -8,7 +8,7 @@ P(british | res:Labor_Party_UK)=
 P(british & res:Labor_Party_UK) / P(res:Labor_Party_UK)
 
 P(british and res:Labor_Party_UK)=the number of entities where object of the property is res:Labor_Party_UK and abstract contains the word british.
-P(res:Labor_Party_(UK)): entities with the object of the property is res:Labor_Party_UK
+P(res:Labor_Party_(UK)): all entities with the object of the property is res:Labor_Party_UK
 
 Second direction: predict the object of the property given certain word in abstract 
 P(objectOfPropertyParty | word)=

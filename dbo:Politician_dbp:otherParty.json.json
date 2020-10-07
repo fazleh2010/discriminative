@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity1091",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Boyd_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:otherParty" : [ "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan" ]
+  },
+  "words" : [ "22", "-LRB-", "defeated", "electoral", "Legislature", "office", "two", "contested", "general", "2007", "1991", "2002", "member", "provincial", "win", "1956", "election", "race", "level", "Boyd", "born", "politician", "representing", "Saskatchewan", ",", ".", "August", "elected", "Canada", "candidates", "Kindersley", "served", "district", "hotly", "Bill", "-RRB-", "returned", "first" ],
+  "adjectives" : [ "general", "electoral", "provincial", "first" ],
+  "nouns" : [ "election", "race", "level", "Kindersley", "politician", "district", "member", "office" ],
+  "text" : "Bill Boyd (born August 22, 1956) is a provincial level politician from Saskatchewan, Canada. He served as a member of the Saskatchewan Legislature from 1991 to 2002 and returned to office in the 2007 Saskatchewan general election. Boyd was first elected as the member representing the Kindersley electoral district in the 1991 Saskatchewan general election. He defeated two other candidates in a hotly contested race to win his district. Boyd became leader of the Progressive Conservative Party of Saskatchewan on November 21, 1994. He led the party into the 1995 Saskatchewan general election. The party only won five seats after major scandals from the Progressive Conservative government of Grant Devine had come to light. Boyd was personally re-elected in his district by a wide margin. Boyd left the Progressive Conservative party in 1997 and to help form the Saskatchewan Party. He was re-elected to his third term in the 1999 Saskatchewan general election winning his largest plurality to date. He stepped down in 2002 vacating his seat. Boyd returned to the Saskatchewan Legislature in the 2007 Saskatchewan general election. On November 21, 2007, he was appointed Minister of Energy and Resources and Minister Responsible for Intergovernmental Affairs under Premier Brad Wall. Boyd, with his wife Lynn, operate a pedigreed seed farm, and have two children."
+} ]

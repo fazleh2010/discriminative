@@ -1,40 +1,40 @@
 id=3  property=dbp:nativeNameLang  object=hi  NumberOfEntitiesFoundForObject=24
-state-NN  multiply=0.122605364  P(state|object)=0.6666666667  P(object|state)=0.183908046    
-tehsil-JJ  multiply=0.1200980392  P(tehsil|object)=0.2916666667  P(object|tehsil)=0.4117647059    
-name-NN  multiply=0.0704022989  P(name|object)=0.2916666667  P(object|name)=0.2413793103    
-village-NN  multiply=0.0613636364  P(village|object)=0.375  P(object|village)=0.1636363636    
-population-NN  multiply=0.0576923077  P(population|object)=0.25  P(object|population)=0.2307692308    
-town-NN  multiply=0.052734375  P(town|object)=0.375  P(object|town)=0.140625    
-located-JJ  multiply=0.0503731343  P(located|object)=0.375  P(object|located)=0.1343283582    
-city-NN  multiply=0.0489130435  P(city|object)=0.375  P(object|city)=0.1304347826    
-station-NN  multiply=0.0434027778  P(station|object)=0.2083333333  P(object|station)=0.2083333333    
-indian-JJ  multiply=0.0385220126  P(indian|object)=0.2916666667  P(object|indian)=0.1320754717    
-headquarters-NN  multiply=0.037037037  P(headquarters|object)=0.1666666667  P(object|headquarters)=0.2222222222    
-river-NN  multiply=0.0315656566  P(river|object)=0.2083333333  P(object|river)=0.1515151515    
-small-JJ  multiply=0.0289855072  P(small|object)=0.1666666667  P(object|small)=0.1739130435    
-area-NN  multiply=0.0133928571  P(area|object)=0.125  P(object|area)=0.1071428571    
+state-NN  multiply=0.122605  P(state|object)=0.666667  P(object|state)=0.183908    Lift=0.007663 {Confidence word=0.155844 object=0.564935 =0.103896 Lift=1.180077}
+tehsil-JJ  multiply=0.120098  P(tehsil|object)=0.291667  P(object|tehsil)=0.411765    Lift=0.017157 {Confidence word=0.155844 object=0.11039 =0.045455 Lift=2.642157}
+name-NN  multiply=0.070402  P(name|object)=0.291667  P(object|name)=0.241379    Lift=0.010057 {Confidence word=0.155844 object=0.188312 =0.045455 Lift=1.548851}
+village-NN  multiply=0.061364  P(village|object)=0.375  P(object|village)=0.163636    Lift=0.006818 {Confidence word=0.155844 object=0.357143 =0.058442 Lift=1.05}
+population-NN  multiply=0.057692  P(population|object)=0.25  P(object|population)=0.230769    Lift=0.009615 {Confidence word=0.155844 object=0.168831 =0.038961 Lift=1.480769}
+town-NN  multiply=0.052734  P(town|object)=0.375  P(object|town)=0.140625    Lift=0.005859 {Confidence word=0.155844 object=0.415584 =0.058442 Lift=0.902344}
+located-JJ  multiply=0.050373  P(located|object)=0.375  P(object|located)=0.134328    Lift=0.005597 {Confidence word=0.155844 object=0.435065 =0.058442 Lift=0.86194}
+city-NN  multiply=0.048913  P(city|object)=0.375  P(object|city)=0.130435    Lift=0.005435 {Confidence word=0.155844 object=0.448052 =0.058442 Lift=0.836957}
+station-NN  multiply=0.043403  P(station|object)=0.208333  P(object|station)=0.208333    Lift=0.008681 {Confidence word=0.155844 object=0.155844 =0.032468 Lift=1.336806}
+indian-JJ  multiply=0.038522  P(indian|object)=0.291667  P(object|indian)=0.132075    Lift=0.005503 {Confidence word=0.155844 object=0.344156 =0.045455 Lift=0.847484}
+headquarters-NN  multiply=0.037037  P(headquarters|object)=0.166667  P(object|headquarters)=0.222222    Lift=0.009259 {Confidence word=0.155844 object=0.116883 =0.025974 Lift=1.425926}
+river-NN  multiply=0.031566  P(river|object)=0.208333  P(object|river)=0.151515    Lift=0.006313 {Confidence word=0.155844 object=0.214286 =0.032468 Lift=0.972222}
+small-JJ  multiply=0.028986  P(small|object)=0.166667  P(object|small)=0.173913    Lift=0.007246 {Confidence word=0.155844 object=0.149351 =0.025974 Lift=1.115942}
+area-NN  multiply=0.013393  P(area|object)=0.125  P(object|area)=0.107143    Lift=0.004464 {Confidence word=0.155844 object=0.181818 =0.019481 Lift=0.6875}
 
 id=4  property=dbp:nativeNameLang  object=mr  NumberOfEntitiesFoundForObject=13
-town-NN  multiply=0.0588942308  P(town|object)=0.5384615385  P(object|town)=0.109375    
-state-NN  multiply=0.0565870911  P(state|object)=0.6153846154  P(object|state)=0.091954023    
-indian-JJ  multiply=0.0362844702  P(indian|object)=0.3846153846  P(object|indian)=0.0943396226    
-city-NN  multiply=0.02787068  P(city|object)=0.3846153846  P(object|city)=0.0724637681    
-village-NN  multiply=0.0223776224  P(village|object)=0.3076923077  P(object|village)=0.0727272727    
-river-NN  multiply=0.020979021  P(river|object)=0.2307692308  P(object|river)=0.0909090909    
-located-JJ  multiply=0.01836969  P(located|object)=0.3076923077  P(object|located)=0.0597014925    
-tehsil-JJ  multiply=0.0180995475  P(tehsil|object)=0.1538461538  P(object|tehsil)=0.1176470588    
-station-NN  multiply=0.0128205128  P(station|object)=0.1538461538  P(object|station)=0.0833333333    
-population-NN  multiply=0.0118343195  P(population|object)=0.1538461538  P(object|population)=0.0769230769    
+town-NN  multiply=0.058894  P(town|object)=0.538462  P(object|town)=0.109375    Lift=0.008413 {Confidence word=0.084416 object=0.415584 =0.045455 Lift=1.295673}
+state-NN  multiply=0.056587  P(state|object)=0.615385  P(object|state)=0.091954    Lift=0.007073 {Confidence word=0.084416 object=0.564935 =0.051948 Lift=1.089302}
+indian-JJ  multiply=0.036284  P(indian|object)=0.384615  P(object|indian)=0.09434    Lift=0.007257 {Confidence word=0.084416 object=0.344156 =0.032468 Lift=1.117562}
+city-NN  multiply=0.027871  P(city|object)=0.384615  P(object|city)=0.072464    Lift=0.005574 {Confidence word=0.084416 object=0.448052 =0.032468 Lift=0.858417}
+village-NN  multiply=0.022378  P(village|object)=0.307692  P(object|village)=0.072727    Lift=0.005594 {Confidence word=0.084416 object=0.357143 =0.025974 Lift=0.861538}
+river-NN  multiply=0.020979  P(river|object)=0.230769  P(object|river)=0.090909    Lift=0.006993 {Confidence word=0.084416 object=0.214286 =0.019481 Lift=1.076923}
+located-JJ  multiply=0.01837  P(located|object)=0.307692  P(object|located)=0.059701    Lift=0.004592 {Confidence word=0.084416 object=0.435065 =0.025974 Lift=0.707233}
+tehsil-JJ  multiply=0.0181  P(tehsil|object)=0.153846  P(object|tehsil)=0.117647    Lift=0.00905 {Confidence word=0.084416 object=0.11039 =0.012987 Lift=1.393665}
+station-NN  multiply=0.012821  P(station|object)=0.153846  P(object|station)=0.083333    Lift=0.00641 {Confidence word=0.084416 object=0.155844 =0.012987 Lift=0.987179}
+population-NN  multiply=0.011834  P(population|object)=0.153846  P(object|population)=0.076923    Lift=0.005917 {Confidence word=0.084416 object=0.168831 =0.012987 Lift=0.911243}
 
 id=5  property=dbp:nativeNameLang  object=te  NumberOfEntitiesFoundForObject=17
-indian-JJ  multiply=0.1598224195  P(indian|object)=0.7058823529  P(object|indian)=0.2264150943    
-state-NN  multiply=0.1325219743  P(state|object)=0.8235294118  P(object|state)=0.1609195402    
-village-NN  multiply=0.1069518717  P(village|object)=0.5882352941  P(object|village)=0.1818181818    
-headquarters-NN  multiply=0.0816993464  P(headquarters|object)=0.2941176471  P(object|headquarters)=0.2777777778    
-located-JJ  multiply=0.0711150132  P(located|object)=0.5294117647  P(object|located)=0.1343283582    
-town-NN  multiply=0.0450367647  P(town|object)=0.4117647059  P(object|town)=0.109375    
-river-NN  multiply=0.0445632799  P(river|object)=0.2941176471  P(object|river)=0.1515151515    
-name-NN  multiply=0.0324543611  P(name|object)=0.2352941176  P(object|name)=0.1379310345    
-station-NN  multiply=0.0220588235  P(station|object)=0.1764705882  P(object|station)=0.125    
-small-JJ  multiply=0.010230179  P(small|object)=0.1176470588  P(object|small)=0.0869565217    
+indian-JJ  multiply=0.159822  P(indian|object)=0.705882  P(object|indian)=0.226415    Lift=0.013319 {Confidence word=0.11039 object=0.344156 =0.077922 Lift=2.051054}
+state-NN  multiply=0.132522  P(state|object)=0.823529  P(object|state)=0.16092    Lift=0.009466 {Confidence word=0.11039 object=0.564935 =0.090909 Lift=1.457742}
+village-NN  multiply=0.106952  P(village|object)=0.588235  P(object|village)=0.181818    Lift=0.010695 {Confidence word=0.11039 object=0.357143 =0.064935 Lift=1.647059}
+headquarters-NN  multiply=0.081699  P(headquarters|object)=0.294118  P(object|headquarters)=0.277778    Lift=0.01634 {Confidence word=0.11039 object=0.116883 =0.032468 Lift=2.51634}
+located-JJ  multiply=0.071115  P(located|object)=0.529412  P(object|located)=0.134328    Lift=0.007902 {Confidence word=0.11039 object=0.435065 =0.058442 Lift=1.216857}
+town-NN  multiply=0.045037  P(town|object)=0.411765  P(object|town)=0.109375    Lift=0.006434 {Confidence word=0.11039 object=0.415584 =0.045455 Lift=0.990809}
+river-NN  multiply=0.044563  P(river|object)=0.294118  P(object|river)=0.151515    Lift=0.008913 {Confidence word=0.11039 object=0.214286 =0.032468 Lift=1.372549}
+name-NN  multiply=0.032454  P(name|object)=0.235294  P(object|name)=0.137931    Lift=0.008114 {Confidence word=0.11039 object=0.188312 =0.025974 Lift=1.249493}
+station-NN  multiply=0.022059  P(station|object)=0.176471  P(object|station)=0.125    Lift=0.007353 {Confidence word=0.11039 object=0.155844 =0.019481 Lift=1.132353}
+small-JJ  multiply=0.01023  P(small|object)=0.117647  P(object|small)=0.086957    Lift=0.005115 {Confidence word=0.11039 object=0.149351 =0.012987 Lift=0.787724}
 

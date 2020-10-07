@@ -1,0 +1,342 @@
+[ {
+  "entityIndex" : "1_entity8272",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Hodges",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Louis_St._Laurent" ]
+  },
+  "words" : [ "-LRB-", "becoming", "woman", "Canadian", "28", "England", "Nancy", "Legislature", "riding", "office", "hold", "October", "December", "Party", "1950", "Commonwealth", "member", "Assembly", "Speaker", "British", "15", "Victoria", "Liberal", "politician", "Senator", "representing", "City", ",", "Nations", "-", ".", "Hodges", "1888", "journalist", "elected", "1941", "Columbia", "re-elected", "Born", "-RRB-", "London", "Legislative", "1949", "1969", "first", "sitting", "1945" ],
+  "adjectives" : [ "Canadian", "Legislative", "first" ],
+  "nouns" : [ "journalist", "woman", "politician", "member", "office", "Assembly" ],
+  "text" : "Nancy Hodges (October 28, 1888 - December 15, 1969) was a Canadian journalist, politician and Senator. Born in London, England, she was first elected to the Legislative Assembly of British Columbia in 1941 representing the riding of Victoria City and sitting as a member of the British Columbia Liberal Party. She was re-elected in 1945 and 1949. In 1950, she was elected as Speaker of the Legislature, becoming the first woman in the Commonwealth of Nations to hold that office. She was appointed to the Senate in 1953, representing the senatorial division of Victoria, British Columbia and served until her resignation in 1965. She sat as a Liberal."
+}, {
+  "entityIndex" : "2_entity4914",
+  "entityUrl" : "http://dbpedia.org/resource/John_Lang_Nichol",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Lester_B._Pearson" ]
+  },
+  "words" : [ "Trustees", "Vancouver", "-LRB-", "Canadian", "co-chairman", "John", "Committee", "Nichol", "two", "Lester", "1973", "Board", "Pearson", "terms", "Federation", "federal", "retired", "January", "resigned", "CC", "British", "election", "Liberal", "born", "Lang", ",", "B.", ".", "Chairman", "senator", "appointed", "Canada", "1964", "Senate", "Columbia", "Campaign", "Born", "7", "served", "-RRB-", "College", "1924", "1968", "president", "1966" ],
+  "adjectives" : [ "Canadian", "Liberal", "federal", "retired" ],
+  "nouns" : [ "CC", "senator", "election", "co-chairman", "president" ],
+  "text" : "John Lang Nichol, CC (born January 7, 1924) is a retired Canadian senator. Born in Vancouver, British Columbia, he was president of the Liberal Federation of Canada for two terms from 1964 until 1968 and served as co-chairman of the Liberal Campaign Committee for the 1968 federal election. He was appointed to the Senate in 1966 by Lester Pearson and resigned in 1973. He was Chairman of the Board of Trustees of Lester B. Pearson College. He is the founding Chairman of the Pacific Parkinson's Research Institute. In 1980, he was made an Officer of the Order of Canada and was promoted to Companion in 1996."
+}, {
+  "entityIndex" : "3_entity5064",
+  "entityUrl" : "http://dbpedia.org/resource/James_Reid_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/John_A._Macdonald" ]
+  },
+  "words" : [ "Wakefield", "Ann", "Lower", "-LRB-", "May", "Canadian", "moved", "nearly", "Reid", "Maxwell", "eventually", "northern", "miner", "Hull", "October", "Cariboo", "son", "trip", "empire", "1839", "Ottawa", "parliamentarian", "--", "established", "British", "James", "business", "born", "Quebec", "Quesnel", ",", "cousin", "entrepreneur", ".", "Canada", "2", "educated", "Columbia", "1862", "5", "Quesnellemouth", "prospered", "-RRB-", "1904", "region", "perishing" ],
+  "adjectives" : [ "Canadian", "northern" ],
+  "nouns" : [ "son", "trip", "business", "empire", "region", "parliamentarian", "cousin", "entrepreneur", "miner" ],
+  "text" : "James Reid (October 2, 1839 – May 5, 1904) was a Canadian entrepreneur and parliamentarian from British Columbia. Reid was born in Wakefield, Lower Canada, the son of James Reid and Ann Maxwell, and was educated in Hull, Quebec and Ottawa. He moved to British Columbia in 1862, with a cousin, nearly perishing on the trip to the northern Cariboo region. Reid eventually prospered as a miner and established his own business empire in Quesnellemouth (now Quesnel). In 1883, he married Charlotte Clarke. Reid’s business included saw and flour mills, mining operations, riverboat construction and the main general store in Quesnel. Reid owned his own riverboat, the Charlotte which was one of the main supply vessels into the area. Reid was elected to Member of Parliament for Cariboo as a Liberal-Conservative in an 1881 by-election on the death of incumbent MP Joshua Spencer Thompson. He was acclaimed in the following federal election and re-elected in 1887. Prime Minister Macdonald appointed Reid to the Senate in 1888. He held that office until his death in Vancouver in 1904."
+}, {
+  "entityIndex" : "4_entity5263",
+  "entityUrl" : "http://dbpedia.org/resource/James_Davis_Taylor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Robert_Borden" ]
+  },
+  "words" : [ "commanded", "New", "Westminster", "-LRB-", "September", "May", "Canadian", "War", "resisting", "World", "Davis", "overseas", "Rebellion", "Lieutenant", "member", "1917", "Ottawa", "--", "11", "MP", "James", "Taylor", "politician", "1908", ",", ".", "Sharpshooters", "journalist", "2", "1941", "1863", "1885", "involved", "soldier", "Conservative", "North-West", "Colonel", "-RRB-", "publisher", "131st", "Battalion" ],
+  "adjectives" : [ "Canadian", "Conservative" ],
+  "nouns" : [ "journalist", "MP", "soldier", "politician", "member", "publisher", "Battalion" ],
+  "text" : "James Davis Taylor (September 2, 1863 – May 11, 1941) was a Canadian publisher, journalist, soldier and Conservative politician. As a member of the Ottawa Sharpshooters, Taylor was involved in resisting the 1885 North-West Rebellion. As a Lieutenant Colonel during World War I he commanded the 131st Battalion overseas. Taylor was MP for New Westminster from 1908 until 1917. Davis was then appointed to the Senate where he served until his death."
+}, {
+  "entityIndex" : "5_entity6175",
+  "entityUrl" : "http://dbpedia.org/resource/John_Rodenberg",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Jesse_Ventura" ]
+  },
+  "words" : [ "private", "practice", "then-Governor", "John", "Jesse", "Appeals", "serve", "Council", "Court", "Hamline", "worked", "2007", "Rodenberg", "Ventura", "judge", "R.", "vice", "jurist", "chair", "2000", "Minnesota", "received", "Judicial", ",", "court", ".", "doctor", "appointed", "elected", "University", "district", "Associate", "juris", "Judge" ],
+  "adjectives" : [ "private" ],
+  "nouns" : [ "doctor", "practice", "vice", "jurist", "chair", "district", "judge", "court", "juris" ],
+  "text" : "John R. Rodenberg is a Minnesota jurist, and an Associate Judge of the Minnesota Court of Appeals. Rodenberg received his juris doctor from Hamline University. He worked in private practice until 2000, when he was appointed to serve as a district court judge by then-Governor Jesse Ventura. He was elected vice chair of the Minnesota Judicial Council in 2007. Rodenberg was appointed to the appeals court in 2011 by Governor Mark Dayton."
+}, {
+  "entityIndex" : "6_entity6181",
+  "entityUrl" : "http://dbpedia.org/resource/John_S._Rice",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/George_M._Leader" ]
+  },
+  "words" : [ "career", "-LRB-", "28", "roles", "John", "political", "1899", "Stanley", "variety", "course", "January", "businessman", "Rice", "--", "three-decade", "Democratic", "politician", ",", ".", "August", "Pennsylvania", "appointed", "elected", "2", "1985", "served", "-RRB-", "farmer", "commonwealth" ],
+  "adjectives" : [ "three-decade", "Democratic", "political" ],
+  "nouns" : [ "career", "variety", "politician", "farmer", "course", "commonwealth", "businessman" ],
+  "text" : "John Stanley Rice (January 28, 1899 – August 2, 1985) was a Democratic politician, farmer and businessman from the commonwealth of Pennsylvania. Rice served in a variety of appointed and elected political roles over the course of a three-decade political career."
+}, {
+  "entityIndex" : "7_entity6313",
+  "entityUrl" : "http://dbpedia.org/resource/John_R._Smith_(agriculture_commissioner)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "State Board of Agriculture" ]
+  },
+  "words" : [ "sixth", "Smith", "politician", "served", "John", "Carolina", "Commissioner", "North", "Agriculture", "R.", "." ],
+  "adjectives" : [ "sixth" ],
+  "nouns" : [ "politician" ],
+  "text" : "John R. Smith was a North Carolina politician who served as the sixth North Carolina Commissioner of Agriculture."
+}, {
+  "entityIndex" : "8_entity6314",
+  "entityUrl" : "http://dbpedia.org/resource/John_Robinson_(agriculture_commissioner)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "State Board of Agriculture" ]
+  },
+  "words" : [ "Robinson", "third", "politician", "served", "John", "Carolina", "Commissioner", "North", "Agriculture", "." ],
+  "adjectives" : [ "third" ],
+  "nouns" : [ "politician" ],
+  "text" : "John Robinson was a North Carolina politician who served as the third North Carolina Commissioner of Agriculture."
+}, {
+  "entityIndex" : "9_entity2912",
+  "entityUrl" : "http://dbpedia.org/resource/Eugene_Kang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Barack_Obama" ]
+  },
+  "words" : [ "Ann", "-LRB-", "Projects", "Confidential", "Kang", "D-Minn", "Council", "Klobuchar", "President", "School", "worked", "later", "2005", "Assistant", "native", "Special", "Barack", "Arbor", "attended", "Obama", "made", "born", "Senator", "enrolling", "City", "Coordinator", "Greenhills", ",", "Amy", "'s", ".", "Michigan", "1984", "University", "-RRB-", "Eugene", "bid" ],
+  "adjectives" : [ "Special" ],
+  "nouns" : [ "native", "bid", "D-Minn" ],
+  "text" : "Eugene Kang (born 1984) is the Special Projects Coordinator and Confidential Assistant to President Barack Obama. Eugene Kang is an Ann Arbor native who attended Greenhills School before enrolling at the University of Michigan. At Michigan, Kang made a 2005 bid for the Ann Arbor City Council. He later worked on Senator Amy Klobuchar's (D-Minn.) 2006 campaign. During Obama's Presidential campaign he worked in the political division. A second-generation Korean American, he was also a part of the Asian Americans and Pacific Islanders National Leadership Council. Kang has been described as a \"close confidant to [President] Obama\" and has played eleven rounds of golf with the President from the time he took office through 2013."
+}, {
+  "entityIndex" : "10_entity11609",
+  "entityUrl" : "http://dbpedia.org/resource/William_Durie_Lyon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Donald_Alexander_Macdonald" ]
+  },
+  "words" : [ "settlements", "June", "became", "de", "-LRB-", "Durie", "political", "facto", "riding", "situated", "holding", "executive", "October", "1875", "1893", "member", "west", "power", "Assembly", "1879", "--", "new", "figure", "ˈlaɪən", "Thunder", "Liberal", "Halton", "18", "Lyon", "merchant", "magisterial", "William", ",", ".", "/", "elected", "Canada", "judicial", "5", "-RRB-", "Legislative", ";", "governor", "Bay", "1825", "Ontario", "District", "represent" ],
+  "adjectives" : [ "judicial", "new", "ˈlaɪən", "Liberal", "political", "Legislative", "magisterial" ],
+  "nouns" : [ "executive", "figure", "member", "west", "merchant", "governor", "power", "Assembly" ],
+  "text" : "William Durie Lyon (/ˈlaɪən/; June 5, 1825 – October 18, 1893) was a merchant and political figure in Ontario, Canada. Lyon was a Liberal member of the Legislative Assembly of Ontario who was elected in 1875 to represent the riding of Halton. In 1879 he became the de facto governor of the District of Thunder Bay, holding executive, judicial and magisterial power over the new settlements situated west of Ontario."
+}, {
+  "entityIndex" : "11_entity978",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Currie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Bill_Clinton" ]
+  },
+  "words" : [ "became", "-LRB-", "Grace", "United", "alleged", "States", "President", "Williams", "secretary", "Currie", "known", "scandal", "1939", "tenure", "November", "10", "gifts", "given", "figure", "Lewinsky", "Betty", "born", "personal", ",", "Clinton", "former", ".", "Monica", "-RRB-", "Bill", "well", "handling", ";" ],
+  "adjectives" : [ "personal", "alleged", "former" ],
+  "nouns" : [ "figure", "secretary", "scandal", "handling", "tenure" ],
+  "text" : "Betty Currie (born Betty Grace Williams; November 10, 1939) is the former personal secretary for Bill Clinton (during his tenure as President of the United States). She became well known as a figure in the Lewinsky scandal for her alleged handling of gifts given to Monica Lewinsky by President Clinton."
+}, {
+  "entityIndex" : "12_entity10758",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Harold_Wood",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Louis_St._Laurent" ]
+  },
+  "words" : [ "June", "St-Laurent", "-LRB-", "25", "26", "death", "Canadian", "Regina", "recommendation", "division", "represented", "January", "November", "Thomas", "11", "--", "Wood", "Liberal", "Harold", "Senator", "Saskatchewan", ",", ".", "1965", "appointed", "Senate", "-RRB-", "1949", "1889", "Louis" ],
+  "adjectives" : [ "Canadian" ],
+  "nouns" : [ "division", "death", "recommendation" ],
+  "text" : "Thomas Harold Wood (11 June 1889 – 26 November 1965) was a Canadian Senator. A Liberal, he was appointed to the Canadian Senate on 25 January 1949 on the recommendation of Louis St-Laurent. He represented the Senate division of Regina, Saskatchewan until his death."
+}, {
+  "entityIndex" : "13_entity11235",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Brindle_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Michael_Joseph_Savage" ]
+  },
+  "words" : [ "``", "New", "-LRB-", "stood", "March", "Labour", "conscription", "Representatives", "Council", "jailed", "times", "Party", "speaking", "1950", "member", "1936", "five", "early", "1878", "November", "Wellington", "Thomas", "''", "--", "activist", "election", "19", "WWI", "House", "City", ".", "Zealand", "Tom", "Brindle", "-RRB-", "Legislative", "British-born" ],
+  "adjectives" : [ "Legislative", "British-born", "early" ],
+  "nouns" : [ "activist", "election", "member", "conscription" ],
+  "text" : "Thomas \"Tom\" Brindle (1878 – 19 November 1950) was a British-born early activist for the New Zealand Labour Party who was jailed during WWI for speaking out against conscription. He was a member of Wellington City Council and stood for election to the House of Representatives five times. He was a member of the Legislative Council from 1936 until March 1950."
+}, {
+  "entityIndex" : "14_entity9121",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Peterson_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Paul_Martin" ]
+  },
+  "words" : [ "24", "-LRB-", "Prime", "Canadian", "held", "Denro", "March", "Peterson", "Properties", "Paul", "professional", "October", "Board", "2005", "1994", "Robert", "Directors", "Holdings", "1937", "Cameco", "Minister", "activist", "sits", "COO", "Liberal", "born", "19", "Martin", "Saskatchewan", ",", "community", "engineer", "former", ".", "entrepreneur", "senator", "appointed", "Corporation", "Senate", "currently", "W.", "-RRB-", "General", "position", "Ltd", "since" ],
+  "adjectives" : [ "Canadian", "Liberal", "former", "professional" ],
+  "nouns" : [ "senator", "activist", "COO", "position", "community", "engineer", "entrepreneur" ],
+  "text" : "Robert W. Peterson (born October 19, 1937) is a former Canadian Liberal senator from Saskatchewan. He was appointed to the Senate by Prime Minister Paul Martin on March 24, 2005. Peterson is an entrepreneur, professional engineer and community activist. He is the COO of Denro Holdings Ltd, and currently sits on the Board of Directors for General Properties Ltd and Cameco Corporation, a position he has held since 1994. Mr. Peterson received a Bachelor of Science degree in Civil Engineering from the University of Saskatchewan."
+}, {
+  "entityIndex" : "15_entity9152",
+  "entityUrl" : "http://dbpedia.org/resource/Russell_A._Anderson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Arne_Carlson" ]
+  },
+  "words" : [ "Law", "Eric", "sworn", "A.", "Court", "Supreme", "January", "10", "went", "J.", ",", "court", "J.D.", "former", ".", "1942", "1", "Russell", "University", "attorney", "served", "graduated", "-RRB-", "College", "succeeded", "Justice", "66", "June", "-LRB-", "May", "Chief", "September", "28", "Olaf", "St.", "1998", "2008", "School", "2006", "Minneapolis", "Northfield", "retired", "earning", "born", "Magnuson", "Minnesota", "Anderson", "1964", "Associate", "1968", "age" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "attorney", "court", "age" ],
+  "text" : "Russell A. Anderson (born May 28, 1942) is an attorney and former Chief Justice of the Minnesota Supreme Court. He served as an Associate Justice of the court from September 1, 1998 until he was sworn in as Chief Justice on January 10, 2006. He retired from the Supreme Court on June 1, 2008, at age 66, and was succeeded by Eric J. Magnuson. Anderson graduated from St. Olaf College in Northfield in 1964, then went on to the University of Minnesota Law School in Minneapolis, earning his J.D. in 1968. He later attended George Washington University in Washington, D.C., earning his Master of Laws degree in 1977. Before being named to the state's high court in 1998 by Governor Arne Carlson, Anderson had served on the Ninth District Court since 1983, having been appointed by Governor Al Quie. Prior to serving on the bench, he was the Beltrami County Attorney from 1978-1982. He was in private practice in Bemidji from 1976-1982. His first legal experience came while in military service. Lieutenant Commander Anderson served in the Judge Advocate General's Corp of the U.S. Navy. He acted as prosecutor and defense attorney for general and lesser courts-martial, as military judge for special and summary court-martial, and as civil and criminal staff attorney in the Office of Judge Advocate General, Washington, D.C."
+}, {
+  "entityIndex" : "16_entity2570",
+  "entityUrl" : "http://dbpedia.org/resource/D.D._Wozniak",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Rudy_Perpich" ]
+  },
+  "words" : [ "``", "Described", "War", "Representatives", "serve", "World", "St.", "years", "Lyndon", "hold", "foreign", "President", "1951", "Party", "later", "would", "maverick", "II", "Thomas", "activist", "''", "law", "14", "Johnson", "aviator", "degree", "received", "Minnesota", "House", ",", ".", "1943", "elected", "economics", "University", "Wozniak", "naval", "service", "served", "graduated", "Democratic-Farmer-Labor", "1948", "position" ],
+  "adjectives" : [ "naval", "foreign" ],
+  "nouns" : [ "activist", "law", "service", "aviator", "degree", "position", "maverick" ],
+  "text" : "Wozniak served as a naval aviator during World War II. He graduated with a degree in economics from the University of St. Thomas in 1943, and received his law degree from the University of Minnesota in 1948. Wozniak was elected to the Minnesota House of Representatives in 1951, a position he would hold for 14 years. Described as a \"maverick Democratic-Farmer-Labor Party activist,\" Wozniak would later serve in the foreign service for President Lyndon Johnson. Wozniak was appointed as one of the first judges on the newly created Minnesota Court of Appeals in 1982. He was later appointed Chief Judge in 1987. Wozniak held the position until 1992, when he resigned due to reaching the state's mandatory retirement age. Wozniak died in 2005."
+}, {
+  "entityIndex" : "17_entity4776",
+  "entityUrl" : "http://dbpedia.org/resource/Ira_Perley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Samuel_Dinsmoor,_Jr.", "http://dbpedia.org/resource/Ralph_Metcalf" ]
+  },
+  "words" : [ "Justice", "Hanover", "New", "-LRB-", "26", "Chief", "Ralph", "Jr.", "Phebe", "Perley", "Representatives", "Superior", "Court", "1855", "1799", "Samuel", "October", "1874", "1852", "Dinsmoor", "Hampshire", "represented", "July", "1859", "February", "November", "--", "Judicature", "born", "Concord", "House", ",", ".", "appointed", "Dresser", "Governor", "1864", "-RRB-", "Ira", "9", "Associate", "1869", "20", "Metcalf" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Governor" ],
+  "text" : "Ira Perley (November 9, 1799–February 26, 1874) was the Chief Justice of the New Hampshire Superior Court of Judicature 1855–1859 and 1864–1869. Perley was born November 9, 1799, to Samuel and Phebe (Dresser) Perley. Perley represented both Hanover and Concord in the New Hampshire House of Representatives. Perley was appointed by Governor Samuel Dinsmoor, Jr. as an Associate Justice of the Superior Court of Judicature on October 1852 and as the Chief Justice of the Superior Court of Judicature on July 20, 1855 by Governor Ralph Metcalf. Perley resigned from the court on October 1, 1859, he was reappointed as Chief Justice on August 1, 1864, and he resigned again in September 1869. Perley was elected a member of the American Antiquarian Society in 1866. Perley died on February 26, 1874 in Concord, New Hampshire."
+}, {
+  "entityIndex" : "18_entity9982",
+  "entityUrl" : "http://dbpedia.org/resource/Staff_Barootes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Brian_Mulroney" ]
+  },
+  "words" : [ "urologist", "medical", "-LRB-", "Manitoba", "Canadian", "Staff", "moved", "War", "World", "Barootes", "Corps", "Arts", "Royal", "Winnipeg", "1918", "Efstathios", "physician", "July", "30", "parliamentarian", "November", "immigrants", "--", "II", "Army", "15", "Saskatoon", "degree", "2000", "received", "Saskatchewan", "William", ",", "Bachelor", ".", "1943", "1940", "University", "Born", "served", "-RRB-", "Medical", "family", "Greek", "Toronto" ],
+  "adjectives" : [ "medical", "Canadian", "Greek" ],
+  "nouns" : [ "urologist", "degree", "physician", "family", "Bachelor", "parliamentarian" ],
+  "text" : "Efstathios William (Staff) Barootes (November 15, 1918 – July 30, 2000) was a Canadian physician, urologist, and parliamentarian. Born in Winnipeg, Manitoba, of Greek immigrants, he moved with his family to Saskatoon, Saskatchewan. He received a Bachelor of Arts degree in 1940 and a medical degree in 1943 from the University of Toronto. He then served with the Royal Canadian Army Medical Corps during World War II. After the war, he did postgraduate work in urology. He then moved to Regina, Saskatchewan, where he practiced until he retired in 1979. After retiring, he focused on politics. He was the chief fund raiser for the Progressive Conservative Party of Saskatchewan and helped form the government in Saskatchewan in 1979. In 1984, he was one of the first three appointments made Prime Minister Brian Mulroney to the Senate. He represented the Senatorial division of Regina-Qu'Appelle, Saskatchewan and resigned shortly before his 75th birthday in 1993. He served as treasurer and deputy president of the Canadian Medical Association. He was a director of IPSCO, the Canadian steel company, from 1982 to 1989."
+}, {
+  "entityIndex" : "19_entity10259",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_L._Patterson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "State Board of Agriculture" ]
+  },
+  "words" : [ "Phoebe", "-LRB-", "Palmyra", "Representatives", "County", "1899", "agriculture", "Samuel", "son", "1850", "plantation", "1893", "North", "state", "--", "committee", "wife", "chair", "1908", "politician", "born", "F.", "1891", "Legerwood", "Carolina", "Patterson", "House", "Caldwell", ",", "Caroline", ".", "Senate", "served", "-RRB-", "farmer", "family", "legislature" ],
+  "adjectives" : [ ],
+  "nouns" : [ "agriculture", "son", "committee", "plantation", "wife", "chair", "politician", "farmer", "state", "family", "legislature" ],
+  "text" : "Samuel Legerwood Patterson (1850–1908) was a North Carolina politician and farmer. The son of Samuel F. Patterson and his wife, Phoebe Caroline, Patterson was born at Palmyra, the family plantation in Caldwell County, North Carolina. He served in the state House of Representatives in 1891 and 1899 and in the North Carolina Senate in 1893. In the legislature, he was chair of the committee on agriculture. He was also a trustee of the University of North Carolina at Chapel Hill. Patterson was appointed commissioner of agriculture from 1895 to 1897, when he was removed by the Fusion of Republicans and Populists that came to power that year. He was reappointed in 1899 and then became the first popularly elected commissioner in 1900. He served until his death in 1908. Patterson Hall at North Carolina State University is named in his honor. He and his wife bequeathed Palmyra to the Episcopal Church as a school, which operated as The Patterson School from 1909 through 2009."
+}, {
+  "entityIndex" : "20_entity10523",
+  "entityUrl" : "http://dbpedia.org/resource/Susan_Clough",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Jimmy_Carter" ]
+  },
+  "words" : [ "-LRB-", "born", "Clough", "personal", "also", "Carter", ".", "executive", "President", "presidency", "worked", "secretary", "prior", "Susan", "-RRB-", "1945", "Jimmy" ],
+  "adjectives" : [ "personal" ],
+  "nouns" : [ "executive", "presidency", "secretary" ],
+  "text" : "Susan Clough (born 1945) was the personal executive secretary to President Jimmy Carter. She also worked for him prior to his presidency."
+}, {
+  "entityIndex" : "21_entity7494",
+  "entityUrl" : "http://dbpedia.org/resource/Marguerite_LeHand",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Franklin_D._Roosevelt" ]
+  },
+  "words" : [ "``", "Franklin", "country", "New", "Kearns", "office", "years", "1898", "President", "presidency", "secretarial", "school", "poor", "celebrated", "hired", "July", "clerical", "Roosevelt", "--", "took", "13", "began", "Alice", "work", "Democratic", "wife", "personal", ",", "'s", ".", "Missy", "-RRB-", "presidential", "1944", "21", "became", "private", "-LRB-", "September", "York", "LeHand", "eventually", "Goodwin", "secretary", "U.S.", "Party", "FDR", "came", "Eleanor", "candidacy", "31", "According", "''", "attended", "vice", "Doris", "jobs", "D.", "Irish-American", "1920", "biographer", "Born", "series", "Marguerite", "attention", "family" ],
+  "adjectives" : [ "private", "secretarial", "poor", "celebrated", "Irish-American", "personal", "presidential", "clerical" ],
+  "nouns" : [ "presidency", "country", "vice", "secretary", "biographer", "school", "series", "wife", "attention", "candidacy", "office", "family" ],
+  "text" : "Marguerite Alice \"Missy\" LeHand (September 13, 1898 – July 31, 1944) was private secretary to U.S. President Franklin D. Roosevelt (FDR) for 21 years. According to Roosevelt biographer Doris Kearns Goodwin, during FDR's presidency, LeHand became \"the most celebrated private secretary in the country\". Born into a poor Irish-American family in New York, LeHand attended secretarial school, took a series of clerical jobs, and eventually began to work for the Democratic Party's New York office. There she came to the attention of FDR's wife Eleanor during his 1920 vice presidential candidacy and was hired as FDR's personal secretary. After FDR was partially paralyzed by polio, LeHand became his daily companion, to the extent of adopting his favorite hobbies, games, and drinks. She remained his secretary when he became Governor of New York in 1929 and when he became president in 1933, serving until a 1941 stroke left her unable to speak. She moved to her sister's home in Boston and died in 1944. The exact nature of LeHand's relationship with FDR is debated by historians. It is generally accepted that their relationship contained a romantic element, though scholars remain divided on whether the pair had a sexual relationship. LeHand was engaged to U.S. Ambassador William Bullitt in 1933, but never married, later asking a friend, \"How could anyone ever come up to FDR?\""
+}, {
+  "entityIndex" : "22_entity8024",
+  "entityUrl" : "http://dbpedia.org/resource/Margaret_Chutich",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Mark_Dayton" ]
+  },
+  "words" : [ "Justice", "dean", "June", "-LRB-", "American", "Mark", "Appeals", "Chutich", "office", "Dayton", "Court", "Margaret", "2008", "Supreme", "worked", "School", "U.S.", "previously", "Assistant", "judge", "1958", "lawyer", "Affairs", "born", "18", "assistant", "Humphrey", "Minnesota", "Public", ",", ".", "appointed", "Governor", "2016", "University", "served", "-RRB-", "General", "Associate", "Attorney", "District", "Helen", "since" ],
+  "adjectives" : [ "American", "assistant" ],
+  "nouns" : [ "dean", "Governor", "judge", "office", "lawyer" ],
+  "text" : "Margaret Helen Chutich (born June 18, 1958) is an American lawyer and judge, who has served as an Associate Justice of the Minnesota Supreme Court since 2016, when she was appointed by Governor Mark Dayton. She previously served as a judge on the Minnesota Court of Appeals. Chutich worked in the office of the Minnesota Attorney General, and as an Assistant U.S. Attorney for the District of Minnesota. In 2008, she was appointed assistant dean of the Humphrey School of Public Affairs at the University of Minnesota. In 2011, Governor Dayton appointed her to the appeals court. Chutich is a graduate of Anoka High School and the University of Minnesota, as well as Michigan Law. She is married to Allina Health CEO Penny Wheeler, and is the first openly gay justice on the Minnesota Supreme Court. Chutich is one of nine LGBT state supreme court justices currently serving in the United States."
+}, {
+  "entityIndex" : "23_entity8084",
+  "entityUrl" : "http://dbpedia.org/resource/Montford_McGehee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "State Board of Agriculture" ]
+  },
+  "words" : [ "--", "-LRB-", "politician", "March", "Carolina", "Commissioner", ",", ".", "second", "1822", "December", "McGehee", "4", "1895", "Montford", "served", "-RRB-", "farmer", "General", "North", "Agriculture", "31", "Assembly" ],
+  "adjectives" : [ "second" ],
+  "nouns" : [ "politician", "farmer" ],
+  "text" : "Montford McGehee (December 4, 1822 – March 31, 1895) was a North Carolina politician and farmer who served in the North Carolina General Assembly, and as the second North Carolina Commissioner of Agriculture."
+}, {
+  "entityIndex" : "24_entity3518",
+  "entityUrl" : "http://dbpedia.org/resource/Gerri_Whittington",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Lyndon_B._Johnson" ]
+  },
+  "words" : [ "``", "John", "office", "secretaries", "1931", "executive", "President", "number", "worked", "January", "slate", "11", "--", "Valenti", "assistants", "new", "Geraldine", "F.", "personal", "House", ",", "B.", ".", "Whittington", "requested", "African-American", "phone", "-RRB-", "became", "24", "-LRB-", "September", "Lyndon", "long", "Kennedy", "secretary", "government", "1993", "get", "working", "Jack", "''", "hours", "Johnson", "famous", "assassinated", "assistant", "saw", "home", "special", "insisting", "Gerri", "White", "well", "first", "president" ],
+  "adjectives" : [ "special", "new", "famous", "African-American", "personal", "first", "long" ],
+  "nouns" : [ "executive", "number", "secretary", "government", "phone", "assistant", "office", "slate", "president", "home" ],
+  "text" : "Geraldine \"Gerri\" Whittington (September 11, 1931 – January 24, 1993) was the personal executive secretary to President Lyndon B. Johnson, and was the first African-American secretary in the White House. Johnson was famous for working long hours and insisting his assistants worked long hours as well. When John F. Kennedy was assassinated and Johnson became president, he requested a new slate of secretaries. He saw Whittington working in a government office, and requested that his \"special assistant\" Jack Valenti get her home phone number. Johnson called her unannounced one evening, and requested that she come in that night for an interview. According to audiotapes of Johnson's phone calls, Whittington at first thought the call was a joke, but came to believe that it really was the president on the line. She applied for the job and was offered the position. Having a black woman in the White House was very unusual in the early 1960s. Johnson wanted to advertise the fact that he'd hired a black woman, but chose not to call a news conference. Instead, he arranged for Whittington to appear on the television game show \"What's My Line?\", wherein contestants attempted to guess her profession. This may have seemed less overt, but probably exposed her to more viewers than if a standard press conference had been held. Whittington appeared on episode #696 of the game show What's My Line? on January 19, 1964. She was the first contestant. The mystery guest that evening was Van Heflin and the panel consisted of Arlene Francis, Steve Allen, Dorothy Kilgallen and Bennett Cerf. After Whittington signed the blackboard as \"Jerri Whittington,\" she told host John Daly that she was from West River, Maryland. Whittington's occupation was shown on the screen as \"Secretary to President Johnson.\" After her game, she described President Lyndon Johnson with the following words, \"great warmth, fair, kind, a perfectionist.\" Later Whittington appeared in several magazines, including Jet and Sepia. She was the first person to learn that Justice Thurgood Marshall had been nominated by President Johnson to the Supreme Court. Minutes before LBJ made the official announcement, he took his nominee down to her office and said, \"Here's the next Supreme Court Justice!\" She told friends that she thanked the President for making the choice of the first Black court justice. After suffering a stroke at age 38, Ms. Whittington died of cancer in Washington, DC, on January 24, 1993, on the same day as Justice Thurgood Marshall."
+}, {
+  "entityIndex" : "25_entity3742",
+  "entityUrl" : "http://dbpedia.org/resource/Grace_Tully",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Franklin_D._Roosevelt" ]
+  },
+  "words" : [ "Franklin", "June", "New", "private", "-LRB-", "Grace", "young", "father", "died", "two", "President", "mother", "secretary", "U.S.", "Party", "FDR", "Jersey", "businessman", "Roosevelt", "--", "15", "Democratic", "born", "raised", "D.", "sisters", ",", "Tully", ".", "Bayonne", "August", "1984", "-RRB-", "9", "brother", "1900", "loyalist" ],
+  "adjectives" : [ "private", "young" ],
+  "nouns" : [ "mother", "secretary", "father", "businessman", "brother", "loyalist" ],
+  "text" : "Grace Tully (9 August 1900 – 15 June 1984) was private secretary to U.S. President Franklin D. Roosevelt (FDR). Grace Tully was born on 9 August 1900 in Bayonne, New Jersey. Her father was a businessman and a loyalist to the Democratic Party. He died when she was young, and Tully and her two sisters and brother were raised by their mother. She received her secretarial education at the Grace Institute in New York, and after graduating was appointed as secretary to Patrick Hayes, bishop of the Roman Catholic Archdiocese of New York. In 1928, Grace Tully started to work for the Democratic National Committee, and was assigned to assist Eleanor Roosevelt, who was organizing support for presidential nominee Al Smith. Later that year, when FDR was nominated for Governor of New York, Grace Tully went to work on his staff. After Roosevelt's successful election, Tully began serving as the assistant to Missy LeHand, who was Roosevelt's personal secretary in Roosevelt's office at Albany, New York. Tully was given the dictation and typing duties that Lehand disliked. Tully served with FDR for his four years as governor. Grace Tully moved to Washington, D.C., in 1933, when Roosevelt was elected President. Both she and Missy LeHand were important figures for FDR during his presidency. Tully frequently accompanied FDR on his trips to Hyde Park and Shangri-La (today called Camp David). When Missy LeHand suffered a stroke in 1941, Grace Tully took over her position as personal secretary to the President. Tully was not an intimate or romantic companion for Roosevelt in the same way as LeHand had been. She continued working for the President until his death in April 1945 at his \"Little White House\" in Warm Springs, where she was present as he died. Then she served as the Executive Secretary for the FDR Foundation. In 1949 she published her memoirs, FDR: My Boss. In 1955 she joined the staff of the Senate Democratic Policy Committee, working with Lyndon B. Johnson, the Senate Majority Leader at the time. She retired ten years later and died in 1984."
+}, {
+  "entityIndex" : "26_entity3820",
+  "entityUrl" : "http://dbpedia.org/resource/Guy_Williams_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Pierre_Trudeau" ]
+  },
+  "words" : [ "leader", "-LRB-", "becoming", "Canadian", "upper", "retirement", "house", "years", "building", "Native", "number", "October", "December", "worked", "Williams", "1971", "1992", "1970", "Gladstone", "reserve", "First", "R.", "Haisla", "31", "--", "James", "business", "born", "Senator", "Guy", ",", "Nations", ".", "boat", "mill", "appointed", "Senate", "7", "following", "1907", "-RRB-", "Indian", "time", "starting", "fisherman", "first", "status" ],
+  "adjectives" : [ "Native", "Canadian", "upper", "Indian", "first" ],
+  "nouns" : [ "leader", "number", "business", "reserve", "time", "retirement", "house", "fisherman", "boat", "building", "status", "mill" ],
+  "text" : "Guy R. Williams (October 7, 1907 – December 31, 1992) was a Canadian Senator and Haisla First Nations leader and was, for a number of years, the only Native Canadian in the Senate. He was appointed in 1971, following the 1970 retirement of James Gladstone who had been the first status Indian appointed to the upper house. Williams was born on a Native reserve. He worked for a time in a mill, before becoming a fisherman and then starting his own boat building business. He was president of the Native Brotherhood of British Columbia for twelve years until his appointment to the Senate."
+}, {
+  "entityIndex" : "27_entity4046",
+  "entityUrl" : "http://dbpedia.org/resource/Giles_Masters",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "Edmund Andros" ]
+  },
+  "words" : [ "Giles", "Masters", "New", "29", "England", "sworn", "died", ",", ".", "second", "appointed", "1688", "1686", "attorney", "General", "Attorney", "February", "Dominion" ],
+  "adjectives" : [ "second" ],
+  "nouns" : [ "Masters", "attorney" ],
+  "text" : "Giles Masters was appointed as the second Attorney General of the Dominion of New England. Masters was sworn in as an attorney in 1686. Masters died on February 29, 1688."
+}, {
+  "entityIndex" : "28_entity8600",
+  "entityUrl" : "http://dbpedia.org/resource/Pana_Merchant",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Jean_Chrétien" ]
+  },
+  "words" : [ "leader", "Independents", "held", "Opposition", "appointment", "province", "would", "continue", "members", "January", "Minister", "Pana", "still", "including", "Senator", "Saskatchewan", ",", "April", ".", "1943", "announced", "2", "Senate", "longer", "even", "-RRB-", "Senators", "position", "Cowan", "since", "Trudeau", "-LRB-", "Prime", "Canadian", "29", "Pappas", "Liberals", "Chrétien", "Party", "Merchant", "2002", "parliamentary", "Justin", "According", "James", "Liberal", "born", "Jean", "removed", "refer", "2014", "caucus", "sitting" ],
+  "adjectives" : [ "Canadian", "Liberal", "parliamentary" ],
+  "nouns" : [ "leader", "province", "caucus", "appointment", "position" ],
+  "text" : "Pana Pappas Merchant (born April 2, 1943) is a Liberal Senator from the Canadian province of Saskatchewan. She has held the position since her appointment to the Senate by Prime Minister Jean Chrétien in 2002. On January 29, 2014, Liberal Party leader Justin Trudeau announced all Liberal Senators, including Merchant, were removed from the Liberal caucus, and would continue sitting as Independents. According to Senate Opposition leader James Cowan, the Senators will still refer to themselves as Liberals even if they are no longer members of the parliamentary Liberal caucus."
+}, {
+  "entityIndex" : "29_entity8801",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Popovich",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Rudy_Perpich" ]
+  },
+  "words" : [ "Justice", "-LRB-", "Law", "American", "Chief", "27", "Crosby", "29", "March", "Appeals", "respectively", "serve", "St.", "Paul", "degrees", "Court", "1996", "Supreme", "earned", "Popovich", "Mitchell", "judge", "state", "lawyer", "November", "--", "politician", "born", "Minnesota", "history", ",", "'s", "William", ".", "1920", "1942", "University", "person", "-RRB-", "College", "Peter", "1947", "Stephen", "Judge" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "person", "politician", "judge", "state", "history", "lawyer" ],
+  "text" : "Peter Stephen Popovich (November 27, 1920 – March 29, 1996) was an American lawyer, politician, and judge from Minnesota. He is the only person in the state's history to serve as both Chief Judge of the Minnesota Court of Appeals and Chief Justice of the Minnesota Supreme Court. Popovich was born in Crosby, Minnesota in 1920. He earned degrees from the University of Minnesota and William Mitchell College of Law (then the St. Paul College of Law) in 1942 and 1947, respectively. He was in private practice in the Twin Cities from 1947 to 1983, while also serving in the Minnesota House of Representatives from 1953 to 1963. Upon the creation of the state Court of Appeals in 1983, Governor Rudy Perpich appointed Popovich to be Chief Judge. Perpich elevated him to the Supreme Court in 1987, and named him Chief Justice in 1989. Popovich resigned as Chief Justice in late 1990, having reached mandatory retirement age. Following his retirement from the Supreme Court, Popovich joined the Minneapolis law firm of Briggs & Morgan. He died in early 1996 at the age of 75."
+}, {
+  "entityIndex" : "30_entity361",
+  "entityUrl" : "http://dbpedia.org/resource/Ann_C._Whitman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/Dwight_D._Eisenhower" ]
+  },
+  "words" : [ "Ann", "June", "New", "Company", "-LRB-", "Mrs.", "York", "Roebuck", "moved", "father", "United", "official", "Whitman", "C.", "founders", "years", "October", "Perry", "secretary", "native", "1991", "11", "--", "attended", "obtain", "15", "Fruit", "briefly", "work", "1908", "one", "personal", ",", "Antioch", "many", "whose", ".", "Edmund", "Sears", "1941", "-RRB-", "College", "1929", "David", "Levy", "Ohio", "S.", "married" ],
+  "adjectives" : [ "personal", "many" ],
+  "nouns" : [ "secretary", "native", "work", "father", "official" ],
+  "text" : "Ann C. Whitman (June 11, 1908 – October 15, 1991) was a native of Perry, Ohio. She briefly attended Antioch College in Ohio and then moved to New York in 1929 to obtain work as a secretary. For many years she was the personal secretary to Mrs. David Levy, whose father was one of the founders of Sears, Roebuck and Company. In 1941 she married Edmund S. Whitman, an official of the United Fruit Company. In 1952, while working as a secretary in the New York office of the Crusade for Freedom, Mrs. Whitman was recruited by Dwight D. Eisenhower’s presidential campaign staff. She went to Eisenhower’s headquarters at Denver, Colorado where she became Eisenhower’s personal secretary. After Eisenhower was elected president, Mrs. Whitman accompanied him to Washington, D.C., and served as his personal secretary the entire eight years of his presidency. She helped manage Eisenhower’s correspondence and was responsible for maintaining Eisenhower’s personal files which he kept in his office at the White House. When President Eisenhower left office in January 1961, Mrs. Whitman accompanied him to his farm (now the Eisenhower National Historic Site) in Gettysburg, Pennsylvania and continued to work for a few months as his personal secretary. She later joined the staff of New York Governor and later Vice President Nelson Rockefeller, for whom she worked until she retired in 1977. A biography of Whitman, entitled Confidential Secretary, was written by journalist Robert Donovan in 1988."
+}, {
+  "entityIndex" : "31_entity664",
+  "entityUrl" : "http://dbpedia.org/resource/Ashley_Estes_Kavanaugh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:appointed" : [ "http://dbpedia.org/resource/George_W._Bush" ]
+  },
+  "words" : [ "-LRB-", "Secretary", "United", "Appeals", "née", "Lady", "Presidential", "Court", "States", "President", "1996", "George", "previously", "2004", "Estes", "Bush", "federal", "First", "wedding", "judge", "US", "tenure", "Georgetown", "attended", "Brett", "Personal", "assistant", "2000", "D.C.", "Circuit", "'s", ",", ".", "Governor", "Bush-Cheney", "Texas", "ceremony", "served", "W.", "-RRB-", "campaign", "Ashley", "Kavanaugh", "since" ],
+  "adjectives" : [ "federal", "First" ],
+  "nouns" : [ "Governor", "ceremony", "assistant", "campaign", "née", "wedding", "judge", "tenure", "Lady" ],
+  "text" : "Ashley Estes Kavanaugh served as Personal Secretary to the President for US President George W. Bush between 2000 and 2004. She had previously served since 1996 as an assistant for Bush during the Bush-Cheney Presidential campaign and his tenure as Governor of Texas. Both President Bush and the then First Lady attended Kavanaugh's (née Estes) wedding ceremony to Brett Kavanaugh, a federal judge on the United States Court of Appeals for the D.C. Circuit, in Georgetown."
+} ]

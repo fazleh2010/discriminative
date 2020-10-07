@@ -234,7 +234,7 @@ public class FileFolderUtils {
         String str = "";
             
         for (EntityResults entities : entityResults) {
-            String entityLine = "id=" + entities.getObjectIndex() + "  " + "property=" + entities.getProperty() + "  " + "object=" + entities.getKB() + "  " + "NumberOfEntitiesFoundForObject=" + entities.getNumberOfEntitiesFoundInObject() + "\n";
+            String entityLine = "id=" + entities.getObjectIndex() + "  " + "property=" + entities.getProperty() + "  " + "object=" + entities.getKB() + "  " + "NumberOfEntitiesFoundForObject=" + entities.getNumberOfEntitiesFoundInObject()+ "\n"; //+" "+"#the data within bracket is different way of counting confidence and lift"+ "\n";
             String wordSum = "";
             for (WordResult wordResults : entities.getDistributions()) {
                 String multiply = "multiply=" + wordResults.getMultiple();
@@ -244,10 +244,10 @@ public class FileFolderUtils {
                     String line = rule + "=" + String.valueOf(value) + "  ";
                     probabilty += line;
                 }
-                String lift="Lift="+wordResults.getLift();
+                String liftAndConfidence="Lift="+wordResults.getLift()+" "+"{Confidence"+ " "+"word="+wordResults.getConfidenceWord()+" object="+wordResults.getConfidenceObject()+" ="+wordResults.getConfidenceObjectAndKB()+" "+"Lift="+wordResults.getOtherLift()+"}";
                 //temporarily lift value made null, since we are not sure about the Lift calculation
-                lift="";
-                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+lift+"\n";
+                //lift="";
+                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+liftAndConfidence+"\n";
                 wordSum += wordline;
             }
             entityLine = entityLine + wordSum + "\n";

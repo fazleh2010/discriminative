@@ -1,0 +1,14 @@
+id=380  property=dbp:rows  object=2  NumberOfEntitiesFoundForObject=81
+member-NN  multiply=0.483768  P(member|object)=0.567901  P(object|member)=0.851852    Lift=0.010517 {Confidence word=0.9 object=0.6 =0.511111 Lift=0.946502}
+legislative-JJ  multiply=0.471661  P(legislative|object)=0.506173  P(object|legislative)=0.931818    Lift=0.011504 {Confidence word=0.9 object=0.488889 =0.455556 Lift=1.035354}
+australian-JJ  multiply=0.44709  P(australian|object)=0.481481  P(object|australian)=0.928571    Lift=0.011464 {Confidence word=0.9 object=0.466667 =0.433333 Lift=1.031746}
+assembly-NN  multiply=0.408742  P(assembly|object)=0.432099  P(object|assembly)=0.945946    Lift=0.011678 {Confidence word=0.9 object=0.411111 =0.388889 Lift=1.051051}
+government-NN  multiply=0.3  P(government|object)=0.333333  P(object|government)=0.9    Lift=0.011111 {Confidence word=0.9 object=0.333333 =0.3 Lift=1.0}
+state-NN  multiply=0.28578  P(state|object)=0.308642  P(object|state)=0.925926    Lift=0.011431 {Confidence word=0.9 object=0.3 =0.277778 Lift=1.028807}
+election-NN  multiply=0.261235  P(election|object)=0.283951  P(object|election)=0.92    Lift=0.011358 {Confidence word=0.9 object=0.277778 =0.255556 Lift=1.022222}
+former-JJ  multiply=0.247475  P(former|object)=0.259259  P(object|former)=0.954545    Lift=0.011785 {Confidence word=0.9 object=0.244444 =0.233333 Lift=1.060606}
+first-JJ  multiply=0.234568  P(first|object)=0.234568  P(object|first)=1.0    Lift=0.012346 {Confidence word=0.9 object=0.211111 =0.211111 Lift=1.111111}
+governor-NN  multiply=0.161317  P(governor|object)=0.17284  P(object|governor)=0.933333    Lift=0.011523 {Confidence word=0.9 object=0.166667 =0.155556 Lift=1.037037}
+american-JJ  multiply=0.135802  P(american|object)=0.135802  P(object|american)=1.0    Lift=0.012346 {Confidence word=0.9 object=0.122222 =0.122222 Lift=1.111111}
+second-JJ  multiply=0.124486  P(second|object)=0.135802  P(object|second)=0.916667    Lift=0.011317 {Confidence word=0.9 object=0.133333 =0.122222 Lift=1.018519}
+

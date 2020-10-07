@@ -1,17 +1,60 @@
-id=70  property=dbp:year  object=2006  NumberOfEntitiesFoundForObject=73
-member-NN  multiply=0.6215119229  P(member|object)=0.9589041096  P(object|member)=0.6481481481    
-lok-NN  multiply=0.6210045662  P(lok|object)=0.9315068493  P(object|lok)=0.6666666667    
-14th-JJ  multiply=0.6052303861  P(14th|object)=0.7397260274  P(object|14th)=0.8181818182    
-sabha-NN  multiply=0.5919856612  P(sabha|object)=0.9315068493  P(object|sabha)=0.6355140187    
-indian-JJ  multiply=0.4652364952  P(indian|object)=0.8219178082  P(object|indian)=0.5660377358    
-party-NN  multiply=0.3813987022  P(party|object)=0.6301369863  P(object|party)=0.6052631579    
-political-JJ  multiply=0.3717597471  P(political|object)=0.5753424658  P(object|political)=0.6461538462    
-15th-JJ  multiply=0.1232876712  P(15th|object)=0.1643835616  P(object|15th)=0.75    
-politician-NN  multiply=0.1033858878  P(politician|object)=0.2739726027  P(object|politician)=0.3773584906    
-candidate-NN  multiply=0.0920852359  P(candidate|object)=0.1506849315  P(object|candidate)=0.6111111111    
-former-JJ  multiply=0.0720980534  P(former|object)=0.1369863014  P(object|former)=0.5263157895    
-state-NN  multiply=0.0428082192  P(state|object)=0.1369863014  P(object|state)=0.3125    
-assembly-NN  multiply=0.0305105853  P(assembly|object)=0.095890411  P(object|assembly)=0.3181818182    
-leader-NN  multiply=0.0263435195  P(leader|object)=0.0684931507  P(object|leader)=0.3846153846    
-legislative-JJ  multiply=0.0190258752  P(legislative|object)=0.0684931507  P(object|legislative)=0.2777777778    
+id=464  property=dbp:year  object=2009  NumberOfEntitiesFoundForObject=12
+former-JJ  multiply=0.109649  P(former|object)=0.416667  P(object|former)=0.263158    Lift=0.02193 {Confidence word=0.091603 object=0.145038 =0.038168 Lift=2.872807}
+indian-JJ  multiply=0.063679  P(indian|object)=0.75  P(object|indian)=0.084906    Lift=0.007075 {Confidence word=0.091603 object=0.80916 =0.068702 Lift=0.926887}
+assembly-NN  multiply=0.060606  P(assembly|object)=0.333333  P(object|assembly)=0.181818    Lift=0.015152 {Confidence word=0.091603 object=0.167939 =0.030534 Lift=1.984848}
+leader-NN  multiply=0.057692  P(leader|object)=0.25  P(object|leader)=0.230769    Lift=0.019231 {Confidence word=0.091603 object=0.099237 =0.022901 Lift=2.519231}
+politician-NN  multiply=0.056604  P(politician|object)=0.5  P(object|politician)=0.113208    Lift=0.009434 {Confidence word=0.091603 object=0.40458 =0.045802 Lift=1.235849}
+15th-JJ  multiply=0.046875  P(15th|object)=0.25  P(object|15th)=0.1875    Lift=0.015625 {Confidence word=0.091603 object=0.122137 =0.022901 Lift=2.046875}
+member-NN  multiply=0.037809  P(member|object)=0.583333  P(object|member)=0.064815    Lift=0.005401 {Confidence word=0.091603 object=0.824427 =0.053435 Lift=0.707562}
+lok-NN  multiply=0.029412  P(lok|object)=0.5  P(object|lok)=0.058824    Lift=0.004902 {Confidence word=0.091603 object=0.778626 =0.045802 Lift=0.642157}
+sabha-NN  multiply=0.028037  P(sabha|object)=0.5  P(object|sabha)=0.056075    Lift=0.004673 {Confidence word=0.091603 object=0.816794 =0.045802 Lift=0.61215}
+state-NN  multiply=0.023438  P(state|object)=0.25  P(object|state)=0.09375    Lift=0.007812 {Confidence word=0.091603 object=0.244275 =0.022901 Lift=1.023438}
+political-JJ  multiply=0.020513  P(political|object)=0.333333  P(object|political)=0.061538    Lift=0.005128 {Confidence word=0.091603 object=0.496183 =0.030534 Lift=0.671795}
+legislative-JJ  multiply=0.018519  P(legislative|object)=0.166667  P(object|legislative)=0.111111    Lift=0.009259 {Confidence word=0.091603 object=0.137405 =0.015267 Lift=1.212963}
+party-NN  multiply=0.017544  P(party|object)=0.333333  P(object|party)=0.052632    Lift=0.004386 {Confidence word=0.091603 object=0.580153 =0.030534 Lift=0.574561}
+14th-JJ  multiply=0.011364  P(14th|object)=0.25  P(object|14th)=0.045455    Lift=0.003788 {Confidence word=0.091603 object=0.503817 =0.022901 Lift=0.496212}
+
+id=465  property=dbp:year  object=2006  NumberOfEntitiesFoundForObject=73
+member-NN  multiply=0.621512  P(member|object)=0.958904  P(object|member)=0.648148    Lift=0.008879 {Confidence word=0.557252 object=0.824427 =0.534351 Lift=1.163115}
+lok-NN  multiply=0.621005  P(lok|object)=0.931507  P(object|lok)=0.666667    Lift=0.009132 {Confidence word=0.557252 object=0.778626 =0.519084 Lift=1.196347}
+14th-JJ  multiply=0.60523  P(14th|object)=0.739726  P(object|14th)=0.818182    Lift=0.011208 {Confidence word=0.557252 object=0.503817 =0.412214 Lift=1.468244}
+sabha-NN  multiply=0.591986  P(sabha|object)=0.931507  P(object|sabha)=0.635514    Lift=0.008706 {Confidence word=0.557252 object=0.816794 =0.519084 Lift=1.140443}
+indian-JJ  multiply=0.465236  P(indian|object)=0.821918  P(object|indian)=0.566038    Lift=0.007754 {Confidence word=0.557252 object=0.80916 =0.458015 Lift=1.015766}
+party-NN  multiply=0.381399  P(party|object)=0.630137  P(object|party)=0.605263    Lift=0.008291 {Confidence word=0.557252 object=0.580153 =0.351145 Lift=1.086157}
+political-JJ  multiply=0.37176  P(political|object)=0.575342  P(object|political)=0.646154    Lift=0.008851 {Confidence word=0.557252 object=0.496183 =0.320611 Lift=1.159536}
+15th-JJ  multiply=0.123288  P(15th|object)=0.164384  P(object|15th)=0.75    Lift=0.010274 {Confidence word=0.557252 object=0.122137 =0.091603 Lift=1.34589}
+politician-NN  multiply=0.103386  P(politician|object)=0.273973  P(object|politician)=0.377358    Lift=0.005169 {Confidence word=0.557252 object=0.40458 =0.152672 Lift=0.677178}
+candidate-NN  multiply=0.092085  P(candidate|object)=0.150685  P(object|candidate)=0.611111    Lift=0.008371 {Confidence word=0.557252 object=0.137405 =0.083969 Lift=1.096651}
+former-JJ  multiply=0.072098  P(former|object)=0.136986  P(object|former)=0.526316    Lift=0.00721 {Confidence word=0.557252 object=0.145038 =0.076336 Lift=0.944484}
+state-NN  multiply=0.042808  P(state|object)=0.136986  P(object|state)=0.3125    Lift=0.004281 {Confidence word=0.557252 object=0.244275 =0.076336 Lift=0.560788}
+assembly-NN  multiply=0.030511  P(assembly|object)=0.09589  P(object|assembly)=0.318182    Lift=0.004359 {Confidence word=0.557252 object=0.167939 =0.053435 Lift=0.570984}
+leader-NN  multiply=0.026344  P(leader|object)=0.068493  P(object|leader)=0.384615    Lift=0.005269 {Confidence word=0.557252 object=0.099237 =0.038168 Lift=0.6902}
+legislative-JJ  multiply=0.019026  P(legislative|object)=0.068493  P(object|legislative)=0.277778    Lift=0.003805 {Confidence word=0.557252 object=0.137405 =0.038168 Lift=0.498478}
+
+id=466  property=dbp:year  object=2014  NumberOfEntitiesFoundForObject=10
+state-NN  multiply=0.153125  P(state|object)=0.7  P(object|state)=0.21875    Lift=0.021875 {Confidence word=0.076336 object=0.244275 =0.053435 Lift=2.865625}
+politician-NN  multiply=0.120755  P(politician|object)=0.8  P(object|politician)=0.150943    Lift=0.015094 {Confidence word=0.076336 object=0.40458 =0.061069 Lift=1.977358}
+indian-JJ  multiply=0.076415  P(indian|object)=0.9  P(object|indian)=0.084906    Lift=0.008491 {Confidence word=0.076336 object=0.80916 =0.068702 Lift=1.112264}
+sabha-NN  multiply=0.059813  P(sabha|object)=0.8  P(object|sabha)=0.074766    Lift=0.007477 {Confidence word=0.076336 object=0.816794 =0.061069 Lift=0.979439}
+legislative-JJ  multiply=0.05  P(legislative|object)=0.3  P(object|legislative)=0.166667    Lift=0.016667 {Confidence word=0.076336 object=0.137405 =0.022901 Lift=2.183333}
+candidate-NN  multiply=0.05  P(candidate|object)=0.3  P(object|candidate)=0.166667    Lift=0.016667 {Confidence word=0.076336 object=0.137405 =0.022901 Lift=2.183333}
+member-NN  multiply=0.04537  P(member|object)=0.7  P(object|member)=0.064815    Lift=0.006481 {Confidence word=0.076336 object=0.824427 =0.053435 Lift=0.849074}
+assembly-NN  multiply=0.040909  P(assembly|object)=0.3  P(object|assembly)=0.136364    Lift=0.013636 {Confidence word=0.076336 object=0.167939 =0.022901 Lift=1.786364}
+lok-NN  multiply=0.035294  P(lok|object)=0.6  P(object|lok)=0.058824    Lift=0.005882 {Confidence word=0.076336 object=0.778626 =0.045802 Lift=0.770588}
+leader-NN  multiply=0.030769  P(leader|object)=0.2  P(object|leader)=0.153846    Lift=0.015385 {Confidence word=0.076336 object=0.099237 =0.015267 Lift=2.015385}
+political-JJ  multiply=0.024615  P(political|object)=0.4  P(object|political)=0.061538    Lift=0.006154 {Confidence word=0.076336 object=0.496183 =0.030534 Lift=0.806154}
+party-NN  multiply=0.021053  P(party|object)=0.4  P(object|party)=0.052632    Lift=0.005263 {Confidence word=0.076336 object=0.580153 =0.030534 Lift=0.689474}
+14th-JJ  multiply=0.013636  P(14th|object)=0.3  P(object|14th)=0.045455    Lift=0.004545 {Confidence word=0.076336 object=0.503817 =0.022901 Lift=0.595455}
+
+id=467  property=dbp:year  object=2012  NumberOfEntitiesFoundForObject=16
+lok-NN  multiply=0.137868  P(lok|object)=0.9375  P(object|lok)=0.147059    Lift=0.009191 {Confidence word=0.122137 object=0.778626 =0.114504 Lift=1.204044}
+sabha-NN  multiply=0.131425  P(sabha|object)=0.9375  P(object|sabha)=0.140187    Lift=0.008762 {Confidence word=0.122137 object=0.816794 =0.114504 Lift=1.14778}
+political-JJ  multiply=0.116346  P(political|object)=0.6875  P(object|political)=0.169231    Lift=0.010577 {Confidence word=0.122137 object=0.496183 =0.083969 Lift=1.385577}
+indian-JJ  multiply=0.115566  P(indian|object)=0.875  P(object|indian)=0.132075    Lift=0.008255 {Confidence word=0.122137 object=0.80916 =0.10687 Lift=1.081368}
+party-NN  multiply=0.082237  P(party|object)=0.625  P(object|party)=0.131579    Lift=0.008224 {Confidence word=0.122137 object=0.580153 =0.076336 Lift=1.077303}
+member-NN  multiply=0.070023  P(member|object)=0.6875  P(object|member)=0.101852    Lift=0.006366 {Confidence word=0.122137 object=0.824427 =0.083969 Lift=0.833912}
+politician-NN  multiply=0.057783  P(politician|object)=0.4375  P(object|politician)=0.132075    Lift=0.008255 {Confidence word=0.122137 object=0.40458 =0.053435 Lift=1.081368}
+state-NN  multiply=0.048828  P(state|object)=0.3125  P(object|state)=0.15625    Lift=0.009766 {Confidence word=0.122137 object=0.244275 =0.038168 Lift=1.279297}
+assembly-NN  multiply=0.025568  P(assembly|object)=0.1875  P(object|assembly)=0.136364    Lift=0.008523 {Confidence word=0.122137 object=0.167939 =0.022901 Lift=1.116477}
+legislative-JJ  multiply=0.013889  P(legislative|object)=0.125  P(object|legislative)=0.111111    Lift=0.006944 {Confidence word=0.122137 object=0.137405 =0.015267 Lift=0.909722}
 

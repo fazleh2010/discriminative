@@ -1,13 +1,13 @@
 id=41  property=dbo:nationality  object=http://dbpedia.org/resource/Sweden  NumberOfEntitiesFoundForObject=138
-film-NN  multiply=0.6285109658  P(film|object)=0.7173913043  P(object|film)=0.8761061947    
-actor-NN  multiply=0.5083016744  P(actor|object)=0.615942029  P(object|actor)=0.8252427184    
-actress-NN  multiply=0.4136697084  P(actress|object)=0.4927536232  P(object|actress)=0.8395061728    
-television-NN  multiply=0.265010352  P(television|object)=0.347826087  P(object|television)=0.7619047619    
-role-NN  multiply=0.1994478951  P(role|object)=0.2463768116  P(object|role)=0.8095238095    
-award-NN  multiply=0.1086956522  P(award|object)=0.1086956522  P(object|award)=1.0    
-director-NN  multiply=0.100613155  P(director|object)=0.1376811594  P(object|director)=0.7307692308    
-theatre-NN  multiply=0.0998641304  P(theatre|object)=0.152173913  P(object|theatre)=0.65625    
-series-NN  multiply=0.0913043478  P(series|object)=0.152173913  P(object|series)=0.6    
-stage-NN  multiply=0.0843214756  P(stage|object)=0.115942029  P(object|stage)=0.7272727273    
-singer-NN  multiply=0.0626293996  P(singer|object)=0.0797101449  P(object|singer)=0.7857142857    
+film-NN  multiply=0.628511  P(film|object)=0.717391  P(object|film)=0.876106    Lift=0.006349 {Confidence word=0.826347 object=0.676647 =0.592814 Lift=1.060215}
+actor-NN  multiply=0.508302  P(actor|object)=0.615942  P(object|actor)=0.825243    Lift=0.00598 {Confidence word=0.826347 object=0.616766 =0.508982 Lift=0.998663}
+actress-NN  multiply=0.41367  P(actress|object)=0.492754  P(object|actress)=0.839506    Lift=0.006083 {Confidence word=0.826347 object=0.48503 =0.407186 Lift=1.015924}
+television-NN  multiply=0.26501  P(television|object)=0.347826  P(object|television)=0.761905    Lift=0.005521 {Confidence word=0.826347 object=0.377246 =0.287425 Lift=0.922015}
+role-NN  multiply=0.199448  P(role|object)=0.246377  P(object|role)=0.809524    Lift=0.005866 {Confidence word=0.826347 object=0.251497 =0.203593 Lift=0.979641}
+award-NN  multiply=0.108696  P(award|object)=0.108696  P(object|award)=1.0    Lift=0.007246 {Confidence word=0.826347 object=0.08982 =0.08982 Lift=1.210145}
+director-NN  multiply=0.100613  P(director|object)=0.137681  P(object|director)=0.730769    Lift=0.005295 {Confidence word=0.826347 object=0.155689 =0.113772 Lift=0.884337}
+theatre-NN  multiply=0.099864  P(theatre|object)=0.152174  P(object|theatre)=0.65625    Lift=0.004755 {Confidence word=0.826347 object=0.191617 =0.125749 Lift=0.794158}
+series-NN  multiply=0.091304  P(series|object)=0.152174  P(object|series)=0.6    Lift=0.004348 {Confidence word=0.826347 object=0.209581 =0.125749 Lift=0.726087}
+stage-NN  multiply=0.084321  P(stage|object)=0.115942  P(object|stage)=0.727273    Lift=0.00527 {Confidence word=0.826347 object=0.131737 =0.095808 Lift=0.880105}
+singer-NN  multiply=0.062629  P(singer|object)=0.07971  P(object|singer)=0.785714    Lift=0.005694 {Confidence word=0.826347 object=0.083832 =0.065868 Lift=0.950828}
 

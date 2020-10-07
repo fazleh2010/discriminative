@@ -1,13 +1,25 @@
-id=55  property=dbo:restingPlace  object=http://dbpedia.org/resource/Connecticut  NumberOfEntitiesFoundForObject=62
-session-NN  multiply=0.4284028324  P(session|object)=0.5322580645  P(object|session)=0.8048780488    
-son-NN  multiply=0.2867383513  P(son|object)=0.6451612903  P(object|son)=0.4444444444    
-settler-NN  multiply=0.1720430108  P(settler|object)=0.2580645161  P(object|settler)=0.6666666667    
-founding-JJ  multiply=0.1152073733  P(founding|object)=0.1612903226  P(object|founding)=0.7142857143    
-deputy-JJ  multiply=0.1088709677  P(deputy|object)=0.1451612903  P(object|deputy)=0.75    
-12th-JJ  multiply=0.1088709677  P(12th|object)=0.1451612903  P(object|12th)=0.75    
-brother-NN  multiply=0.0362903226  P(brother|object)=0.0967741935  P(object|brother)=0.375    
-mayor-NN  multiply=0.0312805474  P(mayor|object)=0.1290322581  P(object|mayor)=0.2424242424    
-assembly-NN  multiply=0.025177026  P(assembly|object)=0.1290322581  P(object|assembly)=0.1951219512    
-american-JJ  multiply=0.0212224109  P(american|object)=0.0806451613  P(object|american)=0.2631578947    
-president-NN  multiply=0.0149342891  P(president|object)=0.0806451613  P(object|president)=0.1851851852    
+id=339  property=dbo:restingPlace  object=http://dbpedia.org/resource/California  NumberOfEntitiesFoundForObject=14
+body-NN  multiply=0.857143  P(body|object)=0.857143  P(object|body)=1.0    Lift=0.071429 {Confidence word=0.080925 object=0.069364 =0.069364 Lift=12.357143}
+president-NN  multiply=0.380952  P(president|object)=0.857143  P(object|president)=0.444444    Lift=0.031746 {Confidence word=0.080925 object=0.156069 =0.069364 Lift=5.492063}
+son-NN  multiply=0.079365  P(son|object)=0.714286  P(object|son)=0.111111    Lift=0.007937 {Confidence word=0.080925 object=0.520231 =0.057803 Lift=1.373016}
+mayor-NN  multiply=0.019481  P(mayor|object)=0.214286  P(object|mayor)=0.090909    Lift=0.006494 {Confidence word=0.080925 object=0.190751 =0.017341 Lift=1.123377}
+
+id=340  property=dbo:restingPlace  object=http://dbpedia.org/resource/Connecticut  NumberOfEntitiesFoundForObject=62
+session-NN  multiply=0.428403  P(session|object)=0.532258  P(object|session)=0.804878    Lift=0.012982 {Confidence word=0.358382 object=0.236994 =0.190751 Lift=2.245869}
+son-NN  multiply=0.286738  P(son|object)=0.645161  P(object|son)=0.444444    Lift=0.007168 {Confidence word=0.358382 object=0.520231 =0.231214 Lift=1.240143}
+settler-NN  multiply=0.172043  P(settler|object)=0.258065  P(object|settler)=0.666667    Lift=0.010753 {Confidence word=0.358382 object=0.138728 =0.092486 Lift=1.860215}
+founding-JJ  multiply=0.115207  P(founding|object)=0.16129  P(object|founding)=0.714286    Lift=0.011521 {Confidence word=0.358382 object=0.080925 =0.057803 Lift=1.993088}
+deputy-JJ  multiply=0.108871  P(deputy|object)=0.145161  P(object|deputy)=0.75    Lift=0.012097 {Confidence word=0.358382 object=0.069364 =0.052023 Lift=2.092742}
+12th-JJ  multiply=0.108871  P(12th|object)=0.145161  P(object|12th)=0.75    Lift=0.012097 {Confidence word=0.358382 object=0.069364 =0.052023 Lift=2.092742}
+brother-NN  multiply=0.03629  P(brother|object)=0.096774  P(object|brother)=0.375    Lift=0.006048 {Confidence word=0.358382 object=0.092486 =0.034682 Lift=1.046371}
+mayor-NN  multiply=0.031281  P(mayor|object)=0.129032  P(object|mayor)=0.242424    Lift=0.00391 {Confidence word=0.358382 object=0.190751 =0.046243 Lift=0.676442}
+assembly-NN  multiply=0.025177  P(assembly|object)=0.129032  P(object|assembly)=0.195122    Lift=0.003147 {Confidence word=0.358382 object=0.236994 =0.046243 Lift=0.544453}
+american-JJ  multiply=0.021222  P(american|object)=0.080645  P(object|american)=0.263158    Lift=0.004244 {Confidence word=0.358382 object=0.109827 =0.028902 Lift=0.734295}
+president-NN  multiply=0.014934  P(president|object)=0.080645  P(object|president)=0.185185    Lift=0.002987 {Confidence word=0.358382 object=0.156069 =0.028902 Lift=0.516726}
+
+id=341  property=dbo:restingPlace  object=http://dbpedia.org/resource/Toowong_Cemetery  NumberOfEntitiesFoundForObject=12
+legislative-JJ  multiply=0.375  P(legislative|object)=1.0  P(object|legislative)=0.375    Lift=0.03125 {Confidence word=0.069364 object=0.184971 =0.069364 Lift=5.40625}
+assembly-NN  multiply=0.245935  P(assembly|object)=0.916667  P(object|assembly)=0.268293    Lift=0.022358 {Confidence word=0.069364 object=0.236994 =0.063584 Lift=3.867886}
+politician-NN  multiply=0.218182  P(politician|object)=1.0  P(object|politician)=0.218182    Lift=0.018182 {Confidence word=0.069364 object=0.317919 =0.069364 Lift=3.145455}
+australian-JJ  multiply=0.213333  P(australian|object)=0.666667  P(object|australian)=0.32    Lift=0.026667 {Confidence word=0.069364 object=0.144509 =0.046243 Lift=4.613333}
 

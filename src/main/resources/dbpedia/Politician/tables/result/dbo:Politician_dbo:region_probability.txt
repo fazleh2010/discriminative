@@ -1,0 +1,65 @@
+id=413  property=dbo:region  object=http://dbpedia.org/resource/Edmonton_(provincial_electoral_district)  NumberOfEntitiesFoundForObject=14
+opposition-NN  multiply=0.063707  P(opposition|object)=0.785714  P(object|opposition)=0.081081    Lift=0.005309 {Confidence word=0.007756 object=0.076525 =0.006205 Lift=10.454054}
+caucus-NN  multiply=0.051095  P(caucus|object)=1.0  P(object|caucus)=0.051095    Lift=0.00365 {Confidence word=0.007756 object=0.141675 =0.007239 Lift=6.587835}
+position-NN  multiply=0.04064  P(position|object)=0.785714  P(object|position)=0.051724    Lift=0.003387 {Confidence word=0.007756 object=0.119959 =0.006205 Lift=6.668966}
+provincial-JJ  multiply=0.026263  P(provincial|object)=0.785714  P(object|provincial)=0.033426    Lift=0.002189 {Confidence word=0.007756 object=0.185626 =0.006205 Lift=4.309749}
+province-NN  multiply=0.025974  P(province|object)=0.214286  P(object|province)=0.121212    Lift=0.006494 {Confidence word=0.007756 object=0.017063 =0.002068 Lift=15.628283}
+judge-NN  multiply=0.021429  P(judge|object)=0.214286  P(object|judge)=0.1    Lift=0.007143 {Confidence word=0.007756 object=0.015512 =0.001551 Lift=12.893333}
+legislative-JJ  multiply=0.014896  P(legislative|object)=1.0  P(object|legislative)=0.014896    Lift=9.93E-4 {Confidence word=0.007756 object=0.520683 =0.007756 Lift=1.920556}
+assembly-NN  multiply=0.013204  P(assembly|object)=1.0  P(object|assembly)=0.013204    Lift=8.8E-4 {Confidence word=0.007756 object=0.587384 =0.007756 Lift=1.702465}
+liberal-JJ  multiply=0.010676  P(liberal|object)=0.428571  P(object|liberal)=0.024911    Lift=0.001525 {Confidence word=0.007756 object=0.145295 =0.003619 Lift=3.211862}
+
+id=414  property=dbo:region  object=http://dbpedia.org/resource/Jersey  NumberOfEntitiesFoundForObject=10
+chairman-NN  multiply=0.017582  P(chairman|object)=0.4  P(object|chairman)=0.043956    Lift=0.004396 {Confidence word=0.005688 object=0.047053 =0.002068 Lift=7.728272}
+business-NN  multiply=0.012403  P(business|object)=0.4  P(object|business)=0.031008    Lift=0.003101 {Confidence word=0.005688 object=0.066701 =0.002068 Lift=5.451727}
+deputy-JJ  multiply=0.010084  P(deputy|object)=0.3  P(object|deputy)=0.033613    Lift=0.002521 {Confidence word=0.005688 object=0.061531 =0.002068 Lift=5.909855}
+
+id=415  property=dbo:region  object=http://dbpedia.org/resource/Montgomery_County,_Maryland  NumberOfEntitiesFoundForObject=11
+american-JJ  multiply=0.03174  P(american|object)=0.818182  P(object|american)=0.038793    Lift=0.003527 {Confidence word=0.005688 object=0.119959 =0.004654 Lift=6.820533}
+district-NN  multiply=0.022502  P(district|object)=0.909091  P(object|district)=0.024752    Lift=0.00225 {Confidence word=0.005688 object=0.208893 =0.005171 Lift=4.351935}
+democratic-JJ  multiply=0.022273  P(democratic|object)=0.636364  P(object|democratic)=0.035    Lift=0.003182 {Confidence word=0.005688 object=0.103413 =0.003619 Lift=6.153636}
+term-NN  multiply=0.019251  P(term|object)=0.545455  P(object|term)=0.035294    Lift=0.003209 {Confidence word=0.005688 object=0.087901 =0.003102 Lift=6.205348}
+degree-NN  multiply=0.01461  P(degree|object)=0.272727  P(object|degree)=0.053571    Lift=0.00487 {Confidence word=0.005688 object=0.028956 =0.001551 Lift=9.418831}
+house-NN  multiply=0.013664  P(house|object)=0.636364  P(object|house)=0.021472    Lift=0.001952 {Confidence word=0.005688 object=0.168563 =0.003619 Lift=3.775237}
+current-JJ  multiply=0.010243  P(current|object)=0.363636  P(object|current)=0.028169    Lift=0.002561 {Confidence word=0.005688 object=0.073423 =0.002068 Lift=4.952625}
+
+id=416  property=dbo:region  object=http://dbpedia.org/resource/Oregon  NumberOfEntitiesFoundForObject=21
+state-NN  multiply=0.042783  P(state|object)=0.952381  P(object|state)=0.044922    Lift=0.00186 {Confidence word=0.01241 object=0.264736 =0.011892 Lift=3.619954}
+republican-JJ  multiply=0.040293  P(republican|object)=0.47619  P(object|republican)=0.084615    Lift=0.003663 {Confidence word=0.01241 object=0.067218 =0.005688 Lift=6.81859}
+house-NN  multiply=0.028484  P(house|object)=0.619048  P(object|house)=0.046012    Lift=0.001899 {Confidence word=0.01241 object=0.168563 =0.007756 Lift=3.707822}
+public-JJ  multiply=0.026862  P(public|object)=0.52381  P(object|public)=0.051282    Lift=0.002239 {Confidence word=0.01241 object=0.120993 =0.006205 Lift=4.132479}
+district-NN  multiply=0.021452  P(district|object)=0.619048  P(object|district)=0.034653    Lift=0.001532 {Confidence word=0.01241 object=0.208893 =0.007239 Lift=2.792492}
+democratic-JJ  multiply=0.021429  P(democratic|object)=0.428571  P(object|democratic)=0.05    Lift=0.002143 {Confidence word=0.01241 object=0.103413 =0.005171 Lift=4.029167}
+american-JJ  multiply=0.01642  P(american|object)=0.380952  P(object|american)=0.043103    Lift=0.001642 {Confidence word=0.01241 object=0.119959 =0.005171 Lift=3.47342}
+bachelor-NN  multiply=0.015549  P(bachelor|object)=0.190476  P(object|bachelor)=0.081633    Lift=0.003887 {Confidence word=0.01241 object=0.025336 =0.002068 Lift=6.578231}
+degree-NN  multiply=0.013605  P(degree|object)=0.190476  P(object|degree)=0.071429    Lift=0.003401 {Confidence word=0.01241 object=0.028956 =0.002068 Lift=5.755952}
+current-JJ  multiply=0.012072  P(current|object)=0.285714  P(object|current)=0.042254    Lift=0.002012 {Confidence word=0.01241 object=0.073423 =0.003102 Lift=3.40493}
+
+id=417  property=dbo:region  object=http://dbpedia.org/resource/Washington_County,_Oregon  NumberOfEntitiesFoundForObject=16
+native-JJ  multiply=0.185096  P(native|object)=0.6875  P(object|native)=0.269231    Lift=0.013221 {Confidence word=0.009824 object=0.026887 =0.007239 Lift=27.404858}
+republican-JJ  multiply=0.033654  P(republican|object)=0.4375  P(object|republican)=0.076923    Lift=0.003365 {Confidence word=0.009824 object=0.067218 =0.005171 Lift=7.82996}
+american-JJ  multiply=0.032328  P(american|object)=0.625  P(object|american)=0.051724    Lift=0.002694 {Confidence word=0.009824 object=0.119959 =0.006205 Lift=5.264973}
+state-NN  multiply=0.025391  P(state|object)=0.8125  P(object|state)=0.03125    Lift=0.001587 {Confidence word=0.009824 object=0.264736 =0.008273 Lift=3.180921}
+public-JJ  multiply=0.023504  P(public|object)=0.5  P(object|public)=0.047009    Lift=0.002137 {Confidence word=0.009824 object=0.120993 =0.005688 Lift=4.784975}
+house-NN  multiply=0.023198  P(house|object)=0.6875  P(object|house)=0.033742    Lift=0.002109 {Confidence word=0.009824 object=0.168563 =0.005688 Lift=3.434614}
+legislature-NN  multiply=0.020833  P(legislature|object)=0.3125  P(object|legislature)=0.066667    Lift=0.003472 {Confidence word=0.009824 object=0.046536 =0.003102 Lift=6.785965}
+teacher-NN  multiply=0.011905  P(teacher|object)=0.1875  P(object|teacher)=0.063492    Lift=0.002976 {Confidence word=0.009824 object=0.032575 =0.002068 Lift=6.462824}
+mayor-NN  multiply=0.011719  P(mayor|object)=0.25  P(object|mayor)=0.046875    Lift=0.001953 {Confidence word=0.009824 object=0.066184 =0.003102 Lift=4.771382}
+
+id=418  property=dbo:region  object=http://dbpedia.org/resource/Virginia  NumberOfEntitiesFoundForObject=10
+lawyer-NN  multiply=0.031646  P(lawyer|object)=0.5  P(object|lawyer)=0.063291    Lift=0.006329 {Confidence word=0.005171 object=0.040848 =0.002585 Lift=12.240506}
+democratic-JJ  multiply=0.0245  P(democratic|object)=0.7  P(object|democratic)=0.035    Lift=0.0035 {Confidence word=0.005171 object=0.103413 =0.003619 Lift=6.769}
+american-JJ  multiply=0.021121  P(american|object)=0.7  P(object|american)=0.030172    Lift=0.003017 {Confidence word=0.005171 object=0.119959 =0.003619 Lift=5.835345}
+law-NN  multiply=0.015152  P(law|object)=0.5  P(object|law)=0.030303    Lift=0.00303 {Confidence word=0.005171 object=0.085315 =0.002585 Lift=5.860606}
+
+id=419  property=dbo:region  object=http://dbpedia.org/resource/Multnomah_County,_Oregon  NumberOfEntitiesFoundForObject=10
+native-JJ  multiply=0.080769  P(native|object)=0.6  P(object|native)=0.134615    Lift=0.011538 {Confidence word=0.006722 object=0.026887 =0.003619 Lift=20.026627}
+public-JJ  multiply=0.034188  P(public|object)=0.8  P(object|public)=0.042735    Lift=0.003419 {Confidence word=0.006722 object=0.120993 =0.005171 Lift=6.357659}
+republican-JJ  multiply=0.032308  P(republican|object)=0.6  P(object|republican)=0.053846    Lift=0.004615 {Confidence word=0.006722 object=0.067218 =0.003619 Lift=8.010651}
+state-NN  multiply=0.025391  P(state|object)=1.0  P(object|state)=0.025391    Lift=0.001953 {Confidence word=0.006722 object=0.264736 =0.006722 Lift=3.777344}
+term-NN  multiply=0.017647  P(term|object)=0.5  P(object|term)=0.035294    Lift=0.002941 {Confidence word=0.006722 object=0.087901 =0.003102 Lift=5.250679}
+early-JJ  multiply=0.017308  P(early|object)=0.3  P(object|early)=0.057692    Lift=0.005769 {Confidence word=0.006722 object=0.026887 =0.001551 Lift=8.58284}
+mayor-NN  multiply=0.015625  P(mayor|object)=0.4  P(object|mayor)=0.039062    Lift=0.003125 {Confidence word=0.006722 object=0.066184 =0.002585 Lift=5.811298}
+several-JJ  multiply=0.015  P(several|object)=0.2  P(object|several)=0.075    Lift=0.005 {Confidence word=0.006722 object=0.020683 =0.001551 Lift=11.157692}
+american-JJ  multiply=0.012069  P(american|object)=0.4  P(object|american)=0.030172    Lift=0.001724 {Confidence word=0.006722 object=0.119959 =0.003619 Lift=4.488727}
+

@@ -1,0 +1,45 @@
+[ {
+  "entityIndex" : "1_entity1453",
+  "entityUrl" : "http://dbpedia.org/resource/Claire_Moore",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "Mary Moore" ]
+  },
+  "words" : [ "Claire", "confused", "Moore", "see", "-LRB-", "singer", "-RRB-", "Clare", ",", "." ],
+  "adjectives" : [ ],
+  "nouns" : [ "singer" ],
+  "text" : "(For the singer, see Claire Moore (singer).)(Not to be confused with Clare Moore.)"
+}, {
+  "entityIndex" : "2_entity1227",
+  "entityUrl" : "http://dbpedia.org/resource/Balram_Naik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "Lakshmi" ]
+  },
+  "words" : [ "Congress", "June", "Lower", "-LRB-", "political", "15th", "Naik", "Sabha", "known", "National", "member", "born", "politician", "Lok", "House", ",", ".", "India", "1964", "6", "Balram", "-RRB-", "Porika", "Indian", "party", "Parliament" ],
+  "adjectives" : [ "Indian", "political", "15th" ],
+  "nouns" : [ "politician", "member", "party" ],
+  "text" : "Porika Naik Balram known as Balram Naik (born 6 June 1964) is an Indian politician and a member of the Indian National Congress political party. He was a member of the 15th Lok Sabha, Lower House of the Parliament of India."
+}, {
+  "entityIndex" : "3_entity10308",
+  "entityUrl" : "http://dbpedia.org/resource/S._R._Subramania_Adityan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "R. Babu Sundaram Ammal" ]
+  },
+  "words" : [ "Subramania", "Nadu", "Munnetra", "Chair", "Kabodi", "Tiruchendur", "Sri", "1982-1987", "legislative", "President", "candidate", "Association", "post", "Presently", "assembly", "Nadar", "R.", "Dravida", "Anna", "Thoothukudi", "Amateur", "election", "politician", "Devasthanam", ",", "former", "Tamil", ".", "Thakshina", "Adityan", "elected", "Swami", "twice", "1984", "constituency", "Maara", "Indian", "S.", "Kazhagam", "Person", "Takkar", "Sangam" ],
+  "adjectives" : [ "Amateur", "Indian", "former", "legislative" ],
+  "nouns" : [ "candidate", "election", "constituency", "post", "politician", "assembly", "Person" ],
+  "text" : "S. R. Subramania Adityan is a former Indian politician, elected to the Tamil Nadu legislative assembly as an Anna Dravida Munnetra Kazhagam candidate from Tiruchendur constituency in 1984 election, was then twice Takkar of Tiruchendur Sri Subramania Swami Devasthanam during 1982-1987. Presently he is the President of Thakshina Maara Nadar Sangam and post of Chair Person of Thoothukudi Amateur Kabodi Association."
+}, {
+  "entityIndex" : "4_entity3605",
+  "entityUrl" : "http://dbpedia.org/resource/Ganesh_Prasad_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:mother" : [ "Rampati Devi" ]
+  },
+  "words" : [ "Prasad", "14th", "Jahanabad", "Bihar", "-LRB-", "refugees", "political", "best", "RJD", "durable", "Sabha", "view", "solution", "member", "voluntary", "Singh", "represented", "specifically", "July", "case", "repatriation", "Janata", "born", "Lok", "Afghan", ",", ".", "Dal", "India", "1", "Ganesh", "constituency", "Rashtriya", "-RRB-", "1947", "party", "supported" ],
+  "adjectives" : [ "14th", "durable", "political", "voluntary" ],
+  "nouns" : [ "repatriation", "Sabha", "view", "constituency", "solution", "member", "Lok", "party", "case" ],
+  "text" : "Ganesh Prasad Singh (born 1 July 1947) was a member of the 14th Lok Sabha of India. He represented the Jahanabad constituency of Bihar and is a member of the Rashtriya Janata Dal (RJD) political party. He has supported the view that voluntary repatriation of refugees is the best and most durable solution, specifically in the case of Afghan refugees."
+} ]

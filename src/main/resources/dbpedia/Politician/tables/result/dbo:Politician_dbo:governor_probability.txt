@@ -1,0 +1,43 @@
+id=342  property=dbo:governor  object=http://dbpedia.org/resource/Frank_Keating  NumberOfEntitiesFoundForObject=21
+governor-NN  multiply=0.230277  P(governor|object)=0.857143  P(object|governor)=0.268657    Lift=0.012793 {Confidence word=0.162791 object=0.51938 =0.139535 Lift=1.65032}
+service-NN  multiply=0.198413  P(service|object)=0.47619  P(object|service)=0.416667    Lift=0.019841 {Confidence word=0.162791 object=0.186047 =0.077519 Lift=2.559524}
+position-NN  multiply=0.148352  P(position|object)=0.428571  P(object|position)=0.346154    Lift=0.016484 {Confidence word=0.162791 object=0.20155 =0.069767 Lift=2.126374}
+state-NN  multiply=0.100358  P(state|object)=0.666667  P(object|state)=0.150538    Lift=0.007168 {Confidence word=0.162791 object=0.72093 =0.108527 Lift=0.924731}
+businessman-NN  multiply=0.091575  P(businessman|object)=0.238095  P(object|businessman)=0.384615    Lift=0.018315 {Confidence word=0.162791 object=0.100775 =0.03876 Lift=2.362637}
+director-NN  multiply=0.090226  P(director|object)=0.285714  P(object|director)=0.315789    Lift=0.015038 {Confidence word=0.162791 object=0.147287 =0.046512 Lift=1.93985}
+current-JJ  multiply=0.069264  P(current|object)=0.380952  P(object|current)=0.181818    Lift=0.008658 {Confidence word=0.162791 object=0.341085 =0.062016 Lift=1.116883}
+politician-NN  multiply=0.064286  P(politician|object)=0.428571  P(object|politician)=0.15    Lift=0.007143 {Confidence word=0.162791 object=0.465116 =0.069767 Lift=0.921429}
+former-JJ  multiply=0.063492  P(former|object)=0.285714  P(object|former)=0.222222    Lift=0.010582 {Confidence word=0.162791 object=0.209302 =0.046512 Lift=1.365079}
+republican-JJ  multiply=0.041812  P(republican|object)=0.285714  P(object|republican)=0.146341    Lift=0.006969 {Confidence word=0.162791 object=0.317829 =0.046512 Lift=0.898955}
+democratic-JJ  multiply=0.016484  P(democratic|object)=0.142857  P(object|democratic)=0.115385    Lift=0.005495 {Confidence word=0.162791 object=0.20155 =0.023256 Lift=0.708791}
+office-NN  multiply=0.012245  P(office|object)=0.142857  P(object|office)=0.085714    Lift=0.004082 {Confidence word=0.162791 object=0.271318 =0.023256 Lift=0.526531}
+
+id=343  property=dbo:governor  object=http://dbpedia.org/resource/Brad_Henry  NumberOfEntitiesFoundForObject=11
+governor-NN  multiply=0.313433  P(governor|object)=1.0  P(object|governor)=0.313433    Lift=0.014925 {Confidence word=0.178295 object=0.51938 =0.162791 Lift=1.757949}
+service-NN  multiply=0.227273  P(service|object)=0.454545  P(object|service)=0.5    Lift=0.018939 {Confidence word=0.178295 object=0.186047 =0.093023 Lift=2.804348}
+state-NN  multiply=0.184751  P(state|object)=0.818182  P(object|state)=0.225806    Lift=0.008798 {Confidence word=0.178295 object=0.72093 =0.162791 Lift=1.26648}
+director-NN  multiply=0.114833  P(director|object)=0.272727  P(object|director)=0.421053    Lift=0.014354 {Confidence word=0.178295 object=0.147287 =0.062016 Lift=2.361556}
+position-NN  multiply=0.111888  P(position|object)=0.363636  P(object|position)=0.307692    Lift=0.013986 {Confidence word=0.178295 object=0.20155 =0.062016 Lift=1.725753}
+current-JJ  multiply=0.103306  P(current|object)=0.454545  P(object|current)=0.227273    Lift=0.010331 {Confidence word=0.178295 object=0.341085 =0.077519 Lift=1.274704}
+republican-JJ  multiply=0.053215  P(republican|object)=0.272727  P(object|republican)=0.195122    Lift=0.006652 {Confidence word=0.178295 object=0.317829 =0.062016 Lift=1.09438}
+politician-NN  multiply=0.040909  P(politician|object)=0.272727  P(object|politician)=0.15    Lift=0.004545 {Confidence word=0.178295 object=0.465116 =0.069767 Lift=0.841304}
+first-JJ  multiply=0.023715  P(first|object)=0.181818  P(object|first)=0.130435    Lift=0.007905 {Confidence word=0.178295 object=0.178295 =0.023256 Lift=0.731569}
+election-NN  multiply=0.020979  P(election|object)=0.181818  P(object|election)=0.115385    Lift=0.006993 {Confidence word=0.178295 object=0.20155 =0.023256 Lift=0.647157}
+office-NN  multiply=0.020779  P(office|object)=0.181818  P(object|office)=0.114286    Lift=0.005195 {Confidence word=0.178295 object=0.271318 =0.031008 Lift=0.640994}
+democratic-JJ  multiply=0.013986  P(democratic|object)=0.090909  P(object|democratic)=0.153846    Lift=0.003497 {Confidence word=0.178295 object=0.20155 =0.031008 Lift=0.862876}
+
+id=344  property=dbo:governor  object=http://dbpedia.org/resource/Mary_Fallin  NumberOfEntitiesFoundForObject=14
+governor-NN  multiply=0.222814  P(governor|object)=0.785714  P(object|governor)=0.283582    Lift=0.011727 {Confidence word=0.170543 object=0.51938 =0.147287 Lift=1.662822}
+state-NN  multiply=0.209677  P(state|object)=0.928571  P(object|state)=0.225806    Lift=0.009985 {Confidence word=0.170543 object=0.72093 =0.162791 Lift=1.324047}
+current-JJ  multiply=0.181818  P(current|object)=0.571429  P(object|current)=0.318182    Lift=0.012987 {Confidence word=0.170543 object=0.341085 =0.108527 Lift=1.865702}
+director-NN  multiply=0.150376  P(director|object)=0.357143  P(object|director)=0.421053    Lift=0.018797 {Confidence word=0.170543 object=0.147287 =0.062016 Lift=2.4689}
+service-NN  multiply=0.107143  P(service|object)=0.285714  P(object|service)=0.375    Lift=0.011905 {Confidence word=0.170543 object=0.186047 =0.069767 Lift=2.198864}
+republican-JJ  multiply=0.10453  P(republican|object)=0.428571  P(object|republican)=0.243902    Lift=0.010453 {Confidence word=0.170543 object=0.317829 =0.077519 Lift=1.430155}
+politician-NN  multiply=0.085714  P(politician|object)=0.571429  P(object|politician)=0.15    Lift=0.009524 {Confidence word=0.170543 object=0.465116 =0.069767 Lift=0.879545}
+office-NN  multiply=0.071429  P(office|object)=0.357143  P(object|office)=0.2    Lift=0.010204 {Confidence word=0.170543 object=0.271318 =0.054264 Lift=1.172727}
+position-NN  multiply=0.057692  P(position|object)=0.214286  P(object|position)=0.269231    Lift=0.008242 {Confidence word=0.170543 object=0.20155 =0.054264 Lift=1.578671}
+businessman-NN  multiply=0.049451  P(businessman|object)=0.214286  P(object|businessman)=0.230769    Lift=0.016484 {Confidence word=0.170543 object=0.100775 =0.023256 Lift=1.353147}
+first-JJ  multiply=0.024845  P(first|object)=0.142857  P(object|first)=0.173913    Lift=0.006211 {Confidence word=0.170543 object=0.178295 =0.031008 Lift=1.019763}
+member-NN  multiply=0.013393  P(member|object)=0.142857  P(object|member)=0.09375    Lift=0.004464 {Confidence word=0.170543 object=0.248062 =0.023256 Lift=0.549716}
+former-JJ  multiply=0.010582  P(former|object)=0.142857  P(object|former)=0.074074    Lift=0.005291 {Confidence word=0.170543 object=0.209302 =0.015504 Lift=0.434343}
+

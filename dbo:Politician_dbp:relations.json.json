@@ -1,0 +1,232 @@
+[ {
+  "entityIndex" : "1_entity6674",
+  "entityUrl" : "http://dbpedia.org/resource/Kris_Valderrama",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Delegate David M. Valderrama" ]
+  },
+  "words" : [ "``", "''", "American", "26", "politician", "House", "Valderrama", ".", "represents", "Kris", "district", "Delegates", "Kriselda", "Maryland" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "politician", "district" ],
+  "text" : "Kriselda \"Kris\" Valderrama is an American politician who represents district 26 in the Maryland House of Delegates."
+}, {
+  "entityIndex" : "2_entity6862",
+  "entityUrl" : "http://dbpedia.org/resource/Kunwar_Sarvesh_Kumar_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "One daughter, one son" ]
+  },
+  "words" : [ "MLA", "till", "Thakurdwara", "Rakesh", "got", "Western", "Sabha", "Pradesh", "Bharatiya", "Hindi", "businessman", "Member", "Sarvesh", "MP", "caste", "Lok", ",", ".", "India", "elected", "veteran", "belongs", "-RRB-", "General", ":", "Parliament", "Rajput", "Kumar", "-LRB-", "कुँवर", "serves", "कुमार", "Bahubali", "2012", "सर्वेश", "2007", "Party", "known", "1991", "Singh", "Uttar", "Kunwar", "Moradabad", "Thakur", "Janata", "politician", "one", "सिंह", "also", "politicians", "Election", "five-term", "2014" ],
+  "adjectives" : [ "Western", "Bahubali", "five-term" ],
+  "nouns" : [ "MP", "veteran", "caste", "politician", "सिंह", "businessman" ],
+  "text" : "Kunwar Sarvesh Kumar Singh (Hindi: कुँवर सर्वेश कुमार सिंह), also known as Rakesh Singh, is a businessman who serves as the Member of Parliament from Moradabad, India from Bharatiya Janata Party. He is a veteran politician from Western Uttar Pradesh who belongs to Thakur(Rajput) caste. He is one of the Bahubali politicians in Uttar Pradesh. He was a five-term MLA from Thakurdwara from 1991 to 2007 and 2012 to 2014 till he got elected as MP from Moradabad Lok Sabha General Election in 2014."
+}, {
+  "entityIndex" : "3_entity5297",
+  "entityUrl" : "http://dbpedia.org/resource/Jane_Lawton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "brother John Neil England" ]
+  },
+  "words" : [ "June", "24", "-LRB-", "memory", "May", "American", "29", "E.", "2009", "2007", "Party", "MD", "member", "November", "--", "Chevy", "14", "Democratic", "politician", "center", ",", "community", "Jane", "Lawton", ".", "Chase", "Park", "Leland", "-RRB-", "located", "Maryland", "renamed", "1944" ],
+  "adjectives" : [ "American", "located" ],
+  "nouns" : [ "memory", "politician", "center", "member", "community" ],
+  "text" : "Jane Lawton (May 24, 1944 – November 29, 2007) was an American politician from Maryland and a member of the Democratic Party. The Jane E. Lawton community center, located in Leland Park in Chevy Chase, MD, was renamed in her memory on June 14, 2009."
+}, {
+  "entityIndex" : "4_entity5816",
+  "entityUrl" : "http://dbpedia.org/resource/Julian_L._McPhillips",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Frank Dixon McPhillips", "Sandra McPhillips Pitre" ]
+  },
+  "words" : [ "first-term", "-LRB-", "Jr.", "Republican", "Alabama", "incumbent", "candidate", "U.S.", "lost", "2002", "lawyer", "1978", "November", "L.", "13", "Democratic", "born", "Sessions", ",", "Birmingham", ".", "nomination", "seat", "Senate", "McPhillips", "-RRB-", "Jeff", "General", "challenge", "1946", "Attorney", "Julian" ],
+  "adjectives" : [ "first-term", "Democratic", "Republican", "incumbent" ],
+  "nouns" : [ "seat", "candidate", "lawyer", "nomination" ],
+  "text" : "Julian L. McPhillips, Jr. (born November 13, 1946, Birmingham, Alabama) is a U.S. lawyer and was a candidate for Attorney General of Alabama in 1978. In 2002, McPhillips lost out in the Democratic nomination to challenge first-term Republican incumbent Jeff Sessions for a U.S. Senate seat in Alabama."
+}, {
+  "entityIndex" : "5_entity6311",
+  "entityUrl" : "http://dbpedia.org/resource/Jay_Chen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Shaw Yi Chen" ]
+  },
+  "words" : [ "Taiwanese-American", "Jay", "Kài-poe", "Congressional", "Board", "Education", "La", "Southern", "陳介飛", "Memorial", "1978", "Tân", "Democratic", "F.", "Marshall", "California", ",", "'s", "-", "former", ".", "pinyin", "ōe-jī", "-RRB-", "College", ":", ";", "District", "23", "San", "39th", "-LRB-", "Mt.", "2012", "Chén", "Antonio", "Chen", "School", "candidate", "known", "member", "Puente", "February", "Hacienda", "election", "born", "politician", "Jièfēi", "Unified", "Fellow", "Pe̍h", "Chinese", "trustee", "president" ],
+  "adjectives" : [ "39th", "former" ],
+  "nouns" : [ "Tân", "candidate", "pinyin", "Kài-poe", "election", "ōe-jī", "politician", "member", "trustee", "president" ],
+  "text" : "Jay F. Chen (Chinese: 陳介飛; pinyin: Chén Jièfēi; Pe̍h-ōe-jī: Tân Kài-poe, born 23 February 1978) is a Taiwanese-American Democratic politician, known as a trustee for Mt. San Antonio College, former member and president of the Board of Education of the Hacienda La Puente Unified School District in Southern California, and as a candidate for election in 2012 in California's 39th Congressional District. He is a Marshall Memorial Fellow."
+}, {
+  "entityIndex" : "6_entity11523",
+  "entityUrl" : "http://dbpedia.org/resource/Wayne_K._Curry",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Daryl Curry" ]
+  },
+  "words" : [ "Curry", "career", "-LRB-", "American", "county", "County", "two", "civic", "years", "executive", "Prince", "December", "1951", "government", "George", "1994", "terms", "2002", "July", "January", "November", "affairs", "--", "politician", ",", "'s", "community", ".", "elected", "Wayne", "2", "Keith", "6", "2014", "served", "-RRB-", "Maryland", "encompassed", "20" ],
+  "adjectives" : [ "American", "civic" ],
+  "nouns" : [ "executive", "career", "government", "politician", "county", "community" ],
+  "text" : "Wayne Keith Curry (January 6, 1951 – July 2, 2014) was an American politician. He was elected as the executive for Prince George's County, Maryland in November 1994, and served two terms as the county executive from December 1994 to December 2002. His career has encompassed government, civic, and community affairs for more than 20 years."
+}, {
+  "entityIndex" : "7_entity11765",
+  "entityUrl" : "http://dbpedia.org/resource/William_B._Clagett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Charles Clagett and Mary  Clagett" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "8_entity12028",
+  "entityUrl" : "http://dbpedia.org/resource/William_Ancrum",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "George Ancrum , William Ancrum, Jr. , John Ancrum" ]
+  },
+  "words" : [ "Charleston", "wealthy", "held", "Papers", "1780", "led", "ca.", "Caroliniana", "Third", "potential", "Assembly", "letters", "1779", "--", "Camden", "historians", "slaves", "imports", "town", "made", "impact", "merchant", "Carolina", "restrictions", "particular", "personal", "collection", "William", ",", "'s", ".", "1789", "insight", "Ancrum", "books", "University", "served", "Revolutionary", "-RRB-", "General", "indigo", "Library", "24", "-LRB-", "backcountry", "American", "exports", "War", "formation", "involvement", "interest", "provides", "planter", "prices", "February", "value", "1757", "present-day", "South", "1722", "currently", "planters", "1808", "merchants", "economic", "account", "Revolution" ],
+  "adjectives" : [ "wealthy", "American", "present-day", "particular", "personal", "economic" ],
+  "nouns" : [ "backcountry", "town", "impact", "merchant", "formation", "collection", "insight", "involvement", "interest", "planter", "indigo", "potential", "value", "account", "Revolution" ],
+  "text" : "William Ancrum (ca. 1722 – February 24, 1808) was a wealthy American merchant and indigo planter from Charleston, South Carolina who served in the Third General Assembly during the Revolutionary War (1779–1780). His interest in the economic potential of the Carolina backcountry led to his involvement in the formation of the present-day town of Camden, South Carolina. Of particular value to historians are the William Ancrum Papers, 1757–1789, which are made up of Ancrum's letters and personal account books, currently held by the South Caroliniana Library at the University of South Carolina. This collection provides insight into the economic impact of the American Revolution on Charleston planters and merchants, from the prices of slaves to restrictions on imports and exports."
+}, {
+  "entityIndex" : "9_entity12119",
+  "entityUrl" : "http://dbpedia.org/resource/Waris_Pathan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Yusuf Pathan" ]
+  },
+  "words" : [ "-LRB-", "MLA", "Waris", "29", "Advocate", "Mumbai", "Courts", "Criminal", "Majlis-e-Ittehadul", "Muslimeen", "Maharashtra", "November", "High", "based", "Pathan", "counsel", "born", "politician", "Byculla", "also", ",", ".", "India", "matters", "-RRB-", "1968", "Defence", "AIMIM" ],
+  "adjectives" : [ "High" ],
+  "nouns" : [ "Pathan", "counsel", "MLA", "politician", "Advocate" ],
+  "text" : "Waris Pathan (born 29 November 1968) is an India politician based in Mumbai, Maharashtra and an MLA of the All India Majlis-e-Ittehadul Muslimeen (AIMIM) in Byculla, Mumbai. Pathan is also an Advocate of all the High Courts in India as a Defence counsel in Criminal matters."
+}, {
+  "entityIndex" : "10_entity7077",
+  "entityUrl" : "http://dbpedia.org/resource/Lim_Swee_Aun",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Son of Lim Tee Hooi" ]
+  },
+  "words" : [ "Tan", "Dr.", "-LRB-", "Swee", "September", "Sri", "林瑞安", "Association", "林", "member", "Aun", "1915", "Malaysian", "1977", "--", "13", "Cabinet", "politician", "Ruì", "Lín", ",", ".", "Ān", "August", "Lim", "1", "pinyin", "name", "-RRB-", "Chinese", ":", ";", "family" ],
+  "adjectives" : [ "Chinese", "Malaysian" ],
+  "nouns" : [ "pinyin", "politician", "name", "Ruì", "member", "family", "Lín", "Ān" ],
+  "text" : "(This is a Chinese name; the family name is Lim (林).) Tan Sri Dr. Lim Swee Aun (Chinese: 林瑞安; pinyin: Lín Ruì Ān; 1 September 1915 – 13 August 1977) was a Malaysian Chinese politician from the Malaysian Chinese Association, and a Cabinet member."
+}, {
+  "entityIndex" : "11_entity1133",
+  "entityUrl" : "http://dbpedia.org/resource/Brenda_Halloran",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Liz", "James Halloran  and Doreen Halloran", "Michael and Jeff" ]
+  },
+  "words" : [ "Brenda", "election", "Epp", "mayor", "2010", "Halloran", "Waterloo", ",", "former", ".", "incumbent", "Herb", "elected", "Turnbull", "Brian", "2006", "re-elected", "municipal", "defeating", "Ontario", "first" ],
+  "adjectives" : [ "municipal", "former", "first", "incumbent" ],
+  "nouns" : [ "election", "mayor" ],
+  "text" : "Brenda Halloran is the former mayor of Waterloo, Ontario. She was first elected in the 2006 municipal election, defeating incumbent mayor Herb Epp and former mayor Brian Turnbull. She was re-elected in 2010."
+}, {
+  "entityIndex" : "12_entity9666",
+  "entityUrl" : "http://dbpedia.org/resource/Rana_Muhammad_Akram_Khan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Married" ]
+  },
+  "words" : [ "-LRB-", "محمد", "Rana", "Urdu", "Khan", "chairman", "Punjab", "Pakistani", "zamindar", ".", "former", "Council", "PBC", "Muhammad", "executive", "Akram", "Bar", "اکرم", "خاں", "-RRB-", ":", "lawyer", "رانا" ],
+  "adjectives" : [ "Pakistani", "former" ],
+  "nouns" : [ "executive", "خاں", "chairman", "zamindar", "lawyer" ],
+  "text" : "Rana Muhammad Akram Khan (Urdu: رانا محمد اکرم خاں‎) is a Pakistani lawyer and zamindar. He is former chairman executive of the Punjab Bar Council (PBC)."
+}, {
+  "entityIndex" : "13_entity2266",
+  "entityUrl" : "http://dbpedia.org/resource/Delores_G._Kelley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "former Delegate Darryl Kelley" ]
+  },
+  "words" : [ "-LRB-", "May", "American", "County", "serving", "Goodwin", "Kelley", "Party", "member", "term", "Delores", "1936", "10", "Democratic", "born", "politician", "4th", "representing", ",", "'s", ".", "1", "Senate", "Baltimore", "currently", "State", "-RRB-", "Maryland", "District" ],
+  "adjectives" : [ "American", "4th" ],
+  "nouns" : [ "politician", "member", "term" ],
+  "text" : "Delores Goodwin Kelley (born May 1, 1936) is an American politician from Maryland and a member of the Democratic Party. She is currently serving in her 4th term in the Maryland State Senate, representing Maryland's District 10 in Baltimore County."
+}, {
+  "entityIndex" : "14_entity4728",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_W._Taussig",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Samuel Taussig, brother" ]
+  },
+  "words" : [ "--", "22nd", "New", "Mayor", "Isaac", "-LRB-", "May", "1880", "City", "William", ",", ".", "serving", "3", "4", "1884", "1850", "-RRB-", "1917", "July", "Jersey", "30", "Taussig" ],
+  "adjectives" : [ "22nd" ],
+  "nouns" : [ ],
+  "text" : "Isaac William Taussig (July 30, 1850 – 1917) was the 22nd Mayor of Jersey City, New Jersey serving from May 3, 1880 to May 4, 1884."
+}, {
+  "entityIndex" : "15_entity10552",
+  "entityUrl" : "http://dbpedia.org/resource/Sudhir_Mungantiwar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Married" ]
+  },
+  "words" : [ "Departments", "-LRB-", "Mungantiwar", "Cabinet", "Government", "chief", "Janata", "Finance", "BJP", "'s", ",", "Sudhir", ".", "Ex", "Party", "currently", "State", "Bharatiya", "-RRB-", "Forest", "Planning", "Maharashtra", "Minister" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Government", "chief", "State" ],
+  "text" : "Sudhir Mungantiwar is the Maharashtra's Ex chief of Bharatiya Janata Party (BJP). He is currently a State Cabinet Minister of Finance, Planning, and Forest Departments in the Government of Maharashtra."
+}, {
+  "entityIndex" : "16_entity7618",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_H._Weir,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Delegate Michael Weir, Sr." ]
+  },
+  "words" : [ "-LRB-", "September", "American", "H.", "Democratic", "Jr.", "born", "politician", ",", ".", "2", "Party", "Michael", "-RRB-", "member", "1948", "Maryland", "Weir" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "politician", "member" ],
+  "text" : "Michael H. Weir, Jr. (born September 2, 1948) is an American politician from Maryland and a member of the Democratic Party."
+}, {
+  "entityIndex" : "17_entity8170",
+  "entityUrl" : "http://dbpedia.org/resource/Madhavrao_Bhujangrao_Kinhalkar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Married" ]
+  },
+  "words" : [ "Sharad", "leader", "Bhaskarrao", "Successive", "MLA", "BJP", "headed", "Suryakanta", "Mumbai", "along", "Khatgaonkar", "Constituency", "1991-1999", "state", "Co-Operation", "Maharashtra", "presence", "Home", "Minister", "1991-1995", "period", "Pawar", "Affairs", "Government", "&", "joined", "Amit", ",", ".", "2", "Patil", "2014", "served", "Revenue", "NCP", "time", "Shah", "Bhokar" ],
+  "adjectives" : [ "Successive" ],
+  "nouns" : [ "leader", "period", "BJP", "time", "state", "presence" ],
+  "text" : "He is MLA of Bhokar Constituency in period of 1991-1999 for 2 Successive time. He served as Minister of state for Home Affairs,Revenue & Co-Operation in Maharashtra Government headed by Sharad Pawar in period of 1991-1995.He is NCP leader, But in 2014 he joined BJP at Mumbai in presence of Amit Shah along with Suryakanta Patil & Bhaskarrao Khatgaonkar ."
+}, {
+  "entityIndex" : "18_entity3300",
+  "entityUrl" : "http://dbpedia.org/resource/Femi_Fani-Kayode",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "Rotimi Fani-Kayode" ]
+  },
+  "words" : [ "``", "lineage", "Adia", "Abdulateef", "Lagos", "Nigerian", "Oluwafemi", "Adewunmi", "ruling", "meaning", "16", "Democratic", ",", "'s", ".", "Progressive", "Lord", "David", "-RRB-", "Peoples", "Osun", "Congress", "June", "-LRB-", "Babaremilekun", "Chief", "Fani-Kayode", "Mrs", "Victor", "opposition", "October", "Party", "member", "poet", "Nigeria", "PDP", "lawyer", "''", "politician", "born", "Although", "Adetokunboh", "beloved", "originates", "APC", "Adunni", "1960", "2014", "returned", "family", "essayist" ],
+  "adjectives" : [ "Nigerian", "beloved" ],
+  "nouns" : [ "lineage", "opposition", "ruling", "APC", "politician", "member", "poet", "family", "essayist", "lawyer" ],
+  "text" : "David Oluwafemi (meaning \"the beloved of the Lord\") Adewunmi Abdulateef Fani-Kayode is a Nigerian politician, essayist, poet and lawyer. He was a member of the ruling Peoples Democratic Party (PDP). He was with the opposition's All Progressive Congress (APC) until June 2014 when he returned to the ruling Peoples Democratic Party. Although his family lineage originates from Osun, he was born in Lagos, Nigeria, on 16 October 1960 to Chief Victor Babaremilekun Adetokunboh Fani-Kayode and to Chief (Mrs) Adia Adunni Fani-Kayode. He is an Ile-Ife chieftain of Yoruba descent. Fani-Kayode was the Special Assistant (Public Affairs) to President Olusegun Obasanjo from July 2003 until June 2006. He was appointed the Minister of Culture and Tourism of the Federal Republic of Nigeria from 22 June to 7 November 2006 and as the Minister of Aviation from 7 November 2006 to 29 May 2007."
+}, {
+  "entityIndex" : "19_entity8836",
+  "entityUrl" : "http://dbpedia.org/resource/Piyankara_Jayaratne",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "S. D. R Jayaratne" ]
+  },
+  "words" : [ "Unnanthi", "education", "Lankan", "Electorate", "President", "National", "gained", "Rajapakse", "Minister", "Business", "Chilaw", "MP", "Mahinda", "Deputy", "Youth", ",", "'s", "-", ".", "organiser", "Civil", "ex", "-RRB-", "College", "General", "Jayaratne", "Parliament", "higher", "became", "-LRB-", "September", "Aviation", "27", "Secretary", "SLFP", "Sri", "Royal", "1998", "current", "Lanka", "Institute", "member", "Colombo", "Speaker", "Piyankara", "Organisation", "Cabinet", "Government", "born", "politician", "Management", "1964", "educated" ],
+  "adjectives" : [ "current" ],
+  "nouns" : [ "organiser", "MP", "education", "Government", "SLFP", "politician", "member" ],
+  "text" : "Unnanthi Piyankara Jayaratne, MP (born September 27, 1964) is a Sri Lankan politician and a member of the Parliament of Sri Lanka. He is the current Cabinet Minister of Civil Aviation in President Mahinda Rajapakse's Government and ex Deputy Speaker of Parliament. He was educated at Royal College Colombo and gained his higher education at the National Institute of Business Management. He was the General Secretary of the Youth Organisation, SLFP and became the SLFP organiser -for the Chilaw Electorate in 1998. From 1993 to 1998 he was a member of North Western Provincial Council and Minister of Fisheries, Agriculture and Irrigation of the North Western Provincial Council from 1998 to 2000. In 2000 he entered Parliament and was appointed Deputy Minister of Youth Affairs till 2001. He reappointed to Parliament in February 2008 and since June 2008 is the Deputy Speaker of Parliament."
+}, {
+  "entityIndex" : "20_entity8930",
+  "entityUrl" : "http://dbpedia.org/resource/Penny_Hulse",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "2" ]
+  },
+  "words" : [ "New", "Penny", "Zealand", "current", "deputy", "mayor", "politician", "Hulse", "Auckland", "." ],
+  "adjectives" : [ "current" ],
+  "nouns" : [ "deputy", "mayor", "politician" ],
+  "text" : "Penny Hulse is a New Zealand politician and the current deputy mayor of Auckland."
+}, {
+  "entityIndex" : "21_entity9044",
+  "entityUrl" : "http://dbpedia.org/resource/P._V._Midhun_Reddy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:relations" : [ "P. V. Ramachandra Reddy" ]
+  },
+  "words" : [ "Congress", "Midhun", "-LRB-", "Sramika", "Rythu", "parliament", "16th", "Rajampet", "general", "Sabha", "candidate", "Party", "Pradesh", "won", "V.", "member", "P.", "election", "politician", "Andhra", "Lok", ",", ".", "Reddy", "constituency", "2014", "Yuvajana", "-RRB-", "Indian" ],
+  "adjectives" : [ "general", "Indian", "16th" ],
+  "nouns" : [ "candidate", "election", "constituency", "politician", "member", "parliament" ],
+  "text" : "P. V. Midhun Reddy is an Indian politician and a member of parliament to the 16th Lok Sabha from Rajampet (Lok Sabha constituency), Andhra Pradesh. He won the Indian general election, 2014 being a Yuvajana Sramika Rythu Congress Party candidate."
+} ]

@@ -1,0 +1,21 @@
+id=381  property=dbp:citizenship  object=Indian  NumberOfEntitiesFoundForObject=11
+government-NN  multiply=0.204545  P(government|object)=0.545455  P(object|government)=0.375    Lift=0.034091 {Confidence word=0.166667 object=0.242424 =0.090909 Lift=2.25}
+member-NN  multiply=0.20202  P(member|object)=0.909091  P(object|member)=0.222222    Lift=0.020202 {Confidence word=0.166667 object=0.681818 =0.151515 Lift=1.333333}
+state-NN  multiply=0.087413  P(state|object)=0.454545  P(object|state)=0.192308    Lift=0.017483 {Confidence word=0.166667 object=0.393939 =0.075758 Lift=1.153846}
+seat-NN  multiply=0.022727  P(seat|object)=0.181818  P(object|seat)=0.125    Lift=0.011364 {Confidence word=0.166667 object=0.242424 =0.030303 Lift=0.75}
+
+id=382  property=dbp:citizenship  object=http://dbpedia.org/resource/Malaysian_people  NumberOfEntitiesFoundForObject=34
+malay-JJ  multiply=0.941176  P(malay|object)=0.941176  P(object|malay)=1.0    Lift=0.029412 {Confidence word=0.515152 object=0.484848 =0.484848 Lift=1.941176}
+malaysian-JJ  multiply=0.823529  P(malaysian|object)=0.823529  P(object|malaysian)=1.0    Lift=0.029412 {Confidence word=0.515152 object=0.424242 =0.424242 Lift=1.941176}
+name-NN  multiply=0.558824  P(name|object)=0.558824  P(object|name)=1.0    Lift=0.029412 {Confidence word=0.515152 object=0.287879 =0.287879 Lift=1.941176}
+family-NN  multiply=0.476471  P(family|object)=0.529412  P(object|family)=0.9    Lift=0.026471 {Confidence word=0.515152 object=0.30303 =0.272727 Lift=1.747059}
+member-NN  multiply=0.408497  P(member|object)=0.735294  P(object|member)=0.555556    Lift=0.01634 {Confidence word=0.515152 object=0.681818 =0.378788 Lift=1.078431}
+person-NN  multiply=0.384314  P(person|object)=0.411765  P(object|person)=0.933333    Lift=0.027451 {Confidence word=0.515152 object=0.227273 =0.212121 Lift=1.811765}
+patronymic-JJ  multiply=0.382353  P(patronymic|object)=0.382353  P(object|patronymic)=1.0    Lift=0.029412 {Confidence word=0.515152 object=0.19697 =0.19697 Lift=1.941176}
+state-NN  multiply=0.326923  P(state|object)=0.5  P(object|state)=0.653846    Lift=0.019231 {Confidence word=0.515152 object=0.393939 =0.257576 Lift=1.269231}
+seat-NN  multiply=0.310662  P(seat|object)=0.382353  P(object|seat)=0.8125    Lift=0.023897 {Confidence word=0.515152 object=0.242424 =0.19697 Lift=1.577206}
+government-NN  multiply=0.090074  P(government|object)=0.205882  P(object|government)=0.4375    Lift=0.012868 {Confidence word=0.515152 object=0.242424 =0.106061 Lift=0.849265}
+
+id=383  property=dbp:citizenship  object=Pakistani  NumberOfEntitiesFoundForObject=11
+member-NN  multiply=0.072727  P(member|object)=0.545455  P(object|member)=0.133333    Lift=0.012121 {Confidence word=0.166667 object=0.681818 =0.090909 Lift=0.8}
+

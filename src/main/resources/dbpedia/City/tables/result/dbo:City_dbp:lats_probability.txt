@@ -1,16 +1,16 @@
 id=10  property=dbp:lats  object=0  NumberOfEntitiesFoundForObject=26
-district-NN  multiply=0.1586042823  P(district|object)=0.7692307692  P(object|district)=0.206185567    
-town-NN  multiply=0.1140350877  P(town|object)=0.5  P(object|town)=0.2280701754    
-state-NN  multiply=0.1015625  P(state|object)=0.5  P(object|state)=0.203125    
-city-NN  multiply=0.0480769231  P(city|object)=0.3846153846  P(object|city)=0.125    
-indian-JJ  multiply=0.0461538462  P(indian|object)=0.2307692308  P(object|indian)=0.2    
-north-JJ  multiply=0.0459662289  P(north|object)=0.2692307692  P(object|north)=0.1707317073    
-village-NN  multiply=0.0438282648  P(village|object)=0.2692307692  P(object|village)=0.1627906977    
-population-NN  multiply=0.0342657343  P(population|object)=0.2692307692  P(object|population)=0.1272727273    
-west-JJ  multiply=0.025987526  P(west|object)=0.1923076923  P(object|west)=0.1351351351    
-capital-JJ  multiply=0.0216346154  P(capital|object)=0.1153846154  P(object|capital)=0.1875    
-census-NN  multiply=0.0192307692  P(census|object)=0.1538461538  P(object|census)=0.125    
-part-NN  multiply=0.013986014  P(part|object)=0.1538461538  P(object|part)=0.0909090909    
-area-NN  multiply=0.012066365  P(area|object)=0.1538461538  P(object|area)=0.0784313725    
-family-NN  multiply=0.0101809955  P(family|object)=0.1153846154  P(object|family)=0.0882352941    
+district-NN  multiply=0.158604  P(district|object)=0.769231  P(object|district)=0.206186    Lift=0.00793 {Confidence word=0.146893 object=0.548023 =0.112994 Lift=1.403648}
+town-NN  multiply=0.114035  P(town|object)=0.5  P(object|town)=0.22807    Lift=0.008772 {Confidence word=0.146893 object=0.322034 =0.073446 Lift=1.552632}
+state-NN  multiply=0.101562  P(state|object)=0.5  P(object|state)=0.203125    Lift=0.007812 {Confidence word=0.146893 object=0.361582 =0.073446 Lift=1.382812}
+city-NN  multiply=0.048077  P(city|object)=0.384615  P(object|city)=0.125    Lift=0.004808 {Confidence word=0.146893 object=0.451977 =0.056497 Lift=0.850962}
+indian-JJ  multiply=0.046154  P(indian|object)=0.230769  P(object|indian)=0.2    Lift=0.007692 {Confidence word=0.146893 object=0.169492 =0.033898 Lift=1.361538}
+north-JJ  multiply=0.045966  P(north|object)=0.269231  P(object|north)=0.170732    Lift=0.006567 {Confidence word=0.146893 object=0.231638 =0.039548 Lift=1.162289}
+village-NN  multiply=0.043828  P(village|object)=0.269231  P(object|village)=0.162791    Lift=0.006261 {Confidence word=0.146893 object=0.242938 =0.039548 Lift=1.108229}
+population-NN  multiply=0.034266  P(population|object)=0.269231  P(object|population)=0.127273    Lift=0.004895 {Confidence word=0.146893 object=0.310734 =0.039548 Lift=0.866434}
+west-JJ  multiply=0.025988  P(west|object)=0.192308  P(object|west)=0.135135    Lift=0.005198 {Confidence word=0.146893 object=0.20904 =0.028249 Lift=0.919958}
+capital-JJ  multiply=0.021635  P(capital|object)=0.115385  P(object|capital)=0.1875    Lift=0.007212 {Confidence word=0.146893 object=0.090395 =0.016949 Lift=1.276442}
+census-NN  multiply=0.019231  P(census|object)=0.153846  P(object|census)=0.125    Lift=0.004808 {Confidence word=0.146893 object=0.180791 =0.022599 Lift=0.850962}
+part-NN  multiply=0.013986  P(part|object)=0.153846  P(object|part)=0.090909    Lift=0.003497 {Confidence word=0.146893 object=0.248588 =0.022599 Lift=0.618881}
+area-NN  multiply=0.012066  P(area|object)=0.153846  P(object|area)=0.078431    Lift=0.003017 {Confidence word=0.146893 object=0.288136 =0.022599 Lift=0.533937}
+family-NN  multiply=0.010181  P(family|object)=0.115385  P(object|family)=0.088235    Lift=0.003394 {Confidence word=0.146893 object=0.19209 =0.016949 Lift=0.600679}
 

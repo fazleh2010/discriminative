@@ -1,172 +1,172 @@
 id=49  property=dbo:birthPlace  object=http://dbpedia.org/resource/Stockholm  NumberOfEntitiesFoundForObject=118
-swedish-JJ  multiply=0.1749564391  P(swedish|object)=0.3983050847  P(object|swedish)=0.4392523364    
-film-NN  multiply=0.0338216121  P(film|object)=0.3559322034  P(object|film)=0.0950226244    
-actress-NN  multiply=0.016651799  P(actress|object)=0.2372881356  P(object|actress)=0.0701754386    
-son-NN  multiply=0.0105113843  P(son|object)=0.1440677966  P(object|son)=0.0729613734    
+swedish-JJ  multiply=0.174956  P(swedish|object)=0.398305  P(object|swedish)=0.439252    Lift=0.003722 {Confidence word=0.037826 object=0.034011 =0.01494 Lift=11.612503}
+film-NN  multiply=0.033822  P(film|object)=0.355932  P(object|film)=0.095023    Lift=8.05E-4 {Confidence word=0.037826 object=0.140496 =0.01335 Lift=2.512111}
+actress-NN  multiply=0.016652  P(actress|object)=0.237288  P(object|actress)=0.070175    Lift=5.95E-4 {Confidence word=0.037826 object=0.126828 =0.0089 Lift=1.855226}
+son-NN  multiply=0.010511  P(son|object)=0.144068  P(object|son)=0.072961    Lift=6.18E-4 {Confidence word=0.037826 object=0.074062 =0.005404 Lift=1.928878}
 
 id=50  property=dbo:birthPlace  object=http://dbpedia.org/resource/Scotland  NumberOfEntitiesFoundForObject=14
-mother-NN  multiply=0.0123626374  P(mother|object)=0.2142857143  P(object|mother)=0.0576923077    
+mother-NN  multiply=0.012363  P(mother|object)=0.214286  P(object|mother)=0.057692    Lift=0.004121 {Confidence word=0.006039 object=0.016529 =9.54E-4 Lift=9.552632}
 
 id=51  property=dbo:birthPlace  object=http://dbpedia.org/resource/West_Riding_of_Yorkshire  NumberOfEntitiesFoundForObject=14
-english-JJ  multiply=0.0123626374  P(english|object)=0.4285714286  P(object|english)=0.0288461538    
+english-JJ  multiply=0.012363  P(english|object)=0.428571  P(object|english)=0.028846    Lift=0.00206 {Confidence word=0.00445 object=0.066116 =0.001907 Lift=6.482143}
 
 id=52  property=dbo:birthPlace  object=http://dbpedia.org/resource/Beijing  NumberOfEntitiesFoundForObject=26
-pinyin-NN  multiply=0.0157342657  P(pinyin|object)=0.1153846154  P(object|pinyin)=0.1363636364    
-chinese-JJ  multiply=0.0101214575  P(chinese|object)=0.1923076923  P(object|chinese)=0.0526315789    
+pinyin-NN  multiply=0.015734  P(pinyin|object)=0.115385  P(object|pinyin)=0.136364    Lift=0.005245 {Confidence word=0.008582 object=0.006993 =9.54E-4 Lift=15.888889}
+chinese-JJ  multiply=0.010121  P(chinese|object)=0.192308  P(object|chinese)=0.052632    Lift=0.002024 {Confidence word=0.008582 object=0.030197 =0.001589 Lift=6.132554}
 
 id=53  property=dbo:birthPlace  object=http://dbpedia.org/resource/Cheshire  NumberOfEntitiesFoundForObject=14
-role-NN  multiply=0.0116959064  P(role|object)=0.5  P(object|role)=0.0233918129    
-english-JJ  multiply=0.0103021978  P(english|object)=0.3571428571  P(object|english)=0.0288461538    
+role-NN  multiply=0.011696  P(role|object)=0.5  P(object|role)=0.023392    Lift=0.001462 {Confidence word=0.004768 object=0.108709 =0.002543 Lift=4.906043}
+english-JJ  multiply=0.010302  P(english|object)=0.357143  P(object|english)=0.028846    Lift=0.001717 {Confidence word=0.004768 object=0.066116 =0.001907 Lift=6.05}
 
 id=54  property=dbo:birthPlace  object=http://dbpedia.org/resource/Singapore  NumberOfEntitiesFoundForObject=16
-pinyin-NN  multiply=0.0255681818  P(pinyin|object)=0.1875  P(object|pinyin)=0.1363636364    
-model-NN  multiply=0.0208333333  P(model|object)=0.1875  P(object|model)=0.1111111111    
-dramas-NN  multiply=0.0181451613  P(dramas|object)=0.1875  P(object|dramas)=0.0967741935    
-chinese-JJ  multiply=0.0164473684  P(chinese|object)=0.3125  P(object|chinese)=0.0526315789    
-award-NN  multiply=0.0116604478  P(award|object)=0.3125  P(object|award)=0.0373134328    
-popular-JJ  multiply=0.0110294118  P(popular|object)=0.1875  P(object|popular)=0.0588235294    
+pinyin-NN  multiply=0.025568  P(pinyin|object)=0.1875  P(object|pinyin)=0.136364    Lift=0.008523 {Confidence word=0.005086 object=0.006993 =9.54E-4 Lift=26.8125}
+model-NN  multiply=0.020833  P(model|object)=0.1875  P(object|model)=0.111111    Lift=0.006944 {Confidence word=0.005086 object=0.008582 =9.54E-4 Lift=21.847222}
+dramas-NN  multiply=0.018145  P(dramas|object)=0.1875  P(object|dramas)=0.096774    Lift=0.006048 {Confidence word=0.005086 object=0.009854 =9.54E-4 Lift=19.028226}
+chinese-JJ  multiply=0.016447  P(chinese|object)=0.3125  P(object|chinese)=0.052632    Lift=0.003289 {Confidence word=0.005086 object=0.030197 =0.001589 Lift=10.348684}
+award-NN  multiply=0.01166  P(award|object)=0.3125  P(object|award)=0.037313    Lift=0.002332 {Confidence word=0.005086 object=0.042594 =0.001589 Lift=7.336754}
+popular-JJ  multiply=0.011029  P(popular|object)=0.1875  P(object|popular)=0.058824    Lift=0.003676 {Confidence word=0.005086 object=0.016211 =9.54E-4 Lift=11.566176}
 
 id=55  property=dbo:birthPlace  object=http://dbpedia.org/resource/London  NumberOfEntitiesFoundForObject=145
-british-JJ  multiply=0.0795166519  P(british|object)=0.2620689655  P(object|british)=0.3034188034    
-english-JJ  multiply=0.0364721485  P(english|object)=0.1379310345  P(object|english)=0.2644230769    
-television-NN  multiply=0.0301696771  P(television|object)=0.1793103448  P(object|television)=0.1682539683    
-role-NN  multiply=0.0271022384  P(role|object)=0.1655172414  P(object|role)=0.1637426901    
-film-NN  multiply=0.0266968326  P(film|object)=0.2  P(object|film)=0.1334841629    
-man-NN  multiply=0.0247126437  P(man|object)=0.1793103448  P(object|man)=0.1378205128    
-appearance-NN  multiply=0.0237144586  P(appearance|object)=0.0965517241  P(object|appearance)=0.2456140351    
-series-NN  multiply=0.0221289355  P(series|object)=0.124137931  P(object|series)=0.1782608696    
-age-NN  multiply=0.0210020425  P(age|object)=0.1310344828  P(object|age)=0.1602787456    
-actress-NN  multiply=0.0206723706  P(actress|object)=0.1586206897  P(object|actress)=0.1303258145    
-son-NN  multiply=0.0196240935  P(son|object)=0.1172413793  P(object|son)=0.1673819742    
-theatre-NN  multiply=0.0190249703  P(theatre|object)=0.1103448276  P(object|theatre)=0.1724137931    
-stage-NN  multiply=0.0186123806  P(stage|object)=0.0965517241  P(object|stage)=0.1927710843    
-show-NN  multiply=0.0157409845  P(show|object)=0.0896551724  P(object|show)=0.1755725191    
-daughter-NN  multiply=0.0155922039  P(daughter|object)=0.0551724138  P(object|daughter)=0.2826086957    
-screen-NN  multiply=0.0135932034  P(screen|object)=0.0551724138  P(object|screen)=0.2463768116    
-drama-NN  multiply=0.0133647462  P(drama|object)=0.0896551724  P(object|drama)=0.149068323    
-comedy-NN  multiply=0.0130671506  P(comedy|object)=0.0620689655  P(object|comedy)=0.2105263158    
-production-NN  multiply=0.0130049261  P(production|object)=0.075862069  P(object|production)=0.1714285714    
-child-NN  multiply=0.011954023  P(child|object)=0.0689655172  P(object|child)=0.1733333333    
-brother-NN  multiply=0.011954023  P(brother|object)=0.0413793103  P(object|brother)=0.2888888889    
-first-JJ  multiply=0.0113343328  P(first|object)=0.0620689655  P(object|first)=0.1826086957    
-soap-NN  multiply=0.0112068966  P(soap|object)=0.0413793103  P(object|soap)=0.2708333333    
-school-NN  multiply=0.0101466508  P(school|object)=0.0551724138  P(object|school)=0.183908046    
+british-JJ  multiply=0.079517  P(british|object)=0.262069  P(object|british)=0.303419    Lift=0.00112 {Confidence word=0.086459 object=0.07438 =0.022568 Lift=3.509395}
+english-JJ  multiply=0.036472  P(english|object)=0.137931  P(object|english)=0.264423    Lift=6.63E-4 {Confidence word=0.086459 object=0.066116 =0.017483 Lift=3.058364}
+television-NN  multiply=0.03017  P(television|object)=0.17931  P(object|television)=0.168254    Lift=5.69E-4 {Confidence word=0.086459 object=0.100127 =0.016847 Lift=1.946055}
+role-NN  multiply=0.027102  P(role|object)=0.165517  P(object|role)=0.163743    Lift=4.84E-4 {Confidence word=0.086459 object=0.108709 =0.0178 Lift=1.893877}
+film-NN  multiply=0.026697  P(film|object)=0.2  P(object|film)=0.133484    Lift=4.52E-4 {Confidence word=0.086459 object=0.140496 =0.018754 Lift=1.543901}
+man-NN  multiply=0.024713  P(man|object)=0.17931  P(object|man)=0.137821    Lift=5.75E-4 {Confidence word=0.086459 object=0.099174 =0.013668 Lift=1.594056}
+appearance-NN  multiply=0.023714  P(appearance|object)=0.096552  P(object|appearance)=0.245614    Lift=8.47E-4 {Confidence word=0.086459 object=0.036236 =0.0089 Lift=2.840815}
+series-NN  multiply=0.022129  P(series|object)=0.124138  P(object|series)=0.178261    Lift=5.4E-4 {Confidence word=0.086459 object=0.073109 =0.013032 Lift=2.061797}
+age-NN  multiply=0.021002  P(age|object)=0.131034  P(object|age)=0.160279    Lift=4.57E-4 {Confidence word=0.086459 object=0.091227 =0.014622 Lift=1.853812}
+actress-NN  multiply=0.020672  P(actress|object)=0.158621  P(object|actress)=0.130326    Lift=3.98E-4 {Confidence word=0.086459 object=0.126828 =0.016529 Lift=1.507371}
+son-NN  multiply=0.019624  P(son|object)=0.117241  P(object|son)=0.167382    Lift=5.03E-4 {Confidence word=0.086459 object=0.074062 =0.012397 Lift=1.935969}
+theatre-NN  multiply=0.019025  P(theatre|object)=0.110345  P(object|theatre)=0.172414    Lift=7.61E-4 {Confidence word=0.086459 object=0.04609 =0.007947 Lift=1.994168}
+stage-NN  multiply=0.018612  P(stage|object)=0.096552  P(object|stage)=0.192771    Lift=5.82E-4 {Confidence word=0.086459 object=0.052765 =0.010172 Lift=2.229624}
+show-NN  multiply=0.015741  P(show|object)=0.089655  P(object|show)=0.175573    Lift=6.84E-4 {Confidence word=0.086459 object=0.04164 =0.007311 Lift=2.030703}
+daughter-NN  multiply=0.015592  P(daughter|object)=0.055172  P(object|daughter)=0.282609    Lift=0.001199 {Confidence word=0.086459 object=0.014622 =0.004132 Lift=3.268702}
+screen-NN  multiply=0.013593  P(screen|object)=0.055172  P(object|screen)=0.246377    Lift=8.0E-4 {Confidence word=0.086459 object=0.021933 =0.005404 Lift=2.849638}
+drama-NN  multiply=0.013365  P(drama|object)=0.089655  P(object|drama)=0.149068    Lift=5.57E-4 {Confidence word=0.086459 object=0.051176 =0.007629 Lift=1.724151}
+comedy-NN  multiply=0.013067  P(comedy|object)=0.062069  P(object|comedy)=0.210526    Lift=8.17E-4 {Confidence word=0.086459 object=0.024158 =0.005086 Lift=2.434985}
+production-NN  multiply=0.013005  P(production|object)=0.075862  P(object|production)=0.171429    Lift=7.22E-4 {Confidence word=0.086459 object=0.033376 =0.005722 Lift=1.982773}
+child-NN  multiply=0.011954  P(child|object)=0.068966  P(object|child)=0.173333    Lift=9.2E-4 {Confidence word=0.086459 object=0.02384 =0.004132 Lift=2.004804}
+brother-NN  multiply=0.011954  P(brother|object)=0.041379  P(object|brother)=0.288889    Lift=9.2E-4 {Confidence word=0.086459 object=0.014304 =0.004132 Lift=3.34134}
+first-JJ  multiply=0.011334  P(first|object)=0.062069  P(object|first)=0.182609    Lift=5.4E-4 {Confidence word=0.086459 object=0.036554 =0.006675 Lift=2.112084}
+soap-NN  multiply=0.011207  P(soap|object)=0.041379  P(object|soap)=0.270833    Lift=8.62E-4 {Confidence word=0.086459 object=0.015257 =0.004132 Lift=3.132506}
+school-NN  multiply=0.010147  P(school|object)=0.055172  P(object|school)=0.183908    Lift=6.34E-4 {Confidence word=0.086459 object=0.027654 =0.005086 Lift=2.127113}
 
 id=56  property=dbo:birthPlace  object=http://dbpedia.org/resource/Japan  NumberOfEntitiesFoundForObject=298
-japanese-JJ  multiply=0.033557047  P(japanese|object)=0.1006711409  P(object|japanese)=0.3333333333    
+japanese-JJ  multiply=0.033557  P(japanese|object)=0.100671  P(object|japanese)=0.333333    Lift=9.87E-4 {Confidence word=0.11157 object=0.032422 =0.010807 Lift=2.987654}
 
 id=57  property=dbo:birthPlace  object=http://dbpedia.org/resource/England  NumberOfEntitiesFoundForObject=263
-english-JJ  multiply=0.1182363264  P(english|object)=0.2509505703  P(object|english)=0.4711538462    
-british-JJ  multiply=0.1162458159  P(british|object)=0.2775665399  P(object|british)=0.4188034188    
-television-NN  multiply=0.0812601847  P(television|object)=0.2585551331  P(object|television)=0.3142857143    
-role-NN  multiply=0.0725768795  P(role|object)=0.2585551331  P(object|role)=0.2807017544    
-series-NN  multiply=0.0630848074  P(series|object)=0.2015209125  P(object|series)=0.3130434783    
-age-NN  multiply=0.0615784105  P(age|object)=0.2129277567  P(object|age)=0.2891986063    
-film-NN  multiply=0.0528534315  P(film|object)=0.2433460076  P(object|film)=0.2171945701    
-son-NN  multiply=0.0503761484  P(son|object)=0.1863117871  P(object|son)=0.2703862661    
-stage-NN  multiply=0.0483072976  P(stage|object)=0.1406844106  P(object|stage)=0.343373494    
-appearance-NN  multiply=0.0462277366  P(appearance|object)=0.1254752852  P(object|appearance)=0.3684210526    
-actress-NN  multiply=0.0459227918  P(actress|object)=0.2319391635  P(object|actress)=0.1979949875    
-man-NN  multiply=0.0453714536  P(man|object)=0.1939163498  P(object|man)=0.233974359    
-character-NN  multiply=0.0384754662  P(character|object)=0.0950570342  P(object|character)=0.4047619048    
-theatre-NN  multiply=0.0382063721  P(theatre|object)=0.1178707224  P(object|theatre)=0.324137931    
-drama-NN  multiply=0.0374087807  P(drama|object)=0.1254752852  P(object|drama)=0.298136646    
-production-NN  multiply=0.0354879594  P(production|object)=0.1064638783  P(object|production)=0.3333333333    
-episode-NN  multiply=0.0335649666  P(episode|object)=0.0912547529  P(object|episode)=0.367816092    
-school-NN  multiply=0.0321664263  P(school|object)=0.0874524715  P(object|school)=0.367816092    
-work-NN  multiply=0.031142495  P(work|object)=0.1216730038  P(object|work)=0.255952381    
-time-NN  multiply=0.0262538475  P(time|object)=0.0950570342  P(object|time)=0.2761904762    
-serial-JJ  multiply=0.0250214645  P(serial|object)=0.0456273764  P(object|serial)=0.5483870968    
-death-NN  multiply=0.0249740754  P(death|object)=0.0646387833  P(object|death)=0.3863636364    
-radio-NN  multiply=0.0249483023  P(radio|object)=0.0646387833  P(object|radio)=0.3859649123    
-first-JJ  multiply=0.0243346008  P(first|object)=0.0874524715  P(object|first)=0.2782608696    
-many-JJ  multiply=0.0210009727  P(many|object)=0.072243346  P(object|many)=0.2906976744    
-young-JJ  multiply=0.0200120072  P(young|object)=0.0570342205  P(object|young)=0.350877193    
-soap-NN  multiply=0.0195659062  P(soap|object)=0.0494296578  P(object|soap)=0.3958333333    
-last-JJ  multiply=0.0192648923  P(last|object)=0.0608365019  P(object|last)=0.3166666667    
-comedy-NN  multiply=0.0192115269  P(comedy|object)=0.0608365019  P(object|comedy)=0.3157894737    
-late-JJ  multiply=0.0191890835  P(late|object)=0.0760456274  P(object|late)=0.2523364486    
-year-NN  multiply=0.0190114068  P(year|object)=0.072243346  P(object|year)=0.2631578947    
-show-NN  multiply=0.0182857806  P(show|object)=0.0798479087  P(object|show)=0.2290076336    
-part-NN  multiply=0.0180764196  P(part|object)=0.0760456274  P(object|part)=0.237704918    
-screen-NN  multiply=0.017358241  P(screen|object)=0.0570342205  P(object|screen)=0.3043478261    
-mother-NN  multiply=0.0163790582  P(mother|object)=0.0532319392  P(object|mother)=0.3076923077    
-father-NN  multiply=0.0162954916  P(father|object)=0.0570342205  P(object|father)=0.2857142857    
-career-NN  multiply=0.0158935361  P(career|object)=0.072243346  P(object|career)=0.22    
-daughter-NN  multiply=0.0158703918  P(daughter|object)=0.0456273764  P(object|daughter)=0.347826087    
-opera-NN  multiply=0.0158174905  P(opera|object)=0.0494296578  P(object|opera)=0.32    
-child-NN  multiply=0.0152091255  P(child|object)=0.0570342205  P(object|child)=0.2666666667    
-sitcom-NN  multiply=0.0149786842  P(sitcom|object)=0.0380228137  P(object|sitcom)=0.3939393939    
-director-NN  multiply=0.0131648882  P(director|object)=0.0532319392  P(object|director)=0.247311828    
-debut-NN  multiply=0.0121969285  P(debut|object)=0.0494296578  P(object|debut)=0.2467532468    
-adaptation-NN  multiply=0.0119312967  P(adaptation|object)=0.0266159696  P(object|adaptation)=0.4482758621    
-version-NN  multiply=0.0115379573  P(version|object)=0.030418251  P(object|version)=0.3793103448    
-wife-NN  multiply=0.0114068441  P(wife|object)=0.0342205323  P(object|wife)=0.3333333333    
-high-JJ  multiply=0.0106463878  P(high|object)=0.0380228137  P(object|high)=0.28    
-several-JJ  multiply=0.010302956  P(several|object)=0.0456273764  P(object|several)=0.2258064516    
-member-NN  multiply=0.0100036212  P(member|object)=0.0494296578  P(object|member)=0.2023809524    
+english-JJ  multiply=0.118236  P(english|object)=0.250951  P(object|english)=0.471154    Lift=0.001206 {Confidence word=0.112524 object=0.066116 =0.031151 Lift=4.187147}
+british-JJ  multiply=0.116246  P(british|object)=0.277567  P(object|british)=0.418803    Lift=0.001186 {Confidence word=0.112524 object=0.07438 =0.031151 Lift=3.721908}
+television-NN  multiply=0.08126  P(television|object)=0.258555  P(object|television)=0.314286    Lift=8.21E-4 {Confidence word=0.112524 object=0.100127 =0.031469 Lift=2.793059}
+role-NN  multiply=0.072577  P(role|object)=0.258555  P(object|role)=0.280702    Lift=7.56E-4 {Confidence word=0.112524 object=0.108709 =0.030515 Lift=2.494598}
+series-NN  multiply=0.063085  P(series|object)=0.201521  P(object|series)=0.313043    Lift=8.76E-4 {Confidence word=0.112524 object=0.073109 =0.022886 Lift=2.782019}
+age-NN  multiply=0.061578  P(age|object)=0.212928  P(object|age)=0.289199    Lift=7.42E-4 {Confidence word=0.112524 object=0.091227 =0.026383 Lift=2.57011}
+film-NN  multiply=0.052853  P(film|object)=0.243346  P(object|film)=0.217195    Lift=5.51E-4 {Confidence word=0.112524 object=0.140496 =0.030515 Lift=1.930209}
+son-NN  multiply=0.050376  P(son|object)=0.186312  P(object|son)=0.270386    Lift=8.0E-4 {Confidence word=0.112524 object=0.074062 =0.020025 Lift=2.402924}
+stage-NN  multiply=0.048307  P(stage|object)=0.140684  P(object|stage)=0.343373    Lift=8.47E-4 {Confidence word=0.112524 object=0.052765 =0.018118 Lift=3.051562}
+appearance-NN  multiply=0.046228  P(appearance|object)=0.125475  P(object|appearance)=0.368421    Lift=0.001101 {Confidence word=0.112524 object=0.036236 =0.01335 Lift=3.27416}
+actress-NN  multiply=0.045923  P(actress|object)=0.231939  P(object|actress)=0.197995    Lift=5.81E-4 {Confidence word=0.112524 object=0.126828 =0.025111 Lift=1.759583}
+man-NN  multiply=0.045371  P(man|object)=0.193916  P(object|man)=0.233974    Lift=6.22E-4 {Confidence word=0.112524 object=0.099174 =0.023204 Lift=2.079331}
+character-NN  multiply=0.038475  P(character|object)=0.095057  P(object|character)=0.404762    Lift=0.001132 {Confidence word=0.112524 object=0.026701 =0.010807 Lift=3.597121}
+theatre-NN  multiply=0.038206  P(theatre|object)=0.117871  P(object|theatre)=0.324138    Lift=8.13E-4 {Confidence word=0.112524 object=0.04609 =0.01494 Lift=2.880616}
+drama-NN  multiply=0.037409  P(drama|object)=0.125475  P(object|drama)=0.298137    Lift=7.79E-4 {Confidence word=0.112524 object=0.051176 =0.015257 Lift=2.649542}
+production-NN  multiply=0.035488  P(production|object)=0.106464  P(object|production)=0.333333    Lift=0.001014 {Confidence word=0.112524 object=0.033376 =0.011125 Lift=2.962335}
+episode-NN  multiply=0.033565  P(episode|object)=0.091255  P(object|episode)=0.367816    Lift=0.001049 {Confidence word=0.112524 object=0.027654 =0.010172 Lift=3.268784}
+school-NN  multiply=0.032166  P(school|object)=0.087452  P(object|school)=0.367816    Lift=0.001005 {Confidence word=0.112524 object=0.027654 =0.010172 Lift=3.268784}
+work-NN  multiply=0.031142  P(work|object)=0.121673  P(object|work)=0.255952    Lift=7.24E-4 {Confidence word=0.112524 object=0.053401 =0.013668 Lift=2.27465}
+time-NN  multiply=0.026254  P(time|object)=0.095057  P(object|time)=0.27619    Lift=9.05E-4 {Confidence word=0.112524 object=0.033376 =0.009218 Lift=2.454506}
+serial-JJ  multiply=0.025021  P(serial|object)=0.045627  P(object|serial)=0.548387    Lift=0.001472 {Confidence word=0.112524 object=0.009854 =0.005404 Lift=4.873519}
+death-NN  multiply=0.024974  P(death|object)=0.064639  P(object|death)=0.386364    Lift=0.001469 {Confidence word=0.112524 object=0.013986 =0.005404 Lift=3.433616}
+radio-NN  multiply=0.024948  P(radio|object)=0.064639  P(object|radio)=0.385965    Lift=0.001134 {Confidence word=0.112524 object=0.018118 =0.006993 Lift=3.430072}
+first-JJ  multiply=0.024335  P(first|object)=0.087452  P(object|first)=0.278261    Lift=7.6E-4 {Confidence word=0.112524 object=0.036554 =0.010172 Lift=2.472906}
+many-JJ  multiply=0.021001  P(many|object)=0.072243  P(object|many)=0.290698    Lift=8.4E-4 {Confidence word=0.112524 object=0.027336 =0.007947 Lift=2.583432}
+young-JJ  multiply=0.020012  P(young|object)=0.057034  P(object|young)=0.350877    Lift=0.001001 {Confidence word=0.112524 object=0.018118 =0.006357 Lift=3.118248}
+soap-NN  multiply=0.019566  P(soap|object)=0.04943  P(object|soap)=0.395833    Lift=0.00103 {Confidence word=0.112524 object=0.015257 =0.006039 Lift=3.517773}
+last-JJ  multiply=0.019265  P(last|object)=0.060837  P(object|last)=0.316667    Lift=0.001014 {Confidence word=0.112524 object=0.019072 =0.006039 Lift=2.814218}
+comedy-NN  multiply=0.019212  P(comedy|object)=0.060837  P(object|comedy)=0.315789    Lift=8.0E-4 {Confidence word=0.112524 object=0.024158 =0.007629 Lift=2.806423}
+late-JJ  multiply=0.019189  P(late|object)=0.076046  P(object|late)=0.252336    Lift=7.11E-4 {Confidence word=0.112524 object=0.034011 =0.008582 Lift=2.242515}
+year-NN  multiply=0.019011  P(year|object)=0.072243  P(object|year)=0.263158    Lift=6.34E-4 {Confidence word=0.112524 object=0.036236 =0.009536 Lift=2.338686}
+show-NN  multiply=0.018286  P(show|object)=0.079848  P(object|show)=0.229008    Lift=6.1E-4 {Confidence word=0.112524 object=0.04164 =0.009536 Lift=2.035192}
+part-NN  multiply=0.018076  P(part|object)=0.076046  P(object|part)=0.237705    Lift=6.23E-4 {Confidence word=0.112524 object=0.038779 =0.009218 Lift=2.112485}
+screen-NN  multiply=0.017358  P(screen|object)=0.057034  P(object|screen)=0.304348    Lift=8.27E-4 {Confidence word=0.112524 object=0.021933 =0.006675 Lift=2.704741}
+mother-NN  multiply=0.016379  P(mother|object)=0.053232  P(object|mother)=0.307692    Lift=0.001024 {Confidence word=0.112524 object=0.016529 =0.005086 Lift=2.734463}
+father-NN  multiply=0.016295  P(father|object)=0.057034  P(object|father)=0.285714    Lift=0.001018 {Confidence word=0.112524 object=0.0178 =0.005086 Lift=2.539144}
+career-NN  multiply=0.015894  P(career|object)=0.072243  P(object|career)=0.22    Lift=7.22E-4 {Confidence word=0.112524 object=0.031786 =0.006993 Lift=1.955141}
+daughter-NN  multiply=0.01587  P(daughter|object)=0.045627  P(object|daughter)=0.347826    Lift=9.92E-4 {Confidence word=0.112524 object=0.014622 =0.005086 Lift=3.091132}
+opera-NN  multiply=0.015817  P(opera|object)=0.04943  P(object|opera)=0.32    Lift=9.89E-4 {Confidence word=0.112524 object=0.015893 =0.005086 Lift=2.843842}
+child-NN  multiply=0.015209  P(child|object)=0.057034  P(object|child)=0.266667    Lift=7.6E-4 {Confidence word=0.112524 object=0.02384 =0.006357 Lift=2.369868}
+sitcom-NN  multiply=0.014979  P(sitcom|object)=0.038023  P(object|sitcom)=0.393939    Lift=0.001152 {Confidence word=0.112524 object=0.01049 =0.004132 Lift=3.500942}
+director-NN  multiply=0.013165  P(director|object)=0.053232  P(object|director)=0.247312    Lift=5.72E-4 {Confidence word=0.112524 object=0.029561 =0.007311 Lift=2.197862}
+debut-NN  multiply=0.012197  P(debut|object)=0.04943  P(object|debut)=0.246753    Lift=6.42E-4 {Confidence word=0.112524 object=0.024476 =0.006039 Lift=2.192897}
+adaptation-NN  multiply=0.011931  P(adaptation|object)=0.026616  P(object|adaptation)=0.448276    Lift=9.18E-4 {Confidence word=0.112524 object=0.009218 =0.004132 Lift=3.98383}
+version-NN  multiply=0.011538  P(version|object)=0.030418  P(object|version)=0.37931    Lift=0.001049 {Confidence word=0.112524 object=0.009218 =0.003497 Lift=3.370933}
+wife-NN  multiply=0.011407  P(wife|object)=0.034221  P(object|wife)=0.333333    Lift=8.77E-4 {Confidence word=0.112524 object=0.012397 =0.004132 Lift=2.962335}
+high-JJ  multiply=0.010646  P(high|object)=0.038023  P(object|high)=0.28    Lift=7.6E-4 {Confidence word=0.112524 object=0.015893 =0.00445 Lift=2.488362}
+several-JJ  multiply=0.010303  P(several|object)=0.045627  P(object|several)=0.225806    Lift=7.36E-4 {Confidence word=0.112524 object=0.019708 =0.00445 Lift=2.006743}
+member-NN  multiply=0.010004  P(member|object)=0.04943  P(object|member)=0.202381    Lift=5.88E-4 {Confidence word=0.112524 object=0.026701 =0.005404 Lift=1.798561}
 
 id=58  property=dbo:birthPlace  object=http://dbpedia.org/resource/Tokyo  NumberOfEntitiesFoundForObject=183
-japanese-JJ  multiply=0.0285010179  P(japanese|object)=0.1038251366  P(object|japanese)=0.2745098039    
+japanese-JJ  multiply=0.028501  P(japanese|object)=0.103825  P(object|japanese)=0.27451    Lift=0.001018 {Confidence word=0.090909 object=0.032422 =0.0089 Lift=3.019608}
 
 id=59  property=dbo:birthPlace  object=http://dbpedia.org/resource/United_Kingdom  NumberOfEntitiesFoundForObject=23
-british-JJ  multiply=0.0297287254  P(british|object)=0.2173913043  P(object|british)=0.1367521368    
-role-NN  multiply=0.0249173659  P(role|object)=0.3043478261  P(object|role)=0.081871345    
-film-NN  multiply=0.0227228015  P(film|object)=0.3043478261  P(object|film)=0.0746606335    
-series-NN  multiply=0.0215500945  P(series|object)=0.2608695652  P(object|series)=0.0826086957    
-actress-NN  multiply=0.0163452109  P(actress|object)=0.2608695652  P(object|actress)=0.0626566416    
-child-NN  multiply=0.0156521739  P(child|object)=0.1304347826  P(object|child)=0.12    
-episode-NN  multiply=0.011994003  P(episode|object)=0.0869565217  P(object|episode)=0.1379310345    
-debut-NN  multiply=0.0112930548  P(debut|object)=0.0869565217  P(object|debut)=0.1298701299    
-first-JJ  multiply=0.0105860113  P(first|object)=0.0869565217  P(object|first)=0.1217391304    
-television-NN  multiply=0.0104899931  P(television|object)=0.1739130435  P(object|television)=0.0603174603    
-english-JJ  multiply=0.0100334448  P(english|object)=0.1304347826  P(object|english)=0.0769230769    
+british-JJ  multiply=0.029729  P(british|object)=0.217391  P(object|british)=0.136752    Lift=9.29E-4 {Confidence word=0.039097 object=0.07438 =0.010172 Lift=3.497742}
+role-NN  multiply=0.024917  P(role|object)=0.304348  P(object|role)=0.081871    Lift=8.9E-4 {Confidence word=0.039097 object=0.108709 =0.0089 Lift=2.094043}
+film-NN  multiply=0.022723  P(film|object)=0.304348  P(object|film)=0.074661    Lift=6.89E-4 {Confidence word=0.039097 object=0.140496 =0.01049 Lift=1.909613}
+series-NN  multiply=0.02155  P(series|object)=0.26087  P(object|series)=0.082609    Lift=0.001134 {Confidence word=0.039097 object=0.073109 =0.006039 Lift=2.112902}
+actress-NN  multiply=0.016345  P(actress|object)=0.26087  P(object|actress)=0.062657    Lift=6.54E-4 {Confidence word=0.039097 object=0.126828 =0.007947 Lift=1.602584}
+child-NN  multiply=0.015652  P(child|object)=0.130435  P(object|child)=0.12    Lift=0.001739 {Confidence word=0.039097 object=0.02384 =0.002861 Lift=3.069268}
+episode-NN  multiply=0.011994  P(episode|object)=0.086957  P(object|episode)=0.137931    Lift=0.001 {Confidence word=0.039097 object=0.027654 =0.003814 Lift=3.527895}
+debut-NN  multiply=0.011293  P(debut|object)=0.086957  P(object|debut)=0.12987    Lift=0.001129 {Confidence word=0.039097 object=0.024476 =0.003179 Lift=3.321719}
+first-JJ  multiply=0.010586  P(first|object)=0.086957  P(object|first)=0.121739    Lift=7.56E-4 {Confidence word=0.039097 object=0.036554 =0.00445 Lift=3.11375}
+television-NN  multiply=0.01049  P(television|object)=0.173913  P(object|television)=0.060317    Lift=5.52E-4 {Confidence word=0.039097 object=0.100127 =0.006039 Lift=1.542754}
+english-JJ  multiply=0.010033  P(english|object)=0.130435  P(object|english)=0.076923    Lift=6.27E-4 {Confidence word=0.039097 object=0.066116 =0.005086 Lift=1.96748}
 
 id=60  property=dbo:birthPlace  object=http://dbpedia.org/resource/Malmö  NumberOfEntitiesFoundForObject=10
-swedish-JJ  multiply=0.0336448598  P(swedish|object)=0.6  P(object|swedish)=0.0560747664    
-numerous-JJ  multiply=0.01  P(numerous|object)=0.2  P(object|numerous)=0.05    
+swedish-JJ  multiply=0.033645  P(swedish|object)=0.6  P(object|swedish)=0.056075    Lift=0.005607 {Confidence word=0.003179 object=0.034011 =0.001907 Lift=17.641121}
+numerous-JJ  multiply=0.01  P(numerous|object)=0.2  P(object|numerous)=0.05    Lift=0.005 {Confidence word=0.003179 object=0.012715 =6.36E-4 Lift=15.73}
 
 id=61  property=dbo:birthPlace  object=http://dbpedia.org/resource/Hertfordshire  NumberOfEntitiesFoundForObject=10
-real-JJ  multiply=0.0133333333  P(real|object)=0.2  P(object|real)=0.0666666667    
-appearance-NN  multiply=0.0105263158  P(appearance|object)=0.3  P(object|appearance)=0.0350877193    
+real-JJ  multiply=0.013333  P(real|object)=0.2  P(object|real)=0.066667    Lift=0.006667 {Confidence word=0.004132 object=0.009536 =6.36E-4 Lift=16.133333}
+appearance-NN  multiply=0.010526  P(appearance|object)=0.3  P(object|appearance)=0.035088    Lift=0.002632 {Confidence word=0.004132 object=0.036236 =0.001271 Lift=8.491228}
 
 id=62  property=dbo:birthPlace  object=http://dbpedia.org/resource/Guangzhou  NumberOfEntitiesFoundForObject=13
-popular-JJ  multiply=0.0135746606  P(popular|object)=0.2307692308  P(object|popular)=0.0588235294    
+popular-JJ  multiply=0.013575  P(popular|object)=0.230769  P(object|popular)=0.058824    Lift=0.004525 {Confidence word=0.004132 object=0.016211 =9.54E-4 Lift=14.235294}
 
 id=63  property=dbo:birthPlace  object=http://dbpedia.org/resource/Taipei  NumberOfEntitiesFoundForObject=38
-taiwanese-JJ  multiply=0.0350877193  P(taiwanese|object)=0.1052631579  P(object|taiwanese)=0.3333333333    
+taiwanese-JJ  multiply=0.035088  P(taiwanese|object)=0.105263  P(object|taiwanese)=0.333333    Lift=0.008772 {Confidence word=0.012079 object=0.003814 =0.001271 Lift=27.596491}
 
 id=64  property=dbo:birthPlace  object=http://dbpedia.org/resource/Hong_Kong  NumberOfEntitiesFoundForObject=158
-chinese-JJ  multiply=0.0725516322  P(chinese|object)=0.2088607595  P(object|chinese)=0.3473684211    
-singer-NN  multiply=0.0491289635  P(singer|object)=0.1772151899  P(object|singer)=0.2772277228    
-family-NN  multiply=0.0418512658  P(family|object)=0.1455696203  P(object|family)=0.2875    
-name-NN  multiply=0.0362907908  P(name|object)=0.1582278481  P(object|name)=0.2293577982    
-industry-NN  multiply=0.0316455696  P(industry|object)=0.0632911392  P(object|industry)=0.5    
-entertainment-NN  multiply=0.026371308  P(entertainment|object)=0.0632911392  P(object|entertainment)=0.4166666667    
-song-NN  multiply=0.0193913278  P(song|object)=0.0759493671  P(object|song)=0.2553191489    
-popular-JJ  multiply=0.0178704393  P(popular|object)=0.0759493671  P(object|popular)=0.2352941176    
-award-NN  multiply=0.0170508218  P(award|object)=0.1202531646  P(object|award)=0.1417910448    
-artist-NN  multiply=0.0154473289  P(artist|object)=0.0759493671  P(object|artist)=0.2033898305    
-career-NN  multiply=0.0124050633  P(career|object)=0.0886075949  P(object|career)=0.14    
-music-NN  multiply=0.0110988809  P(music|object)=0.0696202532  P(object|music)=0.1594202899    
-group-NN  multiply=0.0103567319  P(group|object)=0.0379746835  P(object|group)=0.2727272727    
+chinese-JJ  multiply=0.072552  P(chinese|object)=0.208861  P(object|chinese)=0.347368    Lift=0.002199 {Confidence word=0.050223 object=0.030197 =0.01049 Lift=6.916589}
+singer-NN  multiply=0.049129  P(singer|object)=0.177215  P(object|singer)=0.277228    Lift=0.001755 {Confidence word=0.050223 object=0.032104 =0.0089 Lift=5.51999}
+family-NN  multiply=0.041851  P(family|object)=0.14557  P(object|family)=0.2875    Lift=0.00182 {Confidence word=0.050223 object=0.025429 =0.007311 Lift=5.724525}
+name-NN  multiply=0.036291  P(name|object)=0.158228  P(object|name)=0.229358    Lift=0.001452 {Confidence word=0.050223 object=0.034647 =0.007947 Lift=4.566833}
+industry-NN  multiply=0.031646  P(industry|object)=0.063291  P(object|industry)=0.5    Lift=0.003165 {Confidence word=0.050223 object=0.006357 =0.003179 Lift=9.955696}
+entertainment-NN  multiply=0.026371  P(entertainment|object)=0.063291  P(object|entertainment)=0.416667    Lift=0.002637 {Confidence word=0.050223 object=0.007629 =0.003179 Lift=8.296414}
+song-NN  multiply=0.019391  P(song|object)=0.075949  P(object|song)=0.255319    Lift=0.001616 {Confidence word=0.050223 object=0.01494 =0.003814 Lift=5.08376}
+popular-JJ  multiply=0.01787  P(popular|object)=0.075949  P(object|popular)=0.235294    Lift=0.001489 {Confidence word=0.050223 object=0.016211 =0.003814 Lift=4.685034}
+award-NN  multiply=0.017051  P(award|object)=0.120253  P(object|award)=0.141791    Lift=8.97E-4 {Confidence word=0.050223 object=0.042594 =0.006039 Lift=2.823257}
+artist-NN  multiply=0.015447  P(artist|object)=0.075949  P(object|artist)=0.20339    Lift=0.001287 {Confidence word=0.050223 object=0.018754 =0.003814 Lift=4.049775}
+career-NN  multiply=0.012405  P(career|object)=0.088608  P(object|career)=0.14    Lift=8.86E-4 {Confidence word=0.050223 object=0.031786 =0.00445 Lift=2.787595}
+music-NN  multiply=0.011099  P(music|object)=0.06962  P(object|music)=0.15942    Lift=0.001009 {Confidence word=0.050223 object=0.021933 =0.003497 Lift=3.17428}
+group-NN  multiply=0.010357  P(group|object)=0.037975  P(object|group)=0.272727    Lift=0.001726 {Confidence word=0.050223 object=0.006993 =0.001907 Lift=5.43038}
 
 id=65  property=dbo:birthPlace  object=http://dbpedia.org/resource/UK  NumberOfEntitiesFoundForObject=64
-english-JJ  multiply=0.0396634615  P(english|object)=0.34375  P(object|english)=0.1153846154    
-television-NN  multiply=0.0297619048  P(television|object)=0.375  P(object|television)=0.0793650794    
-british-JJ  multiply=0.0240384615  P(british|object)=0.28125  P(object|british)=0.0854700855    
-age-NN  multiply=0.0228658537  P(age|object)=0.3125  P(object|age)=0.0731707317    
-film-NN  multiply=0.0212104072  P(film|object)=0.375  P(object|film)=0.056561086    
-role-NN  multiply=0.0201023392  P(role|object)=0.3125  P(object|role)=0.0643274854    
-stage-NN  multiply=0.0197665663  P(stage|object)=0.21875  P(object|stage)=0.0903614458    
-soap-NN  multiply=0.0159505208  P(soap|object)=0.109375  P(object|soap)=0.1458333333    
-series-NN  multiply=0.0142663043  P(series|object)=0.21875  P(object|series)=0.0652173913    
-adaptation-NN  multiply=0.0134698276  P(adaptation|object)=0.078125  P(object|adaptation)=0.1724137931    
-school-NN  multiply=0.0114942529  P(school|object)=0.125  P(object|school)=0.091954023    
-theatre-NN  multiply=0.0107758621  P(theatre|object)=0.15625  P(object|theatre)=0.0689655172    
-drama-NN  multiply=0.0106754658  P(drama|object)=0.15625  P(object|drama)=0.0683229814    
-serial-JJ  multiply=0.0100806452  P(serial|object)=0.0625  P(object|serial)=0.1612903226    
+english-JJ  multiply=0.039663  P(english|object)=0.34375  P(object|english)=0.115385    Lift=0.001653 {Confidence word=0.021615 object=0.066116 =0.007629 Lift=5.338235}
+television-NN  multiply=0.029762  P(television|object)=0.375  P(object|television)=0.079365    Lift=0.00119 {Confidence word=0.021615 object=0.100127 =0.007947 Lift=3.671802}
+british-JJ  multiply=0.024038  P(british|object)=0.28125  P(object|british)=0.08547    Lift=0.001202 {Confidence word=0.021615 object=0.07438 =0.006357 Lift=3.954248}
+age-NN  multiply=0.022866  P(age|object)=0.3125  P(object|age)=0.073171    Lift=0.001089 {Confidence word=0.021615 object=0.091227 =0.006675 Lift=3.385222}
+film-NN  multiply=0.02121  P(film|object)=0.375  P(object|film)=0.056561    Lift=8.48E-4 {Confidence word=0.021615 object=0.140496 =0.007947 Lift=2.616782}
+role-NN  multiply=0.020102  P(role|object)=0.3125  P(object|role)=0.064327    Lift=9.14E-4 {Confidence word=0.021615 object=0.108709 =0.006993 Lift=2.976092}
+stage-NN  multiply=0.019767  P(stage|object)=0.21875  P(object|stage)=0.090361    Lift=0.001318 {Confidence word=0.021615 object=0.052765 =0.004768 Lift=4.180546}
+soap-NN  multiply=0.015951  P(soap|object)=0.109375  P(object|soap)=0.145833    Lift=0.002279 {Confidence word=0.021615 object=0.015257 =0.002225 Lift=6.746936}
+series-NN  multiply=0.014266  P(series|object)=0.21875  P(object|series)=0.065217    Lift=9.51E-4 {Confidence word=0.021615 object=0.073109 =0.004768 Lift=3.017263}
+adaptation-NN  multiply=0.01347  P(adaptation|object)=0.078125  P(object|adaptation)=0.172414    Lift=0.002694 {Confidence word=0.021615 object=0.009218 =0.001589 Lift=7.976673}
+school-NN  multiply=0.011494  P(school|object)=0.125  P(object|school)=0.091954    Lift=0.001437 {Confidence word=0.021615 object=0.027654 =0.002543 Lift=4.254226}
+theatre-NN  multiply=0.010776  P(theatre|object)=0.15625  P(object|theatre)=0.068966    Lift=0.001078 {Confidence word=0.021615 object=0.04609 =0.003179 Lift=3.190669}
+drama-NN  multiply=0.010675  P(drama|object)=0.15625  P(object|drama)=0.068323    Lift=9.7E-4 {Confidence word=0.021615 object=0.051176 =0.003497 Lift=3.160943}
+serial-JJ  multiply=0.010081  P(serial|object)=0.0625  P(object|serial)=0.16129    Lift=0.002016 {Confidence word=0.021615 object=0.009854 =0.001589 Lift=7.462049}
 
 id=66  property=dbo:birthPlace  object=http://dbpedia.org/resource/Gothenburg  NumberOfEntitiesFoundForObject=19
-swedish-JJ  multiply=0.0122970979  P(swedish|object)=0.2631578947  P(object|swedish)=0.046728972    
+swedish-JJ  multiply=0.012297  P(swedish|object)=0.263158  P(object|swedish)=0.046729    Lift=0.002459 {Confidence word=0.006039 object=0.034011 =0.001589 Lift=7.737334}
 
