@@ -1,0 +1,353 @@
+[ {
+  "entityIndex" : "1_entity6826",
+  "entityUrl" : "http://dbpedia.org/resource/Kong_Cho_Ha",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Jiāng Zuò Hàn" ]
+  },
+  "words" : [ "Tan", "Malaysia", "Cho", "Seri", "Ha", "Member", "Kong", "Malaysian", "Minister", "15", "'", "江作汉", ".", "traditional", "pinyin", "simplified", "4", "5", "served", "name", "-RRB-", ":", ";", "Transport", "Parliament", "June", "-LRB-", "September", "May", "江作漢", "29", "2010", "Sri", "1950", "Hàn", "江", "November", "1999", "Lumut", "born", "politician", "Perak", "constituency", "Zuò", "2013", "Dato", "Chinese", "family", "Jiāng" ],
+  "adjectives" : [ "traditional", "Chinese", "Malaysian" ],
+  "nouns" : [ "pinyin", "constituency", "politician", "name", "family" ],
+  "text" : "(This is a Chinese name; the family name is Kong (江).) Tan Sri Dato' Seri Kong Cho Ha (simplified Chinese: 江作汉; traditional Chinese: 江作漢; pinyin: Jiāng Zuò Hàn; born 15 September 1950) is a Malaysian politician. He served as the Minister for Transport from 4 June 2010 to 5 May 2013. He was the Member of the Parliament of Malaysia for the Lumut constituency in Perak from 29 November 1999 to 5 May 2013. He is a member of the Malaysian Chinese Association (MCA) and had served as its secretary-general from 7 April 2010 to 2 January 2014. Kong became a deputy Minister after the 2004 election. In April 2009, he replaced Ong Ka Chuan as Minister for Housing and Local Government. In June 2010, he moved to the Transport portfolio, replacing Ong Tee Keat. During the MCA party Central Committee re-election in 2010, he partnered with Chua Soi Lek to contest for Deputy Presidency (Chua contested for Presidency). However he was defeated by Liow Tiong Lai who was Ong Ka Ting's partner. He was later appointed by Dr Chua, the new President, as the party's Secretary-General. He was replaced by Ong Ka Chuan who was picked by Liow to became secretary-general again the second time on 2 January 2014."
+}, {
+  "entityIndex" : "2_entity6851",
+  "entityUrl" : "http://dbpedia.org/resource/Kristyn_Wong-Tam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Huáng Huìwén" ]
+  },
+  "words" : [ "Kristyn", "-LRB-", "Canadian", "city", "27", "electoral", "replace", "2010", "Council", "Chan", "1972", "retire", "opponent", "councillor", "election", "Kyle", "race", "born", "politician", "c.", "City", ",", ".", "plus", "chosen", "elected", "Canada", "Wong-Tam", "400", "Ward", "Ken", "Centre-Rosedale", "council", "district", "Rae", "-RRB-", "heated", "votes", "defeating", "Ontario", "Toronto" ],
+  "adjectives" : [ "Canadian", "electoral", "heated" ],
+  "nouns" : [ "election", "race", "city", "council", "politician", "district", "opponent", "councillor" ],
+  "text" : "Kristyn Wong-Tam (born c. 1972) is a Canadian politician. She is a city councillor in Toronto, Ontario, Canada. She is councillor for the Toronto Centre-Rosedale electoral district (Ward 27). She was elected to Toronto City Council in the 2010 city council election to replace Kyle Rae who had chosen to retire, defeating opponent Ken Chan in the heated race by just 400 plus votes. She was re-elected in 2014."
+}, {
+  "entityIndex" : "3_entity6928",
+  "entityUrl" : "http://dbpedia.org/resource/Kathleen_Wong_Mei_Yin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Huáng Měi Yuán" ]
+  },
+  "words" : [ "harmony", "-LRB-", "Yuán", "Previously", "Commission", "political", "Malaysia", "acts", "unity", "October", "government", "1970", "Wong", "liaison", "Kathleen", "Malaysian", "黄美圆", "activist", "High", "12", "promoting", "Huáng", "born", "黃美圓", ",", ".", "Mei", "Perak", "traditional", "pinyin", "Economic", "simplified", "Australian", "served", "-RRB-", "Chinese", ":", "Měi", ";", "Political", "Yin", "Officer" ],
+  "adjectives" : [ "traditional", "Australian", "political", "Malaysian" ],
+  "nouns" : [ "activist", "unity", "harmony", "pinyin", "government", "liaison" ],
+  "text" : "Kathleen Wong Mei Yin (simplified Chinese: 黄美圆; traditional Chinese: 黃美圓; pinyin: Huáng Měi Yuán; born 12 October 1970) is a political activist promoting unity and harmony in Perak, Malaysia. Previously, she served as an Economic and Political Officer for the Australian High Commission in Malaysia. She acts as a liaison for the Australian and Malaysian government."
+}, {
+  "entityIndex" : "4_entity6930",
+  "entityUrl" : "http://dbpedia.org/resource/Koh_Nai_Kwong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Gǔ Nǎi Guāng" ]
+  },
+  "words" : [ "-LRB-", "Kwong", "Chief", "housing", "Legal", "Guāng", "古乃光", "Council", "local", "Barisan", "Division", "state", "Bukit", "Member", "Datuk", "Nasional", "Adviser", "古", "Koh", "Melaka", "politician", "Nǎi", "also", "MCA", ",", "Gǔ", ".", "former", "authorities", "transportation", "Katil", "environment", "pinyin", "task", "Nai", "name", "-RRB-", "Chinese", ":", "force", ";", "family" ],
+  "adjectives" : [ "Legal", "Chinese", "former", "local" ],
+  "nouns" : [ "housing", "politician", "Nǎi", "Gǔ", "Guāng", "transportation", "environment", "pinyin", "task", "name", "force", "state", "family" ],
+  "text" : "(This is a Chinese name; the family name is Koh(古).) Datuk Koh Nai Kwong (Chinese: 古乃光; pinyin: Gǔ Nǎi Guāng) is the Legal Adviser for Barisan Nasional for the state of Melaka. He is also the former Council Member for the state of Melaka on the task force of housing, local authorities, environment and transportation. Koh is the politician and the Chief of MCA Bukit Katil Division, Melaka. He was a Malacca State Legislative Assembly member for the constituency of N.19 Kesidang, Melaka during the 2004 to 2008 term. He was later defeated by the DAP's Goh Leong San, candidate in the Malaysian 12th general election, 2008 by a majority of 1,399 votes. In the Malaysian 13th general election, 2013, Koh Nai Kwong won the parliamentary seat of Alor Gajah, Melaka."
+}, {
+  "entityIndex" : "5_entity5122",
+  "entityUrl" : "http://dbpedia.org/resource/Jan_C._Ting",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Dīng Jǐngān" ]
+  },
+  "words" : [ "Professor", "-LRB-", "Dīng", "Law", "endorsement", "Jǐngān", "Republican", "丁景安", "，", "two", "years", "December", "candidate", "U.S.", "2006", "later", "Party", "nominee", "Barack", "Ching-an", "dispute", "election", "Obama", "17", "Democratic", "born", "Senator", "Ting", ",", "Delaware", ".", "Pennsylvania", "Senate", "pinyin", "Temple", "University", "left", "Jan", "-RRB-", "Chinese", ":", ";", "1948", "presidential", "Philadelphia" ],
+  "adjectives" : [ "Democratic", "Republican", "presidential" ],
+  "nouns" : [ "dispute", "candidate", "pinyin", "election", "endorsement", "nominee" ],
+  "text" : "Jan Ching-an Ting (Chinese: 丁景安; pinyin: Dīng Jǐngān，born December 17, 1948) is a Professor of Law at Temple University in Philadelphia, Pennsylvania. He was the Republican candidate for U.S. Senator from Delaware in the 2006 U.S. Senate election, but two years later Ting left the Republican Party in a dispute over his endorsement of Democratic presidential nominee Barack Obama."
+}, {
+  "entityIndex" : "6_entity6042",
+  "entityUrl" : "http://dbpedia.org/resource/James_Wong_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "huáng jīn míng" ]
+  },
+  "words" : [ "fifty", "office", "jīn", "years", "assemblyman", "National", "record", "Wong", "July", "state", "Malaysian", "Minister", "--", "Datuk", "Deputy", "18", "active", "history", ",", ".", "Kim", "August", "Min", "pinyin", "6", "served", "name", "-RRB-", ":", ";", "Sarawak", "politics", "-LRB-", "longest", "黄", "Chief", "黄金明", "nearly", "2011", "serving", "holding", "Party", "huáng", "Amar", "James", "politician", "míng", "SNAP", "Chinese", "holds", "decades", "family", "first", "1922", "president" ],
+  "adjectives" : [ "Chinese", "active", "Malaysian", "first", "huáng" ],
+  "nouns" : [ "assemblyman", "pinyin", "politician", "record", "name", "history", "state", "office", "family", "jīn", "míng", "president" ],
+  "text" : "(This is a Chinese name; the family name is Wong (黄).) Datuk Amar James Wong Kim Min (Chinese: 黄金明; pinyin: huáng jīn míng) (6 August 1922 – 18 July 2011) was a Malaysian politician active in the politics of Sarawak for decades. Wong holds the record as the longest serving assemblyman in the history of the state of Sarawak, holding the office for nearly fifty years. Wong served as the first Deputy Chief Minister of Sarawak and the president of the Sarawak National Party (SNAP). He held several other ministries of Sarawak politics until his retirement in 2001."
+}, {
+  "entityIndex" : "7_entity6311",
+  "entityUrl" : "http://dbpedia.org/resource/Jay_Chen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Chén Jièfēi" ]
+  },
+  "words" : [ "Taiwanese-American", "Jay", "Kài-poe", "Congressional", "Board", "Education", "La", "Southern", "陳介飛", "Memorial", "1978", "Tân", "Democratic", "F.", "Marshall", "California", ",", "'s", "-", "former", ".", "pinyin", "ōe-jī", "-RRB-", "College", ":", ";", "District", "23", "San", "39th", "-LRB-", "Mt.", "2012", "Chén", "Antonio", "Chen", "School", "candidate", "known", "member", "Puente", "February", "Hacienda", "election", "born", "politician", "Jièfēi", "Unified", "Fellow", "Pe̍h", "Chinese", "trustee", "president" ],
+  "adjectives" : [ "39th", "former" ],
+  "nouns" : [ "Tân", "candidate", "pinyin", "Kài-poe", "election", "ōe-jī", "politician", "member", "trustee", "president" ],
+  "text" : "Jay F. Chen (Chinese: 陳介飛; pinyin: Chén Jièfēi; Pe̍h-ōe-jī: Tân Kài-poe, born 23 February 1978) is a Taiwanese-American Democratic politician, known as a trustee for Mt. San Antonio College, former member and president of the Board of Education of the Hacienda La Puente Unified School District in Southern California, and as a candidate for election in 2012 in California's 39th Congressional District. He is a Marshall Memorial Fellow."
+}, {
+  "entityIndex" : "8_entity6357",
+  "entityUrl" : "http://dbpedia.org/resource/Jason_Teoh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Zhāng Xiùfú" ]
+  },
+  "words" : [ "-LRB-", "Sew", "politician", "Zhāng", "Teoh", "Hock", ".", "張秀福", "traditional", "pinyin", "simplified", "Xiùfú", "name", "-RRB-", "Chinese", ":", ";", "张秀福", "Jason", "family", "Malaysian" ],
+  "adjectives" : [ "traditional", "Chinese", "Malaysian" ],
+  "nouns" : [ "pinyin", "politician", "name", "family" ],
+  "text" : "(This is a Chinese name; the family name is 张秀福).) Jason Teoh Sew Hock (simplified Chinese: 张秀福; traditional Chinese: 張秀福; pinyin: Zhāng Xiùfú) is a Malaysian politician."
+}, {
+  "entityIndex" : "9_entity12171",
+  "entityUrl" : "http://dbpedia.org/resource/Zhu_Zhengchang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Zhū Zhèng chāng" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Maritime", "2011", "Committee", "County", "marine", "Zhengchang", "Engineering", "October", "Chongming", "secretary", "Dalian", "Wuhan", "November", "--", "Waterway", "deputy", "Shanghai", "Zhu", "director", "studied", "politician", "born", "People", "Shandong", "engineering", "'s", ",", ".", "University", "served", "name", "-RRB-", "College", "Chinese", ";", "Standing", "family", "party", "1944" ],
+  "adjectives" : [ "Chinese", "marine" ],
+  "nouns" : [ "deputy", "secretary", "director", "politician", "name", "engineering", "family", "Committee", "party" ],
+  "text" : "(This is a Chinese name; the family name is Zhu.) Zhu Zhengchang (November 1944–) is a Chinese politician in Shandong. He served as deputy director of the Standing Committee of the Shandong People's Congress and party secretary of Shandong University until October 2011. Zhu was born in Chongming County, Shanghai and studied marine engineering at the Wuhan Waterway Engineering College and Dalian Maritime University. He became a member of the Chinese Communist Party in 1967. Since 1984, he has held various provincial-level party posts. He has also been executive vice president of the Chinese Confucius Foundation that was established in 1984 to advance the study of traditional Chinese culture and promote international cultural exchange. Since January 2005, he has been Deputy Director of the Standing Committee of the Shandong People's Congress and since February 2005, party secretary of Shandong University."
+}, {
+  "entityIndex" : "10_entity7050",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Tianmin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Lǐ Tiānmín" ]
+  },
+  "words" : [ "Lǐ", "held", "municipality", "political", "Nationalist", "Central", "province", "Kuomintang", "Li", "--", "14", "1909", "Academy", "completed", ",", "Tien-Min", "romanised", ".", "elected", "seat", "Civil", "pinyin", "武汉中央军事政治学校", "University", "even", "Taiwan", "-RRB-", ":", "1949", ";", "Waseda", "1948", "Tiānmín", "June", "24", "-LRB-", "Yuan", "War", "Republic", "Sichuan", "Tianmin", "October", "candidate", "government", "1993", "China", "Wuhan", "1991", "李天民", "studies", "end", "Military", "studied", "politician", "historian", "economics", "Born", "Chengdu", "Chinese", "Legislative", "fleeing", "undergraduate", "represent" ],
+  "adjectives" : [ "Civil", "Chinese", "political", "Legislative", "Nationalist", "undergraduate" ],
+  "nouns" : [ "Yuan", "Lǐ", "politician", "municipality", "historian", "War", "Republic", "seat", "candidate", "pinyin", "government", "province", "end", "Tiānmín" ],
+  "text" : "Li Tianmin (Chinese: 李天民; pinyin: Lǐ Tiānmín, October 14, 1909 – June 24, 1993), or Li Tien-Min (romanised), was a Chinese Nationalist politician and political historian. Born in Sichuan province, Li studied at the Central Military Academy in Wuhan (Chinese: 武汉中央军事政治学校) and completed his undergraduate studies in economics at Waseda University. He was elected as the Kuomintang candidate in 1948 to represent the municipality of Chengdu in Sichuan province in the Legislative Yuan of the Republic of China. He held this seat from 1948 until 1991, even after fleeing to Taiwan with the Nationalist government in 1949 at the end of the Chinese Civil War. A historical biographer, and a professor at National Chengchi University, he wrote six books on Chinese Communist party leaders Zhou Enlai, Mao Zedong, Liu Shaoqi, Deng Xiaoping, and Lin Biao. Li had seven children. His second son and youngest child, Kai-Fu Lee, is a prominent computer science researcher, the founding president of Google China and previously the founder of Microsoft Research Asia."
+}, {
+  "entityIndex" : "11_entity7077",
+  "entityUrl" : "http://dbpedia.org/resource/Lim_Swee_Aun",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Lín Ruì Ān" ]
+  },
+  "words" : [ "Tan", "Dr.", "-LRB-", "Swee", "September", "Sri", "林瑞安", "Association", "林", "member", "Aun", "1915", "Malaysian", "1977", "--", "13", "Cabinet", "politician", "Ruì", "Lín", ",", ".", "Ān", "August", "Lim", "1", "pinyin", "name", "-RRB-", "Chinese", ":", ";", "family" ],
+  "adjectives" : [ "Chinese", "Malaysian" ],
+  "nouns" : [ "pinyin", "politician", "name", "Ruì", "member", "family", "Lín", "Ān" ],
+  "text" : "(This is a Chinese name; the family name is Lim (林).) Tan Sri Dr. Lim Swee Aun (Chinese: 林瑞安; pinyin: Lín Ruì Ān; 1 September 1915 – 13 August 1977) was a Malaysian Chinese politician from the Malaysian Chinese Association, and a Cabinet member."
+}, {
+  "entityIndex" : "12_entity7184",
+  "entityUrl" : "http://dbpedia.org/resource/Ling_Liong_Sik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Lín Liáng Shí" ]
+  },
+  "words" : [ "Dr.", "Tunku", "-LRB-", "September", "Universiti", "Liong", "current", "Association", "林", "Abdul", "Shí", "retired", "Malaysian", "Minister", "born", "18", "politician", "chairman", "Tun", "Lín", ",", ".", "1943", "Ling", "traditional", "林良实", "pinyin", "Sik", "simplified", "Rahman", "name", "-RRB-", "Chinese", ":", ";", "林良實", "family", "Transport", "Liáng", "president" ],
+  "adjectives" : [ "traditional", "current", "Chinese", "retired", "Malaysian" ],
+  "nouns" : [ "pinyin", "politician", "name", "chairman", "family", "president" ],
+  "text" : "(This is a Chinese name; the family name is Ling (林).) Tun Dr. Ling Liong Sik (simplified Chinese: 林良实; traditional Chinese: 林良實; pinyin: Lín Liáng Shí; born 18 September 1943) is a retired Malaysian politician. He was president of the Malaysian Chinese Association, and the Malaysian Minister for Transport. He is the current chairman of the Universiti Tunku Abdul Rahman. UTAR's Dewan Tun Dr. Ling Liong Sik is named after him."
+}, {
+  "entityIndex" : "13_entity7214",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Chee_Leong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Li Zhì Liàng" ]
+  },
+  "words" : [ "22", "Kedah", "-LRB-", "Chee", "李志亮", "李", "October", "ruling", "December", "Association", "Barisan", "four", "coalition", "Vice-Presidents", "state", "liaison", "Li", "1957", "Malaysian", "Zhì", "Nasional", "election", "committee", "'", "born", "politician", "one", "MCA", "chairman", "Lee", ".", "appointed", "Leong", "pinyin", "highest", "2013", "name", "-RRB-", "Dato", "Chinese", ":", "votes", ";", "family", "Liàng", "party", "21" ],
+  "adjectives" : [ "Chinese", "Malaysian" ],
+  "nouns" : [ "ruling", "pinyin", "election", "committee", "politician", "name", "coalition", "chairman", "state", "liaison", "family", "party" ],
+  "text" : "(This is a Chinese name; the family name is Lee (李).) Dato' Lee Chee Leong (Chinese: 李志亮; pinyin: Li Zhì Liàng; born 22 October 1957) is a Malaysian politician. He is one of the four Vice-Presidents of the Malaysian Chinese Association (MCA) in the ruling Barisan Nasional coalition with the highest votes during the party election on 21 December 2013. He is appointed as the chairman of the Kedah MCA state liaison committee. He is also currently the chairman of MCA Kampar division. He served as Deputy Minister of Foreign Affairs from April 2008 to June 2010 and Deputy Home Minister and Member from June 2010 to May 2013. He was of the Parliament of Malaysia for the Kampar constituency in Perak, Malaysia from March 2008 to May 2013. Lee was elected to the State Assembly of Perak in 1990, holding the seat of Tanjung Tualang and was a member of the Perak Executive Council. Lee was successful for the federal seat of Kampar in the 2008 election and was appointed Deputy Minister of Foreign Affairs under the cabinet of Prime Minister Datuk Seri Najib Tun Razak in April 2009. He was then appointed as Deputy Home Minister in the minor cabinet reshuffle in June 2010."
+}, {
+  "entityIndex" : "14_entity7240",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Hwa_Beng",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Lǐ Huá Mín" ]
+  },
+  "words" : [ "Lǐ", "Assemblyman", "accountant", "Port", "contested", "ruling", "Hwa", "Barisan", "state", "Malaysian", "Datuk", "Nasional", "1990", ",", "former", ".", "Mín", "seat", "traditional", "pinyin", "simplified", "State", "served", "-RRB-", ":", ";", "Jaya", "party", "Beng", "-LRB-", "李華民", "Authority", "2011", "training", "Damansara", "running", "2008", "Association", "Huá", "member", "coalition", "李华民", "election", "politician", "Klang", "chairman", "MCA", "Lee", "Selangor", "component", "Utama", "Chinese", "Subang", "first" ],
+  "adjectives" : [ "traditional", "Malaysian", "former" ],
+  "nouns" : [ "election", "Lǐ", "accountant", "politician", "training", "chairman", "Mín", "seat", "component", "ruling", "pinyin", "Huá", "member", "coalition", "state", "party" ],
+  "text" : "Datuk Lee Hwa Beng (simplified Chinese: 李华民; traditional Chinese: 李華民; pinyin: Lǐ Huá Mín) is a Malaysian politician and the former Selangor State Assemblyman for Subang Jaya. He is an accountant by training and served as Port Klang Authority chairman from 2008 to 2011. Lee is a member of the Malaysian Chinese Association (MCA), a component party of the ruling Barisan Nasional coalition. He first contested an election in 1990, running for the Damansara Utama state seat. He lost but went on to win the Subang Jaya state seat in 1995. In the 2008 general elections, Lee contested the Kelana Jaya parliamentary seat, but lost out to Parti Keadilan Rakyat newcomer Loh Gwo Burne. Following his defeat, Lee was appointed Port Klang Authority chairman by Transport Minister Ong Tee Keat amid a cloud of controversy over the Port Klang Free Zone scandal."
+}, {
+  "entityIndex" : "15_entity7291",
+  "entityUrl" : "http://dbpedia.org/resource/Lim_Ah_Siang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Lín Yàxiāng" ]
+  },
+  "words" : [ "``", "Johor", "leader", "Chop", "Ironic", "1853", "Kongsi", "timber", "Ngee", "--", "based", "Bahru", "19", "merchant", ",", ".", "appointed", "pinyin", "miller", "Yàxiāng", "Heng", "name", "-RRB-", "Sin", ":", ";", "position", "-LRB-", "prominent", "Ah", "secret", "seem", "society", "1917", "steam", "February", "''", "may", "Siang", "founder", "Moh", "saw", "Lín", "legitimised", "Lim", "third", "Chinese", "time", "family", "林亞相" ],
+  "adjectives" : [ "prominent", "third", "Chinese", "secret", "legitimised", "Ironic" ],
+  "nouns" : [ "leader", "Siang", "founder", "Ah", "merchant", "society", "pinyin", "miller", "name", "Chinese", "steam", "timber", "position", "time", "family" ],
+  "text" : "(This is a Chinese name; the family name is Lim.) Lim Ah Siang (Chinese: 林亞相; pinyin: Lín Yàxiāng; 1853 – 19 February 1917), a timber merchant and steam saw miller, the founder of \"Chop Sin Moh\" Johor Bahru, was the third leader of the Ngee Heng Kongsi of Johor, a legitimised secret society based in Johor Bahru. Ironic as it may seem, he was appointed to the position not because he was the most prominent Chinese in Johor at the time, but because he was not."
+}, {
+  "entityIndex" : "16_entity7377",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_San_Choon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Lǐ Sān Chūn" ]
+  },
+  "words" : [ "Tan", "San", "Manpower", "-LRB-", "Lǐ", "held", "李三春", "Choon", "Chūn", "led", "Malaysia", "Labour", "Sri", "three", "posts", "1975", "general", "Utilities", "Association", "government", "Works", "Malaysian", "Minister", "Sān", "successfully", "election", "ministerial", "MCA", "Public", ",", "Lee", "elections", ".", "pinyin", "1983", "1982", "various", "-RRB-", "Chinese", "well", ":", ";", "1969", "Transport", "cabinet", "party", "president" ],
+  "adjectives" : [ "general", "various", "Chinese", "ministerial", "Malaysian" ],
+  "nouns" : [ "Sān", "pinyin", "Association", "election", "government", "Lǐ", "Chūn", "Labour", "cabinet", "party", "president" ],
+  "text" : "Tan Sri Lee San Choon (Chinese: 李三春; pinyin: Lǐ Sān Chūn) was the president of Malaysian Chinese Association (MCA) from 1975 to 1983. He led the party in three general election elections in Malaysia, most successfully in the 1982 general election. He held various ministerial posts in the cabinet of the Malaysian government from 1969 to 1983, such as Labour and Manpower Minister, Works and Public Utilities Minister, as well as Transport Minister"
+}, {
+  "entityIndex" : "17_entity1499",
+  "entityUrl" : "http://dbpedia.org/resource/Chan_Kong_Choy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Chén Guǎng Cái" ]
+  },
+  "words" : [ "Tan", "Choy", "ruling", "Barisan", "July", "Guǎng", "Kong", "Malaysian", "Minister", "Nasional", "deputy", "17", "Cái", ",", "elections", ".", "former", "1", "traditional", "pinyin", "simplified", "name", "-RRB-", ":", ";", "Transport", "陳廣才", "-LRB-", "reasons", "May", "young", "part", "陈", "陈广才", "Chén", "Sri", "2008", "general", "Chan", "Association", "2003", "coalition", "make", "1955", "stepped", "born", "politician", "health", "blood", "way", "component", "due", "Chinese", "family", "formerly", "president" ],
+  "adjectives" : [ "general", "traditional", "due", "young", "Chinese", "Malaysian", "former" ],
+  "nouns" : [ "deputy", "politician", "part", "health", "blood", "way", "component", "ruling", "pinyin", "name", "coalition", "family", "president" ],
+  "text" : "(This is a Chinese name; the family name is Chan (陈).) Tan Sri Chan Kong Choy (simplified Chinese: 陈广才; traditional Chinese: 陳廣才; pinyin: Chén Guǎng Cái; born 17 May 1955) was a Malaysian politician and the former deputy president of the Malaysian Chinese Association, a component part of the ruling Barisan Nasional coalition. He was formerly Transport Minister from 1 July 2003 but stepped down just before the 2008 general elections due to health reasons and to make way for young blood."
+}, {
+  "entityIndex" : "18_entity988",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Chew",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Zhōu Yù Qīng" ]
+  },
+  "words" : [ "chheng", "daughter-in-law", "Penang", "Opposition", "Malaysia", "Guan", "Qīng", "Malaysian", "Assembly", "Minister", "15", "Democratic", "Tuan", "Gek", ",", "'s", "-", ".", "former", "August", "Laksamana", "pinyin", "ōe-jī", "State", "Kit", "name", "-RRB-", ":", ";", "Secretary-General", "YAB", "Zhōu", "wing", "Parliament", "women", "Eng", "Yù", "Action", "-LRB-", "Chief", "Leader", "周玉清", "represents", "Chiu", "Kota", "current", "Party", "2005", "Chew", "Cheng", "Malacca", "Ge̍k", "chief", "Siang", "Betty", "born", "politician", "周", "also", "1964", "Lim", "DAP", "constituency", "Pe̍h", "Chinese", "family", "married" ],
+  "adjectives" : [ "current", "Democratic", "Chinese", "Malaysian", "former" ],
+  "nouns" : [ "Yù", "chheng", "chief", "daughter-in-law", "politician", "周", "DAP", "pinyin", "constituency", "ōe-jī", "Pe̍h", "State", "Kit", "name", "Qīng", "family", "Zhōu", "wing", "Assembly" ],
+  "text" : "(This is a Chinese name; the family name is Chew (周).) Betty Chew Gek Cheng (Chinese: 周玉清; pinyin: Zhōu Yù Qīng; Pe̍h-ōe-jī: Chiu Ge̍k-chheng; born 15 August 1964) is a Malaysian Chinese politician from the Democratic Action Party (DAP). As of 2005, she is the chief of the DAP Malacca women's wing, and also represents the constituency of Kota Laksamana in the State Assembly of Malacca. She is also married to the current Chief Minister of the State of Penang who also the Secretary-General of the DAP, YAB Tuan Lim Guan Eng, and is the daughter-in-law of the former Opposition Leader in the Parliament of Malaysia, Lim Kit Siang, who is also of the DAP. In 2005, she suffered a surprise defeat when running for re-election to the DAP Malacca committee, placing second-last, finishing ahead of only her husband. However, while her husband automatically qualified to sit on the committee by virtue of his position as party Secretary-General, Chew did not. Chew was \"saddened by the results\", but said she accepted her defeat. However, Teresa Kok, a DAP Member of Parliament, suggested there was a conspiracy behind the defeat of Lim and Chew in their re-election campaigns. In 2006, it was reported that Chew would become the first Malacca assemblyman to give birth while in office. At the time, Chew had three children with Lim: Rachael, aged 15, Clint, aged 14, and Marcus, aged 11. In 2008, Chew defeated newcomer Lee Kiat Lee for the Kota Laksamana seat where she had 11043 votes while Lee had only 3801 votes."
+}, {
+  "entityIndex" : "19_entity10909",
+  "entityUrl" : "http://dbpedia.org/resource/Teresa_Woo-Paw",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Bào-Hú Yīngyí" ]
+  },
+  "words" : [ "Hong", "-LRB-", "Alberta", "Canadian", "29", "Teresa", "Bào-Hú", "鮑胡嫈儀", "鲍胡嫈仪", "October", "Calgary-Northern", "Hills", "1958", "Member", "Kong", "Assembly", "born", "politician", "representing", "Woo-Paw", ",", "former", ".", "Progressive", "traditional", "pinyin", "simplified", "constituency", "Yīngyí", "Conservative", "-RRB-", "Chinese", "Legislative", ":", ";" ],
+  "adjectives" : [ "traditional", "Canadian", "Legislative", "former" ],
+  "nouns" : [ "pinyin", "constituency", "Yīngyí", "politician", "Bào-Hú", "Assembly" ],
+  "text" : "Teresa Woo-Paw (simplified Chinese: 鲍胡嫈仪; traditional Chinese: 鮑胡嫈儀; pinyin: Bào-Hú Yīngyí; born October 29, 1958 in Hong Kong) is a Canadian politician and former Member of the Legislative Assembly of Alberta representing the constituency of Calgary-Northern Hills as a Progressive Conservative."
+}, {
+  "entityIndex" : "20_entity10993",
+  "entityUrl" : "http://dbpedia.org/resource/Tony_Hwang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Huáng Tāo" ]
+  },
+  "words" : [ "Tony", "agent", "Republican", "Legislature", "134th", "Security", "Elections", "黃濤", "Coldwell", "won", "Real", "Assembly", "re-election", "Huáng", "Banker", "Estate", "Committees", "estate", "real", "Public", ",", "'s", ".", "traditional", "pinyin", "simplified", "State", "Connecticut", "-RRB-", "parts", "General", ":", ";", "District", "became", "-LRB-", "黄涛", "serves", "2012", "2010", "Committee", "2008", "member", "Safety", "Administration", "Tāo", "Hwang", "Government", "born", "also", "1964", "CT", "residential", "Insurance", "Trumbull", "Rep.", "Chinese", "Representative", "ranking", "Fairfield" ],
+  "adjectives" : [ "traditional", "residential", "Real", "Chinese", "Republican", "ranking", "real", "134th" ],
+  "nouns" : [ "re-election", "黃濤", "agent", "pinyin", "State", "Insurance", "estate", "member", "District" ],
+  "text" : "Tony Hwang (simplified Chinese: 黄涛; traditional Chinese: 黃濤; pinyin: Huáng Tāo; born 1964) is a residential real estate agent for Coldwell Banker and serves as the State Representative for the 134th District (parts of Fairfield and Trumbull, CT) in the Connecticut General Assembly. State Rep. Hwang became a State Representative in 2008 and won re-election in 2010 and 2012. State Rep. Hwang serves as the Republican ranking member of the Legislature’s Government Administration and Elections Committee. He also serves on the Insurance and Real Estate and the Public Safety and Security Committees. In April 2014, State Rep. Hwang announced he would run for the 28th State Senate District. His Democratic opponent is 133rd District State Rep. Kim Fawcett. State Rep. Hwang has been endorsed by current State Senator John McKinney. Senator McKinney vacated the Senate seat in order to run for governor, but subsequently lost in the Republican primary to Tom Foley."
+}, {
+  "entityIndex" : "21_entity11069",
+  "entityUrl" : "http://dbpedia.org/resource/Tang_Kesan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Táng Kēsān" ]
+  },
+  "words" : [ "Tang", "-LRB-", "Xikang", "唐柯三", "Kēsān", "War", "Muslim", ".", "Táng", "Sino-Tibetan", "pinyin", "province", "Kesan", "Kuomintang", "-RRB-", "Chinese", ":", "represented", ";" ],
+  "adjectives" : [ "Chinese", "Muslim" ],
+  "nouns" : [ "pinyin", "province" ],
+  "text" : "Tang Kesan (Chinese: 唐柯三; pinyin: Táng Kēsān) was a Chinese Muslim. In Xikang province during the Sino-Tibetan War Tang Kesan represented the Kuomintang."
+}, {
+  "entityIndex" : "22_entity11222",
+  "entityUrl" : "http://dbpedia.org/resource/Tang_Heap_Seng",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Chén Xié Chéng" ]
+  },
+  "words" : [ "leader", "Rakyat", "Penang", "Seng", "Barisan", "lost", "majority", "Malaysian", "--", "Tang", "Nasional", "Parti", "19,307", "Air", "Keadilan", ",", ".", "Heap", "seat", "traditional", "2", "pinyin", "simplified", "veteran", "PKR", "Sim", "-RRB-", ":", ";", "-LRB-", "Ir", "Chén", "陳協成", "Putih", "general", "October", "candidate", "Association", "陈协成", "parliamentary", "1957", "Chéng", "election", "Tzin", "born", "Bayan", "representing", "MCA", "contended", "constituency", "2013", "Chinese", "Xié", "Baru", "Tze" ],
+  "adjectives" : [ "general", "traditional", "parliamentary", "Malaysian" ],
+  "nouns" : [ "seat", "leader", "candidate", "pinyin", "election", "veteran", "constituency", "PKR", "majority" ],
+  "text" : "Ir. Tang Heap Seng (simplified Chinese: 陈协成; traditional Chinese: 陳協成; pinyin: Chén Xié Chéng; born 2 October 1957) is a veteran MCA leader for the Air Putih constituency of Penang. Tang contended for the Bayan Baru parliamentary seat in the Malaysian general election, 2013 representing Malaysian Chinese Association (MCA) – Barisan Nasional but he has lost to the Parti Keadilan Rakyat (PKR) candidate, Sim Tze Tzin with a majority of a 19,307."
+}, {
+  "entityIndex" : "23_entity9575",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Lau_Hoi_Chew",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Liú Huì Zhōu" ]
+  },
+  "words" : [ "Lau", "United", "Malaysia", "Robert", "刘", "劉會洲", "represented", "Malaysian", "Minister", "--", "Datuk", "Hoi", "15", "Deputy", "'", "1990", ",", ".", "April", "1942", "traditional", "pinyin", "simplified", "served", "name", "-RRB-", "Peoples", "9", ":", ";", "Sarawak", "Zhōu", "Transport", "Parliament", "-LRB-", "September", "death", "SUPP", "vice-president", "2010", "刘会洲", "2009", "Party", "Chew", "Huì", "politician", "also", "Sibu", "Chinese", "family", "Liú" ],
+  "adjectives" : [ "traditional", "Chinese", "Malaysian" ],
+  "nouns" : [ "pinyin", "death", "vice-president", "politician", "name", "family" ],
+  "text" : "(This is a Chinese name; the family name is Lau (刘).) Datuk Robert Lau Hoi Chew (simplified Chinese: 刘会洲; traditional Chinese: 劉會洲; pinyin: Liú Huì Zhōu; 15 September 1942 – 9 April 2010) was a Malaysian politician. He represented Sibu in the Parliament of Malaysia from 1990 until his death in 2010, and served as Deputy Minister for Transport from April 2009 until his death. Lau was also a vice-president of the Sarawak United Peoples' Party (SUPP)."
+}, {
+  "entityIndex" : "24_entity2602",
+  "entityUrl" : "http://dbpedia.org/resource/Desmond_Choo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Zhū Béi Qìng" ]
+  },
+  "words" : [ "leader", "Resorts", "Entertainment", "defeated", "Choo", "Pey", "朱倍庆", "stood", "Hougang", "Thia", "Unit", "64.8", "Department", "National", "Development", "concurrently", "represented", "Qìng", "Telecoms", "Executive", "%", "'", "Director", "Khiang", "Youth", "Relations", "UTES", ",", "'s", "Attractions", ".", "Progressive", "35.2", "traditional", "pinyin", "simplified", "Workers", "Low", "-RRB-", ":", ";", "Parliament", "AREU", "Congress", "Desmond", "Action", "-LRB-", "Singaporean", "Singapore", "Industrial", "Secretary", "single-member", "14,850", "Employees", "2011", "Union", "Yaw", "general", "candidate", "8,065", "Party", "previously", "1991", "Ching", "Zhū", "Wage", "Béi", "election", "Trades", "politician", "People", "also", "NTUC", "Leong", "governing", "constituency", "朱倍慶", "Model", "Chinese", "votes", "Shin", "PAP" ],
+  "adjectives" : [ "Progressive", "general", "traditional", "Singaporean", "single-member", "Low" ],
+  "nouns" : [ "Wage", "leader", "candidate", "pinyin", "election", "constituency", "%", "politician", "Director" ],
+  "text" : "Desmond Choo Pey Ching (simplified Chinese: 朱倍庆; traditional Chinese: 朱倍慶; pinyin: Zhū Béi Qìng) is a Singaporean politician and Director (Progressive Wage Model) of the Industrial Relations Department, and concurrently Director of the Youth Development Unit at the National Trades Union Congress (NTUC). He is also the Executive Secretary of the Attractions, Resorts and Entertainment Union (AREU) and Union of Telecoms Employees of Singapore (UTES). Choo stood as a candidate for Singapore's governing People's Action Party (PAP) at the 2011 general election in the single-member constituency of Hougang, where he was defeated by Yaw Shin Leong of the Workers' Party by 14,850 votes (64.8%) to 8,065 (35.2%). (The constituency had previously been represented in Parliament by the Workers' Party's leader, Low Thia Khiang, from 1991 to 2011.) After Yaw was expelled from the Workers' Party and lost his seat in Parliament in 2012, the PAP announced that Choo would be the party's candidate in the 2012 Hougang by-election. He was defeated in the by-election by Png Eng Huat of the Workers' Party by 13,460 votes (62.1%) to 8,223 (37.9%)."
+}, {
+  "entityIndex" : "25_entity2677",
+  "entityUrl" : "http://dbpedia.org/resource/Du_Jiang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Dù Jiāng" ]
+  },
+  "words" : [ "Hong", "CNTA", "offices", "liaises", "specialised", "office", "Global", "research", "incumbent", "Forum", "Tourism", "President", "Department", "earned", "National", "chairs", "representative", "tourism-related", "Kong", "addition", "Academy", "countries", ",", "Taiwan.He", "Cross-Strait", "PhD", ".", "Exchange", "Beijing", "Studies", "Du", "pinyin", "University", "Dù", "served", "-RRB-", ":", "managing", "assumed", "-LRB-", "director-general", "Association.In", "tourism", "Promotion", "foreign", "Association", "Economy", "2006", "China", "responsible", "Nankai", "Vice", "Jiang", "November", "International", "affairs", "1999", "Administration", "charge", "Liaison", "born", "also", "Chairman", "Honorary", "1964", "economics", "successively", "management", "Macao", "Jiāng" ],
+  "adjectives" : [ "responsible", "representative", "tourism-related", "incumbent", "foreign" ],
+  "nouns" : [ "pinyin", "charge", "Dù", "management", "director-general", "tourism", "office", "Jiāng", "PhD", "research", "addition" ],
+  "text" : "Du Jiang (pinyin: Dù Jiāng, born on November 1964) is the incumbent Vice Chairman of China National Tourism Administration (CNTA).He is in charge of the Department of Tourism Promotion and International Liaison of the CNTA, and is responsible for managing tourism-related affairs in Hong Kong, Macao and Taiwan.He also chairs the China Tourism Academy and CNTA representative offices in foreign countries, and liaises at China Tourism Association and the Cross-Strait Tourism Exchange Association.In addition, he is the Honorary Vice Chairman of Global Tourism Economy Forum. Du Jiang earned his PhD in economics at Nankai University, and is specialised in research on tourism management. Before he assumed office at CNTA, he served successively at Beijing International Studies University (President, 1999) and the Beijing Tourism Administration (director-general, 2006)."
+}, {
+  "entityIndex" : "26_entity12137",
+  "entityUrl" : "http://dbpedia.org/resource/Yeow_Chai_Thiam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Yáo Zài Tiān" ]
+  },
+  "words" : [ "medical", "Federal", "Assemblyman", "political", "appointment", "Malaysia", "independence", "years", "Thiam", "ruling", "Utilities", "Barisan", "state", "January", "Malaysian", "Assembly", "--", "gaining", "Nasional", "19", "Senator", "Local", ",", "'s", "April", ".", "姚再添", "pinyin", "Negeri", "State", "7", "served", "-RRB-", ":", ";", "Yeow", "party", "20", "since", "Dr.", "-LRB-", "Tiān", "Yáo", "part", "Chai", "2009", "1953", "2008", "Association", "member", "coalition", "Zài", "Lukut", "Government", "MCA", "Chairman", "doctor", "1963", "2016", "Conservative", "Dato", "Chinese", "Legislative", "Sembilan", "EXCO" ],
+  "adjectives" : [ "medical", "Conservative", "Chinese", "political", "Legislative", "Local", "Malaysian" ],
+  "nouns" : [ "doctor", "ruling", "pinyin", "Association", "Government", "part", "member", "coalition", "appointment", "state", "independence", "party" ],
+  "text" : "Dato Dr. Yeow Chai Thiam (Chinese: 姚再添; pinyin: Yáo Zài Tiān; 19 April 1953 – 7 January 2016) was a medical doctor and a Malaysian Federal Senator, gaining appointment in 2009. He was a member of the Conservative Malaysian Chinese Association (MCA) and had been the MCA Chairman  for the state of Negeri Sembilan since 2008, the MCA are part of the Federal ruling Barisan Nasional coalition who have been Malaysia's ruling political party since independence in 1963. Senator Yeow served as the Legislative Assemblyman for Lukut in the Negeri Sembilan State Assembly for 20 years and was the State EXCO for Utilities and Local Government."
+}, {
+  "entityIndex" : "27_entity4705",
+  "entityUrl" : "http://dbpedia.org/resource/Ida_Chong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Zhāng Xìngfāng" ]
+  },
+  "words" : [ "MLA", "Ida", "Asia-Pacific", "Trade", "Sport", "December", "Technology", "Education", "Development", "Xìngfāng", "January", "Minister", "Women", "Chong", "Head", "2001", "'s", ",", "-", "Cultural", ".", "appointed", "elected", "pinyin", "Columbia", "Senior", "State", "-RRB-", "Oak", ":", ";", "June", "BC", "-LRB-", "Advanced", "March", "2011", "張杏芳", "Zhāng", "2009", "2008", "1996", "previously", "2005", "2004", "Responsible", "1957", "1956", "British", "Liberal", "born", "Initiative", "Services", "Bay-Gordon", "Economic", "re-elected", "Chinese", "well", "Community", "first" ],
+  "adjectives" : [ "British", "Responsible", "first" ],
+  "nouns" : [ "pinyin" ],
+  "text" : "Ida Chong (Chinese: 張杏芳; pinyin: Zhāng Xìngfāng; born 1956 or 1957) was previously British Columbia's Minister of Community, Sport and Cultural Development and was Minister Responsible for the Asia-Pacific Initiative as well as Minister of Technology, Trade, and Economic Development; Minister of Community Services; and Minister Responsible for Women's and Senior's Services (June 2005 - June 2008); Minister of Advanced Education (December 2004 to June 2005); and Minister of State for Women's and Senior's Services (January - December 2004). She was appointed Minister of Community, Sport and Cultural Development in March 2011. Chong was the BC Liberal MLA for Oak Bay-Gordon Head. She was first elected in 1996 and was re-elected in 2001, 2005, and 2009. Born and raised in Victoria, British Columbia, Chong began her political career in 1993 as a municipal councillor for the District of Saanich. She ran her own accounting firm with business partner Karen Kesteloo and is a fellow of the Certified General Accountant of BC (FCGA). She was awarded a CGA-BC lifetime membership in September 2014. On September 18, 2014, Chong announced her intention to run for mayor of the City of Victoria in the November 2014 municipal election which she subsequently lost, coming a distant third to new mayor, Lisa Helps and previous mayor Dean Fortin. While Chong lost badly, it was widely speculated that she knew she could not win but instead wanted to ensure previous mayor Fortin, who ran a campaign primarily with backing of the New Democratic Party (NDP), would not win. Chong successfully set the ballot question based on Fortin's mishandling of the Johnson Street Bridge Replacement Project but simply did not have enough voters to make an impact. Fortin ultimately lost to Helps by a mere 89 votes. While Chong's running in a known left-wing municipal election after a long and successful career as a Provincial Cabinet Minister was baffling to many, the speculation is that Chong knew she could pull votes from the moderate Fortin, with a long-term strategy to strengthen the Green/Progressive vote in the region and province thus weakening the New Democratic Party by splitting the leftist vote."
+}, {
+  "entityIndex" : "28_entity8582",
+  "entityUrl" : "http://dbpedia.org/resource/Ong_Kian_Ming",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Wáng Jiàn Mín" ]
+  },
+  "words" : [ "Dr.", "Action", "Serdang", "-LRB-", "September", "turned", "Kian", "Ong", "Wáng", "political", "王", "Jiàn", "Ming", "1975", "academician", "Party", "Member", "Malaysian", "王建民", "12", "Strategist", "Democratic", "born", "politician", "also", ",", "Election", ".", "Mín", "DAP", "pinyin", "currently", "name", "-RRB-", "Chinese", "analyst", ":", ";", "family", "Parliament" ],
+  "adjectives" : [ "Democratic", "Chinese", "political", "Malaysian" ],
+  "nouns" : [ "academician", "DAP", "pinyin", "politician", "name", "analyst", "family" ],
+  "text" : "(This is a Chinese name; the family name is Ong (王).) Dr. Ong Kian Ming (Chinese: 王建民; pinyin: Wáng Jiàn Mín; born 12 September 1975), is a Malaysian Chinese politician from the Democratic Action Party (DAP). He is currently the Member of Parliament for Serdang. He is also an academician, political analyst before he turned Election Strategist for the DAP. Ong was formerly a prominent political analyst in the Malaysian political scene. His articles were widely published in popular news portals such as Malaysiakini, Malaysian Insider, The Edge. Prior to that he was a lecturer in Faculty of Economics and Policy Science, UCSI University, also a regional consultant for the Blue Ocean Strategy regional center. His experience includes being a policy analyst for Socio Economics Development and Research Institute (SEDAR) and Institute of Strategic Analysis and Policy Research (INSAP). In addition, he was also associate consultant for the Boston Consulting Group Kuala Lumpur."
+}, {
+  "entityIndex" : "29_entity9978",
+  "entityUrl" : "http://dbpedia.org/resource/Susan_C._Lee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Lǐ Fèngqiān" ]
+  },
+  "words" : [ "Lǐ", "Trafficking", "John", "Workgroup", "Fèngqiān", "Proceedings", "introduced", "Cabin", "Technology", "Human", "14", "Chevy", "李鳳遷", "16", "created", "Montgomery", "Youth", "House", "Cybersecurity", "includes", "Judicial", ",", "Joint", "Kensington", ".", "Chase", "elected", "Rockville", "Senate", "pinyin", "4", "State", "served", "-RRB-", "parts", "Delegates", ":", ";", "Maryland", "District", "since", "Biotechnology", "Clair", "-LRB-", "May", "serves", "Potomac", "Committee", "Information", "County", "Council", "Glen", "1954", "represents", "previously", "Susan", "2002", "member", "passed", "November", "legislation", "Victims", "Echo", "born", "Lee", "2014", "Chinese", "located", "Bethesda" ],
+  "adjectives" : [ "Human", "located" ],
+  "nouns" : [ "pinyin", "Lǐ", "Trafficking", "member", "Fèngqiān", "legislation" ],
+  "text" : "Susan Clair Lee (Chinese: 李鳳遷; pinyin: Lǐ Fèngqiān; born May 14, 1954) is a member of the Maryland State Senate. She was elected to the Maryland State Senate on November 4, 2014 and had previously served in the Maryland House of Delegates since 2002. She serves on the Senate Judicial Proceedings Committee and the Joint Committee on Cybersecurity, Information Technology and Biotechnology and is a member of the Maryland Cybersecurity Council and Workgroup on Youth Victims of Human Trafficking which were both created by legislation she introduced and passed. Lee represents District 16, which is located in Montgomery County, and includes parts of Bethesda, Chevy Chase, Potomac, Kensington, Cabin John, Glen Echo, and Rockville. She is the first Asian American elected to the Maryland State Senate and was the first Asian American woman and first Chinese American to be elected to the Maryland legislature.While in the House of Delegates, she was a member of the House Judiciary Committee, a Deputy Majority Whip, Vice Chair of the Montgomery County House Delegation, Chair of the Subcommittee on Family Law, Co Chair of the Maryland Commission on Cyber Security Innovation and Excellence, the Nanobiotechnology Task Force and the Identity Theft Task Force. Lee was elected to serve two terms as President of the Women Legislators of Maryland (Women's Legislative Caucus) and led efforts to pass an aggressive agenda of laws to fight domestic violence and human trafficking, economically empower women, reduce health care disparities, and obtain funding for rape crisis centers. She received the Maryland Legislative Agenda for Women's (MLAW) Legislative Leadership Award, inducted into the Human Rights Hall of Fame of Montgomery County and the Montgomery County Women's History Archives and honored by the Maryland Chapter of the Healthcare Information Management Systems Society for her work in advancing healthcare technology and reform. Lee received an Award from the Maryland National Organization for Women for her leadership and work on legislation while President of the Women’s Caucus, particularly the law authorizing the placement of Marylander and American hero Harriet Tubman’s statue in the U.S. Capitol."
+}, {
+  "entityIndex" : "30_entity10575",
+  "entityUrl" : "http://dbpedia.org/resource/Steven_Sim",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Shěn Zhì Qiáng" ]
+  },
+  "words" : [ "Monthly", "Penang", "Qiáng", "Malaysia", "Councillor", "Seberang", "professionally", "regularly", "Member", "January", "Malaysian", "based", "13", "Executive", "Democratic", "Mertajam", "portals", ",", ".", "contributes", "Steven", "appointed", "traditional", "pinyin", "simplified", "1982", "Senior", "Sim", "Insider", "-RRB-", ":", ";", "Parliament", "think-tank", "largest", "Action", "-LRB-", "prominent", "May", "Chee", "2011", "Council", "Shěn", "pieces", "current", "Party", "known", "Institute", "public", "Bukit", "Zhì", "policy", "news", "Malaysiakini", "born", "politician", "one", "沈志强", "沈志強", "municipalities", "Municipal", "opinion", "DAP", "Perai", "Economic", "constituency", "currently", "Chinese", "well", "online", "writes", "formerly", "Keong", "Officer" ],
+  "adjectives" : [ "traditional", "current", "Monthly", "prominent", "known", "public", "Democratic", "Malaysian" ],
+  "nouns" : [ "news", "think-tank", "pinyin", "constituency", "politician", "Insider", "online", "Councillor", "policy", "opinion" ],
+  "text" : "Sim Chee Keong (simplified Chinese: 沈志强; traditional Chinese: 沈志強; pinyin: Shěn Zhì Qiáng; born 13 May 1982), known professionally as Steven Sim, is a Malaysian politician from the Democratic Action Party (DAP) and current Member of Parliament for Bukit Mertajam constituency. He is currently the Senior Executive Officer of Penang Institute, a public policy think-tank based in Penang, Malaysia. In January 2011, he was appointed as a Councillor of the Seberang Perai Municipal Council, one of the largest municipalities in Malaysia. He writes regularly for Penang Monthly (formerly Penang Economic Monthly) as well as contributes opinion pieces to prominent Malaysian online news portals such as Malaysiakini and the Malaysian Insider. He is also the author of \"The Audacity to Think: An Invitation to Rethink Politics\". In 2012, Steven Sim was named as a Young Global Leader of the Geneva-based World Economic Forum."
+}, {
+  "entityIndex" : "31_entity7591",
+  "entityUrl" : "http://dbpedia.org/resource/Mae_Yih",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Xié Dèng Zhìfèng" ]
+  },
+  "words" : [ "Oregon", "24", "-LRB-", "May", "American", "born", "United", "serve", ",", "former", ".", "Mae", "States", "U.S.", "senate", "-RRB-", "member", "houses", "Yih", "1928", "Chinese", "state", "first", "legislature" ],
+  "adjectives" : [ "American", "Chinese", "former", "first" ],
+  "nouns" : [ "senate", "member", "state", "legislature" ],
+  "text" : "Mae Yih (born May 24, 1928), is a former member of both houses of the legislature of the U.S. state of Oregon. She is the first Chinese American to serve in a state senate in the United States."
+}, {
+  "entityIndex" : "32_entity4112",
+  "entityUrl" : "http://dbpedia.org/resource/Gan_Peck_Cheng",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:p" : [ "Yán Bìzhēn" ]
+  },
+  "words" : [ "Johor", "Action", "-LRB-", "Chief", "Bìzhēn", "27", "Rakyat", "Yán", "Opposition", "political", "Pakatan", "state-assembly", "October", "Party", "Peck", "Cheng", "颜", "Assembly", "N23-Penggaram", "Democratic", "also", "顏碧貞", ",", "'s", ".", "elected", "traditional", "pinyin", "simplified", "Gan", "2015", "State", "name", "-RRB-", "Chinese", ":", ";", "family", "party", "颜碧贞", "women", "Batu", "Pahat", "since" ],
+  "adjectives" : [ "traditional", "state-assembly", "Democratic", "Chinese", "political" ],
+  "nouns" : [ "N23-Penggaram", "pinyin", "name", "family", "party" ],
+  "text" : "(This is a Chinese name; the family name is Gan (颜).) Gan Peck Cheng (simplified Chinese: 颜碧贞; traditional Chinese: 顏碧貞; pinyin: Yán Bìzhēn) is a state-assembly women for N23-Penggaram, Batu Pahat, Johor. Her political party is Pakatan Rakyat's Democratic Action Party. She is also elected to be the Opposition Chief in the Johor State Assembly since 27 October 2015."
+} ]

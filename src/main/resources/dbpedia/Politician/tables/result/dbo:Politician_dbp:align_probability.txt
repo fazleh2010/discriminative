@@ -1,5 +1,0 @@
-id=9  property=dbp:align  object=right  NumberOfEntitiesFoundForObject=204
-parliament-NN  multiply=0.710989  P(parliament|object)=0.867647  P(object|parliament)=0.819444    
-member-NN  multiply=0.702977  P(member|object)=0.862745  P(object|member)=0.814815    
-electorate-NN  multiply=0.66756  P(electorate|object)=0.769608  P(object|electorate)=0.867403    
-

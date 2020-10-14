@@ -1,0 +1,958 @@
+[ {
+  "entityIndex" : "1_entity6953",
+  "entityUrl" : "http://dbpedia.org/resource/Katrine_Hildyard",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Reynell" ]
+  },
+  "words" : [ "held", "Secretary", "electoral", "Reynell", "Labor", "Party", "Hildyard", "member", "Parliamentary", "Anne", "state", "election", "politician", "representing", "South", ",", ".", "seat", "Premier", "currently", "Australian", "2014", "district", "Australia", "Katrine", "Parliament", "since" ],
+  "adjectives" : [ "Australian", "electoral" ],
+  "nouns" : [ "seat", "election", "politician", "district", "member", "state" ],
+  "text" : "Katrine Anne Hildyard is an Australian politician representing the electoral district of Reynell in the Parliament of South Australia. She has held the seat as a member of the Australian Labor Party since the 2014 state election, and is currently Parliamentary Secretary to the Premier of South Australia."
+}, {
+  "entityIndex" : "2_entity6969",
+  "entityUrl" : "http://dbpedia.org/resource/Krishan_Pal_Gurjar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Faridabad_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "Justice", "Bansi", "led", "parliament", "16th", "Empowerment", "general", "Sabha", "candidate", "Party", "won", "Bharatiya", "member", "Fariabad", "state", "vote", "Minister", "Social", "margin", "election", "minister", "Government", "Janata", "politician", "representing", "Lok", "transport", ",", ".", "466873", "seat", "Haryana", "constituency", "2014", "State", "Lal", "Gurjar", "Indian", "Pal", "1996-99", "Krishan" ],
+  "adjectives" : [ "general", "Indian", "16th" ],
+  "nouns" : [ "margin", "election", "minister", "Government", "politician", "transport", "parliament", "seat", "candidate", "constituency", "member", "state", "vote" ],
+  "text" : "Krishan Pal Gurjar is an Indian politician and a member of parliament in the 16th Lok Sabha representing the Fariabad constituency in the state of Haryana. He won his seat in the Indian general election, 2014 as a Bharatiya Janata Party candidate by margin of 466873 vote. He is now a Minister of State for Social Justice and Empowerment. He was minister for transport in Bansi Lal led Government of Haryana from 1996-99. He also served as bjp state president for Haryana."
+}, {
+  "entityIndex" : "3_entity8285",
+  "entityUrl" : "http://dbpedia.org/resource/Nedurumalli_Janardhana_Reddy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Narasaraopet_(Lok_Sabha_constituency)", "http://dbpedia.org/resource/Visakhapatnam_(Lok_Sabha_constituency)", "http://dbpedia.org/resource/Bapatla_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "14th", "Congress", "13th", "12th", "-LRB-", "May", "Chief", "Rajyalakshmi", "Janardhana", "Telugu", "Sabha", "government", "Visakhapatnam", "National", "Pradesh", "2004", "1992", "రెడ్డి", "member", "represented", "February", "1935", "Minister", "--", "Nedurumalli", "minister", "నేదురుమల్లి", "wife", "Andhra", "1990", "Lok", "also", ",", ".", "జనార్థన్", "India", "Reddy", "constituency", "2014", "-RRB-", "9", "Indian", ":", ";", "20", "since" ],
+  "adjectives" : [ "14th", "13th", "12th" ],
+  "nouns" : [ "Sabha", "government", "constituency", "minister", "wife", "రెడ్డి", "member", "Lok" ],
+  "text" : "Nedurumalli Janardhana Reddy (Telugu: నేదురుమల్లి జనార్థన్ రెడ్డి; 20 February 1935 – 9 May 2014) was a member of the 12th, 13th and 14th Lok Sabha of India. He represented the Visakhapatnam constituency of Andhra Pradesh and was a member of the Indian National Congress. He was also a Chief Minister of Andhra Pradesh from 1990 to 1992. His wife, Nedurumalli Rajyalakshmi, has been a minister in the Andhra Pradesh government since 2004. He is the one who laid the foundation stone for the much acclaimed Hi-Tech City(Cyber Towers) in Madhapur, Hyderabad. In September 2007, Reddy escaped an assassination attempt near Nellore by naxal groups. Janardhana Reddy and his wife both escaped the event unhurt."
+}, {
+  "entityIndex" : "4_entity8326",
+  "entityUrl" : "http://dbpedia.org/resource/Neil_Roberts_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "Member of the Queensland Parliament for Nudgee" ]
+  },
+  "words" : [ "next", "-LRB-", "contesting", "2012", "2011", "December", "1995", "would", "represented", "state", "January", "Neil", "Assembly", "Minister", "1955", "11", "election", "born", "politician", "Roberts", ",", "Police", "former", ".", "seat", "Services", "announced", "3", "Nudgee", "Stuart", "Australian", "-RRB-", "Legislative", "Emergency", "Corrective", "Queensland" ],
+  "adjectives" : [ "next", "Australian", "Legislative", "former" ],
+  "nouns" : [ "seat", "election", "politician", "state", "Assembly" ],
+  "text" : "Neil Stuart Roberts (born 3 January 1955) is a former Australian politician. He represented the seat of Nudgee in the Legislative Assembly of Queensland from 1995 to 2012. He was the Minister for Emergency Services, Corrective Services, and Police in Queensland. On 11 December 2011, he announced he would not be contesting the next state election."
+}, {
+  "entityIndex" : "5_entity8354",
+  "entityUrl" : "http://dbpedia.org/resource/Nick_Catania",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Balcatta" ]
+  },
+  "words" : [ "``", "Balcatta", "Mayor", "-LRB-", "father", "Mark", "2011", "inner-city", "Western", "December", "1996", "Party", "Umberto", "National", "member", "Assembly", "''", "`", "Vincent", "Nick", "born", "18", "politician", "Perth", "Nicholas", "2001", "City", "Catania", ",", "former", ".", "Vince", "Electoral", "Castell", "Australian", "served", "district", "-RRB-", "Legislative", "Italy", "Australia", "1945", "1989" ],
+  "adjectives" : [ "Western", "Australian", "Legislative", "inner-city", "former" ],
+  "nouns" : [ "Balcatta", "politician", "district", "father", "member", "City", "Assembly" ],
+  "text" : "Nicholas Mark \"Nick\" Catania (born 18 December 1945) is a former Australian politician. Catania served as Mayor of the City of Vincent in inner-city Perth, Western Australia between 2001 and 2011. He was a member of the Western Australian Legislative Assembly for the Electoral district of Balcatta between 1989 and 1996. Catania was born in Castell'Umberto, Italy and is the father of National Party politician Vince Catania."
+}, {
+  "entityIndex" : "6_entity8469",
+  "entityUrl" : "http://dbpedia.org/resource/Narsinghrao_Jabarsingh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "Bhind Vidhan Sabha" ]
+  },
+  "words" : [ "Congress", "election", "Narsinghrao", "winning", "politician", "Madhya", "Bhind", ".", "Sabha", "Vidhan", "constituency", "National", "Pradesh", "Indian", "Legislative", "General", "represented", "Jabarsingh", "state", "Pradesh.He", "1957", "Assembly" ],
+  "adjectives" : [ "Indian", "Legislative" ],
+  "nouns" : [ "election", "constituency", "politician", "state", "Assembly" ],
+  "text" : "Narsinghrao Jabarsingh was an Indian politician from the state of the Madhya Pradesh.He represented Bhind Vidhan Sabha constituency in Madhya Pradesh Legislative Assembly from Indian National Congress by winning General election of 1957."
+}, {
+  "entityIndex" : "7_entity8518",
+  "entityUrl" : "http://dbpedia.org/resource/Nat_Cook",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Fisher" ]
+  },
+  "words" : [ "``", "Nat", "-LRB-", "electoral", "Cook", "by-election", "Labor", "campaigner", "Fleur", "see", "Party", "Fisher", "Assembly", "player", "''", "anti-violence", "politician", "representing", "South", "House", ",", ".", "Natalie", "Australian", "2014", "beach", "district", "-RRB-", "volleyball", "since" ],
+  "adjectives" : [ "anti-violence", "Australian", "electoral" ],
+  "nouns" : [ "campaigner", "beach", "politician", "district", "volleyball", "by-election", "player" ],
+  "text" : "(For the Australian beach volleyball player, see Natalie Cook.) Natalie Fleur \"Nat\" Cook is an Australian politician and anti-violence campaigner representing the electoral district of Fisher in the South Australian House of Assembly for the Australian Labor Party since the 2014 Fisher by-election."
+}, {
+  "entityIndex" : "8_entity4828",
+  "entityUrl" : "http://dbpedia.org/resource/Joyce_Quin,_Baroness_Quin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Gateshead_East_and_Washington_West_(UK_Parliament_constituency)", "http://dbpedia.org/resource/Tyne_and_Wear_(European_Parliament_constituency)" ]
+  },
+  "words" : [ "die", "-LRB-", "26", "seit", "zehn", "Labour", "County", "britische", "Quin", "der", "Joyce", "Baroness", "Politikerin", "Party", "des", "2006", "Peeress", "Abgeordnete", "Commons", "lang", "Lords", "November", "Parlaments", "Jahre", "18", "sowohl", "als", "war", "*", "House", ",", ".", "Europäischen", "Mitglied", "PC", "Tyne", "eine", "auch", "Gateshead", "Wear", "Gwendolen", "-RRB-", "Life", "1944" ],
+  "adjectives" : [ ],
+  "nouns" : [ "der", "Politikerin", "PC", "eine", "seit", "sowohl", "zehn", "war", "lang", "britische" ],
+  "text" : "Joyce Gwendolen Quin, Baroness Quin, of Gateshead in the County of Tyne and Wear PC (* 26. November 1944) ist eine britische Politikerin der Labour Party, die sowohl zehn Jahre lang Mitglied des Europäischen Parlaments als auch 18 Jahre lang Abgeordnete des House of Commons war und seit 2006 als Life Peeress Mitglied des House of Lords ist."
+}, {
+  "entityIndex" : "9_entity4896",
+  "entityUrl" : "http://dbpedia.org/resource/John_Brogden_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Pittwater" ]
+  },
+  "words" : [ "Company", "-LRB-", "Chief", "28", "Lifeline", "John", "Gilbert", "March", "Furlough", "Institute", "Directors", "AICD", "businessman", "January", "Retirement", "UrbanGrowth", "Executive", "Village", "&", "born", "politician", "Director", "also", "House", ",", "former", ".", "Chairman", "Broken", "appointed", "Managing", "NSW", "Brogden", "2015", "Australian", "-RRB-", "Bay", "1969", "Officer" ],
+  "adjectives" : [ "Australian", "former" ],
+  "nouns" : [ "politician", "AICD", "businessman" ],
+  "text" : "John Gilbert Brogden AM (born 28 March 1969) is an Australian businessman and former politician. He was appointed the Managing Director & Chief Executive Officer of the Australian Institute of Company Directors (AICD) in January 2015. Brogden is Chairman of Lifeline, Chairman of UrbanGrowth NSW, and Chairman of the Broken Bay Institute. He is also Chairman of Furlough House Retirement Village. He was Leader of the Opposition in New South Wales from 2002 to 2005. He was a Liberal Party member of the New South Wales Legislative Assembly from May 1996 until his resignation in August 2005, representing the electorate of Pittwater. After politics, he served as the CEO and chairperson of various organisations in the financial services sector. He is a leading advocate for suicide prevention."
+}, {
+  "entityIndex" : "10_entity5054",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_Simpson_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Lake_Macquarie" ]
+  },
+  "words" : [ "New", "Wales", "Borehole", "seven", "December", "worked", "school", "Shotts", "hospitalised", "January", "Assembly", "10", "--", "Brunton", "months", "work", "seriously", "mining", ",", ".", "fourteen", "elected", "-RRB-", "coal", "Creek", "1905", "parents", "22", "-LRB-", "Scotland", "Labor", "miner", "accident", "arrived", "injured", "Lanarkshire", "Party", "public", "Dykehead", "member", "Colliery", "Simpson", "James", "politician", "South", "started", "Jim", "1921", "educated", "Cockle", "Australian", "Legislative", "1968", "1924", "age", "Stockton" ],
+  "adjectives" : [ "public", "Australian", "Legislative" ],
+  "nouns" : [ "school", "work", "politician", "member", "coal", "mining", "Assembly", "age", "miner", "accident" ],
+  "text" : "James Brunton (Jim) Simpson (22 January 1905 – 10 December 1968) was an Australian politician, elected as a member of the New South Wales Legislative Assembly for the Australian Labor Party. Simpson was Shotts, Lanarkshire, Scotland and educated at Dykehead public school. He started work at the age of fourteen as a coal miner. He arrived in New South Wales with his parents in 1921 and worked in Stockton Borehole Colliery at Cockle Creek until was seriously injured in a mining accident in 1924 and had to be hospitalised for seven months. He studied commercial subjects and was employed by Northern Districts Miners' Federation as its assistant secretary in 1927. He was secretary of the federation from 1940 to 1950. He married Grace Ellen Gallimore in May 1941 and they had one daughter and two sons. Simpson was elected as the Australian Labor Party for the member for Lake Macquarie in 1950 and was re-elected in the seat until his death. he was Minister Without Portfolio from March 1956 to November 1957 and then Minister for Mines until May 1965 when the Renshaw government was defeated. He died in Sydney."
+}, {
+  "entityIndex" : "11_entity5064",
+  "entityUrl" : "http://dbpedia.org/resource/James_Reid_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Cariboo_(electoral_district)" ]
+  },
+  "words" : [ "Wakefield", "Ann", "Lower", "-LRB-", "May", "Canadian", "moved", "nearly", "Reid", "Maxwell", "eventually", "northern", "miner", "Hull", "October", "Cariboo", "son", "trip", "empire", "1839", "Ottawa", "parliamentarian", "--", "established", "British", "James", "business", "born", "Quebec", "Quesnel", ",", "cousin", "entrepreneur", ".", "Canada", "2", "educated", "Columbia", "1862", "5", "Quesnellemouth", "prospered", "-RRB-", "1904", "region", "perishing" ],
+  "adjectives" : [ "Canadian", "northern" ],
+  "nouns" : [ "son", "trip", "business", "empire", "region", "parliamentarian", "cousin", "entrepreneur", "miner" ],
+  "text" : "James Reid (October 2, 1839 – May 5, 1904) was a Canadian entrepreneur and parliamentarian from British Columbia. Reid was born in Wakefield, Lower Canada, the son of James Reid and Ann Maxwell, and was educated in Hull, Quebec and Ottawa. He moved to British Columbia in 1862, with a cousin, nearly perishing on the trip to the northern Cariboo region. Reid eventually prospered as a miner and established his own business empire in Quesnellemouth (now Quesnel). In 1883, he married Charlotte Clarke. Reid’s business included saw and flour mills, mining operations, riverboat construction and the main general store in Quesnel. Reid owned his own riverboat, the Charlotte which was one of the main supply vessels into the area. Reid was elected to Member of Parliament for Cariboo as a Liberal-Conservative in an 1881 by-election on the death of incumbent MP Joshua Spencer Thompson. He was acclaimed in the following federal election and re-elected in 1887. Prime Minister Macdonald appointed Reid to the Senate in 1888. He held that office until his death in Vancouver in 1904."
+}, {
+  "entityIndex" : "12_entity5261",
+  "entityUrl" : "http://dbpedia.org/resource/James_Buckham_Kennedy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/New_Westminster_(electoral_district)" ]
+  },
+  "words" : [ "New", "Westminster", "MLA", "Eugenia", "Gatos", "1898", "1930", "DeBeck", "George", "1894", "1859", "Member", "--", "lumberman", "Brunswick", "1908", ",", "'s", ".", "Los", "Nov", "council", "-RRB-", "1904", ";", "daughter", "Buckham", "Parliament", "Ann", "23", "-LRB-", "25", "September", "Canadian", "city", "1880", "died", "Kennedy", "Eliza", "term", "Josephine", "February", "30", "CA", "James", "Liberal", "politician", "one", "sat", "born", "B.C.", "also", "1844", "1883", "married", "first" ],
+  "adjectives" : [ "Canadian", "Liberal" ],
+  "nouns" : [ "lumberman", "city", "council", "politician", "term", "daughter" ],
+  "text" : "James Buckham Kennedy (February 23, 1844 – September 25, 1930) was a Canadian lumberman and Liberal politician. Kennedy was the MLA for New Westminster from 1894 to 1898 and Member of Parliament for New Westminster for one term from 1904 to 1908. He also sat on New Westminster's city council. Kennedy was married first in New Westminster B.C. on Nov 30 1880 to Josephine Eugenia DeBeck who was born in 1859 in New Brunswick; died Los Gatos, CA 1883, daughter of George and Eliza Ann DeBeck . Marriage record in BC Archives They had one son Clarence George Kennedy born May 6 1882 in New Westminster B.C., died 27 March 1908, Vernon, BC.All, except Josephine, are buried in the Fraser Cemetery New Westminster B.C."
+}, {
+  "entityIndex" : "13_entity5263",
+  "entityUrl" : "http://dbpedia.org/resource/James_Davis_Taylor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/New_Westminster_(electoral_district)" ]
+  },
+  "words" : [ "commanded", "New", "Westminster", "-LRB-", "September", "May", "Canadian", "War", "resisting", "World", "Davis", "overseas", "Rebellion", "Lieutenant", "member", "1917", "Ottawa", "--", "11", "MP", "James", "Taylor", "politician", "1908", ",", ".", "Sharpshooters", "journalist", "2", "1941", "1863", "1885", "involved", "soldier", "Conservative", "North-West", "Colonel", "-RRB-", "publisher", "131st", "Battalion" ],
+  "adjectives" : [ "Canadian", "Conservative" ],
+  "nouns" : [ "journalist", "MP", "soldier", "politician", "member", "publisher", "Battalion" ],
+  "text" : "James Davis Taylor (September 2, 1863 – May 11, 1941) was a Canadian publisher, journalist, soldier and Conservative politician. As a member of the Ottawa Sharpshooters, Taylor was involved in resisting the 1885 North-West Rebellion. As a Lieutenant Colonel during World War I he commanded the 131st Battalion overseas. Taylor was MP for New Westminster from 1908 until 1917. Davis was then appointed to the Senate where he served until his death."
+}, {
+  "entityIndex" : "14_entity5322",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_Pearce_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Fitzroy_(Queensland)", "http://dbpedia.org/resource/Electoral_district_of_Mirani", "http://dbpedia.org/resource/Electoral_district_of_Broadsound" ]
+  },
+  "words" : [ "named", "-LRB-", "Mirani", "28", "2009", "see", "disambiguation", "member", "July", "Assembly", "James", "born", "politician", "Pearce", ",", "people", ".", "Jim", "2015", "Australian", "-RRB-", "Legislative", "1948", "returned", "1989", "Queensland" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "politician", "disambiguation", "member", "Assembly" ],
+  "text" : "(For other people named Jim Pearce, see Jim Pearce (disambiguation).) James (Jim) Pearce (born 28 July 1948) is an Australian politician. He was a member of the Legislative Assembly of Queensland from 1989 to 2009. He returned to the Assembly in 2015 as the member for Mirani. First elected to state parliament at the 1989 state election as the member for Broadsound, Pearce represented the seat of Fitzroy from the 1992 state election onwards following the abolition of Broadsound. A backbencher throughout his 20 years in state politics, he was Secretary of the Parliamentary Labor Party from 1998 to 2001 and Chair of the Select Committee on Travel Safe from 2001 to 2008. During his last term of parliament, Pearce took several months leave to receive treatment for depression. He retired at the 2009 state election. After recovering from his illness, Pearce returned to politics, gaining pre-selection to contest the seat of Mirani at the 2012 Queensland State Election, although he failed to gain the seat. Pearce was once again endorsed as the Labor Party candidate for the seat of Mirani in 2014, and this time was successful. Pearce was born in the Sydney suburb of Paddington. Prior to entering politics, he was a coal miner. He was also a Broadsound Shire councillor and served as a Corporal in the Vietnam War. Pearce has three sons."
+}, {
+  "entityIndex" : "15_entity5471",
+  "entityUrl" : "http://dbpedia.org/resource/John_Parkin_Taylor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Dunedin_Country" ]
+  },
+  "words" : [ "New", "John", "England", "run", "got", "Waldeck", "worked", "homestead", "near", "1812", "19th-century", "--", "12", "Taylor", "finally", "'", "merchant", "countries", ",", "'s", "Island", ".", "August", "Zealand", "-RRB-", "parts", "Germany", "Parkin", "-LRB-", "Riverton", "settling", "life", "1875", "lived", "early", "sheep", "runholder", "`", "languages", "built", "studied", "politician", "South", "Otago", "Southland", "various", "farmer", "emigrated", "1849", "returned", "family", "married" ],
+  "adjectives" : [ "various", "early", "19th-century" ],
+  "nouns" : [ "runholder", "homestead", "politician", "merchant", "farmer", "family", "life", "sheep" ],
+  "text" : "John Parkin Taylor (1812 – 12 August 1875) was a 19th-century New Zealand runholder, and a politician in Otago and Southland. In his early life, Taylor lived in various countries and studied languages in Germany. He worked as a merchant and got married when he returned to England. Taylor's family emigrated to New Zealand in 1849 and he was a sheep farmer in various parts of the South Island before finally settling on a run near Riverton in Southland, where he had his homestead 'Waldeck' built. He entered the House of Representatives for the Dunedin Country electorate through a by-election in 1858 but fell out with many of his constituents over a broken election promise, as he helped the Southland Province to break away from the Otago Province. He eventually became Southland's second Superintendent and served from 1865 to 1869, and also represented an electorate on the Southland Provincial Council for a few months. In 1865, he was appointed to the New Zealand Legislative Council and with one break in membership due to non-attendance, he remained a member until his death. He served for one year as mayor of Riverton (1872–73) but did not stand again due to poor health. Taylor had a painful illness and died in 1875."
+}, {
+  "entityIndex" : "16_entity5603",
+  "entityUrl" : "http://dbpedia.org/resource/John_Mickel_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Logan" ]
+  },
+  "words" : [ "-LRB-", "John", "2012", "Labor", "Mickel", "1953", "Reginald", "Fiona", "member", "Assembly", "Speaker", "Simpson", "election", "contest", "born", "politician", ",", ".", "August", "Logan", "Australian", "-RRB-", "Legislative", "Queensland", "succeeded" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "election", "politician", "member", "Labor", "Assembly" ],
+  "text" : "Reginald John Mickel (born August 1953) is an Australian politician. He was the Speaker of the Legislative Assembly of Queensland and the Labor member for Logan until the 2012 election. He was succeeded by Fiona Simpson as Speaker, as he did not contest the 2012 election."
+}, {
+  "entityIndex" : "17_entity5702",
+  "entityUrl" : "http://dbpedia.org/resource/John_Flaws_Reid",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Mackenzie_(electoral_district)" ]
+  },
+  "words" : [ "June", "Charlotte", "-LRB-", "Canadian", "John", "Reid", "political", "run", "Union", "Liberal-Unionist", "son", "Robert", "Commons", "Eday", "1917", "Flaws", "represented", "July", "supporting", "30", "Orkney", "Islands", "10", "--", "re-election", "figure", "election", "Government", "Conscription", "born", "House", "Saskatchewan", ",", ".", "Crisis", "1943", "elected", "1921", "Canada", "1860", "-RRB-", "Mackenzie", "farmer", "Borden", "Stevenson", "Sir", "Scottish-born", "first" ],
+  "adjectives" : [ "Liberal-Unionist", "political", "Scottish-born", "first" ],
+  "nouns" : [ "re-election", "figure", "election", "son", "farmer" ],
+  "text" : "John Flaws Reid (June 30, 1860 – July 10, 1943) was a Scottish-born farmer and political figure in Saskatchewan, Canada. He represented Mackenzie in the Canadian House of Commons and was first elected in the Conscription Crisis election of 1917 as a Liberal-Unionist supporting the Union Government of Sir Robert Borden. He did not run for re-election in 1921. He was born in Eday, Orkney Islands, the son of Robert Reid and Charlotte Stevenson. In 1882, he left Scotland and came to York Colony, Northwest Territories (later Yorkton, Saskatchewan), choosing a site nearby to settle. He worked in Portage la Prairie so that he could purchase supplies and returned to his homestead the following year, when his mother and brothers arrived from Scotland. He served in the militia during the North-West Rebellion of 1885. The following year, Reid married Ida Estella Rae Rendall Fergus. He served as a member of the local school board for over thirty years. In 1899, he was named road inspector for Yorkton district. He also served on the municipal council for Orcadia."
+}, {
+  "entityIndex" : "18_entity5801",
+  "entityUrl" : "http://dbpedia.org/resource/John_Bitchener",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Waitaki_(New_Zealand_electorate)" ]
+  },
+  "words" : [ "--", "New", "Bitchener", "-LRB-", "minister", "Government", "John", "March", ".", "1864", "1952", "Zealand", "OBE", "Party", "-RRB-", "Reform", "Member", "cabinet", "1935", "Parliament", "10", "1933" ],
+  "adjectives" : [ ],
+  "nouns" : [ "minister", "Government", "Reform", "cabinet" ],
+  "text" : "John Bitchener OBE (1864 – 10 March 1952) was a Reform Party Member of Parliament in New Zealand. He was a cabinet minister from 1933 to 1935 in the Reform Government of New Zealand."
+}, {
+  "entityIndex" : "19_entity6042",
+  "entityUrl" : "http://dbpedia.org/resource/James_Wong_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "Miri-Lubis" ]
+  },
+  "words" : [ "fifty", "office", "jīn", "years", "assemblyman", "National", "record", "Wong", "July", "state", "Malaysian", "Minister", "--", "Datuk", "Deputy", "18", "active", "history", ",", ".", "Kim", "August", "Min", "pinyin", "6", "served", "name", "-RRB-", ":", ";", "Sarawak", "politics", "-LRB-", "longest", "黄", "Chief", "黄金明", "nearly", "2011", "serving", "holding", "Party", "huáng", "Amar", "James", "politician", "míng", "SNAP", "Chinese", "holds", "decades", "family", "first", "1922", "president" ],
+  "adjectives" : [ "Chinese", "active", "Malaysian", "first", "huáng" ],
+  "nouns" : [ "assemblyman", "pinyin", "politician", "record", "name", "history", "state", "office", "family", "jīn", "míng", "president" ],
+  "text" : "(This is a Chinese name; the family name is Wong (黄).) Datuk Amar James Wong Kim Min (Chinese: 黄金明; pinyin: huáng jīn míng) (6 August 1922 – 18 July 2011) was a Malaysian politician active in the politics of Sarawak for decades. Wong holds the record as the longest serving assemblyman in the history of the state of Sarawak, holding the office for nearly fifty years. Wong served as the first Deputy Chief Minister of Sarawak and the president of the Sarawak National Party (SNAP). He held several other ministries of Sarawak politics until his retirement in 2001."
+}, {
+  "entityIndex" : "20_entity6221",
+  "entityUrl" : "http://dbpedia.org/resource/Jon_Krause",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Beaudesert" ]
+  },
+  "words" : [ "``", "-LRB-", "2012", "Mark", "March", "Beaudesert", "Party", "National", "Jonathan", "won", "member", "state", "Assembly", "''", "12", "Krause", "election", "Liberal", "born", "politician", "Jon", ",", ".", "seat", "2015", "1981", "Australian", "-RRB-", "Legislative", "returned", "Queensland" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "seat", "election", "politician", "member", "state", "Assembly" ],
+  "text" : "Jonathan Mark \"Jon\" Krause (born 12 March 1981) is an Australian Liberal National Party politician who is the member of the Legislative Assembly of Queensland for Beaudesert, having won the seat at the 2012 state election and being returned in the 2015 Queensland state election."
+}, {
+  "entityIndex" : "21_entity6464",
+  "entityUrl" : "http://dbpedia.org/resource/Joan_Viliamu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "Common roll" ]
+  },
+  "words" : [ "22", "Niuean", "-LRB-", "Tuapa", "roll", "March", "2011", "Niue", "School", "worked", "servant", "Intermediate", "public", "common", "Primary", "Broadcasting", "businesswoman", "Sisiati", "Viliamu", "Assembly", "Minister", "Tahafa", "High", "election", "minister", "Cabinet", "Health", "Sector", "born", "politician", "Following", ",", ".", "elected", "appointed", "Joan", "Corporation", "educated", "Matalave", "-RRB-", "Community", "1966" ],
+  "adjectives" : [ "Niuean", "public", "common", "Primary" ],
+  "nouns" : [ "servant", "election", "minister", "politician", "Tuapa", "roll", "businesswoman", "Assembly" ],
+  "text" : "Joan Sisiati Tahafa Viliamu (born 22 March 1966) is a Niuean politician and Cabinet minister. Viliamu was born in Tuapa and educated at Matalave Primary School and Niue High School Intermediate. She worked as a public servant and businesswoman before being elected to the Niue Assembly on the common roll at the 2011 election. Following the election she was appointed to Cabinet as Minister of Health, the Community Sector, and Minister for the Niue Broadcasting Corporation."
+}, {
+  "entityIndex" : "22_entity6526",
+  "entityUrl" : "http://dbpedia.org/resource/James_Maloney_(lawyer)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Etobicoke—Lakeshore" ]
+  },
+  "words" : [ "Hughes", "electoral", "Councillor", "worked", "later", "Commons", "--", "Lakeshore", "House", "City", ",", "'s", ".", "elected", "appointed", "Canada", "Ward", "5", "interim", "Prior", "council", "district", "following", "-RRB-", "campaign", "municipal", "Toronto", "Grimes", "-LRB-", "Canadian", "city", "association", "Mark", "2010", "resignation", "LLP", "Party", "member", "councillor", "lawyer", "Maloney", "election", "James", "manager", "Liberal", "politician", "Milczyn", "Etobicoke", "2015", "2014", "caucus", "Amys", "Peter", "represent", "president" ],
+  "adjectives" : [ "Canadian", "interim", "electoral", "municipal" ],
+  "nouns" : [ "Lakeshore", "election", "manager", "city", "politician", "association", "resignation", "council", "district", "caucus", "member", "campaign", "councillor", "lawyer", "president" ],
+  "text" : "James Maloney is a Canadian lawyer and politician, who was elected to the House of Commons of Canada in the 2015 election. He will represent the electoral district of Etobicoke—Lakeshore as a member of the Liberal Party caucus. Prior to his election, Maloney worked as a lawyer with Hughes Amys LLP, and as president of the Liberal Party's electoral district association in Etobicoke—Lakeshore. He was campaign manager for Toronto City Councillor Mark Grimes in the 2010 municipal election, and was later appointed to city council in 2014 to represent Ward 5 (Etobicoke—Lakeshore) as interim councillor following the resignation of Peter Milczyn from the council. Maloney has law degrees from the University of Windsor and University of Wales, Cardiff, as well as a BA from Bishop's University."
+}, {
+  "entityIndex" : "23_entity2757",
+  "entityUrl" : "http://dbpedia.org/resource/Eknath_Gaikwad",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Mumbai_North_Central_(Lok_Sabha_Constituency)", "http://dbpedia.org/resource/Mumbai_South_Central_(Lok_Sabha_Constituency)" ]
+  },
+  "words" : [ "Congress", "14th", "एकनाथ", "-LRB-", "Marathi", "political", "Central", "Mumbai", "15th", "Sabha", "National", "lost", "member", "represented", "January", "Rahul", "Gaikwad", "born", "politician", "South", "Lok", ".", "India", "seat", "1", "1940", "constituency", "गायकवाड", "2014", "Shewale", "Eknath", "-RRB-", "Indian", ":", "party", "INC" ],
+  "adjectives" : [ "14th", "Indian", "political", "15th" ],
+  "nouns" : [ "seat", "Sabha", "constituency", "politician", "member", "Lok", "party" ],
+  "text" : "Eknath Gaikwad (Marathi: एकनाथ गायकवाड) (born 1 January 1940) is an Indian politician from the Indian National Congress (INC) political party. He was a member of the 15th Lok Sabha and the 14th Lok Sabha of India. He represented the Mumbai South Central constituency of Mumbai. He lost the seat to Rahul Shewale in 2014. He has been a three time Member of Legislative Assembly from Dharavi and also twice state minister of Maharashtra state cabinet. Since 1985, he has represented Dharavi which is Asia's largest slum."
+}, {
+  "entityIndex" : "24_entity2802",
+  "entityUrl" : "http://dbpedia.org/resource/Edgar_Crow_Baker",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Victoria_(electoral_district)" ]
+  },
+  "words" : [ "Edgar", "-LRB-", "September", "Canadian", "lieutenant", "part", "England", "Edward", "serving", "Royal", "Jones", "School", "retiring", "son", "major", "Baker", "Crow", "rank", "Hospital", "November", "1878", "Frances", "Mary", "--", "British", "Lambeth", "16", "politician", "born", "navigating", "entered", ",", "William", ".", "Greenwich", "Whitley", "1920", "educated", "Navy", "3", "Columbia", "1860", "-RRB-", "1869", "married", "Surrey", "1845" ],
+  "adjectives" : [ "major", "Canadian" ],
+  "nouns" : [ "son", "lieutenant", "politician", "part", "rank" ],
+  "text" : "Edgar Crow Baker (September 16, 1845 – November 3, 1920) was a Canadian politician from British Columbia. Baker was born in Lambeth, then part of Surrey, England, the son of Edward William Whitley Baker, and was educated at the Royal Hospital School in Greenwich. In 1860, he entered the Royal Navy, serving as a navigating lieutenant and retiring at the rank of major in 1878. In 1869, he married Frances Mary Jones. He settled in Victoria, British Columbia and became a prominent accountant, real estate conveyancer and notary. Baker, often known as Crow Baker professionally, prospered and became one of the wealthiest men in the city. Baker served as the Grandmaster of the Masonic Grand Lodge of British Columbia. He entered civic politics as an alderman in Victoria. Baker switched to federal politics when Prime Minister John A. Macdonald vacated his seat in the Victoria district to return to an Ontario seat. He was elected to parliament as a Conservative, along with colleague Noah Shakespeare in the 1882 federal election. Baker was re-elected in 1887 but would later resign his seat, in 1889."
+}, {
+  "entityIndex" : "25_entity2845",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_L._Cash",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "Mackenzie, Northwest Territories 1" ]
+  },
+  "words" : [ "M.D.", "United", "Court", "States", "December", "1897", "son", "1896", "--", "Rock", "Victoria", "received", "Saskatchewan", ",", ".", "elected", "Canada", "University", "Cobourg", "-RRB-", "David", "Markham", "Ontario", "District", "-LRB-", "26", "May", "Canadian", "Edward", "Cash", "County", "Nebraska", "1871", "Clerk", "physician", "31", "Eckardt", "L.", "West", "practicing", "politician", "Yorkton", "started", "medicine", "Elizebeth", "Born", "1849", "1922", "resided" ],
+  "adjectives" : [ "Canadian" ],
+  "nouns" : [ "son", "politician", "physician", "medicine" ],
+  "text" : "Edward L. Cash (December 26, 1849 – May 31, 1922) was a Canadian physician and politician. Born in Markham, Canada West, the son of David Cash and Elizebeth Eckardt, Cash received his M.D. from the Victoria University in Cobourg, Ontario in 1871. From 1871 to 1896, he resided in United States and was elected County Clerk and Clerk of the District Court for Rock in Nebraska. In 1897, he started practicing medicine in Yorkton, Saskatchewan. Cash was a founder of the Yorkton Club, an elite social club created on April 3, 1907 under the Yorkton Club Act 1907. He was first elected to the Canadian House of Commons in 1904 for the electoral district of Mackenzie. A Liberal, he was re-elected in 1908 and 1911."
+}, {
+  "entityIndex" : "26_entity2978",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Healy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Wairau_(New_Zealand_electorate)" ]
+  },
+  "words" : [ "--", "23", "New", "-LRB-", "September", "28", "United", "Edward", ".", "August", "1954", "Zealand", "Francis", "Party", "Healy", "-RRB-", "1869", "Member", "Parliament" ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : "Edward Francis Healy (28 September 1869 – 23 August 1954) was a United Party Member of Parliament in New Zealand."
+}, {
+  "entityIndex" : "27_entity2984",
+  "entityUrl" : "http://dbpedia.org/resource/Ebenezer_Hamlin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Franklin_(New_Zealand_electorate)" ]
+  },
+  "words" : [ "June", "New", "conservative", "Rev", "Church", "Wars", "-LRB-", "independent", "Missionary", "fought", "youngest", "parliament", "Manukau", "arrived", "son", "member", "Harbour", "--", "reverent", "Territorial", "Army", "Ebenezer", "James", "born", "Orua", ",", ".", "1844", "Zealand", "Major", "4", "-RRB-", "ninth", "Hamlin", "missionary", "Society", "1860s", "1900", "1823" ],
+  "adjectives" : [ "reverent", "Territorial", "conservative", "Major", "independent", "ninth", "missionary" ],
+  "nouns" : [ "Rev", "son", "member", "parliament" ],
+  "text" : "Ebenezer Hamlin (1844 – 4 June 1900) was a member of parliament in New Zealand, and an independent conservative. Hamlin was born in Orua on the Manukau Harbour to the Rev James Hamlin, a missionary who had arrived in New Zealand in 1823 with the Church Missionary Society. He was the ninth and youngest son of the reverent. He fought in the New Zealand Wars in the 1860s, and was a Major in the Territorial Army. On 28 April 1868, Hamlin married Sarah Grace Barriball, the daughter of Charles Barriball of Waiuku, at his father's house near Waiuku (Barriball Road in Waiuku commemorates the location of the family's land). Electors from Waiuku presented a requisition to Hamlin in November 1869 to stand for election in the Raglan electorate for the Auckland Provincial Council, which he accepted. Three representatives were elected on 20 December, and of four candidates, Joseph May came first and Hamlin came second. Hamlin remained a member of the provincial council until the abolition of provincial government in 1875. He represented the South Auckland seats of Franklin in the New Zealand House of Representatives from 1876 to 1881; and then the replacement electorate of Franklin South from 1881 to 1890. He then represented the reconstituted Franklin electorate from 1890 to 1893 when he retired. He was never defeated. He served as Chairman of Committees from 1882 to 1890. He died at his residence in the Auckland suburb of Remuera on 4 June 1900. He was survived by his wife, three sons, and seven daughters."
+}, {
+  "entityIndex" : "28_entity11614",
+  "entityUrl" : "http://dbpedia.org/resource/William_Sloan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Comox—Atlin" ]
+  },
+  "words" : [ "MLA", "held", "Sloan", "posts", "Mines", "provincial", "businessman", "Member", "cabinets", "Minister", "10", "--", "Wingham", "Nanaimo", "Comox-Atlin", "Executive", "minister", "1909", "active", "Fisheries", "William", ",", ".", "seat", "2", "provide", "-RRB-", "1904", "Ontario", "Parliament", "1867", "politics", "-LRB-", "September", "death", "Canadian", "Secretary", "March", "Council", "serving", "Clerk", "1916", "resigned", "Templeman", "Liberal", "politician", "Provincial", "continued", "Commissioner", "Born", "1928", "time" ],
+  "adjectives" : [ "Canadian", "Liberal", "active", "provincial" ],
+  "nouns" : [ "seat", "death", "minister", "politician", "Clerk", "time", "businessman" ],
+  "text" : "William Sloan (September 10, 1867 – March 2, 1928) was a Canadian businessman and Liberal politician. He was Member of Parliament for Comox-Atlin from 1904 until 1909, when he resigned to provide a seat for William Templeman. Born in Wingham, Ontario, Sloan continued to be active in provincial politics, serving as MLA for Nanaimo from 1916 until his death in 1928. A minister in the Liberal cabinets of the time, Sloan held the posts of Minister of Mines, Commissioner of Fisheries, Clerk of the Executive Council, and Provincial Secretary. His son Gordon became a member of the provincial assembly and served in the province's cabinet and in the B.C. Court of Appeal."
+}, {
+  "entityIndex" : "29_entity11635",
+  "entityUrl" : "http://dbpedia.org/resource/William_Erskine_Knowles",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Assiniboia_West", "http://dbpedia.org/resource/Moose_Jaw_(electoral_district)" ]
+  },
+  "words" : [ "Jaw", "-LRB-", "Law", "Canadian", "held", "Erskine", "28", "electoral", "by-election", "Moose", "School", "1951", "1872", "Commons", "July", "February", "Alliston", "lawyer", "November", "1911", "--", "profession", "17", "West", "Liberal", "politician", "1908", "House", "Assiniboia", "William", ",", "Osgoode", ".", "elected", "educated", "Knowles", "re-elected", "Born", "6", "district", "-RRB-", "1906", "Hall", "Ontario", "Toronto", "first" ],
+  "adjectives" : [ "Canadian", "electoral", "first" ],
+  "nouns" : [ "profession", "politician", "district", "by-election", "lawyer" ],
+  "text" : "William Erskine Knowles (November 28, 1872 – July 17, 1951) was a Canadian politician. Born in Alliston, Ontario, Knowles was educated at Osgoode Hall Law School in Toronto. A lawyer by profession, he was first elected to the Canadian House of Commons for the electoral district of Assiniboia West in a by-election held on February 6, 1906. A Liberal, he was re-elected in 1908 and 1911 for the electoral district of Moose Jaw. He did not run in 1917. From 1918 to 1927, he was a member of the Legislative Assembly of Saskatchewan. From 1918 to 1921, he was the Provincial Secretary and from 1919 to 1921 he was the Minister of Telephones. He attempted a federal comeback in the 1921 and 1923 elections but was defeated. Knowles resigned his seat in the Saskatchewan assembly in 1927 after he was named a judge."
+}, {
+  "entityIndex" : "30_entity11661",
+  "entityUrl" : "http://dbpedia.org/resource/William_Garland_McQuarrie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/New_Westminster_(electoral_district)" ]
+  },
+  "words" : [ "New", "Westminster", "-LRB-", "Manitoba", "Law", "26", "May", "called", "Canadian", "1919", "1876", "Winnipeg", "School", "son", "province", "King", "Counsel", "July", "Ottawa", "Lachlan", "30", "lawyer", "Mary", "--", "British", "law", "studied", "created", "politician", "raised", "William", ",", "'s", "Osgoode", ".", "1943", "Bar", "Columbia", "McQuarrie", "Born", "-RRB-", "Garland", "Hall", "Ontario", "Toronto", "1900" ],
+  "adjectives" : [ "Canadian" ],
+  "nouns" : [ "Bar", "son", "law", "province", "politician", "lawyer" ],
+  "text" : "William Garland McQuarrie (July 26, 1876 – May 30, 1943) was a Canadian lawyer and politician in the province of British Columbia. Born in Ottawa, Ontario, the son of Lachlan and Mary McQuarrie, McQuarrie was raised in Winnipeg, Manitoba and New Westminster, British Columbia. He studied law at Osgoode Hall Law School in Toronto and was called to the Bar of British Columbia in 1900. In 1919, he was created a King's Counsel. He first practiced law in Ashcroft, British Columbia and soon practiced in New Westminster. From 1916 to 1917, he was president of the New Westminster Federal Conservative Association. He was first elected to the Canadian House of Commons for the electoral district of New Westminster in the 1917 federal election. He was re-elected in 1921, 1925, and 1926 elections. He was defeated in 1930."
+}, {
+  "entityIndex" : "31_entity11662",
+  "entityUrl" : "http://dbpedia.org/resource/William_Henry_Eyes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Wairau_(New_Zealand_electorate)" ]
+  },
+  "words" : [ "New", "-LRB-", "Marlborough", "year", "England", "Superintendent", "Representatives", "immediately", "years", "jailed", "1819", "represented", "1839", "electorate", "pardoned", "Henry", "--", "12", "Eyes", "politician", "House", "William", ",", "many", "April", "Province", ".", "Zealand", "Born", "Gaol", "1907", "-RRB-", "fifth", "Wairau", "emigrated", "Australia", "Parramatta", "British-born" ],
+  "adjectives" : [ "fifth", "many", "British-born" ],
+  "nouns" : [ "year", "politician", "Superintendent", "electorate" ],
+  "text" : "William Henry Eyes (1819 – 12 April 1907) was a British-born, New Zealand politician who was the fifth Superintendent of the Marlborough Province, and who represented the Wairau electorate in the New Zealand House of Representatives for many years. Born in England, Eyes had emigrated to Australia in 1839. He was jailed at Parramatta Gaol for a year before he was pardoned, after which he immediately emigrated to New Zealand."
+}, {
+  "entityIndex" : "32_entity7089",
+  "entityUrl" : "http://dbpedia.org/resource/Lyle_MacWilliam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Okanagan—Shuswap" ]
+  },
+  "words" : [ "Lyle", "Vancouver", "-LRB-", "education", "Canadian", "John", "Louise", "research", "son", "related", "1993", "Simon", "1971", "Commons", "Michael", "member", "July", "Coghill", "included", "arts", "31", "British", "Doris", "Arlene", "studied", "born", "House", ",", "Fraser", "Dean", ".", "plus", "market", "Columbia", "martial", "University", "background", "instruction", "Born", "-RRB-", "1949", "Leslie", "Sundvick", "MacWilliam", "married", "1988" ],
+  "adjectives" : [ "martial", "related" ],
+  "nouns" : [ "market", "education", "son", "background", "instruction", "member", "research" ],
+  "text" : "Lyle Dean MacWilliam (born 31 July 1949) was a member of the Canadian House of Commons from 1988 to 1993. His background included martial arts instruction, plus market research and its related education. Born in Vancouver, British Columbia, the son of John Michael MacWilliam and Doris Louise Coghill, MacWilliam studied at Simon Fraser University. In 1971, he married Arlene Leslie Sundvick. MacWilliam ran unsuccessfully for a seat in the Legislative Assembly of British Columbia in 1983. He was elected to represent Okanagan North in the assembly as a New Democratic Party member in a 1984 by-election held following the death of Donald James Campbell, but he was defeated when he ran for reelection in 1986. He entered federal politics after winning the 1988 federal election at the Okanagan—Shuswap electoral district for the New Democratic Party. He served in the 34th Canadian Parliament but lost to Darrel Stinson of the Reform Party in the 1993 federal election. He then joined the Liberal Party under which he campaigned at Okanagan—Shuswap in the 1997 federal election. He was again defeated by Stinson, placing second."
+}, {
+  "entityIndex" : "33_entity7306",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_France",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Pumicestone" ]
+  },
+  "words" : [ "-LRB-", "2012", "Natural", "Mines", "Lisa", "Nicole", "1974", "National", "Assistant", "Pumicestone", "member", "France", "January", "Assembly", "Minister", "Liberal", "born", "politician", ".", "April", "appointed", "3", "2015", "Australian", "8", "-RRB-", "Legislative", "Resources", "Queensland" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Lisa Nicole France (born 8 January 1974) is an Australian Liberal National politician who was the member of the Legislative Assembly of Queensland for Pumicestone from 2012 to 2015. She was appointed Assistant Minister for Natural Resources and Mines on 3 April 2012."
+}, {
+  "entityIndex" : "34_entity1467",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Frederick_Houghton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Yale_District" ]
+  },
+  "words" : [ "--", "Charles", "Frederick", "13", "-LRB-", "27", "Canadian", "politician", ",", "April", ".", "Houghton", "August", "1898", "soldier", "peace", "-RRB-", "rancher", "justice", "1839" ],
+  "adjectives" : [ "Canadian" ],
+  "nouns" : [ "soldier", "peace", "politician", "rancher", "justice" ],
+  "text" : "Charles Frederick Houghton (27 April 1839 – 13 August 1898) was a Canadian rancher, justice of the peace, politician and soldier."
+}, {
+  "entityIndex" : "35_entity1487",
+  "entityUrl" : "http://dbpedia.org/resource/C._K._Jaffer_Sharief",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Bangalore_North_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "Congress", "--", "K.", "seniormost", "Railways", "Government", "politician", "one", "Jaffer", "leaders", "C.", "Sharief", ".", "India", "National", "Karnataka", "1991", "Indian", "95", "Minister" ],
+  "adjectives" : [ "seniormost", "Indian" ],
+  "nouns" : [ "Government", "politician" ],
+  "text" : "C. K. Jaffer Sharief is an Indian politician from Karnataka. He is one of the seniormost Indian National Congress leaders. He was the Railways Minister in the Government of India from 1991–95."
+}, {
+  "entityIndex" : "36_entity1899",
+  "entityUrl" : "http://dbpedia.org/resource/Carl_Judge",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Yeerongpilly" ]
+  },
+  "words" : [ "-LRB-", "independent", "UAP", "29", "John", "2012", "United", "Party", "National", "member", "30", "Assembly", "sit", "November", "new", "Liberal", "joined", "Carl", "politician", ",", ".", "April", "elected", "2015", "Australian", "served", "2013", "-RRB-", "Legislative", "quit", "Australia", "Judge", "party", "Queensland" ],
+  "adjectives" : [ "new", "independent", "Australian", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly", "party" ],
+  "text" : "Carl John Judge was an Australian politician. He served as a member of the Queensland Legislative Assembly from 2012 to 2015. He was elected as a member of the Liberal National Party, but quit the party to sit as an independent on 29 November 2012. He then joined the new United Australia Party (UAP) on 30 April 2013,. The UAP was subsequently rebranded as the Palmer United Party and Judge later became an independent again on 8 October 2014."
+}, {
+  "entityIndex" : "37_entity1013",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Ringma",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Nanaimo—Cowichan" ]
+  },
+  "words" : [ "``", "June", "career", "-LRB-", "Canadian", "March", "War", "Ringma", "Forces", "serving", "1997", "Bob", "Robert", "1993", "Commons", "member", "rank", "military", "30", "31", "''", "--", "British", "MGen", "Korean", "House", ",", ".", "Canada", "Columbia", "Major", "1983", "soldier", "2014", "Born", "served", "-RRB-", "1928", "General", "attained", "leaving", "Richmond" ],
+  "adjectives" : [ "Canadian", "Korean", "military" ],
+  "nouns" : [ "career", "soldier", "member", "War", "rank" ],
+  "text" : "MGen Robert \"Bob\" Ringma (30 June 1928 – 31 March 2014) was a member of the House of Commons of Canada from 1993 to 1997. By career, he was a soldier for the Canadian Forces. Born in Richmond, British Columbia, Ringma served in the Canadian Forces, serving during the Korean War. He attained the rank of Major General before leaving the military in 1983. His military experiences in Korea, particularly with the Mobile Laundry and Bath Unit (MLBU), are recounted in his book MLBU Full Monty in Korea (ISBN 1-894263-85-5). He was elected in the Nanaimo—Cowichan electoral district for the Reform Party in the 1993 general election. In 1996, he attracted controversy when he stated in a newspaper interview that store owners should be free to move gays and blacks \"to the back of the shop\", or even to fire them, if the presence of that individual offended a bigoted customer. Ringma was suspended from the Reform Party caucus for several months after fellow MP Jan Brown spoke out against the prominence of extremist views in the party (although Brown herself was also suspended.) Ringma left politics after serving in the 35th Canadian Parliament and retired to Thetis Island, British Columbia. Ringma had three children with his wife Paula MacDowell. He died on 31 March 2014, aged 85."
+}, {
+  "entityIndex" : "38_entity1226",
+  "entityUrl" : "http://dbpedia.org/resource/Bali_Ram",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Lalganj_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "Dr.", "Lower", "Bali", "Lalganj", "15th", "Banaras", "2009", "Sabha", "Pradesh", "Education", "Hindu", "member", "parliamentary", "state", "representative", "Uttar", "degree", "Lok", "House", ",", "'s", ".", "India", "master", "Doctorate", "elected", "constituency", "University", "holds", "Parliament", "Ram" ],
+  "adjectives" : [ "parliamentary", "15th" ],
+  "nouns" : [ "constituency", "member", "degree", "state", "representative", "master" ],
+  "text" : "Dr. Bali Ram  is a member of Lok Sabha, Lower House of the Parliament of India. He was elected to 15th Lok Sabha in 2009 as a representative of Lalganj, a parliamentary constituency in the state of Uttar Pradesh. He holds the master's degree in Education and Doctorate from Banaras Hindu University."
+}, {
+  "entityIndex" : "39_entity1227",
+  "entityUrl" : "http://dbpedia.org/resource/Balram_Naik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Mahabubabad_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "Congress", "June", "Lower", "-LRB-", "political", "15th", "Naik", "Sabha", "known", "National", "member", "born", "politician", "Lok", "House", ",", ".", "India", "1964", "6", "Balram", "-RRB-", "Porika", "Indian", "party", "Parliament" ],
+  "adjectives" : [ "Indian", "political", "15th" ],
+  "nouns" : [ "politician", "member", "party" ],
+  "text" : "Porika Naik Balram known as Balram Naik (born 6 June 1964) is an Indian politician and a member of the Indian National Congress political party. He was a member of the 15th Lok Sabha, Lower House of the Parliament of India."
+}, {
+  "entityIndex" : "40_entity11185",
+  "entityUrl" : "http://dbpedia.org/resource/Tarnya_Smith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Mount_Ommaney" ]
+  },
+  "words" : [ "defeated", "Mount", "promoted", "Lisa", "LNP", "National", "Aboriginal", "narrow", "state", "Assembly", "Minister", "Torres", "Strait", "17", "Smith", "narrowly", ",", ".", "relegated", "seat", "Tarnya", "following", "-RRB-", "Newman", "Multicultural", "Marczyk", "-LRB-", "2012", "March", "Shadow", "2010", "defeat", "opposition", "candidate", "member", "federal", "Islander", "election", "Affairs", "Government", "Cabinet", "Liberal", "Oxley", "born", "politician", "Lawrence", "Ommaney", "Ben", "Springborg", "1965", "retained", "2015", "Australian", "Legislative", "Queensland" ],
+  "adjectives" : [ "Australian", "federal", "Legislative", "narrow" ],
+  "nouns" : [ "seat", "defeat", "opposition", "candidate", "election", "politician", "member", "state", "Assembly", "LNP" ],
+  "text" : "Tarnya Lisa Smith (born 17 March 1965) is an Australian Liberal National politician who is the member of the Legislative Assembly of Queensland for Mount Ommaney, having defeated Ben Marczyk at the 2012 state election. She was the candidate for the federal seat of Oxley at the 2010 federal election. Smith narrowly retained Mount Ommaney following the 2015 election. The narrow defeat of the Newman Government relegated the LNP to opposition and Smith was promoted to Shadow Cabinet as Shadow Minister for Aboriginal and Torres Strait Islander and Multicultural Affairs by Lawrence Springborg. Her elevation to Shadow Minister for Science, Innovation and the Digital Economy came with the election of Tim Nicholls as Opposition Leader on 6 May 2015."
+}, {
+  "entityIndex" : "41_entity9101",
+  "entityUrl" : "http://dbpedia.org/resource/Ralph_Smith_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Nanaimo_(electoral_district)", "http://dbpedia.org/resource/Vancouver_(electoral_district)" ]
+  },
+  "words" : [ "``", "leader", "-LRB-", "Ralph", "Canadian", "England", "unionist", "Newcastle", "upon", "settling", "miner", "platform", "labour", "1898", "won", "1917", "1858", "February", "Assembly", "moderate", "--", "''", "Nanaimo", "British", "election", "17", "wife", "Smith", "politician", "1891", ",", ".", "August", "Liberal-Labour", "Canada", "Columbia", "trade", "Tyne", "Born", "8", "-RRB-", "coal", "Legislative", "emigrated" ],
+  "adjectives" : [ "Canadian", "Legislative", "moderate" ],
+  "nouns" : [ "leader", "trade", "election", "wife", "politician", "unionist", "coal", "settling", "miner", "Assembly", "platform", "labour" ],
+  "text" : "Ralph Smith (August 8, 1858 – February 17, 1917) was a Canadian coal miner, labour leader, and politician. Born in Newcastle upon Tyne, England, he emigrated to Canada with his wife in 1891 settling in Nanaimo, British Columbia. A miner by trade, Smith was a moderate trade unionist in Nanaimo. In 1898, he won election to the Legislative Assembly of British Columbia on a moderate \"Liberal-Labour\" platform. He ran for Vancouver's seat in the Canadian House of Commons in the 1900 federal election. Reports vary on whether he ran as an Independent Labour-Liberal candidate defeating the official Liberal and Conservative candidates, but once elected, he joined the Liberal caucus. He was re-elected in the 1904 and 1908 elections as a Liberal. He was defeated in the 1911 election. Smith subsequently returned to provincial politics and, returned to the provincial legislature in the 1916 provincial election that brought the British Columbia Liberal Party to power. Smith served as Minister of Finance in the government of Premier Harlan Carey Brewster, and died in office on February 17, 1917. His wife, Mary Ellen Smith, succeeded him in the subsequent by-election (held January 1918) as an Independent Liberal Member of the Legislative Assembly (MLA). She subsequently became the first female cabinet minister in the British Empire. Ralph Smith was a supporter of women's suffrage, which was enacted in the province shortly after the Liberals came to power after ten previous attempts over the years had failed."
+}, {
+  "entityIndex" : "42_entity9154",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Ogle",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Saskatoon_East" ]
+  },
+  "words" : [ "New", "broadcaster", "run", "December", "Bob", "Robert", "Commons", "Member", "1979", "--", "Vatican", "Catholic", "Democratic", "House", "Saskatchewan", ",", "April", ".", "elected", "1", "1984", "involved", "Joseph", "1980", "-RRB-", "East", "politics", "24", "-LRB-", "Canadian", "riding", "1998", "1953", "candidate", "Party", "Ogle", "OC", "federal", "election", "Saskatoon", "priest", "Roman", "SOM", "instructed", "ordained", "re-elected", "Born", "Rosetown", "1928" ],
+  "adjectives" : [ "Catholic", "federal", "Roman" ],
+  "nouns" : [ "candidate", "election", "broadcaster", "priest" ],
+  "text" : "Robert (Bob) Joseph Ogle, OC SOM (December 24, 1928 – April 1, 1998) was a Roman Catholic priest, broadcaster and Member of the Canadian House of Commons. Born in Rosetown, Saskatchewan, he was ordained priest in 1953. He was elected to the House of Commons as a New Democratic Party candidate for the Saskatchewan riding of Saskatoon East in the 1979 federal election and was re-elected in the 1980 election. He did not run in 1984, when he was instructed by the Vatican not to be involved in politics. He was the author of four books:"
+}, {
+  "entityIndex" : "43_entity9282",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Heaton_Rhodes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Akaroa_(New_Zealand_electorate)" ]
+  },
+  "words" : [ "June", "New", "Rhodes", "-LRB-", "Barnard", "brothers", "county", "Rotherham", "belonging", "worked", "1874", "Robert", "1850", "1871", "managed", "Yorkshire", "Banks", "represented", "electorate", "lived", "1815", "resigned", "--", "unopposed", "Peninsula", "including", "politician", ",", "William", "followed", ".", "elected", "1", "Akaroa", "English", "Zealand", "1884", "Heaton", "Born", "-RRB-", "Australia", "properties", "Purau" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "county", "electorate" ],
+  "text" : "Robert Heaton Rhodes (1815 – 1 June 1884) was a New Zealand politician, who represented the Akaroa electorate from 1871 to 1874, when he resigned. He was elected unopposed in 1871. Born in 1815 in Rotherham, in the English county of Yorkshire, he followed his brothers, including William Barnard Rhodes, to New Zealand in 1850, having worked in Australia. He lived at Purau and managed properties on Banks Peninsula belonging to the Rhodes brothers. He built a large house in Christchurch, Elmwood, where he died. He was a founder of several early business enterprises, including the New Zealand Shipping Company and the Kaiapoi Woollen Manufacturing Company. His eldest son Sir Heaton Rhodes (1861–1956) had a long Parliamentary career."
+}, {
+  "entityIndex" : "44_entity9315",
+  "entityUrl" : "http://dbpedia.org/resource/Ratna_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Pratapgarh_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "Congress", "New", "Delhi", "-LRB-", "queen", "29", "Ratna", "branch", "15th", "Sabha", "National", "Pradesh", "Singh", "represented", "princess", "1959", "Kalakankar", "Uttar", "Pratapgarh", "born", "politician", "Lok", "informally", "derecognized", "often", ",", "Rani", "April", ".", "Oudh", "constituency", "belongs", "-RRB-", "Indian", "Rajkumari", "family", "royal", "party", "referred", "since" ],
+  "adjectives" : [ "Indian", "15th" ],
+  "nouns" : [ "constituency", "queen", "politician", "princess", "Rajkumari", "family", "branch", "royal", "party" ],
+  "text" : "Ratna Singh (born 29 April 1959, New Delhi) is an Indian politician from the Indian National Congress party, and represented the Pratapgarh, Uttar Pradesh constituency in the 15th Lok Sabha. She is often informally referred to as Rajkumari (princess) or Rani (queen), since she belongs to the derecognized Kalakankar branch of the Oudh royal family."
+}, {
+  "entityIndex" : "45_entity9589",
+  "entityUrl" : "http://dbpedia.org/resource/Richmond_Hursthouse",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Motueka_(New_Zealand_electorate)" ]
+  },
+  "words" : [ "--", "11", "Nelson", "New", "-LRB-", "May", "minister", ",", ".", "Zealand", "5", "-RRB-", "Hursthouse", "1902", "Member", "cabinet", "Parliament", "Richmond", "1845", "November", "19th-century" ],
+  "adjectives" : [ "19th-century" ],
+  "nouns" : [ "minister", "cabinet" ],
+  "text" : "Richmond Hursthouse (5 May 1845 – 11 November 1902) was a 19th-century Member of Parliament in Nelson, New Zealand, and a cabinet minister."
+}, {
+  "entityIndex" : "46_entity9913",
+  "entityUrl" : "http://dbpedia.org/resource/Rafizi_Ramli",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "Pandan" ]
+  },
+  "words" : [ "Justice", "-LRB-", "September", "Ramli", "Malaysia", "Vice-President", "Party", "National", "Malay", "Mohd", "Member", "Malaysian", "1977", "given", "14", "Oversight", "born", "politician", "People", "whistle", ",", "'s", ".", "Selangor", "patronymic", "Whistleblowers", "Rafizi", "person", "PKR", "organization", "name", "-RRB-", "Pandan", ";", "Secretary-General", "family", "Parliament", "blower", "referred", "co-founder" ],
+  "adjectives" : [ "patronymic", "Malay", "Malaysian" ],
+  "nouns" : [ "person", "PKR", "politician", "organization", "name", "family", "blower", "co-founder" ],
+  "text" : "(This is a Malay name; the name Ramli is a patronymic, not a family name, and the person should be referred to by the given name, Rafizi.) Mohd Rafizi Ramli (born 14 September 1977) is a Malaysian politician. He is the Vice-President and Secretary-General of the People's Justice Party (PKR), and the Member of the Parliament of Malaysia for Pandan, Selangor. He is the co-founder of a whistle blower organization, National Oversight and Whistleblowers (NOW)."
+}, {
+  "entityIndex" : "47_entity2114",
+  "entityUrl" : "http://dbpedia.org/resource/Desley_Scott",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Woodridge" ]
+  },
+  "words" : [ "shadow", "ALP", "officer", "electoral", "parliament", "years", "dental", "state", "Desley", "minister", "16", "2001", "Woodridge", ",", "'s", ".", "1943", "elected", "size", "tiny", "-RRB-", "Parliament", "party", "since", "become", "June", "-LRB-", "27", "certificate", "2012", "Labor", "defeat", "Carleton", "Party", "Due", "member", "nurse", "working", "retired", "Toowoomba", "election", "born", "politician", "2015", "Australian", "caucus", "holds", "cabinet", "Scott", "Queensland" ],
+  "adjectives" : [ "dental", "Due", "Australian", "tiny", "electoral", "retired" ],
+  "nouns" : [ "election", "shadow", "minister", "officer", "politician", "certificate", "parliament", "defeat", "size", "caucus", "member", "nurse", "state", "cabinet", "party" ],
+  "text" : "Desley Carleton Scott (born 27 June 1943 in Toowoomba) is an Australian retired Labor Party politician who was the member for Woodridge in the Parliament of Queensland from 2001 to 2015. Scott was elected to parliament at the 2001 state election, after working as an electoral officer for 16 years. She holds a dental nurse certificate. Due to the tiny size of the ALP caucus since the party's defeat at the 2012 election, she was a member of the shadow cabinet but did not become a minister as she retired at the 2015 election. At the 2012 election, Desley Scott retained her seat with a significant margin for a Labor MP of 5.8%, after a 19.57% swing against her party. According to Independent MP Alex Douglas, \"She was completely focussed on the needs of Woodridge residents, which in turn earned her the respect of her constituents.\", which led to her being one of only seven Queensland ALP MPs being elected at the 2012 election."
+}, {
+  "entityIndex" : "48_entity2246",
+  "entityUrl" : "http://dbpedia.org/resource/Duncan_Ross_(British_Columbia_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Yale—Cariboo" ]
+  },
+  "words" : [ "contractor", "June", "-LRB-", "May", "Canadian", "Yale", "alderman", "County", "attempt", "Cariboo", "lost", "1870", "represented", "Ross", "1915", "railway", "30", "1911", "--", "British", "15", "Greenwood", "Liberal", "politician", "born", "1908", "Martin", "also", "failed", ",", "Burrell", ".", "Bruce", "seat", "Columbia", "constituency", "Conservative", "retake", "served", "-RRB-", "publisher", "1904", "Ontario", "Duncan" ],
+  "adjectives" : [ "Canadian", "Liberal", "Conservative" ],
+  "nouns" : [ "contractor", "seat", "constituency", "politician", "alderman", "publisher", "railway", "attempt" ],
+  "text" : "Duncan Ross (May 15, 1870 – June 30, 1915) was a Canadian publisher, railway contractor, and politician, born in Bruce County, Ontario. He represented the constituency of Yale–Cariboo as a Liberal from 1904 until 1908, when he lost his seat to the Conservative Martin Burrell. His attempt to retake the seat in 1911 failed. He also served as an alderman in Greenwood, British Columbia."
+}, {
+  "entityIndex" : "49_entity2254",
+  "entityUrl" : "http://dbpedia.org/resource/Donald_Ravis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Saskatoon_East" ]
+  },
+  "words" : [ "Ravis", "became", "New", "career", "-LRB-", "defeated", "Canadian", "33rd", "28", "electoral", "Humboldt", "riding", "Paul", "Donald", "Stanley", "Party", "Commons", "member", "federal", "February", "businessman", "--", "election", "thus", "Hovdebo", "Democratic", "born", "Saskatoon", "House", ",", ".", "Progressive", "elected", "reservist", "1940", "1984", "Conservative", "district", "served", "-RRB-", "East", "party", "Parliament", "1988" ],
+  "adjectives" : [ "33rd", "electoral", "federal" ],
+  "nouns" : [ "reservist", "career", "election", "district", "member", "businessman", "party" ],
+  "text" : "Donald Paul Ravis (born 28 February 1940) was a Progressive Conservative party member of the Canadian House of Commons. He was a businessman and reservist by career. He was elected at Saskatoon East electoral district in the 1984 federal election, thus he served in the 33rd Canadian Parliament. In the 1988 federal election by, his riding became Saskatoon—Humboldt and he was defeated by Stanley Hovdebo of the New Democratic Party."
+}, {
+  "entityIndex" : "50_entity2594",
+  "entityUrl" : "http://dbpedia.org/resource/Deb_Frecklington",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Nanango" ]
+  },
+  "words" : [ "``", "leader", "Opposition", "Regulatory", "LNP", "National", "1971", "Assistant", "won", "state", "Assembly", "Minister", "--", "unopposed", "deputy", "bench", "Deputy", ",", "'s", ".", "April", "seat", "appointed", "elected", "Deborah", "3", "ousted", "Nanango", "-RRB-", "Reform", "June", "Kay", "-LRB-", "role", "Nicholls", "September", "Leader", "2012", "Shadow", "subsequently", "defeat", "member", "Frecklington", "Agriculture", "hence", "Deb", "''", "Administration", "election", "Liberal", "Finance", "born", "politician", "Lawrence", "Following", "Springborg", "Premier", "2016", "2015", "Australian", "2014", "Legislative", "Tim", "front", "Queensland" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "leader", "election", "role", "deputy", "bench", "politician", "LNP", "seat", "defeat", "member", "state", "front", "Assembly" ],
+  "text" : "Deborah Kay \"Deb\" Frecklington (born 3 September 1971) is an Australian Liberal National politician who is the member of the Legislative Assembly of Queensland for Nanango, having won the seat at the 2012 state election and is the Deputy Leader of the LNP. She was appointed Assistant Minister for Finance, Administration and Regulatory Reform on 3 April 2012 and subsequently appointed to the role of Assistant Minister to the Premier in June 2014. Following the LNP's defeat in 2015, she was appointed to the LNP front bench as Shadow Minister for Agriculture. In 2016, she was elected unopposed as deputy leader of the LNP--and hence Deputy Leader of the Opposition--after Tim Nicholls ousted Lawrence Springborg as leader. Frecklington was born in Miles and currently lives with her husband (Jason Frecklington) and three children (Isabella, Lucy and Elke Frecklington) in Kingaroy."
+}, {
+  "entityIndex" : "51_entity4212",
+  "entityUrl" : "http://dbpedia.org/resource/Hugh_Alan_Anderson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Comox—Alberni" ]
+  },
+  "words" : [ "insurance", "defeated", "Port", "1974", "Commons", "Development", "Parliamentary", "1979", "Minister", "1978", "1933", "1977", "--", "MP", "Alan", "remained", "Fisheries", "active", "House", ",", "April", ".", "elected", "Columbia", "served", "-RRB-", "Environment", "since", "22", "-LRB-", "25", "September", "Canadian", "Secretary", "Chair", "Authority", "riding", "Alberni", "life", "serving", "public", "Northern", "federal", "1990s", "British", "election", "Affairs", "Liberal", "politician", "representing", "Hugh", "broker", "Anderson", "Comox", "trade", "2015", "Indian" ],
+  "adjectives" : [ "public", "Canadian", "Liberal", "federal", "active" ],
+  "nouns" : [ "insurance", "trade", "election", "MP", "Chair", "politician", "Environment", "broker", "life" ],
+  "text" : "Hugh Alan Anderson (September 25, 1933 – April 22, 2015) was a Canadian politician. An insurance broker by trade, Anderson was elected to the Canadian House of Commons in the 1974 federal election representing the riding of Comox—Alberni, British Columbia. The Liberal MP served as Parliamentary Secretary to the Minister of Fisheries and the Environment from 1977 to 1978 and then as Parliamentary Secretary to the Minister of Indian Affairs and Northern Development until the 1979 federal election in which he was defeated. Anderson has remained active in public life, serving since the 1990s as Chair of the Port Alberni Port Authority. He died on April 22, 2015."
+}, {
+  "entityIndex" : "52_entity4289",
+  "entityUrl" : "http://dbpedia.org/resource/Herbert_Sylvester_Clements",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Comox—Atlin", "http://dbpedia.org/resource/Kent_West", "http://dbpedia.org/resource/Comox—Alberni" ]
+  },
+  "words" : [ "Clements", "Sylvester", "-LRB-", "defeated", "Canadian", "electoral", "riding", "manufacturer", "Atlin", "Commons", "federal", "1939", "30", "November", "1911", "--", "British", "election", "Kent", "Township", "West", "politician", "1908", "Dover", "House", ",", "elections", ".", "Comox", "elected", "1865", "Canada", "Columbia", "Herbert", "Born", "district", "Conservative", "8", "-RRB-", "farmer", "1904", "Ontario", "first" ],
+  "adjectives" : [ "Canadian", "electoral", "federal", "first" ],
+  "nouns" : [ "election", "politician", "district", "Conservative", "farmer", "manufacturer" ],
+  "text" : "Herbert Sylvester Clements (November 8, 1865 – November 30, 1939) was a Canadian politician. Born in Dover Township, Canada West, a manufacturer and farmer, he was first elected to the Canadian House of Commons in the 1904 federal election for the Ontario electoral district of Kent West. A Conservative, he was defeated in 1908. He was elected in the 1911 elections for the British Columbia riding of Comox—Atlin. He was re-elected in 1917 to the redistributed seat, then named Comox-Alberni, where he was defeated in 1921."
+}, {
+  "entityIndex" : "53_entity4534",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Chesson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Port_Adelaide", "http://dbpedia.org/resource/Electoral_district_of_West_Torrens" ]
+  },
+  "words" : [ "Chesson", "-LRB-", "September", "Port", "Adelaide", "United", "Labor", "defeat", "School", "Party", "split", "National", "member", "1918", "1917", "Street", "represented", "July", "1915", "Henry", "Assembly", "Torrens", "--", "12", "election", "15", "expelled", "West", "politician", "born", "South", "representing", "thereafter", "House", "splinter", "Grote", ",", ".", "educated", "1862", "Australian", "-RRB-", "Model", "1905", "1948", "Pulteney" ],
+  "adjectives" : [ "Australian" ],
+  "nouns" : [ "defeat", "split", "election", "politician", "member", "splinter", "Labor" ],
+  "text" : "Henry Chesson (15 September 1862 – 12 July 1948) was an Australian politician. He was a member of the South Australian House of Assembly from 1905 to 1918, representing Port Adelaide until 1915 and West Torrens thereafter. He represented the United Labor Party until being expelled in the 1917 Labor split, and thereafter represented the splinter National Party until his defeat at the 1918 election. Chesson was born in Adelaide and was educated at Grote Street Model School and Pulteney Street School. He began working in a boot factory at the age of twelve, and left school at fifteen to become a mason and bricklayer. He worked in Melbourne from 1885 to 1892 before returning to Adelaide. He was president and financial secretary of the South Australian Masons and Bricklayers' Society, and was their delegate to the Trades and Labour Council, of which he was also president and vice-president. Chesson also served on the Adelaide Trades Hall management committee and Eight Hours Committee, and as president and vice-president of the United Labor Party. Chesson was elected to the House of Assembly at the 1905 election in the seat of Port Adelaide, shifting to the new seat of West Torrens following an electoral redistribution in 1915. He was chairman of committees from 1915 to 1918. Chesson left the Labor Party for the new National Party in the 1917 Labor split over conscription. He was defeated by a Labor candidate when he ran for re-election at the 1918 election. After leaving politics, he was clerk of works in the department of the Architect-in-Chief. He died at his home in Croydon in July 1948, aged 85. He had celebrated his diamond wedding anniversary that January."
+}, {
+  "entityIndex" : "54_entity4766",
+  "entityUrl" : "http://dbpedia.org/resource/Ijyaraj_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Kota_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "Congress", "erstwhile", "Kotah", "-LRB-", "parliament", "contested", "2009", "Kota", "Sabha", "Shyam", "Party", "National", "won", "Bharatiya", "member", "Singh", "maharaj", "state", "Kunvar", "prince", "highness", "ticket", "Janata", "representing", "Lok", ",", "Ijyaraj", "elections", ".", "former", "kumar", "seat", "Sharma", "constituency", "-RRB-", "Indian", "defeating", "family", "royal", "Maharao" ],
+  "adjectives" : [ "erstwhile", "former" ],
+  "nouns" : [ "seat", "highness", "constituency", "ticket", "member", "maharaj", "state", "parliament", "family", "royal", "kumar", "prince" ],
+  "text" : "Ijyaraj Singh, or his highness Maharao Kunvar Ijyaraj Singh, was the member of parliament representing the Kota constituency in the Lok Sabha. He is the former maharaj kumar (prince) of the erstwhile state of Kotah, and a member of the Kota royal family. Singh contested and won his seat in the 2009 Lok Sabha elections, on the ticket of the Indian National Congress, defeating Shyam Sharma of the Bharatiya Janata Party."
+}, {
+  "entityIndex" : "55_entity4789",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Kaye",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Greenslopes" ]
+  },
+  "words" : [ "Kaye", "Greenslopes", "-LRB-", "Liberal", "born", "politician", "19", "2012", ".", "August", "National", "2015", "Australian", "Ian", "-RRB-", "member", "Legislative", "1969", "Assembly", "Scott", "Queensland" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Ian Scott Kaye (born 19 August 1969) is an Australian Liberal National politician who was the member of the Legislative Assembly of Queensland for Greenslopes from 2012 to 2015."
+}, {
+  "entityIndex" : "56_entity4790",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Walker_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Mansfield" ]
+  },
+  "words" : [ "Mansfield", "-LRB-", "Bradley", "defeated", "electoral", "2012", "LNP", "1954", "current", "National", "Assistant", "member", "state", "Assembly", "Phil", "Reeves", "Minister", "November", "election", "Liberal", "born", "18", "politician", "victory", "Following", "Walker", ",", "'s", ".", "April", "seat", "appointed", "retained", "3", "2015", "Australian", "Ian", "-RRB-", "Legislative", "Planning", "Reform", "Queensland" ],
+  "adjectives" : [ "current", "Australian", "electoral", "Legislative" ],
+  "nouns" : [ "seat", "election", "politician", "victory", "member", "state", "Assembly" ],
+  "text" : "Ian Bradley Walker (born 18 November 1954) is an Australian Liberal National politician. He is the current member of the Legislative Assembly of Queensland for Mansfield, having defeated Phil Reeves at the 2012 Queensland state election. He retained the seat in the 2015 state election. Following the LNP's electoral victory in 2012, Walker was appointed Assistant Minister for Planning Reform on 3 April 2012. On 17 February 2013, then Premier Campbell Newman appointed Walker as the new Minister for Science, Information Technology, Innovation and the Arts after the resignation of Ros Bates. Following the LNP's defeat at the 2015 Queensland election, Walker was succeeded as Minister by Leeanne Enoch (Science and Innovation) and Premier Annastacia Palaszczuk (Arts). Despite the statewide defeat of the LNP, Ian Walker retained the bellwether seat of Mansfield, though with a small margin of victory. The Opposition Leader Lawrence Springborg appointed Walker to the Shadow Cabinet, giving him the roles of Shadow Attorney-General and Shadow Minister for Justice, Shadow Minister for Industrial Relations and Shadow Minister for the Arts. Walker was educated at the Anglican Church Grammar School."
+}, {
+  "entityIndex" : "57_entity10654",
+  "entityUrl" : "http://dbpedia.org/resource/Shyam_Bihari_Misra",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Bilhaur_(Lok_Sabha_Constituency)" ]
+  },
+  "words" : [ "Bihari", "belonging", "Bilhaur", "President", "Shyam", "Sabha", "times", "Party", "Kanpur", "four", "Bharatiya", "member", "Constituency", "Vyapaar", "Udyog", "Mishra", "Janata", "Baijnath", "politician", "Lok", ".", "former", "elected", "district", "Indian", "Mandal", "Pandit" ],
+  "adjectives" : [ "Indian", "former" ],
+  "nouns" : [ "politician", "district", "member" ],
+  "text" : "Pandit Shyam Bihari Baijnath Mishra is an Indian politician belonging to the Bharatiya Janata Party. He is a former member of the Lok Sabha elected from Bilhaur Lok Sabha Constituency in Kanpur district for four times. He is now the President of Bharatiya Udyog Vyapaar Mandal."
+}, {
+  "entityIndex" : "58_entity7531",
+  "entityUrl" : "http://dbpedia.org/resource/Milton_Neil_Campbell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Mackenzie_(electoral_district)" ]
+  },
+  "words" : [ "Group", "-LRB-", "Canadian", "held", "electoral", "appointment", "Ginger", "Board", "Party", "Commons", "member", "represented", "January", "Neil", "November", "1933", "resigned", "--", "11", "radical", "joined", "Campbell", "politician", "Tariff", "House", ",", ".", "accept", "1965", "1921", "1943", "Progressive", "Canada", "MPs", "1881", "district", "-RRB-", "Mackenzie", "position", "Milton", "vice-chairman", "21" ],
+  "adjectives" : [ "radical", "Canadian", "electoral" ],
+  "nouns" : [ "politician", "district", "Tariff", "member", "appointment", "position", "vice-chairman" ],
+  "text" : "Milton Neil Campbell (January 21, 1881 – November 11, 1965) was a Canadian politician. He represented the electoral district of Mackenzie from 1921 to 1933, in the Canadian House of Commons. He resigned from the House of Commons in 1933 to accept an appointment as vice-chairman of the Tariff Board of Canada, a position that he held until 1943. He was a member of the Progressive Party of Canada and joined the Ginger Group of radical MPs."
+}, {
+  "entityIndex" : "59_entity7769",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_Robinson_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Cleveland" ]
+  },
+  "words" : [ "-LRB-", "held", "29", "Mark", "March", "Cleveland", "LNP", "2009", "Party", "National", "Assembly", "Speaker", "Robinson", "Andrew", "Deputy", "Liberal", "born", "politician", "April", "former", ".", "seat", "1963", "Australian", "-RRB-", "Legislative", "Queensland", "since" ],
+  "adjectives" : [ "Australian", "Legislative", "former" ],
+  "nouns" : [ "seat", "politician", "Assembly" ],
+  "text" : "Mark Andrew Robinson (born 29 April 1963) is an Australian politician who is a former Deputy Speaker of the Queensland Legislative Assembly and has held the seat of Cleveland in the Legislative Assembly for the Liberal National Party (LNP) since March 2009."
+}, {
+  "entityIndex" : "60_entity8045",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Trout_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Barron_River" ]
+  },
+  "words" : [ "-LRB-", "John", "2012", "Barron", "National", "Michael", "won", "member", "River", "state", "Assembly", "November", "election", "Trout", "Liberal", "born", "politician", ",", ".", "seat", "1963", "2015", "Australian", "-RRB-", "Legislative", "21", "Queensland" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "seat", "election", "politician", "member", "state", "Assembly" ],
+  "text" : "Michael John Trout (born 21 November 1963) is an Australian Liberal National politician who was the member of the Legislative Assembly of Queensland for Barron River from 2012 to 2015, having won the seat at the 2012 state election."
+}, {
+  "entityIndex" : "61_entity8184",
+  "entityUrl" : "http://dbpedia.org/resource/Madeleine_Ogilvie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Division_of_Denison_(state)" ]
+  },
+  "words" : [ "-LRB-", "25", "barrister", "Labor", "Hobart", "Party", "Division", "state", "January", "Ogilvie", "Assembly", "Madeleine", "election", "Tasmania", "born", "politician", "solicitor", "House", ",", ".", "Ruth", "elected", "Australian", "Denison", "2014", "-RRB-", "1969", "Tasmanian" ],
+  "adjectives" : [ "Australian" ],
+  "nouns" : [ "election", "politician", "barrister", "solicitor", "Division", "state" ],
+  "text" : "Madeleine Ruth Ogilvie (born 25 January 1969) is an Australian barrister and solicitor and politician from Hobart, Tasmania. She was elected to the Tasmanian House of Assembly for the Australian Labor Party in the Division of Denison at the 2014 state election."
+}, {
+  "entityIndex" : "62_entity3210",
+  "entityUrl" : "http://dbpedia.org/resource/Frances_Bedford",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Florey" ]
+  },
+  "words" : [ "became", "politics", "-LRB-", "death", "officer", "moved", "Adelaide", "Labor", "Melbourne", "Ellen", "1953", "1997", "mother", "Party", "Branch", "electorate", "state", "Assembly", "Frances", "November", "election", "MP", "Florey", "born", "politician", "representing", "South", "House", ",", ".", "former", "seat", "elected", "involved", "5", "Australian", "State", "-RRB-", "Bedford", "Peter", "Sydney", "Duncan", "Parliament", "since" ],
+  "adjectives" : [ "Australian", "former" ],
+  "nouns" : [ "seat", "mother", "election", "death", "officer", "politician", "electorate", "state" ],
+  "text" : "Frances Ellen Bedford (born 5 November 1953) is an Australian politician, representing the South Australian Branch of the Australian Labor Party in the South Australian House of Assembly seat of Florey since the 1997 election. Bedford was born in Sydney and moved to Melbourne and then Adelaide after the death of her mother. She became involved in politics and became an electorate officer for former Labor MP Peter Duncan. She was elected to State Parliament in the 1997 state election. Hailing from the Socialist Left faction of the Australian Labor Party, Bedford has described herself as being South Australia's most left-wing MP. Her support for the Relationships Bill 2005, a bill which extends legal protections to same-sex couples, has made her a target of fundamentalist groups. Her opinions are considered by some as being incompatible with the opinions of her 'bible belt' electorate. Despite this, she was returned at the 2006 state election with a swing of more than 10 points (two-party-preferred), exceeding the statewide swing to the Labor government and defeating her Liberal opponent Pat Trainor, a former pastor in the Assemblies of God. As of the 2014 state election, Bedford holds Florey with a margin of 2.5 points."
+}, {
+  "entityIndex" : "63_entity3214",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_James_Roscoe",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Victoria_(electoral_district)" ]
+  },
+  "words" : [ "England", "December", "Francis", "son", "Le", "W.S.", "Member", "--", "area", "Liverpool", "younger", "Victoria", "Breton", ",", "William", ".", "1864", "Columbia", "University", "1862", "-RRB-", "College", "London", "Letitia", "Roscoe", "brother", "20", "Parliament", "-LRB-", "Canadian", "settling", "1831", "came", "poet", "Ross", "1878", "Anna", "British", "James", "grandson", "born", "historian", "Caldwell", "entrepreneur", "English", "educated", "Bay", "writer", "married" ],
+  "adjectives" : [ "Canadian" ],
+  "nouns" : [ "area", "son", "grandson", "historian", "poet", "writer", "brother", "entrepreneur" ],
+  "text" : "Francis James Roscoe (1831 – December 20, 1878) was a Canadian entrepreneur and Member of Parliament. Francis Roscoe was born in Liverpool, England, the son of W.S. Roscoe, was educated at University College and the University of London and came to British Columbia in 1862, settling in the Ross Bay area of Victoria, British Columbia. He was the younger brother of poet William Caldwell Roscoe and the grandson of English historian and writer William Roscoe. In 1864, he married Anna Letitia Le Breton. Roscoe was a partner in several hardware and ironware ventures. In 1870, he became the Commissioner of Savings Banks for the British Columbia colony. Roscoe stood for election as an Independent Liberal candidate in the Canadian federal election in 1874 in the two-member Victoria riding. He placed second in a close three-way race and was elected along with Liberal incumbent Amor De Cosmos. Roscoe did not stand for re-election in 1878 and died later in the year in Victoria at the age of 47. He was replaced in the seat by incoming Prime Minister John A. Macdonald who had lost his Ontario seat earlier as the BC portion of the election was delayed, and because he was deemed unelectable in eastern Canada due to ongoing politics surrounding his role in the Pacific Scandal. Roscoe's Victoria home is today preserved by The Land Conservancy of BC as a rare example of a pre-Confederation colonial house."
+}, {
+  "entityIndex" : "64_entity3251",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_King",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Okanagan—Similkameen" ]
+  },
+  "words" : [ "June", "career", "-LRB-", "Canadian", "John", "servant", "Party", "King", "public", "school", "Commons", "member", "30", "11", "--", "attended", "Frederick", "British", "Kaleden", "politician", "born", "House", ",", ".", "August", "Progressive", "secondary", "Penticton", "Columbia", "2016", "orchardist", "Conservative", "graduated", "-RRB-", "farmer", "1923" ],
+  "adjectives" : [ "secondary", "public", "Canadian" ],
+  "nouns" : [ "servant", "career", "school", "orchardist", "politician", "member", "farmer" ],
+  "text" : "Frederick John King (11 June 1923 – 30 August 2016) was a Canadian politician. He was a Progressive Conservative Party member of the Canadian House of Commons. He was a farmer, orchardist, and public servant by career. King was born in Kaleden, British Columbia where he attended public school, then graduated to secondary school in Penticton. He was first elected to national politics at the Okanagan—Similkameen electoral district in the 1979 federal election. He was re-elected there in the 1980 and 1984 federal elections. In the 1988 federal election, when the riding became Okanagan—Similkameen—Merritt, King lost to Jack Whittaker of the New Democratic Party and did not campaign in any further federal elections. He died on 30 August 2016 in Penticton, British Columbia."
+}, {
+  "entityIndex" : "65_entity3428",
+  "entityUrl" : "http://dbpedia.org/resource/Freya_Ostapovitch",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Stretton" ]
+  },
+  "words" : [ "24", "-LRB-", "Rankin", "claimed", "2012", "abortions", "Freya", "candidate", "Party", "National", "member", "federal", "February", "1956", "Assembly", "election", "Liberal", "born", "politician", "representing", "increase", ".", "Ostapovitch", "seat", "Stretton", "2016", "2015", "Australian", "-RRB-", "Legislative", "risk", "cancer", "breast", "Queensland" ],
+  "adjectives" : [ "Australian", "federal", "Legislative" ],
+  "nouns" : [ "seat", "candidate", "election", "politician", "member", "risk", "cancer", "breast", "Assembly" ],
+  "text" : "Freya Ostapovitch (born 24 February 1956) is an Australian Liberal National politician who was the member of the Legislative Assembly of Queensland for Stretton from 2012 to 2015. Ostapovitch is a candidate representing the Liberal National Party at the 2016 federal election for the seat of Rankin. She has claimed that abortions increase the risk of breast cancer."
+}, {
+  "entityIndex" : "66_entity3470",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Blevins",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Giles", "http://dbpedia.org/resource/Electoral_district_of_Whyalla" ]
+  },
+  "words" : [ "Miscellaneous", "use", "John", "number", "1939", "Blevins", "Assembly", "--", "minister", "Deputy", "6th", "House", "ambulance", "volunteers", ",", "publicly", ".", "3", "1983", "Workers", "7", "served", "-RRB-", "Trevor", "June", "-LRB-", "September", "Employees", "Labor", "St.", "two", "Council", "Party", "Association", "1993", "Ambulance", "1992", "Branch", "managed", "dispute", "unions", "Health", "politician", "South", "portfolios", "sided", "Premier", "Australian", "service", "2013", "Legislative", "Australia", "Frank" ],
+  "adjectives" : [ "Australian", "Legislative", "6th" ],
+  "nouns" : [ "number", "dispute", "minister", "use", "service", "politician", "ambulance" ],
+  "text" : "Frank Trevor Blevins (3 June 1939 – 7 September 2013) was an Australian politician and 6th Deputy Premier of South Australia from 1992 to 1993 for the South Australian Branch of the Australian Labor Party. Blevins served in both the Legislative Council and House of Assembly. He was a minister in a number of portfolios. In 1983 in a dispute about the use of volunteers in the ambulance service, as minister for Health, he publicly sided with the St. John Council who managed the ambulance service and two unions, the Ambulance Employees Association and the Miscellaneous Workers Association. John Cornwall, reflects that this position probably damaged his credibility at the time, with both unions and the Labor Party. Blevins was Treasurer of South Australia from 1992 to 1993. Prior to entering parliament he was a British merchant seaman and then a merchant seaman at Whyalla. He died at his home in 2013."
+}, {
+  "entityIndex" : "67_entity3501",
+  "entityUrl" : "http://dbpedia.org/resource/Graham_Tope,_Baron_Tope",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Sutton_and_Cheam_(UK_Parliament_constituency)" ]
+  },
+  "words" : [ "Politiker", "Graham", "-LRB-", "britischer", "CBE", "zeitweise", "seit", "der", "Borough", "Party", "des", "1994", "Commons", "Baron", "30", "Lords", "November", "Liberal", "Sutton", "war", "*", "House", ",", ".", "1943", "Mitglied", "Democrats", "Tope", "London", "-RRB-", "nunmehr" ],
+  "adjectives" : [ "Liberal" ],
+  "nouns" : [ "der", "britischer", "seit", "war", "nunmehr" ],
+  "text" : "Graham Tope, Baron Tope, of Sutton in the London Borough of Sutton CBE (* 30. November 1943) ist ein britischer Politiker der Liberal Party und nunmehr der Liberal Democrats, der zeitweise Mitglied des House of Commons war und seit 1994 Mitglied des House of Lords ist."
+}, {
+  "entityIndex" : "68_entity3595",
+  "entityUrl" : "http://dbpedia.org/resource/Grote_Stirling",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Yale_(electoral_district)" ]
+  },
+  "words" : [ "-LRB-", "Canadian", "Tunbridge", "England", "Yale", "riding", "by-election", "1953", "1875", "1930", "National", "Commons", "Stirling", "July", "January", "1935", "31", "1934", "Minister", "--", "British", "Acting", "18", "politician", "representing", "Fisheries", "House", "Grote", ",", ".", "elected", "PC", "Columbia", "re-elected", "1940", "Born", "Conservative", "-RRB-", "1926", "Wells", "1925", "1924", "Defence" ],
+  "adjectives" : [ "Canadian" ],
+  "nouns" : [ "Acting", "politician", "Conservative", "by-election" ],
+  "text" : "Grote Stirling, PC (July 31, 1875 – January 18, 1953) was a Canadian politician. Born in Tunbridge Wells, England, he was elected to the Canadian House of Commons representing the British Columbia riding of Yale in a 1924 by-election. A Conservative, he was re-elected in 1925, 1926, 1930, 1935, and 1940. From 1934 to 1935, he was the Minister of National Defence and Minister of Fisheries (Acting)."
+}, {
+  "entityIndex" : "69_entity3657",
+  "entityUrl" : "http://dbpedia.org/resource/George_Ritchie_Maxwell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Burrard_(electoral_district)" ]
+  },
+  "words" : [ "Church", "Vancouver", "Ritchie", "-LRB-", "Canadian", "1880", "Scotland", "Maxwell", "eventually", "riding", "serving", "setting", "Stonehouse", "Lanarkshire", "1896", "George", "Commons", "migrated", "January", "1857", "November", "11", "--", "British", "minister", "17", "politician", "Quebec", "South", "1890", "House", ",", ".", "elected", "ordained", "Canada", "Presbyterian", "1885", "Columbia", "Born", "-RRB-", "1902", "Burrard" ],
+  "adjectives" : [ "Presbyterian", "Canadian" ],
+  "nouns" : [ "minister", "politician" ],
+  "text" : "George Ritchie Maxwell (January 11, 1857 – November 17, 1902) was a Canadian Presbyterian minister and politician. Born in Stonehouse, South Lanarkshire, Scotland, he was ordained a minister of the Church of Scotland in 1880. He migrated to Canada in 1885 serving as a minister in Quebec eventually setting in Vancouver, British Columbia in 1890. He was elected to the Canadian House of Commons for the British Columbia riding of Burrard in 1896. A Liberal, he was re-elected in 1900. He died in office in 1902 from intestinal cancer."
+}, {
+  "entityIndex" : "70_entity3661",
+  "entityUrl" : "http://dbpedia.org/resource/George_Henry_Cowan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Vancouver_City" ]
+  },
+  "words" : [ "June", "Vancouver", "-LRB-", "September", "called", "Canadian", "moved", "Watford", "George", "Commons", "1893", "represented", "term", "1858", "1935", "Henry", "lawyer", "1911", "--", "British", "17", "West", "politician", "one", "1908", "House", "City", ",", "Osgoode", ".", "Canada", "educated", "Bar", "Columbia", "University", "Born", "Conservative", "-RRB-", "Hall", "Cowan", "Ontario", "20", "Toronto", "1889" ],
+  "adjectives" : [ "Canadian", "Conservative" ],
+  "nouns" : [ "Bar", "politician", "term", "lawyer" ],
+  "text" : "George Henry Cowan (June 17, 1858 – September 20, 1935) was a Canadian lawyer and Conservative politician. He represented Vancouver City in the Canadian House of Commons for one term from 1908 to 1911. Born in Watford, Canada West, Cowan was educated at the University of Toronto and Osgoode Hall. He was called to the Ontario Bar in 1889 and moved to British Columbia in 1893. He was called to the British Columbia Bar in 1893 and practiced law in Vancouver. From 1907 to 1910, he was the city solicitor for Vancouver. In 1894, he helped organize the first Conservative Association of Vancouver and served as its first secretary. He was elected to the Canadian House of Commons for Vancouver City in the 1908 election. He did not run for re-election. He was the author of The Chinese Question in Canada and Better Terms for British Columbia. He died in 1935."
+}, {
+  "entityIndex" : "71_entity8649",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Andrews_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Southern_River" ]
+  },
+  "words" : [ "22", "-LRB-", "Labor", "parliament", "Paul", "second", "2009", "Western", "2008", "October", "2005", "won", "member", "River", "electorate", "Southern", "state", "Assembly", "November", "1955", "11", "--", "re-election", "election", "MP", "Andrews", "Liberal", "politician", "2001", "representing", "entered", "William", ",", ".", "Monica", "Australian", "-RRB-", "Legislative", "defeating", "time", "Holmes", "sitting" ],
+  "adjectives" : [ "Western", "Australian", "Liberal", "Legislative", "second" ],
+  "nouns" : [ "re-election", "election", "MP", "politician", "member", "electorate", "state", "time", "Labor", "parliament", "Assembly" ],
+  "text" : "Paul William Andrews (11 November 1955 – 22 October 2009) was an Australian politician. He was a Labor member of the Western Australian Legislative Assembly from 2001 to 2008, representing the electorate of Southern River. Andrews entered parliament at the 2001 state election by defeating sitting Liberal MP Monica Holmes. He won re-election at the 2005 state election by defeating Holmes a second time. Seeking a third term at the 2008 state election, Andrews lost his seat to Liberal candidate Peter Abetz. Andrews had also battled kidney disease for years and championed organ transplant in the Western Australian State Parliament for his two terms. Andrews also voiced his passion for reform to the organ donation transplant laws in Western Australia. Paul Andrews died on 22 October 2009 from cancer at the age of 53, leaving behind a wife and three adult children."
+}, {
+  "entityIndex" : "72_entity8666",
+  "entityUrl" : "http://dbpedia.org/resource/Pratibha_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Mandi_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "14th", "Congress", "June", "-LRB-", "Chief", "2012", "Himachal", "Sabha", "National", "Pradesh", "Mandi", "Virbhadra", "member", "Pratibha", "Singh", "represented", "1956", "Minister", "16", "wife", "born", "Lok", ".", "India", "constituency", "-RRB-", "Indian", "since" ],
+  "adjectives" : [ "14th" ],
+  "nouns" : [ "Sabha", "constituency", "wife", "member", "Lok" ],
+  "text" : "Pratibha Singh (born 16 June 1956) was a member of the 14th Lok Sabha of India. She is wife of Virbhadra Singh who has been the Chief Minister of Himachal Pradesh since 2012. She represented the Mandi constituency of Himachal Pradesh and is a member of the Indian National Congress."
+}, {
+  "entityIndex" : "73_entity8685",
+  "entityUrl" : "http://dbpedia.org/resource/Paramjit_Kaur_Gulshan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Faridkot_(Lok_Sabha_constituency)", "http://dbpedia.org/resource/Bathinda_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "14th", "-LRB-", "Paramjit", "born", "representing", "Gulshan", "Lok", "parliament", "Dal", ".", "Kaur", "Shiromani", "Akali", "Bathinda", "Sabha", "Faridkot", "4", "-RRB-", "member", "1949", "represented", "January" ],
+  "adjectives" : [ "14th" ],
+  "nouns" : [ "member", "parliament" ],
+  "text" : "Paramjit Kaur Gulshan (born 4 January 1949) is a member of parliament representing Faridkot and is a member of the Shiromani Akali Dal. She represented Bathinda in the 14th Lok Sabha."
+}, {
+  "entityIndex" : "74_entity8732",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Crofton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Esquimalt—Saanich" ]
+  },
+  "words" : [ "New", "career", "-LRB-", "May", "defeated", "Canadian", "33rd", "29", "changes", "Esquimalt", "Lynn", "riding", "Party", "Commons", "member", "federal", "boundaries", "1935", "January", "businessman", "Islands", "--", "Hunter", "election", "Saanich", "Democratic", "Dermott", "House", "Gulf", ",", ".", "Progressive", "elected", "Patrick", "2016", "5", "Conservative", "served", "following", "-RRB-", "farmer", "Crofton", "party", "first", "Parliament", "1988" ],
+  "adjectives" : [ "33rd", "federal", "first" ],
+  "nouns" : [ "career", "election", "member", "farmer", "businessman", "party" ],
+  "text" : "Patrick Dermott Crofton (29 May 1935 – 5 January 2016) was a Progressive Conservative party member of the Canadian House of Commons. He was a businessman and farmer by career. Crofton was first elected at the riding of Esquimalt—Saanich and served in the 33rd Canadian Parliament. In the 1988 federal election, following changes to riding boundaries, he was defeated at the Saanich—Gulf Islands riding by Lynn Hunter of the New Democratic Party. He died in 2016 at the age of 80."
+}, {
+  "entityIndex" : "75_entity8820",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Styles_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_division_of_Sanderson" ]
+  },
+  "words" : [ "joining", "transferred", "-LRB-", "27", "moved", "ship", "operated", "years", "Donald", "Western", "1953", "2008", "Darwin", "worked", "servant", "Party", "government", "public", "Northern", "member", "July", "electorate", "state", "Assembly", "Territory", "Liberal", "born", "politician", "Perth", "representing", ",", "Police", ".", "2016", "multi-purpose", "Australian", "Born", "owned", "1981", "served", "8", "-RRB-", "Country", "Legislative", "Sanderson", "Peter", "Australia", "Styles" ],
+  "adjectives" : [ "public", "multi-purpose", "Australian", "Legislative" ],
+  "nouns" : [ "servant", "government", "politician", "member", "Country", "ship", "electorate", "state", "Assembly" ],
+  "text" : "Peter Donald Styles (born 8 July 1953) is an Australian politician. He was a Country Liberal Party member of the Northern Territory Legislative Assembly from 2008 to 2016, representing the electorate of Sanderson. Born in Perth, Western Australia, Styles owned and operated a multi-purpose ship and worked as a public servant for the state government, before joining Western Australia Police. In 1981, he moved to Darwin and transferred to the Northern Territory Police where he served for 27 years. In 1991, he was awarded the National Medal, and was upgraded to 1st clasp in 2001. In 2008, he ran for parliament and was elected to the seat of Sanderson. He first served in the new CLP government as the Government Whip and Parliamentary Secretary assisting the Chief Minister with Multicultural Affairs, Young Territorians and Senior Territorians. He was later appointed to cabinet as Minister for Business; Racing, Gaming and Licensing; Asian Engagement and Trade; Employment and Training; Corporate and Information Services; Multicultural Affairs; Young Territorians; Senior Territorians; and Defence Industries. In February 2016, he was also voted deputy leader of the Country Liberals and became Deputy Chief Minister of the Northern Territory following the resignation from cabinet of Willem Westra van Holthe. Peter announced his support for voluntary euthanasia in 2010, citing his experience watching his wife Chandler die from a terminal illness in 1989."
+}, {
+  "entityIndex" : "76_entity9043",
+  "entityUrl" : "http://dbpedia.org/resource/Pusapati_Ashok_Gajapati_Raju",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Vizianagaram_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "Excise", "Pusapati", "Narendra", "Tax", "years", "son", "Pradesh", "state", "Vizayanagram", "five", "Minister", "last", "younger", "Maharaja", "Andhra", "Gajapathi", ",", ".", "Civil", "A.P.", "State", "-RRB-", "Revenue", "scion", "Planning", "legislature", "June", "-LRB-", "26", "Aviation", "Vizianagram", "Union", "thirteen", "Royal", "holding", "1951", "member", "twenty", "affairs", "Modi", "Government", "princely", "Finance", "born", "politician", "Govt", "portfolios", "Commercial", "Indian", "Legislative", "Ashok", "Raju", "family" ],
+  "adjectives" : [ "Commercial", "last", "princely", "Indian", "Legislative" ],
+  "nouns" : [ "son", "Excise", "politician", "Maharaja", "member", "Tax", "Revenue", "scion", "state", "family", "legislature" ],
+  "text" : "Pusapati Ashok Gajapathi Raju (born 26 June 1951) is an Indian politician and the Union Minister for Civil Aviation in the Narendra Modi Government. A scion of Royal family of Vizayanagram princely state, he is the younger son of the last Maharaja of Vizianagram. He was a member of Andhra Pradesh State legislature for over twenty five years and was a Minister in the Govt. of A.P., for thirteen years holding the portfolios of Commercial Tax, Excise, Legislative affairs, Finance, Planning and Revenue."
+}, {
+  "entityIndex" : "77_entity9058",
+  "entityUrl" : "http://dbpedia.org/resource/Parsaram_Meghwal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Jalore_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "Congress", "12", "-LRB-", "politician", "Parsaram", "Rajasthan", "former", ".", "1954", "December", "constituency", "National", "-RRB-", "member", "Indian", "Meghwal", "Member", "Jalore", "Parliament" ],
+  "adjectives" : [ "Indian", "former" ],
+  "nouns" : [ "constituency", "politician", "member" ],
+  "text" : "Parsaram Meghwal (12 December 1954) is an Indian politician and a former Member of Parliament for the constituency of Jalore in Rajasthan. He is a member of the Indian National Congress."
+}, {
+  "entityIndex" : "78_entity121",
+  "entityUrl" : "http://dbpedia.org/resource/Anna_Terrana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Vancouver_East" ]
+  },
+  "words" : [ "Vancouver", "Terrana", "-LRB-", "Canadian", "March", "riding", "1997", "Party", "1993", "member", "1937", "Member", "31", "Anna", "Liberal", "born", "politician", "sat", ",", "former", ".", "Marina", "Canada", "immigrated", "Born", "-RRB-", "Italy", "Torino", "East", "Parliament", "1966" ],
+  "adjectives" : [ "Canadian", "former" ],
+  "nouns" : [ "politician", "member" ],
+  "text" : "Anna Marina Terrana (born March 31, 1937) is a former Canadian politician, who was the Member of Parliament for the riding of Vancouver East from 1993 to 1997. Terrana sat as a member of the Liberal Party of Canada. Born in Torino, Italy, she immigrated to Canada in 1966."
+}, {
+  "entityIndex" : "79_entity156",
+  "entityUrl" : "http://dbpedia.org/resource/Avtar_Singh_Bhadana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Faridabad_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "14th", "Congress", "-LRB-", "party.He", "political", "represents", "December", "Sabha", "National", "member", "Singh", "join", "1957", "17", "born", "Lok", ".", "India", "August", "Haryana", "Bhadana", "2014", "-RRB-", "Indian", "quit", "Avtar", "Faridabadconstituency", "INC", "INLD" ],
+  "adjectives" : [ "14th", "political" ],
+  "nouns" : [ "Sabha", "party.He", "member", "Lok", "Faridabadconstituency", "INLD" ],
+  "text" : "Avtar Singh Bhadana (born 17 December 1957) is a member of the 14th Lok Sabha of India. He represents the Faridabadconstituency of Haryana and a member of the Indian National Congress (INC) political party.He quit INC in August 2014 and join INLD"
+}, {
+  "entityIndex" : "80_entity215",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Joseph_Adamson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Humboldt_(electoral_district)" ]
+  },
+  "words" : [ "became", "-LRB-", "Canadian", "Turriff", "moved", "John", "Dublin", "Galway", "County", "Winnipeg", "son", "1873", "Ireland", "came", "grain", "1857", "sister", "Adamson", "--", "Gillanders", "Clifden", "Alan", "politician", ",", "April", ".", "August", "Julia", "1", "Canada", "educated", "trade", "4", "involved", "1883", "Born", "Evans", "1882", "Joseph", "-RRB-", "1928", "western", "Harietta", "Bell", "married" ],
+  "adjectives" : [ "Canadian", "western" ],
+  "nouns" : [ "son", "trade", "politician", "grain", "sister" ],
+  "text" : "Alan Joseph Adamson (August 1, 1857 – April 4, 1928) was a Canadian politician. Born in Clifden, County Galway, Ireland, the son of John Evans Adamson and Harietta Bell, he was educated in Dublin and came to western Canada in 1873. He married Julia Turriff, who was the sister of John Gillanders Turriff, in 1882. In 1883, Adamson moved to Winnipeg and became involved in the grain trade. In 1899, he went to Rosthern, Saskatchewan, where he established the Canadian Territories Corporation, which became one of the largest land agencies in western Canada and also operated as a private bank; Adamson served as its president and manager. He was also a director of the Northern Bank and of the Saskatchewan Valley and Manitoba Land Company and president of the Western Trust Company. Adamson was elected to the Canadian House of Commons as the Liberal candidate for the riding of Humboldt in the 1904 federal election. He did not stand for re-election in the 1908 election."
+}, {
+  "entityIndex" : "81_entity216",
+  "entityUrl" : "http://dbpedia.org/resource/Aulay_MacAulay_Morrison",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/New_Westminster_(electoral_district)" ]
+  },
+  "words" : [ "New", "Westminster", "practice", "Law", "called", "Morrison", "moved", "1896", "son", "Commons", "Aulay", "represented", "judge", "Dalhousie", "Baddeck", "--", "law", "15", "degree", "House", ",", ".", "Common", "MacAulay", "1942", "1863", "Columbia", "Elizabeth", "University", "Flora", "graduated", "-RRB-", "1904", "Sydney", "1900", "June", "-LRB-", "27", "Canadian", "Pictou", "February", "Schools", "lawyer", "Christopher", "British", "Scotia", "Liberal", "politician", "Livingston", "Nova", "1890", "Bachelor", "1888", "educated", "Academies", "Bar", "Born", "married" ],
+  "adjectives" : [ "Canadian", "Liberal", "Common" ],
+  "nouns" : [ "Bar", "son", "Law", "law", "politician", "degree", "judge", "Bachelor", "lawyer" ],
+  "text" : "Aulay MacAulay Morrison (June 15, 1863 – February 27, 1942) was a Canadian lawyer, judge and Liberal politician who represented New Westminster in the Canadian House of Commons from 1896 to 1904. Born in Baddeck, Nova Scotia, the son of Christopher Morrison and Flora MacAulay, Morrison was educated in Common Schools, at the Academies of Sydney and Pictou and at Dalhousie University where he graduated with the degree of Bachelor of Law in 1888. He was called to the Bar of Nova Scotia in 1888 and the Bar of British Columbia in 1890 where he moved to practice law. In 1900, he married Elizabeth Livingston. Morrison was named puisne judge in the Superior Court of British Columbia. In 1929, he was named Chief Justice in the Supreme Court of British Columbia. He died while still a judge in Vancouver at the age of 78."
+}, {
+  "entityIndex" : "82_entity373",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Powell_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Glass_House" ]
+  },
+  "words" : [ "-LRB-", "election", "15", "May", "Andrew", "Liberal", "born", "politician", "Glass", "House", ".", "elected", "seat", "2009", "1973", "Party", "National", "Australian", "-RRB-", "Cary", "Powell", "first", "Parliament", "Queensland" ],
+  "adjectives" : [ "Australian", "first" ],
+  "nouns" : [ "seat", "election", "politician" ],
+  "text" : "Andrew Cary Powell (born 15 May 1973) is an Australian politician. He was first elected for the seat of Glass House to the Queensland Parliament for the Liberal National Party of Queensland at the 2009 Queensland election."
+}, {
+  "entityIndex" : "83_entity617",
+  "entityUrl" : "http://dbpedia.org/resource/Alfred_Reynolds_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Forrest" ]
+  },
+  "words" : [ "Front", "Mouquet", "World", "Georgette", "Western", "number", "Ypres", "George", "1894", "attacks", "Michael", "outbreak", "bearer", "Fromelles", "Assembly", "Forrest", "3rd", ",", ".", "April", "served", "Menin", "dawn", "Alfred", "1947", "62", "25", "stretcher", "War", "German", "Operation", "Épehy", "Labor", "Forces", "finishing", "Field", "1st", "1950", "Ambulance", "member", "throughout", "Division", "1915", "Gallipoli", "Reynolds", "joined", "Road", "politician", "Service", "counter", "batman", "HMS", "landing", "Ribble", "Battle", "Australian", "Born", "Farm", "Legislative", "battles", "Imperial", "Milton", "Queensland" ],
+  "adjectives" : [ "Western", "1st", "3rd", "Australian", "Legislative", "German" ],
+  "nouns" : [ "stretcher", "Front", "politician", "counter", "Labor", "batman", "number", "Field", "landing", "Ambulance", "Battle", "member", "outbreak", "bearer", "Division", "dawn", "Assembly" ],
+  "text" : "Alfred George Reynolds was an Australian politician. He was the Labor member for Forrest in the Western Australian Legislative Assembly from 1947 to 1950. Born in Milton, Queensland in 1894, Reynolds joined the Australian Imperial Forces at the outbreak of World War I with the Service number 62. He joined the 3rd Field Ambulance of the 1st Australian Division and served as a stretcher bearer and batman throughout the War, landing at Gallipoli from the HMS Ribble before dawn on 25 April 1915 and through the Western Front battles of Fromelles, Mouquet Farm, Ypres, Menin Road and the German counter attacks of Operation Michael and Operation Georgette and finishing with the Battle of Épehy. He arrived back in Sydney on 5 December 1918. On his return he married Monica McKenna, the youngest daughter of John McKenna the Commissioner of the Western Australia Police  and took up soldier settlement land at Mukinbudin. They had six children. Monica died on 4 July 1932 and Reynolds in the same year married Elizabeth Barnett, the local schoolteacher. They had a further two children. Reynolds lost the farm as a result of the Great Depression and moved to York, Western Australia, working as a farm manager and accountant. After his experiences in the War, he maintained an interest in politics, standing in turn for the Federal Division of Swan as an Independent Country Party candidate, the State Electoral district of Forrest (successfully) and the State Electoral district of South Perth for the Australian Labor Party. He died in 1976. One of his grandchildren is Linda Reynolds, Senator for the State of Western Australia."
+}, {
+  "entityIndex" : "84_entity687",
+  "entityUrl" : "http://dbpedia.org/resource/Anthony_Shorten",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Algester" ]
+  },
+  "words" : [ "12", "June", "Algester", "-LRB-", "election", "Anthony", "defeated", "Liberal", "born", "politician", "2012", "Shorten", "Karen", ",", ".", "National", "2015", "Australian", "Struthers", "-RRB-", "state", "1969", "Member", "Parliament" ],
+  "adjectives" : [ "Australian" ],
+  "nouns" : [ "election", "politician", "state" ],
+  "text" : "Anthony Shorten (born 12 June 1969) is an Australian Liberal National politician who was the Member of Parliament for Algester from 2012 to 2015, having defeated Karen Struthers at the 2012 state election."
+}, {
+  "entityIndex" : "85_entity688",
+  "entityUrl" : "http://dbpedia.org/resource/Anne_Maddern",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Maryborough" ]
+  },
+  "words" : [ "-LRB-", "defeated", "28", "2012", "October", "National", "Chris", "member", "Foley", "Anne", "Maddern", "state", "Assembly", "1955", "election", "Liberal", "born", "politician", ",", ".", "2015", "Australian", "-RRB-", "Marguerite", "Legislative", "Maryborough", "Queensland" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "election", "politician", "member", "state", "Assembly" ],
+  "text" : "Marguerite Anne Maddern (born 28 October 1955) was an Australian Liberal National politician who was the member of the Legislative Assembly of Queensland for Maryborough from 2012 to 2015, having defeated Chris Foley at the 2012 state election."
+}, {
+  "entityIndex" : "86_entity694",
+  "entityUrl" : "http://dbpedia.org/resource/Aaron_Dillaway",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Electoral_district_of_Bulimba" ]
+  },
+  "words" : [ "23", "-LRB-", "defeated", "2012", "March", "confirmed", "incumbent", "Aaron", "National", "1971", "won", "member", "Bulimba", "state", "74", "Assembly", "election", "Di", "initial", "Liberal", "born", "politician", "victory", "count", ",", ".", "Stuart", "2015", "Australian", "showed", "-RRB-", "Legislative", "Dillaway", "votes", "recount", "Farmer", "85", "Queensland" ],
+  "adjectives" : [ "initial", "Australian", "Legislative", "incumbent" ],
+  "nouns" : [ "election", "politician", "victory", "member", "count", "state", "recount", "Assembly" ],
+  "text" : "Aaron Stuart Dillaway (born 23 March 1971) is an Australian Liberal National politician who was the member of the Legislative Assembly of Queensland for Bulimba, having defeated Di Farmer, the incumbent, at the 2012 state election. After the initial count showed Dillaway had won by 85 votes, a recount confirmed his victory by 74 votes. He was defeated by Farmer in 2015."
+}, {
+  "entityIndex" : "87_entity716",
+  "entityUrl" : "http://dbpedia.org/resource/Anupriya_Patel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyMp" : [ "http://dbpedia.org/resource/Mirzapur_(Lok_Sabha_constituency)" ]
+  },
+  "words" : [ "Ministry", "alliance", "Mirzapur", "fought", "Anupriya", "Legislature", "legislative", "Sabha", "Bundelkhand", "Pradesh", "state", "Member", "Minister", "Assembly", "based", "lower", "Lok", ",", ".", "India", "elected", "1981", "State", "-RRB-", "campaign", "Parliament", "Congress", "-LRB-", "2012", "house", "general", "Kanpur", "Party", "previously", "Welfare", "Peace", "assembly", "Uttar", "election", "Health", "Government", "born", "politician", "Rohaniya", "currently", "constituency", "2014", "Varanasi", "Indian", "Family", "Legislative", "Patel" ],
+  "adjectives" : [ "general", "Indian", "Legislative", "legislative" ],
+  "nouns" : [ "election", "constituency", "alliance", "politician", "assembly", "campaign", "state", "house", "Assembly" ],
+  "text" : "Anupriya Patel (born 1981 in Kanpur, Uttar Pradesh) is an Indian politician, based in the state of Uttar Pradesh. She is currently the Minister of State in the Ministry of Health and Family Welfare, Government of India. She was elected to the Lok Sabha, the lower house of the Parliament of India from the constituency of Mirzapur in the 2014 Indian general election. She was previously elected as a Member of the Legislative Assembly for the Rohaniya constituency of the Legislature of Uttar Pradesh in Varanasi, where she had fought a campaign in alliance with the Peace Party of India and Bundelkhand Congress in the Uttar Pradesh legislative assembly election, 2012."
+} ]

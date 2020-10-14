@@ -1,0 +1,166 @@
+[ {
+  "entityIndex" : "1_entity5471",
+  "entityUrl" : "http://dbpedia.org/resource/John_Parkin_Taylor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Riverton Cemetery" ]
+  },
+  "words" : [ "New", "John", "England", "run", "got", "Waldeck", "worked", "homestead", "near", "1812", "19th-century", "--", "12", "Taylor", "finally", "'", "merchant", "countries", ",", "'s", "Island", ".", "August", "Zealand", "-RRB-", "parts", "Germany", "Parkin", "-LRB-", "Riverton", "settling", "life", "1875", "lived", "early", "sheep", "runholder", "`", "languages", "built", "studied", "politician", "South", "Otago", "Southland", "various", "farmer", "emigrated", "1849", "returned", "family", "married" ],
+  "adjectives" : [ "various", "early", "19th-century" ],
+  "nouns" : [ "runholder", "homestead", "politician", "merchant", "farmer", "family", "life", "sheep" ],
+  "text" : "John Parkin Taylor (1812 – 12 August 1875) was a 19th-century New Zealand runholder, and a politician in Otago and Southland. In his early life, Taylor lived in various countries and studied languages in Germany. He worked as a merchant and got married when he returned to England. Taylor's family emigrated to New Zealand in 1849 and he was a sheep farmer in various parts of the South Island before finally settling on a run near Riverton in Southland, where he had his homestead 'Waldeck' built. He entered the House of Representatives for the Dunedin Country electorate through a by-election in 1858 but fell out with many of his constituents over a broken election promise, as he helped the Southland Province to break away from the Otago Province. He eventually became Southland's second Superintendent and served from 1865 to 1869, and also represented an electorate on the Southland Provincial Council for a few months. In 1865, he was appointed to the New Zealand Legislative Council and with one break in membership due to non-attendance, he remained a member until his death. He served for one year as mayor of Riverton (1872–73) but did not stand again due to poor health. Taylor had a painful illness and died in 1875."
+}, {
+  "entityIndex" : "2_entity5620",
+  "entityUrl" : "http://dbpedia.org/resource/John_W._Haigis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Green River Cemetery, Greenfield, Massachusetts" ]
+  },
+  "words" : [ "--", "newspaper", "editor", "-LRB-", "Haigis", "American", "founder", "politician", "John", "Recorder", "William", ",", "Sr.", ".", "radio", "Greenfield", "WHAI", "1960", "1881", "-RRB-", "publisher", "July", "businessman", "31" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "newspaper", "editor", "founder", "politician", "publisher", "businessman", "radio" ],
+  "text" : "John William Haigis, Sr. (July 31, 1881 – 1960) was an American newspaper publisher, businessman and politician. Haigis was the editor and publisher of the Greenfield Recorder. Haigis was the founder of WHAI radio."
+}, {
+  "entityIndex" : "3_entity5801",
+  "entityUrl" : "http://dbpedia.org/resource/John_Bitchener",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Old Waimate Cemetery" ]
+  },
+  "words" : [ "--", "New", "Bitchener", "-LRB-", "minister", "Government", "John", "March", ".", "1864", "1952", "Zealand", "OBE", "Party", "-RRB-", "Reform", "Member", "cabinet", "1935", "Parliament", "10", "1933" ],
+  "adjectives" : [ ],
+  "nouns" : [ "minister", "Government", "Reform", "cabinet" ],
+  "text" : "John Bitchener OBE (1864 – 10 March 1952) was a Reform Party Member of Parliament in New Zealand. He was a cabinet minister from 1933 to 1935 in the Reform Government of New Zealand."
+}, {
+  "entityIndex" : "4_entity6366",
+  "entityUrl" : "http://dbpedia.org/resource/John_A._Buckley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Florida Memorial Gardens" ]
+  },
+  "words" : [ "Buckley", "Mayor", "Detroit", "-LRB-", "John", "A.", "Melbourne", "Council", "2009", "October", "1996", "earned", "previously", "1994", "Institute", "2004", "Technology", "February", "Vice", "1933", "--", "Designation", "including", "two-term", "mayor", "born", "19", "degree", "City", "Management", ",", "Florida", "Bachelor", ".", "Michigan", "1987", "1986", "1", "University", "Professional", "served", "-RRB-", "District", "Contract", "1989", "Philosophy", "21" ],
+  "adjectives" : [ "Professional", "two-term" ],
+  "nouns" : [ "Designation", "mayor", "degree", "Bachelor", "Philosophy" ],
+  "text" : "John A. Buckley (October 21, 1933 – February 19, 2009) was a two-term mayor of Melbourne, Florida from 1996 to 2004. He previously served on the Melbourne City Council from 1986 to 1996 from District 1, including as Vice Mayor in 1987, 1989, and 1994. Buckley was born on October 21, 1933, in Detroit, Michigan. He earned a Bachelor of Philosophy degree from the University of Detroit, and a Professional Designation in Contract Management from the Florida Institute of Technology. He worked for the Chrysler Corporation from 1956 to 1963. He moved to Melbourne in 1961. He worked for NASA from 1964 until his retirement in 1994. He served on the Melbourne City Council from 1986 to 1996. In 1996, Buckley defeated Ed Palmer for mayor. In 2000, Buckley defeated Daniel E. \"Danny\" Campana for mayor."
+}, {
+  "entityIndex" : "5_entity11526",
+  "entityUrl" : "http://dbpedia.org/resource/William_Randolph",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Turkey Island, Virginia" ]
+  },
+  "words" : [ "sometime", "Peyton", "moved", "John", "E.", "individuals", "years", "Beverly", "ca.", "December", "later", "George", "Robert", "1650", "Randolph", "1659", "1735", "--", "11", "including", "Paschal", "Marshall", "history", "William", ",", "bapt", ".", "April", "important", "Isham", "7", "W.", "-RRB-", "Virginia", "1669", "-LRB-", "role", "prominent", "colony", "Ruffin", "29", "colonist", "Roanoke", "descendants", "1711", "government", "1673", "land", "November", "Mary", "owner", "Thomas", "include", "Jefferson", "many", "played", "Lee", "Edmund", "English", "married" ],
+  "adjectives" : [ "important", "English", "prominent", "many", "bapt", "married" ],
+  "nouns" : [ "owner", "role", "government", "colony", "colonist", "land", "history" ],
+  "text" : "William Randolph (bapt. 7 November 1650 – 11 April 1711) was a colonist and land owner who played an important role in the history and government of the English colony of Virginia. He moved to Virginia sometime between 1669 and 1673, and married Mary Isham (ca. 1659 – 29 December 1735) a few years later. His descendants include many prominent individuals including Thomas Jefferson, John Marshall, Paschal Beverly Randolph, Robert E. Lee, Peyton Randolph, Edmund Randolph, John Randolph of Roanoke, George W. Randolph, and Edmund Ruffin. Genealogists have taken an interest in him for his progeny's many marital alliances, referring to him and Mary Isham as \"the Adam and Eve of Virginia\"."
+}, {
+  "entityIndex" : "6_entity11445",
+  "entityUrl" : "http://dbpedia.org/resource/Vivian_L._Page",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Forest Lawn Cemetery, Norfolk, Virginia" ]
+  },
+  "words" : [ "June", "-LRB-", "American", "city", "Page", "Vivian", "1894", "member", "1936", "lawyer", "--", "L.", "Democratic", "politician", "representing", "House", ",", ".", "1", "Senate", "1962", "-RRB-", "Delegates", "Virginia", "1924", "21", "1944", "Norfolk" ],
+  "adjectives" : [ "American", "Democratic" ],
+  "nouns" : [ "city", "politician", "member", "lawyer" ],
+  "text" : "Vivian L. Page (June 1, 1894 – June 21, 1962) was an American politician and lawyer. He was a Democratic member of the Virginia House of Delegates 1924–1936 and the Senate of Virginia 1936–1944, representing the city of Norfolk."
+}, {
+  "entityIndex" : "7_entity7278",
+  "entityUrl" : "http://dbpedia.org/resource/Lewis_McDonald",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "\\" ]
+  },
+  "words" : [ "22", "--", "abolition", "-LRB-", "September", "18", "politician", "Labor", ".", "Council", "McDonald", "Lewis", "Australian", "1881", "Richard", "-RRB-", "member", "Legislative", "1917", "1936", "November", "Queensland", "1922" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "abolition", "politician", "member", "Labor" ],
+  "text" : "Lewis Richard McDonald (22 November 1881 – 18 September 1936) was an Australian politician. He was a Labor member of the Queensland Legislative Council from 1917 until its abolition in 1922."
+}, {
+  "entityIndex" : "8_entity1935",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_L._Glover",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Union Cemetery, Norwalk, Connecticut" ]
+  },
+  "words" : [ "-LRB-", "Hill", "defeated", "year", "Buxton", "seven", "A.", "December", "1897", "times", "later", "George", "Glover", "1916", "ran", "--", "Charles", "L.", "mayor", "Democratic", "beaten", "However", "also", ",", "B.", ".", "1842", "Norwalk", "Connecticut", "-RRB-", "1905", "six-term", "1903", "1902", "1901" ],
+  "adjectives" : [ "Democratic", "beaten", "six-term" ],
+  "nouns" : [ "mayor", "year", "A." ],
+  "text" : "Charles L. Glover (December 1842 – 1916) was a six-term Democratic mayor of Norwalk, Connecticut from 1897 to 1901, from 1902 to 1903, and also in 1905. He ran for mayor seven times, and was only beaten once, by George Buxton. However he defeated Buxton a year later. In 1897, he defeated A. B. Hill. In 1898, he defeated Isaac Selleck. In 1899, he defeated A. B. Woodward, but the Republicans retained control of the Norwalk Common Council. In 1900, he defeated Harvey M. Kent. In 1902, he defeated incumbent mayor George Buxton. In 1905, he defeated Goold Hoyt."
+}, {
+  "entityIndex" : "9_entity9607",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Reid_(New_Zealand_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Middle Orowaiti Cemetery" ]
+  },
+  "words" : [ "New", "-LRB-", "Reid", "March", "Scotland", "gold", "1897", "Coast", "later", "Robert", "1839", "proprietor", "February", "Member", "19th-century", "--", "West", "Victoria", "18", "rushes", "Caldwell", "newspapers", ",", ".", "Zealand", "4", "Born", "series", "attracted", "-RRB-", "Parliament" ],
+  "adjectives" : [ "19th-century" ],
+  "nouns" : [ "gold", "series", "proprietor" ],
+  "text" : "Robert Caldwell Reid (4 February 1839 – 18 March 1897) was a 19th-century Member of Parliament from the West Coast, New Zealand. Born in Scotland and attracted by the gold rushes in Victoria and the West Coast, he was later the proprietor of a series of newspapers."
+}, {
+  "entityIndex" : "10_entity9699",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Hyatt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Ballarat Crematorium" ]
+  },
+  "words" : [ "John", "World", "December", "children", "1893", "four", "Dalton", "July", "timber", "worker", "--", "Returning", "Stratton", "'", ",", "'s", ".", "Elizabeth", "involved", "Workers", "State", "served", "-RRB-", ";", "postal", "Postal", "contractor", "14th", "22", "became", "Raymond", "-LRB-", "Blakeville", "Force", "28", "29", "Egypt", "March", "War", "Union", "School", "1918", "1917", "France", "Henry", "attended", "sawmiller", "politician", "Allison", "war", "Australian", "Born", "Imperial", "Battalion", "1969", "married", "Hyatt" ],
+  "adjectives" : [ "14th", "Australian", "postal" ],
+  "nouns" : [ "contractor", "sawmiller", "politician", "war", "timber", "Battalion", "worker" ],
+  "text" : "John Allison Raymond Hyatt (28 July 1893 – 29 March 1969) was an Australian politician. Born in Blakeville to sawmiller Henry Hyatt and Elizabeth Dalton, he attended Blakeville State School and became a sawmiller and timber contractor. He served in the Australian Imperial Force's 14th Battalion in Egypt and France during World War I; on 22 December 1917 he married Elizabeth Stratton, with whom he had four children. Returning from the war in 1918 he became a postal worker, and became involved in the Postal Workers' Union. In 1943 he was elected to the Victorian Legislative Assembly as the Labor member for Warrenheip and Grenville, transferring to Hampden in 1945. He was defeated in 1947. Hyatt died at Ballarat in 1969."
+}, {
+  "entityIndex" : "11_entity4641",
+  "entityUrl" : "http://dbpedia.org/resource/Harvey_Fitch",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Union Cemetery, Norwalk, Connecticut" ]
+  },
+  "words" : [ "-LRB-", "May", "Warden", "27", "Rebecca", "29", "moved", "Borough", "son", "1816", "1838", "lived", "Fitch", "--", "Betts", "born", "Lucretia", "1890", "Wilton", "Daniel", ",", ".", "August", "Whitney", "Norwalk", "6", "Connecticut", "Harvey", "-RRB-", "1848", "1869", "married", "1868" ],
+  "adjectives" : [ ],
+  "nouns" : [ "son" ],
+  "text" : "Harvey Fitch (May 27, 1816 – August 6, 1890) was Warden of the Borough of Norwalk, Connecticut from 1868 to 1869. He was born in Wilton, Connecticut on May 27, 1816, the son of Daniel Fitch and Lucretia Whitney. He married Rebecca Betts on May 29, 1838. They lived in Wilton until 1848, when they moved to Norwalk."
+}, {
+  "entityIndex" : "12_entity8176",
+  "entityUrl" : "http://dbpedia.org/resource/Mills_O._Burnham",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Burnham family cemetery on Cape Canaveral" ]
+  },
+  "words" : [ "--", "-LRB-", "September", "Olcott", "17", "House", "Representatives", ",", "Florida", "St.", "County", "April", ".", "1886", "Lucia", "8", "-RRB-", "settler", "member", "Mills", "Burnham", "1817" ],
+  "adjectives" : [ ],
+  "nouns" : [ "settler", "member" ],
+  "text" : "Mills Olcott Burnham (September 8, 1817 – April 17, 1886) was a Florida settler and member of the Florida House of Representatives from St. Lucia County."
+}, {
+  "entityIndex" : "13_entity3396",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Field_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Cheltenham Memorial Park" ]
+  },
+  "words" : [ "``", "St", "Law", "John", "Melbourne", "Arts", "Emily", "December", "1930", "Francis", "children", "Primary", "North", "five", "1934", "--", "Honeybone", "admitted", "studying", "solicitor", "William", ",", "'s", ".", "Kevin", "1985", "4", "University", "graduated", "-RRB-", "Dandenong", "College", "1904", "23", "June", "-LRB-", "Kate", "practising", "Aileen", "Field", "servant", "School", "public", "O'Brien", "Carlton", "Mary", "''", "attended", "politician", "Bachelor", "Master", "Australian", "Born", "Frank", "married" ],
+  "adjectives" : [ "public", "Australian", "Primary" ],
+  "nouns" : [ "Master", "Field", "servant", "School", "Law", "politician", "solicitor", "Bachelor" ],
+  "text" : "Francis \"Frank\" Field (23 December 1904 – 4 June 1985) was an Australian politician. Born in North Carlton to public servant William John Field and Kate Emily Honeybone, he attended St Mary's Primary School in Dandenong and St Kevin's College before studying at Melbourne University, from which he graduated with a Master of Arts and a Bachelor of Law. In 1930 he was admitted as a solicitor, practising in Dandenong and Melbourne. On 23 June 1934 Field married Aileen Mary O'Brien, with whom he had five children. He was elected to the Victorian Legislative Assembly in 1937 as the Labor member for Dandenong. In September 1943 he was briefly Minister of Public Instruction; after serving in the Royal Australian Air Force (1942–45) he resumed the office in November 1945, when he was also appointed Deputy Premier. He lost his seat at the 1947 election."
+}, {
+  "entityIndex" : "14_entity3457",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Burnell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Riverside Cemetery" ]
+  },
+  "words" : [ "-LRB-", "Irwin", "March", "Republican", "two", "Francis", "prior", "1915", "1913", "--", "mayor", "1909", "18", "South", "Burnell", "one-term", "also", ",", "consolidation", ".", "municipalities", "1863", "Norwalk", "Connecticut", "-RRB-", "1907", "1926" ],
+  "adjectives" : [ "Republican", "one-term" ],
+  "nouns" : [ "mayor", "consolidation" ],
+  "text" : "Francis Irwin Burnell (1863 – March 18, 1926) was a one-term Republican mayor of Norwalk, Connecticut from 1913 to 1915. He was also mayor of South Norwalk from 1907 to 1909 prior to the consolidation of the two municipalities."
+}, {
+  "entityIndex" : "15_entity466",
+  "entityUrl" : "http://dbpedia.org/resource/Adrian_Cruickshank",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:restingplace" : [ "Griffith City Cemetery" ]
+  },
+  "words" : [ "New", "southern", "-LRB-", "May", "Adrian", "Wales", "John", "2010", "Murrumbidgee", "miner", "Hobart", "December", "philanthropist", "Party", "National", "member", "farm", "1936", "Assembly", "1999", "--", "eastern", "16", "Tasmania", "politician", "born", "spent", "Africa", "Cruickshank", "South", "prospector", ",", ".", "1984", "Australian", "returning", "-RRB-", "Legislative", "time", "Australia", "21" ],
+  "adjectives" : [ "southern", "eastern", "Australian", "Legislative" ],
+  "nouns" : [ "philanthropist", "politician", "member", "prospector", "farm", "time", "Assembly", "miner" ],
+  "text" : "Adrian John Cruickshank (16 December 1936 – 21 May 2010) was an Australian politician and philanthropist. He was the National Party member of the New South Wales Legislative Assembly for Murrumbidgee from 1984 to 1999. Cruickshank was born in Hobart, Tasmania. He spent time in southern and eastern Africa as a miner and prospector before returning to Australia to farm. In 1966, he became New South Wales State Chairman of the Young Australian Country Party, holding the position until 1968 when he was appointed to the state council, serving until 1984. He was elected to Carrathool Shire Council in 1970 and remained until 1974. He was chairman of the Rankins Springs branch of the party from 1972 to 1984. In 1984, Cruickshank was selected as the National candidate for the state seat of Murrumbidgee, which was being vacated by sitting Labor member Lin Gordon. Cruickshank finished third on the primary votes behind Labor candidate Margaret Delves and independent Thomas Marriott, but with Liberal preferences pushed into second place and was elected the victor on Marriott's preferences, with a margin of 51.52%. Partly due to redistributions which greatly strengthened the National Party in Murrumbidgee, Cruickshank faced no further serious challenges and was re-elected in 1988, 1991, and 1995. He retired in 1999 and was succeeded as National MP for the seat by Adrian Piccoli. On 21 May 2010, Cruickshank died at the Royal Prince Alfred Hospital from pneumonia."
+} ]

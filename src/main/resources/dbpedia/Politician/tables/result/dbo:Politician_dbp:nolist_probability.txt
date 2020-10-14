@@ -1,5 +1,0 @@
-id=10  property=dbp:nolist  object=true  NumberOfEntitiesFoundForObject=240
-parliament-NN  multiply=0.895833  P(parliament|object)=0.895833  P(object|parliament)=1.0    
-member-NN  multiply=0.883333  P(member|object)=0.883333  P(object|member)=1.0    
-electorate-NN  multiply=0.754167  P(electorate|object)=0.754167  P(object|electorate)=1.0    
-

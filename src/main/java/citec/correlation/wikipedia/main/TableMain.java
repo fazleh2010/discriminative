@@ -74,8 +74,8 @@ public class TableMain implements PropertyNotation {
             Integer TopNwords=100;
             Integer ObjectMinimumEntities=60;
             
-            Double wordGivenObject=0.45;
-            Double objectGivenWord=0.45;
+            Double wordGivenObject=0.8;
+            Double objectGivenWord=0.8;
             
             
             InterestedWords interestedWords=null;

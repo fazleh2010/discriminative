@@ -1,3 +1,0 @@
-id=20  property=dbp:parliament  object=New South Wales  NumberOfEntitiesFoundForObject=64
-australian-JJ  multiply=0.476562  P(australian|object)=0.953125  P(object|australian)=0.5    
-

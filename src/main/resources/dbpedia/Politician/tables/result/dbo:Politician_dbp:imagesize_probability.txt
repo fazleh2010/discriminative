@@ -1,4 +1,0 @@
-id=8  property=dbp:imagesize  object=150  NumberOfEntitiesFoundForObject=232
-assembly-NN  multiply=0.327977  P(assembly|object)=0.612069  P(object|assembly)=0.535849    
-member-NN  multiply=0.32276  P(member|object)=0.715517  P(object|member)=0.451087    
-

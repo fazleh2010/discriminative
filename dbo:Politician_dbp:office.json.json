@@ -1,0 +1,133 @@
+[ {
+  "entityIndex" : "1_entity4829",
+  "entityUrl" : "http://dbpedia.org/resource/Joy_MacPhail",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "Minister of Education of British Columbia", "Minister of Labour of British Columbia" ]
+  },
+  "words" : [ "New", "MLA", "almost", "three", "Western", "earned", "later", "Member", "Assembly", "Minister", "longtime", "--", "Economics", "MacPhail", "Democratic", "degree", ",", "former", ".", "Columbia", "University", "Joy", "6", "served", "-RRB-", "London", "Ontario", "Vancouver", "K.", "-LRB-", "Canadian", "March", "labour", "1952", "School", "Party", "2005", "1993", "2000-2001", "1991", "Hamilton", "member", "studies", "lived", "1999", "British", "studied", "born", "politician", "Crown", "economics", "Legislative", "decades" ],
+  "adjectives" : [ "longtime", "Canadian", "Legislative", "former" ],
+  "nouns" : [ "MLA", "politician", "member", "degree", "Assembly", "labour" ],
+  "text" : "Joy K. MacPhail (born March 6, 1952) is a former Canadian politician in British Columbia. A longtime member of the British Columbia New Democratic Party, she served as a Member of the Legislative Assembly (MLA) from 1991 to 2005 and as a Minister of the Crown from 1993–1999, and 2000-2001. MacPhail was born in Hamilton, Ontario, but has lived in Vancouver for almost three decades. She studied economics at the University of Western Ontario, and later earned a degree in labour studies at the London School of Economics. She has one son. MacPhail was first elected to the British Columbia Legislature in 1991 as the MLA for Vancouver-Hastings, and served in the cabinets of three NDP premiers. Under Premier Mike Harcourt, she served as Minister of Social Services from 1993 to 1996. Under Premier Glen Clark she served a short stint as Minister of Social Services, then as Minister of Health from 1996 to 1998. MacPhail's final cabinet position in the Clark government was as Minister of Finance from 1998 to 1999, when she quit the Clark government at a time when it was suffering from increasing dissent and scandal. When Clark eventually quit the NDP leadership, MacPhail ran for NDP leader, but did not attract significant legislative caucus support. She withdrew when it became obvious that Ujjal Dosanjh had an insurmountable lead. Under Dosanjh, she was the Deputy Premier and served as Minister of Labour and later, Minister of Education. The NDP suffered a massive electoral blow in the May 16, 2001 provincial election, winning only two seats—those of MacPhail and Environment Minister Jenny Kwan. MacPhail only held onto her seat by 409 votes. Exactly one month after the election, MacPhail was appointed as the party's interim leader. She was a harsh critic of the new BC Liberal Premier Gordon Campbell. Although the NDP was the only other party in the legislature, it was four seats short of official party status. Despite this, Assembly Speaker Claude Richmond ensured that the NDP was resourced as an opposition and she was recognized by the Speaker as the Leader of the Opposition. MacPhail stepped down as leader in 2003 and was succeeded by Carole James. She remained as parliamentary leader of the NDP until her retirement from politics after the 2005 election. Following her departure from politics, MacPhail married film and television producer James Shavick, and is currently a partner in his production firm Shavick Entertainment. She is a member of the board of OutTV, a Canadian cable television station owned by Shavick Entertainment, and focused on the gay, lesbian, bisexual and transgender communities. She has also appeared as a member of political panels on As It Happens on CBC Radio."
+}, {
+  "entityIndex" : "2_entity5146",
+  "entityUrl" : "http://dbpedia.org/resource/John_Hatzistergos",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "http://dbpedia.org/resource/Vice-President_of_the_Executive_Council_(New_South_Wales)" ]
+  },
+  "words" : [ "New", "-LRB-", "Wales", "John", "2011", "Labor", "Council", "Court", "Governments", "Hatzistergos", "Party", "judge", "Member", "1999", "minister", "born", "politician", "South", "representing", ",", ".", "former", "August", "1960", "Australian", "various", "-RRB-", "Legislative", "District", "20" ],
+  "adjectives" : [ "Australian", "various", "Legislative", "former" ],
+  "nouns" : [ "minister", "politician", "judge", "Labor" ],
+  "text" : "John Hatzistergos (born 20 August 1960) is a judge of the District Court of New South Wales. He is a former Australian politician who was a Member of the New South Wales Legislative Council representing the Australian Labor Party between 1999 and 2011, and a minister in various Labor Governments."
+}, {
+  "entityIndex" : "3_entity6030",
+  "entityUrl" : "http://dbpedia.org/resource/Jayant_Prabhakar_Patil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "http://dbpedia.org/resource/Member_of_Legislative_Council" ]
+  },
+  "words" : [ "Co-Op", "-LRB-", "Secretary", "Peasants", "Council", "bank", "Party", "today", "Maharashtra", "Member", "Raigad", "Prabhakar", "politician", "chairman", ",", ".", "India", "Jayant", "Patil", "Workers", "शेकाप", "-RRB-", "Indian", "General", "Legislative", "District" ],
+  "adjectives" : [ "Indian", "Legislative" ],
+  "nouns" : [ "bank", "politician", "today", "chairman", "Council" ],
+  "text" : "Jayant Prabhakar Patil is an Indian politician. As of today, he is the General Secretary of Peasants and Workers Party of India (शेकाप) and a Member of the Legislative Council of Maharashtra. He is chairman of Raigad District Co-Op bank."
+}, {
+  "entityIndex" : "4_entity10931",
+  "entityUrl" : "http://dbpedia.org/resource/Thummala_Nageswara_Rao",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "http://dbpedia.org/resource/Ministry_of_Roads_and_Buildings" ]
+  },
+  "words" : [ "Water", "Rao", "Heavy", "Excise", "defeated", "Younis", "seats", "contested", "Pradesh", "reservation", "Constituency", "Assembly", "Though", "Chandra", "Member.He", "minister", "Venkatrao", "Khammam", "opponents", "Nageswara", "Andhra", "Sathupalli", "thrice", ",", "elections", ".", "elected", "constituencies", "State", "served", "Sathupally", "party", "Sulthan", "Irrigation", "Telangana", "changes", "Projects", "2009", "Telugu", "member", "Government", "Ex-MLA", "Babu", "...", "actually", "Thummala", "Desam", "Rashtra", "due", "Jalagam", "Samithi", "Legislative", "Naidu" ],
+  "adjectives" : [ "due", "Legislative" ],
+  "nouns" : [ "Member.He", "minister", "Government", "State", "Ex-MLA", "member", "reservation", "thrice", "party", "Assembly" ],
+  "text" : "Thummala Nageswara Rao is a minister and a member of Telangana Rashtra Samithi. He once served the State Government of Andhra Pradesh as a minister for Heavy Water Irrigation Projects and Excise as a Telugu Desam party member under Chandra Babu Naidu. He was elected thrice to Assembly from Sathupalli Constituency as Legislative Member.He is an Ex-MLA of Khammam.. Though is actually from Sathupally, due to changes in reservation of seats in constituencies, he contested from Khammam and defeated his opponents Younis Sulthan and Jalagam Venkatrao in 2009 elections.... He sanctioned a waterproject to khammam people to make them get rid of fluoride water... He is from Gandugula Palli village of Dammapeta Mandal Khammam District. He is Minister for Roads and Buildings Department in TRS Government 2014 He became MLA in 2009 Assembly elections from Khammam & lost in 2014 Elections."
+}, {
+  "entityIndex" : "5_entity9089",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Cooper",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "North Carolina State House of Representatives" ]
+  },
+  "words" : [ "June", "Asberry", "Pat", "-LRB-", "American", "McCrory", "Previously", "incumbent", "running", "Party", "member", "North", "1957", "13", "election", "Democratic", "born", "politician", "III", "2001", "Carolina", ",", ".", "Governor", "Senate", "2016", "State", "-RRB-", "General", "Roy", "Attorney", "Cooper", "since" ],
+  "adjectives" : [ "American", "incumbent" ],
+  "nouns" : [ "Governor", "election", "politician", "member" ],
+  "text" : "Roy Asberry Cooper III (born June 13, 1957) is an American politician who has been Attorney General of North Carolina since 2001. Previously he was a member of the North Carolina State Senate. Cooper is a member of the North Carolina Democratic Party, and is running for Governor of North Carolina in the 2016 election against incumbent Pat McCrory."
+}, {
+  "entityIndex" : "6_entity2382",
+  "entityUrl" : "http://dbpedia.org/resource/David_Winderlich",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "South Australian MLC" ]
+  },
+  "words" : [ "nine", "joint", "parliament", "incumbent", "division", "would", "Democrat", "leave", "casual", "members", "July", "January", "new", "months", "last", "18", "Nicholas", ",", "fill", ".", "announced", "Democrats", "following", "7", "David", "-RRB-", "vacancy", "Parliament", "20", "party", "23", "-LRB-", "independent", "Becoming", "2010", "resignation", "Council", "SA", "2009", "servant", "October", "teacher", "public", "unless", "member", "nominee", "parliamentary", "February", "November", "sit", "election", "joined", "born", "politician", "sat", "South", "Kanck", "1964", "1,000", "re-elected", "eventuated", "Australian", "Legislative", "Australia", "Winderlich", "sitting", "Sandra" ],
+  "adjectives" : [ "new", "joint", "public", "independent", "last", "Australian", "casual", "Legislative", "parliamentary", "incumbent" ],
+  "nouns" : [ "division", "servant", "teacher", "election", "politician", "member", "nominee", "resignation", "parliament", "vacancy", "party" ],
+  "text" : "David Nicholas Winderlich (born 18 January 1964), is an Australian teacher, public servant and politician who in February 2009 was the Australian Democrats nominee to fill a South Australian Legislative Council casual vacancy in a joint sitting of the Parliament of South Australia following the January 2009 parliamentary resignation of the incumbent Democrats member Sandra Kanck. Becoming an independent after nine months, he was the last Democrat to have sat in any Australian parliament. He was not re-elected at the 2010 election. On 20 July 2009 Winderlich announced that, unless 1,000 new members joined the Democrats SA division by 23 November, he would leave the party and sit as an independent, which eventuated on 7 October 2009. Winderlich announced that, as an independent, he would focus on three policy areas: governmental reform, rights and freedoms, e.g., for bikies, and a sustainable approach to the management of water resources in South Australia. In particular, he was opposed to the Port Stanvac Desalination Plant and to the Wellington Weir proposal."
+}, {
+  "entityIndex" : "7_entity4705",
+  "entityUrl" : "http://dbpedia.org/resource/Ida_Chong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "Minister of Science and Universities of British Columbia", "Minister of Healthy Living and Sport of British Columbia", "Minister of Regional Economic and Skills Development of British Columbia" ]
+  },
+  "words" : [ "MLA", "Ida", "Asia-Pacific", "Trade", "Sport", "December", "Technology", "Education", "Development", "Xìngfāng", "January", "Minister", "Women", "Chong", "Head", "2001", "'s", ",", "-", "Cultural", ".", "appointed", "elected", "pinyin", "Columbia", "Senior", "State", "-RRB-", "Oak", ":", ";", "June", "BC", "-LRB-", "Advanced", "March", "2011", "張杏芳", "Zhāng", "2009", "2008", "1996", "previously", "2005", "2004", "Responsible", "1957", "1956", "British", "Liberal", "born", "Initiative", "Services", "Bay-Gordon", "Economic", "re-elected", "Chinese", "well", "Community", "first" ],
+  "adjectives" : [ "British", "Responsible", "first" ],
+  "nouns" : [ "pinyin" ],
+  "text" : "Ida Chong (Chinese: 張杏芳; pinyin: Zhāng Xìngfāng; born 1956 or 1957) was previously British Columbia's Minister of Community, Sport and Cultural Development and was Minister Responsible for the Asia-Pacific Initiative as well as Minister of Technology, Trade, and Economic Development; Minister of Community Services; and Minister Responsible for Women's and Senior's Services (June 2005 - June 2008); Minister of Advanced Education (December 2004 to June 2005); and Minister of State for Women's and Senior's Services (January - December 2004). She was appointed Minister of Community, Sport and Cultural Development in March 2011. Chong was the BC Liberal MLA for Oak Bay-Gordon Head. She was first elected in 1996 and was re-elected in 2001, 2005, and 2009. Born and raised in Victoria, British Columbia, Chong began her political career in 1993 as a municipal councillor for the District of Saanich. She ran her own accounting firm with business partner Karen Kesteloo and is a fellow of the Certified General Accountant of BC (FCGA). She was awarded a CGA-BC lifetime membership in September 2014. On September 18, 2014, Chong announced her intention to run for mayor of the City of Victoria in the November 2014 municipal election which she subsequently lost, coming a distant third to new mayor, Lisa Helps and previous mayor Dean Fortin. While Chong lost badly, it was widely speculated that she knew she could not win but instead wanted to ensure previous mayor Fortin, who ran a campaign primarily with backing of the New Democratic Party (NDP), would not win. Chong successfully set the ballot question based on Fortin's mishandling of the Johnson Street Bridge Replacement Project but simply did not have enough voters to make an impact. Fortin ultimately lost to Helps by a mere 89 votes. While Chong's running in a known left-wing municipal election after a long and successful career as a Provincial Cabinet Minister was baffling to many, the speculation is that Chong knew she could pull votes from the moderate Fortin, with a long-term strategy to strengthen the Green/Progressive vote in the region and province thus weakening the New Democratic Party by splitting the leftist vote."
+}, {
+  "entityIndex" : "8_entity10665",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Hanford",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "Town Clerk of the Town of Norwalk" ]
+  },
+  "words" : [ "22", "-LRB-", "May", "death", "seven", "Representatives", "years", "Samuel", "1711", "1733", "October", "1674", "1751", "member", "1719", "justice", "1717", "February", "1737", "1714", "1736", "1735", "--", "sessions", "town", "selectman", "House", "also", ",", "April", ".", "clerk", "1723", "1722", "2", "1720", "Hanford", "Norwalk", "Connecticut", "served", "peace", "-RRB-", "1708", "1707", "1705", "1724" ],
+  "adjectives" : [ ],
+  "nouns" : [ "clerk", "town", "death", "selectman", "peace", "member", "justice" ],
+  "text" : "Samuel Hanford (April 22, 1674 – February 2, 1751) was a member of the Connecticut House of Representatives from Norwalk in the sessions of October 1705, May 1707, May 1708, May 1711, May 1714, October 1717, October 1719, May 1720, October 1722, October 1733, May and October 1735, May and October 1736, and May and October 1737. He also served as Norwalk town clerk from 1707 to 1708.He served as a justice of the peace for Norwalk in 1711, 1723, 1724, and from 1735 until his death in 1751. He served as a selectman for seven years. He was the son of Reverend Thomas Hanford and Mary Miles."
+}, {
+  "entityIndex" : "9_entity7449",
+  "entityUrl" : "http://dbpedia.org/resource/Moe_Sihota",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "Minister of Social Development and Economic Security of British Columbia", "Minister Responsible for Public Service of British Columbia" ]
+  },
+  "words" : [ "``", "broadcaster", "Esquimalt", "Munmohan", "earned", "George", "scholarship", "worker", "1977", "Economics", "law", "Rock", "work", "Victoria", "18", "degree", ",", "'s", "former", ".", "1978-9", "Sihota", "Columbia", "1984", "University", "1982", "1981", "attorney", "-RRB-", "London", "Warwick", "Vancouver", "-LRB-", "Canadian", "St.", "School", "Boys", "Singh", "February", "1955", "''", "attended", "Moe", "British", "social", "awarded", "bachelor", "born", "politician", "White", "Duncan" ],
+  "adjectives" : [ "Canadian", "social", "former" ],
+  "nouns" : [ "law", "broadcaster", "bachelor", "work", "attorney", "politician", "scholarship", "degree", "worker" ],
+  "text" : "Munmohan Singh \"Moe\" Sihota (born February 18, 1955) is a Canadian former broadcaster and politician. He was born in Duncan, British Columbia and attended St. George's Boys School, Vancouver, on scholarship. He earned a bachelor's degree in social work from the University of British Columbia in 1977, was awarded a scholarship to Warwick School of Economics, London, 1981 and a law degree from the University of Victoria in 1982. He was a social worker in White Rock in 1978-9 and an attorney in Esquimalt in 1984."
+}, {
+  "entityIndex" : "10_entity3264",
+  "entityUrl" : "http://dbpedia.org/resource/Fazal_Ali",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "Judge of Supreme Court of India", "Chief Justice of Patna High Court" ]
+  },
+  "words" : [ "22", "-LRB-", "September", "Assam", "Commission", "Khan", "headed", "died", "recommendations", "states", "serving", "1952", "OBE", "known", "Sayyid", "Odisha", "1959", "judge", "reorganization", "1956", "--", "Bahadur", "Fazal", "made", "19", "also", "Fazl", ",", "'s", ".", "August", "India", "1886", "-RRB-", "governor", "Sir", "Ali" ],
+  "adjectives" : [ ],
+  "nouns" : [ "Odisha", "governor", "judge", "reorganization" ],
+  "text" : "Khan Bahadur Sayyid Sir Fazl Ali, also known as Fazal Ali OBE (19 September 1886 – 22 August 1959) was governor of Assam and Odisha and a judge. He headed the Fazal Ali Commission that made recommendations about the reorganization of India's states. He was governor of Odisha from 1952 to 1956 and of Assam from 1956 to 1959. He died while serving as governor of Assam. He was also bestowed with the Padma Vibhushan by the Indian Government. Whilst in Assam, he was the first to bring the Nagas into societal mainstream. He opened a college in the Naga heartland Mokokochung, which is now known as 'Sir Fazal Ali College of Arts'. The College celebrated its 50 years' anniversary in 2010. He belonged to an aristocratic Zamindar family of Bihar. Sir Fazl Ali was appointed, successfully, to the title of Khan Sahib, as an Officer of the Order of the British Empire (OBE) in 1918 and to the title of Khan Bahadur. He was knighted in the 1941 New Year Honours list and invested with his knighthood on 1 May 1942 by the Viceroy, Lord Linlithgow. His eldest son, the late Syed Murtaza Fazl Ali Ali followed in his footsteps. He became a judge at the age of only 35, of the J&K High Court, in 1958, and was elevated as the Chief Justice of the same court in 1966. He was elevated as a Judge of the Supreme Court of India (like his father 'Sir Fazal Ali') in 1975. He died in 1985 while a sitting judge."
+}, {
+  "entityIndex" : "11_entity105",
+  "entityUrl" : "http://dbpedia.org/resource/Anwara_Taimur",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "Former Chief Minister of Assam" ]
+  },
+  "words" : [ "Congress", "June", "leader", "24", "-LRB-", "woman", "Assam", "Chief", "Committee", "Muslim", "Taimur", "December", "National", "Syeda", "AICC", "member", "state", "1936", "female", "30", "Minister", "November", "minister", "chief", "born", "also", "history", ",", ".", "India", "Anwara", "6", "1981", "1980", "-RRB-", "Indian", "party", "first" ],
+  "adjectives" : [ "chief", "Indian", "Muslim", "first" ],
+  "nouns" : [ "leader", "woman", "minister", "member", "state", "history", "female", "party" ],
+  "text" : "Syeda Anwara Taimur (born 24 November 1936) was the chief minister of the Indian state of Assam from 6 December 1980 to 30 June 1981. She is a leader of the Indian National Congress party in Assam and a member of the All India Congress Committee (AICC). In the history of Assam, she is the only female and Muslim Chief Minister of the state. In Indian history also, Syeda Anwara Taimur is the first Muslim woman Chief Minister of any state. Her term as chief minister ended when the state was put under president's rule for six months. From 1983 to 1985 she was the PWD minister of the same state. Anwara was lecturer in Economics in Debicharan Barua Girls College, Jorhat in 1956. She was an elected member of the Assam Assembly (MLA) in 1972, 1978, 1983, and 1991. In 1988 she was nominated to the Indian Parliament (Rajya Sabha). In 1991 she was appointed to the post of Minister for Agriculture in Assam. She graduated from Aligarh Muslim University with economics honors. Anwara joined All India United Democratic Front in 2011."
+}, {
+  "entityIndex" : "12_entity465",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Petter",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:office" : [ "http://dbpedia.org/resource/Attorney_General_of_British_Columbia", "Minister Responsible for Youth of British Columbia", "Minister Responsible for Human Rights of British Columbia" ]
+  },
+  "words" : [ "Dosanjh", "New", "-LRB-", "role", "Canadian", "Petter", "Freedoms", "1953", "President", "Rights", "Party", "government", "Simon", "school", "Vice-Chancellor", "provincial", "written", "Ujjal", "British", "making", "law", "J.", "decision", "Andrew", "briefly", "Victoria", "Democratic", "born", "politician", ",", "Fraser", "Q.C.", "former", ".", "Dean", "Charter", "Canada", "Columbia", "University", "extensively", "served", "effect", "-RRB-", "General", "powers", "Attorney" ],
+  "adjectives" : [ "Canadian", "provincial", "former" ],
+  "nouns" : [ "making", "law", "government", "role", "decision", "school", "briefly", "politician", "effect" ],
+  "text" : "Andrew J. Petter ,Q.C., (born 1953) is President and Vice-Chancellor of Simon Fraser University in British Columbia, Canada and a former provincial politician. He was the Dean of the University of Victoria law school, and served briefly as Attorney General of British Columbia under the New Democratic Party government of Ujjal Dosanjh. Petter has written extensively about the role of the Canadian Charter of Rights and Freedoms and its effect on government powers and decision making."
+} ]

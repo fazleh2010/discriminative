@@ -1,0 +1,56 @@
+[ {
+  "entityIndex" : "1_entity5872",
+  "entityUrl" : "http://dbpedia.org/resource/James_Farmer_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Richard_Bollard" ]
+  },
+  "words" : [ "New", "-LRB-", "defeated", "29", "Council", "1874", "Raglan", "1871", "1870", "represented", "retired", "electorate", "July", "95", "1859", "Member", "19th-century", "resigned", "--", "Onehunga", "James", ",", "Waikato", ".", "appointed", "Zealand", "3", "1860", "served", "-RRB-", "Region", "Legislative", "Marsden", "Farmer", "Parliament", "1823", "1867" ],
+  "adjectives" : [ "Legislative", "19th-century" ],
+  "nouns" : [ "Onehunga", "electorate", "Council" ],
+  "text" : "James Farmer (1823–95) was a 19th-century Member of Parliament in the Waikato Region, New Zealand. He represented the Marsden electorate from 1859 to 1860 (when he was defeated for Onehunga), and then the Raglan electorate from 1867 to 1870, when he retired. He was appointed to the Legislative Council on 3 July 1871, and served until he resigned on 29 July 1874."
+}, {
+  "entityIndex" : "2_entity11856",
+  "entityUrl" : "http://dbpedia.org/resource/William_Barron_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Arthur_Morrison_(politician)" ]
+  },
+  "words" : [ "June", "New", "St", "-LRB-", "Freemasons", "Scotland", "miner", "engaging", "arrived", "Barron", "1851", "1916", "1837", "Member", "Lodge", "19th-century", "--", "business", "16", "Andrews", "spent", "merchant", "Otago", "William", ",", "Dunedin", ".", "Master", "Grand", "Zealand", "goldfields", "Born", "served", "-RRB-", "time", "Parliament", "first" ],
+  "adjectives" : [ "19th-century" ],
+  "nouns" : [ "business", "merchant", "time", "miner" ],
+  "text" : "William Barron (1837 – 16 June 1916) was a 19th-century Member of Parliament from Dunedin, New Zealand. Born in St Andrews, Scotland in 1837, Barron arrived in New Zealand in 1851. He first spent time as a miner and merchant on the Otago goldfields before engaging in business in Dunedin. He served as Grand Master of the New Zealand Lodge of Freemasons. He represented the Caversham electorate from 1879 to 1890, when he retired."
+}, {
+  "entityIndex" : "3_entity12039",
+  "entityUrl" : "http://dbpedia.org/resource/William_Battie-Wrightson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Charles_Evelyn_Pierrepont,_Viscount_Newark", "http://dbpedia.org/resource/Arthur_Duncombe_(1806–1889)" ]
+  },
+  "words" : [ "-LRB-", "Trinity", "trained", "called", "father", "Inn", "elder", "Cambridge", "October", "bar", "son", "Aylesbury", "near", "Lincoln", "1815", "February", "1879", "10", "1812", "--", "British", "MP", "law", "Wrightson", "Whig", "politician", "estate", "Cusworth", "William", ",", "'s", ".", "1789", "educated", "Doncaster", "6", "-RRB-", "College", "Hall", "1827", "Battie-Wrightson", "landowner", "succeeded" ],
+  "adjectives" : [ "British", "Whig" ],
+  "nouns" : [ "bar", "son", "MP", "law", "politician", "father", "estate", "landowner" ],
+  "text" : "William Battie-Wrightson (6 October 1789 – 10 February 1879) was a British landowner and Whig politician. He was the elder son of William Wrightson of Cusworth Hall, near Doncaster, MP for Aylesbury. Battie-Wrightson was educated at Trinity College, Cambridge (1812) and trained for the law at Lincoln's Inn, being called to the bar in 1815. He succeeded his father to the Cusworth estate in 1827. He was elected MP for East Retford in 1826 and then sat for Hull from 1830 to 1832 and for Northallerton from 1835 to 1865. He married Georgiana, the daughter of Inigo Freeman Thomas of Ratton Park, Sussex."
+}, {
+  "entityIndex" : "4_entity972",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Debus",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Gerry_Peacocke" ]
+  },
+  "words" : [ "``", "New", "Attorney-General", "held", "Wales", "John", "governments", "retirement", "Arts", "Bob", "Robert", "represented", "state", "Assembly", "Minister", "minister", "16", "House", ",", "former", ".", "1943", "NSW", "1981", "served", "-RRB-", "Environment", ";", "Parliament", "1988", "-LRB-", "September", "2010", "Representatives", "Labor", "Mountains", "Debus", "2007", "Party", "1995", "member", "electorate", "''", "election", "Blue", "born", "politician", "South", "representing", "portfolios", "Australian", "Legislative" ],
+  "adjectives" : [ "New", "Blue", "Australian", "Legislative", "former" ],
+  "nouns" : [ "election", "minister", "politician", "member", "Environment", "state", "electorate", "retirement", "Assembly" ],
+  "text" : "Robert John \"Bob\" Debus AM (born 16 September 1943), a former Australian politician, has been a member of the Australian House of Representatives and the New South Wales Legislative Assembly, representing the Australian Labor Party. Debus has been a minister in both the Australian and New South Wales governments. He served in the NSW Parliament from 1981 to 1988 and again from 1995 to 2007; and in the Australian Parliament from 2007 to 2010. Before his retirement from the NSW Parliament, at the 2007 state election, he held the portfolios of Attorney-General, Minister for the Environment, and Minister for the Arts; and represented the Blue Mountains electorate. Prior to his retirement from the Australian Parliament, at the 2010 federal election, he was Minister for Home Affairs in the Rudd Ministry; and served as Member for Macquarie. Debus is a prominent member of Labor's Socialist Left faction. On 6 June 2009, Bob Debus announced his resignation from the ministry and his retirement. He did not contest the 2010 federal election."
+}, {
+  "entityIndex" : "5_entity2442",
+  "entityUrl" : "http://dbpedia.org/resource/David_Arblaster",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:next" : [ "http://dbpedia.org/resource/Neville_Wran" ]
+  },
+  "words" : [ "New", "-LRB-", "Eric", "Wales", "retirement", "Tourism", "1976", "Sport", "2006", "1972", "Arblaster", "lost", "Minister", "Culture", "Assembly", "November", "10", "--", "election", "16", "Liberal", "politician", "South", ",", ".", "Amos", "August", "elected", "Electoral", "Willis", "1984", "Recreation", "district", "served", "David", "1929", "-RRB-", "Legislative", "cabinet", "Sir", "party", "Mosman" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "election", "politician", "district", "retirement", "cabinet", "party", "Assembly" ],
+  "text" : "David Amos Arblaster, (16 November 1929 – 10 August 2006) was a New South Wales politician, Minister for Culture, Sport and Recreation and Minister for Tourism in the cabinet of Sir Eric Willis until the Liberal party lost the 1976 election. Arblaster was elected to the New South Wales Legislative Assembly for the Electoral district of Mosman in 1972 and served until his retirement in 1984."
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity1113",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_O'Higgins",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:text" : [ "Nor quenched her hearths, nor razed her homes, nor laid her altars low,", "'Till every blade of Irish grass was wet with blood and tears.", "Nor Russia, France nor Austria, they forged for her no chain.", "Nor sent her sons across the hills amid the winter's snow.", "Oh, who is Ireland's enemy? Not Germany nor Spain,", "Who struck Red Hugh O'Donnell down? Who filled our land with woe?", "Who murdered kingly Shane O'Neill? Who poisoned Owen Roe?", "By night and day a thousand times, in twice four hundred years," ]
+  },
+  "words" : [ "Easter", "-LRB-", "part", "GPO", "March", "organisation", "notable", "Rising", "hUigínn", "founding", "Sinn", "President", "1931", "Ó", "poem", "known", "Ireland", "Enemy", "member", "poet", "1916", "July", "10", "1933", "O'Higgins", "--", "took", "rebellion", "politician", "wrote", "also", "Banban", "Féin", ",", "'s", ".", "Irish", "Brian", "1", "1963", "na", "1882", "-RRB-", ":", ";", "present", "anti-recruitment", "?" ],
+  "adjectives" : [ "notable", "present", "anti-recruitment", "Irish" ],
+  "nouns" : [ "rebellion", "poem", "politician", "part", "Enemy", "member", "organisation", "poet", "hUigínn" ],
+  "text" : "Brian O'Higgins (Irish: Brian Ó hUigínn; 1 July 1882 – 10 March 1963), also known as Brian na Banban, was an Irish poet, Sinn Féin politician and a founding member of the organisation. He was President of Sinn Féin from 1931 to 1933. He took part in the 1916 Easter Rising and was present in the GPO during the rebellion. O'Higgins wrote the notable anti-recruitment poem Who Is Ireland's Enemy? -- he was elected unopposed as a Sinn Féin MP for Clare West at the 1918 general election. In January 1919, Sinn Féin MPs who had been elected in the Westminster elections of 1918 refused to recognise the Parliament of the United Kingdom and instead assembled in Dublin as a revolutionary parliament called Dáil Éireann. Higgins was re-elected as an anti-Treaty Sinn Féin Teachta Dála (TD) at the 1921, 1922 and 1923 elections. He opposed the Anglo-Irish Treaty and voted against it. He lost his seat at the June 1927 general election."
+}, {
+  "entityIndex" : "2_entity2442",
+  "entityUrl" : "http://dbpedia.org/resource/David_Arblaster",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:text" : [ "\"David Arblaster was a person who made this place richer for his presence. He added not only colour but intelligence and character...he brought vision to his constituency, to the Parliament, and to the people of New South Wales. He was a great credit to New South Wales, and his contribution will be marked for the future.\"" ]
+  },
+  "words" : [ "New", "-LRB-", "Eric", "Wales", "retirement", "Tourism", "1976", "Sport", "2006", "1972", "Arblaster", "lost", "Minister", "Culture", "Assembly", "November", "10", "--", "election", "16", "Liberal", "politician", "South", ",", ".", "Amos", "August", "elected", "Electoral", "Willis", "1984", "Recreation", "district", "served", "David", "1929", "-RRB-", "Legislative", "cabinet", "Sir", "party", "Mosman" ],
+  "adjectives" : [ "Liberal", "Legislative" ],
+  "nouns" : [ "election", "politician", "district", "retirement", "cabinet", "party", "Assembly" ],
+  "text" : "David Amos Arblaster, (16 November 1929 – 10 August 2006) was a New South Wales politician, Minister for Culture, Sport and Recreation and Minister for Tourism in the cabinet of Sir Eric Willis until the Liberal party lost the 1976 election. Arblaster was elected to the New South Wales Legislative Assembly for the Electoral district of Mosman in 1972 and served until his retirement in 1984."
+} ]

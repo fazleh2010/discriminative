@@ -1,3 +1,0 @@
-id=17  property=dbo:orderInOffice  object=Member of the Legislative Assembly of Alberta  NumberOfEntitiesFoundForObject=289
-caucus-NN  multiply=0.54343  P(caucus|object)=0.788927  P(object|caucus)=0.688822    
-

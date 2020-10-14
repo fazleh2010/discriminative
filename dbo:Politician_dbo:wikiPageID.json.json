@@ -1,0 +1,5611 @@
+[ {
+  "entityIndex" : "1_entity6592",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Foley_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51506573" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "2_entity6683",
+  "entityUrl" : "http://dbpedia.org/resource/Kouzou_Sasaki",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51015333" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "3_entity6789",
+  "entityUrl" : "http://dbpedia.org/resource/K._V._Kandaswamy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "24113230" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "4_entity6823",
+  "entityUrl" : "http://dbpedia.org/resource/Kam_Salem",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50922925" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "5_entity6825",
+  "entityUrl" : "http://dbpedia.org/resource/Kamaruddin_Jaafar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50181928" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "6_entity6837",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Reed",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47709114" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "7_entity6920",
+  "entityUrl" : "http://dbpedia.org/resource/K.M._Shaji",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51927059" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "8_entity8270",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Boles",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47832735" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "9_entity8313",
+  "entityUrl" : "http://dbpedia.org/resource/Nikos_Papadopoulos",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48190568" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "10_entity8316",
+  "entityUrl" : "http://dbpedia.org/resource/Nikolay_Gikalo",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47037066" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "11_entity8319",
+  "entityUrl" : "http://dbpedia.org/resource/Norman_R._Stone,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51509219" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "12_entity8406",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolae_Enciu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "27049677" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "13_entity8441",
+  "entityUrl" : "http://dbpedia.org/resource/Noel_Stirling_Austin_Arnold_Wallinger",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46855930" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "14_entity4825",
+  "entityUrl" : "http://dbpedia.org/resource/Jordi_Pujol_i_Soley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51615297" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "15_entity4826",
+  "entityUrl" : "http://dbpedia.org/resource/Josep_Irla_i_Bosch",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51628889" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "16_entity4827",
+  "entityUrl" : "http://dbpedia.org/resource/Josep_Tarradellas_i_Joan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51608047" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "17_entity4830",
+  "entityUrl" : "http://dbpedia.org/resource/John_Morley,_1st_Viscount_Morley_of_Blackburn",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49803736" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "18_entity4855",
+  "entityUrl" : "http://dbpedia.org/resource/Joel_Barnett,_Baron_Barnett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48996225" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "19_entity4872",
+  "entityUrl" : "http://dbpedia.org/resource/Jacob_S._Coxey,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50961840" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "20_entity4875",
+  "entityUrl" : "http://dbpedia.org/resource/John_Kenneth_McKinnon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47082085" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "21_entity4885",
+  "entityUrl" : "http://dbpedia.org/resource/Joan_Clos_i_Matheu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51647512" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "22_entity4888",
+  "entityUrl" : "http://dbpedia.org/resource/James_Allan_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48622870" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "23_entity4889",
+  "entityUrl" : "http://dbpedia.org/resource/Joan_Saura_i_Laporta",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51647401" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "24_entity4893",
+  "entityUrl" : "http://dbpedia.org/resource/Joaquim_Nadal_i_Farreras",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51646730" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "25_entity4900",
+  "entityUrl" : "http://dbpedia.org/resource/Joan_Carretero_i_Grau",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51801235" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "26_entity4942",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_Harrell,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51971915" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "27_entity4962",
+  "entityUrl" : "http://dbpedia.org/resource/John_Brice,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50681437" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "28_entity4965",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_Webb_(Canada)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49209656" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "29_entity4976",
+  "entityUrl" : "http://dbpedia.org/resource/James_T._Smith,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51295114" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "30_entity4978",
+  "entityUrl" : "http://dbpedia.org/resource/John_Burns_Hynd",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47381980" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "31_entity4991",
+  "entityUrl" : "http://dbpedia.org/resource/John_C._Bartlett,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50643409" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "32_entity5002",
+  "entityUrl" : "http://dbpedia.org/resource/Joan_Rigol_i_Roig",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51646568" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "33_entity5008",
+  "entityUrl" : "http://dbpedia.org/resource/Josep_Huguet_i_Biosca",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51647621" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "34_entity5019",
+  "entityUrl" : "http://dbpedia.org/resource/Joe_Byrd_(Cherokee_chief)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50875305" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "35_entity5044",
+  "entityUrl" : "http://dbpedia.org/resource/Jin_Yi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49676583" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "36_entity5046",
+  "entityUrl" : "http://dbpedia.org/resource/John_Lee_(British_Labour_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46942832" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "37_entity5059",
+  "entityUrl" : "http://dbpedia.org/resource/James_Stronge_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48717948" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "38_entity5062",
+  "entityUrl" : "http://dbpedia.org/resource/James_N._Mathias,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51563296" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "39_entity5073",
+  "entityUrl" : "http://dbpedia.org/resource/James_Craigen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50453841" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "40_entity5090",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Mallalieu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48690404" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "41_entity5095",
+  "entityUrl" : "http://dbpedia.org/resource/John_Lewis_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46891809" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "42_entity5097",
+  "entityUrl" : "http://dbpedia.org/resource/John_Ellis_(MP_born_1930)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46942776" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "43_entity5098",
+  "entityUrl" : "http://dbpedia.org/resource/John_Parkinson_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943128" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "44_entity5108",
+  "entityUrl" : "http://dbpedia.org/resource/John_Reginald_Rhodes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50725513" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "45_entity5110",
+  "entityUrl" : "http://dbpedia.org/resource/John_Thomas_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46891847" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "46_entity5113",
+  "entityUrl" : "http://dbpedia.org/resource/Jeffrey_Klein",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46722698" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "47_entity5118",
+  "entityUrl" : "http://dbpedia.org/resource/Jordi_Hereu_i_Boher",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51647692" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "48_entity5125",
+  "entityUrl" : "http://dbpedia.org/resource/Judy_Martin_(Jersey_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51506479" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "49_entity5126",
+  "entityUrl" : "http://dbpedia.org/resource/John_Ferris_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50725300" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "50_entity5131",
+  "entityUrl" : "http://dbpedia.org/resource/John_Henry_Jones",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47420267" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "51_entity5133",
+  "entityUrl" : "http://dbpedia.org/resource/John_Henry_Williams_(Welsh_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47560054" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "52_entity5134",
+  "entityUrl" : "http://dbpedia.org/resource/James_Hindle_Hudson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47515735" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "53_entity5178",
+  "entityUrl" : "http://dbpedia.org/resource/John_Mack_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46891812" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "54_entity5204",
+  "entityUrl" : "http://dbpedia.org/resource/James_Walker_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943179" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "55_entity5205",
+  "entityUrl" : "http://dbpedia.org/resource/John_Joseph_Tinker",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47559970" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "56_entity5207",
+  "entityUrl" : "http://dbpedia.org/resource/Joe_Baca,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50676856" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "57_entity5216",
+  "entityUrl" : "http://dbpedia.org/resource/John_Carnegie_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46605908" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "58_entity5257",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_F._Vallario,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50778974" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "59_entity5275",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Sullivan_(MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943499" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "60_entity5280",
+  "entityUrl" : "http://dbpedia.org/resource/James_Wilson_(UK_Labour_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943507" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "61_entity5293",
+  "entityUrl" : "http://dbpedia.org/resource/James_A._Johnson_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51478150" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "62_entity5294",
+  "entityUrl" : "http://dbpedia.org/resource/James_E._Proctor,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50778997" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "63_entity5306",
+  "entityUrl" : "http://dbpedia.org/resource/John_Baker_(Portsmouth_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46952227" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "64_entity5308",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Hunter_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943418" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "65_entity5314",
+  "entityUrl" : "http://dbpedia.org/resource/James_E._DeGrange,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50945975" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "66_entity5378",
+  "entityUrl" : "http://dbpedia.org/resource/John_Fullerton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46725441" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "67_entity5388",
+  "entityUrl" : "http://dbpedia.org/resource/John_Darley_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46665321" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "68_entity5417",
+  "entityUrl" : "http://dbpedia.org/resource/John_Williams_(Australian_Senator)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51248367" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "69_entity5480",
+  "entityUrl" : "http://dbpedia.org/resource/Jerry_Doyle_(Alberta_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50668195" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "70_entity5487",
+  "entityUrl" : "http://dbpedia.org/resource/Jack_Roberts_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48626155" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "71_entity5488",
+  "entityUrl" : "http://dbpedia.org/resource/Jack_Byrne",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51377154" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "72_entity5501",
+  "entityUrl" : "http://dbpedia.org/resource/John_Timoney_(Irish_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51472066" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "73_entity5507",
+  "entityUrl" : "http://dbpedia.org/resource/Jayaprakash_Narayan_(Lok_Satta)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47918798" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "74_entity5525",
+  "entityUrl" : "http://dbpedia.org/resource/John_Sinclair_(MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47595065" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "75_entity5541",
+  "entityUrl" : "http://dbpedia.org/resource/Jason_Lee_(Oregon_judge)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47147563" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "76_entity5578",
+  "entityUrl" : "http://dbpedia.org/resource/Jugah_anak_Barieng",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50229973" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "77_entity5595",
+  "entityUrl" : "http://dbpedia.org/resource/Jack_Hawkins_(Nova_Scotia_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48255663" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "78_entity5600",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_Dickson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49211102" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "79_entity5642",
+  "entityUrl" : "http://dbpedia.org/resource/John_Joseph_O'Neill_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46951872" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "80_entity5647",
+  "entityUrl" : "http://dbpedia.org/resource/John_Swan_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46952012" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "81_entity5683",
+  "entityUrl" : "http://dbpedia.org/resource/Johannes_Henricus_van_Maarseveen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48014111" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "82_entity5684",
+  "entityUrl" : "http://dbpedia.org/resource/Jan_Willem_de_Pous",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48825134" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "83_entity5744",
+  "entityUrl" : "http://dbpedia.org/resource/Jean-Louis_Roumegas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "25159741" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "84_entity5763",
+  "entityUrl" : "http://dbpedia.org/resource/James_Caldwell_(Scottish_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51547180" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "85_entity5781",
+  "entityUrl" : "http://dbpedia.org/resource/John_Hall_(British_Labour_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46942788" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "86_entity5796",
+  "entityUrl" : "http://dbpedia.org/resource/John_Fernandez_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46722474" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "87_entity5836",
+  "entityUrl" : "http://dbpedia.org/resource/Jonathan_Edwards_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50032721" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "88_entity5868",
+  "entityUrl" : "http://dbpedia.org/resource/James_Green_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45698838" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "89_entity5925",
+  "entityUrl" : "http://dbpedia.org/resource/James_Wallis_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49209510" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "90_entity5939",
+  "entityUrl" : "http://dbpedia.org/resource/John_Ah_Kit",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48114242" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "91_entity5952",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Ganim",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46552895" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "92_entity5960",
+  "entityUrl" : "http://dbpedia.org/resource/John_R._Johnston",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "29903563" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "93_entity5979",
+  "entityUrl" : "http://dbpedia.org/resource/John_Hickman_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45516565" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "94_entity5991",
+  "entityUrl" : "http://dbpedia.org/resource/John_Flowers",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "32742529" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "95_entity6104",
+  "entityUrl" : "http://dbpedia.org/resource/John_Miller_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50782723" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "96_entity6113",
+  "entityUrl" : "http://dbpedia.org/resource/John_Hawthorne_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46796707" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "97_entity6121",
+  "entityUrl" : "http://dbpedia.org/resource/James_Ashton_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48623030" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "98_entity6147",
+  "entityUrl" : "http://dbpedia.org/resource/John_M._Smith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "34019038" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "99_entity6166",
+  "entityUrl" : "http://dbpedia.org/resource/John_Gower_(Wisconsin_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46788826" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "100_entity6187",
+  "entityUrl" : "http://dbpedia.org/resource/Julia_Nannie_Wallace",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47019190" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "101_entity6188",
+  "entityUrl" : "http://dbpedia.org/resource/John_Wolfe,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50509058" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "102_entity6335",
+  "entityUrl" : "http://dbpedia.org/resource/John_Humphries_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48986955" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "103_entity6346",
+  "entityUrl" : "http://dbpedia.org/resource/John_P._Ferris",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50725320" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "104_entity6378",
+  "entityUrl" : "http://dbpedia.org/resource/Jack_Pope_(Texas_jurist)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48625812" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "105_entity6384",
+  "entityUrl" : "http://dbpedia.org/resource/Joshua_Ferris_(Connecticut_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48650493" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "106_entity6413",
+  "entityUrl" : "http://dbpedia.org/resource/James_Newton_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47090276" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "107_entity6423",
+  "entityUrl" : "http://dbpedia.org/resource/John_Robert_Sinclair",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48844144" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "108_entity6489",
+  "entityUrl" : "http://dbpedia.org/resource/Joe_Jennings_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "42512609" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "109_entity6497",
+  "entityUrl" : "http://dbpedia.org/resource/John_William_Olson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46793244" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "110_entity6540",
+  "entityUrl" : "http://dbpedia.org/resource/Jeff_Carr",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50521186" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "111_entity12168",
+  "entityUrl" : "http://dbpedia.org/resource/Zainuddin_bin_Maidin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50222756" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "112_entity2763",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Benach_i_Pascual",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51645728" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "113_entity2775",
+  "entityUrl" : "http://dbpedia.org/resource/Emilio_Castelar_y_Ripoll",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50541136" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "114_entity2781",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Leys",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49176728" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "115_entity2796",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Stewart",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48803867" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "116_entity2810",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Graham,_Baron_Graham_of_Edmonton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46923385" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "117_entity2868",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Williams_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943187" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "118_entity2890",
+  "entityUrl" : "http://dbpedia.org/resource/Edwin_Tchorzewski",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47647213" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "119_entity3012",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_James_Lee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47213950" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "120_entity3117",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Ross_Hall",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45350395" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "121_entity3166",
+  "entityUrl" : "http://dbpedia.org/resource/Eyyub_Hanbudagov",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45648796" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "122_entity11481",
+  "entityUrl" : "http://dbpedia.org/resource/William_Clark_(explorer)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46254471" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "123_entity11482",
+  "entityUrl" : "http://dbpedia.org/resource/William_M._Bulger",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50689014" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "124_entity11486",
+  "entityUrl" : "http://dbpedia.org/resource/William_C._Owens,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50660367" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "125_entity11493",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_G._Church,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50946000" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "126_entity11500",
+  "entityUrl" : "http://dbpedia.org/resource/William_Henry_Haywood,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50707903" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "127_entity11510",
+  "entityUrl" : "http://dbpedia.org/resource/William_Preston_Lane,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50496748" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "128_entity11516",
+  "entityUrl" : "http://dbpedia.org/resource/William_Wentworth_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45682825" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "129_entity11517",
+  "entityUrl" : "http://dbpedia.org/resource/William_Oldfield_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46891833" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "130_entity11536",
+  "entityUrl" : "http://dbpedia.org/resource/Wolf-Heinrich_Graf_von_Helldorf",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48962862" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "131_entity11557",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Burnett,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50783891" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "132_entity11558",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Harrison",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47038886" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "133_entity11560",
+  "entityUrl" : "http://dbpedia.org/resource/William_Price_(Rugby_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46942848" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "134_entity11563",
+  "entityUrl" : "http://dbpedia.org/resource/William_Foster_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46891799" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "135_entity11567",
+  "entityUrl" : "http://dbpedia.org/resource/William_Irving_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46891806" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "136_entity11575",
+  "entityUrl" : "http://dbpedia.org/resource/William_Robinson_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46942913" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "137_entity11597",
+  "entityUrl" : "http://dbpedia.org/resource/William_Hughes,_Baron_Hughes_of_Hawkhill",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48061101" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "138_entity11599",
+  "entityUrl" : "http://dbpedia.org/resource/William_Carter_(Mansfield_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943450" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "139_entity11603",
+  "entityUrl" : "http://dbpedia.org/resource/William_Stewart_(Houghton-le-Spring)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943172" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "140_entity11704",
+  "entityUrl" : "http://dbpedia.org/resource/William_Lawrence_(Liverpool_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51547143" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "141_entity11710",
+  "entityUrl" : "http://dbpedia.org/resource/William_Rupert_Hay",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48552169" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "142_entity11714",
+  "entityUrl" : "http://dbpedia.org/resource/William_Gould_Newman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50725132" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "143_entity11716",
+  "entityUrl" : "http://dbpedia.org/resource/William_Sanders_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943145" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "144_entity11743",
+  "entityUrl" : "http://dbpedia.org/resource/William_Quilter",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48784180" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "145_entity11762",
+  "entityUrl" : "http://dbpedia.org/resource/William_Fraser_(New_Zealand_politician_born_1840)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51404674" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "146_entity11764",
+  "entityUrl" : "http://dbpedia.org/resource/William_Sutherland_(N.W.T._politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51717983" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "147_entity11765",
+  "entityUrl" : "http://dbpedia.org/resource/William_B._Clagett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "23922272" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "148_entity11793",
+  "entityUrl" : "http://dbpedia.org/resource/William_Young_(MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46952024" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "149_entity11805",
+  "entityUrl" : "http://dbpedia.org/resource/William_Howe_Windham",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50076543" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "150_entity11978",
+  "entityUrl" : "http://dbpedia.org/resource/Wiremu_Tako_Ngatata",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50351582" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "151_entity12032",
+  "entityUrl" : "http://dbpedia.org/resource/William_H._McNichols,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50494450" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "152_entity12044",
+  "entityUrl" : "http://dbpedia.org/resource/William_Sandercock",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47094872" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "153_entity12074",
+  "entityUrl" : "http://dbpedia.org/resource/William_McIntyre_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47795529" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "154_entity12075",
+  "entityUrl" : "http://dbpedia.org/resource/William_Perry_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51187497" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "155_entity11389",
+  "entityUrl" : "http://dbpedia.org/resource/Vijay_Wadettiwar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47196586" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "156_entity11394",
+  "entityUrl" : "http://dbpedia.org/resource/Vasile_Stroiescu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51005525" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "157_entity11400",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Juc",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "27056742" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "158_entity11428",
+  "entityUrl" : "http://dbpedia.org/resource/Vijila_Sathyanand",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48183985" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "159_entity11437",
+  "entityUrl" : "http://dbpedia.org/resource/Van_Hipp,_Jr",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "35072528" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "160_entity11447",
+  "entityUrl" : "http://dbpedia.org/resource/V.D._Satheesan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48643057" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "161_entity11450",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_J._Graber,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45596516" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "162_entity11480",
+  "entityUrl" : "http://dbpedia.org/resource/Vassilis_Ephremidis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50581718" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "163_entity7004",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_M._Pate,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51509209" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "164_entity7019",
+  "entityUrl" : "http://dbpedia.org/resource/Lloyd_Lowndes,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50965746" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "165_entity7029",
+  "entityUrl" : "http://dbpedia.org/resource/Louis,_duc_de_Decazes",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "1708306" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "166_entity7062",
+  "entityUrl" : "http://dbpedia.org/resource/Laurence_Pavitt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51956336" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "167_entity7117",
+  "entityUrl" : "http://dbpedia.org/resource/Levi_Scott_(pioneer)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45439726" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "168_entity7193",
+  "entityUrl" : "http://dbpedia.org/resource/Liesbeth_Tuijnman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "23690087" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "169_entity7217",
+  "entityUrl" : "http://dbpedia.org/resource/Lilah_Yassin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50209923" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "170_entity7231",
+  "entityUrl" : "http://dbpedia.org/resource/Ludmila_Tihonov",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "27054618" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "171_entity7232",
+  "entityUrl" : "http://dbpedia.org/resource/Lilia_Crudu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "27056661" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "172_entity7246",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Da",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47770286" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "173_entity7283",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Shoobridge,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50999134" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "174_entity7358",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Shoobridge,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50999160" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "175_entity7399",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Xin_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46544987" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "176_entity1404",
+  "entityUrl" : "http://dbpedia.org/resource/Carter_Harrison,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50496880" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "177_entity1455",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_A._Pascal,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51971789" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "178_entity1497",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Gibson_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46891784" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "179_entity1534",
+  "entityUrl" : "http://dbpedia.org/resource/Cecil_Charles_Poole",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47515881" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "180_entity1557",
+  "entityUrl" : "http://dbpedia.org/resource/Carol_Martin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46591152" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "181_entity1585",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_N._Anderson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51283384" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "182_entity1587",
+  "entityUrl" : "http://dbpedia.org/resource/Chaney_family",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "13455077" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "183_entity1597",
+  "entityUrl" : "http://dbpedia.org/resource/Christopher_Reynolds",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "28357614" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "184_entity1605",
+  "entityUrl" : "http://dbpedia.org/resource/Colin_Cameron_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47298380" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "185_entity1606",
+  "entityUrl" : "http://dbpedia.org/resource/Chaudhry_Muhammad_Barjees_Tahir",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48773247" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "186_entity1668",
+  "entityUrl" : "http://dbpedia.org/resource/Chuck_Chestnut",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45336563" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "187_entity1682",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Gardner_(Minnesota_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47605513" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "188_entity1689",
+  "entityUrl" : "http://dbpedia.org/resource/Carl_Jensen_(Minnesota_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47605021" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "189_entity1696",
+  "entityUrl" : "http://dbpedia.org/resource/Cyrus_Vance,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50494958" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "190_entity1697",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Carnegie_(MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50636469" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "191_entity1797",
+  "entityUrl" : "http://dbpedia.org/resource/Clayton_Lyons",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49126602" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "192_entity1887",
+  "entityUrl" : "http://dbpedia.org/resource/Constance_Alice_Birchfield",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46583767" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "193_entity1918",
+  "entityUrl" : "http://dbpedia.org/resource/Colin_Maxwell_(Saskatchewan_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47666647" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "194_entity1953",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Robinson_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47665067" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "195_entity1972",
+  "entityUrl" : "http://dbpedia.org/resource/Clinton_Mead",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "40501975" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "196_entity1979",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Davies_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47605310" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "197_entity2001",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Ball_(California_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47605077" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "198_entity2040",
+  "entityUrl" : "http://dbpedia.org/resource/Chris_Bollwage",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51667753" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "199_entity2042",
+  "entityUrl" : "http://dbpedia.org/resource/Carmen_Melendez_Teresa_Rivas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48983853" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "200_entity926",
+  "entityUrl" : "http://dbpedia.org/resource/Bobby_H._Barbee,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50946256" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "201_entity969",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Tasker,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50681421" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "202_entity1035",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Perry",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48930976" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "203_entity1036",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Smith_(British_Labour_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943044" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "204_entity1039",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_L._Gardiner",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51209699" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "205_entity1157",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Young_(Nova_Scotia_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47604875" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "206_entity1161",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Flynn_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47599003" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "207_entity1199",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Elliott_(Alberta_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47604357" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "208_entity1256",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Riley_(MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943136" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "209_entity1277",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Hill_(Jersey_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47604440" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "210_entity1287",
+  "entityUrl" : "http://dbpedia.org/resource/Bruce_McLeod_(New_Zealand)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46978114" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "211_entity1367",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Drummond_Clarkson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47538829" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "212_entity1373",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Gregory_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47604367" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "213_entity1388",
+  "entityUrl" : "http://dbpedia.org/resource/Bruce_Holland_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46977759" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "214_entity10728",
+  "entityUrl" : "http://dbpedia.org/resource/Theodore_Roosevelt,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50697469" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "215_entity10738",
+  "entityUrl" : "http://dbpedia.org/resource/Todd_A._Batchelor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "1064871" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "216_entity10756",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Brash_Morison",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49069392" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "217_entity10786",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Henry_Swain",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47326889" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "218_entity10793",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Metcalfe_(Chancellor_of_the_Duchy_of_Lancaster)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48719733" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "219_entity10829",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Henderson_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46442188" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "220_entity10831",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Smith_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46891842" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "221_entity10835",
+  "entityUrl" : "http://dbpedia.org/resource/Tchetin_Kazak",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50153490" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "222_entity10844",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Watson_(Ilkeston_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48044128" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "223_entity10853",
+  "entityUrl" : "http://dbpedia.org/resource/Timothy_J._Toomey,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50785419" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "224_entity10863",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Taylor_(Bolton_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46952164" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "225_entity10883",
+  "entityUrl" : "http://dbpedia.org/resource/Taizo_Mikazuki",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47370280" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "226_entity10968",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Shaw_(MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47577994" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "227_entity10970",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Richardson_(Liberal_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46425972" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "228_entity10983",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Sexton_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943153" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "229_entity10985",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Richardson_(Labour_Party_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46952145" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "230_entity11183",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Sanderson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48273516" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "231_entity11221",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Robert_Bethell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45426386" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "232_entity11223",
+  "entityUrl" : "http://dbpedia.org/resource/Terence_McRae",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46787807" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "233_entity11292",
+  "entityUrl" : "http://dbpedia.org/resource/T.B._Jayachandra",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51077691" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "234_entity9069",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Maclennan,_Baron_Maclennan_of_Rogart",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47778438" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "235_entity9085",
+  "entityUrl" : "http://dbpedia.org/resource/R._B._Sloan,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50707934" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "236_entity9092",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Evans_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48032517" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "237_entity9094",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_F._Wagner,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50511795" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "238_entity9096",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Burton_(statesman)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "52024286" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "239_entity9106",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Crawshaw",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51548578" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "240_entity9173",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Scobie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47090382" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "241_entity9182",
+  "entityUrl" : "http://dbpedia.org/resource/Renee_Short",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46923404" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "242_entity9183",
+  "entityUrl" : "http://dbpedia.org/resource/Ronald_Brown_(English_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50522213" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "243_entity9192",
+  "entityUrl" : "http://dbpedia.org/resource/Ronald_Williams_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46891856" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "244_entity9226",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Young_(London_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46943516" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "245_entity9233",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_MacGregor_Mitchell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48992570" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "246_entity9234",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Richards_(Welsh_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47559620" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "247_entity9245",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Cameron_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46952044" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "248_entity9264",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_E._Cooper,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51049606" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "249_entity9272",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Byrne_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47473664" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "250_entity9293",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Duncan_Wilmot,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50569198" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "251_entity9311",
+  "entityUrl" : "http://dbpedia.org/resource/Rick_Johnson_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46916160" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "252_entity9331",
+  "entityUrl" : "http://dbpedia.org/resource/Roscoe_Lewis_Robson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46617723" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "253_entity9338",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Wallace_(MP_for_Perth)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46952268" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "254_entity9368",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Reilly",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "39586551" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "255_entity9370",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_William_Briginshaw",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47586539" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "256_entity9409",
+  "entityUrl" : "http://dbpedia.org/resource/R._Thomas_Wagner,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51289653" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "257_entity9421",
+  "entityUrl" : "http://dbpedia.org/resource/Radhika_Ranjan_Gupta",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "20720320" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "258_entity9436",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Schwarten",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "21400459" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "259_entity9441",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Vanasek",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48667104" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "260_entity9448",
+  "entityUrl" : "http://dbpedia.org/resource/Robin_Matthews",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "42403064" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "261_entity9463",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Morris_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46951990" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "262_entity9552",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Jackson_(Labour_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46951866" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "263_entity9610",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Cannings",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48425367" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "264_entity9647",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Schostak",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48209483" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "265_entity9733",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Reid_Parris",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48337869" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "266_entity9800",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Knight_(Ontario_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47626133" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "267_entity9826",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_McKenzie_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47800270" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "268_entity9869",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Mathiasson_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47626255" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "269_entity9878",
+  "entityUrl" : "http://dbpedia.org/resource/Reginald_Hurst",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46793249" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "270_entity9901",
+  "entityUrl" : "http://dbpedia.org/resource/Rana_Muhammad_Asif_Saeed",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48611934" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "271_entity9931",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Pyne_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45349037" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "272_entity2052",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Foster_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48152561" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "273_entity2071",
+  "entityUrl" : "http://dbpedia.org/resource/David_Alton,_Baron_Alton_of_Liverpool",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51310097" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "274_entity2075",
+  "entityUrl" : "http://dbpedia.org/resource/David_Renton,_Baron_Renton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48967340" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "275_entity2097",
+  "entityUrl" : "http://dbpedia.org/resource/Dalton_McGuinty,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50946582" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "276_entity2104",
+  "entityUrl" : "http://dbpedia.org/resource/David_M._Walker_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51997628" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "277_entity2159",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Granville_West,_Baron_Granville-West",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47429047" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "278_entity2161",
+  "entityUrl" : "http://dbpedia.org/resource/David_Wright_Young",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47317154" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "279_entity2170",
+  "entityUrl" : "http://dbpedia.org/resource/Ding_Yi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47897751" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "280_entity2188",
+  "entityUrl" : "http://dbpedia.org/resource/Dave_Wilson_(Nova_Scotia_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51624862" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "281_entity2193",
+  "entityUrl" : "http://dbpedia.org/resource/D._K._Audikesavulu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45333105" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "282_entity2215",
+  "entityUrl" : "http://dbpedia.org/resource/David_Kerr_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45431655" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "283_entity2230",
+  "entityUrl" : "http://dbpedia.org/resource/David_Johnstone_Pryde",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47428994" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "284_entity2258",
+  "entityUrl" : "http://dbpedia.org/resource/David_Thomas_Jones",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47428875" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "285_entity2268",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_J.J._Peters",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50757139" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "286_entity2295",
+  "entityUrl" : "http://dbpedia.org/resource/David_Wilson_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51624856" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "287_entity2298",
+  "entityUrl" : "http://dbpedia.org/resource/Donald_E._Williams,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50785492" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "288_entity2375",
+  "entityUrl" : "http://dbpedia.org/resource/David_Duncan_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49062148" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "289_entity2420",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Sullivan_(Alaska_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49236147" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "290_entity2479",
+  "entityUrl" : "http://dbpedia.org/resource/Douglas_Miller",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46619190" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "291_entity2485",
+  "entityUrl" : "http://dbpedia.org/resource/Donald_Cameron,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50999566" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "292_entity2562",
+  "entityUrl" : "http://dbpedia.org/resource/Donald_Cochrane",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49870935" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "293_entity2576",
+  "entityUrl" : "http://dbpedia.org/resource/Dugald_Louis_Poppelwell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50674218" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "294_entity2608",
+  "entityUrl" : "http://dbpedia.org/resource/Davit_Usupashvili",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48974673" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "295_entity2670",
+  "entityUrl" : "http://dbpedia.org/resource/Doreen_Lawrence,_Baroness_Lawrence_of_Clarendon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49189721" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "296_entity2724",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Gardner_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47671553" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "297_entity2725",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Ferguson_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48761231" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "298_entity12124",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Hong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51837094" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "299_entity12134",
+  "entityUrl" : "http://dbpedia.org/resource/Yangmasho_Shaiza",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49598654" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "300_entity12143",
+  "entityUrl" : "http://dbpedia.org/resource/Yagya_Datt_Sharma_(Indore)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48834883" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "301_entity12155",
+  "entityUrl" : "http://dbpedia.org/resource/Yuriy_Kosyuk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49694743" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "302_entity4176",
+  "entityUrl" : "http://dbpedia.org/resource/Hamilton_C._Horton,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51330091" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "303_entity4186",
+  "entityUrl" : "http://dbpedia.org/resource/Harold_Long_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46179063" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "304_entity4191",
+  "entityUrl" : "http://dbpedia.org/resource/Harold_Fisher",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "36116003" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "305_entity4199",
+  "entityUrl" : "http://dbpedia.org/resource/Herbert_Grubel",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "52006001" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "306_entity4206",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_White_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46891849" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "307_entity4232",
+  "entityUrl" : "http://dbpedia.org/resource/Helen_Smith_(New_Zealand_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49454078" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "308_entity4280",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Brown_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51606526" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "309_entity4295",
+  "entityUrl" : "http://dbpedia.org/resource/Hoyt_Patrick_Taylor,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50355537" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "310_entity4301",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Howard_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51841862" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "311_entity4417",
+  "entityUrl" : "http://dbpedia.org/resource/Hamzah_Zainuddin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50183064" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "312_entity4423",
+  "entityUrl" : "http://dbpedia.org/resource/Harold_Dean_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49960187" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "313_entity4424",
+  "entityUrl" : "http://dbpedia.org/resource/Howard_Barnett,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50784427" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "314_entity4468",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Lee_(MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51841902" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "315_entity4493",
+  "entityUrl" : "http://dbpedia.org/resource/Hendrik_Willem_Tilanus",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47222256" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "316_entity4495",
+  "entityUrl" : "http://dbpedia.org/resource/Har_Govind_Pant",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49205754" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "317_entity4523",
+  "entityUrl" : "http://dbpedia.org/resource/Harold_Collins_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49960117" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "318_entity4572",
+  "entityUrl" : "http://dbpedia.org/resource/Hirini_Rawiri_Taiwhanga",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "34489653" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "319_entity4578",
+  "entityUrl" : "http://dbpedia.org/resource/Hamiora_Mangakahia",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50614130" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "320_entity4599",
+  "entityUrl" : "http://dbpedia.org/resource/Heidi_Bedell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "35916547" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "321_entity4682",
+  "entityUrl" : "http://dbpedia.org/resource/Hong_Lei_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49163859" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "322_entity4711",
+  "entityUrl" : "http://dbpedia.org/resource/Ishrat-ul-Ibad_Khan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48275216" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "323_entity4732",
+  "entityUrl" : "http://dbpedia.org/resource/Isidre_Molas_i_Batllori",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51754407" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "324_entity4738",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_West_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51445601" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "325_entity4762",
+  "entityUrl" : "http://dbpedia.org/resource/Ion_Popa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "26710685" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "326_entity4767",
+  "entityUrl" : "http://dbpedia.org/resource/Ion_Casian",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "27056532" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "327_entity4784",
+  "entityUrl" : "http://dbpedia.org/resource/Ihaka_Te_Tai_Hakuene",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "34467406" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "328_entity4805",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Baker_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49590926" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "329_entity4814",
+  "entityUrl" : "http://dbpedia.org/resource/Ihor_Lutsenko",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47873043" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "330_entity8524",
+  "entityUrl" : "http://dbpedia.org/resource/Onora_O'Neill,_Baroness_O'Neill_of_Bengarve",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48681750" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "331_entity8538",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Smith_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51216112" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "332_entity9933",
+  "entityUrl" : "http://dbpedia.org/resource/Sanzo_Nosaka",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51015395" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "333_entity9943",
+  "entityUrl" : "http://dbpedia.org/resource/Susan_Kramer,_Baroness_Kramer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48966450" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "334_entity9979",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Ealy_Johnson,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45545412" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "335_entity10015",
+  "entityUrl" : "http://dbpedia.org/resource/Semko_Libadi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47204994" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "336_entity10023",
+  "entityUrl" : "http://dbpedia.org/resource/Stanley_Clinton_Davis,_Baron_Clinton-Davis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48323379" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "337_entity10026",
+  "entityUrl" : "http://dbpedia.org/resource/Shriprakash_Jaiswal",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50734590" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "338_entity10083",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Courtenay_Warner,_1st_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47193551" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "339_entity10092",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Albert_Spicer,_1st_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48717873" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "340_entity10102",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_James_Henderson-Stewart,_1st_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47420225" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "341_entity10112",
+  "entityUrl" : "http://dbpedia.org/resource/Sajjad_Lone",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50348814" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "342_entity10129",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Ralph_Lopes,_2nd_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48720537" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "343_entity10151",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Evan_Davies_Jones,_1st_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48720614" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "344_entity10177",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Richard_Durning_Holt,_1st_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48720841" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "345_entity10178",
+  "entityUrl" : "http://dbpedia.org/resource/Scott_Ryan_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48974406" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "346_entity10195",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Thomas_Scarisbrick,_1st_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48717780" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "347_entity10219",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Duncan_Swann,_2nd_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48717973" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "348_entity10233",
+  "entityUrl" : "http://dbpedia.org/resource/Shri_Lalduhoma",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45542941" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "349_entity10262",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Charles_Nicholson,_1st_Baronet_of_Harrington_Gardens",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48719410" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "350_entity10375",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Arthur_Crosfield,_1st_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46560636" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "351_entity10402",
+  "entityUrl" : "http://dbpedia.org/resource/Sunil_Mishra",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "26498213" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "352_entity10418",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Richard_Simeon,_2nd_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48717800" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "353_entity10452",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Harold_Reckitt,_2nd_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48719081" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "354_entity10457",
+  "entityUrl" : "http://dbpedia.org/resource/Surendra_Mishra",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "31160424" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "355_entity10470",
+  "entityUrl" : "http://dbpedia.org/resource/Sellur_K._Raju",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "31875840" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "356_entity10499",
+  "entityUrl" : "http://dbpedia.org/resource/S._Vedachalam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "32887377" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "357_entity10532",
+  "entityUrl" : "http://dbpedia.org/resource/S._Q._R._Ilyas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51211193" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "358_entity10589",
+  "entityUrl" : "http://dbpedia.org/resource/Senator_Syed_Zafar_Ali_Shah",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48486230" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "359_entity10591",
+  "entityUrl" : "http://dbpedia.org/resource/Sidney_Bernard_Handleman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50724919" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "360_entity10605",
+  "entityUrl" : "http://dbpedia.org/resource/Shakunthala_Shetty_T",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51252970" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "361_entity10618",
+  "entityUrl" : "http://dbpedia.org/resource/Satypal_Dang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50635508" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "362_entity10621",
+  "entityUrl" : "http://dbpedia.org/resource/Shi_Tianzhe",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46199691" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "363_entity10637",
+  "entityUrl" : "http://dbpedia.org/resource/Suzy_Stride",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "41660352" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "364_entity10643",
+  "entityUrl" : "http://dbpedia.org/resource/Steve_Harrison_(West_Virginia_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46809424" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "365_entity10652",
+  "entityUrl" : "http://dbpedia.org/resource/Salbiah_binti_Haji_Sulaiman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45580790" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "366_entity10664",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Richard_Ford",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51027338" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "367_entity10684",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Colman_Rashleigh,_2nd_Baronet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48719064" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "368_entity7407",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_John_Foster",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47315970" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "369_entity7408",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Jabez_Foster",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47315962" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "370_entity7423",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Cassidy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "25994876" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "371_entity7438",
+  "entityUrl" : "http://dbpedia.org/resource/Matt_Koehl",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50096884" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "372_entity7475",
+  "entityUrl" : "http://dbpedia.org/resource/Mykhailo_Hrushevskyi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48465279" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "373_entity7503",
+  "entityUrl" : "http://dbpedia.org/resource/Montserrat_Tura_i_Camafreita",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51646649" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "374_entity7515",
+  "entityUrl" : "http://dbpedia.org/resource/Matthew_Morris",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "16873042" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "375_entity7523",
+  "entityUrl" : "http://dbpedia.org/resource/Ma_Rong_(Han_dynasty)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46817567" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "376_entity7532",
+  "entityUrl" : "http://dbpedia.org/resource/Maria_Guzenina-Richardson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48451464" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "377_entity7561",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Barnes_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47121978" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "378_entity7586",
+  "entityUrl" : "http://dbpedia.org/resource/Morgan_Jones_(Welsh_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47558379" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "379_entity7621",
+  "entityUrl" : "http://dbpedia.org/resource/Marvin_E._Holmes,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50707876" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "380_entity7629",
+  "entityUrl" : "http://dbpedia.org/resource/Mabel_Rebello",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "12395189" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "381_entity7636",
+  "entityUrl" : "http://dbpedia.org/resource/Mohamad_Hassan_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50913572" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "382_entity7637",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_McLeod",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49442659" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "383_entity7738",
+  "entityUrl" : "http://dbpedia.org/resource/Muhammad_Iqbal_Khan_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45408441" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "384_entity7777",
+  "entityUrl" : "http://dbpedia.org/resource/Maninder_Singh_Bitta",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "23565072" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "385_entity7817",
+  "entityUrl" : "http://dbpedia.org/resource/M._Anandan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "24198239" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "386_entity7854",
+  "entityUrl" : "http://dbpedia.org/resource/Mohammad_Asif_(Tamil_Nadu_minister)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50405748" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "387_entity7864",
+  "entityUrl" : "http://dbpedia.org/resource/Mihail_Moldovanu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "26474757" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "388_entity7872",
+  "entityUrl" : "http://dbpedia.org/resource/Mir_Teymur_Yaqubov",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45648815" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "389_entity7881",
+  "entityUrl" : "http://dbpedia.org/resource/Michele_Rollins",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "27911943" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "390_entity7912",
+  "entityUrl" : "http://dbpedia.org/resource/Michelle_Berardinetti",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50137318" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "391_entity7955",
+  "entityUrl" : "http://dbpedia.org/resource/Matt_Kean",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51633109" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "392_entity7962",
+  "entityUrl" : "http://dbpedia.org/resource/Mike_O'Brien_(American_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46251249" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "393_entity7978",
+  "entityUrl" : "http://dbpedia.org/resource/Mitro_Makarchuk",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "32734632" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "394_entity7999",
+  "entityUrl" : "http://dbpedia.org/resource/Monica_Ell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48571012" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "395_entity8016",
+  "entityUrl" : "http://dbpedia.org/resource/Moula_Bakhsh_Chandio",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51217702" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "396_entity8027",
+  "entityUrl" : "http://dbpedia.org/resource/Markey_Wallace",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47294896" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "397_entity8062",
+  "entityUrl" : "http://dbpedia.org/resource/Mike_O'Brien_(Michigan_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "35953812" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "398_entity8079",
+  "entityUrl" : "http://dbpedia.org/resource/Mariana_Durlesteanu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46756722" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "399_entity8094",
+  "entityUrl" : "http://dbpedia.org/resource/Matthew_Ellis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47172480" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "400_entity8132",
+  "entityUrl" : "http://dbpedia.org/resource/Matthew_Marvin,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50785768" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "401_entity8150",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_O'Keefe_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50606476" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "402_entity8153",
+  "entityUrl" : "http://dbpedia.org/resource/Maurice_J._Fitzsimmons,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48125709" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "403_entity8154",
+  "entityUrl" : "http://dbpedia.org/resource/Magdalena_Andersson_(economist)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48131798" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "404_entity8183",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Duigan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48090872" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "405_entity8186",
+  "entityUrl" : "http://dbpedia.org/resource/Matthew_Marvin,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50783498" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "406_entity8202",
+  "entityUrl" : "http://dbpedia.org/resource/Muddahanumegowda_S._P.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50944786" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "407_entity3183",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Locke",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49016665" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "408_entity3189",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Dashwood,_15th_Baron_le_Despencer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47002988" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "409_entity3203",
+  "entityUrl" : "http://dbpedia.org/resource/Frazier_Reams,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51271016" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "410_entity3207",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Willey",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51704809" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "411_entity3222",
+  "entityUrl" : "http://dbpedia.org/resource/Franklin_Wills_Hancock,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50690852" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "412_entity3223",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Hatton_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46942800" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "413_entity3244",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Richter,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50715838" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "414_entity3249",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_M._Conaway,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50778977" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "415_entity3266",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Oberle,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50789021" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "416_entity3284",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Walter_Goldstone",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47567421" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "417_entity3322",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Jordan_(U.S._politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50482577" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "418_entity3328",
+  "entityUrl" : "http://dbpedia.org/resource/Ferdinand_Joseph_Robidoux",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50442662" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "419_entity3350",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Roberts_(mayor)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46192715" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "420_entity3399",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Blake,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51524824" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "421_entity3456",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Arthur_Burr",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "38716167" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "422_entity3465",
+  "entityUrl" : "http://dbpedia.org/resource/First_televised_speech_in_parliament",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47650995" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "423_entity3495",
+  "entityUrl" : "http://dbpedia.org/resource/Gustaf_Bonde",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47235229" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "424_entity3531",
+  "entityUrl" : "http://dbpedia.org/resource/Gilbert_Mitchison,_Baron_Mitchison",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47420336" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "425_entity3543",
+  "entityUrl" : "http://dbpedia.org/resource/George_Wallace,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50732196" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "426_entity3547",
+  "entityUrl" : "http://dbpedia.org/resource/George_William_Palmer_(England)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51547157" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "427_entity3587",
+  "entityUrl" : "http://dbpedia.org/resource/Geoffrey_Edge",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51547016" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "428_entity3588",
+  "entityUrl" : "http://dbpedia.org/resource/George_Rodgers_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46942843" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "429_entity3636",
+  "entityUrl" : "http://dbpedia.org/resource/George_Perry_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46942908" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "430_entity3659",
+  "entityUrl" : "http://dbpedia.org/resource/George_Riley_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51841543" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "431_entity3665",
+  "entityUrl" : "http://dbpedia.org/resource/George_C._Woodruff_(representative)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48654477" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "432_entity3677",
+  "entityUrl" : "http://dbpedia.org/resource/George_White_(UK_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46952179" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "433_entity3680",
+  "entityUrl" : "http://dbpedia.org/resource/George_H._Winner,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50638257" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "434_entity3707",
+  "entityUrl" : "http://dbpedia.org/resource/George_Webster_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47245346" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "435_entity3758",
+  "entityUrl" : "http://dbpedia.org/resource/Gary_Sherman_(Wisconsin_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48270849" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "436_entity3849",
+  "entityUrl" : "http://dbpedia.org/resource/Gonzalo_Barrios",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48521872" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "437_entity3866",
+  "entityUrl" : "http://dbpedia.org/resource/Gheorghe_Negru",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "27049853" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "438_entity3867",
+  "entityUrl" : "http://dbpedia.org/resource/Gheorghe_Palade",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "27049999" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "439_entity3887",
+  "entityUrl" : "http://dbpedia.org/resource/George_Brodie_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46561762" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "440_entity3896",
+  "entityUrl" : "http://dbpedia.org/resource/Gerald_George_Fitzgerald",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45457106" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "441_entity3923",
+  "entityUrl" : "http://dbpedia.org/resource/Geoffrey_Cooper",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49604466" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "442_entity3945",
+  "entityUrl" : "http://dbpedia.org/resource/Glenn_Taylor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49503718" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "443_entity3998",
+  "entityUrl" : "http://dbpedia.org/resource/George_Conrad_Petersen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47362447" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "444_entity4044",
+  "entityUrl" : "http://dbpedia.org/resource/George_Reginald_Anderson_Bowerman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51166332" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "445_entity4069",
+  "entityUrl" : "http://dbpedia.org/resource/Gordon_Innes_(Ontario_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48801628" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "446_entity4109",
+  "entityUrl" : "http://dbpedia.org/resource/George_Martin_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51839387" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "447_entity4113",
+  "entityUrl" : "http://dbpedia.org/resource/George_Soward",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47050209" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "448_entity4140",
+  "entityUrl" : "http://dbpedia.org/resource/Gundugutti_Manjunathayya",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51212993" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "449_entity4164",
+  "entityUrl" : "http://dbpedia.org/resource/Gooi_Hsiao_Leung",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50181935" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "450_entity12121",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Vendrell_i_Segura",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51801555" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "451_entity8597",
+  "entityUrl" : "http://dbpedia.org/resource/Pablo_Iglesias",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46441252" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "452_entity8601",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Bradley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "38079634" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "453_entity8604",
+  "entityUrl" : "http://dbpedia.org/resource/P._Wayne_Sexton,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50965010" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "454_entity8613",
+  "entityUrl" : "http://dbpedia.org/resource/Pere_Esteve_i_Abad",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "631271" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "455_entity8627",
+  "entityUrl" : "http://dbpedia.org/resource/Petros_Mavromichalis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48044735" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "456_entity8638",
+  "entityUrl" : "http://dbpedia.org/resource/Pu_Lalhmingthanga",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46849794" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "457_entity8683",
+  "entityUrl" : "http://dbpedia.org/resource/Patel_Dahyabhai_Vallabhbhai",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50643965" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "458_entity8721",
+  "entityUrl" : "http://dbpedia.org/resource/Prospero_Pichay,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50968154" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "459_entity8734",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Lynch_(attorney_general)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45341696" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "460_entity8766",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Collins_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49051013" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "461_entity8799",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Anderson_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50368882" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "462_entity8805",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Breen_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47939060" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "463_entity8851",
+  "entityUrl" : "http://dbpedia.org/resource/P.A._Mohideen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51077498" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "464_entity8911",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_McCaughen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47774319" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "465_entity8953",
+  "entityUrl" : "http://dbpedia.org/resource/P._Kumar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "33115239" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "466_entity8972",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Butler_(unionist)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49054235" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "467_entity8997",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_J.D._Ryan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50844076" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "468_entity9003",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Douglas_Blundy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50725453" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "469_entity9025",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Kelly_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51146145" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "470_entity9027",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Moore_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49051817" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "471_entity9045",
+  "entityUrl" : "http://dbpedia.org/resource/P.R._Senthilnathan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50479036" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "472_entity17",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_S._Brandt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50725460" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "473_entity18",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_Keith_(Canadian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47596154" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "474_entity24",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_Moore",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50479629" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "475_entity46",
+  "entityUrl" : "http://dbpedia.org/resource/Altaf_Hussain",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "19401119" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "476_entity59",
+  "entityUrl" : "http://dbpedia.org/resource/Antoni_Siurana_i_Zaragoza",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51812521" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "477_entity66",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Hevesi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45471538" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "478_entity68",
+  "entityUrl" : "http://dbpedia.org/resource/A.F.X._Baron",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50519278" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "479_entity90",
+  "entityUrl" : "http://dbpedia.org/resource/Antoni_Castells_i_Oliveres",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51804059" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "480_entity104",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Pease_(MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48719183" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "481_entity132",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Lewis_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47597390" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "482_entity139",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_Wilson_(Scottish_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50223457" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "483_entity145",
+  "entityUrl" : "http://dbpedia.org/resource/Angus_McKay_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47597057" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "484_entity162",
+  "entityUrl" : "http://dbpedia.org/resource/A._Raja",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50287428" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "485_entity163",
+  "entityUrl" : "http://dbpedia.org/resource/Alice_Cullen_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48794522" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "486_entity164",
+  "entityUrl" : "http://dbpedia.org/resource/A._Venkatesh_Naik",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47632936" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "487_entity182",
+  "entityUrl" : "http://dbpedia.org/resource/Albert_Stanley_(Labour_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46329523" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "488_entity185",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Thompson_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47595963" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "489_entity226",
+  "entityUrl" : "http://dbpedia.org/resource/Ahmed_Ezz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49419918" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "490_entity228",
+  "entityUrl" : "http://dbpedia.org/resource/Addison_Alexander_Mackenzie",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "12100723" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "491_entity259",
+  "entityUrl" : "http://dbpedia.org/resource/Archie_Lang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46629139" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "492_entity268",
+  "entityUrl" : "http://dbpedia.org/resource/Allan_Campbell_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47596333" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "493_entity272",
+  "entityUrl" : "http://dbpedia.org/resource/Alfred_C._Carr,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50778972" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "494_entity324",
+  "entityUrl" : "http://dbpedia.org/resource/Arnold_Williams_(Liberal_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46951894" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "495_entity365",
+  "entityUrl" : "http://dbpedia.org/resource/Albert_R._Hall_(Minnesota_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50664854" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "496_entity445",
+  "entityUrl" : "http://dbpedia.org/resource/Alexandre_Joseph_Doucet",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50442705" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "497_entity459",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_Provand",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50448677" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "498_entity475",
+  "entityUrl" : "http://dbpedia.org/resource/Abdul_Rahman_Bakri_(Selangor_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "47595802" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "499_entity522",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_McNeil",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48521863" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "500_entity550",
+  "entityUrl" : "http://dbpedia.org/resource/Alfred_Davies_(Lancashire_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46951961" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "501_entity629",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Lysaght,_senior",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46567463" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "502_entity735",
+  "entityUrl" : "http://dbpedia.org/resource/Alfred_Hunt_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "46852286" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "503_entity739",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_J.H._Maclean",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51849484" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "504_entity772",
+  "entityUrl" : "http://dbpedia.org/resource/Alireza_Ali_Ahmadi",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "45487028" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "505_entity779",
+  "entityUrl" : "http://dbpedia.org/resource/Asa_Smith_(Connecticut)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51728329" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "506_entity797",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Cook_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48927428" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "507_entity811",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_Evans_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "49767947" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "508_entity820",
+  "entityUrl" : "http://dbpedia.org/resource/Anibal_Ramos,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "51971021" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "509_entity845",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Cox_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "48914106" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+}, {
+  "entityIndex" : "510_entity898",
+  "entityUrl" : "http://dbpedia.org/resource/Abdul_Aziz_Sheikh_Fadzir",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:wikiPageID" : [ "50183330" ]
+  },
+  "words" : [ ],
+  "adjectives" : [ ],
+  "nouns" : [ ],
+  "text" : ""
+} ]

@@ -1,3 +1,0 @@
-id=13  property=dbo:restingPlace  object=http://dbpedia.org/resource/Connecticut  NumberOfEntitiesFoundForObject=62
-session-NN  multiply=0.428403  P(session|object)=0.532258  P(object|session)=0.804878    
-

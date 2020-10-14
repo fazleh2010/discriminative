@@ -1,0 +1,67 @@
+[ {
+  "entityIndex" : "1_entity10093",
+  "entityUrl" : "http://dbpedia.org/resource/Sandi_Jackson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:quote" : [ "\"If Bill Clinton's wife can run for the U.S. Senate, if Bob Dole's wife can run for the Senate and for president, then why can't my wife be an alderman?\"" ]
+  },
+  "words" : [ "``", "M.", "Mayor", "held", "Daley", "Jackson", "née", "A.", "January", "Darcel", "14", "15", "count", "pleaded", "tax", "City", ",", "William", "'s", "elections", ".", "elected", "appointed", "filing", "guilty", "Ward", "-RRB-", "municipal", "returns", ";", "20", "succeeded", "-LRB-", "September", "27", "father", "alderman", "ward", "Beavers", "Council", "effective", "2007", "2006", "Richard", "map", "February", "November", "resigned", "''", "Stevens", "Chicago", "born", "one", "false", "7th", "Lee", "1963", "succeed", "2013", "Sandi", "rival", "Sandra" ],
+  "adjectives" : [ "effective", "guilty", "false", "municipal", "7th" ],
+  "nouns" : [ "filing", "father", "alderman", "count", "tax", "ward", "City", "map", "rival" ],
+  "text" : "Sandra Lee \"Sandi\" Jackson (née Stevens; born September 14, 1963) was elected to the Chicago City Council as an alderman of the 7th ward (map) of the City of Chicago in the 2007 municipal elections held on February 27, 2007. She succeeded Darcel A. Beavers who had been appointed by Chicago Mayor Richard M. Daley after the 2006 November elections to succeed her father William Beavers, Jackson's rival, as alderman of the 7th Ward. Jackson resigned from Chicago City Council, effective January 15, 2013. On February 20, 2013, Jackson pleaded guilty to one count of filing false tax returns. On August 14, 2013, she was sentenced to one year in prison for filing false income tax returns. She is the wife of former U.S. Congressman Jesse Jackson, Jr. and daughter-in-law of Jesse Jackson. Her candidacy for the city council of a major city was part of national news stories in The New York Times, and thoughts of her running for a position in the United States House of Representatives were noted in Time. Jackson has also been a longtime political consultant through her solely owned consulting firm J. Donatella & Associates."
+}, {
+  "entityIndex" : "2_entity10346",
+  "entityUrl" : "http://dbpedia.org/resource/Shirley_Huffman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:quote" : [ "I care about people, and I think it shows. What I've done, I've done with sincerity." ]
+  },
+  "words" : [ "Oregon", "extension", "-LRB-", "American", "city", "directors", "office", "two", "Dayton", "serving", "receiving", "approved", "secretary", "U.S.", "Rail", "terms", "1993", "Light", "Westside", "Shirley", "legal", "state", "credit", "TriMet", "development", "coordinator", "mayor", "settled", "born", "politician", "downtown", ",", "Raised", ".", "1985", "Hillsboro", "council", "plans", "served", "Huffman", "-RRB-", "1928", "time", "Todd", "leaving", "board" ],
+  "adjectives" : [ "American", "legal" ],
+  "nouns" : [ "extension", "development", "coordinator", "city", "mayor", "politician", "downtown", "office", "secretary", "council", "state", "time", "credit", "board" ],
+  "text" : "Shirley Todd Huffman (born 1928) is an American politician and legal secretary in the U.S. state of Oregon. Raised in Dayton, Oregon, she settled in Hillsboro, Oregon, where she served on the city council before serving two terms as mayor from 1985 to 1993. During her time as mayor, plans for the Westside Light Rail were approved, with Huffman receiving credit for the extension into downtown Hillsboro. After leaving office, she served on the board of directors for TriMet and as a development coordinator for the city."
+}, {
+  "entityIndex" : "3_entity7535",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_Parent",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:quote" : [ "\"Politics is the art of doing the impossible, with the unwilling, for the ungrateful.\"" ]
+  },
+  "words" : [ "Port", "Divinity", "Arts", "son", "post", "academic", "author", "degree", ",", "former", ".", "August", "secondary", "Canada", "University", "Acadia", "-RRB-", "College", "Philosophy", "McGill", "-LRB-", "25", "Parent", "Canadian", "York", "Baptist", "Mark", "Hazel", "Bolivia", "Hazen", "1954", "Mildred", "Williams", "America", "clergy", "studies", "Scotia", "missionaries", "born", "politician", "raised", "South", "Nova", "Coles", "Doctor", "Bachelor", "Anderson", "Master", "returning", "holds" ],
+  "adjectives" : [ "secondary", "Canadian", "academic", "former" ],
+  "nouns" : [ "Master", "son", "post", "author", "politician", "degree", "Doctor", "Bachelor", "Philosophy" ],
+  "text" : "Mark Parent (born August 25, 1954, Port Williams, Nova Scotia) is a Canadian clergy, author, academic, and former politician in Nova Scotia. Parent is the son of Baptist missionaries Hazen Coles Parent and Hazel Mildred Anderson. Parent was raised in Bolivia, South America before returning to Canada for post secondary studies. He holds a Bachelor of Arts degree from York University, a Master of Divinity from Acadia Divinity College, and a Doctor of Philosophy from McGill University. Parent is married to his second wife Margie Jenkins and together they have five grown children. His first wife, Cathy, died in 1998. Parent served in various churches in Ontario, New Brunswick and Nova Scotia before returning home in 1994 to serve as pastor of the Pereaux United Baptist Church. During the late 1990s he was an associate professor of Religious Studies at Mount Allison University."
+}, {
+  "entityIndex" : "4_entity7697",
+  "entityUrl" : "http://dbpedia.org/resource/Mad_Cow-Girl",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:quote" : [ "We like to have fun when we go to elections...That's what we're in it for. But on this occasion it seems that the sensible candidate is acting like a loony, so it's up to the Loony Party to try and act sensibly. What a topsy-turvy world we live in." ]
+  },
+  "words" : [ "Raving", "-LRB-", "several", "Sunderland", "2010", "contested", "incumbent", "Davis", "Warner", "2008", "candidate", "Party", "known", "Loony", "412", "Commons", "Monster", "won", "nurse", "Essex", "July", "Rosalyn", "vote", "ran", "--", "British", "Haltemprice", "election", "MP", "House", "comfortably", ",", "elections", "Howden", ".", "better", "seat", "Mad", "Cow-Girl", "polled", "1961", "Harwich", "4", "Official", "Conservative", "-RRB-", "David", "votes" ],
+  "adjectives" : [ "British", "Conservative", "several", "incumbent" ],
+  "nouns" : [ "seat", "candidate", "election", "MP", "Monster", "nurse", "vote" ],
+  "text" : "Rosalyn Warner (1961 in Harwich, Essex – 4 July 2010 in Sunderland), better known as Mad Cow-Girl, was a British nurse who contested several elections as a candidate for the Official Monster Raving Loony Party. She ran for election to the House of Commons for the Haltemprice and Howden seat in 2008 against incumbent Conservative MP David Davis, where she polled 412 votes (a vote that David Davis won comfortably)."
+}, {
+  "entityIndex" : "5_entity3711",
+  "entityUrl" : "http://dbpedia.org/resource/Gladys_Porter",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:quote" : [ "\"It is satisfying to know that women join in this partnership, working together 'to hold fast to basic principles and values and to exert influence to preserve a democratic way of life.'\"" ]
+  },
+  "words" : [ "Mayor", "electoral", "Legislature", "née", "Maritimes", "1893", "provincial", "North", "female", "Member", "Assembly", "ran", "--", "successfully", "town", "House", ",", "Macpherson", "April", ".", "August", "elected", "1943", "Progressive", "Canada", "4", "council", "served", "district", "-RRB-", "daughter", "1946", "Sydney", "-LRB-", "woman", "death", "Gladys", "Kings", "Porter", "30", "Walter", "Kentville", "Scotia", "Nova", "Muriel", "1963", "re-elected", "Richardson", "1960", "Conservative", "Christina", "1967", "first", "represent" ],
+  "adjectives" : [ "electoral", "provincial", "female", "first" ],
+  "nouns" : [ "woman", "town", "death", "council", "district", "daughter" ],
+  "text" : "Gladys Muriel Porter, née Richardson, daughter of Walter Richardson and Christina Macpherson, (August 4, 1893, Sydney, Nova Scotia, Canada – April 30, 1967, Kentville, Nova Scotia, Canada) was the first woman in the Maritimes to be elected as Mayor, and the first female Member of the Nova Scotia House of Assembly. Porter was elected to Kentville town council in 1943. She was then elected Mayor of Kentville in 1946 and served until 1960, when she ran successfully as a Progressive Conservative to represent the provincial electoral district of Kings North. Porter was re-elected to the Legislature in 1963 and served until her death on April 30, 1967."
+}, {
+  "entityIndex" : "6_entity126",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Eve",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:quote" : [ "\"I do not blame Mr. Oswald for the decision to go in. I can never believe that he gave it.  All the blame goes to Rockefeller.\"" ]
+  },
+  "words" : [ "New", "named", "defeated", "Assemblyman", "Arthur", "141st", "United", "office", "retirement", "incumbent", "States", "Primary", "1979", "Assembly", "Buffalo", "Dominican-American", "1933", "--", "Democratic", "Deputy", ",", ".", "elected", "Mayoral", "longer", "1983", "Eve", "State", "served", "following", "-RRB-", "District", "O.", "23", "-LRB-", "American", "York", "districts", "March", "see", "public", "2002", "disambiguation", "member", "mayoral", "retired", "win", "Speaker", "election", "born", "politician", "representing", "143rd", "people", "African", "82", "time", "1967", "first", "1966" ],
+  "adjectives" : [ "American", "public", "Democratic", "Primary", "mayoral", "retired", "first", "African", "incumbent" ],
+  "nouns" : [ "election", "politician", "disambiguation", "member", "office", "time", "retirement", "Assembly" ],
+  "text" : "(For other people named Arthur Eve, see Arthur Eve (disambiguation).) Arthur O. Eve (born March 23, 1933) is a retired American politician who served as a Democratic member of the New York State Assembly (1967–2002) and Deputy Speaker of the Assembly (1979–2002) representing districts in Buffalo, New York. He was the first Dominican-American elected to public office in the United States, and the first African American to win the Buffalo Mayoral Democratic Primary but was defeated in the following mayoral election. Eve was elected a New York State Assemblyman in 1966 and by the time of his retirement in 2002 had served in the New York State Assembly (143rd District 1967–82, 141st District 1983–2002) longer than any other incumbent member. As Deputy Speaker, he was the highest ranking African American in the New York State Legislature. During his political career he became a political foe of Western New York politician James D. Griffin and of New York State Governors Mario Cuomo and George Pataki. He was a founding member of the New York State Black and Puerto Rican Legislative Caucus. At the national level, Eve was once one of three alternates to the 15-person 1984 Democratic Party Platform Committee. Eve was an observer and negotiator during the 1971 Attica Prison riot and the first official to enter the facility to hear the demands of the inmates. An advocate for liberal causes such as economic development, education, job training and development, social services, crime prevention and parole reform, day care and housing, Eve was also a leader in the movement to legislate Harriet Tubman Day as a New York State holiday. He is the father of attorney and former candidate for Lieutenant Governor of New York Leecia Eve."
+} ]

@@ -1,0 +1,232 @@
+[ {
+  "entityIndex" : "1_entity6625",
+  "entityUrl" : "http://dbpedia.org/resource/Karen_Minnis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.leg.state.or.us/minnis/" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "Minnis", "born", "politician", "United", "Republican", "House", "Karen", "Representatives", ",", ".", "1954", "States", "1998", "2009", "2006", "2003", "served", "-RRB-", "member", "July", "Speaker" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician", "member" ],
+  "text" : "Karen Minnis (born July 1954) is an Oregon Republican politician in United States. She was a member of the Oregon House of Representatives from 1998 to 2009, and served as Speaker of the House from 2003 to 2006."
+}, {
+  "entityIndex" : "2_entity6751",
+  "entityUrl" : "http://dbpedia.org/resource/Kamakhya_Narain_Singh",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.uq.net.au/~zzhsoszy/ips/r/ramgarh.html" ]
+  },
+  "words" : [ "Rajkumar", "Narain", "became", "Bihar", "-LRB-", "death", "Landholder", "1919", "father", "Kshatriya", "upon", "Vice-President", "Kamakhya", "later", "Association", "1970", "Singh", "1916", "Lakshmi", "10", "Raja", "--", "Bahadur", "Raipur", "politician", ",", "'s", "zamindar", ".", "Mayo", "August", "India", "Jharkhand", "educated", "Ajmer", "served", "Mahasabha", "-RRB-", "College", "Raj", "Ramgarh" ],
+  "adjectives" : [ ],
+  "nouns" : [ "death", "politician", "father", "zamindar" ],
+  "text" : "Raja Bahadur Kamakhya Narain Singh (10 August 1916 – 1970) of Ramgarh, Jharkhand was the zamindar of Ramgarh Raj and later a politician. He was educated at Rajkumar College, Raipur and at Mayo College, Ajmer. He became the Raja of Ramgarh in 1919 upon death of his father, Raja Lakshmi Narain Singh. He served as the Vice-President of the Bihar Landholder's Association and the All India Kshatriya Mahasabha. He was also Member of the Managing Committee and General Council of Rajkumar College; Member of the Executive Body of the Bihar War Committee. He served as president of Akhil Bharatiya Kshatriya Mahasabha in 1943 and 1953. He was married to Maharani Lalita Rajya Lakshmi Devi, daughter of Supradipta Manyabara Lt.Gen. Maharajkumar Singha Shumsher Jung Bahadur Rana of Nepal in 1936. They had a son, Indra Jitendra Narain Singh. He entered politics in 1946 following the formal accession of the Ramgarh state into the Indian Republic. In 1952 Bihar Assembly elections, he contested from Dhanbad as a candidate of Swatantra Party but was defeated by a noted freedom-fighter and labor rights leader, Purushottam K. Chauhan. Later in the Bihar Assembly Elections of 1967, serious opposition was offered by the Raja Bahadur's Swatantra Party to the ruling Congress government. The Raja Bahadur and his younger brother, Dr. Basant Narayan Singh, became Cabinet Ministers in the government headed by Chief Minister of Bihar, Mahamaya Prasad Sinha. He resigned from the party because he was not made the Deputy Chief Minister. In late 1960s, Kamakhya Narayan Singh was popularly an aspirant for Rajput supremacy in Bihar against Rajput stalwart, Sri Satyendra Narain Singh (then known as \"Coming Chief Minister of Bihar\") but was outmanoeuvred. His party later merged with the Janata party. Many of his family members became important political functionaries and legislators."
+}, {
+  "entityIndex" : "3_entity5186",
+  "entityUrl" : "http://dbpedia.org/resource/Jeannemarie_Devolites_Davis",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.abcnews.go.com/sections/politics/DailyNews/TheNote_Dec4.html" ]
+  },
+  "words" : [ "M.", "-LRB-", "American", "28", "United", "Republican", "voting", "husband", "Representatives", "Aragona", "Davis", "1998", "States", "2008", "candidate", "Lieutenant", "2004", "member", "Devolites", "February", "1956", "--", "convention", "Thomas", "eliminated", "Jeannemarie", "born", "politician", "House", ",", ".", "nomination", "Governor", "Senate", "round", "served", "2013", "-RRB-", "Delegates", "Virginia", "first", "Richmond" ],
+  "adjectives" : [ "American", "first" ],
+  "nouns" : [ "convention", "candidate", "round", "politician", "member", "voting", "husband", "nomination" ],
+  "text" : "Jeannemarie Aragona Devolites Davis (born February 28, 1956) is an American politician. She served in the Virginia House of Delegates 1998–2004 and the Senate of Virginia 2004–2008. She was a candidate for the 2013 Republican nomination for Lieutenant Governor of Virginia, but was eliminated in the first round of voting at the 2013 Republican convention in Richmond, Virginia. Her husband, Thomas M. Davis, was a member of the United States House of Representatives. Virginia Governor Bob McDonnell appointed Davis director of the Virginia Liaison Office in Washington, D.C. in January 2010. She resigned in September 2012 to pursue an unsuccessful bid for lieutenant governor."
+}, {
+  "entityIndex" : "4_entity11499",
+  "entityUrl" : "http://dbpedia.org/resource/Willie_MacRae",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.northern.police.uk/Default.aspx.LocID-0axnew00o.RefLocID-0ax00b00d004.Lang-EN.htm" ]
+  },
+  "words" : [ "officer", "World", "independence", "remote", "MacRae", "remembered", "National", "crashed", "--", "Army", "revolver", "18", "active", ",", "April", ".", "1985", "Highlands", "naval", "7", "served", "-RRB-", "much", "-LRB-", "May", "death", "anti-nuclear", "part", "War", "life", "shot", "campaigner", "Royal", "head", "Scottish", "Party", "SNP", "car", "mysterious", "lawyer", "Willie", "British", "orator", "politician", "Navy", "Second", "Indian", "movement", "1923", "supported" ],
+  "adjectives" : [ "Scottish", "British", "Second", "naval", "mysterious", "anti-nuclear", "Indian", "active", "remote", "much" ],
+  "nouns" : [ "death", "revolver", "officer", "orator", "politician", "part", "independence", "life", "campaigner", "head", "SNP", "car", "movement", "lawyer" ],
+  "text" : "Willie MacRae (18 May 1923 – 7 April 1985) was a Scottish naval officer, lawyer, orator, politician and anti-nuclear campaigner. In the Second World War he served in the British Army and then the Royal Indian Navy. He supported the Indian independence movement and for much of his life was active in the Scottish National Party (SNP). MacRae is remembered for his mysterious death, in which his car crashed in a remote part of the Scottish Highlands and he was shot in the head with a revolver. The official verdict was undetermined."
+}, {
+  "entityIndex" : "5_entity7386",
+  "entityUrl" : "http://dbpedia.org/resource/Lorie_Masters",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://loriemasters.com/meet-lorie/" ]
+  },
+  "words" : [ "``", "insurance", "-LRB-", "American", "rule", "notable", "Lorelie", "1954", "candidate", "specializing", "supporting", "human", "trafficking", "lawyer", "''", "Masters", "opposing", "work", "born", "Lorie", ".", "home", "Columbia", "litigation", "2014", "-RRB-", "General", "S.", "District", "Attorney" ],
+  "adjectives" : [ "American", "notable", "human" ],
+  "nouns" : [ "insurance", "Masters", "candidate", "litigation", "work", "rule", "trafficking", "lawyer", "home" ],
+  "text" : "Lorelie \"Lorie\" S. Masters (born 1954) is an American lawyer specializing in insurance litigation notable for her work supporting District of Columbia home rule and opposing human trafficking. She was a candidate for Attorney General of the District of Columbia in 2014."
+}, {
+  "entityIndex" : "6_entity1507",
+  "entityUrl" : "http://dbpedia.org/resource/Chuck_Rosenthal_(district_attorney)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.chuckrosenthal.com/" ]
+  },
+  "words" : [ "``", "''", "Charles", "-LRB-", "American", "Rosenthal", "born", "United", "Harris", ",", "A.", "County", ".", "States", "Texas", "7", "-RRB-", "Chuck", "February", "1946", "formerly", "District", "Attorney", "lawyer" ],
+  "adjectives" : [ "American" ],
+  "nouns" : [ "A.", "lawyer" ],
+  "text" : "Charles A. \"Chuck\" Rosenthal (born February 7, 1946) is an American lawyer who was formerly the District Attorney of Harris County, Texas, United States."
+}, {
+  "entityIndex" : "7_entity953",
+  "entityUrl" : "http://dbpedia.org/resource/Bernie_Hansen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.glfc.org/aboutus/brief.asp#BernardHansen" ]
+  },
+  "words" : [ "Dr.", "-LRB-", "reasons", "unexpectedly", "47", "26", "defeated", "alderman", "John", "Council", "serving", "incumbent", "Merlo", "Sable", "Democrat", "2002", "retired", "52", "gay", "Bernie", "November", "resigned", "Hansen", "longtime", "activist", "margin", "race", "Chicago", "%", "born", "health", "City", ",", "44th", "former", ".", "appointed", "1987", "Ron", "1983", "Ward", "-RRB-", "citing", "1944", "liberal" ],
+  "adjectives" : [ "44th", "former", "gay", "incumbent", "liberal" ],
+  "nouns" : [ "longtime", "activist", "margin", "race", "%", "alderman", "health" ],
+  "text" : "Bernie Hansen (born November 26, 1944) is a former longtime Chicago alderman, serving on the Chicago City Council from 1983 to 2002, when he retired as alderman of the 44th Ward citing health reasons. He is a Democrat. Hansen was appointed to the Council when the incumbent alderman, John Merlo, unexpectedly resigned. In 1987 he defeated Dr. Ron Sable, a liberal gay activist, by a 52% to 47% margin in the race for 44th Ward alderman. It was a hard-fought campaign in the city's 44th Ward, which at the time was the heart of the city's gay community. Sable ran against Hansen again in 1991, but Hansen prevailed again, 65% to 35%. From 1994 to 2000, he served as one of four U.S. commissioners to the Great Lakes Fishery Commission, a presidential appointment to a bilateral treaty organization with Canada responsible for fisheries management research and recommendations and for sea lamprey control for the Great Lakes fisheries. For part of that time, he chaired the commission. He sponsored or co-sponsored several human rights ordinances, including the Human Rights Ordinance expanding protection against discrimination in housing, employment, public accommodations, and credit to gay males, lesbians, and persons with disabilities, an ordinance to assist victims of hate crimes, and a 1997 ordinance Hansen introduced to extend health-care benefits to the domestic partners of gay and lesbian city employees. Thomas M. Tunney, his successor as 44th Ward alderman whom Hansen had \"hand-picked\", became Chicago's first openly gay alderman. Hansen was also an active proponent of environmentalist measures, including recycling programs and the extension of Chicago's moratorium against the creation of new landfills. Some residents of the Lakeview community voiced concern that Hansen was more concerned with building expensive condos and co-ops, then re-building the neighborhood with affordable housing during his tenure. He serves on the board of many community councils as well as fund raising organizations, including the John Merlo Sports Program. John Merlo was the son of Mike Merlo leader of the Unione Siciliana during the 1920s. Mike Merlo had such complete control of the Organized Crime activities in Chicago, that upon his death in 1924, a war between north side gangs against Johnny Torrio (with underling) Al Capone at his side, instantly erupted. The war lasted 4 bloody years and included the St. Valentines Day Massacre. After his retirement from the city council, he continued to serve as Democratic committeeman from the 44th Ward, ultimately handing over the title to Alderman Tom Tunney. John Merlo held the position from 1969-92. Hansen made an attempt to be a Democratic Congressional Candidate for Illinois' 5th District in 2002, but when the Democratic National Committee backed Clinton Administration phenom Rahm Emanuel in the race, Hansen withdrew and soon after resigned from the 44th Ward Aldermanic seat. He is married to Annette and has two sons, Paul and David. He has two grandchildren. He attended the University of Chicago and has residences in both Chicago and Arizona. He is a longtime Cubs fan and avid golfer."
+}, {
+  "entityIndex" : "8_entity987",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Coleridge,_2nd_Baron_Coleridge",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://geocities.com/Athens/4017/index.html" ]
+  },
+  "words" : [ "Justice", "-LRB-", "September", "Chief", "Trinity", "John", "England", "peerage", "Eton", "Samuel", "QC", "1st", "son", "1851", "1894", "Commons", "nephew", "grandfather", "poet", "Seymour", "Baron", "Oxford", "lawyer", "--", "British", "Taylor", "Liberal", "politician", "sat", "2nd", "19", "House", ",", "Fortescue", "Jane", ".", "August", "Lord", "educated", "1885", "eldest", "4", "inherited", "-RRB-", "College", "Bernard", "1927", "Coleridge" ],
+  "adjectives" : [ "British", "eldest", "Liberal", "2nd" ],
+  "nouns" : [ "son", "politician", "nephew", "peerage", "grandfather", "poet", "lawyer" ],
+  "text" : "Bernard John Seymour Coleridge, 2nd Baron Coleridge, QC (19 August 1851 – 4 September 1927) was a British lawyer and Liberal politician who sat in the House of Commons from 1885 until 1894 when he inherited his peerage. Coleridge was the eldest son of John Coleridge, 1st Baron Coleridge, Lord Chief Justice of England, and Jane Fortescue Seymour. His grandfather, John Taylor Coleridge, was the nephew of the poet Samuel Taylor Coleridge. He was educated at Eton and Trinity College, Oxford. He was called to the bar at Middle Temple in 1877. Coleridge was elected Member of Parliament for Sheffield Attercliffe in the 1885 general election and held the seat until 1894 when he succeeded his father as second Baron Coleridge. Coleridge became a QC in 1892 and served as a Judge of the High Court of Justice from 1907 to 1923. Lord Coleridge married Mary Alethea Mackarness, daughter of John Fielder Mackarness (Bishop of Oxford), on 3 August 1876. They had three children, one son and two daughters. He died in September 1927, in Honiton, Devon, aged 76, and was succeeded in the barony by his only son Geoffrey."
+}, {
+  "entityIndex" : "9_entity991",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Bunten",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.cjonline.com/stories/040605/loc_mayor.shtml" ]
+  },
+  "words" : [ "``", "Topeka", "-LRB-", "Republican", "Representatives", "2009", "1930", "Party", "2005", "previously", "2004", "2003", "2002", "member", "term", "four-year", "ran", "''", "election", "previous", "mayor", "Bunten", "born", "politician", "1990", "2001", "House", "Kansas", "William", ",", ".", "elected", "special", "Senate", "re-elected", "1962", "W.", "served", "Bill", "-RRB-" ],
+  "adjectives" : [ "special", "previous", "four-year" ],
+  "nouns" : [ "election", "mayor", "politician", "member", "term" ],
+  "text" : "William W. \"Bill\" Bunten (born 1930) is a Kansas politician and the previous mayor of Topeka, Kansas, having been elected to a four-year term in 2005 and re-elected in 2009. Before being elected mayor, he served in the Kansas House of Representatives from 1962 to 1990 and in the Kansas Senate from 2002 to 2004. He previously ran for mayor in 2001 and in a special election in 2003. Bunten is a member of the Republican Party. Bunten was the first mayor to be elected in Topeka under the new council-manager government, which stripped most of the powers of the office of mayor. Instead, the city council and appointed city manager holds most of the power. As such, Bunten's role is limited to leading city council meetings, promoting economic development, and being the \"ceremonial head\" of the city. He replaced James McClinton as mayor, who did not seek a second term after the powers of the office were reduced. A native Topekan, Bunten was a basketball player while attending Topeka High School. He was a teammate and good friend of Dean Smith, who later went on to fame as a basketball coach at North Carolina. Bunten and Smith both attended the University of Kansas and were members of Phi Gamma Delta social fraternity. After college Bunten entered the US Marine Corps and served in Korea, rising to the rank of Captain. In 2010, Bunten decided to change the name of Topeka to Google in honor of the company Google, Inc. for one day. This was considered a ploy to attract Google to Topeka as a site for a high speed Internet installation. The site eventually was located in Kansas City, Kansas. Bunten has led an effort to improve the downtown area and promoted a plan to raise funds for the development of the area. In 2012, Bill Bunten announced that he would not seek re-election in April 2013 at a City Council meeting."
+}, {
+  "entityIndex" : "10_entity10980",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Hughes_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.co.washington.or.us/deptmts/at/election/nov00/vote2.htm" ]
+  },
+  "words" : [ "Oregon", "Hughes", "named", "-LRB-", "Portland", "regional", "city", "exterior", "honor", "hall", "office", "two", "educator", "serving", "2009", "plaza", "U.S.", "government", "Metro", "native", "terms", "commission", "state", "area", "new", "Center", "metropolitan", "mayor", "built", "born", "politician", "2001", "Civic", ",", "'s", "former", ".", "1943", "planning", "Tom", "Hillsboro", "left", "council", "served", "-RRB-", "time", "president" ],
+  "adjectives" : [ "new", "metropolitan", "regional", "former" ],
+  "nouns" : [ "area", "city", "mayor", "politician", "exterior", "honor", "hall", "office", "educator", "plaza", "planning", "government", "native", "council", "commission", "state", "time", "president" ],
+  "text" : "Tom Hughes (born 1943) is a politician and former educator in the U.S. state of Oregon. He is the president of Metro, a regional government in the Portland metropolitan area. A native of Hillsboro, he served as on the city's planning commission and city council before serving two terms as mayor from 2001 to 2009. During his time a mayor, the city built the Hillsboro Civic Center as the new city hall, with the exterior plaza then named in his honor after he left office. Hughes was a public school teacher for 30 years and taught in Aloha. He also briefly worked as a consultant for a law firm."
+}, {
+  "entityIndex" : "11_entity11190",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Smith_(Pennsylvania_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://tomsmithforsenate.com/" ]
+  },
+  "words" : [ "``", "-LRB-", "Jr.", "United", "2012", "Republican", "2011", "office", "losing", "incumbent", "States", "October", "elective", "Bob", "Democrat", "four", "businessman", "ran", "Thomas", "''", "--", "election", "17", "Democratic", "Smith", "politician", "Senator", ",", "seeking", ".", "Joel", "Pennsylvania", "Senate", "Tom", "Casey", "2015", "-RRB-", "farmer", "switched", "decades", "registration", "1947", "20" ],
+  "adjectives" : [ "elective", "Democratic", "incumbent" ],
+  "nouns" : [ "election", "politician", "farmer", "registration", "office", "businessman" ],
+  "text" : "Thomas Joel \"Tom\" Smith (October 20, 1947 – October 17, 2015) was a Pennsylvania Republican politician, farmer and businessman. A Democrat for four decades before seeking elective office, Smith switched his registration in 2011 and ran for the United States Senate in the 2012 election, losing to the incumbent Democratic Senator Bob Casey, Jr."
+}, {
+  "entityIndex" : "12_entity9310",
+  "entityUrl" : "http://dbpedia.org/resource/Renuka_Devi_Barkataki",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://education.nic.in/cd50years/12/8I/6D/8I6D0E02.htm" ]
+  },
+  "words" : [ "Renuka", "Congress", "-LRB-", "education", "Assam", "Barpeta", "led", "welfare", "Union", "legislative", "1932", "Sabha", "candidate", "Party", "government", "National", "1972", "state", "1979", "Minister", "Assembly", "1977", "prime", "minister", "social", "3rd", "Janata", "born", "politician", "Lok", ",", ".", "elected", "1962", "Devi", "Barkataki", "constituency", "culture", "Desai", "-RRB-", "Indian", "Hajo", "Morarji" ],
+  "adjectives" : [ "prime", "social", "3rd", "Indian", "legislative" ],
+  "nouns" : [ "candidate", "education", "government", "minister", "constituency", "culture", "politician", "state", "welfare", "Assembly" ],
+  "text" : "Renuka Devi Barkataki (born 1932) is an Indian politician from Assam. She was the Union Minister of state for education, social welfare and culture in the Janata Party government led by prime minister Morarji Desai from 1977 to 1979. In 1962, she was elected to the 3rd Lok Sabha from Barpeta constituency as an Indian National Congress candidate. In 1972, she was elected to the Assam legislative Assembly from Hajo constituency. In 1977, she was elected to the 6th Lok Sabha from Gauhati constituency as a Janata Party candidate. Later, she became the honorary secretary of the Assam state branch of the Indian Red Cross Society."
+}, {
+  "entityIndex" : "13_entity2114",
+  "entityUrl" : "http://dbpedia.org/resource/Desley_Scott",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://signsofthetimes.org.au/archives/2005/august/article4.shtm" ]
+  },
+  "words" : [ "shadow", "ALP", "officer", "electoral", "parliament", "years", "dental", "state", "Desley", "minister", "16", "2001", "Woodridge", ",", "'s", ".", "1943", "elected", "size", "tiny", "-RRB-", "Parliament", "party", "since", "become", "June", "-LRB-", "27", "certificate", "2012", "Labor", "defeat", "Carleton", "Party", "Due", "member", "nurse", "working", "retired", "Toowoomba", "election", "born", "politician", "2015", "Australian", "caucus", "holds", "cabinet", "Scott", "Queensland" ],
+  "adjectives" : [ "dental", "Due", "Australian", "tiny", "electoral", "retired" ],
+  "nouns" : [ "election", "shadow", "minister", "officer", "politician", "certificate", "parliament", "defeat", "size", "caucus", "member", "nurse", "state", "cabinet", "party" ],
+  "text" : "Desley Carleton Scott (born 27 June 1943 in Toowoomba) is an Australian retired Labor Party politician who was the member for Woodridge in the Parliament of Queensland from 2001 to 2015. Scott was elected to parliament at the 2001 state election, after working as an electoral officer for 16 years. She holds a dental nurse certificate. Due to the tiny size of the ALP caucus since the party's defeat at the 2012 election, she was a member of the shadow cabinet but did not become a minister as she retired at the 2015 election. At the 2012 election, Desley Scott retained her seat with a significant margin for a Labor MP of 5.8%, after a 19.57% swing against her party. According to Independent MP Alex Douglas, \"She was completely focussed on the needs of Woodridge residents, which in turn earned her the respect of her constituents.\", which led to her being one of only seven Queensland ALP MPs being elected at the 2012 election."
+}, {
+  "entityIndex" : "14_entity2360",
+  "entityUrl" : "http://dbpedia.org/resource/Diane_Yatauro",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.dianeyatauro.com" ]
+  },
+  "words" : [ "Nassau", "New", "American", "Leader", "York", "affiliated", "Legislature", "18th", "County", "Minority", "Yatauro", "representative", "Presiding", "Democratic", "politician", ",", ".", "former", "Legislative", "well", "Diane", "formerly", "District", "party", "Officer" ],
+  "adjectives" : [ "American", "Democratic", "Legislative", "18th", "former" ],
+  "nouns" : [ "politician", "representative", "District", "party" ],
+  "text" : "Diane Yatauro was an American politician affiliated with the Democratic party. She was formerly the representative of the 18th Legislative District in the County Legislature of Nassau County, New York, as well as the former Presiding Officer of the Nassau County Legislature and the former Minority Leader of the Nassau County Legislature."
+}, {
+  "entityIndex" : "15_entity4208",
+  "entityUrl" : "http://dbpedia.org/resource/Harold_Theriault",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://nsliberalcaucus.ca/team/view/14", "http://nslegislature.ca/index.php/people/members/Harold_Theriault/" ]
+  },
+  "words" : [ "-LRB-", "Theriault", "Canadian", "riding", "A.", "Digby-Annapolis", "1953", "Party", "2003", "member", "represented", "January", "Assembly", "`", "Junior", "Scotia", "Liberal", "Harold", "'", "born", "politician", "Nova", "House", ",", "former", ".", "2013", "-RRB-" ],
+  "adjectives" : [ "Canadian", "former" ],
+  "nouns" : [ "Junior", "politician", "member" ],
+  "text" : "Harold A. 'Junior' Theriault (born January 1953) is a former Canadian politician and member of the Nova Scotia House of Assembly, who represented the riding of Digby-Annapolis for the Nova Scotia Liberal Party from 2003 to 2013."
+}, {
+  "entityIndex" : "16_entity4719",
+  "entityUrl" : "http://dbpedia.org/resource/Isiah_Leggett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.montgomerycountymd.gov/govtmpl.asp?url=/content/exec/welcome.asp" ]
+  },
+  "words" : [ "``", "county", "executive", "earned", "Howard", "July", "state", "Southern", "Rouge", "Army", "law", "Montgomery", "Democratic", "degree", "D.C.", ",", ".", "elected", "1986", "University", "African-American", "Texas", "council", "served", "-RRB-", "Maryland", "1944", "became", "Leggett", "-LRB-", "25", "American", "Deweyville", "War", "County", "Washington", "serving", "Vietnam", "U.S.", "Party", "2002", "member", "Baton", "''", "attended", "Ike", "born", "politician", "currently", "Born", "Louisiana", "Isiah", "first" ],
+  "adjectives" : [ "American", "African-American", "first" ],
+  "nouns" : [ "executive", "law", "council", "politician", "member", "degree", "county", "War", "state" ],
+  "text" : "Isiah \"Ike\" Leggett (born July 25, 1944) is an American politician from the U.S. state of Maryland, currently serving as the executive of Montgomery County, Maryland. He is a member of the Democratic Party. Born in Deweyville, Texas, Leggett attended Southern University in Baton Rouge, Louisiana and, after serving in the Vietnam War with the U.S. Army, earned a law degree from Howard University in Washington, D.C. In 1986, he became the first African-American elected to the county council in Montgomery County, Maryland and served on the council through 2002. He remains the only African-American ever elected to that body at-large. For two years, Leggett served as the chairman of the Maryland Democratic Party before leaving that position to run for office once again. Leggett was elected County Executive of Montgomery County in 2006, the first African-American to hold that office. Since taking office, Leggett has worked to put the County’s fiscal house in order while strengthening critical County services in education and public safety, and helping the most vulnerable. In the four years before Leggett took office, County spending grew by over 40 percent. In his first five years in office, Montgomery County's spending was held to zero percent. Responding to the worldwide recession that hit in 2008, Leggett closed budget gaps of over $2.6 billion, eliminating 10 percent of County government positions, while imposing furloughs (including himself), wage freezes, and changes in retirement and health benefits to save the County money. At the same time, Leggett put tens of millions of dollars into building and preserving thousands of units of affordable housing in the County, establishing a CountyStat office to ensure “real time” performance of County services, and set up a multi-agency Positive Youth Development Initiative to ensure positive programs for at-risk youth. Leggett worked to strengthen Montgomery County's biotechnology and life sciences sectors and also established the \"311\" Customer Service as a single point of entry via phone and the internet for residents seeking County services. During Leggett's first eight years, serious crime went down in the County by 24 percent and the Fire and Rescue Service's response times to Montgomery County's fires improved dramatically. Leggett was reelected to a second term in 2010 and to a third four-year term in 2014."
+}, {
+  "entityIndex" : "17_entity4747",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Neilson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.capetown.org.za/" ]
+  },
+  "words" : [ "politics", "Mayor", "held", "Councillor", "Committee", "years", "post", "Town", "civil", "responsible", "member", "Safety", "Neilson", "Executive", "Health", "Deputy", "Finance", "consulting", "&", "Africa", "South", "2001", "Service", "also", "establishment", "City", "engineering", "Cape", ",", "Police", "engineer", "water", ".", "practised", "Mayoral", "entering", "Douglas", "field", "Ian", "time", "20", "full" ],
+  "adjectives" : [ "civil", "responsible", "full" ],
+  "nouns" : [ "field", "post", "consulting", "member", "establishment", "City", "engineering", "time", "engineer", "water" ],
+  "text" : "Ian Douglas Neilson is the Executive Deputy Mayor of the City of Cape Town, South Africa. He is also the Mayoral Committee member for Finance. He is a civil engineer and practised as a consulting engineer in the field of water engineering for 20 years, before entering full time politics. In 2001, when he held the post of Executive Councillor for Safety & Health, he was responsible for the establishment of the Cape Town City Police Service."
+}, {
+  "entityIndex" : "18_entity10004",
+  "entityUrl" : "http://dbpedia.org/resource/Syed_Hussein_Alatas",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.aseanfocus.com/asiananalysis/article.cfm?articleID=1025" ]
+  },
+  "words" : [ "سيد", "Syed", "Rakyat", "several", "project", "Malaysia", "Native", "Arabic", "post", "Vice-Chancellor", "colonial", "Sayyid", "January", "Malaysian", "1980s", "Malaya", "--", "sociologist", "Parti", "Gerakan", "17", "wrote", "al-ʿAṭṭās", ",", ".", "Hussein", "Lazy", "books", "University", "science", "-RRB-", ":", ";", "formed", "corruption", "23", "-LRB-", "Ḥusayn", "September", "حسین", "part", "captivity", "2007", "academician", "organisations", "العطاس", "famous", "Myth", "social", "founder", "politician", "intellectual", "1928", "Alatas", "imperialism", "multi-racialism" ],
+  "adjectives" : [ "Native", "famous", "social", "several", "intellectual", "Malaysian" ],
+  "nouns" : [ "sociologist", "Myth", "founder", "politician", "part", "project", "captivity", "academician", "post", "colonial", "science", "corruption", "imperialism", "multi-racialism" ],
+  "text" : "Syed Hussein Alatas (Arabic: سيد حسین العطاس‎‎ Sayyid Ḥusayn al-ʿAṭṭās; 17 September 1928 – 23 January 2007) was a Malaysian academician, sociologist, founder of social science organisations, and politician. He was Vice-Chancellor of the University of Malaya in the 1980s, and formed the Parti Gerakan Rakyat Malaysia (Gerakan). Syed Hussein wrote several books on corruption, multi-racialism, imperialism, and intellectual captivity as part of the colonial, and post colonial, project, the most famous being The Myth of the Lazy Native."
+}, {
+  "entityIndex" : "19_entity7541",
+  "entityUrl" : "http://dbpedia.org/resource/Murray_De_Laine",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.pollbludger.com/sa2006/cheltenham.htm" ]
+  },
+  "words" : [ "-LRB-", "shop", "steward", "29", "Draughting", "Employees", "Murray", "Labor", "years", "executive", "worked", "Association", "Party", "member", "Motors-Holden", "represented", "electorate", "1936", "Assembly", "De", "35", "born", "politician", "South", "2001", "Royce", "House", ",", "Supervisory", "former", ".", "August", "1985", "ADSTE", "Price", "Australian", "Technical", "Laine", "-RRB-", "General" ],
+  "adjectives" : [ "Australian", "former" ],
+  "nouns" : [ "executive", "shop", "steward", "Price", "politician", "member", "electorate" ],
+  "text" : "Murray Royce De Laine (born 29 August 1936) is a former Australian politician. He worked for General Motors-Holden for 35 years and was a shop steward and executive member of the Association of Draughting, Supervisory and Technical Employees (ADSTE). He represented the electorate of Price as an Australian Labor Party member of the South Australian House of Assembly between 1985 and 2001."
+}, {
+  "entityIndex" : "20_entity7697",
+  "entityUrl" : "http://dbpedia.org/resource/Mad_Cow-Girl",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://www.rosalyn.me.uk/" ]
+  },
+  "words" : [ "Raving", "-LRB-", "several", "Sunderland", "2010", "contested", "incumbent", "Davis", "Warner", "2008", "candidate", "Party", "known", "Loony", "412", "Commons", "Monster", "won", "nurse", "Essex", "July", "Rosalyn", "vote", "ran", "--", "British", "Haltemprice", "election", "MP", "House", "comfortably", ",", "elections", "Howden", ".", "better", "seat", "Mad", "Cow-Girl", "polled", "1961", "Harwich", "4", "Official", "Conservative", "-RRB-", "David", "votes" ],
+  "adjectives" : [ "British", "Conservative", "several", "incumbent" ],
+  "nouns" : [ "seat", "candidate", "election", "MP", "Monster", "nurse", "vote" ],
+  "text" : "Rosalyn Warner (1961 in Harwich, Essex – 4 July 2010 in Sunderland), better known as Mad Cow-Girl, was a British nurse who contested several elections as a candidate for the Official Monster Raving Loony Party. She ran for election to the House of Commons for the Haltemprice and Howden seat in 2008 against incumbent Conservative MP David Davis, where she polled 412 votes (a vote that David Davis won comfortably)."
+}, {
+  "entityIndex" : "21_entity777",
+  "entityUrl" : "http://dbpedia.org/resource/A._Homer_Byington",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:url" : [ "http://beta.worldcat.org/archivegrid/data/170883517" ]
+  },
+  "words" : [ "newspaper", "23", "12th", "-LRB-", "29", "Representatives", "Consul", "Aaron", "1910", "December", "1897", "U.S.", "Naples", "member", "represented", "July", "1858", "--", "editor", "Byington", "representing", "also", "House", ",", ".", "Senate", "1863", "Norwalk", "1861", "1860", "Connecticut", "-RRB-", "1907", "Homer", "publisher", "1826", "District" ],
+  "adjectives" : [ "12th" ],
+  "nouns" : [ "newspaper", "editor", "member", "publisher" ],
+  "text" : "Aaron Homer Byington (July 23, 1826 – December 29, 1910) was the U.S. Consul in Naples from 1897 to 1907. He was a newspaper publisher and editor. He also represented Norwalk in the Connecticut House of Representatives from 1858 to 1860, and was a member of the Connecticut Senate representing the 12th District from 1861 to 1863."
+} ]

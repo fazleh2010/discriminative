@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity10958",
+  "entityUrl" : "http://dbpedia.org/resource/Tarryl_Clark",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:cspan" : [ "1011524" ]
+  },
+  "words" : [ "Tarryl", "endorsement", "United", "Lynn", "Republican", "challenging", "incumbent", "States", "Democrat", "lost", "represented", "July", "portions", "including", "went", "15", "Democratic", "Cravaack", ",", "'s", "8th", "former", ".", "August", "Senate", "district", "-RRB-", "counties", "District", "primary", "Congress", "congressional", "-LRB-", "2012", "2011", "2010", "Chip", "Michele", "Clark", "2006", "Party", "congressman", "member", "nominee", "Rick", "win", "31", "born", "politician", "Nolan", "Minnesota", "Benton", "sought", "Stearns", "unsuccessfully", "nomination", "1961", "Sherburne", "Democratic-Farmer-Labor", "challenge", "Bachmann" ],
+  "adjectives" : [ "congressional", "Democratic", "Republican", "8th", "former", "incumbent", "primary" ],
+  "nouns" : [ "endorsement", "congressman", "politician", "district", "member", "nominee", "Cravaack", "Chip", "nomination" ],
+  "text" : "Tarryl Lynn Clark (born July 31, 1961) is a Minnesota politician and a former member of the Minnesota Senate. A Democrat, she represented District 15, including portions of Benton, Sherburne, and Stearns counties, from 2006 to 2011. She was a Democratic-Farmer-Labor Party nominee for United States Congress in 2010, unsuccessfully challenging incumbent Republican Michele Bachmann. In 2011, Clark sought the Democratic nomination to challenge Republican congressman Chip Cravaack in Minnesota's 8th congressional district, but lost the endorsement to Rick Nolan, who went on to win the August 2012 primary."
+}, {
+  "entityIndex" : "2_entity11058",
+  "entityUrl" : "http://dbpedia.org/resource/Tim_Burns_(businessman)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:cspan" : [ "9267897" ]
+  },
+  "words" : [ "United", "Republican", "incumbent", "Western", "States", "Bob", "lost", "won", "businessman", "ran", "14", "Critz", "Democratic", "Senator", "House", ",", "'s", "April", ".", "Pennsylvania", "ending", "Senate", "district", "-RRB-", "campaign", "Burns", "party", "12th", "congressional", "-LRB-", "Jr.", "2012", "Mark", "2011", "2010", "Representatives", "general", "candidate", "U.S.", "mid-October", "February", "early", "November", "election", "born", "nomination", "special", "Casey", "Tim", "challenge", "1968", "represent" ],
+  "adjectives" : [ "special", "Western", "general", "12th", "congressional", "Democratic", "Republican", "early", "incumbent" ],
+  "nouns" : [ "candidate", "election", "district", "campaign", "businessman", "party", "nomination" ],
+  "text" : "Tim Burns (born April 14, 1968) is a Pennsylvania businessman. He ran as a Republican in the 2010 special election to represent Western Pennsylvania's 12th congressional district in the U.S. House of Representatives. Burns won the party nomination but lost the November general election to Democratic incumbent Mark Critz. From mid-October 2011 until ending his campaign in early February 2012, Burns was a candidate for the Republican nomination for United States Senate to challenge incumbent Senator Bob Casey, Jr. in the 2012 election."
+} ]

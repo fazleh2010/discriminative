@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity944",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Welch_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post6years" : [ "1978" ]
+  },
+  "words" : [ "``", "-LRB-", "Canadian", "29", "John", "governments", "Davis", "Stanley", "Party", "Bob", "OC", "Robert", "member", "Welch", "July", "Assembly", "''", "--", "13", "minister", "politician", "2000", ",", ".", "Robarts", "Progressive", "1963", "1985", "Miller", "served", "Conservative", "-RRB-", "Bill", "1928", "Legislative", "Ontario", "cabinet", "Frank", "Kemp" ],
+  "adjectives" : [ "Canadian", "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Robert Stanley Kemp \"Bob\" Welch, OC (July 13, 1928 – July 29, 2000) was a Canadian politician. He served in the Legislative Assembly of Ontario from 1963 to 1985 as a member of the Progressive Conservative Party, and was a cabinet minister in the governments of John Robarts, Bill Davis and Frank Miller."
+}, {
+  "entityIndex" : "2_entity9951",
+  "entityUrl" : "http://dbpedia.org/resource/Sandra_Pupatello",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:post6years" : [ "2009" ]
+  },
+  "words" : [ "-LRB-", "2012", "2011", "run", "global", "serving", "October", "1995", "Party", "government", "Pupatello", "Dalton", "leadership", "member", "provincial", "candidacy", "Assembly", "Minister", "November", "took", "McGuinty", "election", "business", "Liberal", "director", "born", "politician", ",", ".", "Canada", "announced", "markets", "1962", "6", "PricewaterhouseCoopers", "served", "-RRB-", "8", "Legislative", "position", "Ontario", "Sandra" ],
+  "adjectives" : [ "Legislative", "provincial", "global" ],
+  "nouns" : [ "government", "election", "business", "director", "politician", "leadership", "member", "candidacy", "position", "Assembly" ],
+  "text" : "Sandra Pupatello (born October 6, 1962) is a politician in Ontario, Canada. She served in the Legislative Assembly of Ontario from 1995 to 2011 as a member of the Ontario Liberal Party, serving as a Minister in the government of Dalton McGuinty. She did not run in the 2011 provincial election and took a position as director of business and global markets at PricewaterhouseCoopers. On November 8, 2012, Pupatello announced her candidacy for the leadership of the Liberal Party of Ontario. On January 26, 2013, she lost to Kathleen Wynne on the third and final ballot. Afterwards, she reportedly declined an offer to join Wynne's cabinet, instead returning to PricewaterhouseCoopers. Pupatello served as chair of Hydro One from 2014 to 2015. Pupatello is married to Jim Bennett, a former leader of the Newfoundland and Labrador Liberal Party."
+} ]

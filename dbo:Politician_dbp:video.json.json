@@ -1,0 +1,34 @@
+[ {
+  "entityIndex" : "1_entity10490",
+  "entityUrl" : "http://dbpedia.org/resource/Sabina_Yasmin_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:video" : [ "http://www.youtube.com/watch?v=5SvNYgRKO-M" ]
+  },
+  "words" : [ "MLA", "woman", "independent", "2011", "Khan", "Labour", "Yasmin", "A.", "contested", "Muslim", "Sabina", "Shehnaz", "candidate", "niece", "assembly", "state", "Minister", "Quadery", "Ghani", "election", "particularly", "minister", "Government", "Bengal", "West", "Mothabari", "politician", "victory", ",", "'s", "B.", "former", ".", "elected", "creditable", "seat", "constituency", "State", "Indian", "Choudhury", "first" ],
+  "adjectives" : [ "creditable", "independent", "Indian", "former", "first", "Muslim" ],
+  "nouns" : [ "MLA", "election", "woman", "minister", "Government", "politician", "victory", "A.", "seat", "candidate", "niece", "constituency", "assembly", "state" ],
+  "text" : "Sabina Yasmin is an Indian politician and a former Minister of State for Labour in the Government of West Bengal. She is an MLA, elected from the Mothabari constituency in the West Bengal state assembly election, 2011. Sabina Yasmin's victory from Mothabari constituency was particularly creditable because Shehnaz Quadery, a niece of A. B. A. Ghani Khan Choudhury contested the seat as an independent candidate. Sabina Yasmin was the first Muslim woman to be a minister in West Bengal. She was one of the seven Muslim woman MLAs in the West Bengal Vidhan Sabha. She resigned as a minister when the Congress party decided to pull out of the Mamata Banerjee government."
+}, {
+  "entityIndex" : "2_entity7905",
+  "entityUrl" : "http://dbpedia.org/resource/Mausam_Noor",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:video" : [ "http://www.youtube.com/watch?v=igolLfCO4Co", "http://www.youtube.com/watch?v=xGObZTwsFtk" ]
+  },
+  "words" : [ "Congress", "politics", "Syed", "-LRB-", "death", "Mausam", "Rubi", "contested", "2009", "mother", "October", "elite", "Sabha", "La", "school", "graduate", "won", "state", "1979", "Martiniere", "Noor", "Calcutta", "MP", "law", "15", "Bengal", "West", "born", "politician", "entered", ",", "thrice", ".", "Mohammad", "Girls", "seat", "educated", "Vidhan", "University", "constituency", "-RRB-", "Indian", "Sujapur", "Benazir", "daughter", "first" ],
+  "adjectives" : [ "elite", "Indian" ],
+  "nouns" : [ "seat", "mother", "MP", "law", "constituency", "death", "school", "graduate", "politician", "state", "thrice", "daughter" ],
+  "text" : "Mausam Benazir Noor (born 15 October 1979) is an Indian politician who is a Congress MP from the Indian state of West Bengal. The daughter of Syed Mohammad Noor and Rubi Noor, Mausam Benazir Noor was educated at the elite La Martiniere for Girls school in Calcutta, and is a law graduate from the University of Calcutta. She first entered politics when she contested and won from Sujapur (Vidhan Sabha constituency) on the death of her mother in 2009. Her mother had won the seat thrice. A Muslim by faith, currently she is also the West Bengal Youth Congress President. Thereafter, she was elected to the Lok Sabha, the same year from Maldaha Uttar (Lok Sabha constituency). On 12 December 2009, she married Mirza Kayesh Begg. A niece of A. B. A. Ghani Khan Choudhury, two of her other maternal uncles are also in politics – Abu Naser Khan Chowdhury (Congress MLA and Minister of State in the West Bengal government)and Abu Hashem Khan Chowdhury (Congress MP from Maldaha Dakshin (Lok Sabha constituency) and Malda District Congress President). She is said to have refused a ministerial berth in the Union Cabinet, and preferred motherhood instead."
+}, {
+  "entityIndex" : "3_entity864",
+  "entityUrl" : "http://dbpedia.org/resource/Aparupa_Poddar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:video" : [ "http://www.youtube.com/watch?v=HhVLQBFD7Pc" ]
+  },
+  "words" : [ "Commission", "BJP", "parliament", "belonging", "Sabha", "won", "Trinamool", "Poddar", "treated", "caste", "Lok", ",", "plea", ".", "India", "cancellation", "Islam", "converted", "-RRB-", "name", "changed", "Congress", "-LRB-", "clarified", "candidature", "Aparupa", "scheduled", "16th", "general", "candidate", "member", "hence", "election", "Bengal", "West", "could", "politician", "one", "Election", "seeking", "religion", "lodged", "constituency", "complaint", "Afrin", "2014", "Indian", "Arambagh", "Ali" ],
+  "adjectives" : [ "general", "Indian", "16th" ],
+  "nouns" : [ "election", "candidature", "caste", "politician", "parliament", "plea", "religion", "candidate", "cancellation", "constituency", "complaint", "member", "name" ],
+  "text" : "Aparupa Poddar (Afrin Ali) is an Indian politician and a member of parliament to the 16th Lok Sabha from Arambagh (Lok Sabha constituency), West Bengal. She won the Indian general election, 2014 as a All India Trinamool Congress candidate. The BJP had lodged a complaint with the Election Commission seeking cancellation of the candidature of Aparupa Poddar on the plea that she had converted to Islam and hence she could not be treated as one belonging to the scheduled caste. Aparupa Poddar had clarified that she had changed her name but not her religion. The Arambagh constituency has a seat reserved for scheduled castes."
+} ]
