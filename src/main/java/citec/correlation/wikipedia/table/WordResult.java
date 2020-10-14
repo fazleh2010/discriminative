@@ -60,6 +60,7 @@ public class WordResult implements Comparator<WordResult> {
         this.confidenceWord = this.format(object.getSupportWord());
         this.confidenceObject = this.format(object.getSupportKB());
         this.confidenceObjectAndKB = this.format(object.getKBAndWORD());
+        
         this.otherLift = this.format(object.getLift());
         Double lift=word.getKBAndWORD()/(word.getKB_FOUND() * object.getWORD_FOUND());
         lift=this.format(lift);

@@ -1,9 +1,0 @@
-id=643  property=dbo:serviceStartYear  object=1942  NumberOfEntitiesFoundForObject=12
-assembly-NN  multiply=0.166667  P(assembly|object)=0.833333  P(object|assembly)=0.2    Lift=0.016667 {Confidence word=0.107143 object=0.446429 =0.089286 Lift=1.866667}
-legislative-JJ  multiply=0.125  P(legislative|object)=0.75  P(object|legislative)=0.166667    Lift=0.013889 {Confidence word=0.107143 object=0.482143 =0.080357 Lift=1.555556}
-member-NN  multiply=0.102881  P(member|object)=0.833333  P(object|member)=0.123457    Lift=0.010288 {Confidence word=0.107143 object=0.723214 =0.089286 Lift=1.152263}
-minister-NN  multiply=0.094697  P(minister|object)=0.416667  P(object|minister)=0.227273    Lift=0.018939 {Confidence word=0.107143 object=0.196429 =0.044643 Lift=2.121212}
-government-NN  multiply=0.060606  P(government|object)=0.333333  P(object|government)=0.181818    Lift=0.015152 {Confidence word=0.107143 object=0.196429 =0.035714 Lift=1.69697}
-australian-JJ  multiply=0.032609  P(australian|object)=0.25  P(object|australian)=0.130435    Lift=0.01087 {Confidence word=0.107143 object=0.205357 =0.026786 Lift=1.217391}
-district-NN  multiply=0.026786  P(district|object)=0.25  P(object|district)=0.107143    Lift=0.008929 {Confidence word=0.107143 object=0.25 =0.026786 Lift=1.0}
-

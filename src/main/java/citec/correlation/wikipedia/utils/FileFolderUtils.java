@@ -245,6 +245,7 @@ public class FileFolderUtils {
                     probabilty += line;
                 }
                 String liftAndConfidence="Lift="+wordResults.getLift()+" "+"{Confidence"+ " "+"word="+wordResults.getConfidenceWord()+" object="+wordResults.getConfidenceObject()+" ="+wordResults.getConfidenceObjectAndKB()+" "+"Lift="+wordResults.getOtherLift()+"}";
+                liftAndConfidence="";
                 //temporarily lift value made null, since we are not sure about the Lift calculation
                 //lift="";
                 String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+liftAndConfidence+"\n";

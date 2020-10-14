@@ -8,18 +8,11 @@ package citec.correlation.wikipedia.main;
 import citec.correlation.wikipedia.table.Calculation;
 import citec.correlation.wikipedia.element.DbpediaClass;
 import citec.correlation.core.analyzer.TextAnalyzer;
-import citec.correlation.core.mysql.MySQLAccess;
 import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.core.weka.MakeArffTable;
-import citec.correlation.wikipedia.element.DBpediaProperty;
-import citec.correlation.wikipedia.table.EntityTable;
 import citec.correlation.wikipedia.table.Tables;
 import citec.correlation.core.yaml.ParseYaml;
-import citec.correlation.wikipedia.utils.FileFolderUtils;
 import citec.correlation.wikipedia.element.InterestedWords;
-import static citec.correlation.wikipedia.element.InterestedWords.PROPRTY_WISE;
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -32,6 +25,8 @@ import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import citec.correlation.wikipedia.element.PropertyNotation;
+import citec.correlation.wikipedia.element.Triple;
+import citec.correlation.wikipedia.table.WordResult;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -77,7 +72,11 @@ public class TableMain implements PropertyNotation {
             Integer numberOfEntitiesrmSelected=50;
             Integer wordFoundInNumberOfEntities=10;
             Integer TopNwords=100;
-            Integer ObjectMinimumEntities=10;
+            Integer ObjectMinimumEntities=60;
+            
+            Double wordGivenObject=0.45;
+            Double objectGivenWord=0.45;
+            
             
             InterestedWords interestedWords=null;
         
@@ -90,7 +89,7 @@ public class TableMain implements PropertyNotation {
         //checkProperties.add(DBO_COUNTRY);
         //checkProperties.add(DC_DESCRIPTION);
         //String dbo_ClassName=dbo_City;
-        String dbo_ClassName=PropertyNotation.dbo_City;
+        String dbo_ClassName=PropertyNotation.dbo_Politician;
         freqClasses.add(dbo_ClassName);
         String inputFile=allPoliticianFile;
         String fileType=DbpediaClass.ALL;
@@ -119,7 +118,7 @@ public class TableMain implements PropertyNotation {
             interestedWords=new InterestedWords(dbo_ClassName, tables,dbpediaDir +classDir+"tables/");
             interestedWords.prepareWords(dbo_ClassName,checkType,numberOfEntitiesrmSelected);
             interestedWords.getWords(wordFoundInNumberOfEntities,TopNwords,checkType);  tables = new Tables(new File(inputFile).getName(), dbpediaDir +classDir+ "tables/");
-            Calculation calculation = new Calculation(tables,dbo_ClassName,interestedWords,numberOfEntitiesrmSelected,ObjectMinimumEntities,dbpediaDir+output);
+            Calculation calculation = new Calculation(tables,dbo_ClassName,interestedWords,numberOfEntitiesrmSelected,ObjectMinimumEntities,dbpediaDir+output,wordGivenObject,objectGivenWord);
             System.out.println("System execution ended!!!");
             
             

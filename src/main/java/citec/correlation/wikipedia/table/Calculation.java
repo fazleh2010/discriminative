@@ -34,6 +34,8 @@ public class Calculation implements TextAnalyzer {
     private Integer numberOfEntities = 200;
     private Integer numberOfEntitiesSelected=50;
     private Integer objectMinimumENtities=50;
+    private Double wordGivenObject=0.3;
+    private Double objectGivenWord=0.3;
    
     /*public Calculation(String property, String inputJsonFile, String outputDir) throws Exception {
         Tables tables = new Tables(new File(inputJsonFile).getName(), outputDir);
@@ -44,10 +46,12 @@ public class Calculation implements TextAnalyzer {
         
     }*/
 
-    public Calculation(Tables tables, String className, InterestedWords interestedWords,Integer numberOfEntitiesSelected,Integer objectMinimumENtities,String outputDir) throws IOException, Exception {
+    public Calculation(Tables tables, String className, InterestedWords interestedWords,Integer numberOfEntitiesSelected,Integer objectMinimumENtities,String outputDir,Double wordGivenObject,Double objectGivenWord) throws IOException, Exception {
         this.numberOfEntitiesSelected=numberOfEntitiesSelected;
         this.objectMinimumENtities=objectMinimumENtities;
         this.interestedWords=interestedWords;
+        this.wordGivenObject=wordGivenObject;
+        this.objectGivenWord=objectGivenWord;
         this.calculation(tables,className,tables.getEntityTableDir());
     }
     
@@ -64,7 +68,7 @@ public class Calculation implements TextAnalyzer {
             List<String> selectedWords=new ArrayList<String>();
             
             
-            /*if (!tableName.contains("dbo:party")) {
+            /*if (!tableName.contains("dbo:country")) {
                 continue;
             }*/
             
@@ -80,6 +84,10 @@ public class Calculation implements TextAnalyzer {
             //all KBs..........................
             List<EntityResults> kbResults = new ArrayList<EntityResults>();
             for (String objectOfProperty : entityCategories.keySet()) {
+                /*if(!objectOfProperty.contains("http://dbpedia.org/resource/People's_Republic_of_China"))
+                    continue;*/
+                
+                
                 List<WordResult> results = new ArrayList<WordResult>();
                 List<DBpediaEntity> dbpediaEntitiesGroup = entityCategories.get(objectOfProperty);
                 Integer numberOfEntitiesFoundInObject=dbpediaEntitiesGroup.size();
@@ -92,6 +100,11 @@ public class Calculation implements TextAnalyzer {
                 //System.out.println("KB:"+A);
                 //all words
                 for (String word : selectedWords) {
+                    
+                    /*if(!word.contains("singaporean"))
+                    continue;*/
+                
+                    
                     String partsOfSpeech=null;
                     if(this.interestedWords.getAdjectives().contains(word))
                        partsOfSpeech= TextAnalyzer.ADJECTIVE;
@@ -205,6 +218,9 @@ public class Calculation implements TextAnalyzer {
         //if (WORD_FOUND > 10) {
         if (flag == WordResult.PROBABILITY_OBJECT_GIVEN_WORD) {
             Double probability_object_word = (OBJECT_AND_WORD_FOUND) / (WORD_FOUND);
+            if(probability_object_word<this.objectGivenWord)
+                return null;
+            
             Double confidenceWord=(WORD_FOUND/transactionNumber);
             Double confidenceKB=(OBJECT_FOUND/transactionNumber);
             Double confidenceKB_WORD=(OBJECT_AND_WORD_FOUND/transactionNumber);
@@ -216,6 +232,8 @@ public class Calculation implements TextAnalyzer {
         }
         else if (flag == WordResult.PROBABILITY_WORD_GIVEN_OBJECT) {
             Double probability_word_object = (OBJECT_AND_WORD_FOUND) / (OBJECT_FOUND);
+            if(probability_word_object<this.wordGivenObject)
+                return null;
             //pair = new Pair<Triple, Double>(probability_word_object_str, probability_word_object);
             triple=new Triple(probability_word_object_str,probability_word_object,WORD_FOUND,null,OBJECT_AND_WORD_FOUND,null,OBJECT_AND_WORD_FOUND,null,OBJECT_FOUND) ;
         } 

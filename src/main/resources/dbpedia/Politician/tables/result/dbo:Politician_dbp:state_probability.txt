@@ -1,27 +1,6 @@
-id=545  property=dbp:state  object=North Carolina  NumberOfEntitiesFoundForObject=69
-assembly-NN  multiply=0.505929  P(assembly|object)=0.695652  P(object|assembly)=0.727273    Lift=0.01054 {Confidence word=0.489362 object=0.468085 =0.340426 Lift=1.486166}
-district-NN  multiply=0.468935  P(district|object)=0.884058  P(object|district)=0.530435    Lift=0.007687 {Confidence word=0.489362 object=0.815603 =0.432624 Lift=1.083932}
-state-NN  multiply=0.42981  P(state|object)=0.797101  P(object|state)=0.539216    Lift=0.007815 {Confidence word=0.489362 object=0.723404 =0.390071 Lift=1.101876}
-democratic-JJ  multiply=0.396592  P(democratic|object)=0.652174  P(object|democratic)=0.608108    Lift=0.008813 {Confidence word=0.489362 object=0.524823 =0.319149 Lift=1.242656}
-term-NN  multiply=0.309501  P(term|object)=0.449275  P(object|term)=0.688889    Lift=0.009984 {Confidence word=0.489362 object=0.319149 =0.219858 Lift=1.407729}
-retired-JJ  multiply=0.261594  P(retired|object)=0.275362  P(object|retired)=0.95    Lift=0.013768 {Confidence word=0.489362 object=0.141844 =0.134752 Lift=1.941304}
-county-NN  multiply=0.251208  P(county|object)=0.376812  P(object|county)=0.666667    Lift=0.009662 {Confidence word=0.489362 object=0.276596 =0.184397 Lift=1.362319}
-republican-JJ  multiply=0.151779  P(republican|object)=0.347826  P(object|republican)=0.436364    Lift=0.006324 {Confidence word=0.489362 object=0.390071 =0.170213 Lift=0.8917}
-first-JJ  multiply=0.11646  P(first|object)=0.217391  P(object|first)=0.535714    Lift=0.007764 {Confidence word=0.489362 object=0.198582 =0.106383 Lift=1.09472}
-election-NN  multiply=0.095132  P(election|object)=0.231884  P(object|election)=0.410256    Lift=0.005946 {Confidence word=0.489362 object=0.276596 =0.113475 Lift=0.83835}
-primary-JJ  multiply=0.078261  P(primary|object)=0.130435  P(object|primary)=0.6    Lift=0.008696 {Confidence word=0.489362 object=0.106383 =0.06383 Lift=1.226087}
-former-JJ  multiply=0.04529  P(former|object)=0.144928  P(object|former)=0.3125    Lift=0.004529 {Confidence word=0.489362 object=0.22695 =0.070922 Lift=0.638587}
-american-JJ  multiply=0.027313  P(american|object)=0.101449  P(object|american)=0.269231    Lift=0.003902 {Confidence word=0.489362 object=0.184397 =0.049645 Lift=0.550167}
-politician-NN  multiply=0.02029  P(politician|object)=0.101449  P(object|politician)=0.2    Lift=0.002899 {Confidence word=0.489362 object=0.248227 =0.049645 Lift=0.408696}
-
-id=546  property=dbp:state  object=Wisconsin  NumberOfEntitiesFoundForObject=20
-assembly-NN  multiply=0.193939  P(assembly|object)=0.8  P(object|assembly)=0.242424    Lift=0.012121 {Confidence word=0.141844 object=0.468085 =0.113475 Lift=1.709091}
-state-NN  multiply=0.158824  P(state|object)=0.9  P(object|state)=0.176471    Lift=0.008824 {Confidence word=0.141844 object=0.723404 =0.12766 Lift=1.244118}
-election-NN  multiply=0.128205  P(election|object)=0.5  P(object|election)=0.25641    Lift=0.012821 {Confidence word=0.141844 object=0.276596 =0.070922 Lift=1.807692}
-district-NN  multiply=0.111304  P(district|object)=0.8  P(object|district)=0.13913    Lift=0.006957 {Confidence word=0.141844 object=0.815603 =0.113475 Lift=0.98087}
-democratic-JJ  multiply=0.097297  P(democratic|object)=0.6  P(object|democratic)=0.162162    Lift=0.008108 {Confidence word=0.141844 object=0.524823 =0.085106 Lift=1.143243}
-former-JJ  multiply=0.076562  P(former|object)=0.35  P(object|former)=0.21875    Lift=0.010937 {Confidence word=0.141844 object=0.22695 =0.049645 Lift=1.542188}
-politician-NN  multiply=0.022857  P(politician|object)=0.2  P(object|politician)=0.114286    Lift=0.005714 {Confidence word=0.141844 object=0.248227 =0.028369 Lift=0.805714}
-american-JJ  multiply=0.017308  P(american|object)=0.15  P(object|american)=0.115385    Lift=0.005769 {Confidence word=0.141844 object=0.184397 =0.021277 Lift=0.813462}
-republican-JJ  multiply=0.014545  P(republican|object)=0.2  P(object|republican)=0.072727    Lift=0.003636 {Confidence word=0.141844 object=0.390071 =0.028369 Lift=0.512727}
+id=19  property=dbp:state  object=North Carolina  NumberOfEntitiesFoundForObject=69
+assembly-NN  multiply=0.505929  P(assembly|object)=0.695652  P(object|assembly)=0.727273    
+district-NN  multiply=0.468935  P(district|object)=0.884058  P(object|district)=0.530435    
+state-NN  multiply=0.42981  P(state|object)=0.797101  P(object|state)=0.539216    
+democratic-JJ  multiply=0.396592  P(democratic|object)=0.652174  P(object|democratic)=0.608108    
 

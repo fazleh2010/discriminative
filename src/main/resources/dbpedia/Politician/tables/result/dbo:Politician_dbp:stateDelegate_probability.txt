@@ -1,11 +1,5 @@
-id=240  property=dbp:stateDelegate  object=Maryland  NumberOfEntitiesFoundForObject=54
-district-NN  multiply=0.604839  P(district|object)=0.833333  P(object|district)=0.725806    Lift=0.013441 {Confidence word=0.72 object=0.826667 =0.6 Lift=1.008065}
-politician-NN  multiply=0.568182  P(politician|object)=0.833333  P(object|politician)=0.681818    Lift=0.012626 {Confidence word=0.72 object=0.88 =0.6 Lift=0.94697}
-member-NN  multiply=0.468339  P(member|object)=0.518519  P(object|member)=0.903226    Lift=0.016726 {Confidence word=0.72 object=0.413333 =0.373333 Lift=1.25448}
-legislative-JJ  multiply=0.333333  P(legislative|object)=0.333333  P(object|legislative)=1.0    Lift=0.018519 {Confidence word=0.72 object=0.24 =0.24 Lift=1.388889}
-
-id=241  property=dbp:stateDelegate  object=Virginia  NumberOfEntitiesFoundForObject=21
-politician-NN  multiply=0.318182  P(politician|object)=1.0  P(object|politician)=0.318182    Lift=0.015152 {Confidence word=0.28 object=0.88 =0.28 Lift=1.136364}
-district-NN  multiply=0.221966  P(district|object)=0.809524  P(object|district)=0.274194    Lift=0.013057 {Confidence word=0.28 object=0.826667 =0.226667 Lift=0.979263}
-member-NN  multiply=0.013825  P(member|object)=0.142857  P(object|member)=0.096774    Lift=0.004608 {Confidence word=0.28 object=0.413333 =0.04 Lift=0.345622}
+id=13  property=dbp:stateDelegate  object=Maryland  NumberOfEntitiesFoundForObject=54
+district-NN  multiply=0.604839  P(district|object)=0.833333  P(object|district)=0.725806    
+politician-NN  multiply=0.568182  P(politician|object)=0.833333  P(object|politician)=0.681818    
+member-NN  multiply=0.468339  P(member|object)=0.518519  P(object|member)=0.903226    
 
