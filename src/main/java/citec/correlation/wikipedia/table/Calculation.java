@@ -130,6 +130,7 @@ public class Calculation implements TextAnalyzer {
 
     private  Map<String, List<DBpediaEntity>> getObjectsOfproperties(String property,List<DBpediaEntity> dbpediaEntities) {
         Map<String, List<DBpediaEntity>> entityCategories = new HashMap<String, List<DBpediaEntity>>();
+       
         LinkedHashSet<String> allObjects = new LinkedHashSet<String>();
         for (DBpediaEntity dbpediaEntity : dbpediaEntities) {
             if (!dbpediaEntity.getProperties().isEmpty()) {
