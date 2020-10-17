@@ -5,6 +5,7 @@
  */
 package citec.correlation.wikipedia.utils;
 
+import citec.correlation.wikipedia.qald.Unit;
 import citec.correlation.wikipedia.table.WordResult;
 import citec.correlation.wikipedia.table.EntityResults;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -285,6 +286,14 @@ public class FileFolderUtils {
         }
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(filename).toFile(), entityResults);
+    }
+    
+    public static void writeToJsonFile(List<Unit> units, String filename) throws IOException, Exception {
+        if (units.isEmpty()) {
+            throw new Exception("no data found to write in the file!!");
+        }
+        ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
+        mapper.writeValue(Paths.get(filename).toFile(), units);
     }
 
     /*public static void writeToTextFile(List<EntityResults> entityResults, String entityDir, String tableName) throws IOException {

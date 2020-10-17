@@ -63,11 +63,11 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
         if (analysisType.contains(POS_TAGGER)) {
             Reader inputString = new StringReader(inputText);
             BufferedReader reader = new BufferedReader(inputString);
-            posTagger(property,reader);
+            posTagger(reader);
         }
     }
 
-    private void posTagger(String property,BufferedReader reader) throws Exception {
+    private void posTagger(BufferedReader reader) throws Exception {
         taggerModel = new MaxentTagger(stanfordModelFile);
         Map<Integer, Map<String, Set<String>>> sentencePosTags = new HashMap<Integer, Map<String, Set<String>>>();
         Map<Integer, Set<String>> sentenceWords = new HashMap<Integer, Set<String>>();
@@ -93,20 +93,25 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
             sentenceWords.put(index, wordsofSentence);
             sentencePosTags.put(index, posTaggers);
         }
-        
+                
+        sentenwisePosSeperated(sentenceWords, sentencePosTags);
+    }
+
+    private void sentenwisePosSeperated(Map<Integer, Set<String>> sentenceWords, Map<Integer, Map<String, Set<String>>> sentencePosTags) {
         for (Integer number : sentenceWords.keySet()) {
-            if (sentenceWords.get(number) != null) {
+            Map<String, Set<String>>temp=sentencePosTags.get(number);            
+            if (temp != null) {
                 Set<String> set = sentenceWords.get(number);
                 words.addAll(set);
             }
-
-            if (sentencePosTags.get(number).get(TextAnalyzer.NOUN) != null) {
-                Set<String> set = sentencePosTags.get(number).get(TextAnalyzer.NOUN);
-                nouns.addAll(set);
-            }
-            if (sentencePosTags.get(number).get(TextAnalyzer.ADJECTIVE) != null) {
-                Set<String> set = sentencePosTags.get(number).get(TextAnalyzer.ADJECTIVE);
-                adjectives.addAll(set);
+            for (String posTag : temp.keySet()) {
+                 Set<String> set =temp.get(posTag);
+                if (posTag.contains(TextAnalyzer.NOUN)) {
+                    nouns.addAll(set);
+                }
+                if (posTag.contains(TextAnalyzer.ADJECTIVE)) {
+                    adjectives.addAll(set);
+                }
             }
 
             number++;
@@ -116,37 +121,6 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
             //System.out.println(sentenceInfo);
         }
 
-        /*for (Integer number : sentenceWords.keySet()) {
-            HashMap<String, Set<String>> sentenceInfo = new HashMap<String, Set<String>>();
-
-            if (sentenceWords.get(number) != null) {
-                Set<String> words = sentenceWords.get(number);
-                sentenceInfo.put(WORD + "_" + number.toString(), words);
-            }
-            else
-                 sentenceInfo.put(WORD + "_" + number.toString(), new HashSet<String>());
-            if (sentencePosTags.get(number).get(TextAnalyzer.NOUN) != null) {
-                Set<String> nouns = sentencePosTags.get(number).get(TextAnalyzer.NOUN);
-                sentenceInfo.put(NOUN + "_" + number.toString(), nouns);
-            }
-            else
-                sentenceInfo.put(NOUN + "_" + number.toString(), new HashSet<String>());
-            if (sentencePosTags.get(number).get(TextAnalyzer.ADJECTIVE) != null) {
-                Set<String> adjectives = sentencePosTags.get(number).get(TextAnalyzer.ADJECTIVE);
-                sentenceInfo.put(ADJECTIVE + "_" + number.toString(), adjectives);
-            }
-            else
-                 sentenceInfo.put(ADJECTIVE + "_" + number.toString(),new HashSet<String>());
-
-            //sentenceInfo.put(NOUN + "_" + number.toString(), sentencePosTags.get(number).get(TextAnalyzer.NOUN));
-            //sentenceInfo.put(ADJECTIVE + "_" + number.toString(), sentencePosTags.get(number).get(TextAnalyzer.ADJECTIVE));
-            this.sentences.add(sentenceInfo);
-            number++;
-            if (number == numberOfSentences) {
-                break;
-            }
-            //System.out.println(sentenceInfo);
-        }*/
     }
 
     private Map<String, Set<String>> populateValues(String key, String value, Map<String, Set<String>> posTaggers) {
