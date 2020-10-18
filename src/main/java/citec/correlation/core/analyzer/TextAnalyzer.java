@@ -22,6 +22,8 @@ public interface TextAnalyzer {
 
     public static final String POS_TAGGER = "POS_TAGGER";
     public static final String ADJECTIVE = "JJ";
+    public static final String VERB = "VB";
+
     public static final String NOUN = "NN";
     public static final String WORD = "WORD";
     public static final String SENTENCE = "SENTENCE";

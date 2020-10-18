@@ -50,6 +50,7 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
     private Set<String> words = new HashSet<String>();
     private Set<String> adjectives = new HashSet<String>();
     private Set<String> nouns = new HashSet<String>();
+    private Set<String> verbs = new HashSet<String>();
 
     private String text = null;
     //private final DBpediaAbstract dbpediaAbstract;
@@ -85,7 +86,9 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
                 if(isStopWord(word)){
                     continue;
                 }
-                if (taggedWord.tag().startsWith(TextAnalyzer.ADJECTIVE) || taggedWord.tag().startsWith(TextAnalyzer.NOUN)) {
+                if (taggedWord.tag().startsWith(TextAnalyzer.ADJECTIVE) 
+                        || taggedWord.tag().startsWith(TextAnalyzer.NOUN)
+                        || taggedWord.tag().startsWith(TextAnalyzer.VERB)) {
                     posTaggers = this.populateValues(taggedWord.tag(), word, posTaggers);
                 }
                 wordsofSentence.add(word);
@@ -111,6 +114,9 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
                 }
                 if (posTag.contains(TextAnalyzer.ADJECTIVE)) {
                     adjectives.addAll(set);
+                }
+                if (posTag.contains(TextAnalyzer.VERB)) {
+                    verbs.addAll(set);
                 }
             }
 
@@ -194,6 +200,10 @@ public class Analyzer implements TextAnalyzer,PropertyNotation {
 
     public Set<String> getNouns() {
         return nouns;
+    }
+
+    public Set<String> getVerbs() {
+        return verbs;
     }
 
 

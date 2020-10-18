@@ -1,10 +1,4 @@
 [ {
-  "word" : "8th",
-  "Qald_id" : [ "229" ],
-  "Sparql" : {
-    "Sparql_229" : "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbp: <http://dbpedia.org/property/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT ?name WHERE { dbr:8th_President_of_the_United_States dbo:wikiPageRedirects ?link . ?link dbp:name ?name }"
-  }
-}, {
   "word" : "active",
   "Qald_id" : [ "388" ],
   "Sparql" : {

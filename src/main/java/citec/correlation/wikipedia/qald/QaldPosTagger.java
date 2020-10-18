@@ -6,6 +6,7 @@
 package citec.correlation.wikipedia.qald;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
@@ -13,19 +14,21 @@ import java.util.Set;
  *
  * @author elahi
  */
-public class ResultQald9 {
+public class QaldPosTagger {
     private String id;
     private String question;
     private String sparql;
-    private Set<String> adjectives;
-    private Set<String> nouns;
+    private Set<String> adjectives=new HashSet<String>();
+    private Set<String> nouns=new HashSet<String>();
+    private Set<String> verbs=new HashSet<String>();
 
-    public ResultQald9(String id, String question, String sparql, Set<String> nouns, Set<String> adjectives) {
+    public QaldPosTagger(String id, String question, String sparql, Set<String> nouns, Set<String> adjectives,Set<String> verbs) {
         this.id = id;
         this.question = question;
         this.sparql = sparql;
         this.nouns = nouns;
         this.adjectives = adjectives;
+        this.verbs=verbs;
     }
 
 
@@ -47,6 +50,10 @@ public class ResultQald9 {
 
     public Set<String> getNouns() {
         return nouns;
+    }
+
+    public Set<String> getVerbs() {
+        return verbs;
     }
 
     @Override
