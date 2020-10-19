@@ -1,0 +1,11 @@
+id=65  property=dbp:religion  object=Hindu  NumberOfEntitiesFoundForObject=45
+indian-JJ  multiply=0.565993  P(indian|object)=0.911111  P(object|indian)=0.621212    
+sabha-NN  multiply=0.434625  P(sabha|object)=0.644444  P(object|sabha)=0.674419    
+
+id=66  property=dbp:religion  object=Roman Catholic  NumberOfEntitiesFoundForObject=45
+mayor-NN  multiply=0.100347  P(mayor|object)=0.377778  P(object|mayor)=0.265625    
+election-NN  multiply=0.087198  P(election|object)=0.422222  P(object|election)=0.206522    
+
+id=67  property=dbp:religion  object=Christian  NumberOfEntitiesFoundForObject=37
+republican-JJ  multiply=0.14783  P(republican|object)=0.513514  P(object|republican)=0.287879    
+

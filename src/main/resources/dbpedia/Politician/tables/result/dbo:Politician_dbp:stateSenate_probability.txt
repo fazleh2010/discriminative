@@ -1,0 +1,18 @@
+id=39  property=dbp:stateSenate  object=North Carolina  NumberOfEntitiesFoundForObject=30
+term-NN  multiply=0.125185  P(term|object)=0.433333  P(object|term)=0.288889    
+first-JJ  multiply=0.054444  P(first|object)=0.233333  P(object|first)=0.233333    
+
+id=40  property=dbp:stateSenate  object=Oregon  NumberOfEntitiesFoundForObject=21
+legislative-JJ  multiply=0.145833  P(legislative|object)=0.333333  P(object|legislative)=0.4375    
+
+id=41  property=dbp:stateSenate  object=Utah  NumberOfEntitiesFoundForObject=24
+city-NN  multiply=0.122967  P(city|object)=0.458333  P(object|city)=0.268293    
+former-JJ  multiply=0.078431  P(former|object)=0.333333  P(object|former)=0.235294    
+
+id=42  property=dbp:stateSenate  object=Maryland  NumberOfEntitiesFoundForObject=21
+term-NN  multiply=0.152381  P(term|object)=0.571429  P(object|term)=0.266667    
+
+id=43  property=dbp:stateSenate  object=Virginia  NumberOfEntitiesFoundForObject=36
+american-JJ  multiply=0.284169  P(american|object)=0.944444  P(object|american)=0.300885    
+member-NN  multiply=0.187989  P(member|object)=0.861111  P(object|member)=0.21831    
+

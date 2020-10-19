@@ -1,8 +1,14 @@
-id=17  property=dbp:occupation  object=Politician  NumberOfEntitiesFoundForObject=117
+id=28  property=dbp:occupation  object=Politician  NumberOfEntitiesFoundForObject=117
 malaysian-JJ  multiply=0.189255  P(malaysian|object)=0.25641  P(object|malaysian)=0.738095    
 family-NN  multiply=0.055315  P(family|object)=0.205128  P(object|family)=0.269663    
 
-id=18  property=dbp:occupation  object=politician  NumberOfEntitiesFoundForObject=137
+id=29  property=dbp:occupation  object=Businessman  NumberOfEntitiesFoundForObject=50
+businessman-NN  multiply=0.054328  P(businessman|object)=0.26  P(object|businessman)=0.208955    
+
+id=30  property=dbp:occupation  object=Lawyer  NumberOfEntitiesFoundForObject=52
+lawyer-NN  multiply=0.074176  P(lawyer|object)=0.346154  P(object|lawyer)=0.214286    
+
+id=31  property=dbp:occupation  object=politician  NumberOfEntitiesFoundForObject=137
 caucus-NN  multiply=0.421739  P(caucus|object)=0.824818  P(object|caucus)=0.511312    
 provincial-JJ  multiply=0.296919  P(provincial|object)=0.875912  P(object|provincial)=0.338983    
 

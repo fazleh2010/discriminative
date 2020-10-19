@@ -1,8 +1,8 @@
-id=14  property=dbp:children  object=1  NumberOfEntitiesFoundForObject=110
+id=21  property=dbp:children  object=1  NumberOfEntitiesFoundForObject=110
 lok-NN  multiply=0.149335  P(lok|object)=0.481818  P(object|lok)=0.309942    
 sabha-NN  multiply=0.138034  P(sabha|object)=0.481818  P(object|sabha)=0.286486    
 
-id=15  property=dbp:children  object=2  NumberOfEntitiesFoundForObject=216
+id=22  property=dbp:children  object=2  NumberOfEntitiesFoundForObject=216
 sabha-NN  multiply=0.09009  P(sabha|object)=0.277778  P(object|sabha)=0.324324    
 lok-NN  multiply=0.084904  P(lok|object)=0.259259  P(object|lok)=0.327485    
 

@@ -1,4 +1,16 @@
-id=20  property=dbo:religion  object=http://dbpedia.org/resource/Islam  NumberOfEntitiesFoundForObject=143
+id=59  property=dbo:religion  object=http://dbpedia.org/resource/Sunni_Islam  NumberOfEntitiesFoundForObject=30
+malay-JJ  multiply=0.278161  P(malay|object)=0.733333  P(object|malay)=0.37931    
+patronymic-JJ  multiply=0.24  P(patronymic|object)=0.4  P(object|patronymic)=0.6    
+
+id=60  property=dbo:religion  object=http://dbpedia.org/resource/Islam  NumberOfEntitiesFoundForObject=143
 somali-JJ  multiply=0.434492  P(somali|object)=0.454545  P(object|somali)=0.955882    
 minister-NN  multiply=0.154865  P(minister|object)=0.524476  P(object|minister)=0.295276    
+
+id=61  property=dbo:religion  object=http://dbpedia.org/resource/Hinduism  NumberOfEntitiesFoundForObject=50
+indian-JJ  multiply=0.205541  P(indian|object)=0.78  P(object|indian)=0.263514    
+sabha-NN  multiply=0.205352  P(sabha|object)=0.54  P(object|sabha)=0.380282    
+
+id=62  property=dbo:religion  object=http://dbpedia.org/resource/Hindu  NumberOfEntitiesFoundForObject=87
+indian-JJ  multiply=0.308248  P(indian|object)=0.724138  P(object|indian)=0.425676    
+constituency-NN  multiply=0.18264  P(constituency|object)=0.551724  P(object|constituency)=0.331034    
 

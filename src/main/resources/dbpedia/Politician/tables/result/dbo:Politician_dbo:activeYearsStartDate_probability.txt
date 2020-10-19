@@ -1,0 +1,3 @@
+id=18  property=dbo:activeYearsStartDate  object=1921-07-18  NumberOfEntitiesFoundForObject=26
+farmer-NN  multiply=0.221612  P(farmer|object)=0.846154  P(object|farmer)=0.261905    
+

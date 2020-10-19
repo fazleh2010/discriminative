@@ -1,0 +1,4 @@
+id=32  property=dbp:stateAssembly  object=Wisconsin  NumberOfEntitiesFoundForObject=22
+district-NN  multiply=0.656364  P(district|object)=0.863636  P(object|district)=0.76    
+member-NN  multiply=0.464876  P(member|object)=0.681818  P(object|member)=0.681818    
+

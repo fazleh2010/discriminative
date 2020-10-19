@@ -72,7 +72,7 @@ public class TableMain implements PropertyNotation {
             Integer numberOfEntitiesrmSelected=20;
             Integer wordFoundInNumberOfEntities=10;
             Integer TopNwords=100;
-            Integer ObjectMinimumEntities=100;
+            Integer ObjectMinimumEntities=20;
             
             Double wordGivenObjectThreshold=0.2;
             Double objectGivenWordThresold=0.2;

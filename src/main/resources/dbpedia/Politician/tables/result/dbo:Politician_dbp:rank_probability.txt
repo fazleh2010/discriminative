@@ -1,0 +1,4 @@
+id=79  property=dbp:rank  object=Captain  NumberOfEntitiesFoundForObject=27
+son-NN  multiply=0.238095  P(son|object)=0.555556  P(object|son)=0.428571    
+assembly-NN  multiply=0.049383  P(assembly|object)=0.222222  P(object|assembly)=0.222222    
+

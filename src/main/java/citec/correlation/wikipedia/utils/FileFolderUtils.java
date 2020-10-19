@@ -226,37 +226,15 @@ public class FileFolderUtils {
 
     }
 
-    public static void writeToTextFile(List<EntityResults> entityResults, String entityDir, String tableName) {
+    public static void writeToTextFile(String str, String entityDir, String tableName) {
         String filename = entityDir + "result/" + tableName.replaceAll(".json", "_probability.txt");
-        if (entityResults.isEmpty()) {
+        if (str != null) {
+            stringToFiles(str, filename);
+        } else {
             return;
         }
-
-        String str = "";
-            
-        for (EntityResults entities : entityResults) {
-            String entityLine = "id=" + entities.getObjectIndex() + "  " + "property=" + entities.getProperty() + "  " + "object=" + entities.getKB() + "  " + "NumberOfEntitiesFoundForObject=" + entities.getNumberOfEntitiesFoundInObject()+ "\n"; //+" "+"#the data within bracket is different way of counting confidence and lift"+ "\n";
-            String wordSum = "";
-            for (WordResult wordResults : entities.getDistributions()) {
-                String multiply = "multiply=" + wordResults.getMultiple();
-                String probabilty = "";
-                for (String rule : wordResults.getProbabilities().keySet()) {
-                    Double value = wordResults.getProbabilities().get(rule);
-                    String line = rule + "=" + String.valueOf(value) + "  ";
-                    probabilty += line;
-                }
-                String liftAndConfidence="Lift="+wordResults.getLift()+" "+"{Confidence"+ " "+"word="+wordResults.getConfidenceWord()+" object="+wordResults.getConfidenceObject()+" ="+wordResults.getConfidenceObjectAndKB()+" "+"Lift="+wordResults.getOtherLift()+"}";
-                liftAndConfidence="";
-                //temporarily lift value made null, since we are not sure about the Lift calculation
-                //lift="";
-                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+liftAndConfidence+"\n";
-                wordSum += wordline;
-            }
-            entityLine = entityLine + wordSum + "\n";
-            str += entityLine;
-        }
-        stringToFiles(str, filename);
     }
+
 
     public void printFileList(String filePath) {
 

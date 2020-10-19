@@ -1,4 +1,8 @@
-id=19  property=dbo:office  object=Queensland Legislative  NumberOfEntitiesFoundForObject=123
+id=46  property=dbo:office  object=Queensland Legislative  NumberOfEntitiesFoundForObject=123
 labor-NN  multiply=0.326501  P(labor|object)=0.739837  P(object|labor)=0.441315    
 australian-JJ  multiply=0.320991  P(australian|object)=0.918699  P(object|australian)=0.349398    
+
+id=47  property=dbo:office  object=MP  NumberOfEntitiesFoundForObject=66
+lok-NN  multiply=0.247748  P(lok|object)=0.833333  P(object|lok)=0.297297    
+14th-JJ  multiply=0.212536  P(14th|object)=0.484848  P(object|14th)=0.438356    
 

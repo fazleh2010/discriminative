@@ -1,0 +1,4 @@
+id=80  property=dbp:premier  object=http://dbpedia.org/resource/Gordon_Campbell_(Canadian_politician)  NumberOfEntitiesFoundForObject=28
+canadian-JJ  multiply=0.328571  P(canadian|object)=0.821429  P(object|canadian)=0.4    
+liberal-JJ  multiply=0.215136  P(liberal|object)=0.785714  P(object|liberal)=0.27381    
+

@@ -11,6 +11,7 @@ import citec.correlation.wikipedia.utils.SortUtils;
 import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.wikipedia.element.InterestedWords;
 import citec.correlation.wikipedia.element.Triple;
+import static citec.correlation.wikipedia.utils.FileFolderUtils.stringToFiles;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -62,6 +63,7 @@ public class Calculation implements TextAnalyzer {
         tables.readTable(className);
         Map<String, List<DBpediaEntity>> entityCategories = new HashMap<String, List<DBpediaEntity>>();
         for (String tableName : tables.getEntityTables().keySet()) {
+            System.out.println("tableName:"+tableName);
             List<DBpediaEntity> dbpediaEntities = tables.getEntityTables().get(tableName).getDbpediaEntities();
             if(dbpediaEntities.size()<numberOfEntitiesSelected)
                      continue;
@@ -140,7 +142,8 @@ public class Calculation implements TextAnalyzer {
             }
 
             tableResults.put(tableName, kbResults);
-            FileFolderUtils.writeToTextFile(kbResults, tables.getEntityTableDir(),tableName);
+            String str=makeString(kbResults);
+            FileFolderUtils.writeToTextFile(str, tables.getEntityTableDir(),tableName);
         }
     }
 
@@ -313,7 +316,65 @@ public class Calculation implements TextAnalyzer {
              FileFolderUtils.stringToFiles(str, fileName);
 
     }
+    
+    public String getFileString(List<EntityResults> entityResults) throws Exception {
+        if (entityResults.isEmpty()) {
+            throw new Exception("No result available to read!!");
+        }
 
+        String str = "";
+            
+        for (EntityResults entities : entityResults) {
+            String entityLine = "id=" + entities.getObjectIndex() + "  " + "property=" + entities.getProperty() + "  " + "object=" + entities.getKB() + "  " + "NumberOfEntitiesFoundForObject=" + entities.getNumberOfEntitiesFoundInObject()+ "\n"; //+" "+"#the data within bracket is different way of counting confidence and lift"+ "\n";
+            String wordSum = "";
+            for (WordResult wordResults : entities.getDistributions()) {
+                String multiply = "multiply=" + wordResults.getMultiple();
+                String probabilty = "";
+                for (String rule : wordResults.getProbabilities().keySet()) {
+                    Double value = wordResults.getProbabilities().get(rule);
+                    String line = rule + "=" + String.valueOf(value) + "  ";
+                    probabilty += line;
+                }
+                String liftAndConfidence="Lift="+wordResults.getLift()+" "+"{Confidence"+ " "+"word="+wordResults.getConfidenceWord()+" object="+wordResults.getConfidenceObject()+" ="+wordResults.getConfidenceObjectAndKB()+" "+"Lift="+wordResults.getOtherLift()+"}";
+                liftAndConfidence="";
+                //temporarily lift value made null, since we are not sure about the Lift calculation
+                //lift="";
+                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+liftAndConfidence+"\n";
+                wordSum += wordline;
+            }
+            entityLine = entityLine + wordSum + "\n";
+            str += entityLine;
+        }
+        return str;
+    }
 
+  private static String makeString(List<EntityResults> entityResults) {
+      if(entityResults.isEmpty()){
+          return null;
+      }
+        String str = "";
+        for (EntityResults entities : entityResults) {
+            String entityLine = "id=" + entities.getObjectIndex() + "  " + "property=" + entities.getProperty() + "  " + "object=" + entities.getKB() + "  " + "NumberOfEntitiesFoundForObject=" + entities.getNumberOfEntitiesFoundInObject()+ "\n"; //+" "+"#the data within bracket is different way of counting confidence and lift"+ "\n";
+            String wordSum = "";
+            for (WordResult wordResults : entities.getDistributions()) {
+                String multiply = "multiply=" + wordResults.getMultiple();
+                String probabilty = "";
+                for (String rule : wordResults.getProbabilities().keySet()) {
+                    Double value = wordResults.getProbabilities().get(rule);
+                    String line = rule + "=" + String.valueOf(value) + "  ";
+                    probabilty += line;
+                }
+                String liftAndConfidence="Lift="+wordResults.getLift()+" "+"{Confidence"+ " "+"word="+wordResults.getConfidenceWord()+" object="+wordResults.getConfidenceObject()+" ="+wordResults.getConfidenceObjectAndKB()+" "+"Lift="+wordResults.getOtherLift()+"}";
+                liftAndConfidence="";
+                //temporarily lift value made null, since we are not sure about the Lift calculation
+                //lift="";
+                String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+liftAndConfidence+"\n";
+                wordSum += wordline;
+            }
+            entityLine = entityLine + wordSum + "\n";
+            str += entityLine;
+        }
+        return str;
+    }
    
 }

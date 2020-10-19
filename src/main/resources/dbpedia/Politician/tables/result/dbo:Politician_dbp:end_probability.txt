@@ -1,0 +1,7 @@
+id=44  property=dbp:end  object=1879  NumberOfEntitiesFoundForObject=24
+region-NN  multiply=0.112179  P(region|object)=0.416667  P(object|region)=0.269231    
+
+id=45  property=dbp:end  object=1887  NumberOfEntitiesFoundForObject=20
+conservative-JJ  multiply=0.06  P(conservative|object)=0.2  P(object|conservative)=0.3    
+independent-JJ  multiply=0.05  P(independent|object)=0.2  P(object|independent)=0.25    
+

@@ -1,8 +1,12 @@
-id=11  property=dbp:imagesize  object=150  NumberOfEntitiesFoundForObject=232
+id=15  property=dbp:imagesize  object=150  NumberOfEntitiesFoundForObject=232
 assembly-NN  multiply=0.327977  P(assembly|object)=0.612069  P(object|assembly)=0.535849    
 member-NN  multiply=0.32276  P(member|object)=0.715517  P(object|member)=0.451087    
 
-id=12  property=dbp:imagesize  object=180  NumberOfEntitiesFoundForObject=106
+id=16  property=dbp:imagesize  object=180  NumberOfEntitiesFoundForObject=106
 member-NN  multiply=0.148072  P(member|object)=0.716981  P(object|member)=0.206522    
 assembly-NN  multiply=0.145817  P(assembly|object)=0.603774  P(object|assembly)=0.241509    
+
+id=17  property=dbp:imagesize  object=200  NumberOfEntitiesFoundForObject=85
+party-NN  multiply=0.10715  P(party|object)=0.458824  P(object|party)=0.233533    
+minister-NN  multiply=0.045378  P(minister|object)=0.211765  P(object|minister)=0.214286    
 
