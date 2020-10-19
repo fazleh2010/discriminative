@@ -35,13 +35,15 @@ public class EntityResults {
     @JsonProperty("numberOfEntitiesFoundInObject")
     private Integer numberOfEntitiesFoundInObject;
 
-    public EntityResults(String property, String object, Integer numberOfEntitiesFoundInObject, List<WordResult> distributions) {
+    public EntityResults(String property, String object, Integer numberOfEntitiesFoundInObject, List<WordResult> distributions,Integer topWordLimit) {
         this.property = property;
         this.KB = object;
         this.numberOfEntitiesFoundInObject = numberOfEntitiesFoundInObject;
         this.distributions = distributions;
         Collections.sort(this.distributions, new WordResult());
         Collections.reverse(this.distributions);
+        this.distributions=getTopElements(distributions,topWordLimit);
+         
         index = index + 1;
         this.objectIndex = index.toString();
         /*for(Result result:this.distributions){
@@ -82,6 +84,13 @@ public class EntityResults {
     @Override
     public String toString() {
         return "Results{" + "objectIndex=" + objectIndex + ", property=" + property + ", KB=" + KB + ", distributions=" + distributions + '}';
+    }
+
+    private List<WordResult> getTopElements(List<WordResult> list, Integer topWordLimit) {
+        if (topWordLimit <= list.size()) {
+            return new ArrayList<>(list.subList(0, topWordLimit));
+        }
+        return list;
     }
 
 }

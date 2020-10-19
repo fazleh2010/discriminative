@@ -31,11 +31,11 @@ public class Calculation implements TextAnalyzer {
 
     private InterestedWords interestedWords =null;
     private  Map<String, List<EntityResults>> tableResults = new HashMap<String, List<EntityResults> >();
-    private Integer numberOfEntities = 200;
-    private Integer numberOfEntitiesSelected=50;
-    private Integer objectMinimumENtities=50;
-    private Double wordGivenObject=0.3;
-    private Double objectGivenWord=0.3;
+    private final Integer numberOfEntitiesSelected;
+    private final Integer objectMinimumENtities;
+    private final Double wordGivenObjectThresold;
+    private final Double objectGivenWordThresold;
+    private final Integer topWordLimitToConsiderThresold;
    
     /*public Calculation(String property, String inputJsonFile, String outputDir) throws Exception {
         Tables tables = new Tables(new File(inputJsonFile).getName(), outputDir);
@@ -46,12 +46,15 @@ public class Calculation implements TextAnalyzer {
         
     }*/
 
-    public Calculation(Tables tables, String className, InterestedWords interestedWords,Integer numberOfEntitiesSelected,Integer objectMinimumENtities,String outputDir,Double wordGivenObject,Double objectGivenWord) throws IOException, Exception {
+    public Calculation(Tables tables, String className, InterestedWords interestedWords,Integer numberOfEntitiesSelected,
+                       Integer objectMinimumENtities,String outputDir,
+                       Double wordGivenObjectThresold,Double objectGivenWordThresold,Integer topWordLimitToConsiderThresold) throws IOException, Exception {
         this.numberOfEntitiesSelected=numberOfEntitiesSelected;
         this.objectMinimumENtities=objectMinimumENtities;
         this.interestedWords=interestedWords;
-        this.wordGivenObject=wordGivenObject;
-        this.objectGivenWord=objectGivenWord;
+        this.wordGivenObjectThresold=wordGivenObjectThresold;
+        this.objectGivenWordThresold=objectGivenWordThresold;
+        this.topWordLimitToConsiderThresold=topWordLimitToConsiderThresold;
         this.calculation(tables,className,tables.getEntityTableDir());
     }
     
@@ -129,7 +132,7 @@ public class Calculation implements TextAnalyzer {
                 }//all words end
                 
                 if (!results.isEmpty()) {
-                    EntityResults kbResult = new EntityResults(property, objectOfProperty,numberOfEntitiesFoundInObject,results);
+                    EntityResults kbResult = new EntityResults(property, objectOfProperty,numberOfEntitiesFoundInObject,results,topWordLimitToConsiderThresold);
                     kbResults.add(kbResult);
                 }
                
@@ -218,7 +221,7 @@ public class Calculation implements TextAnalyzer {
         //if (WORD_FOUND > 10) {
         if (flag == WordResult.PROBABILITY_OBJECT_GIVEN_WORD) {
             Double probability_object_word = (OBJECT_AND_WORD_FOUND) / (WORD_FOUND);
-            if(probability_object_word<this.objectGivenWord)
+            if(probability_object_word<this.objectGivenWordThresold)
                 return null;
             
             Double confidenceWord=(WORD_FOUND/transactionNumber);
@@ -232,7 +235,7 @@ public class Calculation implements TextAnalyzer {
         }
         else if (flag == WordResult.PROBABILITY_WORD_GIVEN_OBJECT) {
             Double probability_word_object = (OBJECT_AND_WORD_FOUND) / (OBJECT_FOUND);
-            if(probability_word_object<this.wordGivenObject)
+            if(probability_word_object<this.wordGivenObjectThresold)
                 return null;
             //pair = new Pair<Triple, Double>(probability_word_object_str, probability_word_object);
             triple=new Triple(probability_word_object_str,probability_word_object,WORD_FOUND,null,OBJECT_AND_WORD_FOUND,null,OBJECT_AND_WORD_FOUND,null,OBJECT_FOUND) ;

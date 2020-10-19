@@ -1,0 +1,4 @@
+id=19  property=dbo:office  object=Queensland Legislative  NumberOfEntitiesFoundForObject=123
+labor-NN  multiply=0.326501  P(labor|object)=0.739837  P(object|labor)=0.441315    
+australian-JJ  multiply=0.320991  P(australian|object)=0.918699  P(object|australian)=0.349398    
+

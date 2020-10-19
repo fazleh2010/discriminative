@@ -1,0 +1,4 @@
+id=23  property=dbo:occupation  object=http://dbpedia.org/resource/Politician  NumberOfEntitiesFoundForObject=117
+national-JJ  multiply=0.058741  P(national|object)=0.230769  P(object|national)=0.254545    
+leader-NN  multiply=0.055315  P(leader|object)=0.205128  P(object|leader)=0.269663    
+

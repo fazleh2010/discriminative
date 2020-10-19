@@ -69,13 +69,14 @@ public class TableMain implements PropertyNotation {
             Integer ObjectMinimumEntities=50;*/
             
             //parameter for actor
-            Integer numberOfEntitiesrmSelected=50;
+            Integer numberOfEntitiesrmSelected=20;
             Integer wordFoundInNumberOfEntities=10;
             Integer TopNwords=100;
-            Integer ObjectMinimumEntities=60;
+            Integer ObjectMinimumEntities=100;
             
-            Double wordGivenObject=0.8;
-            Double objectGivenWord=0.8;
+            Double wordGivenObjectThreshold=0.2;
+            Double objectGivenWordThresold=0.2;
+            Integer topWordLimitToConsiderThresold=2;
             
             
             InterestedWords interestedWords=null;
@@ -118,7 +119,7 @@ public class TableMain implements PropertyNotation {
             interestedWords=new InterestedWords(dbo_ClassName, tables,dbpediaDir +classDir+"tables/");
             interestedWords.prepareWords(dbo_ClassName,checkType,numberOfEntitiesrmSelected);
             interestedWords.getWords(wordFoundInNumberOfEntities,TopNwords,checkType);  tables = new Tables(new File(inputFile).getName(), dbpediaDir +classDir+ "tables/");
-            Calculation calculation = new Calculation(tables,dbo_ClassName,interestedWords,numberOfEntitiesrmSelected,ObjectMinimumEntities,dbpediaDir+output,wordGivenObject,objectGivenWord);
+            Calculation calculation = new Calculation(tables,dbo_ClassName,interestedWords,numberOfEntitiesrmSelected,ObjectMinimumEntities,dbpediaDir+output,wordGivenObjectThreshold,objectGivenWordThresold,topWordLimitToConsiderThresold);
             System.out.println("System execution ended!!!");
             
             

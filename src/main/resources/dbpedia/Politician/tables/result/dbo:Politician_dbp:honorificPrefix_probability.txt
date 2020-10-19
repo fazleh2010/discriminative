@@ -1,0 +1,4 @@
+id=28  property=dbp:honorificPrefix  object=http://dbpedia.org/resource/The_Honourable  NumberOfEntitiesFoundForObject=283
+legislative-JJ  multiply=0.483827  P(legislative|object)=0.628975  P(object|legislative)=0.769231    
+member-NN  multiply=0.428595  P(member|object)=0.763251  P(object|member)=0.561538    
+

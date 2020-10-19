@@ -1,0 +1,4 @@
+id=20  property=dbo:religion  object=http://dbpedia.org/resource/Islam  NumberOfEntitiesFoundForObject=143
+somali-JJ  multiply=0.434492  P(somali|object)=0.454545  P(object|somali)=0.955882    
+minister-NN  multiply=0.154865  P(minister|object)=0.524476  P(object|minister)=0.295276    
+

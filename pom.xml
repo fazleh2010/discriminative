@@ -78,7 +78,12 @@
             <version>1.24</version>
         </dependency>
         
-        
+        <dependency>
+            <groupId>qa.qf.qcri</groupId>
+            <artifactId>QCRI-EvaluationMetrics</artifactId>
+            <version>1.1</version>
+        </dependency>
+
     </dependencies>
 
     <build>

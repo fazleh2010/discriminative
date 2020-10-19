@@ -1,0 +1,4 @@
+id=25  property=dbp:successor  object=riding dissolved  NumberOfEntitiesFoundForObject=110
+canadian-JJ  multiply=0.269767  P(canadian|object)=0.790909  P(object|canadian)=0.341085    
+electoral-JJ  multiply=0.178729  P(electoral|object)=0.409091  P(object|electoral)=0.436893    
+
