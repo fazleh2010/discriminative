@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.wikipedia.main;
+package citec.correlation.wikipedia.evalution;
 
 import citec.correlation.core.analyzer.Analyzer;
 import static citec.correlation.core.analyzer.TextAnalyzer.POS_TAGGER;
@@ -29,19 +29,18 @@ import java.util.TreeMap;
  *
  * @author elahi
  */
-public class QALDMain {
+public class Qald {
 
-    private static String qald9Dir = "src/main/resources/qald9/data/";
-    private static String testJson = "qald-9-test-multilingual.json";
-    private static String trainingJson = "qald-9-train-multilingual.json";
     private static String english = "en";
-    private static Map<String, Unit> posTags = new TreeMap<String, Unit>();
+    private Set<String> posTags = new HashSet<String>();
+    // private  Map<String, Unit> posTags = new TreeMap<String, Unit>();
 
-    public static void main(String[] args) throws IOException, Exception {
-        List<String> posTags = new ArrayList<String>();
-        posTags.add(Analyzer.ADJECTIVE);
-        posTags.add(Analyzer.NOUN);
-        posTags.add(Analyzer.VERB);
+    public Qald(Set<String> posTags, String qald9Dir, String trainingJson) throws Exception {
+        this.posTags = posTags;
+        this.prepare(qald9Dir, trainingJson);
+    }
+
+    public void prepare(String qald9Dir, String trainingJson) throws IOException, Exception {
 
         File initialFile = new File(qald9Dir + trainingJson);
         List<QaldPosTagger> resultQald9s = parse(initialFile);

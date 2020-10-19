@@ -5,6 +5,7 @@
  */
 package citec.correlation.wikipedia.main;
 
+import citec.correlation.core.analyzer.Analyzer;
 import citec.correlation.wikipedia.table.Calculation;
 import citec.correlation.wikipedia.element.DbpediaClass;
 import citec.correlation.core.analyzer.TextAnalyzer;
@@ -40,8 +41,9 @@ import org.apache.commons.io.FileUtils;
  * @author elahi
  */
 public class TableMain implements PropertyNotation {
-
-    private static String dbpediaDir = "src/main/resources/dbpedia/";
+    private  static String qald9Dir = "src/main/resources/qald9/data/";
+    private  static String testJson = "qald-9-test-multilingual.json";
+    private  static String trainingJson = "qald-9-train-multilingual.json";    private static String dbpediaDir = "src/main/resources/dbpedia/";
     private static String dataDir = "data/";
     private static String entityTable = "entityTable/";
     private static String input = "input/";
@@ -60,23 +62,32 @@ public class TableMain implements PropertyNotation {
        private static String calculation = "calculation";
 
     public static void main(String[] args) throws IOException, Exception {
+        Set<String> posTags=new HashSet<String>();
+        posTags.add(TextAnalyzer.NOUN);
+        posTags.add(TextAnalyzer.ADJECTIVE);
+        posTags.add(Analyzer.VERB);
+        
+        //QALDMain qaldMain=new QALDMain (posTags,qald9Dir,trainingJson);
+        
         TableMain trainingTable = new TableMain();
         String type=calculation;
         Tables tables =null;
+        
+
             /*Integer numberOfEntitiesrmSelected=100;
             Integer wordFoundInNumberOfEntities=10;
             Integer TopNwords=100;
             Integer ObjectMinimumEntities=50;*/
             
             //parameter for actor
-            Integer numberOfEntitiesrmSelected=20;
+            Integer numberOfEntitiesrmSelected=100;
             Integer wordFoundInNumberOfEntities=10;
             Integer TopNwords=100;
-            Integer ObjectMinimumEntities=20;
+            Integer ObjectMinimumEntities=60;
             
-            Double wordGivenObjectThreshold=0.2;
-            Double objectGivenWordThresold=0.2;
-            Integer topWordLimitToConsiderThresold=2;
+            Double wordGivenObjectThres=0.2;
+            Double objectGivenWordThres=0.2;
+            Integer topWordLimitToConsiderThres=2;
             
             
             InterestedWords interestedWords=null;
@@ -119,7 +130,10 @@ public class TableMain implements PropertyNotation {
             interestedWords=new InterestedWords(dbo_ClassName, tables,dbpediaDir +classDir+"tables/");
             interestedWords.prepareWords(dbo_ClassName,checkType,numberOfEntitiesrmSelected);
             interestedWords.getWords(wordFoundInNumberOfEntities,TopNwords,checkType);  tables = new Tables(new File(inputFile).getName(), dbpediaDir +classDir+ "tables/");
-            Calculation calculation = new Calculation(tables,dbo_ClassName,interestedWords,numberOfEntitiesrmSelected,ObjectMinimumEntities,dbpediaDir+output,wordGivenObjectThreshold,objectGivenWordThresold,topWordLimitToConsiderThresold);
+            Calculation calculation = new Calculation(tables,dbo_ClassName,interestedWords,
+                                                      numberOfEntitiesrmSelected,ObjectMinimumEntities,
+                                                      dbpediaDir+output,qald9Dir,posTags,
+                                                      wordGivenObjectThres,objectGivenWordThres,topWordLimitToConsiderThres);
             System.out.println("System execution ended!!!");
             
             

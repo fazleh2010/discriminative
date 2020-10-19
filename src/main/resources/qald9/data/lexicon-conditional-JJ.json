@@ -1,0 +1,122 @@
+[ {
+  "Word" : "14th",
+  "rank" : {
+    "1" : [ "dbo:office \"MP\"", "0.212536" ]
+  }
+}, {
+  "Word" : "american",
+  "rank" : {
+    "1" : [ "dbo:nationality res:United_States", "0.48301" ],
+    "2" : [ "dbo:party res:Democratic_Party_(United_States)", "0.309157" ]
+  }
+}, {
+  "Word" : "australian",
+  "rank" : {
+    "1" : [ "dbp:nationality \"Australian\"", "0.926972" ],
+    "2" : [ "dbo:nationality res:Australia", "0.779686" ],
+    "3" : [ "dbo:party res:Australian_Labor_Party", "0.612847" ],
+    "4" : [ "dbp:parliament \"New South Wales\"", "0.476562" ],
+    "5" : [ "dbo:office \"Queensland Legislative\"", "0.320991" ]
+  }
+}, {
+  "Word" : "british",
+  "rank" : {
+    "1" : [ "dbo:country res:United_Kingdom", "0.546785" ],
+    "2" : [ "dbo:nationality res:United_Kingdom", "0.291898" ],
+    "3" : [ "dbo:party res:Labor_Party_(UK)", "0.212658" ]
+  }
+}, {
+  "Word" : "canadian",
+  "rank" : {
+    "1" : [ "dbp:successor \"riding dissolved\"", "0.269767" ]
+  }
+}, {
+  "Word" : "current",
+  "rank" : {
+    "1" : [ "dbp:successor \"Incumbent\"", "0.069892" ]
+  }
+}, {
+  "Word" : "democratic",
+  "rank" : {
+    "1" : [ "dbo:party res:Democratic_Party_(United_States)", "0.25355" ]
+  }
+}, {
+  "Word" : "electoral",
+  "rank" : {
+    "1" : [ "dbp:successor \"riding dissolved\"", "0.178729" ],
+    "2" : [ "dbp:successor \"incumbent\"", "0.056147" ]
+  }
+}, {
+  "Word" : "english",
+  "rank" : {
+    "1" : [ "dbo:party res:Liberal_Party_(UK)", "0.230253" ]
+  }
+}, {
+  "Word" : "indian",
+  "rank" : {
+    "1" : [ "dbo:nationality res:India", "0.816426" ],
+    "2" : [ "dbo:party res:Indian_National_Congress", "0.674782" ],
+    "3" : [ "dbo:religion res:Hindu", "0.308248" ]
+  }
+}, {
+  "Word" : "legislative",
+  "rank" : {
+    "1" : [ "dbp:nationality \"Australian\"", "0.531651" ],
+    "2" : [ "dbp:honorificPrefix res:The_Honourable", "0.483827" ],
+    "3" : [ "dbp:parliament \"New South Wales\"", "0.352367" ],
+    "4" : [ "dbp:honorificSuffix res:Member_of_the_Legislative_Assembly", "0.215672" ]
+  }
+}, {
+  "Word" : "liberal",
+  "rank" : {
+    "1" : [ "dbo:party res:Liberal_Party_(UK)", "0.254925" ]
+  }
+}, {
+  "Word" : "malay",
+  "rank" : {
+    "1" : [ "dbp:honorificSuffix res:Member_of_Parliament", "0.2902" ]
+  }
+}, {
+  "Word" : "malaysian",
+  "rank" : {
+    "1" : [ "dbp:honorificSuffix res:Member_of_Parliament", "0.272142" ],
+    "2" : [ "dbp:occupation \"Politician\"", "0.189255" ]
+  }
+}, {
+  "Word" : "municipal",
+  "rank" : {
+    "1" : [ "dbo:residence res:Ontario", "0.059044" ]
+  }
+}, {
+  "Word" : "national",
+  "rank" : {
+    "1" : [ "dbo:occupation res:Politician", "0.058741" ]
+  }
+}, {
+  "Word" : "new",
+  "rank" : {
+    "1" : [ "dbp:party \"Independent politician\"", "0.344086" ]
+  }
+}, {
+  "Word" : "provincial",
+  "rank" : {
+    "1" : [ "dbo:orderInOffice \"Member of the Legislative Assembly of Alberta\"", "0.324947" ],
+    "2" : [ "dbp:occupation \"politician\"", "0.296919" ]
+  }
+}, {
+  "Word" : "public",
+  "rank" : {
+    "1" : [ "dbo:party res:Republican_Party_(United_States)", "0.277984" ],
+    "2" : [ "dbo:nationality res:United_States", "0.096556" ]
+  }
+}, {
+  "Word" : "republican",
+  "rank" : {
+    "1" : [ "dbo:party res:Republican_Party_(United_States)", "0.459086" ]
+  }
+}, {
+  "Word" : "somali",
+  "rank" : {
+    "1" : [ "dbo:religion res:Islam", "0.434492" ]
+  }
+} ]

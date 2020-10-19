@@ -1,8 +1,4 @@
-id=92  property=dbo:residence  object=http://dbpedia.org/resource/Norwalk,_Connecticut  NumberOfEntitiesFoundForObject=34
-session-NN  multiply=0.493808  P(session|object)=0.852941  P(object|session)=0.578947    
-settler-NN  multiply=0.241486  P(settler|object)=0.352941  P(object|settler)=0.684211    
-
-id=93  property=dbo:residence  object=http://dbpedia.org/resource/Ontario  NumberOfEntitiesFoundForObject=123
+id=35  property=dbo:residence  object=http://dbpedia.org/resource/Ontario  NumberOfEntitiesFoundForObject=123
 councillor-NN  multiply=0.068535  P(councillor|object)=0.252033  P(object|councillor)=0.27193    
 municipal-JJ  multiply=0.059044  P(municipal|object)=0.260163  P(object|municipal)=0.22695    
 

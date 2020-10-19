@@ -11,16 +11,11 @@ import citec.correlation.wikipedia.utils.SortUtils;
 import citec.correlation.wikipedia.element.DBpediaEntity;
 import citec.correlation.wikipedia.element.InterestedWords;
 import citec.correlation.wikipedia.element.Triple;
-import static citec.correlation.wikipedia.utils.FileFolderUtils.stringToFiles;
+import citec.correlation.wikipedia.evalution.EntityInfo;
+import citec.correlation.wikipedia.evalution.Lexicon;
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 import java.util.concurrent.CopyOnWriteArrayList;
 import org.javatuples.Pair;
 
@@ -37,6 +32,8 @@ public class Calculation implements TextAnalyzer {
     private final Double wordGivenObjectThresold;
     private final Double objectGivenWordThresold;
     private final Integer topWordLimitToConsiderThresold;
+    private  Map<String, List<EntityInfo>> wordEntities = new TreeMap<String,List<EntityInfo>>();
+
    
     /*public Calculation(String property, String inputJsonFile, String outputDir) throws Exception {
         Tables tables = new Tables(new File(inputJsonFile).getName(), outputDir);
@@ -47,8 +44,9 @@ public class Calculation implements TextAnalyzer {
         
     }*/
 
-    public Calculation(Tables tables, String className, InterestedWords interestedWords,Integer numberOfEntitiesSelected,
-                       Integer objectMinimumENtities,String outputDir,
+    public Calculation(Tables tables, String className, InterestedWords interestedWords,
+                       Integer numberOfEntitiesSelected,Integer objectMinimumENtities,
+                       String outputDir,String qald9Dir,Set<String> posTags,
                        Double wordGivenObjectThresold,Double objectGivenWordThresold,Integer topWordLimitToConsiderThresold) throws IOException, Exception {
         this.numberOfEntitiesSelected=numberOfEntitiesSelected;
         this.objectMinimumENtities=objectMinimumENtities;
@@ -57,6 +55,8 @@ public class Calculation implements TextAnalyzer {
         this.objectGivenWordThresold=objectGivenWordThresold;
         this.topWordLimitToConsiderThresold=topWordLimitToConsiderThresold;
         this.calculation(tables,className,tables.getEntityTableDir());
+        Lexicon PosTaggerEntity=new Lexicon(qald9Dir,wordEntities,posTags);
+        
     }
     
     private void calculation(Tables tables, String className,String outputDir) throws IOException, Exception {
@@ -142,7 +142,7 @@ public class Calculation implements TextAnalyzer {
             }
 
             tableResults.put(tableName, kbResults);
-            String str=makeString(kbResults);
+            String str=entityResultToString(kbResults);
             FileFolderUtils.writeToTextFile(str, tables.getEntityTableDir(),tableName);
         }
     }
@@ -282,7 +282,6 @@ public class Calculation implements TextAnalyzer {
                 
              }
              String str = SortUtils.sort(mostCommonWords,100);
-             System.out.println(str);
              FileFolderUtils.stringToFiles(str, tableName);
              //tableTopwords.put(tableName, topWords);
         }
@@ -348,7 +347,7 @@ public class Calculation implements TextAnalyzer {
         return str;
     }
 
-  private static String makeString(List<EntityResults> entityResults) {
+  private  String entityResultToString(List<EntityResults> entityResults) {
       if(entityResults.isEmpty()){
           return null;
       }
@@ -370,6 +369,20 @@ public class Calculation implements TextAnalyzer {
                 //lift="";
                 String wordline = wordResults.getWord() + "  " + multiply + "  " + probabilty + "  "+liftAndConfidence+"\n";
                 wordSum += wordline;
+                String key=wordResults.getWord();
+                
+                if (wordEntities.containsKey(key)) {
+                    List<EntityInfo> propertyObjects = wordEntities.get(key);
+                    EntityInfo entityInfo = new EntityInfo(entities.getProperty(), entities.getKB(), wordResults.getMultipleValue(), wordResults.getProbabilities());
+                    propertyObjects.add(entityInfo);
+                    this.wordEntities.put(key, propertyObjects);
+                } else {
+                    List<EntityInfo> propertyObjects = new ArrayList<EntityInfo>();
+                    EntityInfo entityInfo = new EntityInfo(entities.getProperty(), entities.getKB(), wordResults.getMultipleValue(), wordResults.getProbabilities());
+                    propertyObjects.add(entityInfo);
+                    this.wordEntities.put(key, propertyObjects);
+                }
+                    
             }
             entityLine = entityLine + wordSum + "\n";
             str += entityLine;

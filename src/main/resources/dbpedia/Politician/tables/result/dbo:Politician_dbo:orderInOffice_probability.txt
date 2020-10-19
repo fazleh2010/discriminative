@@ -1,4 +1,4 @@
-id=70  property=dbo:orderInOffice  object=Member of the Legislative Assembly of Alberta  NumberOfEntitiesFoundForObject=289
+id=30  property=dbo:orderInOffice  object=Member of the Legislative Assembly of Alberta  NumberOfEntitiesFoundForObject=289
 caucus-NN  multiply=0.54343  P(caucus|object)=0.788927  P(object|caucus)=0.688822    
 provincial-JJ  multiply=0.324947  P(provincial|object)=0.878893  P(object|provincial)=0.369723    
 

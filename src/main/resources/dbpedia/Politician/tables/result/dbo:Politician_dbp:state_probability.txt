@@ -1,8 +1,4 @@
-id=77  property=dbp:state  object=North Carolina  NumberOfEntitiesFoundForObject=69
+id=32  property=dbp:state  object=North Carolina  NumberOfEntitiesFoundForObject=69
 assembly-NN  multiply=0.505929  P(assembly|object)=0.695652  P(object|assembly)=0.727273    
 district-NN  multiply=0.468935  P(district|object)=0.884058  P(object|district)=0.530435    
-
-id=78  property=dbp:state  object=Wisconsin  NumberOfEntitiesFoundForObject=20
-assembly-NN  multiply=0.193939  P(assembly|object)=0.8  P(object|assembly)=0.242424    
-election-NN  multiply=0.128205  P(election|object)=0.5  P(object|election)=0.25641    
 
