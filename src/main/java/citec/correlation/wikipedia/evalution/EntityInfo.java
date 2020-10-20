@@ -41,9 +41,9 @@ public class EntityInfo implements Comparator<EntityInfo>{
     private String setObjectOfProperty(String objectOfProperty) {
         if (objectOfProperty.contains(ENTITY_NOTATION)) {
             objectOfProperty = objectOfProperty.replace(ENTITY_NOTATION, "res:");
-        } else {
+        } /*else {
             objectOfProperty = "\"" + objectOfProperty + "\"";
-        }
+        }*/
         return objectOfProperty;
 
     }

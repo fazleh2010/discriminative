@@ -5,7 +5,6 @@
  */
 package citec.correlation.wikipedia.evalution;
 
-import citec.correlation.core.analyzer.TextAnalyzer;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import java.io.File;
@@ -18,7 +17,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-import org.javatuples.Pair;
 
 /**
  *
@@ -26,17 +24,15 @@ import org.javatuples.Pair;
  */
 public class Lexicon {
 
-    public Lexicon(String dir, Map<String, List<EntityInfo>> wordEntities,Set<String> posTags) throws IOException {
-        for (String pos:posTags) {
+    public Lexicon(String dir, Map<String, List<EntityInfo>> wordEntities, Set<String> posTags) throws IOException {
+        for (String pos : posTags) {
             Map<String, List<EntityInfo>> posEntitieInfos = entitiesSort(wordEntities, pos);
             this.prepareLexicon(dir, posEntitieInfos, pos);
-
         }
     }
 
     private Map<String, List<EntityInfo>> entitiesSort(Map<String, List<EntityInfo>> wordEntities, String posTag) {
         Map<String, List<EntityInfo>> posEntitieInfos = new TreeMap<String, List<EntityInfo>>();
-
         for (String word : wordEntities.keySet()) {
             List<EntityInfo> entityInfos = wordEntities.get(word);
             Collections.sort(entityInfos, new EntityInfo());
@@ -53,8 +49,9 @@ public class Lexicon {
     }
 
     private void prepareLexicon(String outputDir, Map<String, List<EntityInfo>> nounEntitieInfos, String partsOfSpeech) throws IOException {
-       if(nounEntitieInfos.isEmpty())
-           return;
+        if (nounEntitieInfos.isEmpty()) {
+            return;
+        }
         List<LexiconUnit> lexiconUnts = new ArrayList<LexiconUnit>();
         for (String word : nounEntitieInfos.keySet()) {
             List<EntityInfo> list = nounEntitieInfos.get(word);
@@ -63,8 +60,8 @@ public class Lexicon {
             for (EntityInfo entityInfo : list) {
                 index = index + 1;
                 List<String> pairs = new ArrayList<String>();
-                pairs.add(entityInfo.getPair());
-                pairs.add(entityInfo.getMultiply().toString());
+                pairs.add("pair=" + entityInfo.getPair());
+                pairs.add("multiplyValue=" + entityInfo.getMultiply().toString());
                 entityInfos.put(index, pairs);
             }
             LexiconUnit LexiconUnit = new LexiconUnit(word, partsOfSpeech, entityInfos);

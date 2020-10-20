@@ -9,14 +9,12 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.LinkedHashMap;
 import java.util.List;
-import org.javatuples.Pair;
-
 /**
  *
  * @author elahi
  */
 public class LexiconUnit {
-    @JsonProperty("Word")
+    @JsonProperty("word")
     private String word;
     @JsonIgnore
     private String partsOfSpeech;
@@ -33,7 +31,7 @@ public class LexiconUnit {
         return word;
     }
 
-    public LinkedHashMap<Integer, List<String> > getEntityInfos() {
+    public LinkedHashMap<Integer, List<String>> getEntityInfos() {
         return entityInfos;
     }
 
