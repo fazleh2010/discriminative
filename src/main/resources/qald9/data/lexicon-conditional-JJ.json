@@ -13,7 +13,7 @@
   "word" : "australian",
   "rank" : {
     "1" : [ "pair=dbp:nationality Australian", "multiplyValue=0.926972" ],
-    "2" : [ "pair=dbo:nationality res:Australia", "multiplyValue=0.779686" ],
+    "2" : [ "pair=dbo:country res:Australia", "multiplyValue=0.779686" ],
     "3" : [ "pair=dbo:party res:Australian_Labor_Party", "multiplyValue=0.612847" ],
     "4" : [ "pair=dbp:parliament New South Wales", "multiplyValue=0.476562" ],
     "5" : [ "pair=dbo:office Queensland Legislative", "multiplyValue=0.320991" ]
