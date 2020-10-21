@@ -1,0 +1,7 @@
+{
+  "word" : "american",
+  "rank" : {
+    "1" : [ "pair=dbo:nationality res:United_States", "multiplyValue=0.48301" ],
+    "2" : [ "pair=dbo:party res:Democratic_Party_(United_States)", "multiplyValue=0.309157" ]
+  }
+}

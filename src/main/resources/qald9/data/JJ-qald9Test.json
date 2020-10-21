@@ -1,0 +1,6 @@
+{
+  "word" : "active",
+  "Qald_id" : [ "388" ],
+  "Sparql" : {
+    "Sparql_388" : "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?d WHERE { res:Boris_Becker dbo:activeYearsEndDate ?d }"
+  }

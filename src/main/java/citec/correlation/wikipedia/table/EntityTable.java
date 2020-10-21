@@ -51,23 +51,23 @@ public class EntityTable {
             CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(entityUrl,freqProperty);
             DBpediaEntity dbpediaEntity = new DBpediaEntity(inputFileName,freqClass,freqProperty,entityString, curlSparqlQuery.getProperties(), POS_TAGGER);
             dbpediaEntities.add(dbpediaEntity);
-            //System.out.println("entityIndex:" + dbpediaEntity.getEntityIndex());
+            System.out.println("entity:" + dbpediaEntity.getEntityUrl()+" count"+index+ " total:"+total); 
             //if (entityString.startsWith("A")||entityString.startsWith("a")) {
-                if (!dbpediaEntity.getProperties().isEmpty()) {
-                    System.out.println("entity:" + dbpediaEntity.getEntityUrl()+" count"+index+ " total:"+total); 
+                //if (!dbpediaEntity.getProperties().isEmpty()) {
+                //    System.out.println("entity:" + dbpediaEntity.getEntityUrl()+" count"+index+ " total:"+total); 
                     /*if(dbpediaEntity.getProperties().containsKey(PropertyNotation.dbo_abstract)){
                        List<String> value=dbpediaEntity.getProperties().get(PropertyNotation.dbo_abstract);
                       System.out.println("entity:" + dbpediaEntity.getEntityUrl()+" property:" +value+" count"+index+ " total:"+total); 
                     }*/
                            
-                }
+                //}
 
             //}
            
 
             index++;
 
-           /* if (index >10) {
+             /*if (index >10) {
                 break;
             }*/
         }

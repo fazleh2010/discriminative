@@ -91,6 +91,7 @@ public class DbpediaClass {
 
     private void findAllPropertyEntities(String entitiesPropertyFile) throws IOException {
         for (String entity : FileFolderUtils.getList(entitiesPropertyFile)) {
+            System.out.println("entity:"+entity);
             String url = entity.replaceAll("<", "").replaceAll(">", "");
             entity = DBpediaEntity.extractEntityUrl(url);
             LinkedHashSet<String> entities = new LinkedHashSet<String>();
