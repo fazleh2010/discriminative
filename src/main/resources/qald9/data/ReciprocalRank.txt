@@ -1,0 +1,10 @@
+[australian, canadian, current, english, indian, new]
+
+
+australian predictedReciprocalRank: 0.5
+canadian predictedReciprocalRank: 0.0
+current predictedReciprocalRank: 0.0
+english predictedReciprocalRank: 0.0
+indian predictedReciprocalRank: 0.0
+new predictedReciprocalRank: 0.0
+

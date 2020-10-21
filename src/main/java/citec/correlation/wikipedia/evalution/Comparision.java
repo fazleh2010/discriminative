@@ -36,7 +36,7 @@ public class Comparision {
         Map<String, Unit> qald = getQald(qaldFileName);
         Set<String> commonWords = Sets.intersection(qald.keySet(), lexicons.keySet());
         List<String> words = new ArrayList<String>(commonWords);
-        //System.out.println(commonWords);
+        System.out.println(commonWords);
         this.comparisions(qald, lexicons, words);
     }
 
@@ -76,7 +76,10 @@ public class Comparision {
             //predictionsMaps.add(new HashMap<String, Double>());
             //golds = new ArrayList<Map<String, Boolean>>();
             Unit unit = qald.get(word);
+            //"dbo:country res:Australia";
             String sparql = "dbo:country res:Australia";
+           if(!unit.getPairs().isEmpty())
+               sparql=unit.getPairs().get(0);
             LexiconUnit LexiconUnit = lexicons.get(word);
             Map<String, Boolean> goldRelevance = new HashMap<String, Boolean>();
             Map<String, Double> predict = new HashMap<String, Double>();

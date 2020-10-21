@@ -25,6 +25,8 @@ public class Unit {
     private String word;
     @JsonIgnore
     private List<String> qaldQuestionId = new ArrayList<String>();
+    @JsonProperty("pairs")
+    private List<String> pairs=new ArrayList<String>();
     @JsonProperty("Sparql")
     private LinkedHashMap<String, String> sparqls = new LinkedHashMap<String, String>();
     @JsonIgnore
@@ -47,6 +49,19 @@ public class Unit {
         this.qaldQuestionId.add(qaldQuestionId);
         this.sparqls.put(Sparql_ + qaldQuestionId.toString(), sparql);
         this.word = word;
+        if(word.contains("australian")){
+            this.pairs.add("dbo:country res:Australia"); 
+            this.pairs.add("dbo:locationCountry res:Australia"); 
+            this.pairs.add("dbo:hometown res:Australia");    
+        }
+        else if(word.contains("canadian")){
+            this.pairs.add("dbo:country res:Canada");     
+        }
+        else if(word.contains("indian")){
+            this.pairs.add("dbo:location res:India");     
+        }
+        else
+            this.pairs=new ArrayList<String>();
     }
 
     public String getWord() {
@@ -67,6 +82,10 @@ public class Unit {
 
     public void setQaldQuestionId(String qaldQuestionId) {
         this.qaldQuestionId.add(qaldQuestionId);
+    }
+
+    public List<String> getPairs() {
+        return pairs;
     }
 
     @Override
