@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "1_entity6969",
+  "entityUrl" : "http://dbpedia.org/resource/Krishan_Pal_Gurjar",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyAm" : [ "Tigaon", "Mewla Maharaj Pur" ]
+  },
+  "words" : [ "Justice", "Bansi", "led", "parliament", "16th", "Empowerment", "general", "Sabha", "candidate", "Party", "won", "Bharatiya", "member", "Fariabad", "state", "vote", "Minister", "Social", "margin", "election", "minister", "Government", "Janata", "politician", "representing", "Lok", "transport", ",", ".", "466873", "seat", "Haryana", "constituency", "2014", "State", "Lal", "Gurjar", "Indian", "Pal", "1996-99", "Krishan" ],
+  "adjectives" : [ "general", "Indian", "16th" ],
+  "nouns" : [ "margin", "election", "minister", "Government", "politician", "transport", "parliament", "seat", "candidate", "constituency", "member", "state", "vote" ],
+  "text" : "Krishan Pal Gurjar is an Indian politician and a member of parliament in the 16th Lok Sabha representing the Fariabad constituency in the state of Haryana. He won his seat in the Indian general election, 2014 as a Bharatiya Janata Party candidate by margin of 466873 vote. He is now a Minister of State for Social Justice and Empowerment. He was minister for transport in Bansi Lal led Government of Haryana from 1996-99. He also served as bjp state president for Haryana."
+}, {
+  "entityIndex" : "2_entity12114",
+  "entityUrl" : "http://dbpedia.org/resource/Wan_Mokhtar_Ahmad",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyAm" : [ "Cukai" ]
+  },
+  "words" : [ "Tan", "Menteri", "-LRB-", "Prime", "Chief", "Wan", "held", "United", "Sri", "1974", "Barisan", "National", "ally", "similarly", "Mokhtar", "member", "coalition", "state", "Terengganu", "longest-serving", "Minister", "Malaysian", "Assembly", "1999", "period", "Nasional", "Organisation", "minister", "Mohamad", "chief", "Cukai", ",", "'s", "Ahmad", "Malays", ".", "Besar", "seat", "long-serving", "State", "Mahathir", "-RRB-", "Legislative", "Haji", "UMNO" ],
+  "adjectives" : [ "long-serving", "Legislative", "longest-serving", "Malaysian" ],
+  "nouns" : [ "seat", "period", "minister", "ally", "chief", "member", "coalition", "state", "Assembly" ],
+  "text" : "Tan Sri Haji Wan Mokhtar Ahmad was the Menteri Besar (Chief Minister) of the Malaysian state of Terengganu from 1974 to 1999. He held the seat of Cukai in the Terengganu State Legislative Assembly for the same period, as a member of the United Malays National Organisation (UMNO) in the Barisan Nasional coalition. He is Terengganu's longest-serving chief minister. Wan Mokhtar was an ally of the similarly long-serving Malaysian Prime Minister Mahathir Mohamad. In 1987 he was elected a national vice-president of UMNO, alongside Anwar Ibrahim, on Mahathir's ticket. His tenure as Chief Minister and a state assemblyman came to an end at the 1999 election, when the Pan-Malaysian Islamic Party took control of both the state assembly and Wan Mokhtar's seat in a landslide victory. Wan Mokhtar's son, Wan Abdul Hakim, was elected to the Terengganu state assembly in 2008."
+}, {
+  "entityIndex" : "3_entity7214",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Chee_Leong",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyAm" : [ "Malim Nawar", "Tanjong Tualang" ]
+  },
+  "words" : [ "22", "Kedah", "-LRB-", "Chee", "李志亮", "李", "October", "ruling", "December", "Association", "Barisan", "four", "coalition", "Vice-Presidents", "state", "liaison", "Li", "1957", "Malaysian", "Zhì", "Nasional", "election", "committee", "'", "born", "politician", "one", "MCA", "chairman", "Lee", ".", "appointed", "Leong", "pinyin", "highest", "2013", "name", "-RRB-", "Dato", "Chinese", ":", "votes", ";", "family", "Liàng", "party", "21" ],
+  "adjectives" : [ "Chinese", "Malaysian" ],
+  "nouns" : [ "ruling", "pinyin", "election", "committee", "politician", "name", "coalition", "chairman", "state", "liaison", "family", "party" ],
+  "text" : "(This is a Chinese name; the family name is Lee (李).) Dato' Lee Chee Leong (Chinese: 李志亮; pinyin: Li Zhì Liàng; born 22 October 1957) is a Malaysian politician. He is one of the four Vice-Presidents of the Malaysian Chinese Association (MCA) in the ruling Barisan Nasional coalition with the highest votes during the party election on 21 December 2013. He is appointed as the chairman of the Kedah MCA state liaison committee. He is also currently the chairman of MCA Kampar division. He served as Deputy Minister of Foreign Affairs from April 2008 to June 2010 and Deputy Home Minister and Member from June 2010 to May 2013. He was of the Parliament of Malaysia for the Kampar constituency in Perak, Malaysia from March 2008 to May 2013. Lee was elected to the State Assembly of Perak in 1990, holding the seat of Tanjung Tualang and was a member of the Perak Executive Council. Lee was successful for the federal seat of Kampar in the 2008 election and was appointed Deputy Minister of Foreign Affairs under the cabinet of Prime Minister Datuk Seri Najib Tun Razak in April 2009. He was then appointed as Deputy Home Minister in the minor cabinet reshuffle in June 2010."
+}, {
+  "entityIndex" : "4_entity9895",
+  "entityUrl" : "http://dbpedia.org/resource/RSN_Rayer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyAm" : [ "Seri Delima" ]
+  },
+  "words" : [ "June", "Action", "-LRB-", "Rayer", "Penang", "Seri", "s/o", "current", "assemblyman", "Party", "1971", "state", "Malaysian", "lawyer", "11", "Sanisvara", "Democratic", "Nethaji", "born", "politician", "N32", ",", "-", ".", "Rajaji", "-RRB-", "Delima" ],
+  "adjectives" : [ "current", "Democratic", "Malaysian" ],
+  "nouns" : [ "assemblyman", "politician", "state", "N32", "lawyer" ],
+  "text" : "Sanisvara Nethaji Rayer s/o Rajaji Rayer (born 11 June 1971) is a Malaysian born lawyer and politician from Democratic Action Party. He is the current state assemblyman for N32 - Seri Delima, Penang."
+}, {
+  "entityIndex" : "5_entity2709",
+  "entityUrl" : "http://dbpedia.org/resource/Dunstan_Endawie_Enchana",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyAm" : [ "Krian" ]
+  },
+  "words" : [ "career", "Iban", "several", "political", "President", "National", "July", "1937", "state", "1979", "cabinets", "Malaysian", "Minister", "Assembly", "tenure", "1977", "--", "11", "Datuk", "including", "Deputy", "Local", ",", "April", "former", ".", "State", "served", "-RRB-", "Dunstan", "Krian", "Sarawak", "Enchana", "-LRB-", "25", "Chief", "teacher", "defunct", "Party", "member", "Amar", "Government", "politician", "also", "SNAP", "people", "constituency", "2014", "Legislative", "Endawie" ],
+  "adjectives" : [ "defunct", "Iban", "several", "Legislative", "Krian", "political", "Local", "Malaysian", "former" ],
+  "nouns" : [ "career", "teacher", "constituency", "Government", "politician", "member", "state", "Assembly", "tenure" ],
+  "text" : "Datuk Amar Dunstan Endawie Enchana (25 July 1937 – 11 April 2014) was a Malaysian politician from Sarawak, former teacher and a member of the Iban people. He served as the Deputy Chief Minister of Sarawak from 1977 until 1979. Endawie also served as a member of the Sarawak State Legislative Assembly for the Krian constituency and the President of the now defunct Sarawak National Party (SNAP) during his political career. He was also a member of the several Sarawak state cabinets, including a tenure as state Minister for Local Government."
+}, {
+  "entityIndex" : "6_entity4297",
+  "entityUrl" : "http://dbpedia.org/resource/Husam_Musa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyAm" : [ "Salor" ]
+  },
+  "words" : [ "-LRB-", "PAS", "May", "2011", "alleged", "Vice-President", "2008", "October", "assemblyman", "sacked", "1959", "state", "Malaysian", "Salor", "14", "committee", "misconduct", "'", "born", "politician", "6th", ",", "'s", ".", "Paduka", "disciplinary", "Musa", "2016", "constituency", "2015", "N17", "Dato", "-RRB-", "Haji", "party", "Husam", "since" ],
+  "adjectives" : [ "disciplinary", "6th", "alleged", "Malaysian" ],
+  "nouns" : [ "assemblyman", "PAS", "committee", "misconduct", "constituency", "N17", "politician", "state", "party", "Salor" ],
+  "text" : "Dato' Paduka Haji Husam Musa (born 14 October 1959) is a Malaysian politician. He was the PAS Vice-President, from 2011 until 2015. On 6th May 2016, he was sacked from PAS by the party's disciplinary committee for alleged misconduct. Husam is the state assemblyman for the N17 Salor constituency since 2008. Prior to that, he was the State Assemblyman for Kijang constituency (2004). He was the federal member of parliament for Kubang Kerian in 1999–2004. His tenure as Member of Parliament gave him the prominence as a very capable politician in Malaysia and he received the accolade as \"Newsmaker of the Year 2003\" (malaysiakini.com) for his tenacity to bring up issues of public interest. He contested the parliamentary seat of Putrajaya in 2013 Malaysian general election but lost to Barisan Nasional's Tengku Adnan Mansor."
+}, {
+  "entityIndex" : "7_entity580",
+  "entityUrl" : "http://dbpedia.org/resource/Annuar_Rapaee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyAm" : [ "Nangka" ]
+  },
+  "words" : [ "Dr.", "-LRB-", "bin", "Nangka", "Assistant", "Rapaee", "state", "Member", "Assembly", "Minister", "November", "profession", "Recently", "born", "18", "Annuar", "also", ",", "cardiologist", ".", "1963", "State", "-RRB-", "Legislative", "Sarawak", "cabinet" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "profession", "state", "cardiologist", "cabinet", "Assembly" ],
+  "text" : "Dr. Annuar bin Rapaee (born 18 November 1963) is a Member of Sarawak State Legislative Assembly for Nangka,and a cardiologist by profession. Recently, he is also Assistant Minister in the Sarawak state cabinet."
+}, {
+  "entityIndex" : "8_entity769",
+  "entityUrl" : "http://dbpedia.org/resource/Ariff_Sabri_Abdul_Aziz",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:constituencyAm" : [ "Pulau Manis" ]
+  },
+  "words" : [ "Pahang", "Manis", "assemblyman", "Malaysian", "Mohamad", "commonly", "Democratic", "'", "Najib", "2000", ",", "'s", ".", "former", "Ariff", "AK47", "eradicate", "Pekan", "left", "failure", "served", "name", "citing", "corruption", "Aspan", "Action", "prominent", "Razak", "Pulau", "another", "blogger", "2012", "2008", "general", "Party", "Sabri", "known", "Aziz", "2004", "Abdul", "member", "early", "chief", "joined", "politician", "increase", "Malays", "livelihood", "Alias", "Dato", "information", "Sakmongkol", "UMNO" ],
+  "adjectives" : [ "general", "prominent", "Democratic", "Malaysian", "former", "early" ],
+  "nouns" : [ "assemblyman", "AK47", "livelihood", "chief", "failure", "politician", "blogger", "name", "member", "information", "corruption" ],
+  "text" : "Dato' Mohamad Ariff Sabri Abdul Aziz, commonly known by his blogger name of Sakmongkol AK47, is a Malaysian politician and prominent blogger. He is the former Pahang assemblyman for Pulau Manis from 2004 to 2008. He is a member of UMNO until 2012 and served as the Pekan UMNO chief of information under Najib Razak from 2000 to 2004. In early 2012, he and another prominent blogger, Aspan Alias left UMNO and joined the Democratic Action Party, citing UMNO's failure to eradicate corruption and increase the livelihood of Malays in general. He won the Pahang parliamentary seat of Raub in the 2013 general election."
+} ]

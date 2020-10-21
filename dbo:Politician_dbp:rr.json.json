@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity5199",
+  "entityUrl" : "http://dbpedia.org/resource/John_Lim",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rr" : [ "Im Yonggeun" ]
+  },
+  "words" : [ "Oregon", "23", "-LRB-", "Leader", "John", "United", "Republican", "run", "States", "December", "1995", "U.S.", "houses", "state", "1935", "Assembly", "Majority", "born", "politician", ",", ".", "unsuccessfully", "nomination", "Lim", "Governor", "Senate", "State", "served", "-RRB-", "Legislative" ],
+  "adjectives" : [ "Republican", "Legislative" ],
+  "nouns" : [ "Governor", "politician", "state", "Assembly", "nomination" ],
+  "text" : "John Lim (born December 23, 1935) is a Republican politician in the United States state of Oregon. He has served in both houses of the Oregon Legislative Assembly and was the Oregon State Senate Majority Leader in 1995. He has unsuccessfully run for the U.S. Senate and for the Republican nomination for Governor of Oregon."
+}, {
+  "entityIndex" : "2_entity11580",
+  "entityUrl" : "http://dbpedia.org/resource/Wan_J._Kim",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:rr" : [ "Gim Wanju" ]
+  },
+  "words" : [ "Justice", "23", "private", "-LRB-", "American", "Wan", "United", "serve", "States", "Rights", "Department", "2007", "2005", "Assistant", "Seoul", "Division", "immigrant", "sector", "31", "November", "Korea", "J.", "agency", "born", "South", "Korean", ",", "Kim", "former", ".", "August", "ever", "announced", "Civil", "Born", "served", "-RRB-", "General", "9", "position", "leaving", "1968", "Attorney", "first", "become" ],
+  "adjectives" : [ "private", "American", "Korean", "immigrant", "former", "first" ],
+  "nouns" : [ "agency", "position", "sector" ],
+  "text" : "Wan J. Kim (born 1968) is the former Assistant United States Attorney General for the Civil Rights Division in the Department of Justice, a position in which he served from November 9, 2005 to August 31, 2007. Born in Seoul, South Korea, Kim is the first immigrant to serve as Assistant Attorney General for the Civil Rights Division of the United States Department of Justice, and is the first Korean American ever to become an Assistant Attorney General. On August 23, 2007 Kim announced that he was leaving the agency for the private sector."
+} ]

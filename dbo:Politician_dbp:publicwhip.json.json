@@ -1,0 +1,144 @@
+[ {
+  "entityIndex" : "1_entity5830",
+  "entityUrl" : "http://dbpedia.org/resource/Julian_Huppert",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "Julian_Huppert" ]
+  },
+  "words" : [ "-LRB-", "United", "Zeichner", "stood", "Labour", "office", "Cambridge", "Party", "previously", "Democrat", "parliamentary", "term", "July", "Leon", "Huppert", "Member", "1978", "Liberal", "born", "politician", "one", "replaced", "failed", "Daniel", ",", "former", ".", "elected", "Howarth", "constituency", "Kingdom", "reelected", "-RRB-", "David", "bid", "Parliament", "Julian", "21", "succeeded" ],
+  "adjectives" : [ "Liberal", "parliamentary", "former" ],
+  "nouns" : [ "constituency", "politician", "term", "office", "bid" ],
+  "text" : "Julian Leon Huppert (born 21 July 1978) is a Liberal Democrat politician in the United Kingdom and former Member of Parliament for Cambridge parliamentary constituency. He succeeded the previously elected David Howarth, who stood down after one term. After one term in office he failed in his bid to be reelected, and was replaced by Daniel Zeichner of the Labour Party."
+}, {
+  "entityIndex" : "2_entity5839",
+  "entityUrl" : "http://dbpedia.org/resource/Jenny_Chapman",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "Jenny_Chapman" ]
+  },
+  "words" : [ "Chapman", "British", "-LRB-", "25", "MP", "election", "September", "Jennifer", "born", "politician", "Labour", "Darlington", "2010", ",", ".", "general", "1973", "Party", "-RRB-", "Member", "Parliament", "since" ],
+  "adjectives" : [ "general", "British" ],
+  "nouns" : [ "election", "politician" ],
+  "text" : "Jennifer Chapman (born 25 September 1973) is a British Labour Party politician, who has been the Member of Parliament (MP) for Darlington since the 2010 general election."
+}, {
+  "entityIndex" : "3_entity3124",
+  "entityUrl" : "http://dbpedia.org/resource/Emma_Lewell-Buck",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "emma_lewell-buck" ]
+  },
+  "words" : [ "-LRB-", "Louise", "Lewell-Buck", "Labour", "by-election", "Party", "female", "Member", "1978", "Shields", "November", "British", "MP", "winning", "born", "politician", "'", "South", ".", "2013", "8", "-RRB-", "Emma", "Parliament", "first", "since" ],
+  "adjectives" : [ "British", "South", "female", "first" ],
+  "nouns" : [ "MP", "politician", "by-election" ],
+  "text" : "Emma Louise Lewell-Buck (born 8 November 1978) is a British Labour Party politician who has been the Member of Parliament for South Shields since winning a by-election in 2013. She is South Shields' first female MP."
+}, {
+  "entityIndex" : "4_entity7219",
+  "entityUrl" : "http://dbpedia.org/resource/Luciana_Berger",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "Luciana_berger" ]
+  },
+  "words" : [ "Luciana", "Mental", "becoming", "Labour", "owners", "companies", "responsibilities", "safety", "dogs", "poverty", "Co-operative", "Member", "Wavertree", "Minister", "raising", "13", "Liverpool", "MP", "14", "issue", "dealing", "created", "Britain", "Public", "film", ",", ".", "appointed", "Breadline", "1981", "-RRB-", "8", "Parliament", "since", "allow", "-LRB-", "May", "September", "dangerous", "2012", "Clare", "Shadow", "2010", "October", "included", "November", "Berger", "British", "implications", "Health", "campaigning", "born", "politician", "health", "loopholes", "food", "2015", "activities", "2013", "avoid" ],
+  "adjectives" : [ "British", "dangerous", "Co-operative" ],
+  "nouns" : [ "issue", "campaigning", "safety", "politician", "health", "Labour", "poverty", "film", "food" ],
+  "text" : "Luciana Clare Berger (born 13 May 1981) is a British Labour Co-operative politician who has been the Member of Parliament (MP) for Liverpool Wavertree since 2010. She was appointed Shadow Minister for Public Health on 8 October 2013, before becoming Shadow Minister for Mental Health on 14 September 2015. Her activities in Parliament have included campaigning against dangerous dogs and their owners, raising the issue of loopholes that allow companies to avoid their health and safety responsibilities and food poverty. In November 2012 Berger created a film, Breadline Britain, dealing with food poverty and its implications. She resigned from the Shadow Cabinet on 27 June 2016."
+}, {
+  "entityIndex" : "5_entity7237",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_Nandy",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "Lisa_Nandy" ]
+  },
+  "words" : [ "British", "-LRB-", "MP", "born", "politician", "Nandy", "Labour", "2010", ".", "Lisa", "August", "Eva", "Party", "-RRB-", "9", "Wigan", "1979", "Member", "Parliament", "since" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "politician" ],
+  "text" : "Lisa Eva Nandy (born 9 August 1979) is a British Labour Party politician. She has been the Member of Parliament (MP) for Wigan since 2010."
+}, {
+  "entityIndex" : "6_entity2057",
+  "entityUrl" : "http://dbpedia.org/resource/David_Ruffley",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "David_Ruffley" ]
+  },
+  "words" : [ "St", "becoming", "United", "whip", "adviser", "Member", "96", "Edmunds", "profession", "Clarke", "--", "encompasses", "MP", "Stowmarket", "18", "solicitor", ",", "Treasury", "April", ".", "Laurie", "seat", "Suffolk", "Ken", "served", "David", "-RRB-", "Bolton", "Parliament", "Brown", "-LRB-", "Committee", "1997", "general", "Party", "2004", "taken", "1991", "1999", "Gordon", "election", "Bury", "arch-critic", "born", "politician", "sat", "Ruffley", "special", "1962", "constituency", "Kingdom", "Conservative", "Select", "first" ],
+  "adjectives" : [ "special", "general", "arch-critic" ],
+  "nouns" : [ "seat", "profession", "election", "constituency", "politician", "solicitor", "adviser", "Ruffley", "whip" ],
+  "text" : "David Laurie Ruffley (born 18 April 1962, Bolton) is a Conservative Party politician in the United Kingdom. He was the Member of Parliament (MP) for the constituency of Bury St Edmunds in Suffolk, which encompasses Bury St Edmunds and Stowmarket, having first taken his seat at the 1997 general election. A solicitor by profession, Ruffley served as special adviser to Ken Clarke (1991–96). He sat on the Treasury Select Committee from 1999 to 2004, on which he was an arch-critic of Gordon Brown, before becoming a whip in 2004. Ruffley served as Shadow Minister for Welfare Reform from 2005 to 2007 and Shadow Minister for Police Reform from 2007 to 2010. In 2010, he was unanimously re-elected to the Treasury Select Committee."
+}, {
+  "entityIndex" : "7_entity9934",
+  "entityUrl" : "http://dbpedia.org/resource/Sarah_Teather",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "Sarah_Teather" ]
+  },
+  "words" : [ "Louise", "JRS", "by-election", "stepping", "1974", "December", "Democrat", "UK", "advocacy", "Parliamentary", "majority", "adviser", "Guantanamo", "Member", "Minister", "MP", "All-Party", "18", "Director", ",", "Brent", "former", ".", "appointed", "elected", "1", "5", "-RRB-", "Country", "East", "Parliament", "June", "Group", "-LRB-", "increased", "September", "May", "Refugee", "Refugees", "general", "Sarah", "2005", "2003", "British", "Teather", "Jesuit", "election", "Liberal", "joined", "born", "politician", "founded", "Service", "Chairman", "re-elected", "2015", "Bay", "first" ],
+  "adjectives" : [ "general", "British", "re-elected", "Liberal", "former", "first" ],
+  "nouns" : [ "MP", "election", "politician", "advocacy", "Director", "Country", "majority", "adviser", "by-election" ],
+  "text" : "Sarah Louise Teather (born 1 June 1974) is a former British Member of Parliament and Minister. As a Liberal Democrat politician, she founded the All-Party Parliamentary Group on Guantanamo Bay  and was Chairman of the All-Party Parliamentary Group on Refugees. On stepping down as an MP, she joined the Jesuit Refugee Service as an advocacy adviser and was appointed as Country Director of JRS UK in December 2015. She was first elected as an MP on 18 September 2003 in the Brent East by-election and re-elected with an increased majority on 5 May 2005 in the 2005 general election. After the seat was abolished due to boundary changes she was selected as the Liberal Democrat candidate for the new constituency of Brent Central. Her main opponent was sitting Labour MP Dawn Butler, whose seat of Brent South was also abolished. Teather won by a small margin, and after the election she served as Minister of State in the Department for Education in the coalition between the Conservatives and the Liberal Democrats until she returned to the backbenches on 4 September 2012. On 7 September 2013, she announced that she would leave the Commons in 2015."
+}, {
+  "entityIndex" : "8_entity10408",
+  "entityUrl" : "http://dbpedia.org/resource/Sheryll_Murray",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "sheryll_murray" ]
+  },
+  "words" : [ "Westminster", "Cornwall", "-LRB-", "Millbrook", "United", "2010", "Murray", "Party", "February", "Member", "1956", "MP", "born", "politician", "South", ",", "Election", ".", "4", "Sheryll", "Kingdom", "Conservative", "-RRB-", "General", "East", "Parliament", "since" ],
+  "adjectives" : [ ],
+  "nouns" : [ "politician" ],
+  "text" : "Sheryll Murray (born 4 February 1956, Millbrook, Cornwall, United Kingdom) is a Conservative Party politician. She has been the Member of Parliament (MP) for South East Cornwall at Westminster since the 2010 General Election."
+}, {
+  "entityIndex" : "9_entity7409",
+  "entityUrl" : "http://dbpedia.org/resource/Mike_Hancock_(British_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "Mike_Hancock" ]
+  },
+  "words" : [ "``", "alleging", "improper", "whip", "later", "Democrat", "Michael", "inappropriate", "action", "July", "female", "Member", "out-of-court", "admitted", "MP", "'", ",", "court", ".", "reached", "-RRB-", "9", "Portsmouth", "crossed", "1946", "Parliament", "June", "-LRB-", "brought", "woman", "independent", "line", "CBE", "Hancock", "settlement", "known", "constituent", "civil", "Annie", "early", "resigned", "resolved", "Thomas", "`", "''", "British", "recently", "Liberal", "born", "politician", "South", "conduct", "2014", "behaviour", "formally" ],
+  "adjectives" : [ "British", "independent", "constituent", "civil", "improper", "inappropriate", "female", "early", "out-of-court" ],
+  "nouns" : [ "woman", "conduct", "line", "politician", "action", "behaviour", "court", "whip", "settlement" ],
+  "text" : "Michael Thomas Hancock, CBE (born 9 July 1946) is a British politician. He was most recently an independent Member of Parliament (MP) for Portsmouth South. Hancock formally resigned from the Liberal Democrat whip in early June 2014 until a civil court action brought against him by a female constituent alleging improper conduct was resolved. An out-of-court settlement with the woman, known only as 'Annie', was reached later in June 2014 in which Hancock admitted that he \"crossed the line\" into inappropriate behaviour. Hancock's resignation was announced on 18 September 2014. He stood as an independent candidate in the 2014 Portsmouth City Council elections and lost his seat in Fratton Ward to UKIP candidate Julie Swan. The Liberal Democrats lost overall control of the council. Hancock was previously the Member of Parliament for Portsmouth South for the SDP following a by-election in 1984 until 1987."
+}, {
+  "entityIndex" : "10_entity7519",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Glindon",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "Mary_Glindon" ]
+  },
+  "words" : [ "13", "-LRB-", "born", "politician", "Newcastle", "Labour", "2010", ",", "upon", ".", "English", "Party", "Tyne", "-RRB-", "Glindon", "Theresa", "North", "January", "1957", "Member", "Tyneside", "Parliament", "Mary", "since" ],
+  "adjectives" : [ "English" ],
+  "nouns" : [ "politician", "Labour" ],
+  "text" : "Mary Theresa Glindon (born 13 January 1957, Newcastle upon Tyne) is an English Labour Party politician who has been the Member of Parliament for North Tyneside since 2010."
+}, {
+  "entityIndex" : "11_entity3656",
+  "entityUrl" : "http://dbpedia.org/resource/Gloria_De_Piero",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "Gloria_De_Piero" ]
+  },
+  "words" : [ "-LRB-", "shadow", "GMTV", "Shadow", "Labour", "2010", "promoted", "Gloria", "serving", "December", "October", "Party", "1972", "previously", "known", "Registration", "Equalities", "Voter", "Member", "Minister", "Women", "De", "British", "Young", "MP", "minister", "work", "born", "politician", "People", ",", ".", "journalist", "appointed", "Piero", "2015", "2013", "-RRB-", "Ashfield", "cabinet", "Parliament", "21", "since" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "journalist", "shadow", "minister", "work", "politician", "cabinet" ],
+  "text" : "Gloria De Piero (born 21 December 1972) is a British Labour Party politician and journalist who has been the Member of Parliament (MP) for Ashfield since 2010. She was previously known for her work on GMTV. After serving as a shadow minister from October 2010, De Piero was promoted to the shadow cabinet in 2013 as Shadow Minister for Women and Equalities. In 2015 she was appointed Shadow Minister for Young People and Voter Registration. She resigned that position on 26 June 2016."
+}, {
+  "entityIndex" : "12_entity3872",
+  "entityUrl" : "http://dbpedia.org/resource/Gordon_Birtwistle",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "Gordon_Birtwistle" ]
+  },
+  "words" : [ "Alexander", "-LRB-", "September", "May", "Chief", "Secretary", "England", "2012", "Ambassador", "2010", "Danny", "Democrat", "Parliamentary", "Private", "Member", "Business", "Gordon", "British", "MP", "Government", "Liberal", "born", "politician", ",", "Treasury", "Burnley", "former", ".", "1943", "Birtwistle", "Apprenticeship", "constituency", "2015", "6", "2013", "-RRB-", "Parliament" ],
+  "adjectives" : [ "British", "Liberal", "former" ],
+  "nouns" : [ "MP", "constituency", "politician" ],
+  "text" : "Gordon Birtwistle (born 6 September 1943) is a British Liberal Democrat politician and former MP. He was the Member of Parliament (MP) for the constituency of Burnley, England, from May 2010 to May 2015. He was Parliamentary Private Secretary to Danny Alexander, Chief Secretary to the Treasury from 2010 to 2012. From 2013, he was Government Apprenticeship Ambassador to Business."
+}, {
+  "entityIndex" : "13_entity8904",
+  "entityUrl" : "http://dbpedia.org/resource/Pat_Glass",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:publicwhip" : [ "pat_glass" ]
+  },
+  "words" : [ "next", "June", "-LRB-", "Patricia", "Secretary", "27", "Glass", "United", "Shadow", "Labour", "2010", "two", "general", "announcing", "Party", "later", "would", "Education", "North", "February", "1957", "Member", "resigned", "14", "MP", "election", "West", "born", "politician", ",", ".", "appointed", "English", "Jeremy", "standing", "2016", "Kingdom", "Corbyn", "-RRB-", "days", "Durham", "Parliament", "since" ],
+  "adjectives" : [ "next", "English", "general" ],
+  "nouns" : [ "election", "politician", "Labour" ],
+  "text" : "Patricia Glass (born 14 February 1957) is an English Labour Party politician who has been the Member of Parliament (MP) for North West Durham since 2010. She was appointed Shadow Education Secretary on 27 June 2016 by Jeremy Corbyn, but resigned two days later after announcing that she would be standing down at the next United Kingdom general election."
+} ]

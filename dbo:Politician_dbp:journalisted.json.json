@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "1_entity9934",
+  "entityUrl" : "http://dbpedia.org/resource/Sarah_Teather",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:journalisted" : [ "sarah-teather" ]
+  },
+  "words" : [ "Louise", "JRS", "by-election", "stepping", "1974", "December", "Democrat", "UK", "advocacy", "Parliamentary", "majority", "adviser", "Guantanamo", "Member", "Minister", "MP", "All-Party", "18", "Director", ",", "Brent", "former", ".", "appointed", "elected", "1", "5", "-RRB-", "Country", "East", "Parliament", "June", "Group", "-LRB-", "increased", "September", "May", "Refugee", "Refugees", "general", "Sarah", "2005", "2003", "British", "Teather", "Jesuit", "election", "Liberal", "joined", "born", "politician", "founded", "Service", "Chairman", "re-elected", "2015", "Bay", "first" ],
+  "adjectives" : [ "general", "British", "re-elected", "Liberal", "former", "first" ],
+  "nouns" : [ "MP", "election", "politician", "advocacy", "Director", "Country", "majority", "adviser", "by-election" ],
+  "text" : "Sarah Louise Teather (born 1 June 1974) is a former British Member of Parliament and Minister. As a Liberal Democrat politician, she founded the All-Party Parliamentary Group on Guantanamo Bay  and was Chairman of the All-Party Parliamentary Group on Refugees. On stepping down as an MP, she joined the Jesuit Refugee Service as an advocacy adviser and was appointed as Country Director of JRS UK in December 2015. She was first elected as an MP on 18 September 2003 in the Brent East by-election and re-elected with an increased majority on 5 May 2005 in the 2005 general election. After the seat was abolished due to boundary changes she was selected as the Liberal Democrat candidate for the new constituency of Brent Central. Her main opponent was sitting Labour MP Dawn Butler, whose seat of Brent South was also abolished. Teather won by a small margin, and after the election she served as Minister of State in the Department for Education in the coalition between the Conservatives and the Liberal Democrats until she returned to the backbenches on 4 September 2012. On 7 September 2013, she announced that she would leave the Commons in 2015."
+}, {
+  "entityIndex" : "2_entity3656",
+  "entityUrl" : "http://dbpedia.org/resource/Gloria_De_Piero",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:journalisted" : [ "gloria-de-piero" ]
+  },
+  "words" : [ "-LRB-", "shadow", "GMTV", "Shadow", "Labour", "2010", "promoted", "Gloria", "serving", "December", "October", "Party", "1972", "previously", "known", "Registration", "Equalities", "Voter", "Member", "Minister", "Women", "De", "British", "Young", "MP", "minister", "work", "born", "politician", "People", ",", ".", "journalist", "appointed", "Piero", "2015", "2013", "-RRB-", "Ashfield", "cabinet", "Parliament", "21", "since" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "journalist", "shadow", "minister", "work", "politician", "cabinet" ],
+  "text" : "Gloria De Piero (born 21 December 1972) is a British Labour Party politician and journalist who has been the Member of Parliament (MP) for Ashfield since 2010. She was previously known for her work on GMTV. After serving as a shadow minister from October 2010, De Piero was promoted to the shadow cabinet in 2013 as Shadow Minister for Women and Equalities. In 2015 she was appointed Shadow Minister for Young People and Voter Registration. She resigned that position on 26 June 2016."
+} ]

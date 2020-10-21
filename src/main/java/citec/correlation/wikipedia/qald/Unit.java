@@ -27,6 +27,8 @@ public class Unit {
     private List<String> qaldQuestionId = new ArrayList<String>();
     @JsonProperty("pairs")
     private List<String> pairs=new ArrayList<String>();
+    @JsonProperty("questions")
+    private LinkedHashMap<String, String> questions = new LinkedHashMap<String, String>();
     @JsonProperty("Sparql")
     private LinkedHashMap<String, String> sparqls = new LinkedHashMap<String, String>();
     @JsonIgnore
@@ -45,9 +47,10 @@ public class Unit {
 
     }
 
-    public Unit(String word, String qaldQuestionId, String sparql) {
+    public Unit(String word, String qaldQuestionId, String sparql,String question) {
         this.qaldQuestionId.add(qaldQuestionId);
         this.sparqls.put(Sparql_ + qaldQuestionId.toString(), sparql);
+        this.questions.put(qaldQuestionId.toString(), question);
         this.word = word;
         if(word.contains("australian")){
             this.pairs.add("dbo:country res:Australia"); 
@@ -76,6 +79,10 @@ public class Unit {
         return sparqls;
     }
 
+    public void setQuestions(String qaldQuestionId, String sparql) {
+        this.questions.put(qaldQuestionId.toString(), sparql);
+    }
+
     public void setSparqls(String qaldQuestionId, String sparql) {
         this.sparqls.put(Sparql_ + qaldQuestionId.toString(), sparql);
     }
@@ -86,6 +93,10 @@ public class Unit {
 
     public List<String> getPairs() {
         return pairs;
+    }
+
+    public LinkedHashMap<String, String> getQuestions() {
+        return questions;
     }
 
     @Override

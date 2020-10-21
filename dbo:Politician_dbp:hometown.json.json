@@ -1,0 +1,45 @@
+[ {
+  "entityIndex" : "1_entity6311",
+  "entityUrl" : "http://dbpedia.org/resource/Jay_Chen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:hometown" : [ "http://dbpedia.org/resource/Hacienda_Heights,_California" ]
+  },
+  "words" : [ "Taiwanese-American", "Jay", "Kài-poe", "Congressional", "Board", "Education", "La", "Southern", "陳介飛", "Memorial", "1978", "Tân", "Democratic", "F.", "Marshall", "California", ",", "'s", "-", "former", ".", "pinyin", "ōe-jī", "-RRB-", "College", ":", ";", "District", "23", "San", "39th", "-LRB-", "Mt.", "2012", "Chén", "Antonio", "Chen", "School", "candidate", "known", "member", "Puente", "February", "Hacienda", "election", "born", "politician", "Jièfēi", "Unified", "Fellow", "Pe̍h", "Chinese", "trustee", "president" ],
+  "adjectives" : [ "39th", "former" ],
+  "nouns" : [ "Tân", "candidate", "pinyin", "Kài-poe", "election", "ōe-jī", "politician", "member", "trustee", "president" ],
+  "text" : "Jay F. Chen (Chinese: 陳介飛; pinyin: Chén Jièfēi; Pe̍h-ōe-jī: Tân Kài-poe, born 23 February 1978) is a Taiwanese-American Democratic politician, known as a trustee for Mt. San Antonio College, former member and president of the Board of Education of the Hacienda La Puente Unified School District in Southern California, and as a candidate for election in 2012 in California's 39th Congressional District. He is a Marshall Memorial Fellow."
+}, {
+  "entityIndex" : "2_entity11168",
+  "entityUrl" : "http://dbpedia.org/resource/Ted_Vogt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:hometown" : [ "http://dbpedia.org/resource/Salt_Lake_City,_Utah" ]
+  },
+  "words" : [ "``", "June", "-LRB-", "K.", "Chief", "Veterans", "office", "confirmed", "Department", "1973", "Brewer", "July", "February", "January", "Operations", "Doug", "30", "Arizona", "''", "11", "Janice", "born", "'", "Director", "Janson", ",", "Vogt", "former", ".", "appointed", "Governor", "Services", "1", "Ted", "Ducey", "Senate", "Theodore", "2015", "unanimously", "State", "2014", "2013", "-RRB-", "Representative", "assumed", "20", "since" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "Director", "office" ],
+  "text" : "Janson Theodore \"Ted\" Vogt (born February 20, 1973) is a former Arizona State Representative and (since January, 2015) Chief of Operations for Governor of Arizona Doug Ducey. On June 11, 2013, Governor Janice K. Brewer appointed Vogt to be the Director of the Arizona Department of Veterans' Services. He assumed office on July 1, 2013 and was confirmed unanimously by the Arizona State Senate on January 30, 2014."
+}, {
+  "entityIndex" : "3_entity7584",
+  "entityUrl" : "http://dbpedia.org/resource/Maury_Maverick,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:hometown" : [ "San Antonio" ]
+  },
+  "words" : [ "great-grandson", "-LRB-", "prominent", "American", "28", "Jr.", "United", "Representatives", "Sr.", "famously", "States", "Samuel", "U.S.", "son", "Maverick", "2003", "member", "state", "Declaration", "January", "brand", "lawyer", "--", "activist", "columnist", "Maury", "refused", "two-term", "politician", "Independence", "signed", "cattle", "House", ",", ".", "1921", "3", "Texas", "-RRB-", "rancher", "family" ],
+  "adjectives" : [ "prominent", "American", "two-term" ],
+  "nouns" : [ "activist", "columnist", "great-grandson", "politician", "Independence", "son", "Maverick", "member", "rancher", "state", "Declaration", "family", "brand", "lawyer" ],
+  "text" : "Maury Maverick, Jr. (January 3, 1921 – January 28, 2003) was an American lawyer, politician, activist, and columnist from the U.S. state of Texas.  A member of the prominent Maverick family, he was the great-grandson of Samuel Maverick, the rancher who signed the Texas Declaration of Independence and famously refused to brand his cattle, and the son of Maury Maverick, Sr., a two-term member of the United States House of Representatives."
+}, {
+  "entityIndex" : "4_entity7596",
+  "entityUrl" : "http://dbpedia.org/resource/Melissa_Noriega",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:hometown" : [ "Houston" ]
+  },
+  "words" : [ "Noriega", "leader", "Meisgeier", "held", "Position", "At-Large", "Harris", "House", "City", "Representatives", ",", "County", "former", "Council", ".", "educator", "civic", "Melissa", "3", "Texas", "member", "well", "Houston" ],
+  "adjectives" : [ "former", "civic" ],
+  "nouns" : [ "leader", "Position", "member", "educator" ],
+  "text" : "Melissa Meisgeier Noriega is a former member of the Houston City Council in Houston, Harris County, Texas, having held At-Large Position 3. Noriega is an educator and civic leader in Houston and Harris County, Texas, as well as a former member of the Texas House of Representatives."
+} ]

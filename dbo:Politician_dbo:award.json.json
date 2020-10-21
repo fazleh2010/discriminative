@@ -1,0 +1,353 @@
+[ {
+  "entityIndex" : "1_entity6618",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Ellis_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Order_of_the_British_Empire" ]
+  },
+  "words" : [ "22", "New", "-LRB-", "May", "Wales", "KBE", "Ellis", "1975", "Collin", "member", "Assembly", "November", "--", "15", "Liberal", "1908", "politician", "South", "William", ",", ".", "elected", "Kevin", "Australian", "-RRB-", "Legislative", "Sir" ],
+  "adjectives" : [ "Australian", "Liberal", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Sir Kevin William Collin Ellis KBE (15 May 1908 – 22 November 1975) was an Australian politician, elected as a Liberal member of the New South Wales Legislative Assembly."
+}, {
+  "entityIndex" : "2_entity6640",
+  "entityUrl" : "http://dbpedia.org/resource/K._H._Muniyappa",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Doctorate" ]
+  },
+  "words" : [ "Congress", "Dr.", "-LRB-", "consecutively", "Muniyappa", "March", "political", "Micro", "K.H.", "Kolar", "16th", "Union", "Sabha", "National", "Karnataka", "1991", "member", "represented", "Minister", "charge", "Small", "born", "Lok", ",", ".", "India", "Independent", "constituency", "State", "Medium", "7", "-RRB-", "Indian", "Enterprises", "1948", "party", "since", "INC" ],
+  "adjectives" : [ "political", "16th" ],
+  "nouns" : [ "Sabha", "charge", "constituency", "member", "Lok", "party" ],
+  "text" : "Dr. K.H. Muniyappa (born 7 March 1948) is a member of the 16th Lok Sabha of India. He has consecutively represented the Kolar constituency of Karnataka in the Lok Sabha since 1991 and is a member of the Indian National Congress (INC) political party. He was the Union Minister of State (Independent charge) of Minister of Micro, Small and Medium Enterprises."
+}, {
+  "entityIndex" : "3_entity6663",
+  "entityUrl" : "http://dbpedia.org/resource/Kota_Srinivasa_Rao",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Padma_Shri" ]
+  },
+  "words" : [ "Rao", "works", "MLA", "Pranam", "primarily", "theatre", "debut", "Telugu", "Kota", "character", "known", "starred", "Pradesh", "2004", "Hindi", "cinema", "1978", "1999", "--", "films", "Malayalam", "Khareedu", "Srinivasa", "Vijayawada", "made", "politician", "Andhra", "also", "film", ",", ".", "Tamil", "former", "India", "actor", "served", "Indian", "East" ],
+  "adjectives" : [ "Indian", "former" ],
+  "nouns" : [ "actor", "theatre", "debut", "Telugu", "character", "MLA", "politician", "film", "cinema" ],
+  "text" : "Kota Srinivasa Rao is an Indian film character actor, known for his works primarily in Telugu cinema and Telugu theatre. He has also starred in few films in Tamil, Hindi and Malayalam. As former politician, Rao, has served as MLA from Vijayawada East in Andhra Pradesh, India from 1999–2004.He made his debut with the Telugu film Pranam Khareedu in 1978.Rao is one of the finest method actors of contemporary Telugu cinema. He is starred in six hundred and fifty feature films. He has received nine state Nandi Awards as best character, villain and supporting actor. In 2012, he has garnered the South Indian International Movie Awards (SIIMA), for his work in Krishnam Vande Jagadgurum. In 2015, He received India's fourth highest civilian honor Padma Shri for his contribution to Indian cinema. He received wide critical acclaim for his diverse roles in hits such as Attarintiki Daredi (2013), Dookudu (2011), Rakta Charitra (2010), Leader (2010), Ready (2008), Sarkar (2006), Bommarillu (2006), Pournami (2006), Athadu (2005), Malliswari (2004), Tagore (2003), Idiot (2002), Student No. 1 (2001), Ganesh (1998), Anaganaga Oka Roju (1997),  Aha Naa Pellanta (1987), Aame (1994), Hello Brother (1994), Govindha Govindha (1993), Gaayam (1993), Money (1993), Sathruvu (1990), Shiva (1989), Pratighatana (1986), and Repati Pourulu (1986). In 2003, He made his debut in Tamil film Saamy as a suave villain. He played a negative role Saniyan Saggadi in the Tamil film Thirupaachi."
+}, {
+  "entityIndex" : "4_entity5145",
+  "entityUrl" : "http://dbpedia.org/resource/Jonathan_Paton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Army_Achievement_Medal", "http://dbpedia.org/resource/Army_Commendation_Medal" ]
+  },
+  "words" : [ "Reserve", "June", "southern", "-LRB-", "officer", "Republican", "Representatives", "Operation", "Freedom", "second", "2008", "candidate", "2007", "U.S.", "Jonathan", "1971", "2004", "won", "member", "term", "30", "February", "Arizona", "10", "Army", "reelection", "began", "born", "representing", "House", "Iraqi", ",", "'s", "8th", "former", ".", "intelligence", "elected", "Senate", "Paton", "served", "-RRB-", "Legislative", "District", "first" ],
+  "adjectives" : [ "southern", "Legislative", "Iraqi", "8th", "former", "first", "second" ],
+  "nouns" : [ "candidate", "reelection", "officer", "Paton", "member", "term", "Freedom", "intelligence" ],
+  "text" : "Jonathan Paton (born June 10, 1971) is a former Arizona Republican candidate for the U.S. House of Representatives in Arizona's 8th District and an intelligence officer in the U.S. Army Reserve who served in Operation Iraqi Freedom. Paton was first elected to southern Arizona's Legislative District 30 as a member of the Arizona House of Representatives in 2004. He won reelection and began his second term in February 2007. In 2008, he was elected to the Arizona Senate, again representing Legislative District 30. On January 17, 2010, Paton announced he would be challenging Democratic U.S. Representative Gabrielle Giffords. He subsequently resigned from the state Senate to focus his efforts on campaigning for Congress. Paton lost in the 2010 Republican primary and endorsed his former opponent, Jesse Kelly. He ran for Congress again in 2012, this time in Arizona's newly formed 1st Congressional District, ending in close defeat against Democratic opponent Ann Kirkpatrick."
+}, {
+  "entityIndex" : "5_entity5706",
+  "entityUrl" : "http://dbpedia.org/resource/Jeff_Gorell",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Navy_Expeditionary_Medal", "http://dbpedia.org/resource/Defense_Meritorious_Service_Medal", "http://dbpedia.org/resource/Navy_Commendation_Medal" ]
+  },
+  "words" : [ "Homeland", "Gorell", "Mayor", "redistricting", "Republican", "Legislature", "serve", "Security", "1970", "Member", "Assembly", "Vice-Chairman", "new", "Frederick", "Deputy", "House", "City", "Public", "California", ",", "'s", ".", "former", "26th", "elected", "Los", "6", "State", "district", "served", "-RRB-", "District", "37th", "congressional", "-LRB-", "2011", "Angeles", "2010", "Representatives", "Committee", "serving", "candidate", "U.S.", "Budget", "Safety", "Jeffrey", "November", "born", "politician", "decennial", "44th", "currently", "reelected", "represent" ],
+  "adjectives" : [ "37th", "new", "congressional", "decennial", "Republican", "44th", "former", "26th" ],
+  "nouns" : [ "candidate", "redistricting", "politician", "district", "City", "District", "Assembly" ],
+  "text" : "Jeffrey Frederick Gorell (born November 6, 1970) is currently serving as Deputy Mayor of the City of Los Angeles for Homeland Security and Public Safety. Gorell is a Republican politician from California and a former candidate for the U.S. House of Representatives in California's 26th congressional district. In 2010, Gorell was elected to the State Legislature to serve as Assembly Member for the 37th Assembly District in California. After the decennial redistricting in 2011, Gorell was reelected to represent the new 44th Assembly District and served as Vice-Chairman of the Assembly Budget Committee. Gorell is notable for being the first California legislator called to active duty since WWII. During his deployment, fourteen bills were sponsored in his name."
+}, {
+  "entityIndex" : "6_entity11984",
+  "entityUrl" : "http://dbpedia.org/resource/William_Meldrum_(general)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Companion_of_the_Order_of_St_Michael_and_St_George", "http://dbpedia.org/resource/Mentioned_in_Despatches", "http://dbpedia.org/resource/Order_of_the_White_Eagle_(Serbia)", "http://dbpedia.org/resource/Distinguished_Service_Order", "http://dbpedia.org/resource/Companion_of_the_Order_of_the_Bath", "http://dbpedia.org/resource/Colonial_Auxiliary_Forces_Officers'_Decoration" ]
+  },
+  "words" : [ "New", "leader", "Mayor", "-LRB-", "28", "unsuccessful", "by-election", "local", "candidate", "Whangarei", "came", "military", "1938", "July", "CMG", "February", "1935", "lawyer", "CB", "Meldrum", "--", "ballot", "DSO", "Rangitikei", "13", "1909", "Brigadier", "politician", "born", "William", ",", "Greymouth", "VD", ".", "Northland", "1865", "1964", "Zealand", "third", "served", "-RRB-", "magistrate", "General", "farmer", "first" ],
+  "adjectives" : [ "third", "unsuccessful", "military", "local", "first" ],
+  "nouns" : [ "ballot", "leader", "candidate", "politician", "magistrate", "farmer", "by-election", "VD", "lawyer" ],
+  "text" : "Brigadier General William Meldrum CB, CMG, DSO, VD (28 July 1865 – 13 February 1964) was a New Zealand lawyer, farmer, military leader, magistrate and local politician. He was born in Whangarei, Northland, New Zealand. He was an unsuccessful candidate in the 1909 Rangitikei by-election, where he came third in the first ballot. He served as Mayor of Greymouth from 1935 to 1938. He also played four first-class cricket matches for Auckland between 1884 and 1887."
+}, {
+  "entityIndex" : "7_entity7345",
+  "entityUrl" : "http://dbpedia.org/resource/Langdon_Goodyear,_Jr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Bronze_Star_Medal", "http://dbpedia.org/resource/French_Liberation_Medal" ]
+  },
+  "words" : [ "``", "June", "-LRB-", "Jr.", "War", "349th", "Devils", "World", "Sr.", "October", "December", "School", "2006", "son", "Division", "Southern", "1956", "1955", "--", "High", "attended", "II", "''", "13", "mayor", "Blue", "wife", "Gallie", "one-term", "Langdon", ",", "Florida", ".", "88th", "Goodyear", "Wayne", "Infantry", "4", "Lakeland", "graduated", "served", "-RRB-", "Eau", "College", "Sara", "1924" ],
+  "adjectives" : [ "one-term", "349th", "88th" ],
+  "nouns" : [ "son", "mayor", "wife", "Division" ],
+  "text" : "Langdon Wayne Goodyear, Jr. (June 13, 1924 – October 4, 2006) was a one-term mayor of Eau Gallie, Florida from December 1955 to December 1956. He was the son of Langdon Goodyear, Sr. and his wife Sara. He was graduated from Lakeland High School. He attended Florida Southern College He served in World War II with the 349th Infantry, 88th Division \"Blue Devils\". He earned the Bronze Star Medal and the French Liberation Medal. In 1960, he graduated from the University of Florida, School of Pharmacy. Worked at Coleman's Pharmacy in Eau Gallie, and in 1956, he opened Goodyear Pharmacy at the corner of Eau Gallie and Highland Avenues. He later worked as a manager at Grey's Drug Store, Broward Drug, and retired from SupeRx Drugs in 1989. He taught Sunday School and Bible study. He wrote poetry and short stories"
+}, {
+  "entityIndex" : "8_entity1756",
+  "entityUrl" : "http://dbpedia.org/resource/Christopher_Coutu",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Humanitarian_Service_Medal", "http://dbpedia.org/resource/National_Defense_Service_Medal", "http://dbpedia.org/resource/Armed_Forces_Expeditionary_Medal", "http://dbpedia.org/resource/Military_Outstanding_Volunteer_Service_Medal" ]
+  },
+  "words" : [ "officer", "United", "Republican", "official", "legislative", "1976", "States", "National", "Democrat", "Guard", "state", "Joe", "Army", "House", ",", "'s", ".", "August", "47th", "elected", "Courtney", "served", "Connecticut", "district", "-RRB-", "southeastern", "congressional", "-LRB-", "May", "28", "2011", "Representatives", "Coutu", "2006", "federal", "Since", "candidacy", "third-term", "Congressman", "declared", "Christopher", "born", "politician", "representing", "2nd", "D.", "seeking", "challenge", "represent" ],
+  "adjectives" : [ "elected", "congressional", "federal", "2nd", "Republican", "third-term", "southeastern", "legislative", "47th" ],
+  "nouns" : [ "officer", "politician", "district", "official", "candidacy", "state", "Congressman" ],
+  "text" : "Christopher D. Coutu (born August 28, 1976) is an Army National Guard officer and politician. Since 2006, he served as the only elected Republican state or federal legislative official in southeastern Connecticut, representing the state's 47th House district. Coutu had declared his candidacy for the United States House of Representatives in May 2011. He was seeking to challenge third-term Congressman Joe Courtney, a Democrat, to represent Connecticut's 2nd congressional district. On May 10, 2012 he decided instead to run for the seat in Connecticut's 19th state Senate district being vacated by Edith Prague, a bid which was ultimately unsuccessful."
+}, {
+  "entityIndex" : "9_entity1786",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Yardley_Weaver",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Distinguished_Service_Order" ]
+  },
+  "words" : [ "Yardley", "June", "Alderman", "-LRB-", "Alberta", "death", "held", "barrister", "office", "Council", "opposition", "October", "1930", "government", "later", "member", "justice", "provincial", "Assembly", "--", "Charles", "Weaver", "politician", "City", ",", ".", "1921", "1", "Canada", "1884", "soldier", "Edmonton", "peace", "served", "Conservative", "caucus", "-RRB-", "9", "municipal", "Legislative", "1926", "levels", "1923", "sitting" ],
+  "adjectives" : [ "Conservative", "municipal", "provincial", "Legislative" ],
+  "nouns" : [ "opposition", "government", "death", "soldier", "politician", "peace", "caucus", "member", "barrister", "justice", "office", "Assembly" ],
+  "text" : "Charles Yardley Weaver (June 9, 1884 – October 1, 1930) was a politician, barrister, justice of the peace and soldier from Alberta, Canada. He held office on both municipal and provincial levels of government. He served as an Alderman on Edmonton City Council from 1921 to 1923 and later as a member of the Legislative Assembly of Alberta from 1926 until his death in 1930 sitting with the Conservative caucus in opposition."
+}, {
+  "entityIndex" : "10_entity2020",
+  "entityUrl" : "http://dbpedia.org/resource/Chris_Day_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Ranger_tab", "http://dbpedia.org/resource/Bronze_Star_Medal", "http://dbpedia.org/resource/Combat_Infantryman_Badge" ]
+  },
+  "words" : [ "``", "Congress", "New", "congressional", "-LRB-", "American", "York", "lifelong", "officer", "29", "United", "Science", "Yale", "E.", "Republican", "Rockland", "captain", "17th", "MBA", "County", "States", "December", "candidate", "School", "Chris", "Business", "resident", "''", "Christopher", "Army", "Degree", "born", "politician", ",", "'s", "Bachelor", "former", ".", "1984", "Columbia", "University", "2014", "district", "-RRB-", "holds", "Political", "Day" ],
+  "adjectives" : [ "congressional", "American", "lifelong", "Republican", "17th", "former" ],
+  "nouns" : [ "candidate", "officer", "politician", "district", "captain", "Bachelor", "Day", "resident" ],
+  "text" : "Christopher E. \"Chris\" Day (born December 29, 1984) is an American politician and former officer in the United States Army. He was the 2014 Republican candidate for Congress for New York's 17th congressional district. A former Army captain, Day holds an MBA from Columbia Business School in New York, New York and a Bachelor's Degree in Political Science from Yale University. He is a lifelong resident of Rockland County, New York."
+}, {
+  "entityIndex" : "11_entity945",
+  "entityUrl" : "http://dbpedia.org/resource/Bert_Lawrence",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Military_Cross" ]
+  },
+  "words" : [ "``", "-LRB-", "Rutter", "28", "John", "March", "governments", "Davis", "2007", "1974", "Carleton", "MC", "member", "represented", "Albert", "31", "Assembly", "''", "--", "minister", "Lawrence", "politician", "Benjamin", ",", ".", "Robarts", "Progressive", "Canada", "1963", "Russell", "Conservative", "served", "-RRB-", "Bill", "Legislative", "Bert", "ridings", "Ontario", "East", "cabinet", "1923" ],
+  "adjectives" : [ "Legislative" ],
+  "nouns" : [ "minister", "politician", "member", "cabinet", "Assembly" ],
+  "text" : "Albert Benjamin Rutter \"Bert\" Lawrence MC (March 31, 1923 – March 28, 2007) was a politician in Ontario, Canada. He was a Progressive Conservative member of the Legislative Assembly of Ontario from 1963 to 1974 who represented the ridings of Russell and Carleton East. He served as a cabinet minister in the governments of John Robarts and Bill Davis."
+}, {
+  "entityIndex" : "12_entity964",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_McBride_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Bronze_Star_Medal" ]
+  },
+  "words" : [ "``", "defeated", "United", "Republican", "serve", "States", "December", "earlier", "terms", "Bush", "won", "10", "--", "56", "margin", "making", "Democratic", "Janet", "William", ",", "Florida", ".", "former", "Bill", "-RRB-", "General", "governor", "Attorney", "1945", "primary", "22", "McBride", "-LRB-", "May", "American", "2012", "percent", "two", "Party", "challenged", "2002", "member", "gubernatorial", "lawyer", "''", "election", "Jeb", "politician", "Reno", "first", "43" ],
+  "adjectives" : [ "American", "Democratic", "gubernatorial", "Republican", "first", "former" ],
+  "nouns" : [ "margin", "election", "politician", "member", "governor", "percent", "lawyer", "primary" ],
+  "text" : "William \"Bill\" McBride (May 10, 1945 – December 22, 2012) was an American lawyer and politician. A member of the Democratic Party, he challenged Jeb Bush for Florida governor in the 2002 gubernatorial election. Bush won by a 56 to 43 percent margin, making him the first Republican governor of Florida to serve two terms. McBride had earlier defeated former United States Attorney General Janet Reno in the Democratic primary. McBride was born in Belleville, Illinois and grew up in Leesburg, Florida. He graduated from the University of Florida in 1967. While at UF, McBride served as treasurer of Florida Blue Key and was inducted into the University of Florida Hall of Fame. McBride served in the Marine Corps from 1968 to 1971. McBride was awarded a Bronze Star with a Valor device. Upon his return to the United States, McBride taught at Officer Candidates School at Marine Corps Base Quantico. Upon leaving the Marine Corps, McBride attended the University of Florida Law School. While studying law he fell under the tutelage of Chesterfield Smith, a powerful politically connected Florida attorney and then president of the American Bar Association. McBride left law school for a time to serve as Smith's assistant at the ABA. After graduation, McBride joined Smith's Tampa law firm, Holland & Knight, where he rose in the ranks until becoming managing partner in 1992. McBride's tenure at the helm of Holland & Knight has been the source of some controversy. He is credited with having expanded the firm's size and power and with having helped to make it the seventh-largest firm in the U.S. by number of lawyers employed at the time of his retirement in 2001. At the time the firm ranked 21st in terms of revenue but 98th in terms of profit-per-partner, and had \"become known as a reputable, but flabby, operation, long on underproductive partners and comparatively short on workhorse associates.\" McBride was the father of two children with his wife, Adelaide \"Alex\" Sink, a former statewide president for NationsBank (now Bank of America), former Chief Financial Officer of Florida, and 2010 Democratic nominee for Governor of Florida. Since 2003, Bill McBride was partner with the law firm of Barnett, Bolt, Kirkwood, Long & McBride in Tampa. He was also chair of the board of the investment banking firm Hyde Park Capital Partners, LLC, with offices in Tampa and Charlotte, North Carolina. McBride was a member of the American Law Institute and was a member of the board of directors of the Warrington College of Business Administration's Center for Entrepreneurship and Innovation at the University of Florida. McBride was named Mr. Leesburg High while still a student. He attended Boy's State while in school and ran a successful campaign for governor at the event. McBride died on December 22, 2012, after suffering a heart attack while vacationing with his family in Mt Airy, North Carolina."
+}, {
+  "entityIndex" : "13_entity10818",
+  "entityUrl" : "http://dbpedia.org/resource/Thacher_Longstreth",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Bronze_Star_Medal" ]
+  },
+  "words" : [ "Company", "Republican", "née", "b.", "years", "President", "graduate", "Thacher", "Street", "eighth-generation", "Woman", "January", "tenure", "--", "11", "image", "Princeton", "Motor", "Haverford", "wisecracking", "City", "William", ",", "'s", "April", ".", "Pennsylvania", "Quakers", "1", "Collins", "University", "Herbert", "Car", "unique", "-RRB-", "maternal", "-LRB-", "Wall", "affluent", "best", "bow", "C.", "Council", "long", "Union", "Nella", "perhaps", "known", "Longstreth", "2003", "Hoover", "member", "1917", "lived", "Ella", "tied", "Crash", "grandmother", "born", "many", "blood", "cousin", "Temperance", "1920", "blue", "1882", "owned", "1929", "Christian", "Philadelphian", "family", "married", "Philadelphia", "president" ],
+  "adjectives" : [ "blue", "affluent", "unique", "Republican", "née", "eighth-generation", "many", "long", "maternal" ],
+  "nouns" : [ "image", "graduate", "grandmother", "member", "wisecracking", "bow", "family", "blood", "cousin", "tenure", "president" ],
+  "text" : "William Thacher Longstreth (January 1, 1920 – April 11, 2003) was a Republican member of the Philadelphia City Council who was perhaps best known for his long tenure and unique image as a wisecracking, bow tied blue blood. Longstreth, a graduate of Princeton University, was an eighth-generation Philadelphian born to Quakers William Collins (b. 1882) and Nella (née Thacher) Longstreth, who married in 1917. William C. Longstreth owned the Longstreth Motor Car Company and his family lived in Haverford, Pennsylvania, and was affluent until the Wall Street Crash of 1929. Thacher was a cousin of President Herbert Hoover and his maternal grandmother, Ella Hoover Thacher was the president of the Woman's Christian Temperance Union for many years. In 1970, he led the Philadelphia Chamber of Commerce and spearheaded the drive to hold the annual Earth Day commemoration in Philadelphia. That event became one of the biggest Earth Day events in the nation. He was also instrumental in the creation of the Greater Delaware Valley Chapter of the National Multiple Sclerosis Society. He was predeceased by his half sister, Nella Cameron Downward (1913-1997). His younger brother, Frank Hoover Longstreth (b. 1922) died in 2008. He was a two-time Republican nominee for Mayor of Philadelphia, first in 1955, losing to Richardson Dilworth, and again in 1971, losing to Frank Rizzo. He was initially elected to Philadelphia's City Council in 1967, resigning his seat to run for Mayor in 1971. While a member of City Council, he served as a sideline reporter on Philadelphia Eagles radio broadcasts on WIP in 1969 and 1970. Longstreth was again elected to Council in 1983, defeating incumbent councilwoman Beatrice Chernock for the at-large seat he had vacated twelve years earlier to run for Mayor. He would remain in office until his death. During his tenure on Council, Longstreth helped support the efforts of Edmund Bacon to bring an urban renaissance to Philadelphia. He was also well known for wearing bow ties and argyle socks. He suffered from Parkinson's disease, and died of a pulmonary embolism while on vacation in Naples, Florida."
+}, {
+  "entityIndex" : "14_entity11065",
+  "entityUrl" : "http://dbpedia.org/resource/Tim_Bruxner",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/War_Medal_1939–1945", "http://dbpedia.org/resource/Defence_Medal_(United_Kingdom)", "http://dbpedia.org/resource/Australia_Service_Medal_1939-45", "http://dbpedia.org/resource/1939–45_Star" ]
+  },
+  "words" : [ "New", "held", "Eric", "Wales", "promoted", "retirement", "years", "losing", "Tourism", "1976", "1975", "Robert", "Development", "cabinets", "Assembly", "Minister", "Bruxner", "Deputy", "18", "19", "positions", ",", ".", "August", "3", "Tom", "1981", "-RRB-", "Country", "Transport", "Sir", "Caird", "Decentralisation", "politics", "-LRB-", "May", "Leader", "28", "successors", "March", "Shadow", "J.C.", "Highways", "Party", "government", "known", "member", "James", "Cooperative", "born", "politician", "South", "continued", "also", "Societies", "Housing", "Crown", "Upon", "1962", "Willis", "Australian", "Lewis", "Askin", "Tim", "Legislative", "Australia", "1923" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "government", "politician", "member", "retirement", "Assembly" ],
+  "text" : "James Caird (Tim) Bruxner (born 18 May 1923), also known as J.C. Bruxner, was an Australian politician who was a member of the New South Wales Legislative Assembly for 19 years from 3 March 1962 to 28 August 1981 and the Deputy Leader of the Country Party of Australia and its successors in New South Wales from 1975 to 1981. Bruxner held positions as a Minister of the Crown for Housing, Cooperative Societies, Decentralisation and Development and Tourism in the cabinets of Sir Robert Askin and Tom Lewis. Under Sir Eric Willis, Bruxner was promoted as Minister for Transport and Minister for Highways. Upon losing government in 1976, Bruxner continued as Deputy Leader and Shadow Minister until his retirement from politics in 1981."
+}, {
+  "entityIndex" : "15_entity11168",
+  "entityUrl" : "http://dbpedia.org/resource/Ted_Vogt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Air_Force_Commendation_Medal", "http://dbpedia.org/resource/Headquarters_Air_Force_badge", "http://dbpedia.org/resource/Afghanistan_Campaign_Medal", "http://dbpedia.org/resource/Joint_Commendation_Medal" ]
+  },
+  "words" : [ "``", "June", "-LRB-", "K.", "Chief", "Veterans", "office", "confirmed", "Department", "1973", "Brewer", "July", "February", "January", "Operations", "Doug", "30", "Arizona", "''", "11", "Janice", "born", "'", "Director", "Janson", ",", "Vogt", "former", ".", "appointed", "Governor", "Services", "1", "Ted", "Ducey", "Senate", "Theodore", "2015", "unanimously", "State", "2014", "2013", "-RRB-", "Representative", "assumed", "20", "since" ],
+  "adjectives" : [ "former" ],
+  "nouns" : [ "Director", "office" ],
+  "text" : "Janson Theodore \"Ted\" Vogt (born February 20, 1973) is a former Arizona State Representative and (since January, 2015) Chief of Operations for Governor of Arizona Doug Ducey. On June 11, 2013, Governor Janice K. Brewer appointed Vogt to be the Director of the Arizona Department of Veterans' Services. He assumed office on July 1, 2013 and was confirmed unanimously by the Arizona State Senate on January 30, 2014."
+}, {
+  "entityIndex" : "16_entity9738",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Logan_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Companion_of_the_Order_of_the_Bath", "http://dbpedia.org/resource/Legion_of_Honour" ]
+  },
+  "words" : [ "New", "militia", "officer", "commanding", "World", "professional", "Administrator", "commander", "Robert", "outbreak", "First", "migrated", "1935", "--", "took", "Expeditionary", "dispatched", "island", ",", "April", ".", "appointed", "2", "Zealand", "Logan", "1863", "4", "involved", "served", "-RRB-", "District", "Germany", "became", "-LRB-", "occupy", "Force", "War", "Scotland", "Forces", "Auckland", "farming", "February", "1912", "CB", "Military", "joined", "Samoa", "soldier", "Born", "1881", "Also", "time", "Imperial", "territory" ],
+  "adjectives" : [ "professional" ],
+  "nouns" : [ "commander", "militia", "soldier", "officer", "island", "farming", "outbreak", "time", "territory" ],
+  "text" : "Robert Logan CB (2 April 1863 – 4 February 1935) was an officer in the New Zealand Military Forces who served in the First World War as the Military Administrator of Samoa. Born in 1863 in Scotland, Logan migrated to New Zealand in 1881 and took up farming. Also involved in the militia, he became a professional soldier in 1912 when he joined the New Zealand Military Forces. He was commanding the Auckland Military District at the time of the outbreak of the First World War and was appointed the commander of the Samoa Expeditionary Force, dispatched from New Zealand to occupy the island of Samoa, a territory of Imperial Germany at the time. Samoa was easily occupied on 29 August 1914 and Logan became its Military Administrator; he remained in this capacity for the duration of the war. Although he was decorated for his services, his administration of Samoa was later criticised, particularly in relation to the handling of the influenza outbreak of November 1918, which led to 7,500 deaths. Logan retired from military service in 1919 and settled in Devon, England, where he died in 1935."
+}, {
+  "entityIndex" : "17_entity2388",
+  "entityUrl" : "http://dbpedia.org/resource/David_Gibson_(Australian_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Australian_Defence_Medal" ]
+  },
+  "words" : [ "Nation", "politics", "-LRB-", "independent", "September", "Mr", "One", "2008", "October", "current", "Francis", "Board", "2006", "Party", "National", "Gympie", "member", "retired", "January", "Assembly", "13", "MP", "Deaf", "joined", "Liberal", "born", "politician", "Gibson", ",", "Roberts", "former", ".", "Chairman", "Elisa", "elected", "Services", "2015", "Australian", "State", "David", "-RRB-", "Legislative", "defeating", "formed", "1967", "sitting", "Queensland" ],
+  "adjectives" : [ "current", "independent", "Australian", "Legislative", "former" ],
+  "nouns" : [ "Nation", "MP", "politician", "member", "Assembly", "Chairman" ],
+  "text" : "David Francis Gibson (born 13 October 1967) is a former Australian politician and the current Chairman of the Board of Deaf Services Queensland. In 2006, he was elected to the Legislative Assembly of Queensland as the National Party member for Gympie, defeating sitting independent Elisa Roberts, a former One Nation MP. He joined the Liberal National Party when it formed in September 2008. In January 2015 Mr Gibson retired from State politics."
+}, {
+  "entityIndex" : "18_entity2446",
+  "entityUrl" : "http://dbpedia.org/resource/Dallas_Schmidt",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Distinguished_Flying_Cross_(United_Kingdom)" ]
+  },
+  "words" : [ "22", "-LRB-", "Alberta", "Canadian", "Force", "office", "Royal", "1975", "2007", "government", "public", "portfolio", "member", "provincial", "Dallas", "different", "Assembly", "November", "--", "Lougheed", "pilot", "Schmidt", "level", "politician", "Wilbur", "Air", ",", "'s", ".", "August", "Progressive", "Canada", "governing", "1982", "served", "Conservative", "caucus", "-RRB-", "9", "Legislative", "time", "Peter", "cabinet", "sitting", "1922" ],
+  "adjectives" : [ "public", "provincial", "Legislative", "different" ],
+  "nouns" : [ "pilot", "government", "level", "portfolio", "politician", "caucus", "member", "time", "office", "cabinet", "Assembly" ],
+  "text" : "Dallas Wilbur Schmidt (August 9, 1922 – November 22, 2007) was a provincial level politician and Royal Canadian Air Force pilot from Alberta, Canada. He served as a member of the Legislative Assembly of Alberta from 1975 to 1982 sitting with the governing Progressive Conservative caucus. During his time in public office he served different cabinet portfolio's under the government of Peter Lougheed."
+}, {
+  "entityIndex" : "19_entity2506",
+  "entityUrl" : "http://dbpedia.org/resource/David_Watts_Morgan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Commander_of_the_Order_of_the_British_Empire", "http://dbpedia.org/resource/Distinguished_Service_Order" ]
+  },
+  "words" : [ "``", "Described", "-LSB-", "becoming", "Commander", "Wales", "unionist", "Labour", "Rhondda", "hyphenated", "World", "Corps", "December", "either", "later", "encouraged", "outbreak", "First", "Member", "straddling", "representative", "Lib-Labism", "fully", "1933", "--", "Order", "DSO", "MP", "18", "'", "lieutenant-colonel", ",", ".", "miners", "army", "appointed", "never", "efforts", "following", "served", "David", "-RRB-", "name", "Watts", "Parliament", "1867", "Alphabet", "23", "politics", "-LRB-", "south", "JP", "Empire", "CBE", "War", "life", "Watts-Morgan", "Morgan", "Cambrai", "1918", "nickname", "1917", "1914", "February", "enlist", "earning", "''", "Regiment", "British", "Distinguished", "awarded", "politician", "South", "socialism", "Service", "Welsh", "Dai", "transition", "...", "trade", "Battle", "-RSB-", "initially", "bravery" ],
+  "adjectives" : [ "British", "south", "unionist", "representative" ],
+  "nouns" : [ "Order", "Empire", "politician", "lieutenant-colonel", "socialism", "Labour", "life", "transition", "army", "trade", "Battle", "name", "nickname", "outbreak", "bravery" ],
+  "text" : "David Watts Morgan CBE DSO JP (18 December 1867 – 23 February 1933), who later in life hyphenated his name to Watts-Morgan, was a Welsh trade unionist, a Labour politician, and a Member of Parliament (MP) from 1918 to 1933. Described as \"[straddling] the transition in south Wales miners' politics from Lib-Labism to socialism, but ... never fully representative of either\", Morgan encouraged Rhondda miners to enlist in the army in 1914 following the outbreak of the First World War, and was appointed Commander of the Order of the British Empire for his efforts. He initially served in the Welsh Regiment, before becoming a lieutenant-colonel in the Labour Corps. Morgan was awarded the Distinguished Service Order for bravery at the Battle of Cambrai in 1917, earning him the nickname \"Dai Alphabet\" in South Wales."
+}, {
+  "entityIndex" : "20_entity2540",
+  "entityUrl" : "http://dbpedia.org/resource/David_Elliott_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Australian_Service_Medal" ]
+  },
+  "words" : [ "June", "New", "-LRB-", "Veterans", "Wales", "2011", "second", "Party", "Baird", "government", "Hills", "1970", "Elliott", "member", "Assembly", "Minister", "11", "MP", "Affairs", "Andrew", "Liberal", "born", "politician", "South", "representing", "Baulkham", ",", ".", "April", "Services", "2", "2015", "Australian", "served", "David", "-RRB-", "Legislative", "Emergency", "Australia", "Corrections", "since" ],
+  "adjectives" : [ "Australian", "Legislative", "second" ],
+  "nouns" : [ "MP", "government", "politician", "member", "Assembly" ],
+  "text" : "David Andrew Elliott MP (born 11 June 1970), an Australian politician, is a member of the New South Wales Legislative Assembly representing Baulkham Hills for the Liberal Party of Australia since 2011. Elliott has served as the New South Wales Minister for Emergency Services, the Minister for Corrections, and the Minister for Veterans Affairs since 2 April 2015 in the second Baird government."
+}, {
+  "entityIndex" : "21_entity4624",
+  "entityUrl" : "http://dbpedia.org/resource/Hector_Clayton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Efficiency_Decoration", "http://dbpedia.org/resource/King_George_VI_Coronation_Medal", "http://dbpedia.org/resource/1914–15_Star", "http://dbpedia.org/resource/Knight_Bachelor", "http://dbpedia.org/resource/Victory_Medal_(United_Kingdom)", "http://dbpedia.org/resource/British_War_Medal", "http://dbpedia.org/resource/Mentioned_in_despatches", "http://dbpedia.org/resource/War_Medal_1939–1945", "http://dbpedia.org/resource/Australia_Service_Medal_1939-45" ]
+  },
+  "words" : [ "June", "New", "-LRB-", "becoming", "Leader", "Wales", "Opposition", "United", "predecessor", "Council", "years", "1975", "1973", "Party", "Richard", "member", "July", "1937", "ED", "--", "36", "Liberal", "18", "politician", "South", "representing", "solicitor", "Hector", ",", "Clayton", ".", "Major", "3", "1885", "1962", "soldier", "1960", "Australian", "Joseph", "-RRB-", "Legislative", "Australia", "Sir" ],
+  "adjectives" : [ "Major", "Australian", "Legislative" ],
+  "nouns" : [ "soldier", "politician", "member", "solicitor", "predecessor" ],
+  "text" : "Major Sir Hector Joseph Richard Clayton, ED (3 June 1885 – 18 July 1975) was an Australian politician, solicitor and soldier. He was a member of the New South Wales Legislative Council for 36 years from 1937 to 1973 representing the Liberal Party of Australia and its predecessor, the United Australia Party, becoming Leader of the New South Wales Opposition in the Legislative Council from 1960 until 1962."
+}, {
+  "entityIndex" : "22_entity4665",
+  "entityUrl" : "http://dbpedia.org/resource/Howie_Lind",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Defense_Meritorious_Service_Medal", "http://dbpedia.org/resource/Navy_Commendation_Medal", "http://dbpedia.org/resource/Meritorious_Service_Medal_(United_States)", "http://dbpedia.org/resource/Marksmanship_Medal" ]
+  },
+  "words" : [ "Office", "-LRB-", "Congressional", "10th", "Secretary", "Republican", "October", "candidate", "Howard", "U.S.", "commander", "Assistant", "Special", "retired", "R.", "1957", "born", "chairman", ",", "'s", "former", "Defense", ".", "nomination", "Navy", "Senate", "3", "2014", "Lind", "-RRB-", "District", "Virginia" ],
+  "adjectives" : [ "10th", "Special", "Republican", "retired", "former" ],
+  "nouns" : [ "candidate", "commander", "chairman", "nomination" ],
+  "text" : "Howard R. Lind (born October 3, 1957) is a retired U.S. Navy commander, former Special Assistant in the Office of the Secretary of Defense, former 10th Congressional District Republican chairman, was a 2014 candidate for the U.S. Senate in Virginia, and a 2014 candidate for the Republican nomination in Virginia's 10th Congressional District."
+}, {
+  "entityIndex" : "23_entity4719",
+  "entityUrl" : "http://dbpedia.org/resource/Isiah_Leggett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Vietnam_Campaign_Medal", "http://dbpedia.org/resource/Vietnam_Service_Medal", "http://dbpedia.org/resource/Bronze_Star_Medal" ]
+  },
+  "words" : [ "``", "county", "executive", "earned", "Howard", "July", "state", "Southern", "Rouge", "Army", "law", "Montgomery", "Democratic", "degree", "D.C.", ",", ".", "elected", "1986", "University", "African-American", "Texas", "council", "served", "-RRB-", "Maryland", "1944", "became", "Leggett", "-LRB-", "25", "American", "Deweyville", "War", "County", "Washington", "serving", "Vietnam", "U.S.", "Party", "2002", "member", "Baton", "''", "attended", "Ike", "born", "politician", "currently", "Born", "Louisiana", "Isiah", "first" ],
+  "adjectives" : [ "American", "African-American", "first" ],
+  "nouns" : [ "executive", "law", "council", "politician", "member", "degree", "county", "War", "state" ],
+  "text" : "Isiah \"Ike\" Leggett (born July 25, 1944) is an American politician from the U.S. state of Maryland, currently serving as the executive of Montgomery County, Maryland. He is a member of the Democratic Party. Born in Deweyville, Texas, Leggett attended Southern University in Baton Rouge, Louisiana and, after serving in the Vietnam War with the U.S. Army, earned a law degree from Howard University in Washington, D.C. In 1986, he became the first African-American elected to the county council in Montgomery County, Maryland and served on the council through 2002. He remains the only African-American ever elected to that body at-large. For two years, Leggett served as the chairman of the Maryland Democratic Party before leaving that position to run for office once again. Leggett was elected County Executive of Montgomery County in 2006, the first African-American to hold that office. Since taking office, Leggett has worked to put the County’s fiscal house in order while strengthening critical County services in education and public safety, and helping the most vulnerable. In the four years before Leggett took office, County spending grew by over 40 percent. In his first five years in office, Montgomery County's spending was held to zero percent. Responding to the worldwide recession that hit in 2008, Leggett closed budget gaps of over $2.6 billion, eliminating 10 percent of County government positions, while imposing furloughs (including himself), wage freezes, and changes in retirement and health benefits to save the County money. At the same time, Leggett put tens of millions of dollars into building and preserving thousands of units of affordable housing in the County, establishing a CountyStat office to ensure “real time” performance of County services, and set up a multi-agency Positive Youth Development Initiative to ensure positive programs for at-risk youth. Leggett worked to strengthen Montgomery County's biotechnology and life sciences sectors and also established the \"311\" Customer Service as a single point of entry via phone and the internet for residents seeking County services. During Leggett's first eight years, serious crime went down in the County by 24 percent and the Fire and Rescue Service's response times to Montgomery County's fires improved dramatically. Leggett was reelected to a second term in 2010 and to a third four-year term in 2014."
+}, {
+  "entityIndex" : "24_entity10054",
+  "entityUrl" : "http://dbpedia.org/resource/Seymour_H._Knox_II",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/National_Medal_of_Arts" ]
+  },
+  "words" : [ "New", "-LRB-", "September", "wealthy", "27", "York", "Gilbert", "C.", "Knox", "1898", "see", "philanthropist", "son", "Horace", "disambiguation", "Seymour", "businessman", "designed", "Buffalo", "palatial", "P.", "exponent", "player", "II", "--", "art", "H.", "1990", ",", "people", "article", ".", "home", "1", "polo", "owned", "name", "-RRB-" ],
+  "adjectives" : [ "wealthy", "palatial" ],
+  "nouns" : [ "art", "philanthropist", "son", "polo", "name", "disambiguation", "businessman", "article", "exponent", "player", "home" ],
+  "text" : "(This article is about the Buffalo philanthropist and art exponent. For other people with the same name, see Seymour Knox (disambiguation).) Seymour Horace Knox II (September 1, 1898 – September 27, 1990) was a Buffalo, New York philanthropist and polo player. The son of wealthy businessman Seymour H. Knox, he owned a palatial home designed by C. P. H. Gilbert."
+}, {
+  "entityIndex" : "25_entity10277",
+  "entityUrl" : "http://dbpedia.org/resource/Stephen_Urban",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Bronze_Star_Medal", "http://dbpedia.org/resource/Legion_of_Merit", "http://dbpedia.org/resource/Army_Commendation_Medal", "http://dbpedia.org/resource/Meritorious_Service_Medal_(United_States)" ]
+  },
+  "words" : [ "-LRB-", "Anthony", "born", "Wilkes-Barre", "Commissioner", ",", "County", "former", "Council", ".", "Pennsylvania", "Urban", "1952", "Luzerne", "current", "-RRB-", "member", "Stephen" ],
+  "adjectives" : [ "current", "former" ],
+  "nouns" : [ "member" ],
+  "text" : "Stephen Anthony Urban (born 1952 in Wilkes-Barre, Pennsylvania) is a former Luzerne County Commissioner and current member of the Luzerne County Council."
+}, {
+  "entityIndex" : "26_entity7863",
+  "entityUrl" : "http://dbpedia.org/resource/Milton_Morris",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Officer_of_the_Order_of_Australia", "http://dbpedia.org/resource/Order_of_Polonia_Restituta" ]
+  },
+  "words" : [ "-LRB-", "Arthur", "29", "March", "Party", "Morris", "represented", "1956", "Liberal", "born", "politician", "AO", "April", "former", ".", "August", "Electoral", "2", "Maitland", "3", "Australian", "district", "1980", "-RRB-", "Milton", "Australia", "1924" ],
+  "adjectives" : [ "Australian", "AO", "former" ],
+  "nouns" : [ "politician", "district" ],
+  "text" : "Milton Arthur Morris AO (born 2 April 1924) is a former Australian politician who represented the Electoral district of Maitland between 3 March 1956 and 29 August 1980 for the Liberal Party of Australia."
+}, {
+  "entityIndex" : "27_entity3574",
+  "entityUrl" : "http://dbpedia.org/resource/Greg_Aplin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/General_Service_Medal_(Rhodesia)" ]
+  },
+  "words" : [ "``", "New", "-LRB-", "Wales", "John", "Gregory", "Greg", "October", "1952", "Party", "2003", "member", "Assembly", "''", "MP", "Liberal", "born", "politician", "South", "representing", "Aplin", ",", "Albury", ".", "Australian", "-RRB-", "9", "Legislative", "Australia", "since" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Gregory John \"Greg\" Aplin MP (born 9 October 1952), an Australian politician, is a member of the New South Wales Legislative Assembly representing Albury for the Liberal Party of Australia since 2003."
+}, {
+  "entityIndex" : "28_entity3638",
+  "entityUrl" : "http://dbpedia.org/resource/George_Petersen",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Pacific_Star" ]
+  },
+  "words" : [ "New", "-LRB-", "May", "28", "Wales", "affiliated", "March", "Labor", "Party", "George", "member", "Petersen", "Assembly", "--", "13", "politician", "South", "Wilfred", "2000", ",", ".", "1921", "elected", "Australian", "-RRB-", "Legislative" ],
+  "adjectives" : [ "Australian", "Legislative" ],
+  "nouns" : [ "politician", "member", "Assembly" ],
+  "text" : "Wilfred George Petersen (13 May 1921 – 28 March 2000) was an Australian politician, affiliated with the Australian Labor Party and elected as a member of the New South Wales Legislative Assembly."
+}, {
+  "entityIndex" : "29_entity3847",
+  "entityUrl" : "http://dbpedia.org/resource/Grady_Patterson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Air_Force_Distinguished_Service_Medal" ]
+  },
+  "words" : [ "-LRB-", "defeated", "Force", "Jr.", "United", "War", "Republican", "thirty-seven", "World", "years", "2009", "States", "December", "2006", "Lieutenant", "Grady", "January", "--", "II", "Thomas", "13", "Treasurer", "reelection", "Calhoun", "Ravenel", "South", "Carolina", "Patterson", "Air", ",", ".", "Falls", "University", "State", "Born", "7", "graduated", "served", "-RRB-", "General", "Leslie", "1924" ],
+  "adjectives" : [ "Republican" ],
+  "nouns" : [ "reelection" ],
+  "text" : "Grady Leslie Patterson, Jr. (January 13, 1924 – December 7, 2009) was the South Carolina State Treasurer and a United States Air Force Lieutenant General. Born in Calhoun Falls, South Carolina, Patterson graduated from University of South Carolina. He served in World War II and was State Treasurer of South Carolina for thirty-seven years. In 2006, he was defeated for reelection by Republican Thomas Ravenel."
+}, {
+  "entityIndex" : "30_entity4095",
+  "entityUrl" : "http://dbpedia.org/resource/Grady_W._White",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Bronze_Star_Medal", "http://dbpedia.org/resource/Purple_Heart" ]
+  },
+  "words" : [ "Law", "World", "Melbourne", "theatre", "son", "school", "--", "II", "Bryan", "including", "law", "J.", "16", "mayor", "18", "82nd", "finished", ",", "Florida", "European", ".", "Bulge", "University", "W.", "served", "graduated", "-RRB-", "1946", "-LRB-", "September", "War", "2010", "Alabama", "1952", "School", "seeing", "Grady", "Division", "Bemiston", "born", "one-term", "Airborne", "1965", "White", "1962", "Battle", "time", "1924", "Mamie", "Stetson" ],
+  "adjectives" : [ "one-term", "82nd", "European" ],
+  "nouns" : [ "theatre", "son", "law", "mayor", "Battle", "school", "time" ],
+  "text" : "Grady W. White (September 16, 1924 – September 18, 2010) was a one-term mayor of Melbourne, Florida from 1962 to 1965. He was born in Bemiston, Alabama, the son of J. Bryan White and Mamie White. He served in the 82nd Airborne Division, seeing time in the European theatre of World War II including the Battle of the Bulge. In 1946, he graduated from the University of Alabama and finished law school in 1952 at Stetson Law School. Afterwords, he practiced law for over fifty years. He was the youngest person to be appointed Circuit Court judge in Florida."
+}, {
+  "entityIndex" : "31_entity766",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_MacWilliam,_Sr.",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Purple_Heart", "http://dbpedia.org/resource/Distinguished_Service_Cross_(United_States)" ]
+  },
+  "words" : [ "``", "Alexander", "-LRB-", "25", "May", "Representatives", "County", "Sr.", "Beach", "1951", "1939", "River", "1935", "1933", "''", "--", "sessions", "Vero", "mayor", "1891", "also", "House", ",", "Florida", "Mac", ".", "August", "served", "-RRB-", "Indian", "1927", "1949", "1947", "MacWilliam", "Duncan", "1945", "1966" ],
+  "adjectives" : [ ],
+  "nouns" : [ "mayor" ],
+  "text" : "Alexander Duncan \"Mac\" MacWilliam, Sr. (May 25, 1891 – August 1966) was the mayor of Vero Beach, Florida from 1927 to 1935, from 1939 to 1947, and from 1949 to 1951, he also served in the Florida House of Representatives from Indian River County in the 1933, 1945, 1947, 1949 and 1951 sessions."
+}, {
+  "entityIndex" : "32_entity853",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_McLachlan",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:award" : [ "http://dbpedia.org/resource/Conspicuous_Service_Cross_(Australia)", "http://dbpedia.org/resource/Afghanistan_Medal_(Australia)", "http://dbpedia.org/resource/Australian_Active_Service_Medal", "http://dbpedia.org/resource/Defence_Long_Service_Medal", "http://dbpedia.org/resource/NATO_Medal", "http://dbpedia.org/resource/Australian_Defence_Medal", "http://dbpedia.org/resource/Commander_of_the_Venerable_Order_of_Saint_John" ]
+  },
+  "words" : [ "McLachlan", "officer", "financial", "industry", "Council", "Party", "member", "working", "Division", "state", "businessman", "lawyer", "election", "Andrew", "Liberal", "politician", "South", "representing", "services", ",", ".", "army", "entering", "Australian", "2014", "Prior", "Lockhart", "Legislative", "Australia", "Parliament", "since" ],
+  "adjectives" : [ "Australian", "financial", "Legislative" ],
+  "nouns" : [ "army", "election", "officer", "politician", "member", "industry", "state", "businessman", "lawyer" ],
+  "text" : "Andrew Lockhart McLachlan is an Australian politician and has been a member of the South Australian Legislative Council since the 2014 state election, representing the South Australian Division of the Liberal Party of Australia. Prior to entering Parliament, McLachlan was a lawyer, army officer and a businessman working in the financial services industry."
+} ]

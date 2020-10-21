@@ -1,0 +1,100 @@
+[ {
+  "entityIndex" : "1_entity5122",
+  "entityUrl" : "http://dbpedia.org/resource/Jan_C._Ting",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:c" : [ "丁景安" ]
+  },
+  "words" : [ "Professor", "-LRB-", "Dīng", "Law", "endorsement", "Jǐngān", "Republican", "丁景安", "，", "two", "years", "December", "candidate", "U.S.", "2006", "later", "Party", "nominee", "Barack", "Ching-an", "dispute", "election", "Obama", "17", "Democratic", "born", "Senator", "Ting", ",", "Delaware", ".", "Pennsylvania", "Senate", "pinyin", "Temple", "University", "left", "Jan", "-RRB-", "Chinese", ":", ";", "1948", "presidential", "Philadelphia" ],
+  "adjectives" : [ "Democratic", "Republican", "presidential" ],
+  "nouns" : [ "dispute", "candidate", "pinyin", "election", "endorsement", "nominee" ],
+  "text" : "Jan Ching-an Ting (Chinese: 丁景安; pinyin: Dīng Jǐngān，born December 17, 1948) is a Professor of Law at Temple University in Philadelphia, Pennsylvania. He was the Republican candidate for U.S. Senator from Delaware in the 2006 U.S. Senate election, but two years later Ting left the Republican Party in a dispute over his endorsement of Democratic presidential nominee Barack Obama."
+}, {
+  "entityIndex" : "2_entity6042",
+  "entityUrl" : "http://dbpedia.org/resource/James_Wong_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:c" : [ "黄金明" ]
+  },
+  "words" : [ "fifty", "office", "jīn", "years", "assemblyman", "National", "record", "Wong", "July", "state", "Malaysian", "Minister", "--", "Datuk", "Deputy", "18", "active", "history", ",", ".", "Kim", "August", "Min", "pinyin", "6", "served", "name", "-RRB-", ":", ";", "Sarawak", "politics", "-LRB-", "longest", "黄", "Chief", "黄金明", "nearly", "2011", "serving", "holding", "Party", "huáng", "Amar", "James", "politician", "míng", "SNAP", "Chinese", "holds", "decades", "family", "first", "1922", "president" ],
+  "adjectives" : [ "Chinese", "active", "Malaysian", "first", "huáng" ],
+  "nouns" : [ "assemblyman", "pinyin", "politician", "record", "name", "history", "state", "office", "family", "jīn", "míng", "president" ],
+  "text" : "(This is a Chinese name; the family name is Wong (黄).) Datuk Amar James Wong Kim Min (Chinese: 黄金明; pinyin: huáng jīn míng) (6 August 1922 – 18 July 2011) was a Malaysian politician active in the politics of Sarawak for decades. Wong holds the record as the longest serving assemblyman in the history of the state of Sarawak, holding the office for nearly fifty years. Wong served as the first Deputy Chief Minister of Sarawak and the president of the Sarawak National Party (SNAP). He held several other ministries of Sarawak politics until his retirement in 2001."
+}, {
+  "entityIndex" : "3_entity12171",
+  "entityUrl" : "http://dbpedia.org/resource/Zhu_Zhengchang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:c" : [ "朱正昌" ]
+  },
+  "words" : [ "Congress", "-LRB-", "Maritime", "2011", "Committee", "County", "marine", "Zhengchang", "Engineering", "October", "Chongming", "secretary", "Dalian", "Wuhan", "November", "--", "Waterway", "deputy", "Shanghai", "Zhu", "director", "studied", "politician", "born", "People", "Shandong", "engineering", "'s", ",", ".", "University", "served", "name", "-RRB-", "College", "Chinese", ";", "Standing", "family", "party", "1944" ],
+  "adjectives" : [ "Chinese", "marine" ],
+  "nouns" : [ "deputy", "secretary", "director", "politician", "name", "engineering", "family", "Committee", "party" ],
+  "text" : "(This is a Chinese name; the family name is Zhu.) Zhu Zhengchang (November 1944–) is a Chinese politician in Shandong. He served as deputy director of the Standing Committee of the Shandong People's Congress and party secretary of Shandong University until October 2011. Zhu was born in Chongming County, Shanghai and studied marine engineering at the Wuhan Waterway Engineering College and Dalian Maritime University. He became a member of the Chinese Communist Party in 1967. Since 1984, he has held various provincial-level party posts. He has also been executive vice president of the Chinese Confucius Foundation that was established in 1984 to advance the study of traditional Chinese culture and promote international cultural exchange. Since January 2005, he has been Deputy Director of the Standing Committee of the Shandong People's Congress and since February 2005, party secretary of Shandong University."
+}, {
+  "entityIndex" : "4_entity7050",
+  "entityUrl" : "http://dbpedia.org/resource/Li_Tianmin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:c" : [ "李天民" ]
+  },
+  "words" : [ "Lǐ", "held", "municipality", "political", "Nationalist", "Central", "province", "Kuomintang", "Li", "--", "14", "1909", "Academy", "completed", ",", "Tien-Min", "romanised", ".", "elected", "seat", "Civil", "pinyin", "武汉中央军事政治学校", "University", "even", "Taiwan", "-RRB-", ":", "1949", ";", "Waseda", "1948", "Tiānmín", "June", "24", "-LRB-", "Yuan", "War", "Republic", "Sichuan", "Tianmin", "October", "candidate", "government", "1993", "China", "Wuhan", "1991", "李天民", "studies", "end", "Military", "studied", "politician", "historian", "economics", "Born", "Chengdu", "Chinese", "Legislative", "fleeing", "undergraduate", "represent" ],
+  "adjectives" : [ "Civil", "Chinese", "political", "Legislative", "Nationalist", "undergraduate" ],
+  "nouns" : [ "Yuan", "Lǐ", "politician", "municipality", "historian", "War", "Republic", "seat", "candidate", "pinyin", "government", "province", "end", "Tiānmín" ],
+  "text" : "Li Tianmin (Chinese: 李天民; pinyin: Lǐ Tiānmín, October 14, 1909 – June 24, 1993), or Li Tien-Min (romanised), was a Chinese Nationalist politician and political historian. Born in Sichuan province, Li studied at the Central Military Academy in Wuhan (Chinese: 武汉中央军事政治学校) and completed his undergraduate studies in economics at Waseda University. He was elected as the Kuomintang candidate in 1948 to represent the municipality of Chengdu in Sichuan province in the Legislative Yuan of the Republic of China. He held this seat from 1948 until 1991, even after fleeing to Taiwan with the Nationalist government in 1949 at the end of the Chinese Civil War. A historical biographer, and a professor at National Chengchi University, he wrote six books on Chinese Communist party leaders Zhou Enlai, Mao Zedong, Liu Shaoqi, Deng Xiaoping, and Lin Biao. Li had seven children. His second son and youngest child, Kai-Fu Lee, is a prominent computer science researcher, the founding president of Google China and previously the founder of Microsoft Research Asia."
+}, {
+  "entityIndex" : "5_entity7291",
+  "entityUrl" : "http://dbpedia.org/resource/Lim_Ah_Siang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:c" : [ "林亞相" ]
+  },
+  "words" : [ "``", "Johor", "leader", "Chop", "Ironic", "1853", "Kongsi", "timber", "Ngee", "--", "based", "Bahru", "19", "merchant", ",", ".", "appointed", "pinyin", "miller", "Yàxiāng", "Heng", "name", "-RRB-", "Sin", ":", ";", "position", "-LRB-", "prominent", "Ah", "secret", "seem", "society", "1917", "steam", "February", "''", "may", "Siang", "founder", "Moh", "saw", "Lín", "legitimised", "Lim", "third", "Chinese", "time", "family", "林亞相" ],
+  "adjectives" : [ "prominent", "third", "Chinese", "secret", "legitimised", "Ironic" ],
+  "nouns" : [ "leader", "Siang", "founder", "Ah", "merchant", "society", "pinyin", "miller", "name", "Chinese", "steam", "timber", "position", "time", "family" ],
+  "text" : "(This is a Chinese name; the family name is Lim.) Lim Ah Siang (Chinese: 林亞相; pinyin: Lín Yàxiāng; 1853 – 19 February 1917), a timber merchant and steam saw miller, the founder of \"Chop Sin Moh\" Johor Bahru, was the third leader of the Ngee Heng Kongsi of Johor, a legitimised secret society based in Johor Bahru. Ironic as it may seem, he was appointed to the position not because he was the most prominent Chinese in Johor at the time, but because he was not."
+}, {
+  "entityIndex" : "6_entity988",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Chew",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:c" : [ "周玉清" ]
+  },
+  "words" : [ "chheng", "daughter-in-law", "Penang", "Opposition", "Malaysia", "Guan", "Qīng", "Malaysian", "Assembly", "Minister", "15", "Democratic", "Tuan", "Gek", ",", "'s", "-", ".", "former", "August", "Laksamana", "pinyin", "ōe-jī", "State", "Kit", "name", "-RRB-", ":", ";", "Secretary-General", "YAB", "Zhōu", "wing", "Parliament", "women", "Eng", "Yù", "Action", "-LRB-", "Chief", "Leader", "周玉清", "represents", "Chiu", "Kota", "current", "Party", "2005", "Chew", "Cheng", "Malacca", "Ge̍k", "chief", "Siang", "Betty", "born", "politician", "周", "also", "1964", "Lim", "DAP", "constituency", "Pe̍h", "Chinese", "family", "married" ],
+  "adjectives" : [ "current", "Democratic", "Chinese", "Malaysian", "former" ],
+  "nouns" : [ "Yù", "chheng", "chief", "daughter-in-law", "politician", "周", "DAP", "pinyin", "constituency", "ōe-jī", "Pe̍h", "State", "Kit", "name", "Qīng", "family", "Zhōu", "wing", "Assembly" ],
+  "text" : "(This is a Chinese name; the family name is Chew (周).) Betty Chew Gek Cheng (Chinese: 周玉清; pinyin: Zhōu Yù Qīng; Pe̍h-ōe-jī: Chiu Ge̍k-chheng; born 15 August 1964) is a Malaysian Chinese politician from the Democratic Action Party (DAP). As of 2005, she is the chief of the DAP Malacca women's wing, and also represents the constituency of Kota Laksamana in the State Assembly of Malacca. She is also married to the current Chief Minister of the State of Penang who also the Secretary-General of the DAP, YAB Tuan Lim Guan Eng, and is the daughter-in-law of the former Opposition Leader in the Parliament of Malaysia, Lim Kit Siang, who is also of the DAP. In 2005, she suffered a surprise defeat when running for re-election to the DAP Malacca committee, placing second-last, finishing ahead of only her husband. However, while her husband automatically qualified to sit on the committee by virtue of his position as party Secretary-General, Chew did not. Chew was \"saddened by the results\", but said she accepted her defeat. However, Teresa Kok, a DAP Member of Parliament, suggested there was a conspiracy behind the defeat of Lim and Chew in their re-election campaigns. In 2006, it was reported that Chew would become the first Malacca assemblyman to give birth while in office. At the time, Chew had three children with Lim: Rachael, aged 15, Clint, aged 14, and Marcus, aged 11. In 2008, Chew defeated newcomer Lee Kiat Lee for the Kota Laksamana seat where she had 11043 votes while Lee had only 3801 votes."
+}, {
+  "entityIndex" : "7_entity10877",
+  "entityUrl" : "http://dbpedia.org/resource/Toni_Preckwinkle",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:c" : [ "category:Toni Preckwinkle" ]
+  },
+  "words" : [ "M.", "Mayor", "defeated", "United", "Daley", "occasional", "née", "office", "States", "President", "Board", "critic", "Reed", "four", "Executive", "17", "4th", "City", ",", "'s", "former", ".", "elected", "Toni", "2", "twice", "Preckwinkle", "1983", "Illinois", "-RRB-", ";", "1947", "-LRB-", "Cook", "alderman", "March", "2010", "ward", "County", "subsequently", "Council", "current", "times", "government", "Branch", "1991", "Richard", "November", "election", "Chicago", "securing", "representing", "sought", "re-elected", "first" ],
+  "adjectives" : [ "current", "4th", "occasional", "former" ],
+  "nouns" : [ "government", "election", "critic", "alderman", "ward", "office" ],
+  "text" : "Toni Preckwinkle (née Reed; March 17, 1947) is the current Cook County Board President and a former alderman in the Chicago City Council representing Chicago's 4th ward in Cook County, Illinois, United States. She was elected on November 2, 2010, as President of the Cook County Board, the Executive Branch of Cook County government. Preckwinkle first sought office in 1983 and was defeated twice before securing election in 1991 and subsequently being re-elected as alderman four times. Preckwinkle had been an occasional critic of Chicago Mayor Richard M. Daley. In her first four terms in office she emerged as the council's prominent defender of affordable housing. Among other issues, she is known for her sponsorship of living wage ordinances, her expressed concerns regarding the costs and benefits of the city's Olympic bid, and her strong stance against police brutality and excessive force."
+}, {
+  "entityIndex" : "8_entity12137",
+  "entityUrl" : "http://dbpedia.org/resource/Yeow_Chai_Thiam",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:c" : [ "姚再添" ]
+  },
+  "words" : [ "medical", "Federal", "Assemblyman", "political", "appointment", "Malaysia", "independence", "years", "Thiam", "ruling", "Utilities", "Barisan", "state", "January", "Malaysian", "Assembly", "--", "gaining", "Nasional", "19", "Senator", "Local", ",", "'s", "April", ".", "姚再添", "pinyin", "Negeri", "State", "7", "served", "-RRB-", ":", ";", "Yeow", "party", "20", "since", "Dr.", "-LRB-", "Tiān", "Yáo", "part", "Chai", "2009", "1953", "2008", "Association", "member", "coalition", "Zài", "Lukut", "Government", "MCA", "Chairman", "doctor", "1963", "2016", "Conservative", "Dato", "Chinese", "Legislative", "Sembilan", "EXCO" ],
+  "adjectives" : [ "medical", "Conservative", "Chinese", "political", "Legislative", "Local", "Malaysian" ],
+  "nouns" : [ "doctor", "ruling", "pinyin", "Association", "Government", "part", "member", "coalition", "appointment", "state", "independence", "party" ],
+  "text" : "Dato Dr. Yeow Chai Thiam (Chinese: 姚再添; pinyin: Yáo Zài Tiān; 19 April 1953 – 7 January 2016) was a medical doctor and a Malaysian Federal Senator, gaining appointment in 2009. He was a member of the Conservative Malaysian Chinese Association (MCA) and had been the MCA Chairman  for the state of Negeri Sembilan since 2008, the MCA are part of the Federal ruling Barisan Nasional coalition who have been Malaysia's ruling political party since independence in 1963. Senator Yeow served as the Legislative Assemblyman for Lukut in the Negeri Sembilan State Assembly for 20 years and was the State EXCO for Utilities and Local Government."
+}, {
+  "entityIndex" : "9_entity9978",
+  "entityUrl" : "http://dbpedia.org/resource/Susan_C._Lee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:c" : [ "李鳳遷" ]
+  },
+  "words" : [ "Lǐ", "Trafficking", "John", "Workgroup", "Fèngqiān", "Proceedings", "introduced", "Cabin", "Technology", "Human", "14", "Chevy", "李鳳遷", "16", "created", "Montgomery", "Youth", "House", "Cybersecurity", "includes", "Judicial", ",", "Joint", "Kensington", ".", "Chase", "elected", "Rockville", "Senate", "pinyin", "4", "State", "served", "-RRB-", "parts", "Delegates", ":", ";", "Maryland", "District", "since", "Biotechnology", "Clair", "-LRB-", "May", "serves", "Potomac", "Committee", "Information", "County", "Council", "Glen", "1954", "represents", "previously", "Susan", "2002", "member", "passed", "November", "legislation", "Victims", "Echo", "born", "Lee", "2014", "Chinese", "located", "Bethesda" ],
+  "adjectives" : [ "Human", "located" ],
+  "nouns" : [ "pinyin", "Lǐ", "Trafficking", "member", "Fèngqiān", "legislation" ],
+  "text" : "Susan Clair Lee (Chinese: 李鳳遷; pinyin: Lǐ Fèngqiān; born May 14, 1954) is a member of the Maryland State Senate. She was elected to the Maryland State Senate on November 4, 2014 and had previously served in the Maryland House of Delegates since 2002. She serves on the Senate Judicial Proceedings Committee and the Joint Committee on Cybersecurity, Information Technology and Biotechnology and is a member of the Maryland Cybersecurity Council and Workgroup on Youth Victims of Human Trafficking which were both created by legislation she introduced and passed. Lee represents District 16, which is located in Montgomery County, and includes parts of Bethesda, Chevy Chase, Potomac, Kensington, Cabin John, Glen Echo, and Rockville. She is the first Asian American elected to the Maryland State Senate and was the first Asian American woman and first Chinese American to be elected to the Maryland legislature.While in the House of Delegates, she was a member of the House Judiciary Committee, a Deputy Majority Whip, Vice Chair of the Montgomery County House Delegation, Chair of the Subcommittee on Family Law, Co Chair of the Maryland Commission on Cyber Security Innovation and Excellence, the Nanobiotechnology Task Force and the Identity Theft Task Force. Lee was elected to serve two terms as President of the Women Legislators of Maryland (Women's Legislative Caucus) and led efforts to pass an aggressive agenda of laws to fight domestic violence and human trafficking, economically empower women, reduce health care disparities, and obtain funding for rape crisis centers. She received the Maryland Legislative Agenda for Women's (MLAW) Legislative Leadership Award, inducted into the Human Rights Hall of Fame of Montgomery County and the Montgomery County Women's History Archives and honored by the Maryland Chapter of the Healthcare Information Management Systems Society for her work in advancing healthcare technology and reform. Lee received an Award from the Maryland National Organization for Women for her leadership and work on legislation while President of the Women’s Caucus, particularly the law authorizing the placement of Marylander and American hero Harriet Tubman’s statue in the U.S. Capitol."
+} ]

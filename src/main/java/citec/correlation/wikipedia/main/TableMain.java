@@ -80,9 +80,9 @@ public class TableMain implements PropertyNotation {
 
         //QALDMain qaldMain=new QALDMain (posTags,qald9Dir,trainingJson);
         TableMain trainingTable = new TableMain();
-        String type = meanReciprocal;
+        String type = qald;
         Tables tables = null;
-        String dbo_ClassName = PropertyNotation.dbo_Person;
+        String dbo_ClassName = PropertyNotation.dbo_Politician;
             freqClasses.add(dbo_ClassName);
             String inputFile = allPoliticianFile;
             String fileType = DbpediaClass.ALL;
@@ -97,13 +97,13 @@ public class TableMain implements PropertyNotation {
             Integer TopNwords=100;
             Integer ObjectMinimumEntities=50;*/
         //parameter for actor
-        Integer numberOfEntitiesrmSelected = 100;
-        Integer wordFoundInNumberOfEntities = 10;
+        Integer numberOfEntitiesrmSelected = 50;
+        Integer wordFoundInNumberOfEntities = 5;
         Integer TopNwords = 100;
-        Integer ObjectMinimumEntities = 60;
+        Integer ObjectMinimumEntities = 20;
 
-        Double wordGivenObjectThres = 0.2;
-        Double objectGivenWordThres = 0.2;
+        Double wordGivenObjectThres = 0.1;
+        Double objectGivenWordThres = 0.1;
         Integer topWordLimitToConsiderThres = 2;
 
         InterestedWords interestedWords = null;

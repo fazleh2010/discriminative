@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity1285",
+  "entityUrl" : "http://dbpedia.org/resource/Botak_Chin",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:charge" : [ "Armed robbery" ]
+  },
+  "words" : [ "shared", "-LRB-", "Swee", "notorious", "Botak", "dangerous", "Chin", "Malaysia", "conducting", "robberies", "known", "amounts", "poor", "Wong", "huge", "1960s", "cash", "Hood", "1970s", "cases", "gangsters", "one", "often", "say", ",", "community", ".", "involved", "regarded", "armed", "name", "-RRB-", "Chinese", "well", "modern-age", ";", "family", "respected", "Robin" ],
+  "adjectives" : [ "notorious", "poor", "armed", "dangerous", "Chinese", "modern-age", "huge" ],
+  "nouns" : [ "name", "family", "community", "cash" ],
+  "text" : "(This is a Chinese name; the family name is Wong.) Wong Swee Chin who was more well known as Botak Chin was one of the most notorious and dangerous gangsters during the 1960s and 1970s in Malaysia. He was known for conducting armed robberies, which in a few cases involved huge amounts of cash. He was respected by the Chinese community and often regarded as modern-age Robin Hood, as some say he shared the cash from the robberies with the poor. On the evening of 16 February 1976, he was captured by the police, and was sentenced to hang to death in Pudu Prison on 11 June 1981."
+} ]

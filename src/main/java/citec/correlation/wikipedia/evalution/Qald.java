@@ -95,10 +95,11 @@ public class Qald {
                     Unit unit = posTags.get(word);
                     unit.setSparqls(resultQald9.getId(), resultQald9.getSparql());
                     unit.setQaldQuestionId(resultQald9.getId());
+                    unit.setQuestions(resultQald9.getId(), resultQald9.getQuestion());
                     posTags.put(word, unit);
                 } else {
                     //System.out.println(resultQald9.getId()+" "+resultQald9.getSparql());
-                    Unit unit = new Unit(word, resultQald9.getId(), resultQald9.getSparql());
+                    Unit unit = new Unit(word, resultQald9.getId(), resultQald9.getSparql(),resultQald9.getQuestion());
                     posTags.put(word, unit);
                 }
 

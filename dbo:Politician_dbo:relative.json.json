@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "1_entity7307",
+  "entityUrl" : "http://dbpedia.org/resource/Leroy_McAfee",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbo:relative" : [ "http://dbpedia.org/resource/Thomas_Dixon,_Jr." ]
+  },
+  "words" : [ "--", "-LRB-", "American", "politician", "Carolina", "House", "Representatives", "McAfee", ".", "Confederate", "1873", "veteran", "-RRB-", "member", "North", "1837", "Leroy", "Magnum" ],
+  "adjectives" : [ "Confederate", "American" ],
+  "nouns" : [ "veteran", "politician", "member" ],
+  "text" : "Leroy Magnum McAfee (1837 – 1873) was an American Confederate veteran and politician. He was a member of the North Carolina House of Representatives."
+} ]

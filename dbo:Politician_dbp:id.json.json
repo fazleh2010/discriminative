@@ -1,0 +1,188 @@
+[ {
+  "entityIndex" : "1_entity2770",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_M._Burke",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "PAIpIQNifQQ" ]
+  },
+  "words" : [ "``", "M.", "named", "-LSB-", "called", "December", "Chicagoans", "describing", "Burke", "last", "Democratic", "City", ",", "'s", ".", "1943", "elected", "Southwest", "Ward", "ne", "-RRB-", "Ed", "14th", "-LRB-", "city", "Chair", "29", "part", "alderman", "Edward", "Committee", "Council", "Machine", "represents", "Side", "Party", "member", "old-school", "''", "Chicago", "Finance", "born", "Sun-Times", "one", "o", "100", "pols", "powerful", "-RSB-", "1969", "first", "Magazine", "Powerful" ],
+  "adjectives" : [ "14th", "powerful", "last", "old-school", "first", "Powerful" ],
+  "nouns" : [ "Side", "Southwest", "city", "Chair", "part", "ne", "alderman", "member", "City", "Machine", "o" ],
+  "text" : "Edward M. \"Ed\" Burke (born December 29, 1943) is alderman of the 14th Ward of the City of Chicago. A member of the Democratic Party, he was first elected to the Chicago City Council in 1969, and represents part of the city's Southwest Side. Chair of Council's Committee on Finance, Burke has been called Chicago's \"most powerful alderman\" by the Chicago Sun-Times. Burke was named one of the \"100 Most Powerful Chicagoans\" by Chicago Magazine, describing him as \"[o]ne of the last of the old-school Chicago Machine pols.\" Burke is the longest-serving aldermen in Chicago history. He was a leader of the \"Vrdolyak 29\" during the first term of Mayor Harold Washington, the \"Council Wars\" era. Burke and his staff were the subjects of federal and local investigations, and members of his staff were the targets of indictments and convictions involving payroll and contracting irregularities. Burke is the lead partner in a law firm that specializes in property tax appeals and which includes clients who do business with the city. Burke's wife is Illinois Supreme Court Justice Anne M. Burke. He and his wife were foster parents and were party to a protracted, highly publicized, racially charged child custody dispute."
+}, {
+  "entityIndex" : "2_entity2841",
+  "entityUrl" : "http://dbpedia.org/resource/Edgar_Alfred_Bowring",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "Bowring,+Edgar+Alfred" ]
+  },
+  "words" : [ "Hong", "Commission", "John", "ˈboʊrɪŋ", "translated", "Trade", "Board", "son", "1851", "Member", "Kong", "--", "Charles", "author", "1792", ",", ".", "/", "Governor", "1863", "-RRB-", "Alfred", ";", "1826", "Sir", "brother", "Parliament", "1868", "Edgar", "-LRB-", "works", "registrar", "translator", "youngest", "German", "serving", "Royal", "servant", "secretary", "1874", "1872", "civil", "Bowring", "1911", "poetry", "British", "Liberal", "Exeter", "librarian", "Exhibition", "English", "Bentham", "various", "Devon", "1848", "Lewin" ],
+  "adjectives" : [ "British", "Liberal", "various", "civil", "German", "ˈboʊrɪŋ" ],
+  "nouns" : [ "servant", "secretary", "son", "registrar", "author", "translator", "librarian", "brother", "poetry" ],
+  "text" : "Edgar Alfred Bowring (/ˈboʊrɪŋ/; 1826–1911) was a British translator, author and civil servant, serving as librarian and registrar to the Board of Trade (1848–1863), secretary to the Royal Commission for the Exhibition of 1851, and Liberal Member of Parliament for Exeter (1868–1874). He was the youngest son of Sir John Bowring (1792–1872), of Exeter, Devon, Governor of Hong Kong, and was brother of John Charles Bowring and Lewin Bentham Bowring. He translated various works of poetry from German into English."
+}, {
+  "entityIndex" : "3_entity11607",
+  "entityUrl" : "http://dbpedia.org/resource/William_H._Gray_(Oregon_politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "Gray,+William+Henry" ]
+  },
+  "words" : [ "Oregon", "-LRB-", "book", "pioneer", "History", "participant", "1810", "U.S.", "later", "1792-1849", "state", "Henry", "--", "Gray", "Government", "present-day", "politician", "wrote", "historian", "active", "Provisional", "establishment", "William", ",", ".", "Pioneer", "instrumental", "-RRB-", "creating", "Country", "Society", "1889" ],
+  "adjectives" : [ "present-day", "instrumental", "active" ],
+  "nouns" : [ "politician", "book", "historian", "Country", "establishment", "state", "pioneer", "History", "participant" ],
+  "text" : "William Henry Gray (1810–1889) was a pioneer politician and historian of the Oregon Country in the present-day U.S. state of Oregon. He was an active participant in creating the Provisional Government of Oregon. Gray later wrote the book A History of Oregon, 1792-1849 and was instrumental in the establishment of the Oregon Pioneer Society."
+}, {
+  "entityIndex" : "4_entity11325",
+  "entityUrl" : "http://dbpedia.org/resource/Valentine_Crittall,_1st_Baron_Braintree",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "57466" ]
+  },
+  "words" : [ "June", "joining", "-LRB-", "May", "28", "Labour", "1st", "later", "George", "Conservatives", "Valentine", "Crittall", "Baron", "businessman", "Member", "--", "British", "briefly", "politician", ",", "Braintree", ".", "1884", "1961", "served", "-RRB-", "Parliament", "21" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "briefly", "politician", "Labour", "businessman" ],
+  "text" : "Valentine George Crittall, 1st Baron Braintree (28 June 1884 – 21 May 1961) was a British politician and businessman who served briefly as a Labour Member of Parliament before later joining the Conservatives."
+}, {
+  "entityIndex" : "5_entity7291",
+  "entityUrl" : "http://dbpedia.org/resource/Lim_Ah_Siang",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "2" ]
+  },
+  "words" : [ "``", "Johor", "leader", "Chop", "Ironic", "1853", "Kongsi", "timber", "Ngee", "--", "based", "Bahru", "19", "merchant", ",", ".", "appointed", "pinyin", "miller", "Yàxiāng", "Heng", "name", "-RRB-", "Sin", ":", ";", "position", "-LRB-", "prominent", "Ah", "secret", "seem", "society", "1917", "steam", "February", "''", "may", "Siang", "founder", "Moh", "saw", "Lín", "legitimised", "Lim", "third", "Chinese", "time", "family", "林亞相" ],
+  "adjectives" : [ "prominent", "third", "Chinese", "secret", "legitimised", "Ironic" ],
+  "nouns" : [ "leader", "Siang", "founder", "Ah", "merchant", "society", "pinyin", "miller", "name", "Chinese", "steam", "timber", "position", "time", "family" ],
+  "text" : "(This is a Chinese name; the family name is Lim.) Lim Ah Siang (Chinese: 林亞相; pinyin: Lín Yàxiāng; 1853 – 19 February 1917), a timber merchant and steam saw miller, the founder of \"Chop Sin Moh\" Johor Bahru, was the third leader of the Ngee Heng Kongsi of Johor, a legitimised secret society based in Johor Bahru. Ironic as it may seem, he was appointed to the position not because he was the most prominent Chinese in Johor at the time, but because he was not."
+}, {
+  "entityIndex" : "6_entity1628",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Archer",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "Archer,+Charles" ]
+  },
+  "words" : [ "translating", "Archer", "-LRB-", "Chief", "collaborated", "three", "Rosmersholm", "Lady", "administrator", "times", "province", "four", "Inger", "Baluchistan", "--", "Charles", "British", "plays", "Peer", "Commissioner", ",", "William", "'s", "Ostrat", ".", "India", "Ibsen", "1941", "1861", "served", "-RRB-", ":", "Gynt", "brother" ],
+  "adjectives" : [ "British" ],
+  "nouns" : [ "administrator", "province", "brother" ],
+  "text" : "Charles Archer (1861–1941) was an administrator in British India, he served as the Chief Commissioner of Baluchistan province four times. He collaborated with his brother William in translating three of Ibsen's plays: Rosmersholm, Lady Inger of Ostrat, and Peer Gynt."
+}, {
+  "entityIndex" : "7_entity10837",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Williamson,_Baron_Williamson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "mp57399" ]
+  },
+  "words" : [ "unionist", "United", "Labour", "by-election", "President", "1897", "National", "won", "Member", "--", ",", "'s", ".", "resulting", "elected", "seat", "2", "1983", "Workers", "-RRB-", "General", "1948", "1946", "1945", "Parliament", "Congress", "-LRB-", "September", "27", "Secretary", "CBE", "Lance", "Mallalieu", "Union", "Brigg", "general", "Williamson", "Party", "1958", "Baron", "February", "1957", "resigned", "Thomas", "election", "Trades", "Lincolnshire", "politician", "Municipal", "trade", "1961", "constituency", "Kingdom" ],
+  "adjectives" : [ "general", "unionist" ],
+  "nouns" : [ "seat", "trade", "election", "constituency", "politician", "by-election" ],
+  "text" : "Thomas Williamson, Baron Williamson, CBE (2 September 1897 – 27 February 1983) was a trade unionist and Labour Party politician in the United Kingdom. He was General Secretary of the National Union of General and Municipal Workers from 1946 to 1961, and President of the Trades Union Congress from 1957 to 1958. At the 1945 general election, he was elected as Member of Parliament for the Brigg constituency in Lincolnshire. He resigned his seat in 1948, and the resulting by-election was won by Labour's Lance Mallalieu. Williamson was appointed a Commander of the Order of the British Empire (CBE) in 1950, and was knighted in 1956. Williamson was created a life peer on 15 May 1962, with the title Baron Williamson, of Ecccleston in the Borough of St. Helens in the County Palatine of Lancaster. He died in 1983, aged 85."
+}, {
+  "entityIndex" : "8_entity10944",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Barlow_Smith",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "Smith,+Thomas+Barlow" ]
+  },
+  "words" : [ "22", "-LRB-", "28", "Windsor", "ship", "political", "County", "Hants", "October", "1874", "son", "Bennett", "1894", "Azubah", "builder", "member", "1839", "represented", "July", "Assembly", "1933", "1878", "Thomas", "--", "figure", "Scotia", "author", "Smith", "born", "merchant", "Nova", "1890", "Rachel", "House", "Harris", "Liberal-Conservative", ",", "Barlow", ".", "Canada", "1864", "1882", "-RRB-", "married", "Scott" ],
+  "adjectives" : [ "political", "Liberal-Conservative" ],
+  "nouns" : [ "figure", "son", "author", "builder", "member", "merchant", "ship" ],
+  "text" : "Thomas Barlow Smith (October 28, 1839 – July 22, 1933) was a merchant, ship builder, author and political figure in Nova Scotia, Canada. He represented Hants County in the Nova Scotia House of Assembly in 1874, from 1878 to 1882 and from 1890 to 1894 as a Liberal-Conservative member. He was born in Windsor, Nova Scotia, the son of Bennett Smith and Rachel Harris. In 1864, Smith married Azubah Scott. He was elected to the provincial assembly in an 1874 by-election but defeated in the general election that followed later that same year. He died in 1933."
+}, {
+  "entityIndex" : "9_entity9430",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Ferguson_(Carlisle_MP)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "Ferguson,+Robert" ]
+  },
+  "words" : [ "--", "Ferguson", "-LRB-", "September", "Liberal", "politician", "sat", "House", "Cumberland", ",", "April", ".", "1", "1898", "English", "1886", "1874", "Robert", "mill-owner", "Commons", "-RRB-", "antiquarian", "1817" ],
+  "adjectives" : [ "English", "Liberal", "antiquarian" ],
+  "nouns" : [ "mill-owner", "politician" ],
+  "text" : "Robert Ferguson (1 April 1817 – 1 September 1898) was an English mill-owner from Cumberland, antiquarian and Liberal politician, who sat in the House of Commons from 1874 to 1886."
+}, {
+  "entityIndex" : "10_entity9622",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Smith_(priest)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "WkOnOQitpi0&list=PLHLzqutarkrm5kFVW5noRcsaJ08OYgBqy" ]
+  },
+  "words" : [ "medical", "homilies", "engendering", "ethics", "Sr.", "1932", "Robert", "Chaplain", "complex", "diverse", "July", "R.", "interfaith", "struggle", "--", "devoted", "Catholic", "journey", "author", "Smith", ",", "philosophy", "'s", ".", "cultural", "mystery", "University", "explored", "among", "7", "-RRB-", "S.", "care", "religious", "-LRB-", "Scholar", "27", "scientific", "faith", "2010", "educator", "life", "pursue", "modern", "ranged", "dialogue", "relationship", "February", "paradoxical", "Center", "Distinguished", "nature", "founded", "priest", "'48", "theology", "Colbert", "discourse", "perspectives", "culture", "Cornell", "Christian", "challenge", "spiritual", "interests", "Sophia" ],
+  "adjectives" : [ "paradoxical", "cultural", "religious", "medical", "Catholic", "modern", "complex", "scientific", "Christian", "spiritual", "diverse" ],
+  "nouns" : [ "journey", "nature", "author", "priest", "faith", "theology", "philosophy", "educator", "life", "discourse", "mystery", "culture", "dialogue", "challenge", "relationship", "interfaith", "struggle", "care" ],
+  "text" : "Robert S. Smith (February 7, 1932 – July 27, 2010), the Robert R. Colbert Sr. '48 Catholic Chaplain and Distinguished Scholar at Cornell University, was a Catholic priest, author, and educator. His interests ranged from philosophy and theology to the ethics of medical care to interfaith dialogue. Smith's homilies explored the mystery and challenge of religious faith, the relationship between modern culture and the struggle to pursue Christian life, and the paradoxical, complex nature of the spiritual journey. He founded the Sophia Center, devoted to engendering discourse among diverse scientific, cultural, and religious perspectives. He was the author of In the Image of God."
+}, {
+  "entityIndex" : "11_entity4288",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Bedford_(politician)",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "3" ]
+  },
+  "words" : [ "--", "New", "-LRB-", "Harry", "17", "university", "City", "Dunedin", ".", "August", "1877", "Zealand", "Dodgshun", "academic", "1918", "-RRB-", "Bedford", "February", "Member", "Parliament" ],
+  "adjectives" : [ "academic" ],
+  "nouns" : [ "university", "City" ],
+  "text" : "Harry Dodgshun Bedford (August 1877 – 17 February 1918) was a New Zealand university academic and Member of Parliament for the City of Dunedin."
+}, {
+  "entityIndex" : "12_entity4347",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Scott_Bennett",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "3" ]
+  },
+  "words" : [ "June", "New", "24", "-LRB-", "MLA", "May", "07", "Gilbert", "John", "United", "died", "Labor", "A.", "1877", "States", "Party", "Bennett", "1959", "1913", "prison", "Henry", "heard", "--", "socialist", "Harry", "15", "Victoria", "West", "born", "spent", "1915-17", "originally", ",", "Lee", ".", "1", "organiser", "Zealand", "Australian", "Ballarat", "speaker", "-RRB-", "Chilwell", "1904", "Sydney", "Scott" ],
+  "adjectives" : [ "socialist", "Australian" ],
+  "nouns" : [ "organiser", "speaker", "prison" ],
+  "text" : "Harry Scott Bennett (1 June 1877 – 24 May 1959), originally Henry Gilbert Scott Bennett, was an Australian socialist speaker and organiser. He was born in Chilwell, Victoria and died in Sydney. He was MLA for Ballarat West, Victoria for the Australian Labor Party 1904–07. He spent 1913–15 in New Zealand (where John A. Lee heard him while they were in prison) and 1915-17 in the United States."
+}, {
+  "entityIndex" : "13_entity4425",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Darnall",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "471", "md0553" ]
+  },
+  "words" : [ "Coode", "-LRB-", "wealthy", "defeated", "numerous", "offices", "John", "stripped", "Proprietary", "died", "Darnall", "1711", "1675", "Puritan", "colonial", "planter", "Baron", "Henry", "--", "Agent", "Charles", "Catholic", "3rd", "Deputy", "Roman", ",", ".", "Province", "Protestant", "Calvert", "army", "1645", "Governor", "1689", "Baltimore", "Colonel", "served", "-RRB-", "proprietarial", "time", "Maryland", "1605", "Revolution" ],
+  "adjectives" : [ "wealthy", "3rd", "numerous", "proprietarial", "Proprietary" ],
+  "nouns" : [ "army", "colonial", "planter", "time" ],
+  "text" : "Colonel Henry Darnall (1645–1711), was a wealthy Maryland Roman Catholic planter, the Proprietary Agent of Charles Calvert, 3rd Baron Baltimore (1605–1675). He served for a time as Deputy Governor of the Province. During the Protestant Revolution of 1689, his proprietarial army was defeated by the Puritan army of Colonel John Coode, and he was stripped of his numerous colonial offices. Darnall died in 1711."
+}, {
+  "entityIndex" : "14_entity10528",
+  "entityUrl" : "http://dbpedia.org/resource/Seah_Tee_Heng",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "4" ]
+  },
+  "words" : [ "Tan", "Johor", "pepper", "-LRB-", "Hung", "concession", "held", "Kapitan", "two", "Council", "gambier", "firm", "known", "1871", "China", "members", "Cheng", "Hiok", "Ulu", "--", "Bahru", "one", "Sekudai", "also", "Kee", "佘泰兴", ",", ".", "Nee", "appointed", "Heng", "1884", "third", "Tee", "State", "-RRB-", "Chinese", ";", "Soon", "Tai", "Seah", "kangchu", "?" ],
+  "adjectives" : [ "third", "Chinese" ],
+  "nouns" : [ "pepper", "gambier", "firm", "concession" ],
+  "text" : "Seah Tee Heng (佘泰兴; ? – 1884), also known as Seah Tai Heng, was one of two Chinese members to the Council of State with Tan Hiok Nee. In about 1871, he appointed as third Kapitan China of Johor after Kapitan Tan Kee Soon and Kapitan Tan Cheng Hung.  He held the kangchu concession for Sekudai Ulu and had a gambier and pepper firm in Johor Bahru. The road starting from Istana Besar to Johor Bahru General Hospital formerly known as Jalan Tai Heng, named after him. But after the 1970s, this road has been renamed as Jalan Tun Dr Ismail and Jalan Abu Bakar. He is the father of Seah Leng Chye."
+}, {
+  "entityIndex" : "15_entity7572",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Agnes_Hamilton",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "Hamilton,+Mary+Agnes" ]
+  },
+  "words" : [ "--", "-LRB-", "MP", "Labour", ".", "Blackburn", "1931", "Agnes", "1884", "Hamilton", "8", "-RRB-", "1929", "July", "February", "Mary", "10", "1966" ],
+  "adjectives" : [ ],
+  "nouns" : [ "MP", "Labour" ],
+  "text" : "Mary Agnes Hamilton (8 July 1884 – 10 February 1966) was the Labour MP for Blackburn from 1929 to 1931."
+}, {
+  "entityIndex" : "16_entity3676",
+  "entityUrl" : "http://dbpedia.org/resource/Greg_Skrepenak",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "SkreGr20" ]
+  },
+  "words" : [ "career", "year", "two-time", "Oakland", "experience", "three", "years", "professional", "All-American", "National", "starred", "NFL", "1970", "spanned", "January", "commissioner", "League", "seasons", "Andrew", "Carolina", "California", ",", "'s", "1992-1994", "former", ".", "Pennsylvania", "Los", "University", "Prior", "-RRB-", "final", "Skrepenak", "-LRB-", "conference", "American", "Raiders", "Angeles", "Gregory", "captain", "County", "miss", "1997", "1996", "1995", "Wolverines", "retired", "31", "four-year", "offensive", "Big", "starter", "born", "Angeles/Oakland", "start", "continued", "football", "team", "lineman", "Football", "played", "consecutive", "Michigan", "Luzerne", "Panthers", "returned", "Ten", "1988-1991", "first" ],
+  "adjectives" : [ "offensive", "American", "starter", "two-time", "final", "former", "first", "consecutive", "four-year", "professional" ],
+  "nouns" : [ "career", "conference", "year", "start", "football", "team", "captain", "experience", "commissioner", "lineman" ],
+  "text" : "Gregory Andrew Skrepenak (born January 31, 1970) is a former Luzerne County, Pennsylvania commissioner, and retired professional American football offensive lineman in the National Football League (NFL) for the Los Angeles/Oakland Raiders and the Carolina Panthers. Skrepenak's professional football career spanned the final three years the Raiders played in Los Angeles, California from 1992-1994 and the first year they returned to Oakland, California in 1995. Then, it continued with consecutive seasons (1996 and 1997) with the Carolina Panthers in which he did not miss a start. Prior to his NFL experience Skrepenak had starred in the Big Ten football conference for the University of Michigan Wolverines as a two-time All-American, team captain, and four-year starter from 1988-1991. Skrepenak played for four consecutive Big Ten Conference Champions, appeared in three Rose Bowls and won a Gator Bowl MVP. Previously he had been a scholar athlete at G. A. R. Memorial Junior Senior High School where he earned 12 varsity letters in football, basketball and baseball. Skrepenak, who was born and raised in Wilkes-Barre in Luzerne County, Pennsylvania, United States, was elected in 2003 to serve as the Luzerne County Commissioner, a position he held from January 2004. until December, 2009. On December 17, 2009, Skrepenak signed a plea agreement to a charge of corruption. He would resign later that day. On August 6, 2010, Greg Skrepenak was sentenced to 24 months in federal prison."
+}, {
+  "entityIndex" : "17_entity462",
+  "entityUrl" : "http://dbpedia.org/resource/Alfred_Hopkinson",
+  "dboClass" : "dbo:Politician",
+  "properties" : {
+    "dbp:id" : [ "Alfred_Hopkinson" ]
+  },
+  "words" : [ "brothers", "Hopkinson", "John", "mechanical", "stood", "years", "son", "1851", "academic", "Commons", "1892", "1939", "Member", "--", "11", "MP", "electrical", "House", ",", ".", "physicist", "among", "served", "three-year", "-RRB-", "Alfred", "South-West", "Sir", "East", "Parliament", "thirty", "June", "-LRB-", "28", "nearly", "unsuccessful", "Edward", "two", "general", "candidate", "Party", "Unionist", "periods", "lawyer", "November", "election", "Liberal", "politician", "separated", "engineer", "English", "1885", "Manchester", "first" ],
+  "adjectives" : [ "English", "general", "academic", "Liberal", "Unionist", "three-year", "unsuccessful", "mechanical", "electrical" ],
+  "nouns" : [ "candidate", "son", "MP", "election", "politician", "engineer", "lawyer", "physicist" ],
+  "text" : "Sir Alfred Hopkinson (28 June 1851 – 11 November 1939) was an English lawyer, academic and politician who served as a Member of Parliament (MP) for two three-year periods, separated by nearly thirty years. He was the son of John Hopkinson, a mechanical engineer, and among his brothers were John Hopkinson, a physicist and electrical engineer, and Edward Hopkinson, an electrical engineer and MP. He first stood for election to the House of Commons at the 1885 general election, when he was the unsuccessful Liberal Party candidate in Manchester East. He was unsuccessful again as a Liberal Unionist candidate at the 1892 general election, when he stood in Manchester South-West. Hopkinson finally won a seat at the 1895 general election, when he was elected as MP for Cricklade in Wiltshire. He resigned from Parliament in February 1898, by the procedural device of accepting appointment as Steward of the Chiltern Hundreds. Hopkinson was Vice-Chancellor of the Victoria University from 1901 to 15 July 1903 and then of the Victoria University of Manchester until 1913. In December 1914 he was appointed to the Committee on Alleged German Outrages, which in May 1915 reported on German war crimes against civilians during the invasion of Belgium in the opening months of World War I. He received the honorary Doctor of Laws (LL.D) from the University of Glasgow in June 1901. He returned to Parliament in March 1926, when he won a by-election for the Combined English Universities. He did not contest the 1929 general election. A sculpture of him by John Cassidy was exhibited at Manchester in 1912. His son Austin Hopkinson also became a Member of Parliament. One of his daughters married Sir Gerald Hurst M.P."
+} ]
