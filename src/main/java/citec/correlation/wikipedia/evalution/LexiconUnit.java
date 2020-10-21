@@ -14,11 +14,11 @@ import java.util.List;
  * @author elahi
  */
 public class LexiconUnit {
-    @JsonIgnore
+    @JsonProperty("word")
     private String word;
     @JsonIgnore
     private String partsOfSpeech;
-    @JsonIgnore
+    @JsonProperty("rank")
     private LinkedHashMap<Integer, List<String> > entityInfos = new LinkedHashMap<Integer, List<String>>();
     
     public LexiconUnit() {

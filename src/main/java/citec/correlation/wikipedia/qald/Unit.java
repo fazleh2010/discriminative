@@ -23,13 +23,22 @@ public class Unit {
 
     @JsonProperty("word")
     private String word;
-    @JsonProperty("Qald_id")
+    @JsonIgnore
     private List<String> qaldQuestionId = new ArrayList<String>();
     @JsonProperty("Sparql")
     private LinkedHashMap<String, String> sparqls = new LinkedHashMap<String, String>();
     @JsonIgnore
     private static String Sparql_ = "Sparql_";
 
+
+    /*@JsonProperty("word")
+    private String word;
+    @JsonProperty("Qald_id")
+    private List<String> qaldQuestionId = new ArrayList<String>();
+    @JsonProperty("Sparql")
+    private LinkedHashMap<String, String> sparqls = new LinkedHashMap<String, String>();
+    @JsonIgnore
+    private static String Sparql_ = "Sparql_";*/
     public Unit() {
 
     }
@@ -40,16 +49,16 @@ public class Unit {
         this.word = word;
     }
 
-    public List<String> getQaldQuestionId() {
-        return qaldQuestionId;
-    }
-
     public String getWord() {
         return word;
     }
 
-    public void setWord(String word) {
-        this.word = word;
+    public List<String> getQaldQuestionId() {
+        return qaldQuestionId;
+    }
+
+    public LinkedHashMap<String, String> getSparqls() {
+        return sparqls;
     }
 
     public void setSparqls(String qaldQuestionId, String sparql) {
@@ -58,10 +67,6 @@ public class Unit {
 
     public void setQaldQuestionId(String qaldQuestionId) {
         this.qaldQuestionId.add(qaldQuestionId);
-    }
-
-    public LinkedHashMap<String, String> getSparqls() {
-        return sparqls;
     }
 
     @Override

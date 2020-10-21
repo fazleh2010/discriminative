@@ -75,7 +75,7 @@ public class Qald {
 
     private static void makeFiles(String qald9Dir, List<QaldPosTagger> resultQald9s, String postagType) throws Exception {
         Map<String, Unit> posTags = new TreeMap<String, Unit>();
-        String fileName = qald9Dir + postagType + ".json";
+        String fileName = qald9Dir + postagType + "-qald9"+".json";
         for (QaldPosTagger resultQald9 : resultQald9s) {
             Set<String> words = new HashSet<String>();
             if (postagType.contains(Analyzer.ADJECTIVE)) {

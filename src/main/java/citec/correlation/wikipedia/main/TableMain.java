@@ -27,9 +27,12 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import citec.correlation.wikipedia.element.PropertyNotation;
 import citec.correlation.wikipedia.element.Triple;
+import citec.correlation.wikipedia.evalution.Comparision;
 import citec.correlation.wikipedia.evalution.LexiconUnit;
+import citec.correlation.wikipedia.evalution.Qald;
 import citec.correlation.wikipedia.qald.Unit;
 import citec.correlation.wikipedia.table.WordResult;
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -44,7 +47,7 @@ import org.apache.commons.io.FileUtils;
  * @author elahi
  */
 public class TableMain implements PropertyNotation {
-
+   //Horrible codes..just a play ground for all kinds of work
     private static String qald9Dir = "src/main/resources/qald9/data/";
     private static String testJson = "qald-9-test-multilingual.json";
     private static String trainingJson = "qald-9-train-multilingual.json";
@@ -66,6 +69,8 @@ public class TableMain implements PropertyNotation {
     private static String interestingWord = "interestingWord";
     private static String calculation = "calculation";
     private static String meanReciprocal = "meanReciprocal";
+    private static String qald = "qald";
+
 
     public static void main(String[] args) throws IOException, Exception {
         Set<String> posTags = new HashSet<String>();
@@ -135,12 +140,14 @@ public class TableMain implements PropertyNotation {
             System.out.println("System execution ended!!!");
 
         }
+        
+        if (type.contains(qald)) {
+            Qald qaldMain=new Qald (posTags,qald9Dir,trainingJson);
+        }
         if (type.contains(meanReciprocal)) {
-            String file = qald9Dir + "lexicon-conditional-JJTest" + ".json";
-            file = "src/main/resources/qald9/data/lexicon-conditional-JJTest.json";
-            ObjectMapper mapper = new ObjectMapper();
-            LexiconUnit unit = mapper.readValue(file, LexiconUnit.class);
-            System.out.println(unit.toString());
+            String qaldFileName = qald9Dir + "JJ-qald9" + ".json";
+            String conditionalFilename = qald9Dir + "lexicon-conditional-JJ" + ".json";
+            Comparision comparision=new Comparision(qaldFileName,conditionalFilename);
         }
 
         //MakeArffTable makeTable = trainingTable.createArffTrainingTable(inputJsonFile, inputWordFile, outputArff);
