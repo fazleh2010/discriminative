@@ -83,6 +83,12 @@
             <artifactId>QCRI-EvaluationMetrics</artifactId>
             <version>1.1</version>
         </dependency>
+        
+        <dependency>
+            <groupId>org.apache.opennlp</groupId>
+            <artifactId>opennlp-tools</artifactId>
+            <version>1.9.3</version>
+        </dependency>
 
     </dependencies>
 
