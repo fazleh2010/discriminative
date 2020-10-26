@@ -43,11 +43,12 @@ public class Test {
         String sentenceLine1 = "Donald John Trump (born June 14, 1946) is an American businessman, author, television producer, politician, and the Republican Party nominee for President of the United States in the 2016 election";
         String sentenceLine2 = "He is the chairman and president of The Trump Organization, which is the principal holding company for his real estate ventures and other business interests.";
         String sentenceLine3 = "During his career, Trump has built office towers, hotels, casinos, golf courses, an urban development project in Manhattan, and other branded facilities worldwide.";
-        
+         String sentenceLine4 ="Donald John Trump attended Fordham University";
         List<String> sentenceLines = new ArrayList<String>();
         sentenceLines.add(sentenceLine1);
         sentenceLines.add(sentenceLine2);
         sentenceLines.add(sentenceLine3);
+        sentenceLines.add(sentenceLine4);
         Integer windowSize=5;
 
          Integer index=0;

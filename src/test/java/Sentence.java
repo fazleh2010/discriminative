@@ -48,12 +48,14 @@ public class Sentence {
     private String[] findContextWords(String nameEntity, String[] sentence, Integer windowSize) {
         List<String> words = new ArrayList<String>();
         Integer limit = this.span.getEnd() + windowSize;
-        if (sentence.length > limit) {
-            for (Integer index = this.span.getEnd(); index < limit; index++) {
+        for (Integer index = this.span.getEnd(); index < limit; index++) {
+            if (index < sentence.length) {
                 words.add(sentence[index]);
+            } else {
+                break;
             }
         }
-        return  words.toArray(String[]::new);
+        return words.toArray(String[]::new);
     }
 
     public String[] getContextWords() {
