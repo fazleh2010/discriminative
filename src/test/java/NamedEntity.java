@@ -3,6 +3,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -24,9 +25,11 @@ import opennlp.tools.util.Span;
 public class NamedEntity {
 
     private Map<String, Sentence> namedEntities = new HashMap<String, Sentence>();
+    private Map<String, String> objectValuePairs = new HashMap<String, String>();
     private static TokenNameFinderModel model;
     private static String nameEntityDir = "src/main/resources/nameEntiry/";
     private static String PERSON = "person";
+    private List<String> nameEntitiesForSentence = new ArrayList<String>();
 
     static {
         String modelFile = nameEntityDir + "en-ner-person.bin";
@@ -40,7 +43,7 @@ public class NamedEntity {
         }
     }
 
-    public NamedEntity(String tokens[], Integer no,Integer windowSize) throws Exception {
+    public NamedEntity(String tokens[], Integer no, Integer windowSize, Map<String, String> objectValuePairs) throws Exception {
         String[] sentences = new String[tokens.length];
         Integer index = 0;
         for (String token : tokens) {
@@ -51,8 +54,9 @@ public class NamedEntity {
         for (Span span : nameSpans) {
             String nameEntity = this.setNamedEntity(sentences, span.getStart(), span.getEnd());
             if (span.getType().contains(PERSON)) {
-                Sentence sentenceInfo = new Sentence(sentences, span, no,nameEntity,windowSize);
+                Sentence sentenceInfo = new Sentence(sentences, span, no, nameEntity, windowSize, objectValuePairs);
                 namedEntities.put(nameEntity, sentenceInfo);
+                nameEntitiesForSentence.add(nameEntity);
             }
 
         }
@@ -73,12 +77,12 @@ public class NamedEntity {
         return nameFinder.find(sentence);
     }
 
-    private void setNamedEntities(Map<String, Sentence> namedEntities) {
-        this.namedEntities = namedEntities;
+    public Sentence getNamedEntities(String nameEntity) {
+        return namedEntities.get(nameEntity);
     }
 
-    public Map<String, Sentence> getNamedEntities() {
-        return namedEntities;
+    public List<String> getNameEntitiesForSentence() {
+        return nameEntitiesForSentence;
     }
 
 }
