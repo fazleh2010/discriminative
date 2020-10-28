@@ -34,8 +34,6 @@ import java.io.UnsupportedEncodingException;
 import java.net.URI;
 import java.net.URLEncoder;
 import java.util.Collections;
-import java.util.Map;
-import java.util.TreeMap;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 import org.apache.commons.lang3.StringUtils;
@@ -48,16 +46,17 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Node;
 import org.jsoup.nodes.TextNode;
 
+
 /**
  *
  * @author elahi
  */
-public class FileFolderUtils {
+public class FileFolderUtilsOld {
 
     private static String folder = "src/main/resources/dbpedia/democratic/input.zip";
 
-    private static String calculationProcess
-            = "This is the probability distribution of dbo:Politician_dbo:party_probability.json\n"
+    private static String calculationProcess = 
+            "This is the probability distribution of dbo:Politician_dbo:party_probability.json\n"
             + "\n"
             + "1. predict whether a certain word appears in abstract given the object of the property.\n"
             + "property=dbo:party  object=http://dbpedia.org/resource/Labor_Party_UK  word=british\n"
@@ -69,26 +68,27 @@ public class FileFolderUtils {
             + "2. predict the object of the property given certain word in abstract \n"
             + "P(http://dbpedia.org/resource/Labor_Party_UK | british)=P(british and http://dbpedia.org/resource/Labor_Party_UK)/P(british)\n"
             + "P(british): all entities in which the abstract contains the word british"
-            + "\n"
-            + "\n";
+            +"\n"
+            +"\n";
 
     public static void main(String a[]) throws IOException {
 
         /*FileFolderUtils mfe = new FileFolderUtils();
         mfe.printFileList(folder);*/
-        String HTMLSTring = "<!DOCTYPE html>"
+         String HTMLSTring = "<!DOCTYPE html>"
                 + "<html>"
                 + "<head>"
                 + "<title>JSoup Example</title>"
                 + "</head>"
                 + "<body>"
                 + "<table><tr><td>"
-                + "<h1>HelloWorld</h1></tr>"
+                +"<h1>HelloWorld</h1></tr>"
                 + "</table>"
                 + "</body>"
                 + "</html>";
-
-
+         
+         parseRESTfulResult(HTMLSTring);
+ 
     }
 
     public static void createDirectory(String location) throws IOException {
@@ -234,7 +234,7 @@ public class FileFolderUtils {
             writer.write(str);
             writer.close();
         } catch (IOException ex) {
-            Logger.getLogger(FileFolderUtils.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(FileFolderUtilsOld.class.getName()).log(Level.SEVERE, null, ex);
         }
 
     }
@@ -245,7 +245,7 @@ public class FileFolderUtils {
             writer.write(str);
             writer.close();
         } catch (IOException ex) {
-            Logger.getLogger(FileFolderUtils.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(FileFolderUtilsOld.class.getName()).log(Level.SEVERE, null, ex);
         }
 
     }
@@ -258,6 +258,8 @@ public class FileFolderUtils {
             return;
         }
     }
+
+    
 
     public void printFileList(String filePath) {
 
@@ -288,7 +290,7 @@ public class FileFolderUtils {
         ObjectMapper mapper = new ObjectMapper().enable(SerializationFeature.INDENT_OUTPUT);
         mapper.writeValue(Paths.get(filename).toFile(), entityResults);
     }
-
+    
     public static void writeToJsonFile(List<Unit> units, String filename) throws IOException, Exception {
         if (units.isEmpty()) {
             throw new Exception("no data found to write in the file!!");
@@ -325,6 +327,7 @@ public class FileFolderUtils {
         stringToFiles(str, filename);
 
     }*/
+
     public static String urlUnicodeToString(String url) throws Exception {
         URI uri = new URI(url);
         String urlStr = uri.getQuery();
@@ -335,11 +338,140 @@ public class FileFolderUtils {
         String encodedString = URLEncoder.encode(string, "UTF-8");
         return encodedString;
     }
-
-    public static String readHtmlFile() {
-
+    
+    public static String readHtmlFile(){
+        
         return null;
     }
-
     
+    public static void parseRESTfulResult(String HTMLSTring) throws IOException {
+        //System.out.println(HTMLSTring);
+        Document html = Jsoup.parse(HTMLSTring);
+        String title = html.title();
+        Element body = html.body();
+        //System.out.println("After parsing, Title : " + title);
+
+        Element link = html.select("a").first();
+        // System.out.println(link);
+
+        Document dc = Jsoup.parse(HTMLSTring, "utf-8");
+        Elements elements = dc.getAllElements();
+        System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1");
+        for (Element element : elements) {
+            
+             for (Node node : element.childNodes()) {
+                System.out.println("test:"+node.attributes().asList());
+            }
+            if (element.nodeName().equals("a")) {
+                System.out.println();
+                //System.out.println(extractText(element)); 
+               
+           
+          
+    
+        
+
+                
+
+            }
+
+        }
+
+        System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1");
+        System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1");
+        
+      
+        //System.out.println(extractText(elements));
+    }
+    
+    public static String extractText( Element e) throws IOException {
+        StringBuilder sb = new StringBuilder();
+        
+        for (Node node : e.childNodes()) {
+                System.out.println("nodeName:"+node.nodeName());
+            }
+       
+           /* for (TextNode t : e.textNodes()) {
+                String s = t.text();
+                if (StringUtils.isNotBlank(s)) {
+                    sb.append(t.text()).append(" ");
+                }
+           
+        }*/
+        return sb.toString();
+    }
+    
+    public static void parseRESTfulResult1(String HTMLSTring) throws IOException {
+        Document html = Jsoup.parse(HTMLSTring, "utf-8");
+        String title = html.title();
+        Element body = html.body();
+        Elements elements = html.getAllElements();
+        System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1");
+        for (Element element : elements) {
+
+            //if (element.tagName().contains("about")) {
+                for (Node node : element.childNodes()) {
+                    System.out.println("node:"+node.toString());
+                    List<Attribute> list = node.attributes().asList();
+                    if (list.toString().contains("[about=")) {
+                        //System.out.print(list.toString());
+                        for (Attribute attribute : list) {
+                            //System.out.println(attribute.toString());
+
+                        }
+                    }
+                    //System.out.println(extractText(element));
+                }
+
+            //}
+
+        }
+
+    }
+  /*if (node.toString().contains(" <a about=")) {
+                    System.out.println("node:" + node.toString());
+                    
+                }*/
+    
+    /*
+    for (Element element : elements) {
+            for (Node node : element.childNodes()) {
+                List<Attribute> list = node.attributes().asList();
+                if (list.toString().contains("[about=")) {
+                    for (Attribute attribute : list) {
+                        if (attribute.getKey().contains("title")) {
+                            System.out.println(attribute.getValue());
+                        }
+                        System.out.println("text:"+extractText(element));
+                    }
+                
+                }
+                
+
+            }
+    */
+    
+     /* Element link = html.select("a").get(0);
+                 String linkHref = link.attr("href"); // "http://example.com/"
+                   String linkText = link.text(); // "example""
+                   
+                   System.out.println("!!!!!!!!!!!!!!!!!!!!!!!"+linkHref);
+                     System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!"+linkText);
+
+        
+        String title = html.title();
+        Element body = html.body();
+        Elements elements = html.getAllElements();
+        for (Element element : elements) {
+            for (Node node : element.childNodes()) {
+                List<Attribute> list = node.attributes().asList();
+                if (list.toString().contains("[about=")) {
+                   System.out.println(node.toString());
+                  
+                }
+            }
+
+            //}
+        }*/
+
 }

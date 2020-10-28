@@ -1,24 +1,16 @@
 
-import java.io.InputStream;
-import static java.lang.System.in;
-import java.net.URLEncoder;
+import citec.correlation.wikipedia.element.CurlSparqlQuery;
+import citec.correlation.wikipedia.utils.FileFolderUtils;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
-import opennlp.tools.namefind.NameFinderME;
-import opennlp.tools.namefind.TokenNameFinderModel;
-import opennlp.tools.ngram.NGramModel;
-import opennlp.tools.sentdetect.SentenceDetectorME;
-import opennlp.tools.sentdetect.SentenceModel;
-import opennlp.tools.sentdetect.SentenceSampleStream;
-import opennlp.tools.tokenize.SimpleTokenizer;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import opennlp.tools.tokenize.WhitespaceTokenizer;
-import opennlp.tools.util.PlainTextByLineStream;
-import opennlp.tools.util.Span;
-import opennlp.tools.util.StringList;
-import org.checkerframework.common.reflection.qual.GetMethod;
-import org.junit.Assert;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -48,9 +40,20 @@ public class Test implements Constants{
         String sentenceLine3 = "During his career, Trump has built office towers, hotels, casinos, golf courses, an urban development project in Manhattan, and other branded facilities worldwide.";
         String sentenceLine4 ="Donald John Trump attended Fordham University";
         String university="Fordham University";
+        System.out.println(sentenceLine4);
+        sentenceLine4=sentenceLine4.replace(" ", "%20");
+        System.out.println(sentenceLine4);
+
+        String command="curl -X GET https://api.dbpedia-spotlight.org/en/annotate?text=Donald%20John%20Trump%20attended%20Fordham%20University -H accept: application/json";
         
+        CurlSparqlQuery CurlSparqlQuery=new CurlSparqlQuery(command);
+        //command="curl -X POST https://postman-echo.com/post --data foo1=bar1&foo2=bar2";
         
-        List<String> sentenceLines = new ArrayList<String>();
+        //String result=executeSparqlQuery(command);
+          //      System.out.println(result);
+
+        
+       /* List<String> sentenceLines = new ArrayList<String>();
         sentenceLines.add(sentenceLine1);
         sentenceLines.add(sentenceLine2);
         sentenceLines.add(sentenceLine3);
@@ -76,8 +79,9 @@ public class Test implements Constants{
                      System.out.println(pattern);
                  }
             }
-        }
+        }*/
          
     }
-
+    
+   
 }

@@ -7,6 +7,9 @@ package citec.correlation.wikipedia.element;
 
 import citec.correlation.wikipedia.utils.FileFolderUtils;
 import citec.correlation.wikipedia.utils.LanguageDetector;
+import com.fasterxml.jackson.core.JsonParser;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.gson.JsonElement;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -28,6 +31,9 @@ import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import org.json.JSONObject;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Element;
 
 /**
  *
@@ -56,6 +62,63 @@ public class CurlSparqlQuery {
             System.out.println("entityUrl:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"+entityUrl);
             System.out.println("properties:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"+properties.get(PropertyNotation.dbo_abstract));
         }*/
+    }
+    
+     public CurlSparqlQuery(String restFullComand) throws IOException, DOMException, Exception {
+        String resultRestFul = executeRestfulQuery(restFullComand);
+       Map<String, String> entityValues = new TreeMap<String, String>();
+         entityValues = parseRESTfulResult(resultRestFul);
+         for(String key:entityValues.keySet()){
+             System.out.println(key);
+             System.out.println(entityValues.get(key));
+         }
+
+        //FileFolderUtils.parseRESTfulResult(resultRestFul);
+    
+    }
+     
+     public  Map<String, String> parseRESTfulResult(String HTMLSTring) throws IOException {
+        Map<String, String> entityValues = new TreeMap<String, String>();
+        org.jsoup.nodes.Document html = Jsoup.parse(HTMLSTring, "utf-8");
+        for (Integer index = 0; index < html.select("a").size(); index++) {
+            Element link = html.select("a").get(index);
+            String linkHref = link.attr("href");
+            String linkText = link.text();
+            entityValues.put(linkHref, linkText);
+        }
+        return entityValues;
+    }
+
+     
+      private String executeRestfulQuery(String command) {
+       String result=null;
+        Process process = null;
+        try {
+            process = Runtime.getRuntime().exec(command);
+            //System.out.print(command);
+        } catch (Exception ex) {
+            Logger.getLogger(CurlSparqlQuery.class.getName()).log(Level.SEVERE, null, ex);
+            System.out.println("error in unicode in sparql query!" + ex.getMessage());
+            ex.printStackTrace();
+        }
+
+        try {
+            BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()));
+            StringBuilder builder = new StringBuilder();
+            String line = null;
+            while ((line = reader.readLine()) != null) {
+                System.out.println(line);
+                builder.append(line);
+                builder.append(System.getProperty("line.separator"));
+            }
+            result = builder.toString();
+           
+        } catch (IOException ex) {
+            Logger.getLogger(CurlSparqlQuery.class.getName()).log(Level.SEVERE, null, ex);
+            System.out.println("error in reading sparql query!" + ex.getMessage());
+            ex.printStackTrace();
+        }
+        return result;
     }
 
     private String executeSparqlQuery(String query) {
@@ -117,6 +180,7 @@ public class CurlSparqlQuery {
     }
 
     private void parseResult(DocumentBuilder builder, String xmlStr) throws SAXException, IOException, DOMException, Exception {
+        
         Document document = builder.parse(new InputSource(new StringReader(
                 xmlStr)));
         NodeList results = document.getElementsByTagName("results");
@@ -169,6 +233,7 @@ public class CurlSparqlQuery {
         }
     }
 
+    
     private boolean istProperty(String string) {
         boolean flag = false;
         if (string.contains("http://dbpedia.org/ontology/")
