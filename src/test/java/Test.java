@@ -67,11 +67,20 @@ public class Test implements Constants {
             NamedEntity namedEntity = sentenceNameEntities.get(no);
             for (String namenEntitiesOfSentence : namedEntity.getNameEntitiesForSentence()) {
                 Sentence sentence = namedEntity.getNamedEntities(namenEntitiesOfSentence);
-                System.out.println(sentence.getSentenceLine());
-                for (String pattern : sentence.getStringToCheck()) {
-                    System.out.println(pattern);
+                String str="";
+                for(String key:sentence.getObjects().keySet()){
+                    String line="entity="+key+" link="+sentence.getObjects().get(key)+"\n";
+                    str+=line;
                 }
+                String patternStr="";
+                for (String pattern : sentence.getStringToCheck()) {
+                    String line=pattern+"\n";
+                    patternStr+=line;
+                }
+                str="sentence = "+sentence.getSentenceLine()+"\n"+"subject = "+sentence.getSubject()+"\n"+"DBpedia SportLight..."+"\n"+str+"found in abstract = "+"\n"+patternStr;
+                System.out.println(str);
             }
+            
         }
 
     }

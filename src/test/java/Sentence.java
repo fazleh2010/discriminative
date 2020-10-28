@@ -22,8 +22,10 @@ public class Sentence implements Constants {
     private String[] contextWords;
     private String sentenceLine;
     private List<String> stringToCheck = new ArrayList<String>();
+    private EntityInfo entityInfo=null;
 
     public Sentence(String sentenceLine,String[] sentence, Span span, Integer index, String nameEntity, Integer windowSize, EntityInfo entityInfo) {
+        this.entityInfo=entityInfo;
         this.sentenceLine=sentenceLine;
         this.sentence = sentence;
         this.span = span;
@@ -106,6 +108,22 @@ public class Sentence implements Constants {
 
     public String getSentenceLine() {
         return sentenceLine;
+    }
+    
+    public String getSubject() {
+        return this.entityInfo.getSubject();
+    }
+
+    public String getSubjectLink() {
+       return this.entityInfo.getSubjectLink();
+    }
+
+    public Map<String, String> getObjects() {
+        return this.entityInfo.getObjects();
+    }
+
+    public Map<String, String> getObjectValuePairs() {
+        return this.entityInfo.getObjectValuePairs();
     }
 
 }

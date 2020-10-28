@@ -25,9 +25,8 @@ public class EntityInfo implements Constants {
     private Map<String, String> objects = new TreeMap<String, String>();
     private Map<String, String> objectValuePairs = new TreeMap<String, String>();
 
-    public EntityInfo(String subject, String subjectLink, String sentenceLine) throws DOMException, Exception {
+    public EntityInfo(String subject, String sentenceLine) throws DOMException, Exception {
         this.subject = subject;
-        this.subjectLink = subjectLink;
         this.sentenceLine = sentenceLine;
         CurlSparqlQuery curlSparqlQuery = new CurlSparqlQuery(sentenceLine);
         this.objects = curlSparqlQuery.getEntityLinks();
@@ -35,6 +34,7 @@ public class EntityInfo implements Constants {
         for (String key : this.objects.keySet()) {
             String value = this.objects.get(key);
             if (isValid(key, subject)) {
+                this.subjectLink = value;
                 //objectValuePairs.put("SUBJECT", value);
                 // this.sentenceLine = this.sentenceLine.replace(key, "SUBJECT" + "_" + index.toString());
                 continue;

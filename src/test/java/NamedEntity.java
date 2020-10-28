@@ -47,15 +47,13 @@ public class NamedEntity {
         }
     }
 
-    public NamedEntity(String sentenceLineOriginal, Integer no, Integer windowSize) throws Exception {
+    public NamedEntity(String sentenceLineOriginal,Integer no, Integer windowSize) throws Exception {
         String[]sentences=this.findSentenceArray(sentenceLineOriginal);
-        
-
         Span nameSpans[] = nameEntity(sentences);
         for (Span span : nameSpans) {
             String nameEntity = this.setNamedEntity(sentences, span.getStart(), span.getEnd());
             if (span.getType().contains(PERSON)) {
-                EntityInfo entityInfo=new EntityInfo(nameEntity,"link",sentenceLineOriginal);
+                EntityInfo entityInfo=new EntityInfo(nameEntity,sentenceLineOriginal);
                 String sentenceLine=entityInfo.getSentenceLine();
                 String[]sentencesModified=this.findSentenceArray(sentenceLine);
                 Sentence sentenceInfo = new Sentence(sentenceLineOriginal,sentencesModified, span, no, nameEntity, windowSize, entityInfo);
