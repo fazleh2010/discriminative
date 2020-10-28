@@ -44,7 +44,9 @@ public class Test implements Constants{
         sentenceLine4=sentenceLine4.replace(" ", "%20");
         System.out.println(sentenceLine4);
 
-        String command="curl -X GET https://api.dbpedia-spotlight.org/en/annotate?text=Donald%20John%20Trump%20attended%20Fordham%20University -H accept: application/json";
+        //String command="curl -X GET https://api.dbpedia-spotlight.org/en/annotate?"+"text="+"Donald%20John%20Trump%20attended%20Fordham%20University"+" -H accept: application/json";
+        String command="curl -X GET https://api.dbpedia-spotlight.org/en/annotate?"+"text="+sentenceLine4+" -H accept: application/json";
+        
         
         CurlSparqlQuery CurlSparqlQuery=new CurlSparqlQuery(command);
         //command="curl -X POST https://postman-echo.com/post --data foo1=bar1&foo2=bar2";

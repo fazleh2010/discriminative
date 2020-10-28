@@ -64,31 +64,17 @@ public class CurlSparqlQuery {
         }*/
     }
     
-     public CurlSparqlQuery(String restFullComand) throws IOException, DOMException, Exception {
+    public CurlSparqlQuery(String restFullComand) throws IOException, DOMException, Exception {
         String resultRestFul = executeRestfulQuery(restFullComand);
-       Map<String, String> entityValues = new TreeMap<String, String>();
-         entityValues = parseRESTfulResult(resultRestFul);
-         for(String key:entityValues.keySet()){
-             System.out.println(key);
-             System.out.println(entityValues.get(key));
-         }
-
-        //FileFolderUtils.parseRESTfulResult(resultRestFul);
-    
+        Map<String, String> entityValues = new TreeMap<String, String>();
+        entityValues = parseRESTfulResult(resultRestFul);
+        for (String key : entityValues.keySet()) {
+            System.out.println(key);
+            System.out.println(entityValues.get(key));
+        }
     }
      
-     public  Map<String, String> parseRESTfulResult(String HTMLSTring) throws IOException {
-        Map<String, String> entityValues = new TreeMap<String, String>();
-        org.jsoup.nodes.Document html = Jsoup.parse(HTMLSTring, "utf-8");
-        for (Integer index = 0; index < html.select("a").size(); index++) {
-            Element link = html.select("a").get(index);
-            String linkHref = link.attr("href");
-            String linkText = link.text();
-            entityValues.put(linkHref, linkText);
-        }
-        return entityValues;
-    }
-
+    
      
       private String executeRestfulQuery(String command) {
        String result=null;
@@ -231,6 +217,18 @@ public class CurlSparqlQuery {
             }
             
         }
+    }
+
+     public  Map<String, String> parseRESTfulResult(String HTMLSTring) throws IOException {
+        Map<String, String> entityValues = new TreeMap<String, String>();
+        org.jsoup.nodes.Document html = Jsoup.parse(HTMLSTring, "utf-8");
+        for (Integer index = 0; index < html.select("a").size(); index++) {
+            Element link = html.select("a").get(index);
+            String linkHref = link.attr("href");
+            String linkText = link.text();
+            entityValues.put(linkHref, linkText);
+        }
+        return entityValues;
     }
 
     
