@@ -45,6 +45,7 @@ public class CurlSparqlQuery {
     private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
     private Set<String> selectedProperties = new HashSet<String>();
     private Set<String> excludeProperties = new HashSet<String>();
+    private Map<String, String> entityLinks = new TreeMap<String, String>();
 
 
     public CurlSparqlQuery(String entityUrl, String property) {
@@ -64,14 +65,10 @@ public class CurlSparqlQuery {
         }*/
     }
     
-    public CurlSparqlQuery(String restFullComand) throws IOException, DOMException, Exception {
-        String resultRestFul = executeRestfulQuery(restFullComand);
-        Map<String, String> entityValues = new TreeMap<String, String>();
-        entityValues = parseRESTfulResult(resultRestFul);
-        for (String key : entityValues.keySet()) {
-            System.out.println(key);
-            System.out.println(entityValues.get(key));
-        }
+    public CurlSparqlQuery(String sentenceLine) throws IOException, DOMException, Exception {
+        String command=this.setRestFulCommand(sentenceLine);
+        String resultRestFul = executeRestfulQuery(command);
+        this.entityLinks = parseRESTfulResult(resultRestFul);
     }
      
     
@@ -93,7 +90,7 @@ public class CurlSparqlQuery {
             StringBuilder builder = new StringBuilder();
             String line = null;
             while ((line = reader.readLine()) != null) {
-                System.out.println(line);
+                //System.out.println(line);
                 builder.append(line);
                 builder.append(System.getProperty("line.separator"));
             }
@@ -226,7 +223,7 @@ public class CurlSparqlQuery {
             Element link = html.select("a").get(index);
             String linkHref = link.attr("href");
             String linkText = link.text();
-            entityValues.put(linkHref, linkText);
+            entityValues.put(linkText, linkHref);
         }
         return entityValues;
     }
@@ -287,6 +284,15 @@ public class CurlSparqlQuery {
             return null;
         }
         return subject = subject.substring(index + 1);
+    }
+
+    public Map<String, String> getEntityLinks() {
+        return entityLinks;
+    }
+
+    private String setRestFulCommand(String sentenceLine) {
+        sentenceLine = sentenceLine.replace(" ", "%20");
+        return "curl -X GET https://api.dbpedia-spotlight.org/en/annotate?" + "text=" + sentenceLine + " -H accept: application/json";
     }
 
    

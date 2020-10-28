@@ -1,4 +1,5 @@
 
+import citec.correlation.wikipedia.element.CurlSparqlQuery;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -11,6 +12,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import opennlp.tools.namefind.NameFinderME;
 import opennlp.tools.namefind.TokenNameFinderModel;
+import opennlp.tools.tokenize.WhitespaceTokenizer;
 import opennlp.tools.util.Span;
 
 /*
@@ -30,6 +32,8 @@ public class NamedEntity {
     private static String nameEntityDir = "src/main/resources/nameEntiry/";
     private static String PERSON = "person";
     private List<String> nameEntitiesForSentence = new ArrayList<String>();
+    private static WhitespaceTokenizer tokenizer = WhitespaceTokenizer.INSTANCE;
+
 
     static {
         String modelFile = nameEntityDir + "en-ner-person.bin";
@@ -43,23 +47,29 @@ public class NamedEntity {
         }
     }
 
-    public NamedEntity(String tokens[], Integer no, Integer windowSize, Map<String, String> objectValuePairs) throws Exception {
-        String[] sentences = new String[tokens.length];
-        Integer index = 0;
-        for (String token : tokens) {
-            sentences[index++] = token.trim();
-        }
+    public NamedEntity(String sentenceLineOriginal, Integer no, Integer windowSize) throws Exception {
+        String[]sentences=this.findSentenceArray(sentenceLineOriginal);
+        
 
         Span nameSpans[] = nameEntity(sentences);
         for (Span span : nameSpans) {
             String nameEntity = this.setNamedEntity(sentences, span.getStart(), span.getEnd());
             if (span.getType().contains(PERSON)) {
-                Sentence sentenceInfo = new Sentence(sentences, span, no, nameEntity, windowSize, objectValuePairs);
+                EntityInfo entityInfo=new EntityInfo(nameEntity,"link",sentenceLineOriginal);
+                String sentenceLine=entityInfo.getSentenceLine();
+                String[]sentencesModified=this.findSentenceArray(sentenceLine);
+                Sentence sentenceInfo = new Sentence(sentenceLineOriginal,sentencesModified, span, no, nameEntity, windowSize, entityInfo);
                 namedEntities.put(nameEntity, sentenceInfo);
                 nameEntitiesForSentence.add(nameEntity);
+                break;
             }
-
         }
+        /*System.out.println(nameEntitiesForSentence);
+        if(!nameEntitiesForSentence.isEmpty()){
+           String subject=  nameEntitiesForSentence.get(0);
+           EntityInfo EntityInfo=new EntityInfo(subject,"link",sentenceLine);
+        }*/
+        
 
     }
 
@@ -83,6 +93,16 @@ public class NamedEntity {
 
     public List<String> getNameEntitiesForSentence() {
         return nameEntitiesForSentence;
+    }
+
+    private String[] findSentenceArray(String sentenceLine) {
+        String tokens[] = tokenizer.tokenize(sentenceLine);
+        String[] sentences = new String[tokens.length];
+        Integer index = 0;
+        for (String token : tokens) {
+            sentences[index++] = token.trim();
+        }
+        return sentences;
     }
 
 }
